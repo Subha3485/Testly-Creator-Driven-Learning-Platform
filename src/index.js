@@ -7,18 +7,42 @@ import { getDatabaseConnectionStatus } from "./db.js";
 import { getRuntimeMode, resolveDbNameForMode } from "./runtime_mode.js";
 
 const PORT_RETRY_LIMIT = 10;
+const IS_DYNAMIC_PORT_ASSIGNED = typeof process.env.PORT !== "undefined";
 
-function buildPublicBaseUrl(port) {
+function buildPublicBaseUrl(host, port) {
+  if (IS_DYNAMIC_PORT_ASSIGNED) {
+    return `http://${host}:${port}`;
+  }
+
   try {
     const url = new URL(config.publicBaseUrl);
     url.port = String(port);
     return url.toString().replace(/\/$/, "");
   } catch {
-    return `http://${config.host}:${port}`;
+    return `http://${host}:${port}`;
   }
 }
 
 async function listenWithPortRetry(server, host, preferredPort) {
+  if (IS_DYNAMIC_PORT_ASSIGNED) {
+    await new Promise((resolve, reject) => {
+      const onError = (error) => {
+        server.off("listening", onListening);
+        reject(error);
+      };
+      const onListening = () => {
+        server.off("error", onError);
+        resolve();
+      };
+
+      server.once("error", onError);
+      server.once("listening", onListening);
+      server.listen(preferredPort, host);
+    });
+
+    return preferredPort;
+  }
+
   for (let index = 0; index < PORT_RETRY_LIMIT; index += 1) {
     const candidatePort = preferredPort + index;
     try {
@@ -60,7 +84,7 @@ try {
   const app = createApp(io);
   httpServer.on("request", app);
   const activePort = await listenWithPortRetry(httpServer, config.host, config.port);
-  const activeBaseUrl = buildPublicBaseUrl(activePort);
+  const activeBaseUrl = buildPublicBaseUrl(config.host, activePort);
 
   httpServer.on("error", (error) => {
     console.error("❌ Server runtime error.");
@@ -77,6 +101,7 @@ try {
     console.log("");
     console.log(`✅ Server running on: ${activeBaseUrl}`);
     console.log(`📍 Host: ${config.host}:${activePort}`);
+    console.log("🌐 Public URL will be provided by Render");
     console.log(`🔧 Server mode: ${config.serverMode}`);
     console.log(`🧭 Runtime data mode: ${getRuntimeMode()}`);
     console.log(`🗃️  Live DB: ${resolveDbNameForMode("live")}`);

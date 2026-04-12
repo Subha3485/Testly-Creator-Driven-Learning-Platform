@@ -19,7 +19,7 @@ The server now uses a single runtime env file: `server/.env`.
 Default local setup:
 
 - `SERVER_MODE=test`
-- `HOST=127.0.0.1`
+- `HOST=0.0.0.0`
 - `PUBLIC_BASE_URL=http://localhost:4000`
 - `ALLOWED_ORIGINS=*`
 
@@ -74,6 +74,11 @@ ALLOWED_ORIGINS=http://localhost:4000
 ```
 
 There is no separate `.env.test` or `.env.production` runtime path anymore.
+
+Render deployment note:
+
+- Do not set `PORT` in `.env` for Render.
+- Render injects `PORT` automatically and the server should bind to `0.0.0.0`.
 
 ## Current Data Model
 

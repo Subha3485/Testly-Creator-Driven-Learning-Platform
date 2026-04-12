@@ -5,10 +5,10 @@ export const config = {
   serverMode: process.env.SERVER_MODE ?? "test",
   runtimeDataMode: process.env.RUNTIME_DATA_MODE ?? "live",
   port: Number.parseInt(process.env.PORT ?? "4000", 10),
-  host: process.env.HOST ?? "127.0.0.1",
+  host: process.env.HOST ?? "0.0.0.0",
   publicBaseUrl:
     process.env.PUBLIC_BASE_URL ??
-    `http://localhost:${process.env.PORT ?? "4000"}`,
+    `http://${process.env.HOST ?? "0.0.0.0"}:${process.env.PORT ?? "4000"}`,
   mongodbUri: process.env.MONGODB_URI ?? "",
   mongodbDbName: process.env.MONGODB_DB_NAME ?? "buslogistic",
   mongodbDbNameLive: process.env.MONGODB_DB_NAME_LIVE ?? process.env.MONGODB_DB_NAME ?? "buslogistic_live",

@@ -26,6 +26,9 @@ if (fs.existsSync(envPath)) {
       value = value.slice(1, -1);
     }
 
-    process.env[key] = value;
+    // Keep platform-provided variables (for example Render PORT) untouched.
+    if (typeof process.env[key] === "undefined") {
+      process.env[key] = value;
+    }
   }
 }
