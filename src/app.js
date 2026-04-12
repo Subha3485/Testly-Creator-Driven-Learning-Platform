@@ -6,6 +6,8 @@ import { config } from "./config.js";
 import { clearRefreshCookie, parseCookies, setRefreshCookie } from "./http/cookies.js";
 import { requireAuth } from "./middleware/auth.js";
 import { broadcastTripEvent, broadcastTripUpdate } from "./realtime.js";
+import { getCollections, getDatabaseConnectionStatus, invalidateCache } from "./db.js";
+import { getAllowedRuntimeModes, getRuntimeMode, resolveDbNameForMode, setRuntimeMode } from "./runtime_mode.js";
 import {
   getIdentityFromAccessToken,
   listSessions,
@@ -31,6 +33,7 @@ import {
   getAllDrivers,
   getAllRoutes,
   getBookingById,
+  getDriverByPhone,
   getBookingsForUser,
   getDriverAssignment,
   getRouteById,
@@ -65,11 +68,44 @@ export function createApp(io) {
   app.use(express.json());
   app.use(express.static(path.resolve(__dirname, "../public")));
 
-  app.get("/health", (_req, res) => {
-    res.json({ ok: true, service: "buslogistic-server", timestamp: new Date().toISOString() });
+  app.get("/", (_req, res) => {
+    res.status(200).json({
+      ok: true,
+      service: "buslogistic-server",
+      message: "Server is running.",
+      routes: {
+        health: "/health",
+        admin: "/admin",
+        apiRoutes: "/api/routes"
+      }
+    });
+  });
+
+  app.get("/health", asyncHandler(async (_req, res) => {
+    const dbStatus = await getDatabaseConnectionStatus();
+    res.status(dbStatus.connected ? 200 : 503).json({
+      ok: dbStatus.connected,
+      service: "buslogistic-server",
+      timestamp: new Date().toISOString(),
+      database: dbStatus
+    });
+  }));
+
+  app.get("/api/runtime/mode", (_req, res) => {
+    const mode = getRuntimeMode();
+    res.json({
+      data: {
+        mode,
+        activeDbName: resolveDbNameForMode(mode)
+      }
+    });
   });
 
   app.get("/admin", (_req, res) => {
+    res.sendFile(path.resolve(__dirname, "../public/admin/index.html"));
+  });
+
+  app.get("/admin/*", (_req, res) => {
     res.sendFile(path.resolve(__dirname, "../public/admin/index.html"));
   });
 
@@ -78,7 +114,7 @@ export function createApp(io) {
   registerAuthRoutes(app, "/admin", "admin");
 
   app.get("/api/routes", asyncHandler(async (_req, res) => {
-    res.json({ data: (await getAllRoutes()).map(sanitizeRoute) });
+    res.json({ data: await getAllRoutes() });
   }));
 
   app.get("/api/routes/:routeId", asyncHandler(async (req, res) => {
@@ -86,11 +122,19 @@ export function createApp(io) {
     if (!route) {
       throw createBadRequest("Route not found.");
     }
-    res.json({ data: sanitizeRoute(route) });
+    res.json({ data: await sanitizeRoute(route) });
   }));
 
   app.get("/api/driver/:driverId/assignment", asyncHandler(async (req, res) => {
     res.json({ data: await getDriverAssignment(req.params.driverId) });
+  }));
+
+  app.get("/api/driver/by-phone/:phoneNumber", asyncHandler(async (req, res) => {
+    const driver = await getDriverByPhone(req.params.phoneNumber);
+    if (!driver) {
+      throw createBadRequest("Driver not found.");
+    }
+    res.json({ data: driver });
   }));
 
   app.get("/api/trips/:tripId", asyncHandler(async (req, res) => {
@@ -144,6 +188,42 @@ export function createApp(io) {
     res.json({ message: "Trip location updated.", data: location });
   }));
 
+  app.post("/api/bookings/:bookingId/passenger-location", asyncHandler(async (req, res) => {
+    const { lat, lng, accuracy } = req.body;
+    if (!lat || !lng) {
+      throw createBadRequest("Latitude and longitude are required.");
+    }
+    
+    const booking = await getBookingById(req.params.bookingId);
+    if (!booking) {
+      throw createBadRequest("Booking not found.");
+    }
+
+    // Store passenger location signal for analytics and backup tracking
+    const signalData = {
+      bookingId: req.params.bookingId,
+      lat: Number(lat),
+      lng: Number(lng),
+      accuracy: Number(accuracy ?? 0),
+      timestamp: new Date().toISOString()
+    };
+
+    // If booking is active with a trip, broadcast to subscribers
+    if (booking.slot?.busNumber) {
+      broadcastTripEvent(io, booking.id, {
+        type: "passenger.signal",
+        message: "Passenger location signal received",
+        time: new Date().toISOString(),
+        data: signalData
+      });
+    }
+
+    res.json({ 
+      message: "Passenger location recorded.", 
+      data: signalData 
+    });
+  }));
+
   app.use("/api/admin", requireAuth("admin"));
 
   app.get("/api/admin/summary", asyncHandler(async (_req, res) => {
@@ -180,6 +260,22 @@ export function createApp(io) {
     res.status(201).json({
       message: "Driver created successfully.",
       data: await createDriver(req.body)
+    });
+  }));
+
+  app.post("/api/admin/runtime/mode", asyncHandler(async (req, res) => {
+    const mode = String(req.body.mode ?? "").toLowerCase();
+    if (!getAllowedRuntimeModes().has(mode)) {
+      throw createBadRequest("mode must be one of: mock, live");
+    }
+    const updatedMode = setRuntimeMode(mode);
+    invalidateCache();
+    res.json({
+      message: "Runtime mode updated.",
+      data: {
+        mode: updatedMode,
+        activeDbName: resolveDbNameForMode(updatedMode)
+      }
     });
   }));
 
@@ -261,7 +357,7 @@ export function createApp(io) {
       throw createBadRequest("Booking not found.");
     }
 
-    const trip = booking.id === "BK-240301" ? await getTripTracking("trip-001") : null;
+    const trip = booking.busId ? await getTripTracking(booking.busId) : null;
 
     res.json({
       data: {
@@ -281,11 +377,13 @@ export function createApp(io) {
     if (!user) {
       throw createBadRequest("User not found.");
     }
+    const { payments } = await getCollections();
+    const paymentOptions = Array.from(new Set(await payments.distinct("method"))).filter(Boolean).sort();
     res.json({
       data: {
         userId: user.id,
         balance: user.walletBalance,
-        paymentOptions: ["UPI", "Wallet", "Cash at pickup"]
+        paymentOptions
       }
     });
   }));

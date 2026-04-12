@@ -15,6 +15,9 @@ export function createRealtimeServer(httpServer) {
   });
 
   io.on("connection", (socket) => {
+    console.log(`✅ Client connected successfully - Socket ID: ${socket.id}`);
+    console.log(`📊 Total active connections: ${io.engine.clientsCount}`);
+    
     socket.on("tracking:subscribe", async ({ tripId }) => {
       try {
         if (!tripId) {
@@ -60,6 +63,11 @@ export function createRealtimeServer(httpServer) {
       } catch (error) {
         socket.emit("tracking:error", { message: error.message });
       }
+    });
+
+    socket.on("disconnect", () => {
+      console.log(`🔌 Client disconnected - Socket ID: ${socket.id}`);
+      console.log(`📊 Total active connections: ${io.engine.clientsCount}`);
     });
   });
 

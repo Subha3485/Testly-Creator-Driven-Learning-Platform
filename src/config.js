@@ -2,13 +2,17 @@ const rawAllowedOrigins = process.env.ALLOWED_ORIGINS ?? "*";
 const cookieSecure = process.env.COOKIE_SECURE ?? "false";
 
 export const config = {
+  serverMode: process.env.SERVER_MODE ?? "test",
+  runtimeDataMode: process.env.RUNTIME_DATA_MODE ?? "live",
   port: Number.parseInt(process.env.PORT ?? "4000", 10),
-  host: process.env.HOST ?? "0.0.0.0",
+  host: process.env.HOST ?? "127.0.0.1",
   publicBaseUrl:
     process.env.PUBLIC_BASE_URL ??
     `http://localhost:${process.env.PORT ?? "4000"}`,
   mongodbUri: process.env.MONGODB_URI ?? "",
   mongodbDbName: process.env.MONGODB_DB_NAME ?? "buslogistic",
+  mongodbDbNameLive: process.env.MONGODB_DB_NAME_LIVE ?? process.env.MONGODB_DB_NAME ?? "buslogistic_live",
+  mongodbDbNameMock: process.env.MONGODB_DB_NAME_MOCK ?? process.env.MONGODB_DB_NAME ?? "buslogistic_mock",
   jwtAccessSecret: process.env.JWT_ACCESS_SECRET ?? "replace-this-access-secret",
   jwtRefreshSecret: process.env.JWT_REFRESH_SECRET ?? "replace-this-refresh-secret",
   jwtIssuer: process.env.JWT_ISSUER ?? "buslogistic-server",

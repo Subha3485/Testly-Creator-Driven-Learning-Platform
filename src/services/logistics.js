@@ -1,6 +1,15 @@
-import { getCollections } from "../db.js";
+import { cachedRead, getCollections, invalidateCache } from "../db.js";
 
 const BOOKING_STATUSES = ["booked", "loaded", "in_transit", "reached", "delivered"];
+const CACHE_TTL = {
+  routeById: 60_000,
+  routes: 60_000,
+  buses: 30_000,
+  drivers: 30_000,
+  bookings: 20_000,
+  bookingById: 20_000,
+  adminSummary: 15_000
+};
 
 export async function sanitizeRoute(route) {
   const stops = await getStopsForRoute(route._id);
@@ -19,8 +28,10 @@ export async function sanitizeRoute(route) {
 }
 
 export async function getRouteById(routeId) {
-  const { routes } = await getCollections();
-  return routes.findOne({ _id: routeId }, { projection: { _id: 1, routeName: 1, code: 1, basePrice: 1, perKmFare: 1, startLocation: 1, endLocation: 1, distance: 1, stopIds: 1, slots: 1 } });
+  return cachedRead(`route:${routeId}`, CACHE_TTL.routeById, async () => {
+    const { routes } = await getCollections();
+    return routes.findOne({ _id: routeId }, { projection: { _id: 1, routeName: 1, code: 1, basePrice: 1, perKmFare: 1, startLocation: 1, endLocation: 1, distance: 1, stopIds: 1, slots: 1 } });
+  });
 }
 
 export async function getUserById(userId) {
@@ -68,21 +79,27 @@ export async function getTripForDriver(driverId) {
 }
 
 export async function getAllRoutes() {
-  const { routes } = await getCollections();
-  const docs = await routes.find({}, { projection: { _id: 1, routeName: 1, code: 1, basePrice: 1, perKmFare: 1, startLocation: 1, endLocation: 1, distance: 1, stopIds: 1, slots: 1 } }).toArray();
-  return Promise.all(docs.map(sanitizeRoute));
+  return cachedRead("routes:list", CACHE_TTL.routes, async () => {
+    const { routes } = await getCollections();
+    const docs = await routes.find({}, { projection: { _id: 1, routeName: 1, code: 1, basePrice: 1, perKmFare: 1, startLocation: 1, endLocation: 1, distance: 1, stopIds: 1, slots: 1 } }).toArray();
+    return Promise.all(docs.map(sanitizeRoute));
+  });
 }
 
 export async function getAllBuses() {
-  const { buses } = await getCollections();
-  const docs = await buses.find({}).toArray();
-  return docs.map(serializeBus);
+  return cachedRead("buses:list", CACHE_TTL.buses, async () => {
+    const { buses } = await getCollections();
+    const docs = await buses.find({}).toArray();
+    return docs.map(serializeBus);
+  });
 }
 
 export async function getAllDrivers() {
-  const { users } = await getCollections();
-  const docs = await users.find({ role: "driver" }).toArray();
-  return docs.map(serializeUser);
+  return cachedRead("drivers:list", CACHE_TTL.drivers, async () => {
+    const { users } = await getCollections();
+    const docs = await users.find({ role: "driver" }).toArray();
+    return docs.map(serializeUser);
+  });
 }
 
 export function validateStopSequence(routeStops, pickupStopId, dropStopId) {
@@ -221,6 +238,14 @@ export async function createBooking({
     { $set: { capacityAvailable: Math.max(0, (bus.capacityTotal ?? 0) - booking.weight) } }
   );
 
+  invalidateCache([
+    "routes:list",
+    "buses:list",
+    `route:${routeId}`,
+    `bookings:user:${userId}`,
+    "admin:summary"
+  ]);
+
   return serializeBooking(booking);
 }
 
@@ -235,8 +260,8 @@ export async function createRoute({ name, code, baseFare, perKmFare, stops = [],
   const route = {
     _id: routeId,
     routeName: name,
-    startLocation: normalizedStops[0]?.name ?? "Unknown",
-    endLocation: normalizedStops.at(-1)?.name ?? "Unknown",
+    startLocation: normalizedStops[0]?.name ?? null,
+    endLocation: normalizedStops.at(-1)?.name ?? null,
     stopIds: normalizedStops.map((stop) => stop._id),
     distance: normalizedStops.at(-1)?.kmFromStart ?? 0,
     basePrice: Number(baseFare ?? 0),
@@ -249,6 +274,8 @@ export async function createRoute({ name, code, baseFare, perKmFare, stops = [],
   if (normalizedStops.length > 0) {
     await stopCollection.insertMany(normalizedStops);
   }
+
+  invalidateCache(["routes:list", `route:${routeId}`, "admin:summary"]);
 
   return sanitizeRoute(route);
 }
@@ -283,6 +310,7 @@ export async function createBus({ busNumber, capacityKg, routeId, driverId, stat
   };
 
   await buses.insertOne(bus);
+  invalidateCache(["buses:list", "admin:summary"]);
   return serializeBus(bus);
 }
 
@@ -305,6 +333,7 @@ export async function createDriver({ name, phoneNumber, badgeNumber, role = "dri
   };
 
   await users.insertOne(driver);
+  invalidateCache(["drivers:list", "admin:summary"]);
   return serializeUser(driver);
 }
 
@@ -326,6 +355,8 @@ export async function updateBookingStatus(bookingId, status) {
     { _id: bookingId },
     { $set: { status: booking.status, tracking: booking.tracking } }
   );
+
+  invalidateCache([`booking:${bookingId}`, `bookings:user:${booking.userId}`, "admin:summary"]);
 
   return serializeBooking(booking);
 }
@@ -373,15 +404,19 @@ export async function serializeBooking(booking) {
 }
 
 export async function getBookingsForUser(userId) {
-  const { bookings } = await getCollections();
-  const docs = await bookings.find({ userId }).sort({ createdAt: -1 }).toArray();
-  return Promise.all(docs.map((booking) => serializeBooking(booking)));
+  return cachedRead(`bookings:user:${userId}`, CACHE_TTL.bookings, async () => {
+    const { bookings } = await getCollections();
+    const docs = await bookings.find({ userId }).sort({ createdAt: -1 }).toArray();
+    return Promise.all(docs.map((booking) => serializeBooking(booking)));
+  });
 }
 
 export async function getBookingById(bookingId) {
-  const { bookings } = await getCollections();
-  const booking = await bookings.findOne({ _id: bookingId });
-  return booking ? serializeBooking(booking) : null;
+  return cachedRead(`booking:${bookingId}`, CACHE_TTL.bookingById, async () => {
+    const { bookings } = await getCollections();
+    const booking = await bookings.findOne({ _id: bookingId });
+    return booking ? serializeBooking(booking) : null;
+  });
 }
 
 export async function serializeTrip(busDoc) {
@@ -475,6 +510,8 @@ export async function updateTripStatus(busId, status) {
     time: new Date().toISOString()
   });
 
+  invalidateCache(["buses:list", "admin:summary"]);
+
   return serializeTrip({ ...bus, _id: busId, status: mappedStatus });
 }
 
@@ -518,6 +555,8 @@ export async function updateTripLocation({
     }
   );
 
+  invalidateCache(["buses:list", "admin:summary"]);
+
   return {
     tripId,
     driverId,
@@ -553,6 +592,8 @@ export async function updateTripStop({ tripId, currentStopId, nextStopId, messag
     time: new Date().toISOString()
   });
 
+  invalidateCache(["buses:list", "admin:summary"]);
+
   return serializeTrip({
     ...bus,
     _id: tripId,
@@ -563,7 +604,7 @@ export async function updateTripStop({ tripId, currentStopId, nextStopId, messag
 
 export async function appendTripEvent(busId, event) {
   const { bookings } = await getCollections();
-  const busBookings = await bookings.find({ busId }, { projection: { _id: 1, tracking: 1 } }).toArray();
+  const busBookings = await bookings.find({ busId }, { projection: { _id: 1, userId: 1, tracking: 1 } }).toArray();
 
   await Promise.all(
     busBookings.map((booking) =>
@@ -577,15 +618,23 @@ export async function appendTripEvent(busId, event) {
       )
     )
   );
+
+  invalidateCache([
+    ...busBookings.map((booking) => `booking:${booking._id}`),
+    ...busBookings.map((booking) => `bookings:user:${booking.userId}`),
+    "admin:summary"
+  ]);
 }
 
 export async function getAdminSummary() {
-  const [routes, buses, drivers, bookings] = await Promise.all([
-    getAllRoutes(),
-    getAllBuses(),
-    getAllDrivers(),
-    getAllBookings()
-  ]);
+  const [routes, buses, drivers, bookings] = await cachedRead("admin:summary", CACHE_TTL.adminSummary, async () => {
+    return Promise.all([
+      getAllRoutes(),
+      getAllBuses(),
+      getAllDrivers(),
+      getAllBookings()
+    ]);
+  });
 
   const activeTrips = buses.filter((bus) => bus.status === "Assigned");
   const activeBookings = bookings.filter((booking) => booking.status !== "Delivered").length;
@@ -684,7 +733,7 @@ function normalizeStops(routeId, stops) {
       order: index + 1,
       routeId,
       kmFromStart: Number(stop.kmFromStart ?? index * 20),
-      region: stop.region ?? "Unknown"
+      region: stop.region ?? null
     }));
 }
 
@@ -696,7 +745,7 @@ function normalizeSlots(slots) {
       time: slot.time,
       arrival: slot.arrival ?? slot.time,
       capacityUsed: Number(slot.capacityUsed ?? 0),
-      busNumber: slot.busNumber ?? "Pending"
+      busNumber: slot.busNumber ?? null
     }));
 }
 
@@ -767,7 +816,7 @@ function serializeStop(stop) {
     id: stop._id ?? stop.id,
     name: stop.name,
     kmFromStart: stop.kmFromStart ?? 0,
-    region: stop.region ?? "Unknown",
+    region: stop.region ?? null,
     location: stop.location ?? null,
     order: stop.order ?? null,
     routeId: stop.routeId ?? null

@@ -19,8 +19,20 @@ export async function sendOtp({ phoneNumber, role }) {
   const identity = await resolveIdentityByPhone({ phoneNumber, role });
   const existing = await findLatestOtpSession({ phone: phoneNumber, role });
 
-  if (existing && existing.status === "pending" && Date.now() - new Date(existing.createdAt).getTime() < RESEND_COOLDOWN_MS) {
-    throw createBadRequest("OTP resend is cooling down. Try again shortly.");
+  if (existing && existing.status === "pending" && Date.now() < new Date(existing.resendAvailableAt).getTime()) {
+    return {
+      sessionId: existing._id,
+      phoneNumber: maskPhoneNumber(phoneNumber),
+      expiresInSeconds: Math.max(
+        0,
+        Math.floor((new Date(existing.expiresAt).getTime() - Date.now()) / 1000)
+      ),
+      resendInSeconds: Math.max(
+        0,
+        Math.floor((new Date(existing.resendAvailableAt).getTime() - Date.now()) / 1000)
+      ),
+      otpPreview: config.otpFixedCode || undefined
+    };
   }
 
   const code = await generateOtpCode();
@@ -340,7 +352,7 @@ function signAccessToken({ userId, role, sessionId }) {
 
 function signRefreshToken({ userId, role, sessionId, jti }) {
   return jwt.sign(
-    { role, type: "refresh", sid: sessionId, jti },
+    { role, type: "refresh", sid: sessionId },
     config.jwtRefreshSecret,
     {
       issuer: config.jwtIssuer,
@@ -356,7 +368,7 @@ function verifyJwt(token, secret, expectedType) {
   try {
     decoded = jwt.verify(token, secret, { issuer: config.jwtIssuer });
   } catch {
-    throw createBadRequest("Invalid token.");
+    throw createBadRequest("Admin session expired. Please sign in again.");
   }
 
   if (decoded.type !== expectedType) {

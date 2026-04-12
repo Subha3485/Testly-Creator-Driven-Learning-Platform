@@ -14,15 +14,29 @@ npm install
 npm run dev
 ```
 
+The server now uses a single runtime env file: `server/.env`.
+
+Default local setup:
+
+- `SERVER_MODE=test`
+- `HOST=127.0.0.1`
+- `PUBLIC_BASE_URL=http://localhost:4000`
+- `ALLOWED_ORIGINS=*`
+
 Default port: `4000`
 
-For production-style local config, copy `.env.example` to `.env` and set:
+`server/.env.example` includes a Mongo-backed template for local development. Copy the values you need into `server/.env`.
+
+If you want MongoDB-backed local runs, update the same `.env` file and set:
 
 - `PORT`
 - `HOST`
 - `PUBLIC_BASE_URL`
+- `SERVER_MODE`
 - `MONGODB_URI`
 - `MONGODB_DB_NAME`
+- `MONGODB_DB_NAME_LIVE`
+- `MONGODB_DB_NAME_MOCK`
 - `JWT_ACCESS_SECRET`
 - `JWT_REFRESH_SECRET`
 - `JWT_ISSUER`
@@ -44,6 +58,22 @@ For production-style local config, copy `.env.example` to `.env` and set:
 - `MSG91_TEMPLATE_ID`
 - `MSG91_SENDER_ID`
 - `ALLOWED_ORIGINS`
+
+Minimum Mongo-backed local setup:
+
+```env
+SERVER_MODE=live
+HOST=127.0.0.1
+PORT=4000
+PUBLIC_BASE_URL=http://localhost:4000
+MONGODB_URI=mongodb://127.0.0.1:27017
+MONGODB_DB_NAME=buslogistic
+MONGODB_DB_NAME_LIVE=buslogistic_live
+MONGODB_DB_NAME_MOCK=buslogistic_mock
+ALLOWED_ORIGINS=http://localhost:4000
+```
+
+There is no separate `.env.test` or `.env.production` runtime path anymore.
 
 ## Current Data Model
 
@@ -159,7 +189,8 @@ curl -X POST http://localhost:4000/api/bookings \
 
 ## Notes
 
-- The server seeds the demo dataset into MongoDB on first start.
+- The runtime mode switch uses MongoDB-backed datasets: `live` mode reads `MONGODB_DB_NAME_LIVE`, `mock` mode reads `MONGODB_DB_NAME_MOCK`.
+- Cache is used only as a read-through acceleration layer; MongoDB remains the source of truth.
 - Admin APIs now require an admin JWT access token.
 - Refresh tokens can be supplied by body or the HTTP-only refresh cookie.
 - Session inventory and revocation endpoints are available for customer, driver, and admin auth flows.
