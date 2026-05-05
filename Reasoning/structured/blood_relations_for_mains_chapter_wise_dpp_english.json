@@ -1,0 +1,1709 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nR@S means R is married to S\nR#S means R is parent of S\nR&S means R is sibling of S and both are of\nsame gender\nR$S means R is sibling of S and both are of\ndifferent gender\nR+ means R is male R* means R is female\nIf Q@U*#G$V, E@V+#Y&Z, U#J#W, J+@D#M is\ntrue and W is only niece of G then, how many\nmale members are in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Seven"
+      },
+      {
+        "id": "E",
+        "text": "Six"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Q2\nText Solution:\nMale +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are eight persons and three generations\nin a family. E is a sister-in-law of F, who is the\nfather-in-law of G. A is the only son of B. D is a\nspouse of C. F does not have any brother or\nsister. H, who is the mother of B, is a spouse of F.\nC is a male member. B is a son-in-law of C.\nHow is B related to E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Niece"
+      },
+      {
+        "id": "B",
+        "text": "Son"
+      },
+      {
+        "id": "C",
+        "text": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Nephew"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are eight persons and three generations\nin a family. E is a sister-in-law of F, who is the\nfather-in-law of G. A is the only son of B. D is a\nspouse of C. F does not have any brother or\nsister. H, who is the mother of B, is a spouse of F.\nC is a male member. B is a son-in-law of C.\nHow many male members are in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are eight persons and three generations\nin a family. E is a sister-in-law of F, who is the\nfather-in-law of G. A is the only son of B. D is a\nspouse of C. F does not have any brother or\nsister. H, who is the mother of B, is a spouse of F.\nC is a male member. B is a son-in-law of C.\nWho among the following person is the\npaternal grandfather of A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "H"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nBlood Relation\nLevel-1",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are nine members P, Q, R, S, T, U, V, W,\nand X in the family of three generations. There\nare only three female members in the family. S is\nthe grandmother of X, who has no children. Q is\nthe daughter of P, whose husband/wife is alive.\nX is the daughter of V. Both W and U are\nbrothers and are the children of V. P is married\nto S. Each female has two sons and one\ndaughter except the third-generation female.\nWhat is the relation of V with respect to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sister in law"
+      },
+      {
+        "id": "B",
+        "text": "Brother"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Brother in law"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Level-1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are nine members P, Q, R, S, T, U, V, W,\nand X in the family of three generations. There\nare only three female members in the family. S is\nthe grandmother of X, who has no children. Q is\nthe daughter of P, whose husband/wife is alive.\nX is the daughter of V. Both W and U are\nbrothers and are the children of V. P is married\nto S. Each female has two sons and one\ndaughter except the third-generation female.\nWho among the following person is the nephew\nof T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X"
+      },
+      {
+        "id": "B",
+        "text": "W"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "Can’t be determined"
+      },
+      {
+        "id": "E",
+        "text": "Both B and C"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThere are nine members P, Q, R, S, T, U, V, W,\nand X in the family of three generations. There\nare only three female members in the family. S is\nthe grandmother of X, who has no children. Q is\nthe daughter of P, whose husband/wife is alive.\nX is the daughter of V. Both W and U are\nbrothers and are the children of V. P is married\nto S. Each female has two sons and one\ndaughter except the third-generation female.\nWho among the following person is the son of\nV?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U"
+      },
+      {
+        "id": "B",
+        "text": "X"
+      },
+      {
+        "id": "C",
+        "text": "W"
+      },
+      {
+        "id": "D",
+        "text": "Both W & U"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-2",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer \nthe \nquestions\naccordingly.\nIn a family of 11 members A to K. Each male has\none brother and one sister. Only married couple\nhas children.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling. H is the\ngrandson of C. B is sister of K. A is sister of F but\nnot sister of H. G is brother of I.\nHow C is related to A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sister"
+      },
+      {
+        "id": "B",
+        "text": "Sister in law"
+      },
+      {
+        "id": "C",
+        "text": "Wife"
+      },
+      {
+        "id": "D",
+        "text": "Brother"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\nB is sister of K. A is sister of F but not sister of H.\nG is brother of I.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-2",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer \nthe \nquestions\naccordingly.\nIn a family of 11 members A to K. Each male has\none brother and one sister. Only married couple\nhas children.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling. H is the\ngrandson of C. B is sister of K. A is sister of F but\nnot sister of H. G is brother of I.\nHow E is related to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daughter in law"
+      },
+      {
+        "id": "B",
+        "text": "Mother in law"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Sister in law"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\n \nLevel-2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a family of 11 members A to K. Each male has\none brother and one sister. Only married couple\nhas children.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling. H is the\ngrandson of C. B is sister of K. A is sister of F but\nnot sister of H. G is brother of I.\nHow K is related to C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Son"
+      },
+      {
+        "id": "D",
+        "text": "Wife"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\nB is sister of K. A is sister of F but not sister of H.\nG is brother of I.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a family of 11 members A to K. Each male has\none brother and one sister. Only married couple\nhas children.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling. H is the\ngrandson of C. B is sister of K. A is sister of F but\nnot sister of H. G is brother of I.\n \nLevel-2",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a combined family of Nine members. In\nthis three generation family having four married\ncouple.\nWife of J has no sibling but her son in law is P. B\nand J are married couple. J is Brother-in-law of\nD who is Father of C. C is a male member. A has\nno grandchild but only a daughter no son. L\nand K are family member. U is married to C. L is\nnot daughter of A.\nHow C is related to L?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daughter"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Son"
+      },
+      {
+        "id": "D",
+        "text": "Mother"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Wife of J has no sibling but her son in law is P.\nB and J are married couple. J is Brother-in-law\nof D who is Father of C. C is a male member.\nA has no grandchild but only a daughter no\nson. L and K are family member. U is married to\nC. L is not daughter of A.\nSo A is wife of P.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a combined family of Nine members. In\nthis three generation family having four married\ncouple.\nWife of J has no sibling but her son in law is P. B\nand J are married couple. J is Brother-in-law of\nD who is Father of C. C is a male member. A has\nno grandchild but only a daughter no son. L\nand K are family member. U is married to C. L is\nnot daughter of A.\nHow J is related to K?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Grand Son"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Grand Father"
+      },
+      {
+        "id": "D",
+        "text": "Sister"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Wife of J has no sibling but her son in law is P.\nB and J are married couple. J is Brother-in-law\nof D who is Father of C. C is a male member.\nA has no grandchild but only a daughter no\nson. L and K are family member. U is married to\nC. L is not daughter of A.\nSo A is wife of P.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a combined family of Nine members. In\nthis three generation family having four married\ncouple.\nWife of J has no sibling but her son in law is P. B\nand J are married couple. J is Brother-in-law of\nD who is Father of C. C is a male member. A has\nno grandchild but only a daughter no son. L\nand K are family member. U is married to C. L is\nnot daughter of A.\nHow is A related to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son"
+      },
+      {
+        "id": "B",
+        "text": "Brother"
+      },
+      {
+        "id": "C",
+        "text": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Father"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Wife of J has no sibling but her son in law is P.\nB and J are married couple. J is Brother-in-law\nof D who is Father of C. C is a male member.\nA has no grandchild but only a daughter no\nson. L and K are family member. U is married to\nC. L is not daughter of A.\nSo A is wife of P.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a family of M, N, O, P, Q R, S , T, U. Each\nmale has sister. Only married couple has\nchildren. O is brother-in-law of P. N is son of M.\nQ is daughter-in-law of P. T is grand daughter\nof P. S is married to O. N is the father of T. S has\nno sibling. R is not belongs to O’s generation.\nHow M is related to Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Brother"
+      },
+      {
+        "id": "C",
+        "text": "Son"
+      },
+      {
+        "id": "D",
+        "text": "Mother in law"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Each male has sister.\nN is son of M. Q is daughter-in-law of P.\nT is grand daughter of P. S is married to O.O is\nbrother-in-law of P.S has no sibling.\nN is the father of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a family of M, N, O, P, Q R, S , T, U. Each\nmale has sister. Only married couple has\nchildren. O is brother-in-law of P. N is son of M.\nQ is daughter-in-law of P. T is grand daughter\nof P. S is married to O. N is the father of T. S has\nno sibling. R is not belongs to O’s generation.\nHow Q is related to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sister"
+      },
+      {
+        "id": "B",
+        "text": "Sister in law"
+      },
+      {
+        "id": "C",
+        "text": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Mother"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Each male has sister.\nN is son of M. Q is daughter-in-law of P.\nT is grand daughter of P. S is married to O.O is\nbrother-in-law of P.S has no sibling.\nN is the father of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a family of M, N, O, P, Q R, S , T, U. Each\nmale has sister. Only married couple has\nchildren. O is brother-in-law of P. N is son of M.\nQ is daughter-in-law of P. T is grand daughter\nof P. S is married to O. N is the father of T. S has\nno sibling. R is not belongs to O’s generation.\nHow R is related to T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sister"
+      },
+      {
+        "id": "B",
+        "text": "Mother"
+      },
+      {
+        "id": "C",
+        "text": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Aunt"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Each male has sister.\nN is son of M. Q is daughter-in-law of P.\nT is grand daughter of P. S is married to O.O is\nbrother-in-law of P.S has no sibling.\nN is the father of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a family of M, N, O, P, Q R, S , T, U. Each\nmale has sister. Only married couple has\nchildren. O is brother-in-law of P. N is son of M.\nQ is daughter-in-law of P. T is grand daughter\nof P. S is married to O. N is the father of T. S has\nno sibling. R is not belongs to O’s generation.\nHow many couple in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Four"
+      },
+      {
+        "id": "D",
+        "text": "One"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Each male has sister.\nN is son of M. Q is daughter-in-law of P.\nT is grand daughter of P. S is married to O.O is\nbrother-in-law of P.S has no sibling.\nN is the father of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere is a family of M, N, O, P, Q R, S , T, U. Each\nmale has sister. Only married couple has\nchildren. O is brother-in-law of P. N is son of M.\nQ is daughter-in-law of P. T is grand daughter\nof P. S is married to O. N is the father of T. S has\nno sibling. R is not belongs to O’s generation.\nHow many females in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Six"
+      },
+      {
+        "id": "D",
+        "text": "Five"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Each male has sister.\nN is son of M. Q is daughter-in-law of P.\nT is grand daughter of P. S is married to O.O is\nbrother-in-law of P.S has no sibling.\nN is the father of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA family consists of nine people, including three\nmarried couples. There is no child of a single\nparent. B is E's father-in-law, and E is G's only\ndaughter-in-law. P and X are both siblings. O is\nthe only son of Y, who is the only son of G. Then\nQ is P's sister's brother-in-law. G has three kids.\nThe uncle of W is Y. The genders of W and X are\nthe same.\nHow many male family members are there?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      },
+      {
+        "id": "E",
+        "text": "Can’t be determined"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "According to the given conditions family chart\nwill be:-\nAccording to the family chart, we can say that:\n4 male family members are there.\nHence, the correct answer is option B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA family consists of nine people, including three\nmarried couples. There is no child of a single\nparent. B is E's father-in-law, and E is G's only\ndaughter-in-law. P and X are both siblings. O is\nthe only son of Y, who is the only son of G. Then\nQ is P's sister's brother-in-law. G has three kids.\nThe uncle of W is Y. The genders of W and X are\nthe same.\nWhat is O's relationship to W?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Niece"
+      },
+      {
+        "id": "B",
+        "text": "Nephew"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Brother"
+      },
+      {
+        "id": "E",
+        "text": "Cousin"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "According to the given conditions family chart\nwill be:-\nAccording to the family chart, we can say that:\nO is the cousin of W.\nHence, the correct answer is option E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "According to the given conditions family chart\nwill be:-\nAccording to the family chart, we can say that:\nP and X are E's sister-in-law.\nHence, the correct answer is option D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA family consists of seven members namely A, B,\nC, D, E, F and G. In a family there are three\nchildren and four are adults. Among the\nchildren, only F and G are boys. A and D are\nsisters and A is Surgeon. E is the Teacher\nmarried to A and has only two children. B is\nmarried to D and G is their only child.\nHow is A related to G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Daughter"
+      },
+      {
+        "id": "B",
+        "text": "Maternal Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Mother"
+      },
+      {
+        "id": "D",
+        "text": "Sister"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-2",
+    "question": "Directions : Study the given information\ncarefully and answer the questions that follow:\nW @ M means W is the father of M.\nW $ M means W is the mother of M.\nW % M means W is the sister of M.\nW ~ M means W is the husband of M.\nW & M means W is the wife of M.\nW * M means W is the brother of M.\nIn a family, the following relationships are\nknown:\nK & Y @ H; E % R ~ V; H ~ E; D $ R @ A; D & S\nWhich of the following is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D $ H"
+      },
+      {
+        "id": "B",
+        "text": "V % S"
+      },
+      {
+        "id": "C",
+        "text": "S @ H"
+      },
+      {
+        "id": "D",
+        "text": "V $ A"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "K & Y @ H: K is the wife of Y, Y is the father of H\nE % R ~ V: E is the sister of R, R is the husband of\nV\nH ~ E: H is the husband of E\nD $ R @ A: D is the mother of R, R is the father of\nA",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-2",
+    "question": "Directions:Read \nthe \nfollowing \ninformation\ncarefully and answer the questions given\nbelow.\n‘A @ B’ means ‘A is the spouse of B’.\n‘A#B’ means ‘A is the brother of B’.\n‘A%B’ means ‘A is the daughter of B’.\n‘A*B’ means ‘A is the mother of B’.\n‘A$B’ means ‘A is the sister of B’.\nNow Answer the following questions based on\nthe above relations.\nIf the expression ‘G % H @ C $ P # U *E’ holds\ntrue, then which of the following statements is\ndefinitely false?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H is the brother-in-law of P."
+      },
+      {
+        "id": "B",
+        "text": "E is the brother of C."
+      },
+      {
+        "id": "C",
+        "text": "C is the sister of U."
+      },
+      {
+        "id": "D",
+        "text": "U is the aunt of G."
+      },
+      {
+        "id": "E",
+        "text": "P is the uncle of G."
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: G % H @ C $ P # U *E\nAfter decoding the codes we get,\nG is the daughter of H. H is the spouse of C. C is\nthe sister of P. P is the brother of U. U is the\nmother of E.\nThe family tree:\nHence, E is the brother of C is the only false\nstatement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-2",
+    "question": "Directions:Read \nthe \nfollowing \ninformation\ncarefully and answer the questions given\nbelow.\n‘A @ B’ means ‘A is the spouse of B’.\n‘A#B’ means ‘A is the brother of B’.\n‘A%B’ means ‘A is the daughter of B’.\n‘A*B’ means ‘A is the mother of B’.\n‘A$B’ means ‘A is the sister of B’.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Given expression: Q # B * D $ E @ F $ H\nAfter decoding the codes we get,\nQ is the brother of B. B is the mother of D. D is\nthe sister of E. E is the spouse of F. F is the sister\nof H.\nThe family tree:\nHence, E is the brother-in-law of H.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-2",
+    "question": "Directions:Read \nthe \nfollowing \ninformation\ncarefully and answer the questions given\nbelow.\n‘A @ B’ means ‘A is the spouse of B’.\n‘A#B’ means ‘A is the brother of B’.\n‘A%B’ means ‘A is the daughter of B’.\n‘A*B’ means ‘A is the mother of B’.\n‘A$B’ means ‘A is the sister of B’.\nNow Answer the following questions based on\nthe above relations.\nIn the expression ‘S @ C % D @ E * F’, how is S\nrelated to E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son"
+      },
+      {
+        "id": "B",
+        "text": "Son-in-law"
+      },
+      {
+        "id": "C",
+        "text": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Daughter-in-law"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: S @ C % D @ E * F\nAfter decoding the codes we get,\nS is the spouse of C. C is the daughter of D. D is\nthe spouse of E. E is the mother of F.\nThe family tree:\nHence, S is the son-in-law of E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-2",
+    "question": "Read the following information to answer the\nquestions.\n‘P + Q’ means ‘P is the brother of Q’.\n‘P - Q’ means ‘P is the husband of Q’.\n‘P × Q’ means ‘P is the grandparent of Q’.\n‘P ÷ Q’ means ‘P is the parent of Q’.\nWhat is represented by ‘D ÷ A ÷ B + C – E’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A is son of E"
+      },
+      {
+        "id": "B",
+        "text": "E is grandson of A"
+      },
+      {
+        "id": "C",
+        "text": "C is grandson of D"
+      },
+      {
+        "id": "D",
+        "text": "D is father of B"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: D ÷ A ÷ B + C – E\nAfter decoding the codes we get,\nD is the parent of A, A is the parent of B, B is the\nbrother of C and C is the husband of E.\nThe family tree:\nHence, C is grandson of D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "Level-2",
+    "question": "Read the following information to answer the\nquestions.\n‘P + Q’ means ‘P is the brother of Q’.\n‘P - Q’ means ‘P is the husband of Q’.\n‘P × Q’ means ‘P is the grandparent of Q’.\n‘P ÷ Q’ means ‘P is the parent of Q’.\nWhich option represents C is the grandparent\nof B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C × A + B ÷ D"
+      },
+      {
+        "id": "B",
+        "text": "A ÷ D - C ÷ B"
+      },
+      {
+        "id": "C",
+        "text": "B ÷ D + A – C"
+      },
+      {
+        "id": "D",
+        "text": "A + B × D ÷ C"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "In this type of questions, we solve by option\nmethod.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "Level-2",
+    "question": "Read the following information to answer the\nquestions.\n‘P + Q’ means ‘P is the brother of Q’.\n‘P - Q’ means ‘P is the husband of Q’.\n‘P × Q’ means ‘P is the grandparent of Q’.\n‘P ÷ Q’ means ‘P is the parent of Q’.\nWho is A’s daughter in law according to ‘A - C ÷\nD + B - E’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "D"
+      },
+      {
+        "id": "D",
+        "text": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: ‘A - C ÷ D + B - E’\nAfter decoding the codes we get,\nA is the husband of C, C is the parent of D, D is\nthe brother of B and B is the husband of E.\nThe family tree:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "Level-2",
+    "question": "Read the following information carefully and\nanswer the question below:\nIf ‘A * B means ‘A is the father of ‘B.\nIf ’A + B’ means ‘A is wife of B’.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "It’s clear from the family tree that L is\nGranddaughter of Q.\nHence, the Option A is Correct answer .",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "Level-2",
+    "question": "Read the given information carefully and\nanswer the questions based on it:\nIn a definite code language,\nP@Q means P is daughter of Q\nP+Q means P is spouse of Q\nP/Q means P is brother of Q\nP%Q means P is mother of Q\nP θ Q means P is son of Q\nIf the expression ‘ B / Z / A @ Q + Y θ J’ is true,\nthen how is Y related to A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Father"
+      },
+      {
+        "id": "B",
+        "text": "Grandfather"
+      },
+      {
+        "id": "C",
+        "text": "Brother"
+      },
+      {
+        "id": "D",
+        "text": "Son"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: B / Z / A @ Q + Y θ J\nAfter decoding the codes, we get B is brother of\nZ. Z is brother of A. A is daughter of Q. Q is\nspouse of Y. Y is son of J.\nThe family tree formed after decoding the code\nis:\nHence, Y is father of A.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "Level-2",
+    "question": "Read the given information carefully and\nanswer the questions based on it:\nIn a definite code language,\nP@Q means P is daughter of Q\nP+Q means P is spouse of Q\nP/Q means P is brother of Q\nP%Q means P is mother of Q\nP θ Q means P is son of Q\nIf the expression ‘ F@P+C/H%B@A’ is true, then\nwhich of the following will be true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P is sister-in-law of H"
+      },
+      {
+        "id": "B",
+        "text": "F and B are cousin"
+      },
+      {
+        "id": "C",
+        "text": "All are true"
+      },
+      {
+        "id": "D",
+        "text": "A and C are of same gender"
+      },
+      {
+        "id": "E",
+        "text": "C is maternal uncle of B"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: F @ P + C / H % B @ A\nAfter decoding the code, we get, F is daughter\nof P. P is spouse of C. C is brother of H. H is\nmother of B. B is son of A.\nThe family tree formed after decoding the code\nis:\nHence, all statements are true.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "Level-2",
+    "question": "Read the given information carefully and\nanswer the questions based on it:\nIn a definite code language,\nP@Q means P is daughter of Q\nP+Q means P is spouse of Q\nP/Q means P is brother of Q\nP%Q means P is mother of Q\nP θ Q means P is son of Q\nIf the expression ‘ K + G @ T % P θ L’ is true, then\nhow is L related to K?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Father-in-law"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Mother-in-law"
+      },
+      {
+        "id": "D",
+        "text": "Mother"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: K + G @ T % P θ L\nAfter decoding the code, we get, K is spouse of\nG. G is daughter of T. T is mother of P. P is son of\nL.\nThe family tree formed after decoding the code\nis:\nHence, L is father-in-law of K.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly. \n2 * 3 ➝ 2 is the husband of 3.\n2 & 3 ➝ 3 is the daughter-in-law of 2.\n2 % 3 ➝ 2 is the wife of 3.\n2 # 3 ➝ 2 is the son of 3.\n2 @ 3 ➝ 3 is the child of 2.\n2 © 3 ➝ 2 is the parent of 3.\n2 $ 3 ➝ 2 is elder than 3.\nIf C @ E * F & G % I is true and the age of I is 40\nyears, then what could be the age of F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "32 years"
+      },
+      {
+        "id": "B",
+        "text": "35 years"
+      },
+      {
+        "id": "C",
+        "text": "65 years"
+      },
+      {
+        "id": "D",
+        "text": "38 years"
+      },
+      {
+        "id": "E",
+        "text": "36 years"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: C @ E * F & G % I\nAfter decoding the codes we get,\nE is the child of C. E is the husband of F. G is the\ndaughter-in-law of F. G is the wife of I.\nThe family tree:\nHence, the age of F may be 65 years.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly. \n2 * 3 ➝ 2 is the husband of 3.\n2 & 3 ➝ 3 is the daughter-in-law of 2.\n2 % 3 ➝ 2 is the wife of 3.\n2 # 3 ➝ 2 is the son of 3.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Given expression: C @ E * F & G % I\nAfter decoding the codes we get,\nE is the child of C. E is the husband of F. F is the\ndaughter-in-law of G. G is the wife of I.\nThe family tree:\nHence, E is the father-in-law of G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-2",
+    "question": "@ 3 ➝ 3 is the child of 2.\n2 © 3 ➝ 2 is the parent of 3.\n2 $ 3 ➝ 2 is elder than 3.\nIf C @ E * F & G % I is true then how E is related\nto G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mother"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Mother-in-law"
+      },
+      {
+        "id": "D",
+        "text": "Father-in-law"
+      },
+      {
+        "id": "E",
+        "text": "Cant determine"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\nB is sister of K. A is sister of F but not sister of H.\nG is brother of I.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly. \n2 * 3 ➝ 2 is the husband of 3.\n2 & 3 ➝ 3 is the daughter-in-law of 2.\n2 % 3 ➝ 2 is the wife of 3.\n2 # 3 ➝ 2 is the son of 3.\n2 @ 3 ➝ 3 is the child of 2.\n2 © 3 ➝ 2 is the parent of 3.\n2 $ 3 ➝ 2 is elder than 3.\nIf J * O © Q $ P # O and Q © T % U is true, then\nhow is P related to T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Brother"
+      },
+      {
+        "id": "B",
+        "text": "Father"
+      },
+      {
+        "id": "C",
+        "text": "Uncle"
+      },
+      {
+        "id": "D",
+        "text": "Aunt"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Given expression: J * O © Q $ P # O and Q © T\n% U\nAfter decoding the codes we get,\nJ is the husband of O. O is the parent of Q. Q is\nelder than P. P is the son of O. Q is the parent of\nT. T is the wife of U.\nThe family tree:\nHence, P is the uncle of T.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n(i) Z ⟰ Y means Z is the brother Y.\n(ii) Z % Y means Z is the father of Y.\n(iii) Z * Y means Z is the sister of Y.\n(iv) Z @ Y means Z is the Son of Y.\n(v) Z $ Y means Z is the daughter Y.\n(vi) Z ? Y means Z is the mother of Y.\nIn expression Q ? P, P ⟰ A % W ⟰ D ? E * F @ H\n@ R, then, how is Q related to E’s mother?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Maternal Grandfather"
+      },
+      {
+        "id": "B",
+        "text": "Paternal Grandfather"
+      },
+      {
+        "id": "C",
+        "text": "Paternal Grandmother"
+      },
+      {
+        "id": "D",
+        "text": "Maternal Grandmother"
+      },
+      {
+        "id": "E",
+        "text": "Either \"Maternal Grandfather\" or \"Paternal\nGrandmother\""
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Q33\nText Solution:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "Level-2",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully and answer the questions given\nbelow:\n(i) Z ⟰ Y means Z is the brother Y.\n(ii) Z % Y means Z is the father of Y.\n(iii) Z * Y means Z is the sister of Y.\n(iv) Z @ Y means Z is the Son of Y.\n(v) Z $ Y means Z is the daughter Y.\n(vi) Z ? Y means Z is the mother of Y.\nIn expression Q ⟰ G, G ⟰ A % C ⟰ D ? E * F @ H\n@ R, then, how is F related to A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son"
+      },
+      {
+        "id": "B",
+        "text": "Grandson"
+      },
+      {
+        "id": "C",
+        "text": "Granddaughter"
+      },
+      {
+        "id": "D",
+        "text": "Either 2 or 3"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "34",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nR@S means R is married to S\nR#S means R is parent of S\nR&S means R is sibling of S and both are of\nsame gender\nR$S means R is sibling of S and both are of\ndifferent gender\nR+ means R is male R* means R is female\nIf Q@U*#G$V, E@V+#Y&Z, U#J#W is true and W\nis only a niece of G then, how is J related to Y?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uncle"
+      },
+      {
+        "id": "B",
+        "text": "Aunt"
+      },
+      {
+        "id": "C",
+        "text": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Brother"
+      },
+      {
+        "id": "E",
+        "text": "Can't be determined"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Q35\nText Solution:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "35",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions given below:",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "36",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA family has eight persons and three married\ncouples in a family. Both mother and father are\nalive in the family. H is the sister-in-law of G. F is\nthe only son of E who is the spouse of D. H is the\naunt of C. A is the only kid of H. H is not married\nto F. G is the sister-in-law of H. B is the son-in-\nlaw of D who is the grandfather of A.\nHow is A related to F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Niece"
+      },
+      {
+        "id": "B",
+        "text": "Nephew"
+      },
+      {
+        "id": "C",
+        "text": "Either Niece Or Nephew"
+      },
+      {
+        "id": "D",
+        "text": "Son"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-3",
+    "question": "Directions : Study the following information\ncarefully and answer the below questions.\nIn a family of eight members – B, E, G, K, M, P, T,\nand X form three generations. Two married\ncouples are there in the family. B’s only\ndaughter G has 375 toffees initially, she took 12\nand gives the remaining to her sibling M. M took\n27 toffees and gives the remaining to his\nfather’s sister E. B is the father-in-law of P’s\nmother. E took 1/3rd of toffees and gives\nremaining to T’s mother K. E again gives 48\ntoffees to her only sister-in-law X. P is the\ngranddaughter of K, who gives 3/4th toffees to",
+    "options": [
+      {
+        "id": "B",
+        "text": "B gives 72 toffees to P. M’s wife took 63 toffees\nfrom X’s husband.\nHow E is related to P’s father?"
+      },
+      {
+        "id": "A",
+        "text": "Grandfather"
+      },
+      {
+        "id": "B",
+        "text": "Sister"
+      },
+      {
+        "id": "C",
+        "text": "Aunt"
+      },
+      {
+        "id": "D",
+        "text": "Daughter"
+      },
+      {
+        "id": "E",
+        "text": "cant determine"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "B’s only daughter G has 375 toffees initially, she\ntook 12 and gives the remaining to her sibling M.\nM took 27 toffees and gives the remaining to his\nfather’s sister E. B is the father-in-law of P’s\nmother. That means, E must be the sister of B.\nE took 1/3rd of toffees and gives the remaining\nto T’s mother K. E again gives 48 toffees to her\nonly sister-in-law X.\nP is the granddaughter of K, who gives 3/4th\ntoffees to B. B gives 72 toffees to P. M’s wife\ntook 63 toffees from X’s husband.\nBased on the above given information we\nhave:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-3",
+    "question": "Directions : Study the following information\ncarefully and answer the below questions.\nIn a family of eight members – B, E, G, K, M, P, T,\nand X form three generations. Two married\ncouples are there in the family. B’s only\ndaughter G has 375 toffees initially, she took 12\nand gives the remaining to her sibling M. M took\n27 toffees and gives the remaining to his\nfather’s sister E. B is the father-in-law of P’s\nmother. E took 1/3rd of toffees and gives\nremaining to T’s mother K. E again gives 48\n \nLevel-3",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "B’s only daughter G has 375 toffees initially, she\ntook 12 and gives the remaining to her sibling M.\nM took 27 toffees and gives the remaining to his\nfather’s sister E. B is the father-in-law of P’s\nmother. That means, E must be the sister of B.\nE took 1/3rd of toffees and gives the remaining\nto T’s mother K. E again gives 48 toffees to her\nonly sister-in-law X.\nP is the granddaughter of K, who gives 3/4th\ntoffees to B. B gives 72 toffees to P. M’s wife\ntook 63 toffees from X’s husband.\nBased on the above given information we\nhave:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-3",
+    "question": "Directions : Study the given information\ncarefully and answer the questions that follow:\nW @ M means W is the father of M.\nW $ M means W is the mother of M.\nW % M means W is the sister of M.\nW ~ M means W is the husband of M.\nW & M means W is the wife of M.\nW * M means W is the brother of M.\nIn a family, the following relationships are\nknown:\nK & Y @ H; E % R ~ V; H ~ E; D $ R @ A; D & S\nHow is V related to S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son-in-law"
+      },
+      {
+        "id": "B",
+        "text": "Daughter"
+      },
+      {
+        "id": "C",
+        "text": "Daughter-in-law"
+      },
+      {
+        "id": "D",
+        "text": "Mother-in-law"
+      },
+      {
+        "id": "E",
+        "text": "Cant determine"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "K & Y @ H: K is the wife of Y, Y is the father of H\nE % R ~ V: E is the sister of R, R is the husband of\nV\nH ~ E: H is the husband of E\nD $ R @ A: D is the mother of R, R is the father of\nA\nD & S: D is the wife of S\nV is daughter-in-law of S.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-2",
+    "question": "(D)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-2",
+    "question": "(B)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\nB is sister of K. A is sister of F but not sister of H.\nG is brother of I.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-2",
+    "question": "(C)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.\nB is sister of K. A is sister of F but not sister of H.\nG is brother of I.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-2",
+    "question": "(A)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "In a family of 11 members A to K. Each male has\none brother and one sister.\nJ is married to C. B and D are the children of C.\nD is married E. C and E has no sibling.\nSo, C and E are female.\nH is the grandson of C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-2",
+    "question": "(E)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "According to the given conditions family chart\nwill be:-\nAccording to the family chart, we can say that:\nO is the cousin of W.\nHence, the correct answer is option E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "blood",
+      "relations"
+    ],
+    "source_pages": [
+      14
+    ]
+  }
+]

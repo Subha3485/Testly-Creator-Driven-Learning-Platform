@@ -1,0 +1,479 @@
+[
+  {
+    "question_number": "1",
+    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\nStatements:\nAll Hill are Valley.\nA few Valley are Dam.\nAll Dam are River.\nConclusions:\nI. Some River are Hill .\nII. No River is Hill",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follow"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Conclusion 1: It does not follow. There are no\ndirect relation given between River and Hill so,\nSome River are Hill does not follow.\nConclusion 2: It does not follow. There are no\ndirect relation given between River and Hill so,\nNo River is Hill does not follow.\nBut here either or case occurs.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\n \nStatements:\nAll Iron are Copper\nSome Copper are Mercury\nAll Aluminium are Mercury\nConclusions:\nI. No Iron is Mercury\nII. Some Copper are Aluminium",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Iron and Mercury so No Iron is\nMercury does not follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Copper and Aluminium\nso Some Copper are Aluminium does not follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\nStatements:\nAll Odour are Smell.\nNo Odour is Foul.\nSome Foul are Fragrance.\nConclusions:\nI. No Odour is Fragrance.\nII. No Smell is Fragrance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows\n \nSyllogism"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Odour and Fragrance so No\nOdour is Fragrance does not follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Smell and Fragrance so\nNo Smell is Fragrance does not follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\n \nStatements:\nAll Pear are Apple.\nNo Apple is Litchi.\nConclusions:\nI. No Litchi is Pear .\nII. Some Litchi are not Apple.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follow"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Conclusion 1: It is follow. All Pear is covered by\nApple and No Apple is Litchi is given so No Litchi\nis Pear is definite follow.\nConclusion 2: It is follow. No Apple is Litchi is\ngiven so Some Litchi are not Apple is definite\nfollow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Platform are Park.\nAll Park are Hangar.\nSome Hangar are not Bus stand.\nConclusions:\nI. Some Platform are not Bus stand.\nII. All Platform are Hangar.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II follows"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Platform and Bus Stand so,\nSome platform are not Bus Stand does not\nfollow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Quilt are Cot\nAll Cot are Pillow\nNo Cot is Sheet\nConclusions:\nI. Some Pillow are Quilt\nII. No Pillow is Sheet",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Conclusion 1: It is follow. All Quilt are covered by\nPillow, so Some Pillow are Quilt is follows.\nConclusion 2: It does not follow. There are no\ndirect relation given between pillow and Sheet\nso, No Pillow is sheet does not follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Small are Tall.\nSome Huge are Thin.",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Thin and Small so Some Thin\nare Small does not follow.\nConclusion 2: It is follow. All Small are Tall is given\nand No Tall is Huge also given so No Huge is Tall\ndefinite follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Cap is Hat.\nAll Hat are Helmet.\nSome Helmet are Turban.\nConclusions:\nI. No Helmet is Cap.\nII. All Turban are Helmet.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Helmet and Cap so No Helmet\nis Cap does not follow.\nConclusion 2: It does not follow. There are some\npart of Turban is touches Helmet so, All Turban\nare Helmet does not follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "In each question below are given some\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the given\nstatements to be true even if they seem to be\nat variance with commonly known facts. Read\nthe statements and then decide which of the\ngiven conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\n \nStatements:\nNo Curd is Butter.\nSome Curd are Oil.\nNo Oil is Cream.\nConclusions:\nI. No Cream is Butter.\nII. Some Oil are not Butter.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follow"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Cream and Butter so No Cream\nis Butter does not follow.\nConclusion 2: It is follow. Some part of Oil\ntouches Curd and No Curd is Butter is given so,\nSome Oil are not Butter is follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Parrot is Sparrow.\nSome Sparrow are Swan.\nAll Parrot are Bird.\nConclusions:\nI. No Bird is Sparrow.\nII. Some Bird are Parrot.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II follows"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Conclusion 1: It does not follow. There are no\ndirect relation given between Marigold and\nJasmine so, All Marigold are Jasmine does not\nfollow.\nConclusion 2: It does not follow. There are no\ndirect relation given between Marigold and\nJasmine so, Some Marigold are not Jasmine does\nnot follow.\nBut here either or case occurs.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Sweet is Cake.\nNo Cake is Pastry.\nOnly Pastry are Bread.\nConclusions:\nI. No Sweet is Bread.\nII. No Pastry is Sweet.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follow"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Conclusion 1: It is follow. No Sweet is Bread is a\ndefinite follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Sweet and Pastry so, No\nPastry is Sweet does not follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nSome Architect are Engineer\nAll Engineer are Mechanic\nAll Mechanic are Blacksmith\nConclusions:\nI. All Engineer are Blacksmith\nII. Some Blacksmith are Architect",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II follows"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Conclusion 1: It is follow. All Engineer are cover\nby Blacksmith so, All Engineer are Blacksmith is\nfollow.\nConclusion 2: It is follow. Some part of\nBlacksmith is touches Architect so, Some\nBlacksmith are Architect is follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nSome Bear are Tiger\nAll Bear are Leopard\nSome Tiger are Cheetah\nConclusions:",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\n \nStatements:\nSome Knife are Hammer.\nNo Hammer is Blade.\nConclusions:\nI. Some Knife are not Blade.\nII. Some Blade are not Hammer.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follow"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Conclusion 1: It is follow. Some part of Knife is\ntouches Hammer and No Hammer is Blade given\nso Some Knife are not Blade is definite follow.\nConclusion 2: It is follow. No Hammer is Blade is\ngiven so Some Blade are not Hammer is definite\nfollow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  }
+]

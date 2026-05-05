@@ -1,0 +1,533 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nSeven people K, J, I, H, G, F and E. All of them\nhave their birthdays in different months namely\nJanuary, March, April, May, June, July and\nAugust. No two persons share the same birthday\nmonth. K's birthday is in January. There are the\nsame number of person having their birthday\nbefore and after I. Only one person's birthday is\nthere between H and I. J's birthday is in the\nmonth having 31 days but not in August. There\nare two person's birthday between J and E. G's\nbirthday is before F's birthday. J's birthday is not\nbefore I.\nFour among the five are same in a certain way\nthus form a group. Who among the following is\nodd one out?",
+    "options": [
+      {
+        "id": "A",
+        "text": "K"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      },
+      {
+        "id": "E",
+        "text": "I"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "K's birthday is in January.\n There are the same number of person having\ntheir birthday before and after I. ‘\n Only one person's birthday is there between H\nand I.\n J's birthday is in the month having 31 days but\nnot in August.\n There are two person's birthday between J and\nE. \n G's birthday is before F's birthday\nCASE 1\nCASE 2\nJanuary (31) K January (31) K\nMarch (31)\nH March (31)\nJ\nApril (30)\nE April (30)\nG\nMay (31)\nI May (31)\nI\nJune(30)\nG June(30)\nE\nJuly (31)\nJ July (31)\nH\nAugust (31) F August (31) F\n \n7) J's birthday is not before I. (This eliminates\ncase 2)\nCASE 1\nJanuary (31) K\nMarch (31)\nH\nApril (30)\nE\nMay (31)\nI\nJune(30)\nG\nJuly (31)\nJ\nAugust (31) F",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nSeven people K, J, I, H, G, F and E. All of them\nhave their birthdays in different months namely\nJanuary, March, April, May, June, July and\nAugust. No two persons share the same birthday\nmonth. K's birthday is in January. There are the\nsame number of person having their birthday\nbefore and after I. Only one person's birthday is\nthere between H and I. J's birthday is in the\nmonth having 31 days but not in August. There\nare two person's birthday between J and E. G's\nbirthday is before F's birthday. J's birthday is not\nbefore I.\nHow many persons have their birthday before J?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "More than four"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "K's birthday is in January.\n There are the same number of person having\ntheir birthday before and after I. ‘\n Only one person's birthday is there between H\nand I.\n J's birthday is in the month having 31 days but\nnot in August.\n There are two person's birthday between J and\nE. \n G's birthday is before F's birthday\nCASE 1\nCASE 2\nJanuary (31) K January (31) K\nMarch (31)\nH March (31)\nJ\nApril (30)\nE April (30)\nG\nMay (31)\nI May (31)\nI\nJune(30)\nG June(30)\nE\nJuly (31)\nJ July (31)\nH\nAugust (31) F August (31) F\n \n7) J's birthday is not before I. (This eliminates\ncase 2)\nCASE 1\nJanuary (31) K\nMarch (31)\nH\nApril (30)\nE\nMay (31)\nI\nJune(30)\nG\nJuly (31)\nJ\nAugust (31) F",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nSeven people K, J, I, H, G, F and E. All of them\nhave their birthdays in different months namely\nJanuary, March, April, May, June, July and\nAugust. No two persons share the same birthday\nmonth. K's birthday is in January. There are the\nsame number of person having their birthday\nbefore and after I. Only one person's birthday is\nthere between H and I. J's birthday is in the\nmonth having 31 days but not in August. There\nare two person's birthday between J and E. G's\nbirthday is before F's birthday. J's birthday is not\nbefore I.\nIn which month does H have his birthday?",
+    "options": [
+      {
+        "id": "A",
+        "text": "March"
+      },
+      {
+        "id": "B",
+        "text": "April"
+      },
+      {
+        "id": "C",
+        "text": "May"
+      },
+      {
+        "id": "D",
+        "text": "June"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "K's birthday is in January.\n There are the same number of person having\ntheir birthday before and after I. ‘\n Only one person's birthday is there between H\nand I.\n J's birthday is in the month having 31 days but\nnot in August.\n There are two person's birthday between J and\nE. \n G's birthday is before F's birthday\nCASE 1\nCASE 2\nJanuary (31) K January (31) K\nMarch (31)\nH March (31)\nJ\nApril (30)\nE April (30)\nG",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nSeven people K, J, I, H, G, F and E. All of them\nhave their birthdays in different months namely\nJanuary, March, April, May, June, July and\nAugust. No two persons share the same birthday\nmonth. K's birthday is in January. There are the\nsame number of person having their birthday\nbefore and after I. Only one person's birthday is\nthere between H and I. J's birthday is in the\nmonth having 31 days but not in August. There\nare two person's birthday between J and E. G's\nbirthday is before F's birthday. J's birthday is not\nbefore I.\nWho is having his birthday at the last?\n \nScheduling Puzzles -02 \nLevel-1",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "K's birthday is in January.\n There are the same number of person having\ntheir birthday before and after I. ‘\n Only one person's birthday is there between H\nand I.\n J's birthday is in the month having 31 days but\nnot in August.\n There are two person's birthday between J and\nE. \n G's birthday is before F's birthday\nCASE 1\nCASE 2\nJanuary (31) K January (31) K\nMarch (31)\nH March (31)\nJ\nApril (30)\nE April (30)\nG\nMay (31)\nI May (31)\nI\nJune(30)\nG June(30)\nE\nJuly (31)\nJ July (31)\nH\nAugust (31) F August (31) F\n \n7) J's birthday is not before I. (This eliminates\ncase 2)\nCASE 1\nJanuary (31) K\nMarch (31)\nH\nApril (30)\nE\nMay (31)\nI\nJune(30)\nG\nJuly (31)\nJ\nAugust (31) F",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people K, J, I, H, G, F and E. All of them\nhave their birthdays in different months namely\nJanuary, March, April, May, June, July and\nAugust. No two persons share the same birthday\nmonth. K's birthday is in January. There are the\nsame number of person having their birthday\nbefore and after I. Only one person's birthday is\nthere between H and I. J's birthday is in the\nmonth having 31 days but not in August. There\nare two person's birthday between J and E. G's\nbirthday is before F's birthday. J's birthday is not\nbefore I.\n \nWhose birthday is in the month of June?",
+    "options": [
+      {
+        "id": "A",
+        "text": "J"
+      },
+      {
+        "id": "B",
+        "text": "I"
+      },
+      {
+        "id": "C",
+        "text": "H"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      },
+      {
+        "id": "E",
+        "text": "F"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "K's birthday is in January.\n There are the same number of person having\ntheir birthday before and after I. ‘\n Only one person's birthday is there between H\nand I.\n J's birthday is in the month having 31 days but\nnot in August.\n There are two person's birthday between J and\nE. \n G's birthday is before F's birthday\nCASE 1\nCASE 2\nJanuary (31) K January (31) K\nMarch (31)\nH March (31)\nJ\nApril (30)\nE April (30)\nG\nMay (31)\nI May (31)\nI\nJune(30)\nG June(30)\nE\nJuly (31)\nJ July (31)\nH\nAugust (31) F August (31) F\n \n7) J's birthday is not before I. (This eliminates\ncase 2)\nCASE 1\nJanuary (31) K\nMarch (31)\nH\nApril (30)\nE\nMay (31)\nI\nJune(30)\nG\nJuly (31)\nJ\nAugust (31) F",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix employees Z, Y, X, A, B and C of a company\nwent for a trip in the different months January,\nMarch, April, May, July and August but not\nnecessarily in the same order. A went for a trip in\nthe month of 30 days. There is only one\nemployee who went for a trip between A and X.\nThere are only two employees who went for a\ntrip between X and Z. B went for a trip before Z.\nThe number of employees who went for a trip\nbefore B is the same number of employees who\nwent for a trip after C. Y does not go for a trip in\nAugust.\n \nFour of the following five are alike in a certain\nway based on their positions in the above\narrangement and so form a group. Which of the\nfollowing does not belong to the group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "April - Z"
+      },
+      {
+        "id": "B",
+        "text": "August - X"
+      },
+      {
+        "id": "C",
+        "text": "May - A"
+      },
+      {
+        "id": "D",
+        "text": "January - B"
+      },
+      {
+        "id": "E",
+        "text": "July - Y"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "A went for a trip in the month of 30 days.\nThere is only one employee who went for a trip\nbetween A and X.\nThere are only two employees who went for a\ntrip between X and Z\nB went for a trip before Z.\nThe number of employees went for a trip before\nB is the same number of employees who went\nfor a trip after C.\nY does not go for a trip in August.\nCase 1: is eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix employees Z, Y, X, A, B and C of a company\nwent for a trip in the different months January,\nMarch, April, May, July and August but not\nnecessarily in the same order. A went for a trip in\nthe month of 30 days. There is only one\nemployee who went for a trip between A and X.\nThere are only two employees who went for a\ntrip between X and Z. B went for a trip before Z.\nThe number of employees who went for a trip\nbefore B is the same number of employees who\nwent for a trip after C. Y does not go for a trip in\nAugust.\n \nHow many employees went before B ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Two"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix employees Z, Y, X, A, B and C of a company\nwent for a trip in the different months January,\nMarch, April, May, July and August but not\nnecessarily in the same order. A went for a trip in\nthe month of 30 days. There is only one\nemployee who went for a trip between A and X.\nThere are only two employees who went for a\ntrip between X and Z. B went for a trip before Z.\nThe number of employees who went for a trip\nbefore B is the same number of employees who\nwent for a trip after C. Y does not go for a trip in\nAugust.",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix employees Z, Y, X, A, B and C of a company\nwent for a trip in the different months January,\nMarch, April, May, July and August but not\nnecessarily in the same order. A went for a trip in\nthe month of 30 days. There is only one\nemployee who went for a trip between A and X.\nThere are only two employees who went for a\ntrip between X and Z. B went for a trip before Z.\nThe number of employees who went for a trip\nbefore B is the same number of employees who\nwent for a trip after C. Y does not go for a trip in\nAugust.\n \nWhich of the following employees went on a trip\nin May ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B"
+      },
+      {
+        "id": "B",
+        "text": "C"
+      },
+      {
+        "id": "C",
+        "text": "Y"
+      },
+      {
+        "id": "D",
+        "text": "Z"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix employees Z, Y, X, A, B and C of a company\nwent for a trip in the different months January,\nMarch, April, May, July and August but not\nnecessarily in the same order. A went for a trip in\nthe month of 30 days. There is only one\nemployee who went for a trip between A and X.\nThere are only two employees who went for a\ntrip between X and Z. B went for a trip before Z.\nThe number of employees who went for a trip\nbefore B is the same number of employees who\nwent for a trip after C. Y does not go for a trip in\nAugust.\n \nWhich of the following statements is true with\nrespect to the final arrangement ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two employees went for a trip before Z."
+      },
+      {
+        "id": "B",
+        "text": "A went on a trip in July."
+      },
+      {
+        "id": "C",
+        "text": "There were four employees who went for a\ntrip between B and C."
+      },
+      {
+        "id": "D",
+        "text": "C went on trip just before Z."
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six members (P,Q,R,S,T and U) in a\nfamily. They all play different games. They play\nthese games in six different months viz. March,\nApril, May, June, July and August, but not\nnecessarily in the same order. March is the first\nmonth and August is the last one. The rest follow\nthe same order.\nGames : Cricket, Carrom, Chess, Football, Tennis\nand Ludo.\nThe person who plays Ludo, is playing in the\nmonth having 31 days. P plays cricket, before R. R\ndoesn’t play Football. Two people play their\ngames between T and R. T plays Chess. Neither T\nnor R plays in the month having 30 days. The\nperson who plays Tennis, is playing immediately\nafter the one who plays Ludo. S plays\nimmediately before P. The one who plays Tennis,\nis playing in the month having 31 days. Q doesn’t\nplay in the month having 31 days. The one who\nplays Carrom, is playing in the month having 31\ndays.\nHow many people are playing between S and\nU?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "1"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "1. Neither T nor R plays in the month having 30\ndays.\n2. Two people play their games between T and R.\n3. T plays Chess.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six members (P,Q,R,S,T and U) in a\nfamily. They all play different games. They play\nthese games in six different months viz. March,\nApril, May, June, July and August, but not",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1. Neither T nor R plays in the month having 30\ndays.\n2. Two people play their games between T and R.\n3. T plays Chess.\nCASE 1\nCASE 2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six members (P,Q,R,S,T and U) in a\nfamily. They all play different games. They play\nthese games in six different months viz. March,\nApril, May, June, July and August, but not\nnecessarily in the same order. March is the first\nmonth and August is the last one. The rest follow\nthe same order.\nGames : Cricket, Carrom, Chess, Football, Tennis\nand Ludo.\nThe person who plays Ludo, is playing in the\nmonth having 31 days. P plays cricket, before R. R\ndoesn’t play Football. Two people play their\ngames between T and R. T plays Chess. Neither T\nnor R plays in the month having 30 days. The\nperson who plays Tennis, is playing immediately\nafter the one who plays Ludo. S plays\nimmediately before P. The one who plays Tennis,\nis playing in the month having 31 days. Q doesn’t\nplay in the month having 31 days. The one who\nplays Carrom, is playing in the month having 31\ndays.\nWho plays Football?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "T"
+      },
+      {
+        "id": "C",
+        "text": "Q"
+      },
+      {
+        "id": "D",
+        "text": "P"
+      },
+      {
+        "id": "E",
+        "text": "U"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "1. Neither T nor R plays in the month having 30\ndays.\n2. Two people play their games between T and R.\n3. T plays Chess.\nCASE 1\nCASE 2\n4. The person who plays Tennis, is playing\nimmediately after the one who plays Ludo.\n5. The person who plays Ludo, is playing in the\nmonth having 31 days.\n6. The one who plays Tennis, is playing in the\nmonth having 31 days.\nTherefore, Case 1 is no longer valid.\nCASE 2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six members (P,Q,R,S,T and U) in a\nfamily. They all play different games. They play\nthese games in six different months viz. March,\nApril, May, June, July and August, but not\nnecessarily in the same order. March is the first\nmonth and August is the last one. The rest follow\nthe same order.\nGames : Cricket, Carrom, Chess, Football, Tennis\nand Ludo.\nThe person who plays Ludo, is playing in the\nmonth having 31 days. P plays cricket, before R. R\ndoesn’t play Football. Two people play their\ngames between T and R. T plays Chess. Neither T\nnor R plays in the month having 30 days. The\nperson who plays Tennis, is playing immediately\nafter the one who plays Ludo. S plays\nimmediately before P. The one who plays Tennis,\nis playing in the month having 31 days. Q doesn’t\nplay in the month having 31 days. The one who\nplays Carrom, is playing in the month having 31\ndays.\nWho plays Ludo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "T"
+      },
+      {
+        "id": "D",
+        "text": "U"
+      },
+      {
+        "id": "E",
+        "text": "P"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. Neither T nor R plays in the month having 30\ndays.\n2. Two people play their games between T and R.\n3. T plays Chess.\nCASE 1\nCASE 2\n4. The person who plays Tennis, is playing\nimmediately after the one who plays Ludo.\n5. The person who plays Ludo, is playing in the\nmonth having 31 days.\n6. The one who plays Tennis, is playing in the\nmonth having 31 days.\nTherefore, Case 1 is no longer valid.\nCASE 2\n7. P plays cricket, before R.\n8. S plays immediately before P.\nCASE 2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "Q doesn’t play in the month having 31 days.",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "output\\images\\603_scheduling_puzzles_02_chapter_wise_dpp_english\\603_scheduling_puzzles_02_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "The one who plays Carrom, is playing in the\nmonth having 31 days.\nCASE 2",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "A went for a trip in the month of 30 days.",
+    "tables": [],
+    "image_ref": "output\\images\\603_scheduling_puzzles_02_chapter_wise_dpp_english\\603_scheduling_puzzles_02_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "603",
+      "scheduling",
+      "puzzles",
+      "02"
+    ],
+    "source_pages": [
+      16
+    ]
+  }
+]

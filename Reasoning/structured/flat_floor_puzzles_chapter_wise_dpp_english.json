@@ -1,0 +1,504 @@
+[
+  {
+    "question_number": "1",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\n \nThere are two types of flats i.e., X and Y on each\nfloor of a five- floor building. The bottommost\nfloor is numbered as 1 and the topmost floor is\nnumbered as 5. Flat X is in west of Flat Y. Ten\npersons (A, B, C, D, E, F, G, H, I, and J) live in these\nflats such that one person lives in each flat. All\nflats are of same dimensions.\nNote: If it is given that ‘a person’ lives adjacent to\n‘another person’ then both persons live on the\nsame floor unless stated otherwise. If it is given\nthat ‘a persons’ lives one/two floors above/below\n‘another person’ then both persons live in the\nsame type of flat unless stated otherwise.\nJ lives one floor below I. G lives two floors below\nD, but not in the same type of flat. I lives in Flat X.\nH, who lives adjacent to A, lives two floors above",
+    "options": [
+      {
+        "id": "C",
+        "text": "C and I live in the same type of flat. E lives one\nfloor above F. B doesn’t live adjacent to J.\n \nB lives _____ floors above A."
+      },
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Starting Point: Start with placing J, I, H, C, and A\nto form least number of cases initially.\nClues:\n1. I lives in Flat X.\n2. J lives one floor below I. C and I live in the\nsame type of flat.\n3. H, who lives adjacent to A, lives two floors\nabove C.\nInferences:\nFrom clue 1, clue 2, and clue 3, we get I lives in\nFlat X of either 5 or 2\n floor. J lives in Flat X of\neither 4 or 1 floor. H lives in Flat X of either 3\nor 5 floor. C lives in Flat X of either 1 or 3\nfloor.\nCase I: When I lives in Flat X of 5 floor.\nCase II: When I lives in Flat X of 2\n floor.\nClues:\n1. G lives two floors below D, but not in the same\ntype of flat.\n2. E lives one floor above F.\nInferences:\nFrom clue 1 and clue 2, we get D lives either in\nFlat Y or Flat X of 4 floor. E, F, and B lives in Flat\nY. B lives adjacent to either I or J. E lives adjacent\nto either G or D. F lives adjacent to C.\nCase I:\nCase II:\n \nth\nnd\nth\nst\nrd\nth\nst\nrd\nth\nnd\nth",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\n \nThere are two types of flats i.e., X and Y on each\nfloor of a five- floor building. The bottommost\nfloor is numbered as 1 and the topmost floor is\nnumbered as 5. Flat X is in west of Flat Y. Ten\npersons (A, B, C, D, E, F, G, H, I, and J) live in these\nflats such that one person lives in each flat. All\nflats are of same dimensions.\nNote: If it is given that ‘a person’ lives adjacent to\n‘another person’ then both persons live on the\nsame floor unless stated otherwise. If it is given\nthat ‘a persons’ lives one/two floors above/below\n‘another person’ then both persons live in the\nsame type of flat unless stated otherwise.\n \nFlat + Floor Puzzles",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Starting Point: Start with placing J, I, H, C, and A\nto form least number of cases initially.\nClues:\n1. I lives in Flat X.\n2. J lives one floor below I. C and I live in the\nsame type of flat.\n3. H, who lives adjacent to A, lives two floors\nabove C.\nInferences:\nFrom clue 1, clue 2, and clue 3, we get I lives in\nFlat X of either 5 or 2\n floor. J lives in Flat X of\neither 4 or 1 floor. H lives in Flat X of either 3\nor 5 floor. C lives in Flat X of either 1 or 3\nfloor.\nCase I: When I lives in Flat X of 5 floor.\n \nth\nnd\nth\nst\nrd\nth\nst\nrd\nth",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Directions :Answer the questions based on the\ninformation given below.\nIn a building of 3 floors (first floor being the\nbottommost floor), in each floor there are two\nflats A and B such that flat A is to the west of flat",
+    "options": [
+      {
+        "id": "B",
+        "text": "Each flat of one floor is above that of another\nfloor. (such that flat A of floor 1 is immediately\nbelow flat A of floor 2, and so on)\nSeven friends - Rini, Ram, Rancho, Raju, Riya, Raj\nand Rinky, live in those flats such that no flat is\nempty. Rinky lives on the top floor. Raj lives in flat\nA, but not on first floor and, he lives alone. Rini\nlives in the flat immediately below Riya's flat.\nRam and Riya live on odd numbered floors.\nRancho lives to east of Ram. Raju lives on even\nnumbered floor, but not immediately below\nRinky's & Raj's flat.\nFind the odd pair."
+      },
+      {
+        "id": "A",
+        "text": "Raj, Raju"
+      },
+      {
+        "id": "B",
+        "text": "Rinky, Riya"
+      },
+      {
+        "id": "C",
+        "text": "Raj, Rini"
+      },
+      {
+        "id": "D",
+        "text": "Rinky, Ranco"
+      },
+      {
+        "id": "E",
+        "text": "Rini, Raju\n \nnd"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1)Rinky lives on the top floor.\n2)Raj lives in flat A, but not on first floor and, he\nlives alone\n CASE 1 CASE 2 CASE 3\nFloor/Flat A\nB A\nB\nA\nB\n3\nRinky \nRinky Raj Rinky\n2\nRaj\n Raj \n \n \n1\n \n \n \n \n \n3)Raju lives on even numbered floor, Raj lives\nalone so place for Raju is fixed.Raju is not\nimmediately below Rinky's & Raj's flat.\n CASE 1 CASE 2 CASE 3\nFloor/Flat A\nB\nA\nB\nA\nB\n3\nRinky \n \nRinky Raj\nRinky\n2\nRaj\nRaju Raj Raju Raju/ Raju/\n1\n \n \n \n \n \n \n \nCase 2 and Case 3 is rejected because .Raju is not\nimmediately below Rinky's & Raj's flat.but in case\n2 and 3 this statement is not allowing.\n4)Rini lives in the flat immediately below Riya's\nflat.\n5)Ram and Riya live on odd numbered floors.\nRancho lives to east of Ram.,\nFloor/Flat A\nB\n3\nRinky Riya\n2\nRaj\nRaju,Rini\n1\nRam Rancho\nthis is the final arrangement\nOnly Rinky and Rancho are in different floors so\nthe option D is correct",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nIn a building of 3 floors (first floor being the\nbottommost floor), in each floor there are two\nflats A and B such that flat A is to the west of flat",
+    "options": [
+      {
+        "id": "B",
+        "text": "Each flat of one floor is above that of another\nfloor. (such that flat A of floor 1 is immediately\nbelow flat A of floor 2, and so on)\nSeven friends - Rini, Ram, Rancho, Raju, Riya, Raj\nand Rinky, live in those flats such that no flat is\nempty. Rinky lives on the top floor. Raj lives in flat\nA, but not on first floor and, he lives alone. Rini\nlives in the flat immediately below Riya's flat.\nRam and Riya live on odd numbered floors.\nRancho lives to east of Ram. Raju lives on even\nnumbered floor, but not immediately below\nRinky's & Raj's flat.\nWho lives in flat A of topmost floor?"
+      },
+      {
+        "id": "A",
+        "text": "Raj"
+      },
+      {
+        "id": "B",
+        "text": "Rinky"
+      },
+      {
+        "id": "C",
+        "text": "Riya"
+      },
+      {
+        "id": "D",
+        "text": "Ram"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "1)Rinky lives on the top floor.\n2)Raj lives in flat A, but not on first floor and, he\nlives alone\n CASE 1 CASE 2 CASE 3\nFloor/Flat A\nB A\nB\nA\nB\n3\nRinky \nRinky Raj Rinky\n2\nRaj\n Raj \n \n \n1\n \n \n \n \n \n3)Raju lives on even numbered floor, Raj lives\nalone so place for Raju is fixed.Raju is not\nimmediately below Rinky's & Raj's flat.\n CASE 1 CASE 2 CASE 3\nFloor/Flat A\nB\nA\nB\nA\nB\n3\nRinky \n \nRinky Raj\nRinky\n2\nRaj\nRaju Raj Raju Raju/ Raju/\n1\n \n \n \n \n \n \n \nCase 2 and Case 3 is rejected because .Raju is not\nimmediately below Rinky's & Raj's flat.but in case\n2 and 3 this statement is not allowing.\n4)Rini lives in the flat immediately below Riya's\nflat.\n5)Ram and Riya live on odd numbered floors.\nRancho lives to east of Ram.,\nFloor/Flat A\nB\n3\nRinky Riya\n2\nRaj\nRaju,Rini\n1\nRam Rancho\nthis is the final arrangement\nRinky is living in top most floor in flat A so option\nB is correct",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Study the following information carefully and\nanswer the questions.\n \nSix people A, B, C, D, E and F live in a three-\nfloored building numbered 1 - 3 from bottom to\ntop. The building has two flats on each floor\nnamed X and Y such that flat X is to the west of\nflat Y. Everyone owns a different car viz. Fiat,\nFord, Honda, Kia, Skoda, and Tata are not\nnecessarily in the similar order. D and the one\nwho owns Tata lives in the same-named flat. E\nwho owns Skoda does not live on the same floor\nas D. A lives on a floor somewhere above C.\nNeither D nor A owns Fiat. The one who owns Kia\nlives in a flat to the east of B's flat. The one who\nowns Tata lives in a flat to the south-west of the\none who owns Kia. B lives on an even-numbered\nfloor. F and E live on the same floor. The one who\nowns Honda and Kia live in different flats.\n \nFour of the following are related to each other in\nsome way and thus form a group, which of the\nfollowing does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The one who owns Honda"
+      },
+      {
+        "id": "B",
+        "text": "D"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "The one who owns Fiat"
+      },
+      {
+        "id": "E",
+        "text": "The one who owns Kia"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "It is given that,\nSix people are A, B, C, D, E, and F.\nThe six cars are Fiat, Ford, Honda, Kia, Skoda, and\nTata.\nB lives on an even-numbered floor.\nThe one who owns Kia lives in a flat to the east of\nB's flat.\nThe one who owns Tata lives in a flat to the\nsouth-west of the one who owns Kia.\nWe get,\n X\nY\n3 \n \n2 B\nKia\n1 Tata \nD and the one who owns Tata lives in the same-\nnamed flat.\nE who owns Skoda does not live on the same\nfloor as D.\nF and E live on the same floor.\nWe get,\n X\nY\n3 D\n \n2 B\nKia\n1 F, Tata E, Skoda\nA lives on a floor somewhere above C.\nNeither D nor A owns Fiat.\nThe one who own Honda and Kia live in different\nflats.\nHence, D - Honda, A - Ford.\nThe final arrangement is,\n X\nY\n3 D, Honda A, Ford\n2 B, Fiat\nC, Kia\n1 F, Tata\nE, Skoda\nExcept for the one who owns Kia, all others live in\nFlat X.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Study the following information carefully and\nanswer the questions.\n \nSix people A, B, C, D, E and F live in a three-\nfloored building numbered 1 - 3 from bottom to\ntop. The building has two flats on each floor\nnamed X and Y such that flat X is to the west of\nflat Y. Everyone owns a different car viz. Fiat,\nFord, Honda, Kia, Skoda, and Tata are not\nnecessarily in the similar order. D and the one\nwho owns Tata lives in the same-named flat. E\nwho owns Skoda does not live on the same floor\nas D. A lives on a floor somewhere above C.\nNeither D nor A owns Fiat. The one who owns Kia\nlives in a flat to the east of B's flat. The one who\nowns Tata lives in a flat to the south-west of the\none who owns Kia. B lives on an even-numbered\nfloor. F and E live on the same floor. The one who\nowns Honda and Kia live in different flats.\n \nWho among the following lives in flat X?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The one who owns Tata"
+      },
+      {
+        "id": "B",
+        "text": "A"
+      },
+      {
+        "id": "C",
+        "text": "B"
+      },
+      {
+        "id": "D",
+        "text": "The one who owns Kia"
+      },
+      {
+        "id": "E",
+        "text": "Both (a) and (c)"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "It is given that,\nSix people are A, B, C, D, E, and F.\nThe six cars are Fiat, Ford, Honda, Kia, Skoda, and\nTata.\nB lives on an even-numbered floor.\nThe one who owns Kia lives in a flat to the east of\nB's flat.\nThe one who owns Tata lives in a flat to the\nsouth-west of the one who owns Kia.\nWe get,\n X\nY\n3 \n \n2 B\nKia\n1 Tata \nD and the one who owns Tata lives in the same-\nnamed flat.\nE who owns Skoda does not live on the same\nfloor as D.\nF and E live on the same floor.\nWe get,\n X\nY\n3 D\n \n2 B\nKia\n1 F, Tata E, Skoda",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Answer the questions based on the information\ngiven below.\n \nThere are two types of flats i.e., X and Y on each\nfloor of a five- floor building. The bottommost\nfloor is numbered as 1 and the topmost floor is\nnumbered as 5. Flat X is in west of Flat Y. Ten\npersons (A, B, C, D, E, F, G, H, I, and J) live in these\nflats such that one person lives in each flat. All\nflats are of same dimensions.\nNote: If it is given that ‘a person’ lives adjacent to\n‘another person’ then both persons live on the\nsame floor unless stated otherwise. If it is given\nthat ‘a persons’ lives one/two floors above/below\n‘another person’ then both persons live in the\nsame type of flat unless stated otherwise.\nJ lives one floor below I. G lives two floors below\nD, but not in the same type of flat. I lives in Flat X.\nH, who lives adjacent to A, lives two floors above",
+    "options": [
+      {
+        "id": "C",
+        "text": "C and I live in the same type of flat. E lives one\nfloor above F. B doesn’t live adjacent to J.\n \nWho lives adjacent to D?"
+      },
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "I"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "F"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "I lives in Flat X. J lives one floor below I. C and I\nlive in the same type of flat. H, who lives adjacent\nto A, lives two floors above C.\nCase 1:\nFloors Flat X Flat Y\n5\nI\n \n4\nJ\n \n3\nH\nA\n2\n \n \n1\nC\n \nCase 2:\nFloors Flat X Flat Y\n5\nH\nA\n4\n \n \n3\nC\n \n2\nI\n \n1\nJ\n \nG lives two floors below D, but not in the same\ntype of flat. E lives one floor above F.\nCase 1:\nFloors Flat X Flat Y\n5\nI\nB\n4\nJ\nD\n3\nH\nA\n2\nG\nE\n1\nC\nF\nCase 2:\nFloors Flat X Flat Y\n5\nH\nA\n4\nD\nE\n3\nC\nF\n2\nI\nG\n1\nJ\nB\nB doesn’t live adjacent to J. So, case 2 is\neliminated. Hence, final arrangement:\nCase 1:\nFloors Flat X Flat Y\n5\nI\nB\n4\nJ\nD\n3\nH\nA\n2\nG\nE\n1\nC\nF\nHence, J lives adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Answer the questions based on the information\ngiven below.\nThere are two types of flats i.e., X and Y on each\nfloor of a five- floor building. The bottommost\nfloor is numbered as 1 and the topmost floor is\nnumbered as 5. Flat X is in west of Flat Y. Ten\npersons (A, B, C, D, E, F, G, H, I, and J) live in these\nflats such that one person lives in each flat. All\nflats are of same dimensions.\nNote: If it is given that ‘a person’ lives adjacent to\n‘another person’ then both persons live on the\nsame floor unless stated otherwise. If it is given\nthat ‘a persons’ lives one/two floors above/below\n‘another person’ then both persons live in the\nsame type of flat unless stated otherwise.\nJ lives one floor below I. G lives two floors below\nD, but not in the same type of flat. I lives in Flat X.\nH, who lives adjacent to A, lives two floors above",
+    "options": [
+      {
+        "id": "C",
+        "text": "C and I live in the same type of flat. E lives one\nfloor above F. B doesn’t live adjacent to J.\n \nWhich of the following person doesn’t live in Flat\nX?"
+      },
+      {
+        "id": "A",
+        "text": "I"
+      },
+      {
+        "id": "B",
+        "text": "J"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "C"
+      },
+      {
+        "id": "E",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "I lives in Flat X. J lives one floor below I. C and I\nlive in the same type of flat. H, who lives adjacent\nto A, lives two floors above C.\nCase 1:\n \nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Answer the questions based on the information\ngiven below.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "I lives in Flat X. J lives one floor below I. C and I\nlive in the same type of flat. H, who lives adjacent\nto A, lives two floors above C.\nCase 1:\nFloors Flat X Flat Y\n5\nI\n \n4\nJ\n \n3\nH\nA\n2\n \n \n1\nC\n \n \nCase 2:\nFloors Flat X Flat Y\n5\nH\nA\n4\n \n \n3\nC\n \n2\nI\n \n1\nJ\n \nG lives two floors below D, but not in the same\ntype of flat. E lives one floor above F.\nCase 1:\nFloors Flat X Flat Y\n5\nI\nB\n4\nJ\nD\n3\nH\nA\n2\nG\nE\n1\nC\nF\nCase 2:\nFloors Flat X Flat Y\n5\nH\nA\n4\nD\nE\n3\nC\nF\n2\nI\nG\n1\nJ\nB\n \nB doesn’t live adjacent to J. So, case 2 is\neliminated. Hence, final arrangement:\nCase 1:\n \nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst\nth\nth\nrd\nnd\nst",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Answer the questions based on the information\ngiven below:\n \nEight persons A, B, C, D, E, F, G and H live in a\nbuilding, which consists of two types of flats - P\nand Q in the building, such that each type of flat\nconsists of four floors. The bottommost floor is\nnumbered as 1 and the topmost floor is\nnumbered as 4, All floors are of same dimension.\nFlat P is to the west of flat Q. Each of them likes\ndifferent laptops- HP, Nokia, Dell, HCL, Asus,\nApple, Samsung and Lenovo but not necessarily\nin the same order.\nNote: If a person lives one/two/three floors\nabove/below another person then, they live in\nthe same type of flat unless stated otherwise. If a\nperson lives adjacent to another person, then\nthey live on the same floor but in different types\nof flat.\nA lives adjacent to H who likes Nokia. E who likes\nLenovo lives in an even numbered floor. F lives\nadjacent to E. C who likes Apple, doesn't live in\nflat P. A neither likes Asus nor HP. D lives one\nfloor below A. A lives on a floor below G, who\nlikes Samsung (either in same or in different type\nof flats). The one who likes Dell, lives one floor\nbelow the one, who likes Asus. B who lives in flat\nQ, lives one floor below F.\n \nF lives above the one, who likes _____ laptop (in\nthe same type of flat).",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asus"
+      },
+      {
+        "id": "B",
+        "text": "Samsung"
+      },
+      {
+        "id": "C",
+        "text": "HP"
+      },
+      {
+        "id": "D",
+        "text": "Dell"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "E who likes Lenovo, lives in an even numbered\nfloor. F lives adjacent to E. B who lives in flat Q,\nlives one floor below F.\nCase 1:\nFloors Flat P\nFlat Q\n4\n3\n2\nE - Lenovo F\n1\nB\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo F\n3\nB\n2\n1\nA lives adjacent to H who likes Nokia. D lives one\nfloor below A.\nA lives on a floor below G who likes Samsung\n(either in same or in different type of flats). So,\ncase 1 is eliminated.\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF\n3\nG - Samsung B\n2\nA\nH - Nokia\n1\nD\nC\nCase 2 (a):\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF\n3\nG - Samsung B\n2\nH - Nokia\nA\n1\nC\nD\nC who likes Apple , doesn't live in Flat P. So, case\n2 (a) is eliminated.\nThe one who likes Dell, lives one floor below the\none, who likes Asus. A neither likes Asus nor in\nHP. Hence, final arrangement:\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF- Asus\n3\nG - Samsung B - Dell\n2\nA – HCL\nH - Nokia\n1\nD - HP\nC - Apple\nHence, F lives above the one, who likes Dell\nlaptop (in the same type of flat).",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Answer the questions based on the information\ngiven below:\n \nEight persons A, B, C, D, E, F, G and H live in a\nbuilding, which consists of two types of flats - P\nand Q in the building, such that each type of flat\nconsists of four floors. The bottommost floor is\nnumbered as 1 and the topmost floor is\nnumbered as 4, All floors are of same dimension.\nFlat P is to the west of flat Q. Each of them likes\ndifferent laptops- HP, Nokia, Dell, HCL, Asus,\nApple, Samsung and Lenovo but not necessarily\nin the same order.\nNote: If a person lives one/two/three floors\nabove/below another person then, they live in\nthe same type of flat unless stated otherwise. If a\nperson lives adjacent to another person, then\nthey live on the same floor but in different types\nof flat.\nA lives adjacent to H who likes Nokia. E who likes\nLenovo lives in an even numbered floor. F lives\nadjacent to E. C who likes Apple, doesn't live in\nflat P. A neither likes Asus nor HP. D lives one\nfloor below A. A lives on a floor below G, who\nlikes Samsung (either in same or in different type\nof flats). The one who likes Dell, lives one floor\nbelow the one, who likes Asus. B who lives in flat\nQ, lives one floor below F.",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "E who likes Lenovo, lives in an even numbered\nfloor. F lives adjacent to E. B who lives in flat Q,\nlives one floor below F.\nCase 1:\nFloors Flat P\nFlat Q\n4\n3\n2\nE - Lenovo F\n1\nB\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo F\n3\nB\n2\n1\nA lives adjacent to H who likes Nokia. D lives one\nfloor below A.\nA lives on a floor below G who likes Samsung\n(either in same or in different type of flats). So,\ncase 1 is eliminated.\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF\n3\nG - Samsung B\n2\nA\nH - Nokia\n1\nD\nC\nCase 2 (a):\n \nth\nth\nrd\nnd\nst",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Answer the questions based on the information\ngiven below:\n \nEight persons A, B, C, D, E, F, G and H live in a\nbuilding, which consists of two types of flats - P\nand Q in the building, such that each type of flat\nconsists of four floors. The bottommost floor is\nnumbered as 1 and the topmost floor is\nnumbered as 4, All floors are of same dimension.\nFlat P is to the west of flat Q. Each of them likes\ndifferent laptops- HP, Nokia, Dell, HCL, Asus,\nApple, Samsung and Lenovo but not necessarily\nin the same order.\nNote: If a person lives one/two/three floors\nabove/below another person then, they live in\nthe same type of flat unless stated otherwise. If a\nperson lives adjacent to another person, then\nthey live on the same floor but in different types\nof flat.\nA lives adjacent to H who likes Nokia. E who likes\nLenovo lives in an even numbered floor. F lives\nadjacent to E. C who likes Apple, doesn't live in\nflat P. A neither likes Asus nor HP. D lives one\nfloor below A. A lives on a floor below G, who\nlikes Samsung (either in same or in different type\nof flats). The one who likes Dell, lives one floor\nbelow the one, who likes Asus. B who lives in flat\nQ, lives one floor below F.\n \nWhich among the following statements is/are\ndefinitely correct?\nI. D likes Dell laptop.\nII. G lives in flat P on the 3rd floor.\nIII. One, who likes HP, lives on 1 floor.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is correct"
+      },
+      {
+        "id": "B",
+        "text": "Only II is correct"
+      },
+      {
+        "id": "C",
+        "text": "Only III is correct"
+      },
+      {
+        "id": "D",
+        "text": "Only I and II are correct"
+      },
+      {
+        "id": "E",
+        "text": "Only II and III are correct"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "E who likes Lenovo, lives in an even numbered\nfloor. F lives adjacent to E. B who lives in flat Q,\nlives one floor below F.\nCase 1:\nFloors Flat P\nFlat Q\n4\n3\n2\nE - Lenovo F\n1\nB\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo F\n3\nB\n2\n1\nA lives adjacent to H who likes Nokia. D lives one\nfloor below A.\nA lives on a floor below G who likes Samsung\n(either in same or in different type of flats). So,\ncase 1 is eliminated.\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF\n3\nG - Samsung B\n2\nA\nH - Nokia\n1\nD\nC\nCase 2 (a):\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF\n3\nG - Samsung B\n2\nH - Nokia\nA\n1\nC\nD\nC who likes Apple , doesn't live in Flat P. So, case\n2 (a) is eliminated.\nThe one who likes Dell, lives one floor below the\none, who likes Asus. A neither likes Asus nor in\nHP. Hence, final arrangement:\nFloors Flat P\nFlat Q\n4\nE - Lenovo\nF- Asus\n3\nG - Samsung B - Dell\n2\nA – HCL\nH - Nokia\n1\nD - HP\nC - Apple\nHence, only II and III are correct.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "Answer the questions based on the information\ngiven below:\n \nEight persons A, B, C, D, E, F, G and H live in a\nbuilding, which consists of two types of flats - P\nand Q in the building, such that each type of flat\nconsists of four floors. The bottommost floor is\nnumbered as 1 and the topmost floor is\nnumbered as 4, All floors are of same dimension.\nFlat P is to the west of flat Q. Each of them likes\ndifferent laptops- HP, Nokia, Dell, HCL, Asus,\nApple, Samsung and Lenovo but not necessarily\nin the same order.\nNote: If a person lives one/two/three floors\nabove/below another person then, they live in\nthe same type of flat unless stated otherwise. If a\nperson lives adjacent to another person, then\nthey live on the same floor but in different types\nof flat.\nA lives adjacent to H who likes Nokia. E who likes\nLenovo lives in an even numbered floor. F lives\nadjacent to E. C who likes Apple, doesn't live in\nflat P. A neither likes Asus nor HP. D lives one\nfloor below A. A lives on a floor below G, who\nlikes Samsung (either in same or in different type\nof flats). The one who likes Dell, lives one floor\nbelow the one, who likes Asus. B who lives in flat\nQ, lives one floor below F.\n \nWho lives on the second floor of flat P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One who likes HCL"
+      },
+      {
+        "id": "B",
+        "text": "H"
+      },
+      {
+        "id": "C",
+        "text": "One who likes Nokia"
+      },
+      {
+        "id": "D",
+        "text": "Either 'b' and 'c'"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n \nst"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "E who likes Lenovo, lives in an even numbered\nfloor. F lives adjacent to E. B who lives in flat Q,\nlives one floor below F.\nCase 1:\nFloors Flat P\nFlat Q\n4\n3\n2\nE - Lenovo F\n1\nB\nCase 2:\nFloors Flat P\nFlat Q\n4\nE - Lenovo F\n3\nB\n2\n1\nA lives adjacent to H who likes Nokia. D lives one\nfloor below A.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "G lives two floors below D, but not in the same\ntype of flat.",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Starting Point: Start with placing J, I, H, C, and A\nto form least number of cases initially.\nClues:\n1. I lives in Flat X.\n2. J lives one floor below I. C and I live in the\nsame type of flat.\n3. H, who lives adjacent to A, lives two floors\nabove C.\nInferences:\nFrom clue 1, clue 2, and clue 3, we get I lives in\nFlat X of either 5 or 2\n floor. J lives in Flat X of\neither 4 or 1 floor. H lives in Flat X of either 3\nor 5 floor. C lives in Flat X of either 1 or 3\nfloor.\nCase I: When I lives in Flat X of 5 floor.\nCase II: When I lives in Flat X of 2\n floor.\nClues:\n1. G lives two floors below D, but not in the same\ntype of flat.\n2. E lives one floor above F.\nInferences:\nFrom clue 1 and clue 2, we get D lives either in\nFlat Y or Flat X of 4 floor. E, F, and B lives in Flat\nY. B lives adjacent to either I or J. E lives adjacent\nto either G or D. F lives adjacent to C.\nCase I:\nCase II:\n \nth\nnd\nth\nst\nrd\nth\nst\nrd\nth\nnd\nth",
+    "tables": [],
+    "image_ref": "output\\images\\flat_floor_puzzles_chapter_wise_dpp_english\\flat_floor_puzzles_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "E lives one floor above F.\nInferences:\nFrom clue 1 and clue 2, we get D lives either in\nFlat Y or Flat X of 4 floor. E, F, and B lives in Flat\nY. B lives adjacent to either I or J. E lives adjacent\nto either G or D. F lives adjacent to C.\nCase I:\nCase II:\nClues:",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Starting Point: Start with placing J, I, H, C, and A\nto form least number of cases initially.\nClues:\n1. I lives in Flat X.\n2. J lives one floor below I. C and I live in the\nsame type of flat.\n3. H, who lives adjacent to A, lives two floors\nabove C.\nInferences:\nFrom clue 1, clue 2, and clue 3, we get I lives in\nFlat X of either 5 or 2\n floor. J lives in Flat X of\neither 4 or 1 floor. H lives in Flat X of either 3\nor 5 floor. C lives in Flat X of either 1 or 3\nfloor.\nCase I: When I lives in Flat X of 5 floor.\nCase II: When I lives in Flat X of 2\n floor.\nClues:\n1. G lives two floors below D, but not in the same\ntype of flat.\n2. E lives one floor above F.\nInferences:\nFrom clue 1 and clue 2, we get D lives either in\nFlat Y or Flat X of 4 floor. E, F, and B lives in Flat\nY. B lives adjacent to either I or J. E lives adjacent\nto either G or D. F lives adjacent to C.\nCase I:\n \nth\nnd\nth\nst\nrd\nth\nst\nrd\nth\nnd\nth",
+    "tables": [],
+    "image_ref": "output\\images\\flat_floor_puzzles_chapter_wise_dpp_english\\flat_floor_puzzles_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "B doesn’t live adjacent to J.\nInferences:\nFrom clue 1, we reject Case II as we can’t place B.\nB lives adjacent to I.\nThe final arrangement is as follows:\n \nnd\nth",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Starting Point: Start with placing J, I, H, C, and A\nto form least number of cases initially.\nClues:\n1. I lives in Flat X.\n2. J lives one floor below I. C and I live in the\nsame type of flat.\n3. H, who lives adjacent to A, lives two floors\nabove C.\nInferences:\nFrom clue 1, clue 2, and clue 3, we get I lives in\nFlat X of either 5 or 2\n floor. J lives in Flat X of\neither 4 or 1 floor. H lives in Flat X of either 3\nor 5 floor. C lives in Flat X of either 1 or 3\nfloor.\nCase I: When I lives in Flat X of 5 floor.\nCase II: When I lives in Flat X of 2\n floor.\nClues:\n1. G lives two floors below D, but not in the same\ntype of flat.\n2. E lives one floor above F.\nInferences:\nFrom clue 1 and clue 2, we get D lives either in\nFlat Y or Flat X of 4 floor. E, F, and B lives in Flat\nY. B lives adjacent to either I or J. E lives adjacent\nto either G or D. F lives adjacent to C.\nCase I:\nCase II:\n \nth\nnd\nth\nst\nrd\nth\nst\nrd\nth\nnd\nth",
+    "tables": [],
+    "image_ref": "output\\images\\flat_floor_puzzles_chapter_wise_dpp_english\\flat_floor_puzzles_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "flat",
+      "floor",
+      "puzzles"
+    ],
+    "source_pages": [
+      12
+    ]
+  }
+]

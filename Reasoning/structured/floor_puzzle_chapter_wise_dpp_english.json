@@ -1,0 +1,1175 @@
+[
+  {
+    "question_number": "1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nNine people A, B, C, D, E, F, G, H and I live in a\nnine storey building, but not necessarily in the\nsame order. The lowermost floor is numbered 1\nand topmost floor is numbered 9. There are only\ntwo floors between B and H who live on the sixth\nfloor. I live just below B’s floor. There is a gap of\nfour floors between I and F. The number of floors\nbetween F and H is the same as the number of\nfloors between I and G. There are only two floors\nbetween G and A. E lives above D, but below C. D\ndoes not live on the lowest floor.\n \nFour of the following five are alike in a certain\nway based on their positions in the above\narrangement and so form a group. Which of the\nfollowing does not belong to the group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I"
+      },
+      {
+        "id": "B",
+        "text": "E"
+      },
+      {
+        "id": "C",
+        "text": "H"
+      },
+      {
+        "id": "D",
+        "text": "C"
+      },
+      {
+        "id": "E",
+        "text": "A"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "There are only two floors between B and H who\nlive on the sixth floor.\nI live just below B’s floor.\nThere is a gap of four floors between I and F.\nThe number of floors between F and H is the\nsame as the number of floors between I and G.\nThere are only two floors between G and A.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nNine people A, B, C, D, E, F, G, H and I live in a\nnine storey building, but not necessarily in the\nsame order. The lowermost floor is numbered 1\nand topmost floor is numbered 9. There are only\ntwo floors between B and H who live on the sixth\nfloor. I live just below B’s floor. There is a gap of\nfour floors between I and F. The number of floors\nbetween F and H is the same as the number of\nfloors between I and G. There are only two floors\nbetween G and A. E lives above D, but below C. D\ndoes not live on the lowest floor.\n \nHow many floors are there between D and E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "None"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "Five"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "There are only two floors between B and H, who\nlive on the sixth floor.\nI live just below B’s floor.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nNine people A, B, C, D, E, F, G, H and I live in a\nnine storey building, but not necessarily in the\nsame order. The lowermost floor is numbered 1\nand topmost floor is numbered 9. There are only\ntwo floors between B and H who live on the sixth\nfloor. I live just below B’s floor. There is a gap of\nfour floors between I and F. The number of floors\nbetween F and H is the same as the number of\nfloors between I and G. There are only two floors\nbetween G and A. E lives above D, but below C. D\ndoes not live on the lowest floor.\n \nWhich of the following statements is/are true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "G lives on fourth floor"
+      },
+      {
+        "id": "B",
+        "text": "Three people lives between H and C"
+      },
+      {
+        "id": "C",
+        "text": "D lives just below H"
+      },
+      {
+        "id": "D",
+        "text": "No one live above B"
+      },
+      {
+        "id": "E",
+        "text": "All are true"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "There are only two floors between B and H, who\nlive on the sixth floor.\nI live just below B’s floor.\nThere is a gap of four floors between I and F.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nNine people A, B, C, D, E, F, G, H and I live in a\nnine storey building, but not necessarily in the\nsame order. The lowermost floor is numbered 1\nand topmost floor is numbered 9. There are only\ntwo floors between B and H who live on the sixth\nfloor. I live just below B’s floor. There is a gap of\nfour floors between I and F. The number of floors\n \nFloor Puzzle",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "There are only two floors between B and H, who\nlive on the sixth floor.\nI live just below B’s floor.\nThere is a gap of four floors between I and F.\nThe number of floors between F and H is the\nsame as the number of floors between I and G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nNine people(J,K,L,M,N,O,P,Q and R) are living in\nan eight storey building. There are eight floors\nabove the ground floor(G). The topmost floor is 8\nand the lowermost floor is G. Two people live\nbetween O and N. Three people live between P\nand L. J lives on an odd number floor below floor",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between J and M. M doesn’t\nlive on the ground floor. Three people live\nbetween K and N. K lives above N. P lives below\nK but above O. Two people live between R and Q.\nQ lives below N but above O. R neither lives\nabove J nor M. L lives below J.\nFind the odd one out?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "L"
+      },
+      {
+        "id": "D",
+        "text": "P"
+      },
+      {
+        "id": "E",
+        "text": "K"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between J and M. M doesn’t\nlive on the ground floor. Three people live\nbetween K and N. K lives above N. P lives below\nK but above O. Two people live between R and Q.\nQ lives below N but above O. R neither lives\nabove J nor M. L lives below J.\nHow many floors are there between K’s floor\nand Q’s floor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      },
+      {
+        "id": "E",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between J and M. M doesn’t\nlive on the ground floor. Three people live\nbetween K and N. K lives above N. P lives below\nK but above O. Two people live between R and Q.\nQ lives below N but above O. R neither lives\nabove J nor M. L lives below J.\nWho lives immediately above P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M"
+      },
+      {
+        "id": "B",
+        "text": "L"
+      },
+      {
+        "id": "C",
+        "text": "O"
+      },
+      {
+        "id": "D",
+        "text": "K"
+      },
+      {
+        "id": "E",
+        "text": "P"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between J and M. M doesn’t\nlive on the ground floor. Three people live\nbetween K and N. K lives above N. P lives below\nK but above O. Two people live between R and Q.\nQ lives below N but above O. R neither lives\nabove J nor M. L lives below J.\nWho lives on floor 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "K"
+      },
+      {
+        "id": "B",
+        "text": "J"
+      },
+      {
+        "id": "C",
+        "text": "N"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "R\nQ9"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between J and M. M doesn’t\nlive on the ground floor. Three people live\nbetween K and N. K lives above N. P lives below\nK but above O. Two people live between R and Q.\nQ lives below N but above O. R neither lives\nabove J nor M. L lives below J.\nWho lives on the third floor from the bottom?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P"
+      },
+      {
+        "id": "B",
+        "text": "K"
+      },
+      {
+        "id": "C",
+        "text": "L"
+      },
+      {
+        "id": "D",
+        "text": "O"
+      },
+      {
+        "id": "E",
+        "text": "N"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nNine people(J,K,L,M,N,O,P,Q and R) live in a nine\nstorey building. The topmost floor is 9 and the\nlowermost floor is 1. Two people live between N\nand R. Two people live between R and M. M\nneither lives on the topmost floor nor on the\nlowermost floor. O lives on the fifth floor. Two\npeople live between O and Q. Two people live\nbetween J and L. L does not live on the topmost\nfloor. N lives above M. M doesn’t live below P.\nThree people live between Q and J. K lives above\nL.\nWho lives immediately above K?",
+    "options": [
+      {
+        "id": "A",
+        "text": "J"
+      },
+      {
+        "id": "B",
+        "text": "L"
+      },
+      {
+        "id": "C",
+        "text": "M"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "N"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. O lives on the fifth floor.\n2. Two people live between O and Q.\n3. Three people live between Q and J.\nCASE 1\nCASE 2\n4. Two people live between J and L.\n5. L does not live on the topmost floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nNine people(S,T,U,V,W,X,Y,Z and A) live in a nine\nstorey building. The topmost floor is 9 and the\nbottommost floor is 1. A lives three floors above\nT. Two people live between T and Z. T lives above\nZ. S lives on floor number 6. Two people live\nbetween S and X. X lives above W. T doesn’t live\nimmediately below S. Two people live between V\nand Y. A lives below V. U lives below W.\nWho lives immediately below X?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "T"
+      },
+      {
+        "id": "C",
+        "text": "W"
+      },
+      {
+        "id": "D",
+        "text": "V"
+      },
+      {
+        "id": "E",
+        "text": "Y"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. S lives on floor number 6.\n2. Two people live between S and X.\nCASE 1\nCASE 2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nEight persons - A, G, J, M, P, R, V, and Y are living\non different floors in the same building having\neight floors. The bottom floor is numbered 1, the\nfloor above it is numbered 2 and so on.\nFour persons are living between M and V. M is\nliving above V. V is living immediately above R. A\nneither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. Y lives below R. One person lives\nbetween V and G.\n \nHow many persons live between R and M?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      },
+      {
+        "id": "E",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Four persons are living between M and V. M is\nliving above V. V is living immediately above R.\nSo, we get two possible cases: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\n \nR\nY lives below R. So, case 2 is cancelled here: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\nY\nR\nA neither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. One person lives between V and G. We",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nEight persons - A, G, J, M, P, R, V, and Y are living\non different floors in the same building having\neight floors. The bottom floor is numbered 1, the\nfloor above it is numbered 2 and so on.Four\npersons are living between M and V. M is living\nabove V. V is living immediately above R. A\nneither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. Y lives below R. One person lives\nbetween V and G.\n \nWhich of the following combination is true\naccording to the given arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3rd floor - Y"
+      },
+      {
+        "id": "B",
+        "text": "2nd floor - V"
+      },
+      {
+        "id": "C",
+        "text": "7th floor - J"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Four persons are living between M and V. M is\nliving above V. V is living immediately above R.\nSo, we get two possible cases: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\n \nR\nY lives below R. So, case 2 is cancelled here: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\nY\nR\nA neither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. One person lives between V and G. We\nknow, J is one of the persons thus the final\narrangement is: -\nFloors\nPersons\n8\nM\n7\nJ\n6\nP\n5\nG\n4\nA\n3\nV\n2\nR\n1\nY",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nEight persons - A, G, J, M, P, R, V, and Y are living\non different floors in the same building having\neight floors. The bottom floor is numbered 1, the\nfloor above it is numbered 2 and so on.Four\npersons are living between M and V. M is living\nabove V. V is living immediately above R. A\nneither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. Y lives below R. One person lives\nbetween V and G.\n \nWhich of the following pair is living on bottom\nfloor and top floor respectively?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y - V"
+      },
+      {
+        "id": "B",
+        "text": "Y - M"
+      },
+      {
+        "id": "C",
+        "text": "A - P"
+      },
+      {
+        "id": "D",
+        "text": "G - M"
+      },
+      {
+        "id": "E",
+        "text": "A - R"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Four persons are living between M and V. M is\nliving above V. V is living immediately above R.\nSo, we get two possible cases: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\n \nR\nY lives below R. So, case 2 is cancelled here: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\nY\nR\nA neither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. One person lives between V and G. We",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nEight persons - A, G, J, M, P, R, V, and Y are living\non different floors in the same building having\neight floors. The bottom floor is numbered 1, the\nfloor above it is numbered 2 and so on.Four\npersons are living between M and V. M is living\nabove V. V is living immediately above R. A\nneither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. Y lives below R. One person lives\nbetween V and G.\n \nWho among the following is living on 5th floor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y"
+      },
+      {
+        "id": "B",
+        "text": "V"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      },
+      {
+        "id": "E",
+        "text": "R"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Four persons are living between M and V. M is\nliving above V. V is living immediately above R.\nSo, we get two possible cases: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\n \nR\nY lives below R. So, case 2 is cancelled here: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\nY\nR\nA neither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. One person lives between V and G. We\nknow, J is one of the persons thus the final\narrangement is: -\nFloors\nPersons\n8\nM\n7\nJ\n6\nP\n5\nG\n4\nA\n3\nV\n2\nR\n1\nY",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nEight persons - A, G, J, M, P, R, V, and Y are living\non different floors in the same building having\neight floors. The bottom floor is numbered 1, the\nfloor above it is numbered 2 and so on.Four\npersons are living between M and V. M is living\nabove V. V is living immediately above R. A\nneither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. Y lives below R. One person lives\nbetween V and G.\n \nWho is living on the floor just above P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y"
+      },
+      {
+        "id": "B",
+        "text": "V"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "G"
+      },
+      {
+        "id": "E",
+        "text": "P"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Four persons are living between M and V. M is\nliving above V. V is living immediately above R.\nSo, we get two possible cases: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\n \nR\nY lives below R. So, case 2 is cancelled here: -\nFloors\nPersons Persons\nCase 1\nCase 2\n8\nM\n \n7\n \nM\n6\n \n \n5\n \n \n4\n \n \n3\nV\n \n2\nR\nV\n1\nY\nR\nA neither lives on an odd-numbered floor nor on\ntop most floor. Three persons are living between\nP and R. One person lives between V and G. We",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \nTen persons I, J, K, L, M, N, O, P, Q, and R are\nliving in 10-storey building but not necessarily in\nthe same order.\nM is living on an even-numbered floor above the\nfloor number 6. Three persons are living between\nthe floors on which M and P are living. Only four\npersons are living between the floors on which P\nand O are living. K is living immediately above\nthe floor on which O is living. Q is living on the\nfloor number 3. There is only one floor between\nthe floor on which P is living and the floor on\nwhich J is living. J is living above P. L is living\nimmediately above Q. N is living above I but\nbelow J.\n \nFind the odd one out from the following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "N"
+      },
+      {
+        "id": "C",
+        "text": "L"
+      },
+      {
+        "id": "D",
+        "text": "I"
+      },
+      {
+        "id": "E",
+        "text": "O"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Q is living on the floor number 3\nM is living on an even-numbered floor above\nthe floor number 6 \nThree persons are living between the floors on\nwhich M and P are living\nOnly four persons are living between the\nfloors on which P and O are living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\n \n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\n \n \n1\nO\n \n \nK is living immediately above the floor on\nwhich O is living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\nK\n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\nK\n \n1\nO\n \n \nThere is only one floor between the floor on\nwhich P is living and the floor on which J is\nliving\nJ is living above P\nL is living immediately above Q, therefore,\nCase-2 will get eliminated\nN is living above I but below J\nFloors Persons\n10\nM\n9\nR\n8\nJ\n7\nN\n6\nP\n5\nI\n4\nL\n3\nQ\n2\nK\n1\nO\nThis is the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nTen persons I, J, K, L, M, N, O, P, Q, and R are\nliving in 10-storey building but not necessarily in\nthe same order.\nM is living on an even-numbered floor above the\nfloor number 6. Three persons are living between",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "Q is living on the floor number 3\nM is living on an even-numbered floor above\nthe floor number 6 \nThree persons are living between the floors on\nwhich M and P are living\nOnly four persons are living between the\nfloors on which P and O are living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\n \n9\n \nO\n8\n \nM",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \nTen persons I, J, K, L, M, N, O, P, Q, and R are\nliving in 10-storey building but necessarily in the\nsame order.\nM is living on an even-numbered floor above the\nfloor number 6. Three persons are living between\nthe floors on which M and P are living. Only four\npersons are living between the floors on which P\nand O are living. K is living immediately above\nthe floor on which O is living. Q is living on the\nfloor number 3. There is only one floor between\nthe floor on which P is living and the floor on\nwhich J is living. J is living above P. L is living\nimmediately above Q. N is living above I but\nbelow J.\n \nWhich among the following pair is living on top\nfloor and bottom floor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M - O"
+      },
+      {
+        "id": "B",
+        "text": "K - J"
+      },
+      {
+        "id": "C",
+        "text": "N - L"
+      },
+      {
+        "id": "D",
+        "text": "I - Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Q is living on the floor number 3\nM is living on an even-numbered floor above\nthe floor number 6 \nThree persons are living between the floors on\nwhich M and P are living\nOnly four persons are living between the\nfloors on which P and O are living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\n \n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\n \n \n1\nO\n \n \nK is living immediately above the floor on\nwhich O is living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\nK\n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\nK\n \n1\nO\n \n \nThere is only one floor between the floor on\nwhich P is living and the floor on which J is\nliving",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\nTen persons I, J, K, L, M, N, O, P, Q, and R are\nliving in 10-storey building but not necessarily in\nthe same order.\nM is living on an even-numbered floor above the\nfloor number 6. Three persons are living between\nthe floors on which M and P are living. Only four\npersons are living between the floors on which P\nand O are living. K is living immediately above\nthe floor on which O is living. Q is living on the\nfloor number 3. There is only one floor between\nthe floor on which P is living and the floor on\nwhich J is living. J is living above P. L is living\nimmediately above Q. N is living above I but\nbelow J.\nWho among the following is living on floor 7?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "K"
+      },
+      {
+        "id": "C",
+        "text": "N"
+      },
+      {
+        "id": "D",
+        "text": "I"
+      },
+      {
+        "id": "E",
+        "text": "M"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Q is living on the floor number 3\nM is living on an even-numbered floor above\nthe floor number 6 \nThree persons are living between the floors on\nwhich M and P are living\nOnly four persons are living between the\nfloors on which P and O are living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\n \n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\n \n \n1\nO\n \nK is living immediately above the floor on\nwhich O is living\n \nCase-1 Case-2\nFloors Persons Persons\n10\nM\nK\n9\n \nO\n8\n \nM\n7\n \n \n6\nP\n \n5\n \n \n4\n \nP\n3\nQ\nQ\n2\nK\n \n1\nO\n \nThere is only one floor between the floor on\nwhich P is living and the floor on which J is\nliving\nJ is living above P\nL is living immediately above Q, therefore,\nCase-2 will get eliminated\nN is living above I but below J\nFloors Persons\n10\nM\n9\nR\n8\nJ\n7\nN\n6\nP\n5\nI\n4\nL\n3\nQ\n2\nK\n1\nO\nThis is the final arrangement.\nHence, it is clear that \"N\" is living on floor 7.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \nTen persons I, J, K, L, M, N, O, P, Q, and R are\nliving in 10-storey building but necessarily in the\nsame order.\nM is living on an even-numbered floor above the\nfloor number 6. Three persons are living between\nthe floors on which M and P are living. Only four\npersons are living between the floors on which P\nand O are living. K is living immediately above\nthe floor on which O is living. Q is living on the\nfloor number 3. There is only one floor between\nthe floor on which P is living and the floor on\nwhich J is living. J is living above P. L is living\nimmediately above Q. N is living above I but\nbelow J.\n \nWho among the following is living on three floors\nabove floor 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "K"
+      },
+      {
+        "id": "C",
+        "text": "N"
+      },
+      {
+        "id": "D",
+        "text": "I"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Q is living on the floor number 3\nM is living on an even-numbered floor above\nthe floor number 6 \nThree persons are living between the floors on\nwhich M and P are living\nOnly four persons are living between the\nfloors on which P and O are living\n \nCase-1 Case-2\nFloors Persons Persons",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "22",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1) Q lives on an even numbered floor.\n2) L lives below Y and above Q but not\nimmediately.\n3) L does not live on the fourth floor.\n4) Two people live between U, who lives above\nthe fourth floor and Y.\n5) Three people live between S and U.\n6) People lives between S and Q are more or less\nthan two.\n(Here, case 1 will be eliminated)\n7) X lives immediately above O, who lives below\nV.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "23",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight people live in an eight-story building. One\nperson lives on one floor. The ground floor is\nnumbered 1 and the top floor is numbered 8. L\nlives below Y and above Q but not immediately. L\ndoes not live on the fourth floor. Q lives on an\neven numbered floor. People lives between S and\nQ are more or less than two. X lives immediately\nabove O, who lives below V. Three people live\nbetween S and U. Two people live between U,\nwho lives above the fourth floor and Y.\nFind the odd one.",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "O"
+      },
+      {
+        "id": "D",
+        "text": "U"
+      },
+      {
+        "id": "E",
+        "text": "L"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "1) Q lives on an even numbered floor.\n2) L lives below Y and above Q but not\nimmediately.\n3) L does not live on the fourth floor.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "24",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight people live in an eight-story building. One\nperson lives on one floor. The ground floor is\nnumbered 1 and the top floor is numbered 8. L\nlives below Y and above Q but not immediately. L\ndoes not live on the fourth floor. Q lives on an\neven numbered floor. People lives between S and\nQ are more or less than two. X lives immediately\nabove O, who lives below V. Three people live\nbetween S and U. Two people live between U,\nwho lives above the fourth floor and Y.\nHow many people live between V and U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Six"
+      },
+      {
+        "id": "B",
+        "text": "Five"
+      },
+      {
+        "id": "C",
+        "text": "One"
+      },
+      {
+        "id": "D",
+        "text": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "1) Q lives on an even numbered floor.\n2) L lives below Y and above Q but not\nimmediately.\n3) L does not live on the fourth floor.\n4) Two people live between U, who lives above\nthe fourth floor and Y.\n5) Three people live between S and U.\n6) People lives between S and Q are more or less\nthan two.\n(Here, case 1 will be eliminated)\n7) X lives immediately above O, who lives below\nV.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight people live in an eight-story building. One\nperson lives on one floor. The ground floor is\nnumbered 1 and the top floor is numbered 8. L\nlives below Y and above Q but not immediately. L\ndoes not live on the fourth floor. Q lives on an\neven numbered floor. People lives between S and\nQ are more or less than two. X lives immediately\nabove O, who lives below V. Three people live\nbetween S and U. Two people live between U,\nwho lives above the fourth floor and Y.\nWho among the following lives between Q and\nX?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S"
+      },
+      {
+        "id": "B",
+        "text": "L"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "O"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1) Q lives on an even numbered floor.\n2) L lives below Y and above Q but not\nimmediately.\n3) L does not live on the fourth floor.\n4) Two people live between U, who lives above\nthe fourth floor and Y.\n5) Three people live between S and U.\n6) People lives between S and Q are more or less\nthan two.\n(Here, case 1 will be eliminated)\n7) X lives immediately above O, who lives below\nV.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "26",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight people live in an eight-story building. One\nperson lives on one floor. The ground floor is\nnumbered 1 and the top floor is numbered 8. L\nlives below Y and above Q but not immediately. L\ndoes not live on the fourth floor. Q lives on an\neven numbered floor. People lives between S and\nQ are more or less than two. X lives immediately\nabove O, who lives below V. Three people live\nbetween S and U. Two people live between U,\nwho lives above the fourth floor and Y.\nWho lives on the top floor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "Y"
+      },
+      {
+        "id": "D",
+        "text": "O"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "1) Q lives on an even numbered floor.\n2) L lives below Y and above Q but not\nimmediately.\n3) L does not live on the fourth floor.\n4) Two people live between U, who lives above\nthe fourth floor and Y.\n5) Three people live between S and U.\n6) People lives between S and Q are more or less\nthan two.\n(Here, case 1 will be eliminated)\n7) X lives immediately above O, who lives below\nV.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "28",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight persons M, N, O, P, Q, R, S and T live on\ndifferent \nfloors \nof \na \nbuilding \nsuch \nthat\nbottommost floor is numbered as 1, floor above it\nas 2 and so on.\nO lives above R’s floor but not on the topmost\nfloor. P lives just above M and on the even\nnumbered floor. S lives two floors above N, who\nlives on odd numbered floor. T lives on\nbottommost floor. P doesn’t live on the topmost\nfloor.\nWho among the following lives on topmost floor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "Q"
+      },
+      {
+        "id": "D",
+        "text": "M"
+      },
+      {
+        "id": "E",
+        "text": "R"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Starting point: Here, we can start with T, S and N\nin order to form two cases.\nClues: S lives two floors above N, who lives on\nodd numbered floor. T lives on bottommost floor.\n \nrd\nth",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "29",
+    "question": "Directions: Study the following data carefully\nand answer accordingly.\nEight persons M, N, O, P, Q, R, S and T live on\ndifferent \nfloors \nof \na \nbuilding \nsuch \nthat\nbottommost floor is numbered as 1, floor above it\nas 2 and so on.\nO lives above R’s floor but not on the topmost\nfloor. P lives just above M and on the even\nnumbered floor. S lives two floors above N, who\nlives on odd numbered floor. T lives on\nbottommost floor. P doesn’t live on the topmost\nfloor.\n____ lives just below R’s floor.",
+    "options": [
+      {
+        "id": "A",
+        "text": "M"
+      },
+      {
+        "id": "B",
+        "text": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      },
+      {
+        "id": "E",
+        "text": "T"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Starting point: Here, we can start with T, S and N\nin order to form two cases.\nClues: S lives two floors above N, who lives on\nodd numbered floor. T lives on bottommost floor.\nInference: So, N lives on either 3 or 5 floor.\nClues: P lives just above M and on the even\nnumbered floor. O lives above R’s floor but not\non the topmost floor. P doesn’t live on the\ntopmost floor.\nInference: So, case 1 would be rejected as P\ncannot be placed. So, Q must be living at\ntopmost floor.\nT lives just below R’s floor.\n \nrd\nth\nrd\nth",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Three people live between K and N.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "There are only two floors between B and H, who\nlive on the sixth floor.\nI live just below B’s floor.\nThere is a gap of four floors between I and F.\nThe number of floors between F and H is the\nsame as the number of floors between I and G.",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "K lives above N.",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Two people live between O and N.",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1\nCASE 2\nCASE 3\nCASE 4",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Q lives below N but above O.\nCASE 1\nCASE 2 (a)",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "See solution number 7.",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1\nCASE 2\nCASE 3\nCASE 4",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p017_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Two people live between R and Q.",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p017_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "R neither lives above J nor M. Therefore, case\n2(b), Case 3 and Case 4 are no longer valid.\nCASE 1\nCASE 2 (a)",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1. O lives on the fifth floor.\n2. Two people live between O and Q.\n3. Three people live between Q and J.\nCASE 1\nCASE 2\n4. Two people live between J and L.\n5. L does not live on the topmost floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p017_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Q lives below N but above O.\nCASE 1\nCASE 2 (a)\nCASE 2 (b)\nCASE 3\nCASE 4",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p019_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "N lives above M.",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1\nCASE 2\nCASE 3\nCASE 4",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p029_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two people live between N and R.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p029_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Two people live between R and M.",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1\nCASE 2\nCASE 3\nCASE 4",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p029_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "M neither lives on the topmost floor nor on\nthe lowermost floor.\nCASE 1\nCASE 2 (a)",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "1. J lives on an odd number floor below floor 7.\n2. Two people live between J and M.\n3. M doesn’t live on the ground floor.\nCASE 1",
+    "tables": [],
+    "image_ref": "output\\images\\floor_puzzle_chapter_wise_dpp_english\\floor_puzzle_chapter_wise_dpp_english_p029_img01.png",
+    "tags": [
+      "floor",
+      "puzzle"
+    ],
+    "source_pages": [
+      29
+    ]
+  }
+]

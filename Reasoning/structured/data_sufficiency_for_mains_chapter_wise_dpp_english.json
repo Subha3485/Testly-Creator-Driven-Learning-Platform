@@ -1,0 +1,1509 @@
+[
+  {
+    "question_number": "1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nTowards which direction is Village M and from\nVillage T?\nI. Village P is to the south of Village M and\nVillage P is to the west of Village T.\nII. Village K is to the east of Village M and\nVillage K is to the north of Village T",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement II alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\nstatement I alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement I alone or in\nstatement II alone are sufficient to answer\nthe question."
+      },
+      {
+        "id": "D",
+        "text": "If the data given in both the statements I\nand II together are not sufficient to answer\nthe question."
+      },
+      {
+        "id": "E",
+        "text": "If the data given in both the statements I\nand II together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "By combining I and II, we get- D born on 20th\nFebruary.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nTown M is towards which direction of Town K?\nI. Town K is towards North-West of Town D\nII. Town M is towards South-East of Town D",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement II alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\nstatement I alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement I alone or in\nstatement II alone are sufficient to answer\nthe question."
+      },
+      {
+        "id": "D",
+        "text": "If the data given in both the statements I\nand II together are not sufficient to answer\nthe question."
+      },
+      {
+        "id": "E",
+        "text": "If the data given in both the statements I\nand II together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and III together are\nsufficient to answer the question, while the data\nin statement II is not sufficient to answer the\nquestion.\nBy combining both I and III we get - E sits\nsecond to the left of L.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "You must determine whether the information\ngiven in the statements is adequate to\nrespond to the question. Read both statements\nand give an answer.\nStatement: Five persons R, S, T, U, V lives in a\nfive-story building as the ground floor is\nnumbered 1 and above it, 2 and so on until the\ntopmost floor is numbered 5 but not necessarily\nin the same order. Between R and V, how many\npeople reside?\nI. Two persons live between R and T. Between T\nand U, only one person resides; T does not\nreside on the top floor.\nII. T lives above R. One person live between S\nand V. V lives above U.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data Sufficiency for Mains"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "If the data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Directions: The question below consists of Two\nstatements. You have to decide whether the\ndata provided in the statements are sufficient\nto answer the question.\nSeven people - P, Q, R, S, T, U and V are sitting\nin a linear row facing north. Two persons sit\nbetween S and V. R and S are immediate\nneighbours. Who sits to the immediate right of\nT?\nStatement I: U sits second to the left of V. R sits\nat the end. T sits second to the right of P.\nStatement II: Four persons sit between S and U.\nU sits at the end. P sits to the immediate left of\nV. Two persons sit between R and T.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement 2 alone is sufficient\nto answer the question while the data in\nstatement 1 alone is not sufficient to answer\nthe question"
+      },
+      {
+        "id": "B",
+        "text": "If the data in both statements 1 and 2\ntogether are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement 1 or in\nstatement 2 alone are sufficient to answer\nthe question"
+      },
+      {
+        "id": "D",
+        "text": "If the data in both statements 1 and 2\ntogether are necessary to answer the\nquestion"
+      },
+      {
+        "id": "E",
+        "text": "If the data in statement 1 alone is sufficient\nto answer the question while the data in\nstatement 2 alone is not sufficient to answer\nthe question"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.\nU > T > W > V > Z > X > Y",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Directions: The question below consists of Two\nstatements. You have to decide whether the\ndata provided in the statements are sufficient\nto answer the question.\nSix friends - Karthi, Keerthi, Kabilan, Kapil, Kavi\nand Kumar are sitting in a circular table facing\ncentre. One person sits between Keerthi and\nKavi. Who sits second to the left of Karthi?\nStatement 1: Kabilan sits second to the right of\nKumar, who sits to the immediate right of Kavi.\nTwo persons sit between Keerthi and Karthi\n(either from right or left)\nStatement 2: Kavi and Karthi are immediate\nneighbours. Kabilan sits to the immediate right\nof Keerthi. Keerthi and Karthi are not immediate\nneighbours.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement 1 alone is sufficient\nto answer the question while the data in\nstatement 2 alone is not sufficient to answer\nthe question"
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement 2 alone is sufficient\nto answer the question while the data in\nstatement 1 alone is not sufficient to answer\nthe question"
+      },
+      {
+        "id": "C",
+        "text": "If the data in both statements 1 and 2\ntogether are necessary to answer the\nquestion\n(D)"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "We have, FRom statement I and II\nQ is taller than O, who is taller than at least one\nperson.\nTwo persons are taller than N. Q is shorter than\nN.\n> > N > Q > O >\nThus, FRom statement I and II we get, the\nnumber of persons taller than Q are three.\nHence, we need not to check the statement III\nalone.\nOnly statement I and statement II is sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Directions: The question below consists of a\nquestion and two statements numbered I and\nIl given below it. You have to decide whether\nthe data given in the statements are sufficient\nto answer the questions.\nWhat does ‘nik’ mean in the given code\nlanguage?\nStatement I: nik tir rab nac' means blue black\nwhite purple' and kaz xam rab nik' means ‘pink\nblack blue red'\nStatement II: 'rab rol arp tgi' means 'black\ngreen brown mehroon' and 'nem xya zae gro'\nmeans 'golden cyan violet magenta'",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in both statements I and II\ntogether are necessary to answer the\nquestion"
+      },
+      {
+        "id": "B",
+        "text": "If the data given in both statements I and II\ntogether are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement, I alone or in\nstatement II alone are sufficient to answer\nthe question"
+      },
+      {
+        "id": "D",
+        "text": "If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement Il alone are not sufficient to\nanswer the question"
+      },
+      {
+        "id": "E",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\nstatement I alone are not sufficient to\nanswer the question"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "We have, statement I and II\nThere are more than one person between D\nand L\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nThus, from the above two statements we\ncannot conclude, as the data is redundant.\nNow, from statement II and III,\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nA is sitting to the immediate right of E. L is sitting\nsecond to the left of G.\nHence, Only statement II and III is sufficient as\nwe get the person sitting on the extreme Left\nend i.e. E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nEight people are sitting at a circular table\nfacing the centre. Who sits immediate right of\nD?\nI. C is not sitting near Q. D likes yellow. C likes\nviolet and sits second to the right of the one,\nwho likes yellow.\nII. Z likes grey and sits opposite Q. D sits\nopposite the one, who likes blue. Two persons\nsit between Q and the one, who likes yellow.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement I alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "The data in statement I alone or in\nstatement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "The \ndata \nin \nboth \nstatements \nI \nand\nstatement II are not sufficient to answer the\nquestion."
+      },
+      {
+        "id": "E",
+        "text": "The data in both statements I and statement\nII together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Six persons - J, K, L, M, N and O are sitting in a\ncircular table facing the center and each\nbelongs to different State E, F, G, H, I and A. So,\nwe can draw a structure as,\nBy using I and II together, we get, (option 1)\nI. L, belongs to F and sits second to the right of\none belongs to I, who is facing J. N sits third to\nthe left of M, who is an immediate neighbor of\none who belongs to A and O sits second to the\nright of M who belongs to H. So, we get,\nNow, merging II in I we get,\nK sits second to the left of one who belongs to\nE, who sits second to the left of J. One who\nbelongs to F is facing K, who is an immediate\nneighbor of one who belongs to H. So, we get,\nBy using I and II together, we cannot answer the\nquestion because we don’t know who belongs\nto G.\nNow, by using I and III, we get, (option 3)\nI.\nNow, merging III in I, we get,\nO belongs to I and sits second to the right of M,\nwho sits third to the left of N. One who belongs\nto A sits immediate right of M. So, we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "From statement I alone, we get:\nThe code for ‘river’ is ‘re’ or ‘tr’ or ‘rs’.\nFrom statement II alone, we get:\nThe code for ‘river’ is ‘re’ or ‘dy’ or ‘tr’.\nFrom statement III alone we get:\nThe code for ‘river’ is ‘re’.\nOnly Statement I and II are redundant.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nSix people K, J, L, Z, X, and C are sitting around\na circular table facing inside. Who among the\nfollowing sits second to the right of L?\nI. J sits near K. C is not a neighbor of X. One\nperson sits between X and J. K sits three places\naway from Z.\nII. X sits opposite C. Z is not a neighbor of C. L\nsits second to the right of C.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement I alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "The data in statement I alone or in\nstatement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "The \ndata \nin \nboth \nstatements \nI \nand\nstatement II are not sufficient to answer the\nquestion."
+      },
+      {
+        "id": "E",
+        "text": "The data in both statements I and statement\nII together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "No given option is sufficient to answer.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nSix people bought cars on three different dates\ni.e. 7 , 14 , and 23 in two different months i.e.\nMay and August of the same year but not\nnecessarily in the same order. Who bought the\ncar immediately before B?\nI. Z bought the car before X. B bought the car\nbefore H. Three people bought the car between\nH and X.\nII. Q bought the car immediately after S in the\nsame month. H bought the car on the 23 .",
+    "options": [
+      {
+        "id": "A",
+        "text": "th\nth\nrd\nrd"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Statement I and II are sufficient to answer.\nFloors\nPersons\n8\nE\n7\nH",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nSix persons O, P, Q, R, S and T visited market on\nsix different days starting from Monday to\nSaturday of the same week but not necessarily\nin the same order. Who visited the market on\nTuesday?\nI. Two people visited the market between R and\nT. O and T does not visit the market near to\neach other. R visited the market after P.\nII. Only one person visited the market after P.\nTwo people visited the market between O and\nS.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement I alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "The data in statement I alone or in\nstatement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "The \ndata \nin \nboth \nstatements \nI \nand\nstatement II are not sufficient to answer the\nquestion."
+      },
+      {
+        "id": "E",
+        "text": "The data in both statements I and statement\nII together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "We have, From statement I and statement II\nOnly one person get the Less rank than Q who\nget just one rank less than U.\n> > > S/T > > Q >\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV > R > P\nSo, clearly we could not determine the first\nperson as the data is insufficient.\nNow, \nafter \ncombining \nStatement \nII \nand\nstatement III, we get\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV’s rank is more than S’s rank. T’s rank is just\nmore than U's rank. S’s rank is not more than R’s\nand P’s rank. S's rank is not least.\nV > R/P > P/R > S > Q > T > U\nThus, we get the person whose rank is least\nfrom the above two statements.\nHence, All the three statements is not sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nTen persons are sitting in two parallel rows\ncontaining five persons in each. In row 1, F, G, H,\nN and J are sitting, facing south. In row 2, U, V,\nW, X and Y are sitting, facing north. All of them\nlike different colors. Who among them likes\nPink?\nI. There is only one person sits between Y and V.\nThe immediate neighbor of J faces Y who likes\ngreen and does not sit at an extreme end.\nII. The one, who likes red, sits third to the left of J\nand one of them sits to the extreme end of the\nrow. The immediate neighbor of J faces the\nperson, who likes pink color. Y sits two places\naway from the one, who likes orange.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "From statements I and II: We get three persons\nwere born after O.\nYear\ns\nAge\n(202\n2)\nPers\nons\n200\n2\n20\n \n200\n4\n18\nQ\n200\n6\n16\nO\n200\n9\n13\nP\n2012 10\nM\n2014 8\n \nFrom statements II and III: We get three persons\nwere born after O.\n \nYears\nAge (2022)\nPersons\n2002\n20\n \n2004\n18\nQ\n2006\n16\nP\n2009\n13\nO\n2012\n10\nM\n2014\n8",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nThere are seven people in a family. How L is\nrelated to W?\nI. L is married to P. N has only one daughter and\none son. W has a daughter.\nII. T is the daughter of R who is the father of L. P\nhas a mother-in-law. O is the father-in-law of\nL.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement I alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "The data in statement I alone or in\nstatement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "The \ndata \nin \nboth \nstatements \nI \nand\nstatement II are not sufficient to answer the\nquestion."
+      },
+      {
+        "id": "E",
+        "text": "The data in both statements I and statement\nII together are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "From I and II:\nHence, the required answer is ‘both the\nstatements are necessary’.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Each of the questions below consist a question\nfollowing two statements numbered I and II.\nYou have to decide whether the data provided\nin the statements are sufficient to answer the\nquestion. Study the data carefully and answer\nthe questions accordingly.\n \nWhat is the code for ‘tough’?\nI. ‘books are extra tough’ is written as ‘ai mi li ui’.\n‘extra knowledge easy tough’ is written as ‘ti ai\nui ci’.\nII. ‘extra knowledge easy tough’ is written as ‘ti\nai ui ci’. ‘tough we have leave’ is written as ‘hi yi\nwi ai’.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer \nthe \nquestion, \nwhile \ndata \nin\nstatement I alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "The data in statement I alone or in\nstatement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "The \ndata \nin \nboth \nstatements \nI \nand\nstatement II are not sufficient to answer the\nquestion.\n(E)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "From I:\n‘books are extra tough’ is written as ‘ai mi li ui’.\n‘extra knowledge easy tough’ is written as ‘ti ai\nui ci’.\nFrom II:\n‘extra knowledge easy tough’ is written as ‘ti ai\nui ci’.\n‘tough we have leave’ is written as ‘hi yi wi ai’.\nHence, only II is necessary’.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Directions: Study the following information\ncarefully and answer the given questions.\nX is in which direction with respect to Q?\nStatement I: P is 5 meter west of Q. R is 10 meter\nsouth of Q. S is 8 meter east of R. T is 12 meter\nnorth of S. X is 8 meter west of T.\nStatement II: V is 8 meter south of Q. V is 4\nmeter east of U which is 10 meter south of W. Y\nis 2 meter west of W. Distance between X and Y\nis 2 meters.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Statement I is alone sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Statement II is alone sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Both statements are together necessary to\nanswer the question"
+      },
+      {
+        "id": "D",
+        "text": "Both statement are together not sufficient\nto answer the question"
+      },
+      {
+        "id": "E",
+        "text": "Either I or II is sufficient to answer the\nquestion"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "According to statement I:\nTherefore, X is in the north direction with respect\nto Q.\nHence,Statement I is alone sufficient to answer\nthe question.\nAccording to statement II:\nHere, we only know the distance between X\nand Y but the direction is not mentioned. So, we\ncannot draw point X in statement II.\nHence,Statement II alone is not sufficient to\nanswer the question.\nHence, the correct option is 1.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Direction: Study the information given carefully\nand answer the question given below.\nI) In a certain code language, “Holidays are fun”\nis coded as “pnj kol sip” and “winter holidays\ncoming” is coded as “kol bit pop” and “Winter is\ncold” is coded as “bit fog sap”.\nII) In a certain code language, “They are\ncoming” is coded as “pop top gig” and “How\nare they” is coded as “top sun gig”.\nWhat is the code for “Coming”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Only II is sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Both are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "D",
+        "text": "Both are necessary to answer the question"
+      },
+      {
+        "id": "E",
+        "text": "Either I or II is sufficient"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Direction: Study the information given carefully\nand answer the question given below.\nSix people A, B, C, D, E, and f are sitting in a row\nfacing north. Who sits second to the left of E ?\nStatement I: A sits second from one end. One\nperson sits between A and B. C sits immediately\nleft of D. F sits to the right of C.\nStatement II: B sits third from one of the ends. F\nwho does not sit at the corner is one of the\npositions right to B. One person sits between D\nand F. Two people sit between D and A.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Only II is sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Both are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "D",
+        "text": "Both are necessary to answer the question"
+      },
+      {
+        "id": "E",
+        "text": "Either I or II is sufficient"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Statement I: A sits second from one end. One\nperson sits between A and B. C sits immediately\nleft of D.\nF sits to the right of C.\nHence, Statement I alone is not sufficient to\nanswer the question.\nStatement II: B sits third from one of the ends. F\nwho does not sit at the corner is one of the\npositions right to B.\nOne person sits between D and F. So, case II will\nbe cancelled.\nTwo people sit between D and A.\nHence, Statement II alone is not sufficient to\nanswer the question.\nIf we combine the both statements we get,\nTherefore, both statements are necessary to\nanswer the question.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Direction: The question below consists of some\ninformation along with the question and two\nstatements numbered I and II given below it.\nYou have to decide whether the data given in\nthe statements are sufficient to answer the\nquestion.\nP is standing in a horizontal line of 25 people all\nfacing north. Who stands to the immediate left\nof P?\nStatement I: P is 16 from the right end of the\nline. R is 8 from the left end of the line.\nStatement II: O is 4 to the right of R.\nNote: Consider right and left of the row same as\nthe right and left of the people standing in the\nrow.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement II alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\n \nth\nth\nth"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Directions: The question below consists of\nsome information along with the question and\ntwo statements numbered I and II given below\nit. You have to decide whether the data given\nin the statements are sufficient to answer the\nquestion.\nWhat is the 4 lowest number among the five\nprime numbers?\nStatement I: The sum of the five prime numbers\nis 70\nStatement II: 2, 3 and 5 are three among the\nfive given prime numbers.\nNote: Consider right and left of the row same\nas the right and left of the people standing in\nthe row.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement II alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\nstatement I alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement I alone or in\nstatement II alone are sufficient to answer\nthe question."
+      },
+      {
+        "id": "D",
+        "text": "If the data given in both statements I and II\ntogether are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "E",
+        "text": "If the data in both statements I and II\ntogether are necessary to answer the\nquestion"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The sum of the five prime numbers is 70\nThere are a lot of possibilities that satisfy this\nstatement, for ex; ( 2, 5, 11, 23, 29), (47, 13, 5, 3, 2)\n2, 3 and 5 are three among the five given prime\nnumbers.\nThis again gives us many possibilities including, (\n2, 3, 5, 7, 53), (47, 13, 5, 3, 2) and (2, 3, 5, 19, 41).\nIf we combine both the statements,\nThe sum of five prime numbers is 70\n2, 3 and 5 are three among the five given prime\nnumbers.\nWe still have multiple possible including ( 2, 3, 5,\n7, 53) and (47, 13, 5, 3, 2).\nWe cannot therefore, conclude which is the\nfourth highest number in this group.\nSo, even with both statement I and II a final\nanswer cannot be reached.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Direction: The question below consists of some\ninformation along with the question and two\nstatements numbered I and II given below it.\nYou have to decide whether the data given in\nthe statements are sufficient to answer the\nquestion.\nWho’s the third tallest in the group of 4 ?\nStatement I: A is taller than B, only 2 people are\nshorter than C and B is shorter than C.\nStatement II: D is shorter than C but taller than",
+    "options": [
+      {
+        "id": "B",
+        "text": "(A) If the data in statement I alone are sufficient\nto answer the question, while the data in\nstatement II alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II alone are sufficient\nto answer the question, while the data in\nstatement I alone are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data either in statement I alone or in\nstatement II alone are sufficient to answer\nthe question."
+      },
+      {
+        "id": "D",
+        "text": "If the data given in both statements I and II\ntogether are not sufficient to answer the\nquestion"
+      },
+      {
+        "id": "E",
+        "text": "If the data in both statements I and II\ntogether are necessary to answer the\nquestion\n \nth"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "A is taller than B, only 2 people are shorter than\nC and B is shorter than C.\nThis gives us several possibilities including,\nB < A < C < ? or B < ? < C < A or ? < B < C < A\nSo, we cannot conclude who the third tallest is\nfrom the statement I alone.\nD is shorter than C but taller than B.\nThis reference also gives us many possibilities,\nfor example:\nA < B < D < C or B < D < C < A\nSo, we cannot conclude who the third tallest\nperson is from statement II alone.\nCombining statement I and II,\nA is taller than B, only 2 people are shorter than\nC and B is shorter than C.\nD is shorter than C but taller than B.\nFrom 2nd reference we get D < B < C.\nCombining with 1st reference we get D < B < C <\nA.\nHence the third tallest person is B.\nWe therefore, need both statement I and\nstatement II to answer this question.\n \nth\nth\nth\nth\nth\nth",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "The \nquestions \nbelow \nconsist \nof \nthree\nstatements numbered I, II and III given below\nit. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the question. Read all the statements\nand answer the question\nSix persons P, Q, R, S, T, and U are standing in a\nrow facing north in increasing order of their\nheights from right to left. That means the\nshortest one stands at the rightmost end while\nthe tallest one stands at the leftmost end.\nWho among the following is the second tallest?\nI. Q is just shorter than T who is not shorter than\nP. P height is 170 cm. P is standing on the left S\nand is not the second tallest among all.\nII. R’s height is 153 cm. P is not an immediate\nneighbour of T. U is not the shortest.\nIII. More than two persons are standing to the\nright of P. Q and S are taller than R.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Statement I and Statement II together are\nsufficient"
+      },
+      {
+        "id": "B",
+        "text": "Statement II and Statement III together are\nsufficient"
+      },
+      {
+        "id": "C",
+        "text": "Statement I and Statement III together are\nsufficient"
+      },
+      {
+        "id": "D",
+        "text": "All the statements I, II, and III together are\nsufficient"
+      },
+      {
+        "id": "E",
+        "text": "Either two of the given statements are\nsufficient"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "By combining I and II, we get- D born on 20th\nFebruary.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "The \nquestions \nbelow \nconsist \nof \nthree\nstatements numbered I, II, and III given below\nit. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the question. Read all the statements\nand answer the question\nIn a family there are 9 members i.e. A, B, C, D, E,\nF, G, H, and I have three generations.\nHow is H related to D?\nI. C is the unmarried brother of A. F is the sister-\nin-law of A. There are two married couples in\nthe family.\nII. I is the father-in-law of H who is the father of",
+    "options": [
+      {
+        "id": "B",
+        "text": "E is the daughter of F. A is the daughter-in-\nlaw of G who has only one child.\nIII. H is not married to F. I has only one daughter.\nG is not a female. B is the child of H."
+      },
+      {
+        "id": "A",
+        "text": "All the statements I, II, and III together are\nsufficient"
+      },
+      {
+        "id": "B",
+        "text": "Statement II and Statement III together are\nsufficient"
+      },
+      {
+        "id": "C",
+        "text": "Statement I and Statement III together are\nsufficient"
+      },
+      {
+        "id": "D",
+        "text": "Statement I and Statement II together are\nsufficient"
+      },
+      {
+        "id": "E",
+        "text": "Either two of the given statements are\nsufficient"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and III together are\nsufficient to answer the question, while the data\nin statement II is not sufficient to answer the\nquestion.\nBy combining both I and III we get - E sits\nsecond to the left of L.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "The \nquestions \nbelow \nconsist \nof \nthree\nstatements numbered I, II, and III given below\nit. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the question. Read all the statements\nand answer the question.\nA, B, C, D and E are five friends who live on a\ndifferent floor of a 9-floor building such that the\nground floor of the building is marked as 1 and\nabove it is marked as 2 and so on till the\ntopmost floor which is marked as 9. Other floors\nare vacant.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "If the data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Three statements numbered I, II & III given\nbelow. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the question.\nFive friends A, B, C, D & E have to go to the\nparty on 14 May, 15 May & 16 May (not\nnecessarily in the same order). They have\ndifferent professions: Doctor, Actor, CA, Engineer\n& Teacher. No two friends have the same\nprofession. Not more than 2 people go to the\nsame party. One person goes to only one party.\nOn 16th May_____&_____goes to a party\n(names of people).\nI. A goes to a party with Actor. D is not a CA.\nTeacher goes to party with E. C is not a teacher.\nD doesn’t have to go on 15th May.\nII. Neither C nor B goes to party with D. D\ndoesn’t go to party with A. C doesn’t to party\nwith B. D is not a teacher.\nIII. A doesn’t go to party with B. E is not an\nengineer. C is not a CA but goes with A. E\ndoesn’t go on 14th May.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I and II together is\nsufficient to answer the question, and the\ndata in statement III is not required to\nanswer the question"
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement II and III is sufficient\nto answer the question, and the data in\nstatement III is not required to answer the\nquestion"
+      },
+      {
+        "id": "C",
+        "text": "If the data in statement II and III is sufficient\nto answer the question, and the data in\nstatement I is not required to answer the\nquestion"
+      },
+      {
+        "id": "D",
+        "text": "If the data in all three statements together is\nneeded to answer the question"
+      },
+      {
+        "id": "E",
+        "text": "If the data in all three statements together\nare not sufficient to answer the question"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.\nU > T > W > V > Z > X > Y",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Three statements numbered I, II & III given\nbelow. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the question.\nSeven girls of a class D, E, G, P, M, R and L are\nstanding in a queue. Each of them got a\ndifferent rank in the classroom 1st, 2nd, 3rd, 4th,\n5th, 6th & 7th rank.\nWho is standing in the middle of the queue?\nI. D is first in the class and she is standing two\nplaces ahead of P. P is not the last person in the\nqueue.\nII. R and L are standing adjacent to each other\nand their ranks are also numerically adjacent to\neach other.\nIII. E who got 3rd rank in the class is standing\nbehind only M.\n \nrd\nth\nst\nth",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "We have, FRom statement I and II\nQ is taller than O, who is taller than at least one\nperson.\nTwo persons are taller than N. Q is shorter than\nN.\n> > N > Q > O >\nThus, FRom statement I and II we get, the\nnumber of persons taller than Q are three.\nHence, we need not to check the statement III\nalone.\nOnly statement I and statement II is sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Three statements numbered I, II and III given\nbelow. You have to decide whether the data\nprovided in the statements are sufficient to\nanswer the questions.\nIn certain code word “how was your day” is\ncoded as ‘534 544 554 564’ then what does\n‘554’ means?\nI. “walk every day healthy” means ‘584 594 564\n524‘ and “your dream true one day” means ‘554\n514 504 574 564’.\nII. “Dream your day nice” means ‘514 554 564\n655‘ and “have nice dream” means ‘635 655 614’\nIII. “how joyful day was” means ‘534 645 564\n544’.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Either I or II alone"
+      },
+      {
+        "id": "D",
+        "text": "Either I or III alone"
+      },
+      {
+        "id": "E",
+        "text": "All I, II and III"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "We have, statement I and II\nThere are more than one person between D\nand L\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nThus, from the above two statements we\ncannot conclude, as the data is redundant.\nNow, from statement II and III,\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nA is sitting to the immediate right of E. L is sitting\nsecond to the left of G.\nHence, Only statement II and III is sufficient as\nwe get the person sitting on the extreme Left\nend i.e. E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nYou have to consider the information in all the\nthree \nstatements \nand \ndecide \nwhich\ninformation in the statement(s) is sufficient to\nanswer the question. Indicate your answer\naccordingly.\nThere are 13 members in a family. Each of them\nis related to other in some way.\nHow is K related to M?\nI. A is married to B, who is daughter of P. F is\nniece of A. S is daughter of B and sister of K. X is\nbrother of B and is son of H. P is sister of O. N is\nson of A and brother of K. B is sister-in-law of M.\nA is brother-in-law of T. Z is daughter of X.\nII. A has only one son, who is married to R, who\nhas 2 sons. H is the paternal aunt of M, who is\nthe brother of N. K is not married to R. U is not\nmarried to A. S is the niece of U.\nIII. U is the only brother-in-law of Z’s mother. K is\nthe paternal grandfather of R’s son. I is sister of\nR. T is father of S and P, who is brother of S. K is\nson of J.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement I alone is sufficient to\nanswer the question"
+      },
+      {
+        "id": "B",
+        "text": "The data in statement II alone is sufficient to\nanswer the question"
+      },
+      {
+        "id": "C",
+        "text": "The data in either statement I or statement II\nis sufficient to answer the question"
+      },
+      {
+        "id": "D",
+        "text": "The data in statement II and statement III\ntogether sufficient to answer the question"
+      },
+      {
+        "id": "E",
+        "text": "The data in statement III alone is sufficient to\nanswer the question"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Six persons - J, K, L, M, N and O are sitting in a\ncircular table facing the center and each\nbelongs to different State E, F, G, H, I and A. So,\nwe can draw a structure as,\nBy using I and II together, we get, (option 1)\nI. L, belongs to F and sits second to the right of\none belongs to I, who is facing J. N sits third to\nthe left of M, who is an immediate neighbor of\none who belongs to A and O sits second to the\nright of M who belongs to H. So, we get,\nNow, merging II in I we get,\nK sits second to the left of one who belongs to\nE, who sits second to the left of J. One who\nbelongs to F is facing K, who is an immediate\nneighbor of one who belongs to H. So, we get,\nBy using I and II together, we cannot answer the\nquestion because we don’t know who belongs\nto G.\nNow, by using I and III, we get, (option 3)\nI.\nNow, merging III in I, we get,\nO belongs to I and sits second to the right of M,\nwho sits third to the left of N. One who belongs\nto A sits immediate right of M. So, we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Directions:A problem consists of a question\nand three statements numbered I, II and III.\nYou have to decide whether the data given in\nthe statements are sufficient to answer the\nquestion.\nAjay planted different plants viz. Fern, Jade, Lily,\nPalm, Spider and Vine in different pots - P, Q, R,\nS, T and U on different days of a week starting\non a Monday, where days of planting were\nconsecutive. No plant was planted after Spider,\nwhich was planted immediately after the plant\nplanted in pot U. Which plant did he plant in\nthe pot S?\nStatement I: Three plants were planted in\nbetween the plants planted in pots Q and U.\nLily was planted in pot P but not on Thursday.\nPlant in pot S was planted before the plant in\npot R.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "From statement I alone, we get:\nThe code for ‘river’ is ‘re’ or ‘tr’ or ‘rs’.\nFrom statement II alone, we get:\nThe code for ‘river’ is ‘re’ or ‘dy’ or ‘tr’.\nFrom statement III alone we get:\nThe code for ‘river’ is ‘re’.\nOnly Statement I and II are redundant.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "A question and three statements numbered I, II\nand III are given below. You have to decide\nwhether the data provided in the statements\nare sufficient to answer the question. Read all\nthe statements and give the answer.\nSeven family members - Arjun, Samay, Kavish,\nMilan, Revan, Nitin and Viraj visit the temple\nfrom Monday to Sunday. Who among the\nfollowing visits on Monday?\nStatement I:- Milan visits the temple before\nSamay. Only one person visits the temple\nbetween Milan and Samay. Milan does not visit\ntemple after Wednesday. Three persons visit\nthe temple between Kavish and Revan, who\nvisits before Kavish.\nStatement II:- Three persons visit between Nitin\nand Samay. The number of persons visit before\nand after Milan is the same. Only one person\nvisits between Nitin and Milan, who visits after\nNitin. Viraj does not visit to temple on Sunday.\nStatement III:- Three persons visit the temple\nbetween Arjun and Viraj, who visits after Arjun.\nThe number of persons visit temple after Samay\nis same as the number of persons visit temple\nbefore Nitin.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only Statement I is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "B",
+        "text": "Only Statement II is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "C",
+        "text": "Only Statement III is sufficient to answer the\nquestion."
+      },
+      {
+        "id": "D",
+        "text": "Both II and III are sufficient to answer the\nquestion."
+      },
+      {
+        "id": "E",
+        "text": "All three statements are not sufficient to\nanswer the question."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "No given option is sufficient to answer.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "A question and three statements numbered I, II\nand III are given below. You have to decide\nwhether the data provided in the statements\nare sufficient to answer the question. Read all\nthe statements and give the answer.\nWhich of the following statements shows that\n\"Some Educated are boys\"?\nI: 'No married are unhappy' and 'Only a few\nBoys are bachelors' and 'All Smart are\neducated'\nII: 'All Boys are smart' and 'No Educated are\nunemployed' and 'All married are bachelors'.\nIII: 'Some boys are married' and 'No unhappy\nare married' and 'All Bachelors are educated'.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The data in statement II and either I or III are\nsufficient to answer the question."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Statement I and II are sufficient to answer.\nFloors\nPersons\n8\nE\n7\nH",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "In each of the following questions, a few\nstatements have been given. Analyse the\ngiven statements and answer whether the\ndata given in the statements are sufficient to\nanswer the question or not.\nFive boxes of different colors – red, black,\ngreen, yellow and pink – are placed one above\nanother on different shelves but not necessarily\nin the same order. The bottommost shelf is\nnumbered as 1 and the topmost shelf is\nnumbered \nas",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "We have, From statement I and statement II\nOnly one person get the Less rank than Q who\nget just one rank less than U.\n> > > S/T > > Q >\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV > R > P\nSo, clearly we could not determine the first\nperson as the data is insufficient.\nNow, \nafter \ncombining \nStatement \nII \nand\nstatement III, we get\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV’s rank is more than S’s rank. T’s rank is just\nmore than U's rank. S’s rank is not more than R’s\nand P’s rank. S's rank is not least.\nV > R/P > P/R > S > Q > T > U\nThus, we get the person whose rank is least\nfrom the above two statements.\nHence, All the three statements is not sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Which \nbox \nis \nplaced\nimmediately below the red box? \nStatement I: One box is placed between black\nbox and red box, which is placed immediately\nbelow yellow box. Two boxes are placed\nbetween pink box and green box.\nStatement II: Black box is placed immediately\nbelow pink box and neither of the boxes is\nplaced adjacent to green box. One box is\nplaced between green box and red box.\nStatement III: Two boxes are placed between\nyellow box and black box. Red box is placed at\nthe prime numbered shelf and two boxes below\nthe green box.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only statement II alone is sufficient to\nanswer \nthe \nquestion \nwhereas \nboth\nstatements I and III are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "B",
+        "text": "Both statements I and II together are\nsufficient to answer the question whereas\nstatement III alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "C",
+        "text": "Both statements I and III together are\nsufficient to answer the question whereas\nstatement II alone is not sufficient to answer\nthe question."
+      },
+      {
+        "id": "D",
+        "text": "Any two of the given statements are\nsufficient to answer the question."
+      },
+      {
+        "id": "E",
+        "text": "All the three statements together are\nnecessary to answer the question."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "We have, FRom statement I and II\nQ is taller than O, who is taller than at least one\nperson.\nTwo persons are taller than N. Q is shorter than\nN.\n> > N > Q > O >\nThus, FRom statement I and II we get, the\nnumber of persons taller than Q are three.\nHence, we need not to check the statement III\nalone.\nOnly statement I and statement II is sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "In the following questions, a question is\nfollowed \nby \nsome \ninformation \nin \nthree\nstatements. \nYou \nhave \nto \ndecide \nwhich\nstatement(s) data is sufficient to answer the\nquestion and mark your answer accordingly.\nBy which of the following statements, the\nconclusion - Some TV is Car which is not a\nTable, is definitely followed?\nI. Some Bed is TV, All TV is Car; No Table is a\nBag, Some Park is TV.\nII. Some Cars are Bags, No Park is a Car, All\nBags are TV, No Bag is Table.\nIII. No Table is a Park, Some Park is Bag, No TV is\nCar, All TV is Bed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II is sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Only II or both I and III is sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Any one of them is sufficient"
+      },
+      {
+        "id": "D",
+        "text": "All three together will be needed"
+      },
+      {
+        "id": "E",
+        "text": "None is sufficient"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "From statements I and II: We get three persons\nwere born after O.\nYear\ns\nAge\n(202\n2)\nPers\nons\n200\n2\n20\n \n200\n4\n18\nQ\n200\n6\n16\nO\n200\n9\n13\nP\n2012 10\nM\n2014 8\n \nFrom statements II and III: We get three persons\nwere born after O.\n \nYears\nAge (2022)\nPersons\n2002\n20\n \n2004\n18\nQ\n2006\n16\nP\n2009\n13\nO\n2012\n10\nM\n2014\n8",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Each of the questions below consists of a\nquestion and some statements numbered\ngiven below it. You have to decide whether the\ndata provided in the statements are sufficient\nto \nanswer \nthe \nquestion. \nRead \nall \nthe\nstatements \nand \nanswer \nthe \nfollowing\nquestions.\n \nEight persons i.e. A, B, C, D, E, F, G and H were\nborn either on 15th or 20th on four different\nmonths i.e. January, February, March and April.\n(not necessarily in the same order). Who among\nthe following was born on 20th February?\nI. Four persons were born between A and H. C\nwas born in one of the months which has 31\ndays and was also born before H. E was born\njust before H.\nII. There are three persons born between B and\nF, both of them were born on the 20th date of\nthe month. B was born just before A and just\nafter G. B was born in January.\nIII. There are two persons born between A and\nG. C was not born on the 15th date of the\nmonth. G was not born just before E.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone or in\nstatement II alone or statement III alone is\nsufficient to answer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement I and II together are\nsufficient to answer the question, while the\ndata in statement III are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data in statement I and III together are\nsufficient to answer the question, while the\ndata in statement II is not sufficient to\nanswer the question."
+      },
+      {
+        "id": "D",
+        "text": "If the data in statement II and III together\nare sufficient to answer the question, while\nthe data in statement I is not sufficient to\nanswer the question."
+      },
+      {
+        "id": "E",
+        "text": "If the data in all the statements I, II and III\ntogether are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "By combining I and II, we get- D born on 20th\nFebruary.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Each of the questions below consists of a\nquestion and some statements numbered\ngiven below it. You have to decide whether the\ndata provided in the statements are sufficient\nto \nanswer \nthe \nquestion. \nRead \nall \nthe\nstatements \nand \nanswer \nthe \nfollowing\nquestions.\n \nEight persons sit around a square table (not\nnecessarily in the same order). Persons who sit\nin the middle of the side face towards the\ncentre and persons who sit at corners face\noutside. Who sits 2nd to the left of L?\nI. J sits 2nd to the right of K. I sits immediate left\nof L. E and F are not immediate neighbours.\nII. G and J, immediate neighbours of L. E, sit at\none of the corners. I sits immediately right of E.\nIII. E sits in the middle of the side. G is the\nimmediate neighbour of both H and L. J sits\nopposite to I who is not an immediate\nneighbour of F.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone or in\nstatement II alone or statement III alone is\nsufficient to answer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement I and II together are\nsufficient to answer the question, while the\ndata in statement III are not sufficient to\nanswer the question.\n(C)"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and III together are\nsufficient to answer the question, while the data\nin statement II is not sufficient to answer the\nquestion.\nBy combining both I and III we get - E sits\nsecond to the left of L.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Each of the questions below consists of a\nquestion and some statements numbered\ngiven below it. You have to decide whether the\ndata provided in the statements are sufficient\nto \nanswer \nthe \nquestion. \nRead \nall \nthe\nstatements \nand \nanswer \nthe \nfollowing\nquestions.\n \nSeven persons i.e. I, J, K, L, M, N and O are\nsitting in a row facing North. How many persons\nsit between I and M?\nStatement I: I sits 3rd to the right of J. Three\npersons sit between K and L.\nStatement II: M sits 2nd to the left of N. More\nthan three persons sit between I and O.\nStatement III: J is an immediate neighbor of L. O\ndoesn’t sit at extreme end.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone or in\nstatement II alone or in statement III alone is\nsufficient to answer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement I and II together are\nsufficient to answer the question, while the\ndata in statement III are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data in statement I and III together are\nsufficient to answer the question, while the\ndata in statement II is not sufficient to\nanswer the question."
+      },
+      {
+        "id": "D",
+        "text": "If the data in statement II and III together\nare sufficient to answer the question, while\nthe data in statement I is not sufficient to\nanswer the question."
+      },
+      {
+        "id": "E",
+        "text": "If the data in all the statement I, II and III\ntogether are necessary to answer the\nquestion."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "If the data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Each of the questions below consists of a\nquestion and some statements numbered\ngiven below it. You have to decide whether the\ndata provided in the statements are sufficient\nto \nanswer \nthe \nquestion. \nRead \nall \nthe\nstatements \nand \nanswer \nthe \nfollowing\nquestions.\n \nSeven persons i.e. T, U, V, W, X, Y and Z of\ndifferent ages are living together. How many\npersons are older than V?\nStatement I: T is younger than U and older than\nV. Only two persons are older than W.\nStatement II: X is older than Y only. The age of\nthree persons is between Z and U.\nStatement III: There are as many persons are\nolder than V as younger than Z. X is younger\nthan W.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement I alone or in the\nstatement II alone or in the statement III\nalone is sufficient to answer the question."
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement I and II together are\nsufficient to answer the question, while the\ndata in statement III are not sufficient to\nanswer the question."
+      },
+      {
+        "id": "C",
+        "text": "If the data in statement I and III together are\nsufficient to answer the question, while the\ndata in statement II is not sufficient to\nanswer the question."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.\nU > T > W > V > Z > X > Y",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Directions: The following question consists of\nthree statements numbered I, II and III. Decide\nif the data given in the statements are\nsufficient to answer the question. Read the\nstatements carefully and give the answer.\nSix persons M, N, O, P, Q and R whose heights\nare different . How many persons are taller\nthan Q?\nI.Q is taller than O, who is taller than at least\none person.\nII.Two persons are taller than N. Q is shorter than\nN.\nIII.At least two persons are shorter than R, who\nis shorter than M.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Either I and III or III and II"
+      },
+      {
+        "id": "B",
+        "text": "All are necessary to answer"
+      },
+      {
+        "id": "C",
+        "text": "Only statement I and II is sufficient"
+      },
+      {
+        "id": "D",
+        "text": "Only statement II and III"
+      },
+      {
+        "id": "E",
+        "text": "Question cannot be answered even with the\ninformation in all the statements"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "We have, FRom statement I and II\nQ is taller than O, who is taller than at least one\nperson.\nTwo persons are taller than N. Q is shorter than\nN.\n> > N > Q > O >\nThus, FRom statement I and II we get, the\nnumber of persons taller than Q are three.\nHence, we need not to check the statement III\nalone.\nOnly statement I and statement II is sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Directions: The following question consists of\nthree statements numbered I, II and III. Decide\nif the data given in the statements are\nsufficient to answer the question. Read the\nstatements carefully and give the answer\nSix Persons are sitting in a row that all are\nfacing north. Who is on the extreme left end ?\nI.There are more than one person between D\nand L.\nII.B is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nIII.A is sitting to the immediate right of E. L is\nsitting second to the left of G.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only statement II and I"
+      },
+      {
+        "id": "B",
+        "text": "Only statement I"
+      },
+      {
+        "id": "C",
+        "text": "Only statement II and III is sufficient"
+      },
+      {
+        "id": "D",
+        "text": "All are true"
+      },
+      {
+        "id": "E",
+        "text": "Question cannot be answered even with the\ninformation in all the statements"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "We have, statement I and II\nThere are more than one person between D\nand L\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nThus, from the above two statements we\ncannot conclude, as the data is redundant.\nNow, from statement II and III,\nB is sitting to the right of A. L is sitting to the\nimmediate right of C and both are not on the\nextreme end.\nA is sitting to the immediate right of E. L is sitting\nsecond to the left of G.\nHence, Only statement II and III is sufficient as\nwe get the person sitting on the extreme Left\nend i.e. E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Directions: The question given below consists\nof 3 statements numbered (1), (2) and (3) given\nbelow it. You have to decide whether data\nprovided in the statements are sufficient to\nanswer the questions.\nSix persons - J, K, L, M, N and O are sitting in a\ncircular table facing the center and each\nbelongs to different State E, F, G, H, I and A\nthen, who sits immediate right of the one who\nbelongs to G?\nI. L, belongs to F and sits second to the right of\none belongs to I, who is facing J. N sits third to\nthe left of M, who is an immediate neighbor of\none who belongs to A and O sits second to the\nright of M who belongs to H.\nII. K sits second to the left of one who belongs\nto E, who sits second to the left of J. One who\nbelongs to F is facing K, who is an immediate\nneighbor of one who belongs to H.\nIII. O belongs to I and sits second to the right of\nM, who sits third to the left of N. One who\nbelongs to A sits immediate right of M.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both statements I and II together are\nsufficient."
+      },
+      {
+        "id": "B",
+        "text": "Both statements II and III together are\nsufficient."
+      },
+      {
+        "id": "C",
+        "text": "Both statements I and III together are\nsufficient.\n(D)"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Six persons - J, K, L, M, N and O are sitting in a\ncircular table facing the center and each\nbelongs to different State E, F, G, H, I and A. So,\nwe can draw a structure as,\nBy using I and II together, we get, (option 1)\nI. L, belongs to F and sits second to the right of\none belongs to I, who is facing J. N sits third to\nthe left of M, who is an immediate neighbor of\none who belongs to A and O sits second to the\nright of M who belongs to H. So, we get,\nNow, merging II in I we get,\nK sits second to the left of one who belongs to\nE, who sits second to the left of J. One who\nbelongs to F is facing K, who is an immediate\nneighbor of one who belongs to H. So, we get,\nBy using I and II together, we cannot answer the\nquestion because we don’t know who belongs\nto G.\nNow, by using I and III, we get, (option 3)\nI.\nNow, merging III in I, we get,\nO belongs to I and sits second to the right of M,\nwho sits third to the left of N. One who belongs\nto A sits immediate right of M. So, we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "The question given below consists of three\nstatements numbered I, II and III given below\nit. You have to decide which of the statements\nare redundant to answer the question. Read all\nthe statements and give answer.\n \nIn a certain code language “river are diversity\ndrivers” is coded as “re, dy, tr, rs”.\nI. In the same code language “are erosion\ncaused often” is coded as ‘dy, mn, tu, kr”\nII.In the same code language “drivers of good\nsociety always” is coded as “rs, fu, do, fr, tu”\nIII.In the same code language “river caused\ndensity increasing always” is coded as “re, de,\nsi, fd, tu”\n \nWhich of the following statement is redundant\nto find the code for “river”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only Statement I is redundant"
+      },
+      {
+        "id": "B",
+        "text": "Only Statement II is redundant"
+      },
+      {
+        "id": "C",
+        "text": "Only Statement III is redundant"
+      },
+      {
+        "id": "D",
+        "text": "Only Statement I and II are redundant"
+      },
+      {
+        "id": "E",
+        "text": "Only Statement I and III are redundant"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "From statement I alone, we get:\nThe code for ‘river’ is ‘re’ or ‘tr’ or ‘rs’.\nFrom statement II alone, we get:\nThe code for ‘river’ is ‘re’ or ‘dy’ or ‘tr’.\nFrom statement III alone we get:\nThe code for ‘river’ is ‘re’.\nOnly Statement I and II are redundant.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "The question given below is followed by three\nstatements. You have to decide whether the\ndata provided in the statements are sufficient\nto answer the question.\n \nSeven people - J, K, L, M, N, O, and P are living\nin a seven-story building in which the topmost\nfloor is numbered seven and the bottommost\nfloor is numbered one. No one lives between J\nand N. How many people live above N?\nStatement I: Three people live between L and P.\nJ lives immediately below P. Two people live\nbetween M and N.\nStatement II: The number of people who live\nabove J was the same as the number of people\nwho live below O. K lives above O.\nStatement III: Three people live between K and\nO. The number of people who live between J\nand K was the same as the number of people\nwho live between M and O.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If the data in statement, I alone is sufficient\nto answer the question"
+      },
+      {
+        "id": "B",
+        "text": "If the data in statement, I and statement II\ntogether are sufficient to answer the\nquestion"
+      },
+      {
+        "id": "C",
+        "text": "If the data in statement II and either\nstatement, I or statement III together are\nsufficient to answer the question"
+      },
+      {
+        "id": "D",
+        "text": "Other than the given options"
+      },
+      {
+        "id": "E",
+        "text": "If the data in statement, I and statement III\ntogether \nare \nsufficient \nto \nanswer \nthe\nquestion"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "No given option is sufficient to answer.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Each of the questions below consists of a\nquestion and two statements numbered I, II\nand III are given below it. You have to decide\nwhether the data provided in the statements\nare sufficient to answer the question:\n \nEight persons, C, E, M, K, J, H, X, V lives on eight\nstorey building on different floors, but not\nnecessarily in the same order. How many\npersons live above M?\nI. C lives on an even numbered floor. 3 persons\nlive between H and J. K lives immediately below\nJ. H lives immediately above C.\nII. At least two persons live between K and E. M\nlives immediately above X. Two persons live\nbetween X and V.",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Statement I and II are sufficient to answer.\nFloors\nPersons\n8\nE\n7\nH",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Each of the questions below consists of a\nquestion and two statements numbered I, II\nand III are given below it. You have to decide\nwhether the data provided in the statements\nare sufficient to answer the question:\n \nSeven persons P, Q, R, S, T, U and V have been\nfelicitated according to their ranks. Who among\nthe following get the rank least?\nI. Only one person get the less rank than Q who\nget just one rank less than U.\nII. Only three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nIII. V’s rank is more than S’s rank. T’s rank is just\nmore than U’s rank. S’s rank is not more than R’s\nand P’s rank. S's rank is not least.",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of the statement is sufficient"
+      },
+      {
+        "id": "B",
+        "text": "If data in statement I and II is sufficient."
+      },
+      {
+        "id": "C",
+        "text": "All three statements is not sufficient to\nanswer the question."
+      },
+      {
+        "id": "D",
+        "text": "Only statement II is sufficient."
+      },
+      {
+        "id": "E",
+        "text": "Only statement I and III is sufficient."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "We have, From statement I and statement II\nOnly one person get the Less rank than Q who\nget just one rank less than U.\n> > > S/T > > Q >\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV > R > P\nSo, clearly we could not determine the first\nperson as the data is insufficient.\nNow, \nafter \ncombining \nStatement \nII \nand\nstatement III, we get\nOnly three persons got the more rank from\neither S or T. V rank is more than the R’s and P’s\nrank. Number of persons score more than V is\nsame as the number of persons score less than\nU.\nV’s rank is more than S’s rank. T’s rank is just\nmore than U's rank. S’s rank is not more than R’s\nand P’s rank. S's rank is not least.\nV > R/P > P/R > S > Q > T > U\nThus, we get the person whose rank is least\nfrom the above two statements.\nHence, All the three statements is not sufficient.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Each of the questions below consists of a\nquestion and two statements numbered I, II\nand III are given below it. You have to decide\nwhether the data provided in the statements\nare sufficient to answer the question:\n \nSix persons M, N, O, P, Q and S were born in\ndifferent years - 2002, 2004, 2006, 2009, 2012\nand 2014 not necessarily in the same order. All\nwere born on 4th march and their age has to\nbe calculated on the base year 2022.\nHow many persons were born after O?\nI. Number of persons born before Q is equal to\nthe number of persons after M. P is neither just\nyounger not just older than Q. P is younger than\nQ but older than M.\nII. Two persons were born between M and Q.\nOnly one person born after M. O is younger\nthan Q but older than P.\nIII. P’s age is an odd number. Q is neither just\nolder nor just younger to P. O is older than P.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only statement I and III is sufficient."
+      },
+      {
+        "id": "B",
+        "text": "Only statement II is sufficient."
+      },
+      {
+        "id": "C",
+        "text": "None of these"
+      },
+      {
+        "id": "D",
+        "text": "If data in statement I and II is sufficient"
+      },
+      {
+        "id": "E",
+        "text": "Any of the two statements"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "From statements I and II: We get three persons\nwere born after O.\nYear\ns\nAge\n(202\n2)\nPers\nons\n200\n2\n20\n \n200\n4\n18\nQ\n200\n6\n16\nO\n200\n9\n13\nP\n2012 10\nM\n2014 8\n \nFrom statements II and III: We get three persons\nwere born after O.\n \nYears\nAge (2022)\nPersons\n2002\n20\n \n2004\n18\nQ\n2006\n16\nP\n2009\n13\nO\n2012\n10\nM\n2014\n8",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "(C)",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "By combining I and II, we get- D born on 20th\nFebruary.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "(A)",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "The data in statements I and III together are\nsufficient to answer the question, while the data\nin statement II is not sufficient to answer the\nquestion.\nBy combining both I and III we get - E sits\nsecond to the left of L.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "(D)",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "If the data in statements I and II together are\nsufficient to answer the question, while the data\nin statement III are not sufficient to answer the\nquestion.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "(B)",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Statement I and II are sufficient to answer.\nFloors\nPersons\n8\nE\n7\nH",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "(E)",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "From statements I and II: We get three persons\nwere born after O.\nYear\ns\nAge\n(202\n2)\nPers\nons\n200\n2\n20\n \n200\n4\n18\nQ\n200\n6\n16\nO\n200\n9\n13\nP\n2012 10\nM\n2014 8\n \nFrom statements II and III: We get three persons\nwere born after O.\n \nYears\nAge (2022)\nPersons\n2002\n20\n \n2004\n18\nQ\n2006\n16\nP\n2009\n13\nO\n2012\n10\nM\n2014\n8",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "data",
+      "sufficiency"
+    ],
+    "source_pages": [
+      21
+    ]
+  }
+]

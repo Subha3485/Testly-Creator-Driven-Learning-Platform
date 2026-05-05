@@ -1,0 +1,1924 @@
+[
+  {
+    "question_number": "1",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nAll books are paper\nSome notebooks are ________\nSome notebooks are register\nNo register is notepad\nSome drawing are ________\nConclusion:\nSome books are register\nSome drawing are notepad",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Drawing, paper",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Paper, book",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Paper, notepad",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None of these option correct"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nAll hills are forest\nSome garden are _________\nAll garden are river\nNo river is __________\nConclusion:\nSome forest are river\nSome hills are soil is a possibility",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Hills, soil",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Soil, forest",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Forest, soil",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or III"
+      },
+      {
+        "id": "E",
+        "text": "None of the option is correct"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nAll tea are plants\nSome plants are coffee\nSome milk are _______\nNo milk is black\nSome black are ________\nConclusion:\nSome coffee are not milk\nSome milk are not juice",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Juice, tea",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Tea, juice\n \nSyllogism for Mains",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Juice, coffee",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "none of the given options are true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nOnly a few sand are clay\nNo Loam is ________\nSome silt are loam\nSome silt are not _______\nConclusion:\nSome silt are not clay\nSome sand are not loam",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nI. Some A are C.\nV. All C are B.\nConclusion:\nVI. Some A are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Peat, Clay",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Sand, Peat",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Clay, Peat",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "Only II"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nSome black are ________\nNo black is red\nOnly a few red are green\nNo orange is ________\nConclusion:\nSome blue are red\nSome red is orange",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Hence, option A is the correct answer.\nFinal answer:\nStatements:\nII. Some D are B.\nIII. No A is B.\nConclusion:\nV. Some D are A is a possibility.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Blue, black",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Green, blue",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Blue, green",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None of the option is correct"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nSome cloth are silk\nAll silk is ________\nNo cotton is muslin\nAll _______ is muslin\nConclusion:\nSome silk are not wool\nSome cloth are not muslin",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Hence, option D is the correct answer.\nFinal answer:\nStatements:\nI. Some B are C.\nIV. Some C are F.\nConclusion:\nVI. Some F can be B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Cotton, wool",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Wool, cloth",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Wool, wool",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Only II"
+      },
+      {
+        "id": "E",
+        "text": "None of the option is correct"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nVI. Some A are B.\nIII. Only a few B are C\nConclusion:\nI. Some B are not C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Necklace, ring",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Ring, necklace",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Glass, necklace",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given word should be placed in the blank to\ncomplete the statement.\n \nStatement:\nSome monitor are USB\nAll USB are mouse\nNo keyboard are _______\nAll keyboard are CPU\nNo CPU are ________\nConclusion:\nSome monitor are keyboards\nSome USB are not printers",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "If Only conclusion I follow",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Printer, Mouse",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Monitor, printer",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Mouse, printer",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given word should be placed in the blank to\ncomplete the statement.\n \nStatement:\nSome music are _______\nAll music are theater\nNo theater is mall\nSome screen are _______\nConclusion:\nSome music are not screen\nSome theater are movie",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Clearly, Both I and II follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Screen, movie",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Movie, mall",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Movie, music",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given word should be placed in the blank to\ncomplete the statement.",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "Clearly, only conclusion II follows",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Bose, anker",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Bose, speaker",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Sonos, Bose",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given word should be placed in the blank to\ncomplete the statement.\n \nStatement:\nNo student is boy\nSome girls are _______\nSome girls are teachers\nNo teacher is _______\nConclusion:\nSome girls are not students\nSome school can be boys",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "Clearly, only conclusion I follows.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Student, school",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "School, boys",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Boys, school",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II"
+      },
+      {
+        "id": "B",
+        "text": "Either I or II"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or III"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given word should be placed in the blank to\ncomplete the statement.\n \nStatement:\nSome buckets are ________\nNo bucket is mug\nSome tanks are ________\nNo tank is bottle\nConclusion:\nSome jars are not mugs\nSome mugs are not bottles",
+    "options": [],
+    "correct_answer": "B",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Jars, bucket",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Jars, mug",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Bottle, mug",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either I or II"
+      },
+      {
+        "id": "C",
+        "text": "Only II"
+      },
+      {
+        "id": "D",
+        "text": "Either II or III"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given words should be placed in the blank\nto complete the statement.\n \nStatement:\nOnly a few education are school\nOnly a few school are college\nNo university is _________",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Clearly, both I and II follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Institute, college",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "College, institute",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Education, institute",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given words should be placed in the blank\nto complete the statement.\n \nStatement:\nSome trolley are ________\nNo trolley is suitcase\nSome suitcase is backpack\nOnly a few backpacks are ________\nConclusion:\nAll bag are suitcase\nSome purse are trolley",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Both I and II follows",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Purse, bag",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Bag, purse",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Bag, trolley",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Either I or II"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "In the question given below, some statements\nare given followed by conclusion. Some words\nfrom the statement are missing. On the basis of\ngiven conclusions, you have to choose which of\nthe given words should be placed in the blank\nto complete the statement.\n \nStatement:\nAll _______ are snips\nAll tools are snips\nNo snip is bolt\nSome bolt is ________\nConclusion:\nSome wires are not bolt\nSome nails are not snips",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Q16\nText Solution:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Nail, wire",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Wire, nail",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Nail, snip",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either I or II"
+      },
+      {
+        "id": "C",
+        "text": "Only II"
+      },
+      {
+        "id": "D",
+        "text": "Either II or III"
+      },
+      {
+        "id": "E",
+        "text": "None is true"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "The Question has a set of seven statements\nfollowd \nby \noptions \nconsisting \nof \nthree\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can can be logically\ndeducted from the first two statements and\nthat option will be your answer.\n \nStatements:\nI. Some B are not C.\nII. Some D are C.\nIII. Some D are Z.\nIV. Some G are C.\nV. All Z are B.\nVI. Some F can be B.\nVII. All D are G",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, V"
+      },
+      {
+        "id": "B",
+        "text": "III, V, II"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Hence, option D is the correct answer.\nFinal answer:\nStatements:\nII. Some D are C.\nVII. All D are G\nConclusion:\nIV. Some G are C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Read both the conclusions and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements \ndisregarding\ncommonly known facts.\n \nStatements:\nAll black are orange\nAll orange are violet\nNo violet is red\nConclusions:\nI. Some black are red\nII. All violet is orange",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follow"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II follow"
+      },
+      {
+        "id": "E",
+        "text": "Either I or II follow"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Statement:\nAll _______ are spoon\nSome spoons are folks\nNo ladle is _______\nSome ladle are spatula\n1. Ladle, knife: if we place ladle in first blank and\nfolk in second blank, the least possible venn-\ndiagram is given below\nConclusion:\nSome knife are ladle is a possibility: false\nSome spatula are not folks: false\n2. Knife, folk: if we place knife in first blank and\nfolk in second blank than the least possible\nvenn diagram is given below\nConclusion:\nSome knife are laddle is a possibility: true\nSome spatula are not folks: true\n3. Knife, spoon : if we place knife in first blank\nand spoon in second blank than the least\npossible venn diagram is given below\nConclusion:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Read both the conclusions and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements \ndisregarding\ncommonly known facts.\n \nStatements:\nAll white are yellow\nSome yellow are blue\nNo blue is pink\nConclusions:\nI. All yellow being pink is a possibility\nII. Some white are blue",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follow"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II follow"
+      },
+      {
+        "id": "E",
+        "text": "Either I or II follow"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All yellow being pink is a possibility\nAll yellow can never be pink because some\nyellow are blue and no blue is pink.\nConclusion II: Some white are blue\nSome white are blue is not true, as there is no\ndirect relationship between white and blue in the\ndiagram.\nNeither I nor II follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Read both the conclusions and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements \ndisregarding\ncommonly known facts.\nStatements:\nAll bike are train\nOnly a few train are car\nOnly a few car are bicycle\nConclusions:\nI. All car can be bicycle\nII. All bike are car\nIII. Some bicycle can be bike",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II and III follow"
+      },
+      {
+        "id": "C",
+        "text": "Only II follow"
+      },
+      {
+        "id": "D",
+        "text": "Only III follow"
+      },
+      {
+        "id": "E",
+        "text": "Only I and III follow"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "The question has a set of seven statements\nfollowed by options consisting of three\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can be logically\ndeducted from the first two statements and\nthat option will be your answer.\nStatements:\nI. Some B are not C.\nII. Some D are A.\nIII. Some D are Z.\nIV. Some G are C.\nV. All A can be G.\nVI. Some F can be B.\nVII. Some G are D.",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, VII"
+      },
+      {
+        "id": "B",
+        "text": "III, V, II"
+      },
+      {
+        "id": "C",
+        "text": "II, VII, V"
+      },
+      {
+        "id": "D",
+        "text": "I, VII, IV"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "The Question has a set of six statements\nfollowd \nby \noptions \nconsisting \nof \nthree\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statementcan can be logically\ndeducted from the first two statements and\nthat option will be your answer.\nStatements:\nI. No A is B.\nII. Some D are B.\nIII. Some D are Z.\nIV. No C are F.\nV. All Z are B.\nVI. Some F are not be B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, V"
+      },
+      {
+        "id": "B",
+        "text": "III, V, II"
+      },
+      {
+        "id": "C",
+        "text": "III, I, VI"
+      },
+      {
+        "id": "D",
+        "text": "III, IV, VI"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "The Question has a set of six statements\nfollowed by options consisting of three\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can be logically\n \nSyllogism",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nI. Some A are C.\nV. All C are B.\nConclusion:\nVI. Some A are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "The Question has a set of six statements\nfollowed by options consisting of three\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can be logically\ndeducted from the first two statements and\nthat option will be your answer.\n \nStatements:\nI. Some A are C.\nII. Some D are B.\nIII. No A is B.\nIV. No D are F.\nV. Some D are A is a possibility.\nVI. Some A are B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, V"
+      },
+      {
+        "id": "B",
+        "text": "IV, I, VI"
+      },
+      {
+        "id": "C",
+        "text": "III, VI, IV"
+      },
+      {
+        "id": "D",
+        "text": "III, IV, VI"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Hence, option A is the correct answer.\nFinal answer:\nStatements:\nII. Some D are B.\nIII. No A is B.\nConclusion:\nV. Some D are A is a possibility.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "The Question has a set of six statements\nfollowed by options consisting of three\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can be logically\ndeducted from the first two statements and\nthat option will be your answer.\n \nStatements:\nI. Some B are C.\nII. Some D are C.\nIII. Some D are Z.\nIV. Some C are F.\nV. All Z are B.\nVI. Some F can be B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, V"
+      },
+      {
+        "id": "B",
+        "text": "III, V, II"
+      },
+      {
+        "id": "C",
+        "text": "III, I, VI"
+      },
+      {
+        "id": "D",
+        "text": "I, IV, VI"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Hence, option D is the correct answer.\nFinal answer:\nStatements:\nI. Some B are C.\nIV. Some C are F.\nConclusion:\nVI. Some F can be B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "The Question has a set of six statements\nfollowed by options consisting of three\nstatements put together in a specific order.\nChoose the options that indicate a combination\nwhere the third statement can be logically\ndeducted from the first two statements and\nthat option will be your answer.\n \nStatements:\nI. Some B are not C.\nII. Some D are B.\nIII. Only a few B are C\nIV. No D are F.\nV. Some D are A is a possibility.\nVI. Some A are B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "II, III, VI"
+      },
+      {
+        "id": "B",
+        "text": "IV, VI, I"
+      },
+      {
+        "id": "C",
+        "text": "VI, III, I"
+      },
+      {
+        "id": "D",
+        "text": "III, IV, VI"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nVI. Some A are B.\nIII. Only a few B are C\nConclusion:\nI. Some B are not C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Read both the conclusions and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements \ndisregarding\ncommonly known facts.\n \nStatement\nOnly a few Real is Reel\nNo Reel is Reality\nAll Reality is Fake",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "If Only conclusion I follow",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Directions: Below questions consist of some\nstatements followed by some conclusions.\nStudy the following information carefully and\ndecide which of the following conclusions\nlogically follows.\n \n“A@B” means “Only a few A are B”.\n“A%B” means “Some A are B”.\n“A$B” means “No B is A”.\n“A&B” means “All B are A”.\n“A#B” means “Only B is A”.\n \nStatement:\nB # D % A % E $ C\nConclusions:\nI. All A can never be C.\nII. Some B are not E.\nIII. Some C are not D.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only III follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III follow"
+      },
+      {
+        "id": "E",
+        "text": "None follows"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Clearly, Both I and II follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Directions:Below questions consist of some\nstatements followed by some conclusions.\nStudy the following information carefully and\ndecide which of the following conclusions\nlogically follows.\n \n“A@B” means “Only a few A are B”.\n“A%B” means “Some A are B”.\n“A$B” means “No B is A”.\n“A&B” means “All B are A”.\n“A#B” means “Only B is A”.\n \nStatement:\nE @ C, B & C, B @ D, A & D\nConclusions:\nI. Some C can never be A.\nII. Some D are not E is a possibility.\nIII. Some A are not B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III follow"
+      },
+      {
+        "id": "E",
+        "text": "None follows"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Clearly, only conclusion II follows",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Directions:Below questions consist of some\nstatements followed by some conclusions.\nStudy the following information carefully and\ndecide which of the following conclusions\nlogically follows.\n \n“A@B” means “Only a few A are B”.\n“A%B” means “Some A are B”.\n“A$B” means “No B is A”.\n“A&B” means “All B are A”.\n“A#B” means “Only B is A”.\n \nStatement:\nT @ Q $ S & R % P\nConclusions:\nI. Some T are not R.\nII. Some P are not Q is a possibility.\nIII. Some T are S is not a possibility.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only I follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III follow"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Clearly, only conclusion I follows.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Directions:Below questions consist of some\nstatements followed by some conclusions.\nStudy the following information carefully and\ndecide which of the following conclusions\nlogically follows.\n \n“A@B” means “Only a few A are B”.\n“A%B” means “Some A are B”.\n“A$B” means “No B is A”.\n“A&B” means “All B are A”.\n“A#B” means “Only B is A”.\n \nStatement:\nU & S $ R % Q & P @ T\nConclusions:\nI. Some T are not U.\nII. Some Q are not T.\nIII. Some P can never be S.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III follow"
+      },
+      {
+        "id": "E",
+        "text": "None follows"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Directions:Below questions consist of some\nstatements followed by some conclusions.\nStudy the following information carefully and\ndecide which of the following conclusions\nlogically follows.\n \n“A@B” means “Only a few A are B”.\n“A%B” means “Some A are B”.\n“A$B” means “No B is A”.\n“A&B” means “All B are A”.\n“A#B” means “Only B is A”.\n \nStatement:\nY & P @ Z % Q $ S\nConclusions:\nI. Some Y are not Z.\nII. Some P are not S is a possibility.\nIII. Some S being Z is not a possibility.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Only III follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III follow"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, and III follow"
+      },
+      {
+        "id": "E",
+        "text": "None follows"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Clearly, both I and II follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Directions: Analyze the data carefully and\nanswer the questions accordingly.\nStatement:\nAll circle is round.\nOnly a few shapes are round.\nNo square is circle.\nConclusions:\nI. Some shapes are not round.\nII. Some round are square is a possibility.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II follows"
+      },
+      {
+        "id": "D",
+        "text": "If either I or II follows"
+      },
+      {
+        "id": "E",
+        "text": "If none follows"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Both I and II follows",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Directions: Analyze the data carefully and\nanswer the questions accordingly.\nStatement:\nOnly open is car.\nOnly green is grey.\nNo car is grey.\nConclusions:\nI. Some green can be car.\nII. Some grey can be open.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only II follows"
+      },
+      {
+        "id": "C",
+        "text": "If both I and II follows"
+      },
+      {
+        "id": "D",
+        "text": "If either I or II follows"
+      },
+      {
+        "id": "E",
+        "text": "None follows"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Q16\nText Solution:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Directions: Analyze the data carefully and\nanswer the questions accordingly.\nStatements:\nOnly a few books are pages.\nNo page is clear.\nOnly a few white are pages.\nConclusions:\nI. All white can be pages.\nII. All pages can’t be books.",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only II follows"
+      },
+      {
+        "id": "C",
+        "text": "If both I and II follows"
+      },
+      {
+        "id": "D",
+        "text": "If either I or II follows"
+      },
+      {
+        "id": "E",
+        "text": "If none follows"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Hence, option D is the correct answer.\nFinal answer:\nStatements:\nII. Some D are C.\nVII. All D are G\nConclusion:\nIV. Some G are C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Directions: In the question given below, some\nstatements are given followed by conclusion.\nSome words from the statement are missing.\nOn the basis of given conclusions, you have to\nchoose which of the given word should be\nplaced in the blank to complete the statement.\nStatement:\nAll _______ are spoon\nSome spoons are folks\nNo ladle is _______\nSome ladle are spatula\nConclusion:\nSome knife are ladle is a possibility\nSome spatula are not folks",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Statement:\nAll _______ are spoon\nSome spoons are folks\nNo ladle is _______\nSome ladle are spatula\n1. Ladle, knife: if we place ladle in first blank and\nfolk in second blank, the least possible venn-\ndiagram is given below\nConclusion:\nSome knife are ladle is a possibility: false\nSome spatula are not folks: false\n2. Knife, folk: if we place knife in first blank and\nfolk in second blank than the least possible\nvenn diagram is given below\nConclusion:\nSome knife are laddle is a possibility: true\nSome spatula are not folks: true\n3. Knife, spoon : if we place knife in first blank\nand spoon in second blank than the least\npossible venn diagram is given below\nConclusion:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Ladle, knife",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Conclusion I: All car can be bicycle\nAll car can be bicycle is not true because only a\nfew car are bicycle.\nConclusion II: All bike are car\nAll bike are car is not true because there is not\ndirect relationship between bike and car.\nConclusion III: Some bicycle can be bike\nSome bicycle can be bike is true because there is\nno negative relationship between bike and\nbicycle.\nOnly III follow.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Knife, folk",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Hence, option C is the correct answer.\nFinal answer:\nStatements:\nII. Some D are A.\nVII. Some G are D.\nConclusion:\nV. All A can be G.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Knife, spoon",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Either II or III"
+      },
+      {
+        "id": "C",
+        "text": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Only II"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hence, option B is the correct answer.\nFinal answer:\nStatements:\nIII. Some D are Z.\nV. All Z are B.\nConclusion:\nII. Some D are B.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "syllogism"
+    ],
+    "source_pages": [
+      21
+    ]
+  }
+]

@@ -1,25 +1,22 @@
 {
-  "name": "buslogistic-server",
-  "version": "1.0.0",
+  "name": "test-series-frontend",
   "private": true,
+  "version": "1.0.0",
   "type": "module",
-  "description": "Node.js API for the Bus Logistics booking prototype",
-  "main": "server.js",
   "scripts": {
+    "dev": "concurrently \"npm --prefix test-series/backend start\" \"npm --prefix test-series/frontend run dev\"",
+    "build": "npm --prefix test-series/frontend run build",
+    "preview": "npm --prefix test-series/frontend run preview",
+    "setup": "npm install && npm --prefix test-series/backend install && npm --prefix test-series/frontend install",
     "start": "node server.js",
-    "dev": "node --watch server.js",
-    "check": "node --check server.js",
-    "start:prod": "node server.js"
-  },
-  "engines": {
-    "node": "22.x"
+    "build:frontend": "npm --prefix test-series/frontend run build"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "firebase-admin": "^13.4.0",
-    "jsonwebtoken": "^9.0.3",
-    "mongodb": "^7.1.1",
-    "socket.io": "^4.8.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "concurrently": "^8.0.1"
   }
 }

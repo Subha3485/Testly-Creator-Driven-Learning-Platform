@@ -1,0 +1,3267 @@
+[
+  {
+    "question_number": "1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju\nde lo”\nHow will \"build every\"\nbe coded in\nthe\nlanguage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nu ju"
+      },
+      {
+        "id": "B",
+        "text": "ju bh"
+      },
+      {
+        "id": "C",
+        "text": "Can’t be determined"
+      },
+      {
+        "id": "D",
+        "text": "ma bu"
+      },
+      {
+        "id": "E",
+        "text": "ju ma"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 2:\n13 17 – The pair follows rule (iv), hence resultant\n= 13 + 17\n= 30\n30 15 – The pair follows rule (ii), hence resultant\n= 30 X 15\n= 450\nSo, W = 450\nRow 1:\n200 47 – The pair follows rule (v), hence\nresultant = 200 / 25\n= 8\n8 450 – The pair follows rule (vi), hence resultant\n= 450\nSo, the answer is 450.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju\nde lo”\nIf \"peace ____ \" is coded as \"bu bh\" then which\nof the following words should fill the blank?",
+    "options": [
+      {
+        "id": "A",
+        "text": "try"
+      },
+      {
+        "id": "B",
+        "text": "build"
+      },
+      {
+        "id": "C",
+        "text": "every"
+      },
+      {
+        "id": "D",
+        "text": "part"
+      },
+      {
+        "id": "E",
+        "text": "Nation"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n26 343 – The pair follows rule (i), hence resultant\n= 343 – 26\n= 317\n317 10 – The pair follows rule (iii), hence resultant\n= 317 / 10\n= 31.7\nRow 2:\n67 71 – The pair follows rule (iv), hence resultant\n= 67 + 71\n= 138\n138 136 – The pair follows rule (vi), hence\nresultant = 138\nSo, the sum of the resultant of first row and\nsecond row;\n= 31.7 + 138\n= 169.7\nSo, the answer is 169.7",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju\nde lo”\nWhat is the code for \"range cities\"?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ga lo"
+      },
+      {
+        "id": "B",
+        "text": "nu ga"
+      },
+      {
+        "id": "C",
+        "text": "bu ga"
+      },
+      {
+        "id": "D",
+        "text": "lo bh"
+      },
+      {
+        "id": "E",
+        "text": "Can't be determined"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n56 125 – The pair follows rule (i), hence resultant\n= 125 – 56\n= 69\n69 29 – The pair follows rule (iv), hence resultant\n= 69 + 29\n= 98\nSo, L = 98\nRow 2:\n10 75 – The pair follows rule (ii), hence resultant\n= 10 X 75\n= 750\n750 43 – The pair follows rule (v), hence\nresultant = 750 / 25\n= 30\nSo, M = 30\nNow,\nL + M\n= 98 + 30\n= 128\nSo, the answer is 128.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as\n“ud qg ka is”\n“noise campaign side speech” is written as “ka\nms is rc”\n“before several area will” is written as “ow ej gz\nud”\nIf “for before area’ is coded as ‘de ud ow’ then\nwhich of the following may be the code for ‘for\nCoding Decoding",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n150 87 – The pair follows rule (v), hence resultant\n= 150 / 25\n= 6\n6 16 – The pair follows rule (vi), hence resultant =\n16\nSo, P = 16\nRow 2:\n16 15 – The pair follows rule (ii), hence resultant =\n16 X 15\n= 240\n240 729 – The pair follows rule (i), hence\nresultant = 729 – 240\n= 489\nSo, the resultant of the second row is 489.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as\n“ud qg ka is”\n“noise campaign side speech” is written as “ka\nms is rc”\n“before several area will” is written as “ow ej gz\nud”\nWhat does the code ‘ms’ stand for in the given\ncode language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "noise"
+      },
+      {
+        "id": "B",
+        "text": "campaign"
+      },
+      {
+        "id": "C",
+        "text": "side"
+      },
+      {
+        "id": "D",
+        "text": "speech"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n17 24 – The pair follows rule (iv), hence resultant\n= 17 X 24\n= 408\n408 55 – The pair follows rule (i), hence resultant\n= 408 + 55",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as\n“ud qg ka is”\n“noise campaign side speech” is written as “ka\nms is rc”\n“before several area will” is written as “ow ej gz\nud”\nWhat does the code ‘qg’ stand for in the given\ncode language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "host"
+      },
+      {
+        "id": "B",
+        "text": "campaign"
+      },
+      {
+        "id": "C",
+        "text": "before"
+      },
+      {
+        "id": "D",
+        "text": "speech"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n25 41 – The pair follows rule (iii), hence resultant\n= 25 + 41\n= 66\n66 37 – The pair follows rule (i), hence resultant =\n66 + 37\n= 103\nSo, X = 103\nRow 2:\n48 16 – The pair follows rule (v), hence resultant\n= 48 / 16\n= 3\n3 103 – The pair follows rule (iii), hence resultant\n= 3 + 103\n= 106\nSo, the answer is 106.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as\n“ud qg ka is”\n“noise campaign side speech” is written as “ka\nms is rc”\n“before several area will” is written as “ow ej gz\nud”\nWhich of the following is the code for “several\nspeech”in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ud gz"
+      },
+      {
+        "id": "B",
+        "text": "is ow"
+      },
+      {
+        "id": "C",
+        "text": "is ej"
+      },
+      {
+        "id": "D",
+        "text": "is ud"
+      },
+      {
+        "id": "E",
+        "text": "Can’t be determined"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n7 6 – The pair follows rule (iv), hence resultant =\n7 X 6\n= 42\n42 2 – The pair follows rule (v), hence resultant =\n42 / 2\n= 21\nRow 2:\n5 15 – The pair follows rule (iii), hence resultant =\n5 + 15\n= 20\n20 2 – The pair follows rule (v), hence resultant =\n20 / 2\n= 10\nSo, the multiplication the resultant of the first\nrow and the second row;\n= 21 X 10\n= 210\nSo, the answer is 210.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as\n“ud qg ka is”\n“noise campaign side speech” is written as “ka\nms is rc”\n“before several area will” is written as “ow ej gz\nud”\nWhich of the following may be the code for\n“area good several” in the given code\nlanguage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ud fm ej"
+      },
+      {
+        "id": "B",
+        "text": "ow vn gz"
+      },
+      {
+        "id": "C",
+        "text": "ej st ow"
+      },
+      {
+        "id": "D",
+        "text": "ud ka vn"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n43 23 – The pair follows rule (iii), hence resultant\n= 43 + 23 = 66\n66 24 – The pair follows rule (ii), hence resultant\n= 24 + (2 X 66)\n= 24 + 132\n= 156\nRow 2:\n26 19 – The pair follows rule (i), hence resultant =\n26 – 19 = 7\n7 6 – The pair follows rule (iv), hence resultant =\n6 / 2 = 3\nSo, Row 1 – Row 2\n= 156 – 3\n= 153\nSo, the answer is 153.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Study the following information carefully and\nanswer the questions given beside:",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n46 85 – The pair follows rule (i), hence resultant\n= 85 – 46 = 39\n39 79 – The pair follows rule (iii), hence resultant\n= 39 + 79 = 118\nY = 118\nRow 2:\n67 118 – The pair follows rule (iv), hence resultant\n= 67 / 2 = 33.5\n33.5 58 – The pair follows rule (v), hence\nresultant = 335 / 5 = 67\nSo, row 1 + row 2\n= 118 + 67\n= 185\nSo, the answer is 185.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq\nzg ho”\n“order pending equality also” is coded as “yu\nbo zg ms”\nWhat does the code ‘qe’ stand for in the given\ncode language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "also"
+      },
+      {
+        "id": "B",
+        "text": "pending"
+      },
+      {
+        "id": "C",
+        "text": "Either ‘pending’ or ‘medical’"
+      },
+      {
+        "id": "D",
+        "text": "now"
+      },
+      {
+        "id": "E",
+        "text": "Either 'Center' or 'being'"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq\nzg ho”\n“order pending equality also” is coded as “yu\nbo zg ms”\nWhich of the following is the code for ‘also’ in\nthe given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "yu"
+      },
+      {
+        "id": "B",
+        "text": "zg"
+      },
+      {
+        "id": "C",
+        "text": "na"
+      },
+      {
+        "id": "D",
+        "text": "bo"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Row 1:\n83 98 – The pair follows rule (iv), hence resultant\n= 83 / 2 = 41.5\n41.5 12 – The pair follows rule (v), hence resultant\n= 415 / 5 = 83\nRow 2:\n12 36 – The pair follows rule (ii), hence resultant =\n12 + (2 X 36)\n= 12 + 72\n= 84\n84 33 – The pair follows rule (i), hence resultant\n= 84 – 33 = 51\nSo, the product of the resultant of the first and\nsecond row;\n= 83 X 51\n= 4233\nSo, the answer is 4233.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq\nzg ho”\n“order pending equality also” is coded as “yu\nbo zg ms”\nWhich of the following is the code for ‘food’ in\nthe given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "lq"
+      },
+      {
+        "id": "B",
+        "text": "oc"
+      },
+      {
+        "id": "C",
+        "text": "ms"
+      },
+      {
+        "id": "D",
+        "text": "na"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "FUTURE- 3@5@78\nCondition 2 follows: If the first letter is\nconsonant and the last letter is a vowel, then\nthe codes of both are to be interchanged.\nOUTPUT- 5@56@5\nCondition 4 follows: If the first letter is a vowel\nand the last letter is consonant, then both are\nto be coded as the code of the last letter.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq\nzg ho”\n“order pending equality also” is coded as “yu\nbo zg ms”\nWhich of the following is the code for ‘now\npending’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "lq zg"
+      },
+      {
+        "id": "B",
+        "text": "vm na"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "FRENCH- ?73+!?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us\nuh kl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\nWhat does the code ‘og’ stand for in the given\ncode language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "course"
+      },
+      {
+        "id": "B",
+        "text": "crime"
+      },
+      {
+        "id": "C",
+        "text": "sure"
+      },
+      {
+        "id": "D",
+        "text": "step"
+      },
+      {
+        "id": "E",
+        "text": "age"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "UNIQUE- @+*4@@\nCondition1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nTICKET- ?*!%3?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us\nuh kl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\nWhat does the code ‘uh’ stand for in the given\ncode language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "minor"
+      },
+      {
+        "id": "B",
+        "text": "work"
+      },
+      {
+        "id": "C",
+        "text": "course"
+      },
+      {
+        "id": "D",
+        "text": "for"
+      },
+      {
+        "id": "E",
+        "text": "step"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "INSIDE- *+&*^*\nCondition 1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nHEIGHT- ?3*#1?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us\nuh kl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\nWhich of the following is the code for ‘for\nschool’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "en ak"
+      },
+      {
+        "id": "B",
+        "text": "uh en"
+      },
+      {
+        "id": "C",
+        "text": "en om"
+      },
+      {
+        "id": "D",
+        "text": "vt en"
+      },
+      {
+        "id": "E",
+        "text": "en us"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "REPAIR- ?36>*?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us\nuh kl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\nWhich of the following is the code for “age” in\nthe given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "dr"
+      },
+      {
+        "id": "B",
+        "text": "am"
+      },
+      {
+        "id": "C",
+        "text": "pl"
+      },
+      {
+        "id": "D",
+        "text": "og"
+      },
+      {
+        "id": "E",
+        "text": "kl"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Zero minutes .\n# means either minutes or seconds are 0\n> means either minutes or seconds are 4\n@ means either minutes or seconds are 5\n^ means either minutes or seconds are 6\n& means either minutes or seconds are 7\n$ means either minutes or seconds are 30\n% means either minutes or seconds are 60\nPump A alone could fill the tank in 4 min 60 sec\n.Pump B alone could fill the tank in 5 min 60 sec\nwhile pump C alone could fill the tank in 7 min\n30 sec .\nA = 5 min\nB = 6 min\nC = 7.5 min\nLet tank be of 30 units so A fills 6 unit per min, B\nfills 5 unit per min and C fill 4 unit per min",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us\nuh kl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\nWhich of the following is the code for “post\nage course” in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "am kl pl"
+      },
+      {
+        "id": "B",
+        "text": "pl dr am"
+      },
+      {
+        "id": "C",
+        "text": "am dr kl"
+      },
+      {
+        "id": "D",
+        "text": "pl dr kl"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ19"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "$ ^ 30 mins and 6 sec\n> % 4 mins and 60 sec = 5mins\nTotal time = 35 mins and 6 sec\n$ # + @ ^ = 30 mins +5 mins 6 sec = 35 min 6 sec",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd\nnm tn”\n“high of sector people” is coded as “tb kj rd cl”\nHow is \"scale\" coded in the given language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "tn"
+      },
+      {
+        "id": "B",
+        "text": "rd"
+      },
+      {
+        "id": "C",
+        "text": "xv"
+      },
+      {
+        "id": "D",
+        "text": "nm"
+      },
+      {
+        "id": "E",
+        "text": "tb"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nA work is divided among three people equally. .\nPerson A starts to work at 6:00 PM and\ncompletes it at 9:45, while person B starts at\n3:15 PM and completes it at 5:45 PM. Person C\nquit the job so both A and B have to do his\nwork. At what time they will be able to finish the\nwork if they start at 10:00 PM working together\n?\nA = 3hr 45 min = 3.75 hr\nB = 2 hr 30 min = 2.5 hr\nLet the work be of total 15 units, then A does 4\nunits of work in an hour and B does 6 units of\nwork in an hour, together they do 10 units of\nwork in an hour can could complete in 15/10 =\n1.5 hrs\nif they start at 10:00 PM then work will finish by\n11:30 PM = ! <",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd\nnm tn”\n“high of sector people” is coded as “tb kj rd cl”\nHow is \"sector” coded in the given language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ng"
+      },
+      {
+        "id": "B",
+        "text": "ub"
+      },
+      {
+        "id": "C",
+        "text": "cl"
+      },
+      {
+        "id": "D",
+        "text": "tb"
+      },
+      {
+        "id": "E",
+        "text": "tn"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nFor a specific work, if 18 men together start the\njob at 3:30 PM they complete it at 9:30 PM. 12\nwomen if start at 6:30 PM they are able to\ncomplete it at 11:00 PM. At what time will 8 men\nand 8 women can complete the same work if\nthey start at 5:00 PM\n18 men in 6 hrs\n12 women in 4 hrs 30 mins =4.5 hr\n18 * 6 * M = 12 *4.5 * W\nM/W = ½ => W = 2M\n8M and 8W = 24M",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "22",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd\nnm tn”\n“high of sector people” is coded as “tb kj rd cl”\nIf \"sector ____ \" is coded as \"tb ub\" then which\nof the following words should fill the blank?",
+    "options": [
+      {
+        "id": "A",
+        "text": "tech"
+      },
+      {
+        "id": "B",
+        "text": "high"
+      },
+      {
+        "id": "C",
+        "text": "value"
+      },
+      {
+        "id": "D",
+        "text": "world"
+      },
+      {
+        "id": "E",
+        "text": "million"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "@ means either minutes or seconds are 7\n^ means either minutes or seconds are 10\n& means either minutes or seconds are 12\n$ means either minutes or seconds are 23\n> means either minutes or seconds are 32\n# means either minutes or seconds are 35\n% means either minutes or seconds are 50\nConverting the statement :\nPerson A started the exam 7 min 35 sec late but\nfinished it 10 min 23 sec before Person B. How\nmuch time does Person B take to complete the\nexam if he does not delay to start and Person A\ncompletes it in 32 min 12 sec .\nTime taken by B is 7 min 35 sec + 10 min 23 sec +\n32 min 12 sec\n= 50 min 10 sec = % ^",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "23",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd\nnm tn”\n“high of sector people” is coded as “tb kj rd cl”\nWhat is the code for \"million of\" ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "kj ng"
+      },
+      {
+        "id": "B",
+        "text": "tn ng"
+      },
+      {
+        "id": "C",
+        "text": "ng cl"
+      },
+      {
+        "id": "D",
+        "text": "cl ub"
+      },
+      {
+        "id": "E",
+        "text": "cl kj"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Time taken by the person 1 to reach the office\n#& i.e. 35 minutes 12 seconds\nBut he took ^$ 10 minutes 23 seconds more on\nthat day.\nTherefore, the total time taken by the person to\nreach on that particular day is 45 minutes and\n35 seconds.\nTime take by the person 2 to reach the office ^&\ni.e 10 minutes and 12 second and 13 seconds\nmore, therefore total time taken is 10 minutes\nand 25 seconds.\nTherefore Person 1 took 35 minutes and 10\nseconds more i.e #^",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "24",
+    "question": "Study the given information and answer the\nquestions below:\nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo\nio’",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "A person boarded the train at 10:30 AM and he\nreached station A at 1:15 AM, it took him 25\nminutes to reach home, hence he was home at\n1:40 AM or at @* AM.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "Study the given information and answer the\nquestions below:\nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo\nio’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd\nmo sp’\nThe code ‘mo io ip’ stands for which among the\nfollowing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discount Deliver Online"
+      },
+      {
+        "id": "B",
+        "text": "Order Online Pear"
+      },
+      {
+        "id": "C",
+        "text": "Pear Online On"
+      },
+      {
+        "id": "D",
+        "text": "Discount Pear Order"
+      },
+      {
+        "id": "E",
+        "text": "Either (c) or (d)"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "I) For symbols ->First symbol represents the\nvowel count and the last symbol represents the\nconsonant count. Vowels -> 1-$, 2-*, 3-&, 4-€\nConsonants –> 1-%, 2-©, 3-#, 4-!, 5-?, 6-@\nII) For letter ->Consider the third letter of every\nword. If the third letter is a vowel then the fifth\nsucceeding letter of that vowel as per the\nEnglish alphabetical series is taken. If the third\nletter is a consonant, then the fifth preceding\nletter of that consonant as per the alphabetical\nseries is taken.\nIII) For numbers -> The place value(as per the\nalphabetical series) of the first and last letter of\nthe word is added and written in reverse order.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "26",
+    "question": "Study the given information and answer the\nquestions below:\nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo\nio’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd\nmo sp’\nWhat is the code for ‘deliver’ in the given code\nlanguage?",
+    "options": [
+      {
+        "id": "A",
+        "text": "io"
+      },
+      {
+        "id": "B",
+        "text": "vo"
+      },
+      {
+        "id": "C",
+        "text": "id"
+      },
+      {
+        "id": "D",
+        "text": "va"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "He had his breakfast at 8:45AM, lunch at 2:15PM\nand dinner at 9:50PM or %& PM.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "27",
+    "question": "Study the given information and answer the\nquestions below:\nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo\nio’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd\nmo sp’\nWhat will be the code for ‘online deliver’ in the\ngiven code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "vo io"
+      },
+      {
+        "id": "B",
+        "text": "va vo"
+      },
+      {
+        "id": "C",
+        "text": "id ip"
+      },
+      {
+        "id": "D",
+        "text": "vo id"
+      },
+      {
+        "id": "E",
+        "text": "io gd"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "28",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822\nWhich among the following is the incorrect\ncode in the underlined statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "590"
+      },
+      {
+        "id": "B",
+        "text": "517"
+      },
+      {
+        "id": "C",
+        "text": "407"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "29",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822\nWhich of the following codes can replace '???' ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "512"
+      },
+      {
+        "id": "B",
+        "text": "591"
+      },
+      {
+        "id": "C",
+        "text": "822"
+      },
+      {
+        "id": "D",
+        "text": "448"
+      },
+      {
+        "id": "E",
+        "text": "517"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "30",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822\nWhich of the following codes can replace ']]]'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "407"
+      },
+      {
+        "id": "B",
+        "text": "822"
+      },
+      {
+        "id": "C",
+        "text": "448"
+      },
+      {
+        "id": "D",
+        "text": "517"
+      },
+      {
+        "id": "E",
+        "text": "728"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Dwindle, Cynicism, Clogged’ is coded as ‘10$Y,\n2$L, 2@W’\n‘Ruckus, Extolling, Wanton, Fiscal’ is coded as\n‘8&A, 4^X, 8%U, 8#I’\n‘Incurred, Erupted, Fructify’ is coded as ‘2^R,\n10#R, 10$N’\nWhat will be the code “Despot” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8@E"
+      },
+      {
+        "id": "B",
+        "text": "12$O"
+      },
+      {
+        "id": "C",
+        "text": "10#O"
+      },
+      {
+        "id": "D",
+        "text": "6@O"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 2:\n13 17 – The pair follows rule (iv), hence resultant\n= 13 + 17\n= 30\n30 15 – The pair follows rule (ii), hence resultant\n= 30 X 15\n= 450\nSo, W = 450\nRow 1:\n200 47 – The pair follows rule (v), hence\nresultant = 200 / 25\n= 8\n8 450 – The pair follows rule (vi), hence resultant\n= 450\nSo, the answer is 450.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Dwindle, Cynicism, Clogged’ is coded as ‘10$Y,\n2$L, 2@W’\n‘Ruckus, Extolling, Wanton, Fiscal’ is coded as\n‘8&A, 4^X, 8%U, 8#I’\n‘Incurred, Erupted, Fructify’ is coded as ‘2^R,\n10#R, 10$N’\nWhat will be the code for “ Reinvigorate” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%T"
+      },
+      {
+        "id": "B",
+        "text": "14%E"
+      },
+      {
+        "id": "C",
+        "text": "12&T"
+      },
+      {
+        "id": "D",
+        "text": "14$T"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n26 343 – The pair follows rule (i), hence resultant\n= 343 – 26\n= 317\n317 10 – The pair follows rule (iii), hence resultant\n= 317 / 10\n= 31.7\nRow 2:\n67 71 – The pair follows rule (iv), hence resultant\n= 67 + 71\n= 138\n138 136 – The pair follows rule (vi), hence\nresultant = 138\nSo, the sum of the resultant of first row and\nsecond row;\n= 31.7 + 138\n= 169.7\nSo, the answer is 169.7",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Dwindle, Cynicism, Clogged’ is coded as ‘10$Y,\n2$L, 2@W’\n‘Ruckus, Extolling, Wanton, Fiscal’ is coded as\n‘8&A, 4^X, 8%U, 8#I’\n‘Incurred, Erupted, Fructify’ is coded as ‘2^R,\n10#R, 10$N’\nWhat will be the code for “Intransigence” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%C"
+      },
+      {
+        "id": "B",
+        "text": "8@C"
+      },
+      {
+        "id": "C",
+        "text": "6#C"
+      },
+      {
+        "id": "D",
+        "text": "8$N"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n56 125 – The pair follows rule (i), hence resultant\n= 125 – 56\n= 69\n69 29 – The pair follows rule (iv), hence resultant\n= 69 + 29\n= 98\nSo, L = 98\nRow 2:\n10 75 – The pair follows rule (ii), hence resultant\n= 10 X 75\n= 750\n750 43 – The pair follows rule (v), hence\nresultant = 750 / 25\n= 30\nSo, M = 30\nNow,\nL + M\n= 98 + 30\n= 128\nSo, the answer is 128.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Dwindle, Cynicism, Clogged’ is coded as ‘10$Y,\n2$L, 2@W’\n‘Ruckus, Extolling, Wanton, Fiscal’ is coded as\n‘8&A, 4^X, 8%U, 8#I’\n‘Incurred, Erupted, Fructify’ is coded as ‘2^R,\n10#R, 10$N’\nWhat will be the code for “Riparian, Endured,\nCeasefire” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2^N, 4$E, 10%I"
+      },
+      {
+        "id": "B",
+        "text": "4^E, 4$R, 11%A"
+      },
+      {
+        "id": "C",
+        "text": "2^F, 6$R, 13%A"
+      },
+      {
+        "id": "D",
+        "text": "6^E, 4$R, 12%A"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n150 87 – The pair follows rule (v), hence resultant\n= 150 / 25\n= 6\n6 16 – The pair follows rule (vi), hence resultant =\n16\nSo, P = 16\nRow 2:\n16 15 – The pair follows rule (ii), hence resultant =\n16 X 15\n= 240\n240 729 – The pair follows rule (i), hence\nresultant = 729 – 240\n= 489\nSo, the resultant of the second row is 489.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Dwindle, Cynicism, Clogged’ is coded as ‘10$Y,\n2$L, 2@W’\n‘Ruckus, Extolling, Wanton, Fiscal’ is coded as\n‘8&A, 4^X, 8%U, 8#I’\n‘Incurred, Erupted, Fructify’ is coded as ‘2^R,\n10#R, 10$N’\nWhat will the word for “12$M” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interpreting"
+      },
+      {
+        "id": "B",
+        "text": "Impetus"
+      },
+      {
+        "id": "C",
+        "text": "Impeccably"
+      },
+      {
+        "id": "D",
+        "text": "Insurmountable"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ6"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n17 24 – The pair follows rule (iv), hence resultant\n= 17 X 24\n= 408\n408 55 – The pair follows rule (i), hence resultant\n= 408 + 55",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Hailed, Inoculated, Striving, Ambit’ is coded as\n‘X$27, U&17, X&26, H$48’\n‘Outpacing, Scepticism, Impartiality, ’ is coded\nas ‘O&24, U$23, C$50’\n‘Turnout, Unabated, Moniker, Inciting ’ is coded\nas ‘ J&35, X$14, H&30, U$28’\nWhat will be the code for “ Armoured” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "W$25"
+      },
+      {
+        "id": "B",
+        "text": "X&34"
+      },
+      {
+        "id": "C",
+        "text": "V$29"
+      },
+      {
+        "id": "D",
+        "text": "X$34"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n7 6 – The pair follows rule (iv), hence resultant =\n7 X 6\n= 42\n42 2 – The pair follows rule (v), hence resultant =\n42 / 2\n= 21\nRow 2:\n5 15 – The pair follows rule (iii), hence resultant =\n5 + 15\n= 20\n20 2 – The pair follows rule (v), hence resultant =\n20 / 2\n= 10\nSo, the multiplication the resultant of the first\nrow and the second row;\n= 21 X 10\n= 210\nSo, the answer is 210.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Hailed, Inoculated, Striving, Ambit’ is coded as\n‘X$27, U&17, X&26, H$48’\n‘Outpacing, Scepticism, Impartiality, ’ is coded\nas ‘O&24, U$23, C$50’\n‘Turnout, Unabated, Moniker, Inciting ’ is coded\nas ‘ J&35, X$14, H&30, U$28’\nWhat will be the code for “ Truce, Slew,\nEscheat” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H$45, E&32, W&14"
+      },
+      {
+        "id": "B",
+        "text": "G$45, D&32, C&14"
+      },
+      {
+        "id": "C",
+        "text": "G$45, V&32, V&14"
+      },
+      {
+        "id": "D",
+        "text": "X$45, D&32, V&14"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n43 23 – The pair follows rule (iii), hence resultant\n= 43 + 23 = 66\n66 24 – The pair follows rule (ii), hence resultant\n= 24 + (2 X 66)\n= 24 + 132\n= 156\nRow 2:\n26 19 – The pair follows rule (i), hence resultant =\n26 – 19 = 7\n7 6 – The pair follows rule (iv), hence resultant =\n6 / 2 = 3\nSo, Row 1 – Row 2\n= 156 – 3\n= 153\nSo, the answer is 153.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Hailed, Inoculated, Striving, Ambit’ is coded as\n‘X$27, U&17, X&26, H$48’\n‘Outpacing, Scepticism, Impartiality, ’ is coded\nas ‘O&24, U$23, C$50’\n‘Turnout, Unabated, Moniker, Inciting ’ is coded\nas ‘ J&35, X$14, H&30, U$28’\nWhat will be the code for “Engulfed, Void ” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E$29, W&11"
+      },
+      {
+        "id": "B",
+        "text": "W$29, V&12"
+      },
+      {
+        "id": "C",
+        "text": "X$29, X&11"
+      },
+      {
+        "id": "D",
+        "text": "V$29, E&11"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n46 85 – The pair follows rule (i), hence resultant\n= 85 – 46 = 39\n39 79 – The pair follows rule (iii), hence resultant\n= 39 + 79 = 118\nY = 118\nRow 2:\n67 118 – The pair follows rule (iv), hence resultant\n= 67 / 2 = 33.5\n33.5 58 – The pair follows rule (v), hence\nresultant = 335 / 5 = 67\nSo, row 1 + row 2\n= 118 + 67\n= 185\nSo, the answer is 185.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘ Callous, Arisen, Altar, (1)’ is coded as ‘ 7&R, 6%Z,\n10$F, 8%Z’\n‘ Latter, Latched, Asylum, Pared’ is coded as ‘\n(2), 7&F, 18&V, 19$V’\n‘ Slashed, Insipid, Bucks, Enmity’ is coded as ‘\n7%F, 16$R, (3), 26$V’\n‘Détente, Silver, Hawkish, Rejig’ is coded as ‘\n25&R, 11$V, 23%R, 15$R’\nWhat is the code for ‘Amplify’ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9$I"
+      },
+      {
+        "id": "B",
+        "text": "8&R"
+      },
+      {
+        "id": "C",
+        "text": "8$R"
+      },
+      {
+        "id": "D",
+        "text": "10%V"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Row 1:\n83 98 – The pair follows rule (iv), hence resultant\n= 83 / 2 = 41.5\n41.5 12 – The pair follows rule (v), hence resultant\n= 415 / 5 = 83\nRow 2:\n12 36 – The pair follows rule (ii), hence resultant =\n12 + (2 X 36)\n= 12 + 72\n= 84\n84 33 – The pair follows rule (i), hence resultant\n= 84 – 33 = 51\nSo, the product of the resultant of the first and\nsecond row;\n= 83 X 51\n= 4233\nSo, the answer is 4233.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Plenary, Subaltern, Apartheid, Timidity’ is\ncoded as ‘4&R, 4%I, 2@R, 10$T’\n‘Benchmark, Curb, Heralded, Spur’ is coded as ‘\n6⧭R, 10➽E, 4#R, 6&U’\n‘Posited, Apparent, Buttress’ is coded as ‘ 10%N,\n2@E, 10#S’\nWhat will be code for “ Hype, Skirmish”",
+    "options": [
+      {
+        "id": "A",
+        "text": "6➽Y, 10⧭K"
+      },
+      {
+        "id": "B",
+        "text": "6➽P, 10&S"
+      },
+      {
+        "id": "C",
+        "text": "8⧭Y, 10⧭K"
+      },
+      {
+        "id": "D",
+        "text": "10⧭Y, 10&K"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "FUTURE- 3@5@78\nCondition 2 follows: If the first letter is\nconsonant and the last letter is a vowel, then\nthe codes of both are to be interchanged.\nOUTPUT- 5@56@5\nCondition 4 follows: If the first letter is a vowel\nand the last letter is consonant, then both are\nto be coded as the code of the last letter.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Plenary, Subaltern, Apartheid, Timidity’ is\ncoded as ‘4&R, 4%I, 2@R, 10$T’\n‘Benchmark, Curb, Heralded, Spur’ is coded as ‘\n6⧭R, 10➽E, 4#R, 6&U’\n‘Posited, Apparent, Buttress’ is coded as ‘ 10%N,\n2@E, 10#S’\nWhat will be code for “Articulate” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10%R"
+      },
+      {
+        "id": "B",
+        "text": "12%T"
+      },
+      {
+        "id": "C",
+        "text": "10&R"
+      },
+      {
+        "id": "D",
+        "text": "12%R"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "FRENCH- ?73+!?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Plenary, Subaltern, Apartheid, Timidity’ is\ncoded as ‘4&R, 4%I, 2@R, 10$T’\n‘Benchmark, Curb, Heralded, Spur’ is coded as ‘\n6⧭R, 10➽E, 4#R, 6&U’\n‘Posited, Apparent, Buttress’ is coded as ‘ 10%N,\n2@E, 10#S’\nWhat will be code for “Bigotry” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2#R"
+      },
+      {
+        "id": "B",
+        "text": "2%I"
+      },
+      {
+        "id": "C",
+        "text": "4#I"
+      },
+      {
+        "id": "D",
+        "text": "1&I"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "UNIQUE- @+*4@@\nCondition1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nTICKET- ?*!%3?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Plenary, Subaltern, Apartheid, Timidity’ is\ncoded as ‘4&R, 4%I, 2@R, 10$T’\n‘Benchmark, Curb, Heralded, Spur’ is coded as ‘\n6⧭R, 10➽E, 4#R, 6&U’\n‘Posited, Apparent, Buttress’ is coded as ‘ 10%N,\n2@E, 10#S’\nWhat will be code for “Carving” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6&N"
+      },
+      {
+        "id": "B",
+        "text": "4%A"
+      },
+      {
+        "id": "C",
+        "text": "2⧭N"
+      },
+      {
+        "id": "D",
+        "text": "3⧭A"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "INSIDE- *+&*^*\nCondition 1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nHEIGHT- ?3*#1?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Plenary, Subaltern, Apartheid, Timidity’ is\ncoded as ‘4&R, 4%I, 2@R, 10$T’",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "REPAIR- ?36>*?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Partake, Snowball, Coalition, Menace’ is coded\nas ‘ 2@F, 7$J, 7@H, 13$D\n‘Hysteria, Speculation, Prompting’ is coded as\n‘2$G, 2$D, 6@I’\n‘Nimble, Scramble, Purview, Upsurge’ is coded\nas ‘2$N, 6@E, 8$N, 5@B’\nWhat will be code for ‘Adeptly’ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6@H"
+      },
+      {
+        "id": "B",
+        "text": "7$G"
+      },
+      {
+        "id": "C",
+        "text": "8@E"
+      },
+      {
+        "id": "D",
+        "text": "6$H"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Zero minutes .\n# means either minutes or seconds are 0\n> means either minutes or seconds are 4\n@ means either minutes or seconds are 5\n^ means either minutes or seconds are 6\n& means either minutes or seconds are 7\n$ means either minutes or seconds are 30\n% means either minutes or seconds are 60\nPump A alone could fill the tank in 4 min 60 sec\n.Pump B alone could fill the tank in 5 min 60 sec\nwhile pump C alone could fill the tank in 7 min\n30 sec .\nA = 5 min\nB = 6 min\nC = 7.5 min\nLet tank be of 30 units so A fills 6 unit per min, B\nfills 5 unit per min and C fill 4 unit per min",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Partake, Snowball, Coalition, Menace’ is coded\nas ‘ 2@F, 7$J, 7@H, 13$D\n‘Hysteria, Speculation, Prompting’ is coded as\n‘2$G, 2$D, 6@I’\n‘Nimble, Scramble, Purview, Upsurge’ is coded\nas ‘2$N, 6@E, 8$N, 5@B’\nWhat will be code for ‘Enmity’ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6@F"
+      },
+      {
+        "id": "B",
+        "text": "7$E"
+      },
+      {
+        "id": "C",
+        "text": "5@E"
+      },
+      {
+        "id": "D",
+        "text": "4$E"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "$ ^ 30 mins and 6 sec\n> % 4 mins and 60 sec = 5mins\nTotal time = 35 mins and 6 sec\n$ # + @ ^ = 30 mins +5 mins 6 sec = 35 min 6 sec",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Partake, Snowball, Coalition, Menace’ is coded\nas ‘ 2@F, 7$J, 7@H, 13$D\n‘Hysteria, Speculation, Prompting’ is coded as\n‘2$G, 2$D, 6@I’\n‘Nimble, Scramble, Purview, Upsurge’ is coded\nas ‘2$N, 6@E, 8$N, 5@B’\nWhat will be code for ‘Hawkish, Pared, Futile’ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2$G, 8@C, 7$F"
+      },
+      {
+        "id": "B",
+        "text": "1$G, 8@B, 6$D"
+      },
+      {
+        "id": "C",
+        "text": "3$F, 8@B, 6$D"
+      },
+      {
+        "id": "D",
+        "text": "1$G, 8@C, 6$E"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nA train Z which travels at the uniform speed of\n60km/hr leaves Kolkata for Lucknow at 3:00 PM\nand train A which travels from Lucknow to\nKolkata started its journey at 5:00 PM . Train A\ntravels faster than train Z and meets train Z at\n10:00PM. What is the speed of train A if the\ndistance between Lucknow and Kolkata is\n820km\nTime for train Z = 7 hr and time for train A is 5 hrs.\nTrain Z travelled 60*7 = 420 km and\nTrain A travelled 820-420 = 400 km in 5 hrs\nSpeed of Train A is 80 km/hr = 22.22 m/s",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Partake, Snowball, Coalition, Menace’ is coded\nas ‘ 2@F, 7$J, 7@H, 13$D\n‘Hysteria, Speculation, Prompting’ is coded as\n‘2$G, 2$D, 6@I’\n‘Nimble, Scramble, Purview, Upsurge’ is coded\nas ‘2$N, 6@E, 8$N, 5@B’\nWhat will be code for ‘Obsolete, Whittling ’ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4@F, 9$F"
+      },
+      {
+        "id": "B",
+        "text": "5@B, 9$E"
+      },
+      {
+        "id": "C",
+        "text": "2@D, 9$F"
+      },
+      {
+        "id": "D",
+        "text": "6@N, 9$J"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nA work is divided among three people equally. .\nPerson A starts to work at 6:00 PM and\ncompletes it at 9:45, while person B starts at\n3:15 PM and completes it at 5:45 PM. Person C\nquit the job so both A and B have to do his\nwork. At what time they will be able to finish the\nwork if they start at 10:00 PM working together\n?\nA = 3hr 45 min = 3.75 hr\nB = 2 hr 30 min = 2.5 hr\nLet the work be of total 15 units, then A does 4\nunits of work in an hour and B does 6 units of\nwork in an hour, together they do 10 units of\nwork in an hour can could complete in 15/10 =\n1.5 hrs\nif they start at 10:00 PM then work will finish by\n11:30 PM = ! <",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code:-\n‘Partake, Snowball, Coalition, Menace’ is coded\nas ‘ 2@F, 7$J, 7@H, 13$D\n‘Hysteria, Speculation, Prompting’ is coded as\n‘2$G, 2$D, 6@I’\n‘Nimble, Scramble, Purview, Upsurge’ is coded\nas ‘2$N, 6@E, 8$N, 5@B’\nWhat will be the word for this ‘3$C’ code ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monarchy"
+      },
+      {
+        "id": "B",
+        "text": "Kingship"
+      },
+      {
+        "id": "C",
+        "text": "Sovereignty"
+      },
+      {
+        "id": "D",
+        "text": "Theocracy"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nFor a specific work, if 18 men together start the\njob at 3:30 PM they complete it at 9:30 PM. 12\nwomen if start at 6:30 PM they are able to\ncomplete it at 11:00 PM. At what time will 8 men\nand 8 women can complete the same work if\nthey start at 5:00 PM\n18 men in 6 hrs\n12 women in 4 hrs 30 mins =4.5 hr\n18 * 6 * M = 12 *4.5 * W\nM/W = ½ => W = 2M\n8M and 8W = 24M",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "22",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’MUZZLING’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M199G"
+      },
+      {
+        "id": "B",
+        "text": "G189A"
+      },
+      {
+        "id": "C",
+        "text": "G30A"
+      },
+      {
+        "id": "D",
+        "text": "CND"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "@ means either minutes or seconds are 7\n^ means either minutes or seconds are 10\n& means either minutes or seconds are 12\n$ means either minutes or seconds are 23\n> means either minutes or seconds are 32\n# means either minutes or seconds are 35\n% means either minutes or seconds are 50\nConverting the statement :\nPerson A started the exam 7 min 35 sec late but\nfinished it 10 min 23 sec before Person B. How\nmuch time does Person B take to complete the\nexam if he does not delay to start and Person A\ncompletes it in 32 min 12 sec .\nTime taken by B is 7 min 35 sec + 10 min 23 sec +\n32 min 12 sec\n= 50 min 10 sec = % ^",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "23",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’INNOVATE’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "#N6"
+      },
+      {
+        "id": "B",
+        "text": "@O4"
+      },
+      {
+        "id": "C",
+        "text": "$P3"
+      },
+      {
+        "id": "D",
+        "text": "%P2"
+      },
+      {
+        "id": "E",
+        "text": "%Q2"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Time taken by the person 1 to reach the office\n#& i.e. 35 minutes 12 seconds\nBut he took ^$ 10 minutes 23 seconds more on\nthat day.\nTherefore, the total time taken by the person to\nreach on that particular day is 45 minutes and\n35 seconds.\nTime take by the person 2 to reach the office ^&\ni.e 10 minutes and 12 second and 13 seconds\nmore, therefore total time taken is 10 minutes\nand 25 seconds.\nTherefore Person 1 took 35 minutes and 10\nseconds more i.e #^",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "24",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’SURGE’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "@E16"
+      },
+      {
+        "id": "B",
+        "text": "#F15"
+      },
+      {
+        "id": "C",
+        "text": "%F16"
+      },
+      {
+        "id": "D",
+        "text": "$E15"
+      },
+      {
+        "id": "E",
+        "text": "#I17"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "A person boarded the train at 10:30 AM and he\nreached station A at 1:15 AM, it took him 25\nminutes to reach home, hence he was home at\n1:40 AM or at @* AM.",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "Study the following infrmation carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’JUMBLE’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "J105M"
+      },
+      {
+        "id": "B",
+        "text": "B105U"
+      },
+      {
+        "id": "C",
+        "text": "E26J"
+      },
+      {
+        "id": "D",
+        "text": "J26E"
+      },
+      {
+        "id": "E",
+        "text": "B105F\nQ26"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "I) For symbols ->First symbol represents the\nvowel count and the last symbol represents the\nconsonant count. Vowels -> 1-$, 2-*, 3-&, 4-€\nConsonants –> 1-%, 2-©, 3-#, 4-!, 5-?, 6-@\nII) For letter ->Consider the third letter of every\nword. If the third letter is a vowel then the fifth\nsucceeding letter of that vowel as per the\nEnglish alphabetical series is taken. If the third\nletter is a consonant, then the fifth preceding\nletter of that consonant as per the alphabetical\nseries is taken.\nIII) For numbers -> The place value(as per the\nalphabetical series) of the first and last letter of\nthe word is added and written in reverse order.",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p012_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "27",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’POWER’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$H11"
+      },
+      {
+        "id": "B",
+        "text": "@F12"
+      },
+      {
+        "id": "C",
+        "text": "%G13"
+      },
+      {
+        "id": "D",
+        "text": "@E15"
+      },
+      {
+        "id": "E",
+        "text": "#F19"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p013_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "28",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’ACCEPT’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A5G"
+      },
+      {
+        "id": "B",
+        "text": "S5H"
+      },
+      {
+        "id": "C",
+        "text": "E5H"
+      },
+      {
+        "id": "D",
+        "text": "P5S"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p013_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "29",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn the following question, three Row are given\nstatements consisting of four words each which\nare coded and put in code-I, CODE-II and\nCode-III but not necessarily in the same order.\nFind the code and give the answer to the\nfollowing questions.\nWhat is the code of ‘’TARGET’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$K15"
+      },
+      {
+        "id": "B",
+        "text": "@J25"
+      },
+      {
+        "id": "C",
+        "text": "@I20"
+      },
+      {
+        "id": "D",
+        "text": "#G14"
+      },
+      {
+        "id": "E",
+        "text": "$H15\nQ30"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p013_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "31",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language-\nWhat is the code in place of ‘’G’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "@G@V@P@"
+      },
+      {
+        "id": "B",
+        "text": "@T@E@U@"
+      },
+      {
+        "id": "C",
+        "text": "J#R#K#F#"
+      },
+      {
+        "id": "D",
+        "text": "@Q@G@P"
+      },
+      {
+        "id": "E",
+        "text": "P#I#E"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p014_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "32",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language-",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Logic:-",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p014_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "33",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language-\nWhat is the code in place of ‘’A’’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X#G#K#T"
+      },
+      {
+        "id": "B",
+        "text": "@G@V@P@"
+      },
+      {
+        "id": "C",
+        "text": "J#R#K#F#"
+      },
+      {
+        "id": "D",
+        "text": "@T@C@K@G"
+      },
+      {
+        "id": "E",
+        "text": "T#C#K#G"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Logic:-\nIf letter start with Consonant then= Even\nPlace +2 = Odd place = @\nIf letter start with Vowels then = (Even\nplace=#)\n= Odd place का opposite-2",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p015_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "35",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Stumbled, Apartheid, Retaliation’ is coded as\n‘E26, O16, O40’\n‘Brexit, Heralded, Rancour, Propriety’ is coded\nas ‘O37, E14, O29, E11 ’\n‘Veto,Prorogue, Germane, Searing’ is coded as\n‘E20, O11, E56, O15’\nWhat will be code for “Erasure, Dilation, Piloted”\n?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E33, O32, O28"
+      },
+      {
+        "id": "B",
+        "text": "E34, O32, O29"
+      },
+      {
+        "id": "C",
+        "text": "E34, O32, O16"
+      },
+      {
+        "id": "D",
+        "text": "E34, O18, O29"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The code for Erasure, Dilation, Piloted is E34,\nO32, O29",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "36",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Stumbled, Apartheid, Retaliation’ is coded as\n‘E26, O16, O40’\n‘Brexit, Heralded, Rancour, Propriety’ is coded\nas ‘O37, E14, O29, E11 ’\n‘Veto,Prorogue, Germane, Searing’ is coded as\n‘E20, O11, E56, O15’\nWhat will be code for “Outstripped, Rankled” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E6, E25"
+      },
+      {
+        "id": "B",
+        "text": "O5, O51"
+      },
+      {
+        "id": "C",
+        "text": "O6, O50"
+      },
+      {
+        "id": "D",
+        "text": "E6, E50"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The code for Outstripped, Rankled is O6, O50\nHence the correct answer is O6, O50\nLogic:-\nLetter- if No. of letters are odd then use- O and\nIf No. of letters are even the use- E\nOdd- O and Even- E\nNumber- Add place value of vowels",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "37",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Stumbled, Apartheid, Retaliation’ is coded as\n‘E26, O16, O40’\n‘Brexit, Heralded, Rancour, Propriety’ is coded\nas ‘O37, E14, O29, E11 ’\n‘Veto,Prorogue, Germane, Searing’ is coded as\n‘E20, O11, E56, O15’\nWhat will be code for “Populous” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O51"
+      },
+      {
+        "id": "B",
+        "text": "E51"
+      },
+      {
+        "id": "C",
+        "text": "O72"
+      },
+      {
+        "id": "D",
+        "text": "E72"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Logic:-\nLetter- if No. of letters are odd then use- O and\nIf No. of letters are even the use- E\nOdd- O and Even- E\nNumber- Add place value of vowels",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "38",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language:-\n‘Stumbled, Apartheid, Retaliation’ is coded as\n‘E26, O16, O40’\n‘Brexit, Heralded, Rancour, Propriety’ is coded\nas ‘O37, E14, O29, E11 ’\n‘Veto,Prorogue, Germane, Searing’ is coded as\n‘E20, O11, E56, O15’\nWhat will be code for “Tamping” ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O10"
+      },
+      {
+        "id": "B",
+        "text": "E10"
+      },
+      {
+        "id": "C",
+        "text": "O12"
+      },
+      {
+        "id": "D",
+        "text": "E13"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ39"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The code for Tamping is O10\nHence the correct answer is O10.\nLogic:-\nLetter- if No. of letters are odd then use- O and\nIf No. of letters are even the use- E\nOdd- O and Even- E\nNumber- Add place value of vowels",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p016_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by a perfect\ncube, then the first number is subtracted from\nthe second number.\n(ii) If an even number is followed by an odd\nnumber, then both the numbers are multiplied.\n(iii) If an odd number is followed by an even\nnumber which is not a perfect cube, then the\nnumbers are divided.\n(iv) If an odd number is followed by an odd\nnumber which is not a perfect cube, then both\nthe numbers are added.\n(v) If an even number is followed by an odd\nnumber which is not a multiple of 5, then the\nlarger number is divided by 25.\n(vi) If an even number is followed by an even\nnumber, then the larger number is the resultant.\n200 47 W\n13 17 15\nIf ‘W’ is the resultant of the second row, then\nwhat is the resultant of the first row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "540"
+      },
+      {
+        "id": "B",
+        "text": "54"
+      },
+      {
+        "id": "C",
+        "text": "450"
+      },
+      {
+        "id": "D",
+        "text": "45"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 2:\n13 17 – The pair follows rule (iv), hence resultant\n= 13 + 17\n= 30\n30 15 – The pair follows rule (ii), hence resultant\n= 30 X 15\n= 450\nSo, W = 450\nRow 1:\n200 47 – The pair follows rule (v), hence\nresultant = 200 / 25\n= 8\n8 450 – The pair follows rule (vi), hence resultant\n= 450\nSo, the answer is 450.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by a perfect\ncube, then the first number is subtracted from\nthe second number.\n(ii) If an even number is followed by an odd\nnumber, then both the numbers are multiplied.\n(iii) If an odd number is followed by an even\nnumber which is not a perfect cube, then the\nnumbers are divided.\n(iv) If an odd number is followed by an odd\nnumber which is not a perfect cube, then both\nthe numbers are added.\n(v) If an even number is followed by an odd\nnumber which is not a multiple of 5, then the\nlarger number is divided by 25.\n(vi) If an even number is followed by an even\nnumber, then the larger number is the resultant.\n26 343 10\n67 71 136\nWhat is the sum of the resultant of first row\nand second row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "196.7"
+      },
+      {
+        "id": "B",
+        "text": "179.7"
+      },
+      {
+        "id": "C",
+        "text": "199.7"
+      },
+      {
+        "id": "D",
+        "text": "169.7"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n26 343 – The pair follows rule (i), hence resultant\n= 343 – 26\n= 317\n317 10 – The pair follows rule (iii), hence resultant\n= 317 / 10\n= 31.7\nRow 2:\n67 71 – The pair follows rule (iv), hence resultant\n= 67 + 71\n= 138\n138 136 – The pair follows rule (vi), hence\nresultant = 138\nSo, the sum of the resultant of first row and\nsecond row;\n= 31.7 + 138\n= 169.7\nSo, the answer is 169.7",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by a perfect\ncube, then the first number is subtracted from\nthe second number.\n(ii) If an even number is followed by an odd\nnumber, then both the numbers are multiplied.\n(iii) If an odd number is followed by an even\nnumber which is not a perfect cube, then the\nnumbers are divided.",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n56 125 – The pair follows rule (i), hence resultant\n= 125 – 56\n= 69\n69 29 – The pair follows rule (iv), hence resultant\n= 69 + 29\n= 98\nSo, L = 98\nRow 2:\n10 75 – The pair follows rule (ii), hence resultant\n= 10 X 75\n= 750\n750 43 – The pair follows rule (v), hence\nresultant = 750 / 25\n= 30\nSo, M = 30\nNow,\nL + M\n= 98 + 30\n= 128\nSo, the answer is 128.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by a perfect\ncube, then the first number is subtracted from\nthe second number.\n(ii) If an even number is followed by an odd\nnumber, then both the numbers are multiplied.\n(iii) If an odd number is followed by an even\nnumber which is not a perfect cube, then the\nnumbers are divided.\n(iv) If an odd number is followed by an odd\nnumber which is not a perfect cube, then both\nthe numbers are added.\n(v) If an even number is followed by an odd\nnumber which is not a multiple of five, then the\nlarger number is divided by 25.\n(vi) If an even number is followed by an even\nnumber, then the larger number is the resultant.\n150 87 16\nP 15 729\nIf ‘P’ is the resultant of first row, then find the\nresultant of the second row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "489"
+      },
+      {
+        "id": "B",
+        "text": "498"
+      },
+      {
+        "id": "C",
+        "text": "984"
+      },
+      {
+        "id": "D",
+        "text": "894"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n150 87 – The pair follows rule (v), hence resultant\n= 150 / 25\n= 6\n6 16 – The pair follows rule (vi), hence resultant =\n16\nSo, P = 16\nRow 2:\n16 15 – The pair follows rule (ii), hence resultant =\n16 X 15\n= 240\n240 729 – The pair follows rule (i), hence\nresultant = 729 – 240\n= 489\nSo, the resultant of the second row is 489.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the resultant will be the addition\nof both the numbers.\n(ii) If an odd number is followed by a perfect\nsquare, then the resultant will be the difference\nof that perfect square and the odd number.\n(iii) If an odd number is followed by an another\nodd number (but not perfect square), then the\nresultant will be the addition of both the\nnumbers.\n(iv) ) If an odd number is followed by an even\nnumber (but not perfect square), then the\nresultant will be the multiplication of both the\nnumbers.\n(v) If an even number is followed by an another\neven number, then the resultant will be the\ndivision of the first number by the second\nnumber.\n17 24 55\n36 43 12\nFind the sum of the resultant of the first row\nand the second row.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1141"
+      },
+      {
+        "id": "B",
+        "text": "4111"
+      },
+      {
+        "id": "C",
+        "text": "1411"
+      },
+      {
+        "id": "D",
+        "text": "1114"
+      },
+      {
+        "id": "E",
+        "text": "None of theseD"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n17 24 – The pair follows rule (iv), hence resultant\n= 17 X 24\n= 408\n408 55 – The pair follows rule (i), hence resultant\n= 408 + 55",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n25 41 – The pair follows rule (iii), hence resultant\n= 25 + 41\n= 66\n66 37 – The pair follows rule (i), hence resultant =\n66 + 37\n= 103\nSo, X = 103\nRow 2:\n48 16 – The pair follows rule (v), hence resultant\n= 48 / 16\n= 3\n3 103 – The pair follows rule (iii), hence resultant\n= 3 + 103\n= 106\nSo, the answer is 106.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the resultant will be the addition\nof both the numbers.\n(ii) If an odd number is followed by a perfect\nsquare, then the resultant will be the difference\nof that perfect square and the odd number.\n(iii) If an odd number is followed by an another\nodd number (but not perfect square), then the\nresultant will be the addition of both the\nnumbers.\n(iv) ) If an odd number is followed by an even\nnumber (but not perfect square), then the\nresultant will be the multiplication of both the\nnumbers.\n(v) If an even number is followed by an another\neven number, then the resultant will be the\ndivision of the first number by the second\nnumber.\n7 6 2\n5 15 2\nWhat is the multiplication of the resultant of\nthe first row and the second row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "120"
+      },
+      {
+        "id": "B",
+        "text": "150"
+      },
+      {
+        "id": "C",
+        "text": "180"
+      },
+      {
+        "id": "D",
+        "text": "210"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n7 6 – The pair follows rule (iv), hence resultant =\n7 X 6\n= 42\n42 2 – The pair follows rule (v), hence resultant =\n42 / 2\n= 21\nRow 2:\n5 15 – The pair follows rule (iii), hence resultant =\n5 + 15\n= 20\n20 2 – The pair follows rule (v), hence resultant =\n20 / 2\n= 10\nSo, the multiplication the resultant of the first\nrow and the second row;\n= 21 X 10\n= 210\nSo, the answer is 210.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the smaller number is to be\nsubtracted from the larger number.\n(ii) If an even number is followed by an even\nnumber, then the smaller number must be\nadded to the double of the larger number.\n(iii) If an odd number is followed by an odd\nnumber, then both the numbers are to be\nadded.\n(iv) If an odd number is followed by an even\nnumber, then the smaller number of the two is\nto be halfed.\n(v) If a number which has decimal is followed by\nan even number, then the decimal gets\nremoved and the number is divided by 5.\n43 23 24",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n43 23 – The pair follows rule (iii), hence resultant\n= 43 + 23 = 66\n66 24 – The pair follows rule (ii), hence resultant\n= 24 + (2 X 66)\n= 24 + 132\n= 156\nRow 2:\n26 19 – The pair follows rule (i), hence resultant =\n26 – 19 = 7\n7 6 – The pair follows rule (iv), hence resultant =\n6 / 2 = 3\nSo, Row 1 – Row 2\n= 156 – 3\n= 153\nSo, the answer is 153.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      20
+    ]
+  },
+  {
+    "question_number": "26",
+    "question": "19 6\nWhat\nwill be the di erence\nbetween the\nresultants of the two rows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "159"
+      },
+      {
+        "id": "B",
+        "text": "213"
+      },
+      {
+        "id": "C",
+        "text": "216"
+      },
+      {
+        "id": "D",
+        "text": "153"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "He had his breakfast at 8:45AM, lunch at 2:15PM\nand dinner at 9:50PM or %& PM.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the smaller number is to be\nsubtracted from the larger number.\n(ii) If an even number is followed by an even\nnumber, then the smaller number must be\nadded to the double of the larger number.\n(iii) If an odd number is followed by an odd\nnumber, then both the numbers are to be\nadded.\n(iv) If an odd number is followed by an even\nnumber, then the smaller number of the two is\nto be halfed.\n(v) If a number which has decimal is followed by\nan even number, then the decimal gets\nremoved and the number is divided by 5.\n46 85 79\n67 Y 58\nIf ‘Y’ is resultant of first row, then what is the\nsum of the resultant of first row and second\nrow?",
+    "options": [
+      {
+        "id": "A",
+        "text": "165"
+      },
+      {
+        "id": "B",
+        "text": "275"
+      },
+      {
+        "id": "C",
+        "text": "185"
+      },
+      {
+        "id": "D",
+        "text": "245"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Row 1:\n46 85 – The pair follows rule (i), hence resultant\n= 85 – 46 = 39\n39 79 – The pair follows rule (iii), hence resultant\n= 39 + 79 = 118\nY = 118\nRow 2:\n67 118 – The pair follows rule (iv), hence resultant\n= 67 / 2 = 33.5\n33.5 58 – The pair follows rule (v), hence\nresultant = 335 / 5 = 67\nSo, row 1 + row 2\n= 118 + 67\n= 185\nSo, the answer is 185.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the smaller number is to be\nsubtracted from the larger number.\n(ii) If an even number is followed by an even\nnumber, then the smaller number must be\nadded to the double of the larger number.\n(iii) If an odd number is followed by an odd\nnumber, then both the numbers are to be\nadded.\n(iv) If an odd number is followed by an even\nnumber, then the smaller number of the two is\nto be halfed.\n(v) If a number which has decimal is followed by\nan even number, then the decimal gets\nremoved and the number is divided by 5.\n57 20 83\nX 44 32\nIf ‘X’ is the resultant of the first row, what will\nbe the resultant of the second row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "38"
+      },
+      {
+        "id": "B",
+        "text": "86"
+      },
+      {
+        "id": "C",
+        "text": "96"
+      },
+      {
+        "id": "D",
+        "text": "48"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Row 1:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "11",
+    "question": "Directions: In each of the following questions\ntwo rows of numbers are given, the resultant\nnumber in each row is to be worked out\nseparately based on the following rules and the\nquestion below the rows of numbers is to be\nanswered. The operation of numbers progresses\nfrom left to right.\nRules:\n(i) If an even number is followed by an odd\nnumber, then the smaller number is to be\nsubtracted from the larger number.\n(ii) If an even number is followed by an even\nnumber, then the smaller number must be\nadded to the double of the larger number.\n(iii) If an odd number is followed by an odd\nnumber, then both the numbers are to be\nadded.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Row 1:\n83 98 – The pair follows rule (iv), hence resultant\n= 83 / 2 = 41.5\n41.5 12 – The pair follows rule (v), hence resultant\n= 415 / 5 = 83\nRow 2:\n12 36 – The pair follows rule (ii), hence resultant =\n12 + (2 X 36)\n= 12 + 72\n= 84\n84 33 – The pair follows rule (i), hence resultant\n= 84 – 33 = 51\nSo, the product of the resultant of the first and\nsecond row;\n= 83 X 51\n= 4233\nSo, the answer is 4233.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Directions: In each question below is a given\nletter followed by four combinations of symbols\nand numbers. You have to find out which of the\ncombination correctly\nrepresents\nthe\ncode\nbased on the given coding system.\nConditions:\ni) If the first and the last letters are vowels, then\nboth are to be coded as the code of the first\nletter.\nii) If the first letter is consonant and the last\nletter is a vowel, then the codes of both are to\nbe interchanged.\niii)\nIf both first and the last\nletters\nare\nconsonants then both are to be coded as “?”\niv) If the first letter is a vowel and the last letter\nis consonant, then both are to be coded as the\ncode of the last letter.\nWhat is the code of FUTURE OUTPUT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3@5@78 5@56@5"
+      },
+      {
+        "id": "B",
+        "text": "8@5@73 $@56@5"
+      },
+      {
+        "id": "C",
+        "text": "3@5@78 $@56@5"
+      },
+      {
+        "id": "D",
+        "text": "8@5@78 $@56@$"
+      },
+      {
+        "id": "E",
+        "text": "3@5@73 ?@56@?"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "FUTURE- 3@5@78\nCondition 2 follows: If the first letter is\nconsonant and the last letter is a vowel, then\nthe codes of both are to be interchanged.\nOUTPUT- 5@56@5\nCondition 4 follows: If the first letter is a vowel\nand the last letter is consonant, then both are\nto be coded as the code of the last letter.",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p022_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "Directions: In each question below is a given\nletter followed by four combinations of symbols\nand numbers. You have to find out which of the\ncombination correctly\nrepresents\nthe\ncode\nbased on the given coding system.\nConditions:\ni) If the first and the last letters are vowels, then\nboth are to be coded as the code of the first\nletter.\nii) If the first letter is consonant and the last\nletter is a vowel, then the codes of both are to\nbe interchanged.\niii) If both first and the last\nletters\nare\nconsonants then both are to be coded as “?”\niv) If the first letter is a vowel and the last letter\nis consonant, then both are to be coded as the\ncode of the last letter.\nWhat is the code of FRENCH?",
+    "options": [
+      {
+        "id": "A",
+        "text": "873+!1"
+      },
+      {
+        "id": "B",
+        "text": "?73+!?"
+      },
+      {
+        "id": "C",
+        "text": "173+!1"
+      },
+      {
+        "id": "D",
+        "text": "873+!8"
+      },
+      {
+        "id": "E",
+        "text": "173+!8"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "FRENCH- ?73+!?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p022_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Directions: In each question below is a given\nletter followed by four combinations of symbols\nand numbers. You have to find out which of the\ncombination correctly\nrepresents\nthe\ncode\nbased on the given coding system.\nConditions:\ni) If the first and the last letters are vowels, then\nboth are to be coded as the code of the first\nletter.\nii) If the first letter is consonant and the last\nletter is a vowel, then the codes of both are to\nbe interchanged.",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "UNIQUE- @+*4@@\nCondition1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nTICKET- ?*!%3?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p022_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "Directions: In each question below is a given\nletter followed by four combinations of symbols\nand numbers. You have to find out which of the\ncombination correctly\nrepresents\nthe\ncode\nbased on the given coding system.\nConditions:\ni) If the first and the last letters are vowels, then\nboth are to be coded as the code of the first\nletter.\nii) If the first letter is consonant and the last\nletter is a vowel, then the codes of both are to\nbe interchanged.\niii) If both first and the last\nletters\nare\nconsonants then both are to be coded as “?”\niv) If the first letter is a vowel and the last letter\nis consonant, then both are to be coded as the\ncode of the last letter.\nWhat is the code of INSIDE HEIGHT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3+&*^3 13*#15"
+      },
+      {
+        "id": "B",
+        "text": "*+&*^3 13*#15"
+      },
+      {
+        "id": "C",
+        "text": "*+&*^* ?3*#1?"
+      },
+      {
+        "id": "D",
+        "text": "*+&*^3 53*#15"
+      },
+      {
+        "id": "E",
+        "text": "3+&*^* 13*#11"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "INSIDE- *+&*^*\nCondition 1 follows: If the first and the last letters\nare vowels, then both are to be coded as the\ncode of the first letter.\nHEIGHT- ?3*#1?\nCondition 3 follows: If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p023_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "Directions: In each question below is a given\nletter followed by four combinations of symbols\nand numbers. You have to find out which of the\ncombination correctly represents\nthe code\nbased on the given coding system.\nConditions:\ni) If the first and the last letters are vowels, then\nboth are to be coded as the code of the first\nletter.\nii) If the first letter is consonant and the last\nletter is a vowel, then the codes of both are to\nbe interchanged.\niii) If both first and the last\nletters\nare\nconsonants then both are to be coded as “?”\niv) If the first letter is a vowel and the last letter\nis consonant, then both are to be coded as the\ncode of the last letter.\nWhat is the code of REPAIR?",
+    "options": [
+      {
+        "id": "A",
+        "text": "76>3*7"
+      },
+      {
+        "id": "B",
+        "text": "?36>*?"
+      },
+      {
+        "id": "C",
+        "text": "736>*7"
+      },
+      {
+        "id": "D",
+        "text": "763>*7"
+      },
+      {
+        "id": "E",
+        "text": "763>7*"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "REPAIR- ?36>*?\nCondition 3 follows : If both first and the last\nletters are consonants then both are to be\ncoded as “?”",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p023_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n# means either minutes or seconds are 0\n> means either minutes or seconds are 4\n@ means either minutes or seconds are 5\n^ means either minutes or seconds are 6\n& means either minutes or seconds are 7\n$ means either minutes or seconds are 30\n% means either minutes or seconds are 60\nNote: if two symbols are given than by default\nfirst symbol is considered as minute and the\nother is considered as second For example, @ >\nmeans 5 minutes and 4 seconds\nA tank is equipped with three pumps: A, B and",
+    "options": [
+      {
+        "id": "C",
+        "text": "Pump A alone could fill the tank in > % . Pump\nB alone could fill the tank in @ % while pump C\nalone could fill the tank in & $ .\nFor a minute pump A is used, for next one\nminute Pump B and Pump A together are used"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Zero minutes .\n# means either minutes or seconds are 0\n> means either minutes or seconds are 4\n@ means either minutes or seconds are 5\n^ means either minutes or seconds are 6\n& means either minutes or seconds are 7\n$ means either minutes or seconds are 30\n% means either minutes or seconds are 60\nPump A alone could fill the tank in 4 min 60 sec\n.Pump B alone could fill the tank in 5 min 60 sec\nwhile pump C alone could fill the tank in 7 min\n30 sec .\nA = 5 min\nB = 6 min\nC = 7.5 min\nLet tank be of 30 units so A fills 6 unit per min, B\nfills 5 unit per min and C fill 4 unit per min",
+    "tables": [],
+    "image_ref": "output\\images\\coding_decoding_for_mains_chapter_wise_dpp_english\\coding_decoding_for_mains_chapter_wise_dpp_english_p023_img01.png",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n# means either minutes or seconds are 0\n> means either minutes or seconds are 4\n@ means either minutes or seconds are 5\n^ means either minutes or seconds are 6\n& means either minutes or seconds are 7\n$ means either minutes or seconds are 30\n% means either minutes or seconds are 60\nNote: if two symbols are given than by default\nfirst symbol is considered as minute and the\nother is considered as second For example, @ >\nmeans 5 minutes and 4 seconds\nA train usually takes $ ^ to reach a destination\nbut it got delayed by > %. Then, how much time\ndid it took to reach the destination that day?",
+    "options": [
+      {
+        "id": "A",
+        "text": "@ $ + # ^"
+      },
+      {
+        "id": "B",
+        "text": "$ @ + # ^"
+      },
+      {
+        "id": "C",
+        "text": "$ # + @ ^"
+      },
+      {
+        "id": "D",
+        "text": "# $ + @ ^"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "$ ^ 30 mins and 6 sec\n> % 4 mins and 60 sec = 5mins\nTotal time = 35 mins and 6 sec\n$ # + @ ^ = 30 mins +5 mins 6 sec = 35 min 6 sec",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nNote: If two symbols are given then by default\nfirst symbol is consider as an hour hand and\nsecond one is considered minute hand. And all\ntime are consider at PM. e.g. >@ = 9:00 PM., !?\n=11:25\nA train Z which travels at the uniform speed of\n60km/hr leaves Kolkata for Lucknow at +@ and\ntrain A which travels from Lucknow to Kolkata\nstarted its journey at ?@ . Train A travels faster\nthan train Z and meets train Z at ~@. What is\nthe speed of train A if the distance between\nLucknow and Kolkata is 820km ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "110 km/hr"
+      },
+      {
+        "id": "B",
+        "text": "90 km/hr"
+      },
+      {
+        "id": "C",
+        "text": "16.67 m/s"
+      },
+      {
+        "id": "D",
+        "text": "22.22 m/s"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nA train Z which travels at the uniform speed of\n60km/hr leaves Kolkata for Lucknow at 3:00 PM\nand train A which travels from Lucknow to\nKolkata started its journey at 5:00 PM . Train A\ntravels faster than train Z and meets train Z at\n10:00PM. What is the speed of train A if the\ndistance between Lucknow and Kolkata is\n820km\nTime for train Z = 7 hr and time for train A is 5 hrs.\nTrain Z travelled 60*7 = 420 km and\nTrain A travelled 820-420 = 400 km in 5 hrs\nSpeed of Train A is 80 km/hr = 22.22 m/s",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nNote: If two symbols are given in then by\ndefault first symbol is consider as an hour hand\nand second one is considered minute hand.\nAnd all time are consider at PM. e.g. >@ = 9:00\nPM., !? =11:25\nA work is divided among three people equally.\nPerson A starts to work at <@ and completes it\nat >>, while person B starts at ++ and completes\nit at ?>. Person C quit the job so both A and B\nhave to do his work. At what time they will be\nable to finish the work if they start at ~@\nworking together ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "> !"
+      },
+      {
+        "id": "B",
+        "text": "< ?"
+      },
+      {
+        "id": "C",
+        "text": "! <"
+      },
+      {
+        "id": "D",
+        "text": "? !"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nA work is divided among three people equally. .\nPerson A starts to work at 6:00 PM and\ncompletes it at 9:45, while person B starts at\n3:15 PM and completes it at 5:45 PM. Person C\nquit the job so both A and B have to do his\nwork. At what time they will be able to finish the\nwork if they start at 10:00 PM working together\n?\nA = 3hr 45 min = 3.75 hr\nB = 2 hr 30 min = 2.5 hr\nLet the work be of total 15 units, then A does 4\nunits of work in an hour and B does 6 units of\nwork in an hour, together they do 10 units of\nwork in an hour can could complete in 15/10 =\n1.5 hrs\nif they start at 10:00 PM then work will finish by\n11:30 PM = ! <",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "+ means either hour hand or minute hand is at 3\n? means either hour hand or minute hand is at 5\n< means either hour hand or minute hand is at 6\n> means either hour hand or minute hand is at 9\n~ means either hour hand or minute hand is at\n10\n! means either hour hand or minute hand is at 11\n@ means either hour hand or minute hand is at\n12\nFor a specific work, if 18 men together start the\njob at 3:30 PM they complete it at 9:30 PM. 12\nwomen if start at 6:30 PM they are able to\ncomplete it at 11:00 PM. At what time will 8 men\nand 8 women can complete the same work if\nthey start at 5:00 PM\n18 men in 6 hrs\n12 women in 4 hrs 30 mins =4.5 hr\n18 * 6 * M = 12 *4.5 * W\nM/W = ½ => W = 2M\n8M and 8W = 24M",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "22",
+    "question": "Study the following informaion carefully and\nanswer the questions accordingly.\n@ means either minutes or seconds are 7\n^ means either minutes or seconds are 10\n& means either minutes or seconds are 12\n$ means either minutes or seconds are 23\n> means either minutes or seconds are 32\n# means either minutes or seconds are 35\n% means either minutes or seconds are 50\nNote: if two symbols are given than by default\nfirst symbol is considered as minute and the\nother is considered as second For example, @ >\nmeans 7 minutes and 32 seconds\nPerson A started the exam @ # late but finished\nit ^ $ before Person B. How much time does\nPerson B take to complete the exam if he does\nnot delay to start and Person A completes it in\n>&.",
+    "options": [
+      {
+        "id": "A",
+        "text": "% ^"
+      },
+      {
+        "id": "B",
+        "text": "% #"
+      },
+      {
+        "id": "C",
+        "text": "^ #"
+      },
+      {
+        "id": "D",
+        "text": "$ &"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "@ means either minutes or seconds are 7\n^ means either minutes or seconds are 10\n& means either minutes or seconds are 12\n$ means either minutes or seconds are 23\n> means either minutes or seconds are 32\n# means either minutes or seconds are 35\n% means either minutes or seconds are 50\nConverting the statement :\nPerson A started the exam 7 min 35 sec late but\nfinished it 10 min 23 sec before Person B. How\nmuch time does Person B take to complete the\nexam if he does not delay to start and Person A\ncompletes it in 32 min 12 sec .\nTime taken by B is 7 min 35 sec + 10 min 23 sec +\n32 min 12 sec\n= 50 min 10 sec = % ^",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "23",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n@ means either minutes or seconds are 7\n^ means either minutes or seconds are 10\n& means either minutes or seconds are 12\n$ means either minutes or seconds are 23\n> means either minutes or seconds are 32\n# means either minutes or seconds are 35\n% means either minutes or seconds are 50\nNote: if two symbols are given than by default\nfirst symbol is considered as minute and the\nother is considered as second For example, @>\nmeans 7 minutes and 32 seconds\nA person usually takes #& to reach his office,\none day he got late by ^$ . Person 2 takes ^&\nand 13 seconds more to reach the office. How\nmuch more time than person 2 does person 1\ntake that day to reach the office ?",
+    "options": [
+      {
+        "id": "A",
+        "text": ">^"
+      },
+      {
+        "id": "B",
+        "text": "^>"
+      },
+      {
+        "id": "C",
+        "text": "^#"
+      },
+      {
+        "id": "D",
+        "text": "#^"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Time taken by the person 1 to reach the office\n#& i.e. 35 minutes 12 seconds\nBut he took ^$ 10 minutes 23 seconds more on\nthat day.\nTherefore, the total time taken by the person to\nreach on that particular day is 45 minutes and\n35 seconds.\nTime take by the person 2 to reach the office ^&\ni.e 10 minutes and 12 second and 13 seconds\nmore, therefore total time taken is 10 minutes\nand 25 seconds.\nTherefore Person 1 took 35 minutes and 10\nseconds more i.e #^",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "24",
+    "question": "Answer the questions based on the information\ngiven below:\nIn a certain coded language,\n# means either the hour or the minute hand of\nthe clock is at 2\n$ means either the hour or the minute hand of\nthe clock is at 6\n% means either the hour or the minute hand of\nthe clock is at 9\n@ means either the hour or the minute hand of\nthe clock is at 1\n& means either the hour or the minute hand of\nthe clock is at 10\n* means either the hour or the minute hand of\nthe clock is at 8\nFor example,\n#@ PM means 2:05 PM\n%& PM means 9:50 PM",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "A person boarded the train at 10:30 AM and he\nreached station A at 1:15 AM, it took him 25\nminutes to reach home, hence he was home at\n1:40 AM or at @* AM.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "Directions : Study the following information\ncarefully and answer the below questions In a\ncertain code language,\n“Study important questions earlier” means\n“€J63? $Z44! &K92@ €M32#” “Bring admit card\ntomorrow” means“&H34? $M70# *H12# $N90!”\n“Syllabus are really difficult” means “*G83@\n&A42@ *F34! *J60%” “Eagerly waiting for results”\nmeans “&B03! $M42© *N73? &N03!”\nWhat is the code for the word “Vegetables?”",
+    "options": [
+      {
+        "id": "A",
+        "text": "&B14@"
+      },
+      {
+        "id": "B",
+        "text": "*E14!"
+      },
+      {
+        "id": "C",
+        "text": "€G14@"
+      },
+      {
+        "id": "D",
+        "text": "€B14@"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "I) For symbols ->First symbol represents the\nvowel count and the last symbol represents the\nconsonant count. Vowels -> 1-$, 2-*, 3-&, 4-€\nConsonants –> 1-%, 2-©, 3-#, 4-!, 5-?, 6-@\nII) For letter ->Consider the third letter of every\nword. If the third letter is a vowel then the fifth\nsucceeding letter of that vowel as per the\nEnglish alphabetical series is taken. If the third\nletter is a consonant, then the fifth preceding\nletter of that consonant as per the alphabetical\nseries is taken.\nIII) For numbers -> The place value(as per the\nalphabetical series) of the first and last letter of\nthe word is added and written in reverse order.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "26",
+    "question": "Answer the questions based on the information\ngiven below:\nIn a certain coded language,\n# means either the hour or the minute hand of\nthe clock is at 2\n$ means either the hour or the minute hand of\nthe clock is at 6\n% means either the hour or the minute hand of\nthe clock is at 9\n@ means either the hour or the minute hand of\nthe clock is at 1\n& means either the hour or the minute hand of\nthe clock is at 10\n* means either the hour or the minute hand of\nthe clock is at 8\nFor example,\n#@ PM means 2:05 PM\n%& PM means 9:50 PM\nNote: The first symbol represents the hour hand\nand the second symbol represents the minute\nhand. Assume all time in PM, unless else\nmentioned.\nA person had breakfast at *% AM, had lunch 5\nhours 30 minutes after taking his breakfast. If he\ntakes dinner 7 hours 35 minutes after taking his\nlunch, then at what time did he take his dinner?",
+    "options": [
+      {
+        "id": "A",
+        "text": "%# PM"
+      },
+      {
+        "id": "B",
+        "text": "%& PM"
+      },
+      {
+        "id": "C",
+        "text": "%@ PM"
+      },
+      {
+        "id": "D",
+        "text": "%% PM"
+      },
+      {
+        "id": "E",
+        "text": "%*"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "He had his breakfast at 8:45AM, lunch at 2:15PM\nand dinner at 9:50PM or %& PM.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "27",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language,\n‘research overcook conflict bottom’ is written as\n‘O6% T5# U4© F4$ ’\nclassroom without photograph account’ is\nwritten as ‘U4% B6© P7# D4%’\n‘stadium network disclaim polish’ is written as\n‘M4# T5© U5$ B4©’\nWhich of the following can be the code for\n‘guess’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F3%"
+      },
+      {
+        "id": "B",
+        "text": "F3#"
+      },
+      {
+        "id": "C",
+        "text": "F3*"
+      },
+      {
+        "id": "D",
+        "text": "F3$"
+      },
+      {
+        "id": "E",
+        "text": "F3©"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "28",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language,\n‘research overcook conflict bottom’ is written as\n‘O6% T5# U4© F4$ ’\nclassroom without photograph account’ is\nwritten as ‘U4% B6© P7# D4%’\n‘stadium network disclaim polish’ is written as\n‘M4# T5© U5$ B4©’",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "29",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language,\n‘research overcook conflict bottom’ is written as\n‘O6% T5# U4© F4$ ’\nclassroom without photograph account’ is\nwritten as ‘U4% B6© P7# D4%’\n‘stadium network disclaim polish’ is written as\n‘M4# T5© U5$ B4©’\nWhich of\nthe following is the code for\n‘paperwork’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Q6%"
+      },
+      {
+        "id": "B",
+        "text": "Q6#"
+      },
+      {
+        "id": "C",
+        "text": "Q4%"
+      },
+      {
+        "id": "D",
+        "text": "Q6©"
+      },
+      {
+        "id": "E",
+        "text": "Q6$"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "question_number": "30",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language,\n‘research overcook conflict bottom’ is written as\n‘O6% T5# U4© F4$ ’\nclassroom without photograph account’ is\nwritten as ‘U4% B6© P7# D4%’\n‘stadium network disclaim polish’ is written as\n‘M4# T5© U5$ B4©’\nWhich of the following is the code for ‘stylish’ in\nthe given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Z6$"
+      },
+      {
+        "id": "B",
+        "text": "Z4#"
+      },
+      {
+        "id": "C",
+        "text": "Z6%"
+      },
+      {
+        "id": "D",
+        "text": "Z6#"
+      },
+      {
+        "id": "E",
+        "text": "Z6©"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "question_number": "31",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nIn a certain code language,\n‘research overcook conflict bottom’ is written as\n‘O6% T5# U4© F4$ ’\nclassroom without photograph account’ is\nwritten as ‘U4% B6© P7# D4%’\n‘stadium network disclaim polish’ is written as\n‘M4# T5© U5$ B4©’\nWhich of\nthe following is\nthe code for\n‘transform’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B7©"
+      },
+      {
+        "id": "B",
+        "text": "B7#"
+      },
+      {
+        "id": "C",
+        "text": "B6%"
+      },
+      {
+        "id": "D",
+        "text": "B6©"
+      },
+      {
+        "id": "E",
+        "text": "B6$"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Letter :- Third letter from the left end in the\nword + 1\nExample :- In the word “EVERY” 3rd letter from\nthe left is ‘E’ + 1 = ‘F’.\nNumber :-\nNumber of consonants in the word.\nExample :- In the word “EVERY” the number of\nconsonants is 3.\nSymbol :-\nLast letter of the word is ‘H’ use ‘#’\nLast letter of the word is ‘K’ use ‘$’\nLast letter of the word is ‘T’ use ‘%’\nLast letter of the word is ‘M’ use ‘©’",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "(A)",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Row 2:\n13 17 – The pair follows rule (iv), hence resultant\n= 13 + 17\n= 30\n30 15 – The pair follows rule (ii), hence resultant\n= 30 X 15\n= 450\nSo, W = 450\nRow 1:\n200 47 – The pair follows rule (v), hence\nresultant = 200 / 25\n= 8\n8 450 – The pair follows rule (vi), hence resultant\n= 450\nSo, the answer is 450.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "(B)",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "Row 1:\n26 343 – The pair follows rule (i), hence resultant\n= 343 – 26\n= 317\n317 10 – The pair follows rule (iii), hence resultant\n= 317 / 10\n= 31.7\nRow 2:\n67 71 – The pair follows rule (iv), hence resultant\n= 67 + 71\n= 138\n138 136 – The pair follows rule (vi), hence\nresultant = 138\nSo, the sum of the resultant of first row and\nsecond row;\n= 31.7 + 138\n= 169.7\nSo, the answer is 169.7",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "(D)",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n56 125 – The pair follows rule (i), hence resultant\n= 125 – 56\n= 69\n69 29 – The pair follows rule (iv), hence resultant\n= 69 + 29\n= 98\nSo, L = 98\nRow 2:\n10 75 – The pair follows rule (ii), hence resultant\n= 10 X 75\n= 750\n750 43 – The pair follows rule (v), hence\nresultant = 750 / 25\n= 30\nSo, M = 30\nNow,\nL + M\n= 98 + 30\n= 128\nSo, the answer is 128.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "(C)",
+    "options": [],
+    "correct_answer": "A",
+    "explanation": "Row 1:\n17 24 – The pair follows rule (iv), hence resultant\n= 17 X 24\n= 408\n408 55 – The pair follows rule (i), hence resultant\n= 408 + 55",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "(E)",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "I) For symbols ->First symbol represents the\nvowel count and the last symbol represents the\nconsonant count. Vowels -> 1-$, 2-*, 3-&, 4-€\nConsonants –> 1-%, 2-©, 3-#, 4-!, 5-?, 6-@\nII) For letter ->Consider the third letter of every\nword. If the third letter is a vowel then the fifth\nsucceeding letter of that vowel as per the\nEnglish alphabetical series is taken. If the third\nletter is a consonant, then the fifth preceding\nletter of that consonant as per the alphabetical\nseries is taken.\nIII) For numbers -> The place value(as per the\nalphabetical series) of the first and last letter of\nthe word is added and written in reverse order.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "source_pages": [
+      29
+    ]
+  }
+]

@@ -1,0 +1,3581 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that\nall of them are facing towards the center, but\nnot necessarily in the same order. Four items are\nplaced at the corners while four items are\nplaced at the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate\nleft of Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber \nof\nitems \nbetween \nPepper \nand\nCoriander when counted from the left of\nCinnamon and Pepper. One item is placed\nbetween Coriander and Turmeric, which is not\nplaced adjacent to\nOregano. Fennel was\nplaced to the immediate left of Jeera.\nHow many items are placed between Jeera\nand Oregano when counted from the left of\nJeera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Four"
+      },
+      {
+        "id": "C",
+        "text": "One"
+      },
+      {
+        "id": "D",
+        "text": "Three"
+      },
+      {
+        "id": "E",
+        "text": "More than four"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are\nplaced between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One\nitem \nis\nplaced \nbetween \nCoriander \nand\nTurmeric, which is not placed adjacent to\nOregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat one item is placed between Jeera and\nOregano when counted from the left of Jeera.\nHence, the correct answer is option C.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that\nall of them are facing towards the center, but\nnot necessarily in the same order. Four items are\nplaced at the corners while four items are\nplaced at the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate\nleft of Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber \nof\nitems \nbetween \nPepper \nand\nCoriander when counted from the left of\nCinnamon and Pepper. One item is placed\nbetween Coriander and Turmeric, which is not\nplaced adjacent to\nOregano. Fennel was\nplaced to the immediate left of Jeera.\nIf Coriander is related to Basil and Pepper is\nrelated\nto\nJeera\nin a certain way, then\nTurmeric is related to which of the following\nitems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cinnamon"
+      },
+      {
+        "id": "B",
+        "text": "Oregano"
+      },
+      {
+        "id": "C",
+        "text": "Fennel"
+      },
+      {
+        "id": "D",
+        "text": "Basil"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are\nplaced between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One\nitem \nis\nplaced \nbetween \nCoriander \nand\nTurmeric, which is not placed adjacent to\nOregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nLevel-1",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that\nall of them are facing towards the center, but\nnot necessarily in the same order. Four items are\nplaced at the corners while four items are\nplaced at the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate\nleft of Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber \nof\nitems \nbetween \nPepper \nand\nCoriander when counted from the left of\nCinnamon and Pepper. One item is placed\nbetween Coriander and Turmeric, which is not\nSquare Arrangements\nLevel-1",
+    "options": [],
+    "correct_answer": "E",
+    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are\nplaced between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One\nitem \nis\nplaced \nbetween \nCoriander \nand\nTurmeric, which is not placed adjacent to\nOregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat Oregano is second right with respect to\nBasil.\nHence, the correct answer is option E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that\nall of them are facing towards the center, but\nnot necessarily in the same order. Four items are\nplaced at the corners while four items are\nplaced at the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate\nleft of Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber \nof\nitems \nbetween \nPepper \nand\nCoriander when counted from the left of\nCinnamon and Pepper. One item is placed\nbetween Coriander and Turmeric, which is not\nplaced adjacent to\nOregano. Fennel was\nplaced to the immediate left of Jeera.\nWhich of the following items is placed second\nto the right of Cinnamon?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coriander"
+      },
+      {
+        "id": "B",
+        "text": "Basil"
+      },
+      {
+        "id": "C",
+        "text": "Pepper"
+      },
+      {
+        "id": "D",
+        "text": "Oregano"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are\nplaced between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One\nitem \nis\nplaced \nbetween \nCoriander \nand\nTurmeric, which is not placed adjacent to\nOregano.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that\nall of them are facing towards the center, but\nnot necessarily in the same order. Four items are\nplaced at the corners while four items are\nplaced at the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate\nleft of Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber \nof\nitems \nbetween \nPepper \nand\nCoriander when counted from the left of\nCinnamon and Pepper. One item is placed\nbetween Coriander and Turmeric, which is not\nplaced adjacent to\nOregano. Fennel was\nplaced to the immediate left of Jeera.\nWhich of the following statement is/are true\nwith respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cinnamon is placed third to the left of\nFennel"
+      },
+      {
+        "id": "B",
+        "text": "Both Coriander and Basil are placed at the\ncorners of the box"
+      },
+      {
+        "id": "C",
+        "text": "More than two items are placed from the\nleft of Turmeric to Jeera"
+      },
+      {
+        "id": "D",
+        "text": "Neither fennel nor Oregano is adjacent to\nBasil"
+      },
+      {
+        "id": "E",
+        "text": "None of these are true"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One\nitem \nis \nplaced \nbetween \nCoriander \nand\nTurmeric, which is not placed adjacent to\nOregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat Neither fennel nor Oregano is adjacent to\nBasil.\nHence, the correct answer is option D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Answer the questions based on the information\ngiven below.\nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the\ncenter of the table. Four persons are sitting\ncenter the sides of the table while four are\nsitting at the corner of the table. The one who\nare sitting in the center the sides of the table\nlike\ndifferent actresses\ni.e. Alia,\nDeepika,\nKareena and Kiara and the one who are sitting\nat the corner of the square table like different\nactor i.e. Akshay, Salman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of\nN, who does not like Kartik. O sits opposite to\nthe one who likes Alia. J sits to the immediate\nright of L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right\nof N, who does not like Kartik.\nCase I: When N sits second to the left of the\none who likes Kartik",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Answer the questions based on the information\ngiven below.\nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the\ncenter of the table. Four persons are sitting\ncenter the sides of the table while four are\nsitting at the corner of the table. The one who\nare sitting in the center the sides of the table\nlike\ndifferent actresses\ni.e. Alia, Deepika,\nKareena and Kiara and the one who are sitting\nat the corner of the square table like different\nactor i.e. Akshay, Salman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of\nN, who does not like Kartik. O sits opposite to\nthe one who likes Alia. J sits to the immediate\nright of L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O\nis an immediate neighbor of the one who likes\nSalman. P sits second to the right of K.\nWho sits second to the right of M?",
+    "options": [
+      {
+        "id": "A",
+        "text": "N"
+      },
+      {
+        "id": "B",
+        "text": "The one who likes Kareena"
+      },
+      {
+        "id": "C",
+        "text": "K"
+      },
+      {
+        "id": "D",
+        "text": "The one who likes Alia"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right\nof N, who does not like Kartik.\nCase I: When N sits second to the left of the\none who likes Kartik",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of\nthe table. R sits\nimmediate left of W. P sits immediate left of S. U\nsits opposite to the one who is immediate right\nof S. V sits second to the left of U. T sits second\nto the left of R. When counted from the right of\nV, the number of persons sitting between U and\nV is the same as the number of persons sitting S\nand W.\nHow many persons sit between Q and W when\ncounted from the left of Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of\nthe table. R sits\nimmediate left of W. P sits immediate left of S. U\nsits opposite to the one who is immediate right\nof S. V sits second to the left of U. T sits second\nto the left of R. When counted from the right of\nV, the number of persons sitting between U and\nV is the same as the number of persons sitting S\nand W.\nWhat is the position of R with respect to U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the left"
+      },
+      {
+        "id": "C",
+        "text": "Immediate right"
+      },
+      {
+        "id": "D",
+        "text": "Immediate left"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nU sits opposite to the one who is immediate\nright of S. V sits second to the left of U. From\nthese conditions, we get,\nWhen counted from the right of V, the number\nof persons sitting between U and V is the same\nas the number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.",
+    "options": [],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nU sits opposite to the one who is immediate\nright of S. V sits second to the left of U. From\nthese conditions, we get,\nWhen counted from the right of V, the number\nof persons sitting between U and V is the same\nas the number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,\nHence, QU persons are sitting exactly opposite\nto each other.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each\nside of\nthe table. R sits\nimmediate left of W. P sits immediate left of S. U\nsits opposite to the one who is immediate right\nof S. V sits second to the left of U. T sits second\nto the left of R. When counted from the right of\nV, the number of persons sitting between U and\nV is the same as the number of persons sitting S\nand W.\nWho among the following pair of persons are\nimmediate neighbours?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PQ"
+      },
+      {
+        "id": "B",
+        "text": "TR"
+      },
+      {
+        "id": "C",
+        "text": "SP"
+      },
+      {
+        "id": "D",
+        "text": "QW"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nU sits opposite to the one who is immediate\nright of S. V sits second to the left of U. From\nthese conditions, we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of\nthe table. R sits\nimmediate left of W. P sits immediate left of S. U\nsits opposite to the one who is immediate right\nof S. V sits second to the left of U. T sits second\nto the left of R. When counted from the right of\nV, the number of persons sitting between U and\nV is the same as the number of persons sitting S\nand W.\nWho among the following person sits second\nto the left of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Final answer:\nU sits opposite to the one who is immediate\nright of S. V sits second to the left of U. From\nthese conditions, we get,\nWhen counted from the right of V, the number\nof persons sitting between U and V is the same\nas the number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of the table. The number of\npersons sits between R and Q is the same as\nthe number of persons T and U. U sits second to\nthe right of W. V sits second to the right of T. Q\nsits second to the right of R, who sits opposite\nW. Only two persons sit between V and S. W is\nnot an immediate neighbour of S.\nHow many persons sit between S and P when\ncounted from the left of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,\nHence, One persons sit between S and P when\ncounted from the left of S.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of the table. The number of\npersons sits between R and Q is the same as\nthe number of persons T and U. U sits second to\nthe right of W. V sits second to the right of T. Q\nsits second to the right of R, who sits opposite\nW. Only two persons sit between V and S. W is\nnot an immediate neighbour of S.\nWho among the following persons is sitting\nexactly opposite?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RQ"
+      },
+      {
+        "id": "B",
+        "text": "TW"
+      },
+      {
+        "id": "C",
+        "text": "QU"
+      },
+      {
+        "id": "D",
+        "text": "VW"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,\nHence, QU persons is sitting exactly opposite.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of the table. The number of\npersons sits between R and Q is the same as\nthe number of persons T and U. U sits second to\nthe right of W. V sits second to the right of T. Q\nsits second to the right of R, who sits opposite\nW. Only two persons sit between V and S. W is\nnot an immediate neighbour of S.\nWho among the following pair of persons are\nimmediate neighbours?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PQ"
+      },
+      {
+        "id": "B",
+        "text": "TR"
+      },
+      {
+        "id": "C",
+        "text": "SP"
+      },
+      {
+        "id": "D",
+        "text": "QU"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Final answer:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Two persons are\nsitting on each side of the table. The number of\npersons sits between R and Q is the same as\nthe number of persons T and U. U sits second to\nthe right of W. V sits second to the right of T. Q\nsits second to the right of R who sits opposite\nW. Only two persons sit between V and S. W is\nnot an immediate neighbour of S.\nWho among the following person sits second to\nthe left of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "T"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -L, M, N, O, P, Q, R and S are\nsitting on the square table such that all of them",
+    "options": [],
+    "correct_answer": "D",
+    "explanation": "Final answer:\nOnly one person sits between Q and P who sits\nin the middle of the side. Three persons sit\nbetween S and Q. From these conditions, we\nget,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the\nright of N. O do not sit opposite N. From this\ncondition Case 2 gets rejected, and we get,\nHence, S sits second to the left of N.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      5
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -L, M, N, O, P, Q, R and S are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Four of them sit in\nthe corners and four of them sit in the middle of\nthe sides. P sits immediately right of L. R sits two\nplaces away from Q. Only two persons sit\nbetween P and M who do not sit adjacent to Q.\nOnly one person sits between Q and P who sits\nin the middle of the side. Three persons sit\nbetween S and Q. L sits opposite the one who is\nsecond to the right of N. O do not sit opposite\nN.\nHow many persons sit between L and O, when\ncounted from the left of O?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nOnly one person sits between Q and P, who sits\nin the middle of the side. Three persons sit\nbetween S and Q. From these conditions, we\nget,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the\nright of N.\nO do not sit opposite N. From this condition\nCase 2 gets rejected, and we get,\nHence, three persons sit between L and O,\nwhen counted from the left of O.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -L, M, N, O, P, Q, R and S are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Four of them sit in\nthe corners and four of them sit in the middle of\nthe sides. P sits immediately right of L. R sits two\nplaces away from Q. Only two persons sit\nbetween P and M who do not sit adjacent to Q.\nOnly one person sits between Q and P who sits\nin the middle of the side. Three persons sit\nbetween S and Q. L sits opposite the one who is\nsecond to the right of N. O do not sit opposite\nN.\nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One person sits between P and N"
+      },
+      {
+        "id": "B",
+        "text": "O sits second to the right of Q"
+      },
+      {
+        "id": "C",
+        "text": "P sits to the immediate left of O"
+      },
+      {
+        "id": "D",
+        "text": "Both S and L are immediate neighbours"
+      },
+      {
+        "id": "E",
+        "text": "All are true"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Final answer:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -L, M, N, O, P, Q, R and S are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Four of them sit in\nthe corners and four of them sit in the middle of\nthe sides. P sits immediately right of L. R sits two\nplaces away from Q. Only two persons sit\nbetween P and M who do not sit adjacent to Q.\nOnly one person sits between Q and P who sits\nin the middle of the side. Three persons sit\nbetween S and Q. L sits opposite the one who is\nsecond to the right of N. O do not sit opposite\nN.\nWho among the following person sits opposite\nto M?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "P"
+      },
+      {
+        "id": "C",
+        "text": "N"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "S"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Final answer:\nOnly one person sits between Q and P, who sits\nin the middle of the side. Three persons sit\nbetween S and Q. From these conditions, we\nget,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the\nright of N.\nO do not sit opposite N. From this condition\nCase 2 gets rejected, and we get,\nHence, N sits opposite to M.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      6
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -L, M, N, O, P, Q, R and S are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Four of them sit in\nthe corners and four of them sit in the middle of\nthe sides. P sits immediately right of L. R sits two\nplaces away from Q. Only two persons sit\nbetween P and M who do not sit adjacent to Q.\nOnly one person sits between Q and P who sits\nin the middle of the side. Three persons sit\nbetween S and Q. L sits opposite the one who is\nsecond to the right of N. O do not sit opposite\nN.\nWhat is the position of S with respect to M?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third to the right"
+      },
+      {
+        "id": "B",
+        "text": "Second to the left"
+      },
+      {
+        "id": "C",
+        "text": "Second to the right"
+      },
+      {
+        "id": "D",
+        "text": "Immediate right"
+      },
+      {
+        "id": "E",
+        "text": "Immediate left"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Final answer:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      7
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons -P, Q, R, S, T, U, V and W are\nsitting on the square table such that all of them\nare\nfacing towards the centre, but not\nnecessarily in the same order. Four of them sits\nat the corner and four are sitting at the sides. S\nsits second to the left of R who sits immediate\nleft of T. S sits second to the right of Q. When\ncounted from the right of Q, the number of\npersons sit between Q and P is the same as the\nnumber of persons sit between W and P. P sits\nto the immediate right of S. One person sit\nbetween V and U, who do not sit in the middle\nof the side. U is an immediate neighbour of S.\nWho among the following person sits second to\nthe left of V?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "T"
+      },
+      {
+        "id": "D",
+        "text": "U"
+      },
+      {
+        "id": "E",
+        "text": "P"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nS sits second to the right of Q. P sits to the\nimmediate right of S. From these conditions, we\nget,\nWhen counted from the right of Q the number\nof persons sit between Q and P is the same as\nthe number of persons sit between W and P. S\nsits second to the left of R who sits immediate\nleft of T.\nU is an immediate neighbour of S. One person\nsit between V and U who do not sit in the\nmiddle of the side. From this condition Case 2\ngets rejected, and we get\nHence, T sits second to the left of V.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-2",
+    "question": "Directions: Study the following information\ncarefully and answer the given questions.\nTwelve students- A, B, C, D, E, F, G, H, I, J, K and\nL sit around the square table for the chemistry\npractical, such that three students sit on each\nmiddle side of a table. Out of the three students\non each side, the middle one is facing outwards\nwhile the other two students are facing inwards.\nThe students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z, or Y sits\nadjacent to X and Z, means Y sits between X\nand Z on the same side.\nD is neighbour of the students who have 'Cs'\nand 'Tc'. L faces the person who is second to\nthe right of F. E sits third to the right of A. One\nstudent sits between A and L while five students\nsit between A and D. I faces outwards and sits\nfourth to the right of K. A is adjacent to students\nwho have 'Mg' and 'Fe'. H faces J and both\nhave neither 'Mg' nor 'Tc'. G sits second to the\nright of J. The students having 'Er' and 'Br' are\nopposite to each other. C has 'Li' and sits\nsecond to the right of one who has 'Br'. E is a\nneighbour of B and F.\nK faces the student who has metal ____ in the\nchemistry practical.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tc"
+      },
+      {
+        "id": "B",
+        "text": "Li"
+      },
+      {
+        "id": "C",
+        "text": "Br"
+      },
+      {
+        "id": "D",
+        "text": "Cs"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:\nOne student sits between A and L. L faces the\nperson who is second to the right of F. E sits\nthird to the right of A.\nLevel-2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-2",
+    "question": "Directions: Study the following information\ncarefully and answer the given questions.\nTwelve students- A, B, C, D, E, F, G, H, I, J, K and\nL sit around the square table for the chemistry\npractical, such that three students sit on each\nmiddle side of a table. Out of the three students\non each side, the middle one is facing outwards\nwhile the other two students are facing inwards.\nThe students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z, or Y sits\nadjacent to X and Z, means Y sits between X\nand Z on the same side.\nD is neighbour of the students who have 'Cs'\nand 'Tc'. L faces the person who is second to\nthe right of F. E sits third to the right of A. One\nstudent sits between A and L while five students\nsit between A and D. I faces outwards and sits\nfourth to the right of K. A is adjacent to students\nwho have 'Mg' and 'Fe'. H faces J and both\nhave neither 'Mg' nor 'Tc'. G sits second to the\nright of J. The students having 'Er' and 'Br' are\nopposite to each other. C has 'Li' and sits\nsecond to the right of one who has 'Br'. E is a\nneighbour of B and F.\nLevel-2",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:\nOne student sits between A and L. L faces the\nperson who is second to the right of F. E sits\nthird to the right of A.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      8
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-2",
+    "question": "Directions: Study the following information\ncarefully and answer the given questions.\nTwelve students- A, B, C, D, E, F, G, H, I, J, K and\nL sit around the square table for the chemistry\npractical, such that three students sit on each\nmiddle side of a table. Out of the three students\non each side, the middle one is facing outwards\nwhile the other two students are facing inwards.\nThe students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z, or Y sits\nadjacent to X and Z, means Y sits between X\nand Z on the same side.\nD is neighbour of the students who have 'Cs'\nand 'Tc'. L faces the person who is second to\nthe right of F. E sits third to the right of A. One\nstudent sits between A and L while five students\nsit between A and D. I faces outwards and sits\nfourth to the right of K. A is adjacent to students\nwho have 'Mg' and 'Fe'. H faces J and both\nhave neither 'Mg' nor 'Tc'. G sits second to the\nright of J. The students having 'Er' and 'Br' are\nopposite to each other. C has 'Li' and sits\nsecond to the right of one who has 'Br'. E is a\nneighbour of B and F.\nWhich of the following statements is true with\nrespect to the student who has the metal 'Er'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H sits third to the left of the student who has\nmetal 'Er'"
+      },
+      {
+        "id": "B",
+        "text": "Student F has the metal 'Er"
+      },
+      {
+        "id": "C",
+        "text": "One student sits between the students who\nhave metals 'Er' and 'Ga'"
+      },
+      {
+        "id": "D",
+        "text": "G faces the student who has metal 'Er'."
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-2",
+    "question": "Directions: Study the following information\ncarefully and answer the given questions.\nTwelve students- A, B, C, D, E, F, G, H, I, J, K and\nL sit around the square table for the chemistry\npractical, such that three students sit on each\nmiddle side of a table. Out of the three students\non each side, the middle one is facing outwards\nwhile the other two students are facing inwards.\nThe students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z, or Y sits\nadjacent to X and Z, means Y sits between X\nand Z on the same side.\nD is neighbour of the students who have 'Cs'\nand 'Tc'. L faces the person who is second to\nthe right of F. E sits third to the right of A. One\nstudent sits between A and L while five students\nsit between A and D. I faces outwards and sits\nfourth to the right of K. A is adjacent to students\nwho have 'Mg' and 'Fe'. H faces J and both\nhave neither 'Mg' nor 'Tc'. G sits second to the\nright of J. The students having 'Er' and 'Br' are\nopposite to each other. C has 'Li' and sits\nsecond to the right of one who has 'Br'. E is a\nneighbour of B and F.\nWho sits third to the left of the one who has the\nmetal Mg in chemistry practical?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E"
+      },
+      {
+        "id": "B",
+        "text": "F"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:\nOne student sits between A and L. L faces the\nperson who is second to the right of F. E sits\nthird to the right of A.\nI faces outwards and sits fourth to the right of K.\nA is adjacent to students who have 'Mg' and\n'Fe'. So, there are two more cases here:\nH faces J and both have neither 'Mg' nor 'Tc'. G\nsits second to the right of J. Thus, cases 1, 2 and\n2a are invalid.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-2",
+    "question": "Directions : Study the following information\ncarefully and answer\nthe questions given\nbelow.\nEight persons- J, K, L, M, N, O, P and Q are\nsitting around a square table in such a way that\none person sits in the middle of each side and\none person sits on each corner of the table.\nSome of them are facing towards the center\nwhile some others are facing away from the\ncenter of the table. At least three persons\nsitting at the corners facing away from the\ncenter. Q sits second to the left of O who does\nnot sit in the middle of the sides. Only two\npersons sit between K and O when counted",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "We have, Q sits second to the left of O who\ndoes not sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. From the above conditions,\nthere are two possibilities.\nAgain we have, N sits immediate left of K. One\nperson sits between N and J. Immediate\nneighbors of N do not face the same direction.\nAgain we have, L faces the centre and sits\nsecond to the right of P. M does not sit opposite\nto L. The one who sits opposite to M does not\nface the centre. Both J and Q face opposite\ndirections to each other. Immediate neighbors\nof P face the same direction as P From the\nabove conditions, case-2 gets eliminated.\nHence, case-1 shows the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      9
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-2",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow.\nEight persons- J, K, L, M, N, O, P and Q are\nsitting around a square table in such a way that\none person sits in the middle of each side and\none person sits on each corner of the table.\nSome of them are facing towards the center\nwhile some others are facing away from the\ncenter of the table. At least three persons\nsitting at the corners facing away from the\ncenter. Q sits second to the left of O who does\nnot sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. N sits immediate left of K.\nOne person sits between N and J. Immediate\nneighbors of N do not face the same direction.\nL faces the center and sits second to the right\nof P. M does not sit opposite to L. The one who\nsits opposite to M does not face the center.\nImmediate\nneighbors\nof\nP face\nthe same\ndirection as P.Both J and Q face opposite\ndirections to each other.\nHow many persons sit between M and Q when\ncounted from the left of Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "None"
+      },
+      {
+        "id": "E",
+        "text": "More than three"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "We have, Q sits second to the left of O who\ndoes not sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. From the above conditions,\nthere are two possibilities.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-2",
+    "question": "Directions : Study the following information\ncarefully and answer\nthe questions given\nbelow.\nEight persons- J, K, L, M, N, O, P and Q are\nsitting around a square table in such a way that\none person sits in the middle of each side and\none person sits on each corner of the table.\nSome of them are facing towards the center\nwhile some others are facing away from the\ncenter of the table. At least three persons\nsitting at the corners facing away from the\ncenter. Q sits second to the left of O who does\nnot sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. N sits immediate left of K.\nOne person sits between N and J. Immediate\nneighbors of N do not face the same direction.\nL faces the center and sits second to the right\nof P. M does not sit opposite to L. The one who\nsits opposite to M does not face the center.\nImmediate\nneighbors\nof\nP face\nthe same\ndirection as P.Both J and Q face opposite\ndirections to each other.\nWhat is the position of L with respect to O?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the left"
+      },
+      {
+        "id": "B",
+        "text": "Immediate right"
+      },
+      {
+        "id": "C",
+        "text": "Third to the left"
+      },
+      {
+        "id": "D",
+        "text": "Fourth to the right"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "We have, Q sits second to the left of O who\ndoes not sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. From the above conditions,\nthere are two possibilities.\nAgain we have, N sits immediate left of K. One\nperson sits between N and J. Immediate\nneighbors of N do not face the same direction.\nAgain we have, L faces the centre and sits\nsecond to the right of P. M does not sit opposite\nto L. The one who sits opposite to M does not\nface the centre. Both J and Q face opposite\ndirections to each other. Immediate neighbors\nof P face the same direction as P From the\nabove conditions, case-2 gets eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-2",
+    "question": "Directions : Study the following information\ncarefully and answer\nthe questions given\nbelow.\nEight persons- J, K, L, M, N, O, P and Q are\nsitting around a square table in such a way that\none person sits in the middle of each side and\none person sits on each corner of the table.\nSome of them are facing towards the center\nwhile some others are facing away from the\ncenter of the table. At least three persons",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "We have, Q sits second to the left of O who\ndoes not sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. From the above conditions,\nthere are two possibilities.\nAgain we have, N sits immediate left of K. One\nperson sits between N and J. Immediate\nneighbors of N do not face the same direction.\nAgain we have, L faces the centre and sits\nsecond to the right of P. M does not sit opposite\nto L. The one who sits opposite to M does not\nface the centre. Both J and Q face opposite\ndirections to each other. Immediate neighbors\nof P face the same direction as P From the\nabove conditions, case-2 gets eliminated.\nHence, case-1 shows the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      10
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-2",
+    "question": "Directions : Study the following information\ncarefully and answer\nthe questions given\nbelow.\nEight persons- J, K, L, M, N, O, P and Q are\nsitting around a square table in such a way that\none person sits in the middle of each side and\none person sits on each corner of the table.\nSome of them are facing towards the center\nwhile some others are facing away from the\ncenter of the table. At least three persons\nsitting at the corners facing away from the\ncenter. Q sits second to the left of O who does\nnot sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. N sits immediate left of K.\nOne person sits between N and J. Immediate\nneighbors of N do not face the same direction.\nL faces the center and sits second to the right\nof P. M does not sit opposite to L. The one who\nsits opposite to M does not face the center.\nImmediate\nneighbors\nof\nP face\nthe same\ndirection as P.Both J and Q face opposite\ndirections to each other.\n__ sits opposite to the one who sits second to\nthe right of K.",
+    "options": [
+      {
+        "id": "A",
+        "text": "N"
+      },
+      {
+        "id": "B",
+        "text": "M"
+      },
+      {
+        "id": "C",
+        "text": "L"
+      },
+      {
+        "id": "D",
+        "text": "J"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "We have, Q sits second to the left of O who\ndoes not sit in the middle of the sides. Only two\npersons sit between K and O when counted\nfrom the left of O. From the above conditions,\nthere are two possibilities.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-2",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nEight girls C, D, F, G, I, J, L and M sit around the\nsquare table. Four persons sit on the corners\nwhile four sit center on the sides. Person at the\ncorner faces towards the center while rest face\naway from the center. Each of them has a\ndifferent age among 12, 13, 14, 15, 16, 17, 18 and 19.\nOne girl, who is 12 years old, does not sit at any\ncorner. G is 1 year older than I. J is 6 years older\nthan F, whose age is not a prime number. L sits\nsecond to the left of G, who is not adjacent to\nJ. J sits opposite to I, who sits on one of the\nsides. M, who is 16 years old, sits third to the left\nof F. D, who is 17 years old, sits to the immediate\nleft of C, who is 15 years old. D sits at one of the\ncorners.\nG is ___ years old.",
+    "options": [
+      {
+        "id": "A",
+        "text": "13"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "19"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      },
+      {
+        "id": "E",
+        "text": "14"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-2",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nEight girls C, D, F, G, I, J, L and M sit around the\nsquare table. Four persons sit on the corners\nwhile four sit center on the sides. Person at the\ncorner faces towards the center while resting\nface away from the center. Each of them has a\ndifferent age among 12, 13, 14, 15, 16, 17, 18 and 19.\nOne girl, who is 12 years old, does not sit at any",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      11
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-2",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nEight girls C, D, F, G, I, J, L and M sit around the\nsquare table. Four persons sit on the corners\nwhile four sit center on the sides. Person at the\ncorner faces towards the center while rest face\naway from the center. Each of them has a\ndifferent age among 12, 13, 14, 15, 16, 17, 18 and 19.\nOne girl, who is 12 years old, does not sit at any\ncorner. G is 1 year older than I. J is 6 years older\nthan F, whose age is not a prime number. L sits\nsecond to the left of G, who is not adjacent to\nJ. J sits opposite to I, who sits on one of the\nsides. M, who is 16 years old, sits third to the left\nof F. D, who is 17 years old, sits to the immediate\nleft of C, who is 15 years old. D sits at one of the\ncorners.\nI sits second to the left of ____.",
+    "options": [
+      {
+        "id": "A",
+        "text": "F"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      },
+      {
+        "id": "E",
+        "text": "C"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-2",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nEight girls C, D, F, G, I, J, L and M sit around the\nsquare table. Four persons sit on the corners\nwhile four sit center on the sides. Person at the\ncorner faces towards the center while resting\nface away from the center. Each of them has a\ndifferent age among 12, 13, 14, 15, 16, 17, 18 and 19.\nOne girl, who is 12 years old, does not sit at any\ncorner. G is 1 year older than I. J is 6 years older\nthan F, whose age is not a prime number. L sits\nsecond to the left of G, who is not adjacent to\nJ. J sits opposite to I, who sits on one of the\nsides. M, who is 16 years old, sits third to the left\nof F. D, who is 17 years old, sits to the immediate\nleft of C, who is 15 years old. D sits at one of the\ncorners.\nWho among the following is 12 years old?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I"
+      },
+      {
+        "id": "B",
+        "text": "F"
+      },
+      {
+        "id": "C",
+        "text": "L"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      },
+      {
+        "id": "E",
+        "text": "J"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-2",
+    "question": "Directions:Answer the questions based on the\ninformation given below.\nEight girls C, D, F, G, I, J, L and M sit around the\nsquare table. Four persons sit on the corners\nwhile four sit center on the sides. Person at the\ncorner faces towards the center while resting\nface away from the center. Each of them has a\ndifferent age among 12, 13, 14, 15, 16, 17, 18 and 19.\nOne girl, who is 12 years old, does not sit at any\ncorner. G is 1 year older than I. J is 6 years older\nthan F, whose age is not a prime number. L sits\nsecond to the left of G, who is not adjacent to\nJ. J sits opposite to I, who sits on one of the\nsides. M, who is 16 years old, sits third to the left\nof F. D, who is 17 years old, sits to the immediate\nleft of C, who is 15 years old. D sits at one of the\ncorners.\nWho sits second to the left of C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The one who 13 years old"
+      },
+      {
+        "id": "B",
+        "text": "F"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "J"
+      },
+      {
+        "id": "E",
+        "text": "One, who is 16 years old"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      12
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight girls\nseated on a square table, four of whom are in\nthe corners facing the outside and four of\nwhom are in the middle of the sides facing the\ninside of the table.\nBetween A and E, only three girls are seated.\nThird from the left of D is E. When counting from\nthe right of both A and E, as many girls are\nseated between D and A as between E and H.\nThe girl who is second from H's left is sitting\nopposite from B. F is sitting adjacent to the girl\nseated second from G's left. Between G and A,\nat least one girl is seated. C does not face\naway from the table.\nThe next four of the next five are similar in one\nparticular manner and thus make a group. Find\nthe one who is not a part of that group.",
+    "options": [
+      {
+        "id": "A",
+        "text": "C"
+      },
+      {
+        "id": "B",
+        "text": "A"
+      },
+      {
+        "id": "C",
+        "text": "G"
+      },
+      {
+        "id": "D",
+        "text": "E"
+      },
+      {
+        "id": "E",
+        "text": "H"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "We have,\nBetween A and E, only three girls are seated.\nThird from the left of D is E.\nAgain we have,\nWhen counting from the right of both A and\nE, as many girls are seated between D and A\nas between E and H.\nThe girl who is second from H's left is sitting\nopposite from B.\nAgain we have,\nF is sitting adjacent to the girl seated second\nfrom G's left.\nBetween G and A, at least one girl is seated.\nC doesn’t face away from the table.\nFrom \nthe \nabove \ncondition \nCase1 \ngets\neliminated. Hence Case2 shows the final\narrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight girls\nseated on a square table, four of whom are in\nthe corners facing the outside and four of\nwhom are in the middle of the sides facing the\ninside of the table.\nBetween A and E, only three girls are seated.\nThird from the left of D is E. When counting from\nthe right of both A and E, as many girls are\nseated between D and A as between E and H.\nThe girl who is second from H's left is sitting\nopposite from B. F is sitting adjacent to the girl\nseated second from G's left. Between G and A,\nat least one girl is seated. C does not face\naway from the table.\nWhich among the following statement(s) is/are\ntrue as per the final arrangement?\nI. C is sitting immediately to the left of H.\nII. E is sitting third to the right of F.\nIII. G is sitting on the side of the table.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only I and II"
+      },
+      {
+        "id": "C",
+        "text": "Only II"
+      },
+      {
+        "id": "D",
+        "text": "Only II and III"
+      },
+      {
+        "id": "E",
+        "text": "All are true"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "We have,\nBetween A and E, only three girls are seated.\nThird from the left of D is E.\nAgain we have,\nWhen counting from the right of both A and\nE, as many girls are seated between D and A\nas between E and H.\nThe girl who is second from H's left is sitting\nopposite from B.\nAgain we have,\nF is sitting adjacent to the girl seated second\nfrom G's left.\nBetween G and A, at least one girl is seated.\nC doesn’t face away from the table.\nFrom \nthe \nabove \ncondition \nCase1 \ngets\neliminated. Hence Case2 shows the final\narrangement.\nFinal arrangement will be:-\nAccording to the common solution,\nAll are true statements.\nHence, the correct answer is option E.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight girls\nseated on a square table, four of whom are in\nthe corners facing the outside and four of\nwhom are in the middle of the sides facing the\ninside of the table.\nBetween A and E, only three girls are seated.\nThird from the left of D is E. When counting from\nthe right of both A and E, as many girls are\nseated between D and A as between E and H.\nThe girl who is second from H's left is sitting\nopposite from B. F is sitting adjacent to the girl\nseated second from G's left. Between G and A,\nat least one girl is seated. C does not face\naway from the table.\nWho among the following girls are sitting\nsecond to the right of the one who sits\nimmediately to the left of G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "F"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight girls\nseated on a square table, four of whom are in",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "We have,\nBetween A and E, only three girls are seated.\nThird from the left of D is E.\nAgain we have,\nWhen counting from the right of both A and\nE, as many girls are seated between D and A\nas between E and H.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      13
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people L, M, N, O, P, Q, R and S are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the center and others\nfacing outside. All the information is\nnot\nnecessarily in the same order.\nM sits second to the left of R. Q sits third to the\nright of M. There is only one person sitting\nbetween Q and L, who does not sit near to M. P\nsits near to S. S does not sit opposite to Q. N sits\nsecond to the left of S and faces outside the\ntable.\nFour of the following five are alike in a certain\nway and so form a group. Which one does not\nbelong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "M"
+      },
+      {
+        "id": "D",
+        "text": "N"
+      },
+      {
+        "id": "E",
+        "text": "O"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "M sits second to the left of R.\nQ sits third to the right of M.\nThere is only one person sitting between Q and\nL, who does not sit near to M.\nP sits near to S.\nS does not sit opposite to Q.\nN sits second to the left of S and faces outside\nthe table.\nCase 2: is eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people L, M, N, O, P, Q, R and S are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the center and others\nfacing outside. All the information is\nnot\nnecessarily in the same order.\nM sits second to the left of R. Q sits third to the\nright of M. There is only one person sitting\nbetween Q and L, who does not sit near to M. P\nsits near to S. S does not sit opposite to Q. N sits\nsecond to the left of S and faces outside the\ntable.\nHow many persons sit between O and N when\ncounted from the left of O?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Five"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "M sits second to the left of R.\nQ sits third to the right of M.\nThere is only one person sitting between Q and\nL, who does not sit near to M.\nP sits near to S.\nS does not sit opposite to Q.\nN sits second to the left of S and faces outside\nthe table.\nCase 2: is eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people L, M, N, O, P, Q, R and S are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the center and others\nfacing outside. All the information is not\nnecessarily in the same order.\nM sits second to the left of R. Q sits third to the\nright of M. There is only one person sitting\nbetween Q and L, who does not sit near to M. P\nsits near to S. S does not sit opposite to Q. N sits\nsecond to the left of S and faces outside the\ntable.\nWhat is the position of O with respect to S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third to the left"
+      },
+      {
+        "id": "B",
+        "text": "Second to the left"
+      },
+      {
+        "id": "C",
+        "text": "Second to the right"
+      },
+      {
+        "id": "D",
+        "text": "Third to the right"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ23"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "M sits second to the left of R.\nQ sits third to the right of M.\nThere is only one person sitting between Q and\nL, who does not sit near to M.\nP sits near to S.\nS does not sit opposite to Q.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      14
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people L, M, N, O, P, Q, R and S are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the center and others\nfacing outside. All the information is not\nnecessarily in the same order.\nM sits second to the left of R. Q sits third to the\nright of M. There is only one person sitting\nbetween Q and L, who does not sit near to M. P\nsits near to S. S does not sit opposite to Q. N sits\nsecond to the left of S and faces outside the\ntable.\nWhich of the following sits just left of N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "L"
+      },
+      {
+        "id": "B",
+        "text": "M"
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "M sits second to the left of R.\nQ sits third to the right of M.\nThere is only one person sitting between Q and\nL, who does not sit near to M.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "Level-2",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the outside and others\nfacing the inside. All the information is not\nnecessarily in the same order.\nThere is only one person sitting between W and\nP, who faces outside the table. There is only one\nperson sitting between P and T. V sits\nimmediately to the right of T. R sits opposite to\nV, but does not sit near to P. Q sits opposite to\nU. P sits adjacent to U.\nFour of the following five are alike in a certain\nway and so form a group. Which one does not\nbelong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Q"
+      },
+      {
+        "id": "B",
+        "text": "U"
+      },
+      {
+        "id": "C",
+        "text": "V"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      },
+      {
+        "id": "E",
+        "text": "R"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "There is only one person sitting between W and\nP, who faces outside the table.\nThere is only one person sitting between P and\nT.\nV sits immediately to the right of T.\nR sits opposite to V, but does not sit near to P.\nCase 2: is eliminated.\nQ sits opposite to U.\nP sits adjacent to U.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "Level-2",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the outside and others\nfacing the inside. All the information is not\nnecessarily in the same order. There is only one\nperson sitting between W and P, who faces\noutside the table. There is only one person\nsitting between P and T. V sits immediately to\nthe right of T. R sits opposite to V, but does not\nsit near to P. Q sits opposite to U. P sits\nadjacent to U.\nWhat is the position of T with respect to S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the right"
+      },
+      {
+        "id": "C",
+        "text": "Second to the left"
+      },
+      {
+        "id": "D",
+        "text": "Third to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "There is only one person sitting between W and\nP, who faces outside the table.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      15
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "Level-2",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the outside and others\nfacing the inside. All the information is not\nnecessarily in the same order. There is only one\nperson sitting between W and P, who faces\noutside the table. There is only one person\nsitting between P and T. V sits immediately to\nthe right of T. R sits opposite to V, but does not\nsit near to P. Q sits opposite to U. P sits\nadjacent to U.\nWhat is the position of U with respect to Q ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate left"
+      },
+      {
+        "id": "B",
+        "text": "Second left"
+      },
+      {
+        "id": "C",
+        "text": "Immediate right"
+      },
+      {
+        "id": "D",
+        "text": "Third left"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "There is only one person sitting between W and\nP, who faces outside the table.\nThere is only one person sitting between P and\nT.\nV sits immediately to the right of T.\nR sits opposite to V, but does not sit near to P.\nCase 2: is eliminated.\nQ sits opposite to U.\nP sits adjacent to U.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "Level-2",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the outside and others\nfacing the inside. All the information is not\nnecessarily in the same order. There is only one\nperson sitting between W and P, who faces\noutside the table. There is only one person\nsitting between P and T. V sits immediately to\nthe right of T. R sits opposite to V, but does not\nsit near to P. Q sits opposite to U. P sits\nadjacent to U.\nWhich of the following sit third to the left of Q ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U"
+      },
+      {
+        "id": "B",
+        "text": "P"
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "Level-2",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer \nthe \nquestions\naccordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a square table in such a way four of\nthem sit at four corners while four sit in the\nmiddle of each of the four sides. The one who\nsits at the corners faces the outside and others\nfacing the inside. All the information is not\nnecessarily in the same order.\nThere is only one person sitting between W and\nP, who faces outside the table. There is only one\nperson sitting between P and T. V sits\nimmediately to the right of T. R sits opposite to\nV, but does not sit near to P. Q sits opposite to\nU. P sits adjacent to U.\nHow many people sit between Q and S when\ncounted from the left of Q ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Five"
+      },
+      {
+        "id": "C",
+        "text": "None"
+      },
+      {
+        "id": "D",
+        "text": "Two"
+      },
+      {
+        "id": "E",
+        "text": "Six"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "There is only one person sitting between W and\nP, who faces outside the table.\nThere is only one person sitting between P and\nT.\nV sits immediately to the right of T.\nR sits opposite to V, but does not sit near to P.\nCase 2: is eliminated.\nQ sits opposite to U.\nP sits adjacent to U.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "Level-2",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people are sitting around a square table.\nFour of them are sitting at the corners facing\noutside and the remaining four are sitting at the\nsides of the table facing inside. Two people sit\nbetween N and Q. W sits opposite P. Z is not a\nneighbor of V. G sits near N and does not face\noutside. U is not a neighbor of N. V sits third to\nthe right of G. Q sits immediate right of P.\nWho sits immediate right of V?",
+    "options": [
+      {
+        "id": "A",
+        "text": "W"
+      },
+      {
+        "id": "B",
+        "text": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q"
+      },
+      {
+        "id": "D",
+        "text": "U"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. W sits opposite P.\n2. Q sits immediate right of P.\n3. Two people sit between N and Q.\n4. G sits near N and does not face outside.\n5. V sits third to the right of G.\n6. Z is not a neighbor of V.\n7. U is not a neighbor of N.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people – B, F, J, N, R, V, X, and Z are sitting\naround a square table (not necessarily in the\nsame order) in such a way that four of them are\nseated at the corner and the other four are",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "N is not facing inside\nX is seated third to the left of N\nB is sitting just opposite to X\nR is sitting fifth to the left of B\nF is seated second to the left of R\nNeither B nor N is an immediate neighbor of\nJ\nV is not sitting just opposite to J\nThis is the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      16
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people – B, F, J, N, R, V, X, and Z are sitting\naround a square table (not necessarily in the\nsame order) in such a way that four of them are\nseated at the corner and the other four are\nseated in the middle of each side. The ones\nwho are seated at the corner are facing\noutside and the ones who are seated in the\nmiddle of the sides are facing inside. No two\npeople who are facing the same direction\n(either inside or outside) are seated together.\nN is not facing inside. X is seated third to the left\nof N. B is sitting just opposite to X. R is sitting\nfifth to the left of B. F is seated second to the\nleft of R. Neither B nor N is an immediate\nneighbor of J. V is not sitting just opposite to J.\nHow many persons are seated between F and\nZ, when counted left of Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      },
+      {
+        "id": "E",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "N is not facing inside\nX is seated third to the left of N\nB is sitting just opposite to X\nR is sitting fifth to the left of B\nF is seated second to the left of R\nNeither B nor N is an immediate neighbor of\nJ\nV is not sitting just opposite to J",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people – B, F, J, N, R, V, X, and Z are sitting\naround a square table (not necessarily in the\nsame order) in such a way that four of them are\nseated at the corner and the other four are\nseated in the middle of each side. The ones\nwho are seated at the corner are facing\noutside and the ones who are seated in the\nmiddle of the sides are facing inside. No two\npeople who are facing the same direction\n(either inside or outside) are seated together.\nN is not facing inside. X is seated third to the left\nof N. B is sitting just opposite to X. R is sitting\nfifth to the left of B. F is seated second to the\nleft of R. Neither B nor N is an immediate\nneighbor of J. V is not sitting just opposite to J.\nWhat is the position of V with respect to Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the left"
+      },
+      {
+        "id": "C",
+        "text": "Second to the left"
+      },
+      {
+        "id": "D",
+        "text": "Second to the right"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "N is not facing inside\nX is seated third to the left of N\nB is sitting just opposite to X\nR is sitting fifth to the left of B\nF is seated second to the left of R\nNeither B nor N is an immediate neighbor of\nJ\nV is not sitting just opposite to J\nThis is the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "34",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people – B, F, J, N, R, V, X, and Z are sitting\naround a square table (not necessarily in the\nsame order) in such a way that four of them are\nseated at the corner and the other four are\nseated in the middle of each side. The ones\nwho are seated at the corner are facing\noutside and the ones who are seated in the\nmiddle of the sides are facing inside. No two\npeople who are facing the same direction\n(either inside or outside) are seated together.\nN is not facing inside. X is seated third to the left\nof N. B is sitting just opposite to X. R is sitting\nfifth to the left of B. F is seated second to the\nleft of R. Neither B nor N is an immediate\nneighbor of J. V is not sitting just opposite to J.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "N is not facing inside\nX is seated third to the left of N\nB is sitting just opposite to X\nR is sitting fifth to the left of B\nF is seated second to the left of R\nNeither B nor N is an immediate neighbor of\nJ\nV is not sitting just opposite to J\nThis is the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      17
+    ]
+  },
+  {
+    "question_number": "35",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Only two persons sit between T and U\nwho faces outside. The number of persons sit\nbetween V and Q is the same the number of\npersons W and S. T sits second to the right of Q\nwho faces outside. V sits second to the right of\nP who faces inside. Q sits two places away from\nP. W sits second to the right of U. Both V and W\nface inside. Both T and R immediate right to\neach other. T sits third to the left of S who faces\nsame direction as Q. Either W or S sits adjacent\nto V on the same side.\nHow many persons are facing outside?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "Five"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nV sits second to the right of P who faces inside.\nQ sits two places away from P. From these\nconditions, we get,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "36",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Only two persons sit between T and U\nwho faces outside. The number of persons sit\nbetween V and Q is the same the number of\npersons W and S. T sits second to the right of Q\nwho faces outside. V sits second to the right of\nP who faces inside. Q sits two places away from\nP. W sits second to the right of U. Both V and W\nface inside. Both T and R immediate right to\neach other. T sits third to the left of S who faces\nsame direction as Q. Either W or S sits adjacent\nto V on the same side.\nWhat is the position of W with respect to P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the left"
+      },
+      {
+        "id": "C",
+        "text": "Second to the left"
+      },
+      {
+        "id": "D",
+        "text": "Immediate left"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nV sits second to the right of P, who faces inside.\nQ sits two places away from P. From these\nconditions, we get,\nThe number of persons sit between V and Q is\nthe same the number of persons W and S. T sits\nsecond to the right of Q, who faces outside.\nEither W or S sits adjacent to V on the same\nside.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "37",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Only two persons sit between T and U\nwho faces outside. The number of persons sit\nbetween V and Q is the same the number of\npersons W and S. T sits second to the right of Q\nwho faces outside. V sits second to the right of\nP who faces inside. Q sits two places away from\nP. W sits second to the right of U. Both V and W\nface inside. Both T and R immediate right to\neach other. T sits third to the left of S who faces\nsame direction as Q. Either W or S sits adjacent\nto V on the same side.\nFour of the five among the following are similar\nin such a way to form a group, which one of the\nfollowing doesn’t belong to the group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S"
+      },
+      {
+        "id": "B",
+        "text": "Q"
+      },
+      {
+        "id": "C",
+        "text": "U"
+      },
+      {
+        "id": "D",
+        "text": "V"
+      },
+      {
+        "id": "E",
+        "text": "T"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nV sits second to the right of P, who faces inside.\nQ sits two places away from P. From these\nconditions, we get,\nThe number of persons sit between V and Q is\nthe same the number of persons W and S. T sits\nsecond to the right of Q, who faces outside.\nEither W or S sits adjacent to V on the same\nside.\nOnly two persons sit between T and U, who\nfaces outside. W sit second to the right of U.\nBoth V and W face inside.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      18
+    ]
+  },
+  {
+    "question_number": "38",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Only two persons sit between T and U\nwho faces outside. The number of persons sit\nbetween V and Q is the same the number of\npersons W and S. T sits second to the right of Q\nwho faces outside. V sits second to the right of\nP who faces inside. Q sits two places away from\nP. W sits second to the right of U. Both V and W\nface inside. Both T and R immediate right to\neach other. T sits third to the left of S who faces\nsame direction as Q. Either W or S sits adjacent\nto V on the same side.\nWho among the following persons sitting\nexactly opposite and facing each other?",
+    "options": [
+      {
+        "id": "A",
+        "text": "SQ"
+      },
+      {
+        "id": "B",
+        "text": "QV"
+      },
+      {
+        "id": "C",
+        "text": "UT"
+      },
+      {
+        "id": "D",
+        "text": "VW"
+      },
+      {
+        "id": "E",
+        "text": "PT"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nV sits second to the right of P, who faces inside.\nQ sits two places away from P. From these\nconditions, we get,\nThe number of persons sit between V and Q is\nthe same the number of persons W and S. T sits\nsecond to the right of Q, who faces outside.\nEither W or S sits adjacent to V on the same\nside.\nOnly two persons sit between T and U, who\nfaces outside. W sit second to the right of U.\nBoth V and W face inside.\nBoth T and R immediate right to each other.\nT sits third to the left of S, who faces same\ndirection as Q. From this condition Case 2 gets\nrejected, and we get",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "39",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Only two persons sit between T and U\nwho faces outside. The number of persons sit\nbetween V and Q is the same the number of\npersons W and S. T sits second to the right of Q\nwho faces outside. V sits second to the right of\nP who faces inside. Q sits two places away from\nP. W sits second to the right of U. Both V and W\nface inside. Both T and R immediate right to\neach other. T sits third to the left of S who faces\nsame direction as Q. Either W or S sits adjacent\nto V on the same\nWho among the following person sits second to\nthe left of U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "W"
+      },
+      {
+        "id": "C",
+        "text": "T"
+      },
+      {
+        "id": "D",
+        "text": "S"
+      },
+      {
+        "id": "E",
+        "text": "P"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:\nV sits second to the right of P, who faces inside.\nQ sits two places away from P. From these\nconditions, we get,\nThe number of persons sit between V and Q is\nthe same the number of persons W and S. T sits\nsecond to the right of Q, who faces outside.\nEither W or S sits adjacent to V on the same\nside.\nOnly two persons sit between T and U, who\nfaces outside. W sit second to the right of U.\nBoth V and W face inside.\nBoth T and R immediate right to each other.\nT sits third to the left of S, who faces same\ndirection as Q. From this condition Case 2 gets\nrejected, and we get\nHence, S sits second to the left of U.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "40",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons - P, Q, R, S, T, U, V and W are\nsitting on the square table such that some of\nthem are facing inside and the rest facing\noutside, but not necessarily in the same order.\nTwo persons are sitting on each side of the\ntable. Q sits third to the left of U and both face\nthe opposite direction. R sits immediate right of\nW. P sits adjacent to both U and T. T sits second\nto the right of W who faces outside. The\nnumber of persons sitting between U and T is\nthe same as the number of persons sitting\nbetween W and V when counted from the right\nof U who is facing inside and left of W. Only one\nperson sits between U and T. The direction of Q\nis the same as the direction of both T and R. S\nsits second to the left of P. S and V face the\nopposite direction. S is not facing inside and sits\nopposite W.\nHow many persons are facing inside?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final answer:",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "41",
+    "level": "Level-2",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people – B, F, J, N, R, V, X, and Z are sitting\naround a square table (not necessarily in the\nsame order) in such a way that four of them are\nseated at the corner and the other four are\nseated in the middle of each side. The ones",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "N is not facing inside\nX is seated third to the left of N\nB is sitting just opposite to X\nR is sitting fifth to the left of B\nF is seated second to the left of R\nNeither B nor N is an immediate neighbor of\nJ\nV is not sitting just opposite to J",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      19
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-3",
+    "question": "Study the following inforation carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight people\nseated in the middle of the square table. Four\nof them are seated in the middle of the table,\nand four are\nseated in\nthe corner. They\npurchased laptops from a variety of brands,\nincluding Lenovo, Acer, HP, Samsung, Sony,\nApple, Dell, and Toshiba. The order of the\ninformation is not\nalways\nthe same. The\nindividuals\nwith the following alphabetical\nnames are not seated next to one another. All\nof them facing towards the center.\nD seated second next to the person who\npurchased Sony, on the left. Between D and E,\nwho are seated in the middle of the table, there\nare only two other people. Second, from E's left\nis A. Third from the right of C is B. Between C\nand G, only one person is seated. B's immediate\nneighbour is not G. F is seated immediately left\nto\nthe purchasers\nof\nDell. G is seated\nimmediately right to the buyer of Samsung. B\nand \nD \ndidn't \npurchase\nDell. \nF \nand \nE,\nrespectively, purchased Lenovo and HP. D and\nC didn't purchase Toshiba. D declines to buy an\nAcer. B doesn't purchased sony.\nIf all the persons are sitting in alphabetical\norder from A in a clockwise direction, then how\nmany\npersons remain\nunchanged in\ntheir\nposition (excluding A)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None"
+      },
+      {
+        "id": "B",
+        "text": "One"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Three"
+      },
+      {
+        "id": "E",
+        "text": "More than three"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nAfter the arrangement in alphabetical order\nfrom A in a clockwise direction,\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the\nabove\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.\nLevel-3",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-3",
+    "question": "Study the following inforation carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight people\nseated in the middle of the square table. Four\nof them are seated in the middle of the table,\nand four are\nseated in\nthe corner. They\npurchased laptops from a variety of brands,\nincluding Lenovo, Acer, HP, Samsung, Sony,\nApple, Dell, and Toshiba. The order of the\ninformation is\nnot\nalways\nthe same. The\nindividuals\nwith the following alphabetical\nnames are not seated next to one another. All\nof them facing towards the center.\nD seated second next to the person who\npurchased Sony, on the left. Between D and E,\nwho are seated in the middle of the table, there\nare only two other people. Second, from E's left\nis A. Third from the right of C is B. Between C\nand G, only one person is seated. B's immediate\nneighbour is not G. F is seated immediately left\nto\nthe purchasers\nof\nDell. G is\nseated\nimmediately right to the buyer of Samsung. B\nand \nD \ndidn't \npurchase\nDell. \nF \nand \nE,\nrespectively, purchased Lenovo and HP. D and\nC didn't purchase Toshiba. D declines to buy an\nAcer. B doesn't purchased sony.\nWhat is the position of B with respect to the\none who bought Sony?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the right"
+      },
+      {
+        "id": "C",
+        "text": "Second to the right"
+      },
+      {
+        "id": "D",
+        "text": "Third to the left"
+      },
+      {
+        "id": "E",
+        "text": "Immediate left"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-3",
+    "question": "Study the following inforation carefully and\nanswer the questions accordingly.\nA, B, C, D, E, F, G, and H are the eight people\nseated in the middle of the square table. Four\nof them are seated in the middle of the table,\nand four are\nseated in the corner. They\npurchased laptops from a variety of brands,\nLevel-3",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      21
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-3",
+    "question": "Study the following inforation carefully and\nanswer the questions accordingly.\n \nA, B, C, D, E, F, G, and H are the eight people\nseated in the middle of the square table. Four\nof them are seated in the middle of the table,\nand four are seated in the corner. They\npurchased laptops from a variety of brands,\nincluding Lenovo, Acer, HP, Samsung, Sony,\nApple, Dell, and Toshiba. The order of the\ninformation is not always the same. The\nindividuals with the following alphabetical\nnames are not seated next to one another. All\nof them facing towards the center.\nD seated second next to the person who\npurchased Sony, on the left. Between D and E,\nwho are seated in the middle of the table, there\nare only two other people. Second, from E's left\nis A. Third from the right of C is B. Between C\nand G, only one person is seated. B's immediate\nneighbour is not G. F is seated immediately left\nto the purchasers of Dell. G is seated\nimmediately right to the buyer of Samsung. B\nand \nD \ndidn't \npurchase \nDell. \nF \nand \nE,\nrespectively, purchased Lenovo and HP. D and\nC didn't purchase Toshiba. D declines to buy an\nAcer. B doesn't purchased sony.\n \nWho among the following person sits on the\ncorner of the table?\nI) The one who bought Apple\nII) The one who bought Acer\nIII) The one who sits immediate right of D\nIV) F",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II and IV"
+      },
+      {
+        "id": "B",
+        "text": "Only II and III"
+      },
+      {
+        "id": "C",
+        "text": "Only III and IV"
+      },
+      {
+        "id": "D",
+        "text": "All I, II, III and IV"
+      },
+      {
+        "id": "E",
+        "text": "Only I and II"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-3",
+    "question": "Study the following inforation carefully and\nanswer the questions accordingly.\n \nA, B, C, D, E, F, G, and H are the eight people\nseated in the middle of the square table. Four\nof them are seated in the middle of the table,\nand four are seated in the corner. They\npurchased laptops from a variety of brands,\nincluding Lenovo, Acer, HP, Samsung, Sony,\nApple, Dell, and Toshiba. The order of the\ninformation is not always the same. The\nindividuals with the following alphabetical\nnames are not seated next to one another. All\nof them facing towards the center.\nD seated second next to the person who\npurchased Sony, on the left. Between D and E,\nwho are seated in the middle of the table, there\nare only two other people. Second, from E's left\nis A. Third from the right of C is B. Between C\nand G, only one person is seated. B's immediate",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      22
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu are the eight people in\nthe group sitting in\na concentric square\narrangement.In such a way that the people on\nthe inner square facing the persons sitting on\nthe outer square and the persons on the same\nsquare facing the same direction.On the same\nsquare, Gayatri and Himanshu are\nsitting\nbehind each other.Atal is seated immediately to\nthe right of Chandan , who is sitting opposite\nfrom Drishti in the same square. Binod, who is\nsitting \nimmediately\nto\nthe \nright\nof\nhimanshu.Farman faces Binod.\nIn the given question four of them are alike and\none is odd. From the given option find the odd\none?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chandan"
+      },
+      {
+        "id": "B",
+        "text": "Atal"
+      },
+      {
+        "id": "C",
+        "text": "Ekalavya"
+      },
+      {
+        "id": "D",
+        "text": "Farman"
+      },
+      {
+        "id": "E",
+        "text": "Drishti"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Total number of 8 person are:\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu\n1. On the same square, Gayatri and Himanshu\nare sitting behind each other..\n2. Binod, who is seated immediately to the right\nof himanshu and Farman faces Binod.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu are the eight people in\nthe group sitting in a concentric square\narrangement.In such a way that the people on\nthe inner square facing the persons sitting on\nthe outer square and the persons on the same\nsquare facing the same direction.On the same\nsquare, Gayatri\nand Himanshu are\nsitting\nbehind each other.Atal is seated immediately to\nthe right of Chandan , who is sitting opposite\nfrom Drishti in the same square. Binod, who is\nsitting \nimmediately\nto\nthe \nright\nof\nhimanshu.Farman faces Binod.\nWhat is the position of Himanshu ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facing Ekalavya"
+      },
+      {
+        "id": "B",
+        "text": "Immediate right of Binod"
+      },
+      {
+        "id": "C",
+        "text": "Immediate right of Eklavya."
+      },
+      {
+        "id": "D",
+        "text": "Facing Atal"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Total number of 8 person are:\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu\n1. On the same square, Gayatri and Himanshu\nare sitting behind each other..\n2. Binod, who is seated immediately to the right\nof himanshu..\n3. Atal is seated immediately to the right of\nChandan , who is sitting opposite from\nDrishti .\nHimanshu is sitting immediate to the right of\nEkalavya.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu are the eight people in\nthe group sitting in\na concentric\nsquare\narrangement.In such a way that the people on\nthe inner square facing the persons sitting on\nthe outer square and the persons on the same\nsquare facing the same direction.On the same\nsquare, Gayatri\nand Himanshu are\nsitting\nbehind each other.Atal is seated immediately to\nthe right of Chandan , who is sitting opposite\nfrom Drishti in the same square. Binod, who is\nsitting \nimmediately\nto\nthe \nright\nof\nhimanshu.Farman faces Binod.\nWho is sitting immediate right to the one who\nfaces Gayatri ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eklavya"
+      },
+      {
+        "id": "B",
+        "text": "Drishti"
+      },
+      {
+        "id": "C",
+        "text": "Farman"
+      },
+      {
+        "id": "D",
+        "text": "Chandan"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Total number of 8 person are:\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu On the same square,\nGayatri and Himanshu are sitting behind each\nother..\nBinod, who is seated immediately to the right of\nhimanshu..\nAtal is seated immediately to the right of\nChandan , who is sitting opposite from Drishti .\nFarman is sitting immediate right to the one\nwho faces Gayatri.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu are the eight people in\nthe group sitting in a concentric\nsquare\narrangement.In such a way that the people on\nthe inner square facing the persons sitting on",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Total number of 8 person are:\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu\n1. On the same square, Gayatri and Himanshu\nare sitting behind each other...\n2. Binod, who is seated immediately to the right\nof Himanshu and Farman, faces Binod.\n3. Atal is seated immediately to the right of\nChandan , who is sitting opposite from\nDrishti .\nAtal is sitting opposite to Farman in the same\nsquare.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      23
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu are the eight people in\nthe group sitting in a concentric\nsquare\narrangement.In such a way that the person on\nthe inner square facing the persons sitting on\nthe outer square and the persons on the same\nsquare facing the same direction.On the same\nsquare, Gayatri\nand Himanshu are\nsitting\nbehind each other.Atal is seated immediately to\nthe right of Chandan , who is sitting opposite\nfrom Drishti in the same square. Binod, who is\nsitting immediately to the right of himanshu and\nFarman faces Binod.\nWho is sitting opposite to Himanshu in the same\nsquare?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eklavya"
+      },
+      {
+        "id": "B",
+        "text": "Drishti"
+      },
+      {
+        "id": "C",
+        "text": "Gaytri"
+      },
+      {
+        "id": "D",
+        "text": "Chandan"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Total number of 8 person are:\nAtal, Binod, Chandan, Drishti, Ekalavya, Farman,\nGayatri, and Himanshu\n1. On the same square, Gayatri and Himanshu\nare sitting behind each other..\n2. Binod, who is seated immediately to the right\nof Himanshu and Farman faces Binod.\n3. Atal is seated immediately to the right of\nChandan , Chandan is sitting opposite from\nDrishti in the same square .\nGaytri is sitting opposite to the Himanshu in the\nsame square.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight Persons viz, P, Q, R, S, T, U, V, and W are\nsitting on a square table and all of them are\nfaces inside but not necessarily in the same\norder. Four of them sit on the corner of the table\nand the rest of them sit on the side of the table.\nFurther, it is known that all persons have either\ndifferent or the same weights.\nW sits third to the right of Q. S’s weight is more\nthan at most five persons but he’s not the\nlightest among all. Q’s weight is more than W's.\nThe number of persons sitting between V and\nW is the same as between R and S. Only two\npersons sit between W and the one who is\nimmediate right of R, who is not adjacent to Q.\nV’s weight is more than S and T. Only three\npersons' weights are between W and R. V’s\nweight is more than W’s and sits immediate\nright of Q. U’s weight is the second lowest\namong them. The one whose weight is lower\nthan S but more than at least two persons is T.\nBoth W and R have lower weights than S. T sits\nthird to the left of V, who is not sitting on the\nside of the table. P’s weight equals U’s, who sits\nopposite Q.\nWhich of the following is definitely false?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V is the heaviest person among them."
+      },
+      {
+        "id": "B",
+        "text": "P sits second to the right of U."
+      },
+      {
+        "id": "C",
+        "text": "T’s weight is more than R's."
+      },
+      {
+        "id": "D",
+        "text": "The one whose weight is two persons’ below\nS sits second to the left of Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "P sits second to the right of U is definitely false.\nFinal answer:\nWeight \norder-\nW sits third to the right of Q. Only two persons\nsit between W and the one who is immediate\nright of R, who is not adjacent to Q. From these\nconditions, we get,\nS’s weight is more than at most five persons but\nhe’s not the lightest among all. P’s weight\nequals U’s, who sits opposite Q. From these\nconditions, we also get five new cases,\nCase1a > > > > > > S >",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight Persons viz, P, Q, R, S, T, U, V, and W are\nsitting on a square table and all of them are\nfaces inside but not necessarily in the same\norder. Four of them sit on the corner of the table\nand the rest of them sit on the side of the table.\nFurther, it is known that all persons have either\ndifferent or the same weights.\nW sits third to the right of Q. S’s weight is more\nthan at most five persons but he’s not the\nlightest among all. Q’s weight is more than W's.\nThe number of persons sitting between V and\nW is the same as between R and S. Only two\npersons sit between W and the one who is\nimmediate right of R, who is not adjacent to Q.\nV’s weight is more than S and T. Only three\npersons' weights are between W and R. V’s\nweight is more than W’s and sits immediate",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "R sits fourth to the right of the one who is\nimmediate left P.\nFinal answer:\nWeight \norder-\nW sits third to the right of Q. Only two persons\nsit between W and the one who is immediate\nright of R, who is not adjacent to Q. From these\nconditions, we get,\nS’s weight is more than at most five persons but\nhe’s not the lightest among all. P’s weight\nequals U’s, who sits opposite Q. From these\nconditions, we also get five new cases,\nCase1a > > > > > > S >\nCase2a > > > > > S > >\nCase3a > > > > S > > >\nCase4a > > > S > > > >\nCase5a > > S > > > > >",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      24
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight Persons viz, P, Q, R, S, T, U, V, and W are\nsitting on a square table and all of them are\nfaces inside but not necessarily in the same\norder. Four of them sit on the corner of the table\nand the rest of them sit on the side of the table.\nFurther, it is known that all persons have either\ndifferent or the same weights.\nW sits third to the right of Q. S’s weight is more\nthan at most five persons but he’s not the\nlightest among all. Q’s weight is more than W's.\nThe number of persons sitting between V and\nW is the same as between R and S. Only two\npersons sit between W and the one who is\nimmediate right of R, who is not adjacent to Q.\nV’s weight is more than S and T. Only three\npersons' weights are between W and R. V’s\nweight is more than W’s and sits immediate\nright of Q. U’s weight is the second lowest\namong them. The one whose weight is lower\nthan S but more than at least two persons is T.\nBoth W and R have lower weights than S. T sits\nthird to the left of V, who is not sitting on the\nside of the table. P’s weight equals U’s, who sits\nopposite Q.\nWho is the heaviest among all of them?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "The one who sits immediate right of S."
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "The one who sits second to the right of Q."
+      },
+      {
+        "id": "E",
+        "text": "None of the above"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "None of the given option is correct.\nFinal answer:\nWeight \norder-\nW sits third to the right of Q. Only two persons\nsit between W and the one who is immediate\nright of R, who is not adjacent to Q. From these\nconditions, we get,\nS’s weight is more than at most five persons but\nhe’s not the lightest among all. P’s weight\nequals U’s, who sits opposite Q. From these\nconditions, we also get five new cases,\nCase1a > > > > > > S >\nCase2a > > > > > S > >\nCase3a > > > > S > > >\nCase4a > > > S > > > >\nCase5a > > S > > > > >",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight Persons viz, P, Q, R, S, T, U, V, and W are\nsitting on a square table and all of them are\nfaces inside but not necessarily in the same\norder. Four of them sit on the corner of the table\nand the rest of them sit on the side of the table.\nFurther, it is known that all persons have either\ndifferent or the same weights.\nW sits third to the right of Q. S’s weight is more\nthan at most five persons but he’s not the\nlightest among all. Q’s weight is more than W's.\nThe number of persons sitting between V and\nW is the same as between R and S. Only two\npersons sit between W and the one who is\nimmediate right of R, who is not adjacent to Q.\nV’s weight is more than S and T. Only three\npersons' weights are between W and R. V’s\nweight is more than W’s and sits immediate\nright of Q. U’s weight is the second lowest\namong them. The one whose weight is lower\nthan S but more than at least two persons is T.\nBoth W and R have lower weights than S. T sits\nthird to the left of V, who is not sitting on the\nside of the table. P’s weight equals U’s, who sits\nopposite Q.\nIf Q’s weight is the second highest and his\nweight is 85 kg, then how many persons’\nweights are between V and T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Three persons’ weights are between V and T.\nFinal answer:\nWeight \norder-\nW sits third to the right of Q. Only two persons\nsit between W and the one who is immediate\nright of R, who is not adjacent to Q. From these\nconditions, we get,\nS’s weight is more than at most five persons but\nhe’s not the lightest among all. P’s weight\nequals U’s, who sits opposite Q. From these\nconditions, we also get five new cases,\nCase1a > > > > > > S >\nCase2a > > > > > S > >\nCase3a > > > > S > > >\nCase4a > > > S > > > >\nCase5a > > S > > > > >\nQ’s weight is more than W’s. V’s weight is more\nthan S and T. The number of persons sitting\nbetween V and W is the same as between R\nand S. V’s weight is more than W’s and sits\nimmediate right of Q. U’s weight is the second",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-3",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight Persons viz, P, Q, R, S, T, U, V, and W are\nsitting on a square table and all of them are\nfaces inside but not necessarily in the same\norder. Four of them sit on the corner of the table\nand the rest of them sit on the side of the table.\nFurther, it is known that all persons have either\ndifferent or the same weights.",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Both U and P weights are adjacent to W’s.\nFinal answer:\nWeight \norder-\nW sits third to the right of Q. Only two persons\nsit between W and the one who is immediate\nright of R, who is not adjacent to Q. From these\nconditions, we get,\nS’s weight is more than at most five persons but\nhe’s not the lightest among all. P’s weight\nequals U’s, who sits opposite Q. From these\nconditions, we also get five new cases,\nCase1a > > > > > > S >\nCase2a > > > > > S > >\nCase3a > > > > S > > >\nCase4a > > > S > > > >\nCase5a > > S > > > > >\nQ’s weight is more than W’s. V’s weight is more\nthan S and T. The number of persons sitting\nbetween V and W is the same as between R\nand S. V’s weight is more than W’s and sits\nimmediate right of Q. U’s weight is the second\nlowest among them. From this condition, Case\n1a and Case 5a get cancelled.\nAnd we know that P’s weight equals U’s.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      25
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight family members - Alice, Babita, Karan,\nManish, Preeti, Priyanka, Rohit, and Sachin have\ngone for a dinner. They are seated around a\nsquare table such that four persons are seated\nat the corner and four persons are seated in\nthe middle of each side. All are facing the\ncenter. They all belong to a family of three\ngenerations. Each member of the family has\nordered a different food viz. Pizza, Noodles,\nBurger, Momos, Dosa, Manchurian, Idli, and\nPasta but not necessarily in the same order.\nPreeti is seated at one of the corners. Babita is\nseated second to the right of Preeti. Only two\npersons are seated between the one who has\nordered Momos and the one who has ordered\nManchurian. Priyanka is the mother of Manish,\nwho is the grandson of Sachin. Alice who is\nmarried to Rohit is seated fourth to the left of\nPreeti, who has ordered Dosa. There are two\npersons seated between the one who has\nordered Dosa and the one who has ordered\nMomos. The one who has ordered Idli is seated\nsecond to the left of Priyanka. Alice is the\nmother of sister-in-law of Preeti. Priyanka is\nseated immediate left of Preeti. Rohit is the\nimmediate neighbor of both Alice and Karan.\nBabita, who is the mother of Preeti, is married to\nSachin. Manish, who has ordered Momos, is\nseated immediate right of Babita. Priyanka has\nordered Noodles. Babita has neither ordered\nPizza nor Burger. Alice has not ordered Burger.\nPreeti is the aunt of Manish.\nFind the odd one out from the following.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Priyanka - Sachin"
+      },
+      {
+        "id": "B",
+        "text": "Preeti - Babita"
+      },
+      {
+        "id": "C",
+        "text": "Karan - Manish"
+      },
+      {
+        "id": "D",
+        "text": "Rohit - Manish"
+      },
+      {
+        "id": "E",
+        "text": "Karan - Alice"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Preeti is seated at one of the corners\nBabita is seated second to the right of Preeti\nPriyanka is the mother of Manish, who is the\ngrandson of Sachin\nAlice who is married to Rohit is seated fourth\nto the left of Preeti, who has ordered Dosa\nThere are two persons seated between the\none who has ordered Dosa and the one who\nhas ordered Momos\nPriyanka is seated immediate left of Preeti\nRohit is the immediate neighbor of both Alice\nand Karan\nBabita, who is the mother of Preeti, is\nmarried to Sachin\nPreeti is the aunt of Manish",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight family members - Alice, Babita, Karan,\nManish, Preeti, Priyanka, Rohit, and Sachin have\ngone for a dinner. They are seated around a\nsquare table such that four persons are seated\nat the corner and four persons are seated in\nthe middle of each side. All are facing the\ncenter. They all belong to a family of three\ngenerations. Each member of the family has\nordered a different food viz. Pizza, Noodles,\nBurger, Momos, Dosa, Manchurian, Idli, and\nPasta but not necessarily in the same order.\nPreeti is seated at one of the corners. Babita is\nseated second to the right of Preeti. Only two\npersons are seated between the one who has\nordered Momos and the one who has ordered\nManchurian. Priyanka is the mother of Manish,\nwho is the grandson of Sachin. Alice who is\nmarried to Rohit is seated fourth to the left of",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Preeti is seated at one of the corners\nBabita is seated second to the right of Preeti\nPriyanka is the mother of Manish, who is the\ngrandson of Sachin\nAlice who is married to Rohit is seated fourth\nto the left of Preeti, who has ordered Dosa\nThere are two persons seated between the\none who has ordered Dosa and the one who\nhas ordered Momos\nPriyanka is seated immediate left of Preeti\nRohit is the immediate neighbor of both Alice\nand Karan",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      26
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight family members - Alice, Babita, Karan,\nManish, Preeti, Priyanka, Rohit, and Sachin have\ngone for a dinner. They are seated around a\nsquare table such that four persons are seated\nat the corner and four persons are seated in\nthe middle of each side. All are facing the\ncenter. They all belong to a family of three\ngenerations. Each member of the family has\nordered a different food viz. Pizza, Noodles,\nBurger, Momos, Dosa, Manchurian, Idli, and\nPasta but not necessarily in the same order.\nPreeti is seated at one of the corners. Babita is\nseated second to the right of Preeti. Only two\npersons are seated between the one who has\nordered Momos and the one who has ordered\nManchurian. Priyanka is the mother of Manish,\nwho is the grandson of Sachin. Alice who is\nmarried to Rohit is seated fourth to the left of\nPreeti, who has ordered Dosa. There are two\npersons seated between the one who has\nordered Dosa and the one who has ordered\nMomos. The one who has ordered Idli is seated\nsecond to the left of Priyanka. Alice is the\nmother of sister-in-law of Preeti. Priyanka is\nseated immediate left of Preeti. Rohit is the\nimmediate neighbor of both Alice and Karan.\nBabita, who is the mother of Preeti, is married to\nSachin. Manish, who has ordered Momos, is\nseated immediate right of Babita. Priyanka has\nordered Noodles. Babita has neither ordered\nPizza nor Burger. Alice has not ordered Burger.\nPreeti is the aunt of Manish.\nHow many persons are seated between the\none who has ordered Manchurian and the one\nwho has ordered Burger, when counted left of\nthe one who has ordered Manchurian?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Five"
+      },
+      {
+        "id": "C",
+        "text": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Preeti is seated at one of the corners\nBabita is seated second to the right of Preeti\nPriyanka is the mother of Manish, who is the\ngrandson of Sachin\nAlice who is married to Rohit is seated fourth\nto the left of Preeti, who has ordered Dosa\nThere are two persons seated between the\none who has ordered Dosa and the one who\nhas ordered Momos",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight family members - Alice, Babita, Karan,\nManish, Preeti, Priyanka, Rohit, and Sachin have\ngone for a dinner. They are seated around a\nsquare table such that four persons are seated\nat the corner and four persons are seated in\nthe middle of each side. All are facing the\ncenter. They all belong to a family of three\ngenerations. Each member of the family has\nordered a different food viz. Pizza, Noodles,\nBurger, Momos, Dosa, Manchurian, Idli, and\nPasta but not necessarily in the same order.\nPreeti is seated at one of the corners. Babita is\nseated second to the right of Preeti. Only two\npersons are seated between the one who has\nordered Momos and the one who has ordered\nManchurian. Priyanka is the mother of Manish,\nwho is the grandson of Sachin. Alice who is",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Preeti is seated at one of the corners\nBabita is seated second to the right of Preeti\nPriyanka is the mother of Manish, who is the\ngrandson of Sachin",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      27
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-3",
+    "question": "Sachin has ordered Burger",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nAfter the arrangement in alphabetical order\nfrom A in a clockwise direction,\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the\nabove\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.\nLevel-3",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-3",
+    "question": "The one who has ordered pasta is seated in\nthe middle of the side",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-3",
+    "question": "Alice is the maternal aunt of Manish",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,\nF is seated immediately left to the purchasers of\nDell. G is seated immediately right to the buyer\nof Samsung. B and D didn't purchase Dell. The\nindividuals with the following alphabetical\nnames are not seated next to one another.\nFrom the above condition, case2a and case 2\nget eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-3",
+    "question": "Karan is seated third to the left of Sachin",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is true"
+      },
+      {
+        "id": "B",
+        "text": "Both I and II are true"
+      },
+      {
+        "id": "C",
+        "text": "Both III and IV are true"
+      },
+      {
+        "id": "D",
+        "text": "I and IV are true"
+      },
+      {
+        "id": "E",
+        "text": "All are true"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Final Answer:\nWe have,\nD seated second next to the person who\npurchased Sony, on the left. D and E, who are\nseated in the middle of the table, there are only\ntwo other people. From the above condition,\nthere are two possibilities.\nAgain we have,\nSecond, from E's left is A. Third from the right of\nC is B. Between C and G, only one person is\nseated. B's immediate neighbour is not G. B\ndoesn't purchased sony. From the above\ncondition, case1 gets eliminated and there are\ntwo possibilities.\nAgain we have,",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight family members - Alice, Babita, Karan,\nManish, Preeti, Priyanka, Rohit, and Sachin have\ngone for dinner. They are seated around a\nsquare table such that four persons are seated\nat the corner and four persons are seated in\nthe middle of each side. All are facing the\ncenter. They all belong to a family of three\ngenerations. Each member of the family has\nordered a different food viz. Pizza, Noodles,\nBurger, Momos, Dosa, Manchurian, Idli, and\nPasta but not necessarily in the same order.\nPreeti is seated at one of the corners. Babita is\nseated second to the right of Preeti. Only two\npersons are seated between the one who has\nordered Momos and the one who has ordered\nManchurian. Priyanka is the mother of Manish,\nwho is the grandson of Sachin. Alice, who is\nmarried to Rohit is seated fourth to the left of\nPreeti, who has ordered Dosa. There are two\npersons seated between the one who has\nordered Dosa and the one who has ordered\nMomos. The one who has ordered Idli is seated\nsecond to the left of Priyanka. Alice is the\nmother of sister-in-law of Preeti. Priyanka is\nseated immediate left of Preeti. Rohit is the\nimmediate neighbor of both Alice and Karan.\nBabita, who is the mother of Preeti, is married to\nSachin. Manish, who has ordered Momos, is\nseated immediate right of Babita. Priyanka has\nordered Noodles. Babita has neither ordered\nPizza nor Burger. Alice has not ordered Burger.\nPreeti is the aunt of Manish.\nHow is Rohit related to the one who has\nordered Momos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Grandfather"
+      },
+      {
+        "id": "B",
+        "text": "Grandmother"
+      },
+      {
+        "id": "C",
+        "text": "Maternal grandfather"
+      },
+      {
+        "id": "D",
+        "text": "Maternal grandmother"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Preeti is seated at one of the corners\nBabita is seated second to the right of Preeti\nPriyanka is the mother of Manish, who is the\ngrandson of Sachin\nAlice who is married to Rohit is seated fourth\nto the left of Preeti, who has ordered Dosa\nThere are two persons seated between the\none who has ordered Dosa and the one who\nhas ordered Momos\nPriyanka is seated immediate left of Preeti\nRohit is the immediate neighbor of both Alice\nand Karan\nBabita, who is the mother of Preeti, is\nmarried to Sachin\nPreeti is the aunt of Manish\nManish, who has ordered Momos, is seated\nimmediate right of Babita, therefore, Case-1\nwill get canceled\nAlice is the mother of sister-in-law of Preeti\nThe one who has ordered Idli is seated\nsecond to the left of Priyanka\nPriyanka has ordered Noodles\nOnly two persons are seated between the\none who has ordered Momos and the one\nwho has ordered Manchurian",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-3",
+    "question": "Directions: Answer the questions based on the\ninformation given below.\nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the\ncenter of the table. Four persons are sitting\ncenter the sides of the table while four are\nsitting at the corner of the table. The one who\nare sitting in the center the sides of the table\nlike\ndifferent actresses\ni.e. Alia,\nDeepika,\nKareena and Kiara and the one who are sitting\nat the corner of the square table like different\nactor i.e. Akshay, Salman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of\nN, who does not like Kartik. O sits opposite to",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right\nof N, who does not like Kartik.\nCase I: When N sits second to the left of the\none who likes Kartik\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik\n3. O sits opposite to the one who likes Alia.\n4. O is an immediate neighbor of the one who\nlikes Salman.\nCase I: When N sits 2nd to the left of the one\nwho likes Kartik.\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik.\n5. L sits to the immediate left of J. The one who\nlikes Deepika sits to the immediate right of the\none who likes Ranveer, which is not possible in\ncase I so, case I is invalid.\n6. P sits second to the right of K.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      28
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-3",
+    "question": "Directions: Answer the questions based on the\ninformation given below.\nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the\ncenter of the table. Four persons are sitting\ncenter the sides of the table while four are\nsitting at the corner of the table. The one who\nare sitting in the center the sides of the table\nlike\ndifferent actresses\ni.e. Alia, Deepika,\nKareena and Kiara and the one who are sitting\nat the corner of the square table like different\nactor i.e. Akshay, Salman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of\nN, who does not like Kartik. O sits opposite to\nthe one who likes Alia. J sits to the immediate\nright of L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O\nis an immediate neighbor of the one who likes\nSalman. P sits second to the right of K.\nWho among the following sits to the immediate\nright of I?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The one who likes Kartik"
+      },
+      {
+        "id": "B",
+        "text": "P"
+      },
+      {
+        "id": "C",
+        "text": "The one who likes Ranveer"
+      },
+      {
+        "id": "D",
+        "text": "Both B and C"
+      },
+      {
+        "id": "E",
+        "text": "The one who likes Salman"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right\nof N, who does not like Kartik.\nCase I: When N sits second to the left of the\none who likes Kartik\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik\n3. O sits opposite to the one who likes Alia.\n4. O is an immediate neighbor of the one who\nlikes Salman.\nCase I: When N sits 2nd to the left of the one\nwho likes Kartik.\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik.\n5. L sits to the immediate left of J. The one who\nlikes Deepika sits to the immediate right of the\none who likes Ranveer, which is not possible in\ncase I so, case I is invalid.\n6. P sits second to the right of K.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "Level-3",
+    "question": "Directions: Answer the questions based on the\ninformation given below.\nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the\ncenter of the table. Four persons are sitting\ncenter the sides of the table while four are\nsitting at the corner of the table. The one who\nare sitting in the center the sides of the table\nlike\ndifferent actresses\ni.e. Alia,\nDeepika,\nKareena and Kiara and the one who are sitting\nat the corner of the square table like different\nactor i.e. Akshay, Salman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of\nN, who does not like Kartik. O sits opposite to\nthe one who likes Alia. J sits to the immediate\nright of L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O\nis an immediate neighbor of the one who likes\nSalman. P sits second to the right of K.\nWho sits 3rd to the left of L?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The one who likes Akshay"
+      },
+      {
+        "id": "B",
+        "text": "M"
+      },
+      {
+        "id": "C",
+        "text": "The one who likes Ranveer"
+      },
+      {
+        "id": "D",
+        "text": "I"
+      },
+      {
+        "id": "E",
+        "text": "Either D or C"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right\nof N, who does not like Kartik.\nCase I: When N sits second to the left of the\none who likes Kartik\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik\n3. O sits opposite to the one who likes Alia.\n4. O is an immediate neighbor of the one who\nlikes Salman.\nCase I: When N sits 2nd to the left of the one\nwho likes Kartik.\nCase II: When N sits 2nd to the right of the one\nwho likes Kartik.\n5. L sits to the immediate left of J. The one who\nlikes Deepika sits to the immediate right of the\none who likes Ranveer, which is not possible in\ncase I so, case I is invalid.\n6. P sits second to the right of K.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "Level-3",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully to answer the given question:\nEight persons namely A, D, G, J, M, P, S, and V\nare sitting around the square table but not\nnecessarily in the same order. The persons\nseated at the corner of the table are facing\naway from the center and the persons seated\nat the middle of the table are facing towards\nthe center. The persons sitting at the corner of\nthe table likes different fruits such as Mango,\nPear, Apple and Orange. The persons sitting at\nmiddle of the table likes different vegetables,\nsuch as Potato, Radish, Carrot and Turnip. \nD sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. Not more than one person is\nseated between J and G. The one who likes\nCarrot sits third to the left of V. The one who sits\nsecond to the right of the one who likes Carrot\nis facing M. The one who likes Turnip sits second",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "D sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. The one who likes Carrot sits\nthird to the left of V. \nThe one who sits second to the right of the one\nwho likes Carrot is facing M. A likes Mango. The\nperson A is the immediate neighbor of the one\nwho likes Radish and P. \nThe one who likes Orange sits third to the right\nof J. Therefore, Case-1 gets eliminated. Not\nmore than one person is seated between J and\nG. The one who likes Turnip sits second to the\nright of the one who likes Potato. S does not like\nTurnip.\nG and one who likes Pear are not immediate\nneighbors. The one who likes Turnip and one\nwho likes Apple are not immediate neighbors.\nTherefore, Case-2a gets eliminated. \nThis is the final arrangement.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      29
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully to answer the given question:\nEight persons namely A, D, G, J, M, P, S, and V\nare sitting around the square table but not\nnecessarily in the same order. The persons\nseated at the corner of the table are facing\naway from the center and the persons seated\nat the middle of the table are facing towards\nthe center. The persons sitting at the corner of\nthe table likes different fruits such as Mango,\nPear, Apple and Orange. The persons sitting at\nmiddle of the table likes different vegetables,\nsuch as Potato, Radish, Carrot and Turnip. \nD sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. Not more than one person is\nseated between J and G. The one who likes\nCarrot sits third to the left of V. The one who sits\nsecond to the right of the one who likes Carrot\nis facing M. The one who likes Turnip sits second\nto the right of the one who likes Potato. S does\nnot like Turnip. The person A is the immediate\nneighbor of the one who likes Radish and P. The\none who likes Orange sits third to the right of J.\nThe one who likes Turnip and one who likes\nApple are not immediate neighbors. A likes\nMango. G and one who likes Pear are not\nimmediate neighbors.\nFind the odd one out from the following.",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "D"
+      },
+      {
+        "id": "D",
+        "text": "A"
+      },
+      {
+        "id": "E",
+        "text": "S"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "D sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. The one who likes Carrot sits\nthird to the left of V. \nThe one who sits second to the right of the one\nwho likes Carrot is facing M. A likes Mango. The\nperson A is the immediate neighbor of the one\nwho likes Radish and P.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      30
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully to answer the given question:\nEight persons namely A, D, G, J, M, P, S, and V\nare sitting around the square table but not\nnecessarily in the same order. The persons\nseated at the corner of the table are facing\naway from the center and the persons seated\nat the middle of the table are facing towards\nthe center. The persons sitting at the corner of\nthe table likes different fruits such as Mango,\nPear, Apple and Orange. The persons sitting at\nmiddle of the table likes different vegetables,\nsuch as Potato, Radish, Carrot and Turnip. \nD sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. Not more than one person is\nseated between J and G. The one who likes\nCarrot sits third to the left of V. The one who sits\nsecond to the right of the one who likes Carrot\nis facing M. The one who likes Turnip sits second\nto the right of the one who likes Potato. S does\nnot like Turnip. The person A is the immediate\nneighbor of the one who likes Radish and P. The\none who likes Orange sits third to the right of J.\nThe one who likes Turnip and one who likes\nApple are not immediate neighbors. A likes\nMango. G and one who likes Pear are not\nimmediate neighbors.\nWhich among the following combination is true\naccording to the given arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S - Carrot"
+      },
+      {
+        "id": "B",
+        "text": "J - Mango"
+      },
+      {
+        "id": "C",
+        "text": "M - Pear"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "D sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. The one who likes Carrot sits\nthird to the left of V. \nThe one who sits second to the right of the one\nwho likes Carrot is facing M. A likes Mango. The\nperson A is the immediate neighbor of the one\nwho likes Radish and P. \nThe one who likes Orange sits third to the right\nof J. Therefore, Case-1 gets eliminated. Not\nmore than one person is seated between J and\nG. The one who likes Turnip sits second to the\nright of the one who likes Potato. S does not like\nTurnip. \nG and one who likes Pear are not immediate\nneighbors. The one who likes Turnip and one\nwho likes Apple are not immediate neighbors.\nTherefore, Case-2a gets eliminated.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      30
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully to answer the given question:\nEight persons namely A, D, G, J, M, P, S, and V\nare sitting around the square table but not\nnecessarily in the same order. The persons\nseated at the corner of the table are facing\naway from the center and the persons seated\nat the middle of the table are facing towards\nthe center. The persons sitting at the corner of\nthe table likes different fruits such as Mango,\nPear, Apple and Orange. The persons sitting at\nmiddle of the table likes different vegetables,\nsuch as Potato, Radish, Carrot and Turnip. \nD sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. Not more than one person is\nseated between J and G. The one who likes\nCarrot sits third to the left of V. The one who sits\nsecond to the right of the one who likes Carrot\nis facing M. The one who likes Turnip sits second\nto the right of the one who likes Potato. S does\nnot like Turnip. The person A is the immediate\nneighbor of the one who likes Radish and P. The\none who likes Orange sits third to the right of J.\nThe one who likes Turnip and one who likes\nApple are not immediate neighbors. A likes\nMango. G and one who likes Pear are not\nimmediate neighbors.\nWho among the following sits opposite to the\nperson who is seated second to the right of A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "J"
+      },
+      {
+        "id": "D",
+        "text": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "D sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. The one who likes Carrot sits\nthird to the left of V. \nThe one who sits second to the right of the one\nwho likes Carrot is facing M. A likes Mango. The\nperson A is the immediate neighbor of the one\nwho likes Radish and P. \nThe one who likes Orange sits third to the right\nof J. Therefore, Case-1 gets eliminated. Not\nmore than one person is seated between J and\nG. The one who likes Turnip sits second to the\nright of the one who likes Potato. S does not like\nTurnip.\nG and one who likes Pear are not immediate\nneighbors. The one who likes Turnip and one\nwho likes Apple are not immediate neighbors.\nTherefore, Case-2a gets eliminated. \nThis is the final arrangement. \nHere, S is seated second to the right of A and D\nis opposite to S. Therefore, D is correct option.\nHence, option (D) is the correct option.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully to answer the given question:\nEight persons namely A, D, G, J, M, P, S, and V\nare sitting around the square table but not\nnecessarily in the same order. The persons\nseated at the corner of the table are facing\naway from the center and the persons seated\nat the middle of the table are facing towards\nthe center. The persons sitting at the corner of\nthe table likes different fruits such as Mango,\nPear, Apple and Orange. The persons sitting at\nmiddle of the table likes different vegetables,\nsuch as Potato, Radish, Carrot and Turnip. \nD sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. Not more than one person is\nseated between J and G. The one who likes\nCarrot sits third to the left of V. The one who sits\nsecond to the right of the one who likes Carrot\nis facing M. The one who likes Turnip sits second\nto the right of the one who likes Potato. S does\nnot like Turnip.The person A is the immediate\nneighbor of the one who likes Radish and P. The\none who likes Orange sits third to the right of J.\nThe one who likes Turnip and one who likes\nApple are not immediate neighbors. A likes\nMango. G and one who likes Pear are not\nimmediate neighbors.\nWho among the following likes Carrot?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S"
+      },
+      {
+        "id": "B",
+        "text": "G"
+      },
+      {
+        "id": "C",
+        "text": "P"
+      },
+      {
+        "id": "D",
+        "text": "M"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "D sits third to the right of the one who likes\nCarrot. One person sits between D and the one\nwho likes Orange. The one who likes Carrot sits\nthird to the left of V. \nThe one who sits second to the right of the one\nwho likes Carrot is facing M. A likes Mango. The\nperson A is the immediate neighbor of the one\nwho likes Radish and P.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "Level-3",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer \nthe \nquestions\naccordingly.\nEight people are sitting around a square table.\nFour people sitting at the corners and four\npeople sitting at the middle of the sides. People\nsitting at the corners face inside and the\npeople sitting at the sides face outside. Each\npeople read in one of the two classes i.e. I and\nII. These people are born in eight different\nmonths of the same year.\nArrangement 1:",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Arrangement 1:\n1. K sits third to the right of P who sits at the\ncorner.\n2. One person sits between K and R.\n3. U sits third to the right of R.\n4. One person sits between U and M.\n5. O sits third to the right of M.\n6. O and U are not neighbors.\n(Here, case 1 will be eliminated and we will\ncontinue with the case 2)\n7. Q is not a neighbor of P and F is not a\nneighbor of R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      31
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "Level-3",
+    "question": "DIrections:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people are sitting around a square table.\nFour people sitting at the corners and four\npeople sitting at the middle of the sides. People\nsitting at the corners face inside and the\npeople sitting at the sides face outside. Each\npeople read in one of the two classes i.e. I and\nII. These people are born in eight different\nmonths of the same year.\nArrangement 1:\nQ is not a neighbor of P and F is not a neighbor\nof R. O sits third to the right of M. U sits third to\nthe right of R. K sits third to the right of P, who\nsits at the corner. O and U are not neighbors.\nOne person sits between U and M. One person\nsits between K and R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.\nArrangement 3:\nThese people are born in eight different months\nof the same year starting from April. People\nread in class I are born in the months of 30 days\nalphabetically and the people read in class II\nare\nborn\nin \nthe \nmonths \nof\n31\ndays\nalphabetically.\nHow many people are born between K and Q in\narrangement 3?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Arrangement 1:\n1. K sits third to the right of P, who sits at the\ncorner.\n2. One person sits between K and R.\n3. U sits third to the right of R.\n4. One person sits between U and M.\n5. O sits third to the right of M.\n6. O and U are not neighbors.\n(Here, case 1 will be eliminated and we will\ncontinue with the case 2)\n7. Q is not a neighbor of P and F is not a\nneighbor of R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      32
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "Level-3",
+    "question": "DIrections:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people are sitting around a square table.\nFour people sitting at the corners and four\npeople sitting at the middle of the sides. People\nsitting at the corners face inside and the\npeople sitting at the sides face outside. Each\npeople read in one of the two classes i.e. I and\nII. These people are born in eight different\nmonths of the same year.\nArrangement 1:\nQ is not a neighbor of P and F is not a neighbor\nof R. O sits third to the right of M. U sits third to\nthe right of R. K sits third to the right of P, who\nsits at the corner. O and U are not neighbors.\nOne person sits between U and M. One person\nsits between K and R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.\nArrangement 3:\nThese people are born in eight different months\nof the same year starting from April. People\nread in class I are born in the months of 30 days",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Arrangement 1:\n1. K sits third to the right of P, who sits at the\ncorner.\n2. One person sits between K and R.\n3. U sits third to the right of R.\n4. One person sits between U and M.\n5. O sits third to the right of M.\n6. O and U are not neighbors.\n(Here, case 1 will be eliminated and we will\ncontinue with the case 2)\n7. Q is not a neighbor of P and F is not a\nneighbor of R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      32
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people are sitting around a square table.\nFour people sitting at the corners and four\npeople sitting at the middle of the sides. People\nsitting at the corners face inside and the\npeople sitting at the sides face outside. Each\npeople read in one of the two classes i.e. I and\nII. These people are born in eight different\nmonths of the same year.\nArrangement 1:\nQ is not a neighbor of P and F is not a neighbor\nof R. O sits third to the right of M. U sits third to\nthe right of R. K sits third to the right of P, who\nsits at the corner. O and U are not neighbors.\nOne person sits between U and M. One person\nsits between K and R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.\nArrangement 3:\nThese people are born in eight different months\nof the same year starting from April. People\nread in class I are born in the months of 30 days\nalphabetically and the people read in class II\nare\nborn\nin\nthe \nmonths \nof\n31\ndays\nalphabetically.\nWho among the following read in class II in\narrangement 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U"
+      },
+      {
+        "id": "B",
+        "text": "O"
+      },
+      {
+        "id": "C",
+        "text": "M"
+      },
+      {
+        "id": "D",
+        "text": "P"
+      },
+      {
+        "id": "E",
+        "text": "Q"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Arrangement 1:\n1. K sits third to the right of P, who sits at the\ncorner.\n2. One person sits between K and R.\n3. U sits third to the right of R.\n4. One person sits between U and M.\n5. O sits third to the right of M.\n6. O and U are not neighbors.\n(Here, case 1 will be eliminated and we will\ncontinue with the case 2)\n7. Q is not a neighbor of P and F is not a\nneighbor of R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      33
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "Level-3",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nEight people are sitting around a square table.\nFour people sitting at the corners and four\npeople sitting at the middle of the sides. People\nsitting at the corners face inside and the\npeople sitting at the sides face outside. Each\npeople read in one of the two classes i.e. I and\nII. These people are born in eight different\nmonths of the same year.\nArrangement 1:\nQ is not a neighbor of P and F is not a neighbor\nof R. O sits third to the right of M. U sits third to\nthe right of R. K sits third to the right of P, who\nsits at the corner. O and U are not neighbors.\nOne person sits between U and M. One person\nsits between K and R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.\nArrangement 3:\nThese people are born in eight different months\nof the same year starting from April. People\nread in class I are born in the months of 30 days\nalphabetically and the people read in class II\nare\nborn\nin\nthe \nmonths \nof\n31\ndays\nalphabetically.\nWho among the following sits opposite to F in\narrangement 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "K"
+      },
+      {
+        "id": "B",
+        "text": "Q"
+      },
+      {
+        "id": "C",
+        "text": "R"
+      },
+      {
+        "id": "D",
+        "text": "M"
+      },
+      {
+        "id": "E",
+        "text": "O"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "Arrangement 1:\n1. K sits third to the right of P, who sits at the\ncorner.\n2. One person sits between K and R.\n3. U sits third to the right of R.\n4. One person sits between U and M.\n5. O sits third to the right of M.\n6. O and U are not neighbors.\n(Here, case 1 will be eliminated and we will\ncontinue with the case 2)\n7. Q is not a neighbor of P and F is not a\nneighbor of R.\nArrangement 2:\nThe person sitting at the corners read in class I\nand the person sitting at the sides read in class\nII.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      33
+    ]
+  },
+  {
+    "question_number": "35",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons A, B, C, D, E, F, G and H were\nseated along two concentric square shaped\nparks facing towards the centre. 4 of them were\nseated along the outer bigger park such that\none person was there along each of the side. 4\nof them were along the inner smaller park such\nthat there was one person at each of the\ncorner. Each person wore a different coloured\nshirt viz. green, white, yellow, blue, pink, brown,\npurple and red not necessarily in the same\norder. The positions were numbered 1-4 as\nshown in the figure given below:\nThe person who wore the brown shirt and B had\nthe same seat number, B was not the one with\nthe brown shirt. G's seat number was 2 more\nthan B's seat number and they were seated\nalong the outer park. D's seat number was\ntwice as that of the seat number of the one\nwho wore the purple shirt. D was at one of the\ncorners and was to the immediate left of the\none who wore the white shirt. A was wearing\nthe red shirt and was seated at one of the\ncorners. H's seat number and the one who wore\nthe blue shirt was the same, H was not the one\nwith the blue shirt. E was to the immediate right\nof the one who wore the yellow shirt. F's seat\nnumber was twice as that of the person's seat",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "The person who wore the brown shirt and B had\nthe same seat number, B was not the one with\nthe brown shirt.\nG's seat number was 2 more than B's seat\nnumber and they were seated along the outer\npark.\nD's seat number was twice as that of the seat\nnumber of the one who wore the purple shirt.\nD was at one of the corners and was to the\nimmediate left of the one who wore the white\nshirt. Thus, D was along the inner park.",
+    "tables": [],
+    "image_ref": "output\\images\\578_square_arrangements_chapter_wise_dpp_english_1\\578_square_arrangements_chapter_wise_dpp_english_1_p034_img01.jpeg",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      34
+    ]
+  },
+  {
+    "question_number": "36",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons A, B, C, D, E, F, G and H were\nseated along two concentric square shaped\nparks facing towards the centre. 4 of them were\nseated along the outer bigger park such that\none person was there along each of the side. 4\nof them were along the inner smaller park such\nthat there was one person at each of the\ncorner. Each person wore a different coloured\nshirt viz. green, white, yellow, blue, pink, brown,\npurple and red not necessarily in the same\norder. The positions were numbered 1-4 as\nshown in the figure given below:\nThe person who wore the brown shirt and B had\nthe same seat number, B was not the one with\nthe brown shirt. G's seat number was 2 more\nthan B's seat number and they were seated\nalong the outer park. D's seat number was\ntwice as that of the seat number of the one\nwho wore the purple shirt. D was at one of the\ncorners and was to the immediate left of the\none who wore the white shirt. A was wearing\nthe red shirt and was seated at one of the\ncorners. H's seat number and the one who wore\nthe blue shirt was the same, H was not the one\nwith the blue shirt. E was to the immediate right\nof the one who wore the yellow shirt. F's seat\nnumber was twice as that of the person's seat\nnumber who wore the green shirt. H and F were\nseated along the same park.\nWhat was the position of H with respect to the\none who wore the brown shirt?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate left"
+      },
+      {
+        "id": "B",
+        "text": "Immediate right"
+      },
+      {
+        "id": "C",
+        "text": "2nd to the right"
+      },
+      {
+        "id": "D",
+        "text": "2nd to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "The person who wore the brown shirt and B had\nthe same seat number, B was not the one with\nthe brown shirt.\nG's seat number was 2 more than B's seat\nnumber and they were seated along the outer\npark.",
+    "tables": [],
+    "image_ref": "output\\images\\578_square_arrangements_chapter_wise_dpp_english_1\\578_square_arrangements_chapter_wise_dpp_english_1_p035_img01.jpeg",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      35
+    ]
+  },
+  {
+    "question_number": "37",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight persons A, B, C, D, E, F, G and H were\nseated along two concentric square shaped\nparks facing towards the centre. 4 of them were\nseated along the outer bigger park such that\none person was there along each of the side. 4\nof them were along the inner smaller park such\nthat there was one person at each of the\ncorner. Each person wore a different coloured\nshirt viz. green, white, yellow, blue, pink, brown,\npurple and red not necessarily in the same\norder. The positions were numbered 1-4 as\nshown in the figure given below:\nThe person who wore the brown shirt and B had\nthe same seat number, B was not the one with",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "The person who wore the brown shirt and B had\nthe same seat number, B was not the one with\nthe brown shirt.\nG's seat number was 2 more than B's seat\nnumber and they were seated along the outer\npark.",
+    "tables": [],
+    "image_ref": "output\\images\\578_square_arrangements_chapter_wise_dpp_english_1\\578_square_arrangements_chapter_wise_dpp_english_1_p035_img01.jpeg",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      35
+    ]
+  },
+  {
+    "question_number": "38",
+    "level": "Level-3",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nThe following Persons: P, Q, R, S, T, U, V, W, X, Y, Z,\nand L are the twelve people seated at the two\nconcentric square tables. Eight of them are\nseated at the outer table facing the center,\nwhile the remaining four are seated on the inner\ntable's corner facing the outside. Four of them\nare seated at the corner of the outer table, and\nfour more are seated in the center of the side.\nThe order of the information is not always the\nsame. One person sits between S and Y. The\none who sits second to the right of Y is facing W\nwho is facing outside the center. Z chooses to\nsit at the outer table rather than next to X or Y.\nThe person sitting to Z's immediate right is\nfacing R. The number of\nperson seated\nbetween Z and X is the same as between Z and\nP. The person facing L is seated second to V's\nright. The number of people sitting between V\nand Q is the same as the number seated\nbetween Q and the person facing T. Q sits at\nthe outer table and is neither sit adjacent to Z\nnor Y. S sits third to the left of X. U is seated\nthird from the right of the person adjacent to Z.\nWhat is the position of the one who faces T\nwith respect to X?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the left"
+      },
+      {
+        "id": "B",
+        "text": "Second to the right"
+      },
+      {
+        "id": "C",
+        "text": "Fourth to the left"
+      },
+      {
+        "id": "D",
+        "text": "Third to the right"
+      },
+      {
+        "id": "E",
+        "text": "Immediate right"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "As given in the statement;\n1. S sits third to the left of X.\n2. One person sits between S and Y.\n3. The one who sits second to the right of Y is\nfacing W who is facing outside the center.\nSo, from above conditions , there will be two\ncases\nCase- 1\nCase-2:\n4) Z chooses to sit at the outer table rather\nthan next to X or Y.\n5) The person sitting directly to Z's right is facing\nR.\nFrom the above condition , there will be three\ncases:\nCase:2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      36
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "Level-2",
+    "question": "(C)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "Final answer:\nS sits second to the right of Q. P sits to the\nimmediate right of S. From these conditions, we\nget,\nWhen counted from the right of Q the number\nof persons sit between Q and P is the same as\nthe number of persons sit between W and P. S\nsits second to the left of R who sits immediate\nleft of T.\nU is an immediate neighbour of S. One person\nsit between V and U who do not sit in the\nmiddle of the side. From this condition Case 2\ngets rejected, and we get\nHence, T sits second to the left of V.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      38
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-2",
+    "question": "(A)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:\nOne student sits between A and L. L faces the\nperson who is second to the right of F. E sits\nthird to the right of A.\nLevel-2",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      38
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-2",
+    "question": "(B)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "The students facing inwards have different\nmetals viz., Mg, Br, Fe, Li, Ga, Tc, Cs and Er. The\ndistance between the two students is equal.\nNote: Y is a neighbour of X and Z or Y sits\nadjacent to X and Z means Y sits between X\nand Y on the same side.\nD is the neighbour of the students who have 'Cs'\nand 'Tc'. Five students sit between A and D. So,\nthere are two cases:\nOne student sits between A and L. L faces the\nperson who is second to the right of F. E sits\nthird to the right of A.\nI faces outwards and sits fourth to the right of K.\nA is adjacent to students who have 'Mg' and\n'Fe'. So, there are two more cases here:\nH faces J and both have neither 'Mg' nor 'Tc'. G\nsits second to the right of J. Thus, cases 1, 2 and\n2a are invalid.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      38
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-2",
+    "question": "(E)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      38
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-2",
+    "question": "(D)",
+    "options": [],
+    "correct_answer": "",
+    "explanation": "1. M, who is 16 years old, sits third to the left of F.\n2. J sits opposite to I, who sits on one of the\nsides.\nSo, we have two cases as shown below,\nCase 1:\nCase 2:\n3. D sits at one of the corners. D, who is 17 years\nold, sits immediately to the left of C, who is 15\nyears old.\n4. L sits second to the left of G, who is not\nadjacent to J.\nSo, J must be sitting adjacent to D.",
+    "tables": [],
+    "image_ref": "",
+    "tags": [
+      "578",
+      "square",
+      "arrangements",
+      "1"
+    ],
+    "source_pages": [
+      38
+    ]
+  }
+]

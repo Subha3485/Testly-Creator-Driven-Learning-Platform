@@ -1,206 +1,225 @@
-# Bus Logistics Server
+# PrepNexus Test Platform
 
-Node.js API for the Bus Logistics apps, backed by MongoDB.
+Community-driven smart exam prep platform (MVP) combining:
+- PYQ practice
+- Mock tests
+- Basic adaptive AI flows
+- Admin-led content operations
 
-## Product Docs
+## Current MVP Scope
 
-- [System Architecture](./docs/system-architecture.md)
-- [Product Checklist](./docs/product-checklist.md)
+Implemented in this repository:
+- Exam-targeted question and test system (SSC, UPSC, JEE, GATE)
+- Student test attempts with scoring and negative marking
+- Submission analytics and weak-topic detection
+- Admin dashboard for test and question management
+- JWT authentication with role-based admin route protection
+- AI helper endpoints for question variation and adaptive mock creation
 
-## Setup
+## Tech Stack
 
-```bash
-npm install
-npm run dev
-```
+### Frontend
+- React 18
+- Vite 5
+- Plain CSS (responsive layout)
 
-The server now uses a single runtime env file: `server/.env`.
+### Backend
+- Node.js
+- Express
+- MongoDB + Mongoose
+- JWT authentication
+- bcrypt password hashing
 
-Default local setup:
+## Repository Structure
 
-- `SERVER_MODE=test`
-- `HOST=0.0.0.0`
-- `PUBLIC_BASE_URL=http://localhost:4000`
-- `ALLOWED_ORIGINS=*`
+- package.json (legacy root package metadata)
+- test-series/
+  - backend/
+    - middleware/
+      - auth.js
+    - models/
+      - Question.js
+      - Submission.js
+      - Test.js
+      - User.js
+    - routes/
+      - admin.routes.js
+      - ai.routes.js
+      - auth.routes.js
+      - test.routes.js
+    - scripts/
+      - seed.ssc.js
+    - server.js
+    - package.json
+  - frontend/
+    - src/
+      - admin/
+        - AdminDashboard.jsx
+      - lib/
+        - api.js
+      - pages/
+        - SolutionPage.jsx
+        - TestPage.jsx
+      - App.jsx
+      - main.jsx
+      - styles.css
+    - index.html
+    - vite.config.js
+    - package.json
 
-Default port: `4000`
+## Prerequisites
 
-`server/.env.example` includes a Mongo-backed template for local development. Copy the values you need into `server/.env`.
+- Node.js 18+
+- MongoDB running locally or accessible via connection string
 
-If you want MongoDB-backed local runs, update the same `.env` file and set:
+## Environment Variables
 
-- `PORT`
-- `HOST`
-- `PUBLIC_BASE_URL`
-- `SERVER_MODE`
-- `MONGODB_URI`
-- `MONGODB_DB_NAME`
-- `MONGODB_DB_NAME_LIVE`
-- `MONGODB_DB_NAME_MOCK`
-- `JWT_ACCESS_SECRET`
-- `JWT_REFRESH_SECRET`
-- `JWT_ISSUER`
-- `ACCESS_TOKEN_TTL`
-- `REFRESH_TOKEN_TTL`
-- `REFRESH_COOKIE_NAME`
-- `COOKIE_SECURE`
-- `COOKIE_SAMESITE`
-- `COOKIE_DOMAIN`
-- `OTP_PROVIDER`
-- `OTP_FROM`
-- `OTP_FIXED_CODE`
-- `TWILIO_ACCOUNT_SID`
-- `TWILIO_AUTH_TOKEN`
-- `TWILIO_VERIFY_SERVICE_SID`
-- `FAST2SMS_API_KEY`
-- `FAST2SMS_ROUTE`
-- `MSG91_AUTH_KEY`
-- `MSG91_TEMPLATE_ID`
-- `MSG91_SENDER_ID`
-- `ALLOWED_ORIGINS`
+Backend reads environment from backend/.env (optional).
 
-Minimum Mongo-backed local setup:
+Supported values:
+- MONGO_URI (default: mongodb://127.0.0.1:27017/testseries)
+- PORT (default: 5000)
+- JWT_SECRET (default: dev-secret-change-me)
 
-```env
-SERVER_MODE=live
-HOST=127.0.0.1
-PORT=4000
-PUBLIC_BASE_URL=http://localhost:4000
-MONGODB_URI=mongodb://127.0.0.1:27017
-MONGODB_DB_NAME=buslogistic
-MONGODB_DB_NAME_LIVE=buslogistic_live
-MONGODB_DB_NAME_MOCK=buslogistic_mock
-ALLOWED_ORIGINS=http://localhost:4000
-```
+Example backend/.env:
 
-There is no separate `.env.test` or `.env.production` runtime path anymore.
+MONGO_URI=mongodb://127.0.0.1:27017/testseries
+PORT=5000
+JWT_SECRET=replace-with-strong-secret
 
-Render deployment note:
+## Setup and Run
 
-- Do not set `PORT` in `.env` for Render.
-- Render injects `PORT` automatically and the server should bind to `0.0.0.0`.
+### Run locally (single command)
 
-## Current Data Model
+From repository root (recommended):
+- `npm run setup` — installs root, backend, and frontend dependencies
+- `npm run start` — starts backend and frontend together
 
-Primary collections:
+Backend base URL:
+- http://localhost:5000
 
-- `users`
-- `buses`
-- `routes`
-- `stops`
-- `bookings`
-- `payments`
-- `reviews`
-- `live_locations`
-- `warehouses`
-- `subscriptions`
+Frontend default URL:
+- http://localhost:5173
 
-Auth/session collections:
+Vite proxy is configured so frontend `/api` requests are forwarded to backend on port 5000.
 
-- `otp_sessions`
-- `auth_sessions`
+## Seed Data
 
-Schema diagram: [docs/database-schema.md](./docs/database-schema.md)
+From test-series/backend:
+- npm run seed:ssc
 
-## Main Endpoints
+What seed script does:
+- Creates a default admin account (if missing)
+- Inserts SSC questions
+- Creates one published SSC starter mock test
 
-- `GET /health`
-- `GET /admin`
-- `GET /api/routes`
-- `GET /api/routes/:routeId`
-- `GET /api/routes/:routeId/slots`
-- `POST /api/auth/send-otp`
-- `POST /api/auth/resend-otp`
-- `POST /api/auth/verify-otp`
-- `POST /api/auth/refresh`
-- `POST /api/auth/logout`
-- `POST /api/auth/logout-all`
-- `GET /api/auth/me`
-- `GET /api/auth/sessions`
-- `DELETE /api/auth/sessions/:sessionId`
-- `POST /api/driver/auth/send-otp`
-- `POST /api/driver/auth/resend-otp`
-- `POST /api/driver/auth/verify-otp`
-- `POST /api/driver/auth/refresh`
-- `POST /api/driver/auth/logout`
-- `POST /api/driver/auth/logout-all`
-- `GET /api/driver/auth/me`
-- `GET /api/driver/auth/sessions`
-- `DELETE /api/driver/auth/sessions/:sessionId`
-- `POST /api/admin/auth/send-otp`
-- `POST /api/admin/auth/resend-otp`
-- `POST /api/admin/auth/verify-otp`
-- `POST /api/admin/auth/refresh`
-- `POST /api/admin/auth/logout`
-- `POST /api/admin/auth/logout-all`
-- `GET /api/admin/auth/me`
-- `GET /api/admin/auth/sessions`
-- `DELETE /api/admin/auth/sessions/:sessionId`
-- `GET /api/driver/:driverId/assignment`
-- `GET /api/trips/:tripId`
-- `POST /api/trips/:tripId/status`
-- `POST /api/trips/:tripId/stops`
-- `POST /api/trips/:tripId/location`
-- `GET /api/admin/summary`
-- `GET /api/users/:userId/profile`
-- `GET /api/users/:userId/bookings`
-- `GET /api/bookings/:bookingId`
-- `GET /api/bookings/:bookingId/tracking`
-- `GET /api/users/:userId/wallet`
-- `POST /api/fare/quote`
-- `POST /api/bookings`
+Seed admin credentials:
+- Email: admin@prepnexus.dev
+- Password: Admin@123
 
-## Example Requests
+## Scripts
 
-Send OTP:
+### Backend scripts (test-series/backend/package.json)
+- npm start: run backend server
+- npm run dev: run backend with nodemon
+- npm run seed:ssc: seed SSC starter data
+- npm run check: syntax-check core backend files
 
-```bash
-curl -X POST http://localhost:4000/api/auth/send-otp \
-  -H "Content-Type: application/json" \
-  -d "{\"phoneNumber\":\"9883773485\"}"
-```
+### Frontend scripts (test-series/frontend/package.json)
+- npm run dev: run Vite dev server
+- npm run build: build production assets
+- npm run preview: preview production build
 
-Verify customer OTP:
+## API Summary
 
-```bash
-curl -X POST http://localhost:4000/api/auth/verify-otp \
-  -H "Content-Type: application/json" \
-  -d "{\"sessionId\":\"otp-session-id\",\"otp\":\"123456\"}"
-```
+### Auth routes (/api/auth)
+- POST /register
+- POST /login
+- GET /me (requires token)
 
-Send driver OTP:
+### Student/Test routes (/api/test)
+- GET /catalog/tests
+- GET /catalog/questions/similar/:questionId
+- GET /:id
+- POST /submit
+- GET /solution/:id
+- GET /analytics/user/:userId
+- GET /weak-topics/:userId
 
-```bash
-curl -X POST http://localhost:4000/api/driver/auth/send-otp \
-  -H "Content-Type: application/json" \
-  -d "{\"phoneNumber\":\"9123456789\"}"
-```
+### Admin routes (/api/admin) (ADMIN token required)
+- GET /dashboard/overview
+- GET /tests
+- POST /tests
+- POST /questions
+- POST /tests/:testId/questions
+- PATCH /tests/:id/publish
 
-Get fare quote:
+Backward-compatible admin endpoints also exist:
+- POST /create-test
+- POST /add-question/:testId
 
-```bash
-curl -X POST http://localhost:4000/api/fare/quote \
-  -H "Content-Type: application/json" \
-  -d "{\"routeId\":\"route-kolkata-haldia\",\"pickupStopId\":\"kolaghat\",\"dropStopId\":\"haldia-depot\",\"weightKg\":18,\"quantity\":2,\"fragile\":true,\"express\":false}"
-```
+### AI routes (/api/ai)
+- POST /generate-question
+- POST /adaptive-test
 
-Create booking:
+## Authentication Notes
 
-```bash
-curl -X POST http://localhost:4000/api/bookings \
-  -H "Content-Type: application/json" \
-  -d "{\"userId\":\"user-001\",\"routeId\":\"route-kolkata-haldia\",\"pickupStopId\":\"kolaghat\",\"dropStopId\":\"haldia-depot\",\"slotId\":\"slot-1200\",\"packageType\":\"Electronics\",\"weightKg\":18,\"quantity\":2,\"fragile\":true,\"express\":false,\"paymentMethod\":\"UPI\"}"
-```
+- Token format: Bearer token in Authorization header
+- Frontend stores token in localStorage key prep_token
+- Admin dashboard requires ADMIN role
 
-## Notes
+## Data Model Notes
 
-- The runtime mode switch uses MongoDB-backed datasets: `live` mode reads `MONGODB_DB_NAME_LIVE`, `mock` mode reads `MONGODB_DB_NAME_MOCK`.
-- Cache is used only as a read-through acceleration layer; MongoDB remains the source of truth.
-- Admin APIs now require an admin JWT access token.
-- Refresh tokens can be supplied by body or the HTTP-only refresh cookie.
-- Session inventory and revocation endpoints are available for customer, driver, and admin auth flows.
-- OTP delivery is provider-driven through `OTP_PROVIDER` with support for `mock`, `twilio`, `fast2sms`, and `msg91`.
-- If `OTP_PROVIDER=mock`, the response may include `otpPreview` for local testing.
-- Access tokens are now signed JWTs and refresh tokens are rotated against hashed MongoDB-backed auth sessions.
-- Realtime updates are available through Socket.IO on the same server port.
-- This is much closer to production than the previous demo flow, but production OTP templates, socket authorization, rate limiting, and audit logging are still pending.
+### Question
+- Supports source types: PYQ, AI, USER
+- Supports difficulty, tags, explanation, verification flags
+
+### Test
+- Supports types: FULL, TOPIC, DAILY, ADAPTIVE
+- Supports exam targeting and publication state
+
+### Submission
+- Stores score, total marks, accuracy, weak topics, and question-level breakdown
+
+### User
+- Stores role, exam preference, reputation score
+
+## Troubleshooting
+
+### MongoDB connection refused (ECONNREFUSED 127.0.0.1:27017)
+
+Cause:
+- MongoDB is not running or wrong MONGO_URI.
+
+Fix:
+- Start MongoDB locally, or set valid MONGO_URI in backend/.env.
+
+### Duplicate schema index warning on email
+
+Cause:
+- Same index declared more than once.
+
+Status:
+- Fixed in User schema by keeping only one unique email index definition.
+
+### Backend exits on npm start
+
+Likely causes:
+- MongoDB unavailable
+- Invalid environment variable values
+
+Check:
+- Backend logs in terminal
+- GET http://localhost:5000/health after startup
+
+## Product Direction (Next Recommended Milestones)
+
+- Student login/register screens and protected student analytics
+- Creator profiles and community interactions (likes, comments, follow)
+- Leaderboard and gamification (XP, streaks, badges)
+- AI tutor and richer adaptive test generation logic
+- Course and paid test-series monetization layer
+
+## License
+
+No license file is currently included in this repository. Add one before public distribution.
