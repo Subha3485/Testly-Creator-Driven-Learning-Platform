@@ -7,7 +7,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const MONGO_URI = process.env.MONGO_URI || "mongodb://127.0.0.1:27017/testseries";
-const PORT = Number(process.env.PORT || 5000);
+const PORT = Number(process.env.PORT || 4000);
 const FRONTEND_DIST_DIR = path.resolve(__dirname, "..", "frontend", "dist");
 
 const app = express();
