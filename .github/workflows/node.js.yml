@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: self-hosted-latest
 
     strategy:
       matrix:
@@ -30,3 +30,4 @@ jobs:
     - run: |
        touch .env 
        echo "${{ secrets.SERVER_ENV }}" > .env
+    - run: pm2 restart server
