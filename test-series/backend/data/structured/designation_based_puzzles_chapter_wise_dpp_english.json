@@ -1,0 +1,567 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight Persons- A, B, C, D, E, F, G and H are\nworking in a department in different designation\nviz-Chairman, CFO, GM, DGM, AGM, Manager,\nJunior Manager and Clerk. All the designations\ngiven are to be considered in a given order (as\nChairman is considered as Senior-most and Clerk\nis considered as the Junior-most).\nOnly two person are designated between G and\nH who is junior to D. The number of persons\njunior to A is same as the number of persons\nsenior to C. Only One person is designated\nbetween B and C who is a junior manager. G is\nnot adjacent to A. E is not junior to G.\n \nFour of the following five are alike in a certain\nway and hence they form a group. Which one of\nthe following does not belong to that group?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight Persons- A, B, C, D, E, F, G and H are<br/>working in a department in different designation<br/>viz-Chairman, CFO, GM, DGM, AGM, Manager,<br/>Junior Manager and Clerk. All the designations<br/>given are to be considered in a given order (as<br/>Chairman is considered as Senior-most and Clerk<br/>is considered as the Junior-most).<br/>Only two person are designated between G and<br/>H who is junior to D. The number of persons<br/>junior to A is same as the number of persons<br/>senior to C. Only One person is designated<br/>between B and C who is a junior manager. G is<br/>not adjacent to A. E is not junior to G.<br/> <br/>Four of the following five are alike in a certain<br/>way and hence they form a group. Which one of<br/>the following does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D,H",
+        "html": "D,H"
+      },
+      {
+        "id": "B",
+        "text": "A,E",
+        "html": "A,E"
+      },
+      {
+        "id": "C",
+        "text": "G,B",
+        "html": "G,B"
+      },
+      {
+        "id": "D",
+        "text": "F,G",
+        "html": "F,G"
+      },
+      {
+        "id": "E",
+        "text": "G,E",
+        "html": "G,E"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "From:- Only One person is designated between B\nand C who is a junior manager.\nThe number of persons junior to A is same as the\nnumber of persons senior to C.\nDesignation\nPerson\nChairman\n \nCFO\nA\nGM\n \nDGM\n \nAGM\nB\nManager\n \nJunior Manager C\nClerk\n \nFrom:- Only two person are designated between\nG and H who is junior to D. G is not adjacent to A\nand E is not junior to G.\nDesignation\nPerson\nChairman\nD\nCFO\nA\nGM\nH\nDGM\nE\nAGM\nB\nManager\nG\nJunior Manager C\nClerk\nF\nHere is the final arrangement.",
+    "explanationHtml": "From:- Only One person is designated between B<br/>and C who is a junior manager.<br/>The number of persons junior to A is same as the<br/>number of persons senior to C.<br/>Designation<br/>Person<br/>Chairman<br/> <br/>CFO<br/>A<br/>GM<br/> <br/>DGM<br/> <br/>AGM<br/>B<br/>Manager<br/> <br/>Junior Manager C<br/>Clerk<br/> <br/>From:- Only two person are designated between<br/>G and H who is junior to D. G is not adjacent to A<br/>and E is not junior to G.<br/>Designation<br/>Person<br/>Chairman<br/>D<br/>CFO<br/>A<br/>GM<br/>H<br/>DGM<br/>E<br/>AGM<br/>B<br/>Manager<br/>G<br/>Junior Manager C<br/>Clerk<br/>F<br/>Here is the final arrangement.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight Persons- A, B, C, D, E, F, G and H are\nworking in a department in different designation\nviz-Chairman, CFO, GM, DGM, AGM, Manager,\nJunior Manager and Clerk. All the designations\ngiven are to be considered in a given order (as\nChairman is considered as Senior-most and Clerk\nis considered as the Junior-most).\nOnly two person are designated between G and\nH who is junior to D. The number of persons\njunior to A is same as the number of persons\nsenior to C. Only One person is designated\nbetween B and C who is a junior manager. G is\nnot adjacent to A. E is not junior to G.\n \nHow many designation gaps are between E and\nC?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight Persons- A, B, C, D, E, F, G and H are<br/>working in a department in different designation<br/>viz-Chairman, CFO, GM, DGM, AGM, Manager,<br/>Junior Manager and Clerk. All the designations<br/>given are to be considered in a given order (as<br/>Chairman is considered as Senior-most and Clerk<br/>is considered as the Junior-most).<br/>Only two person are designated between G and<br/>H who is junior to D. The number of persons<br/>junior to A is same as the number of persons<br/>senior to C. Only One person is designated<br/>between B and C who is a junior manager. G is<br/>not adjacent to A. E is not junior to G.<br/> <br/>How many designation gaps are between E and<br/>C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "From:- Only One person is designated between B\nand C who is a junior manager.\nThe number of persons junior to A is same as the\nnumber of persons senior to C.\nDesignation\nPerson\nChairman\n \nCFO\nA\nGM\n \nDGM\n \nAGM\nB\nManager\n \nJunior Manager C\nClerk\n \nFrom:- Only two person are designated between\nG and H who is junior to D. G is not adjacent to A\nand E is not junior to G.\nDesignation\nPerson\nChairman\nD\nCFO\nA\nGM\nH\nDGM\nE\nAGM\nB\nManager\nG\nJunior Manager C\nClerk\nF\nHere is the final arrangement.",
+    "explanationHtml": "From:- Only One person is designated between B<br/>and C who is a junior manager.<br/>The number of persons junior to A is same as the<br/>number of persons senior to C.<br/>Designation<br/>Person<br/>Chairman<br/> <br/>CFO<br/>A<br/>GM<br/> <br/>DGM<br/> <br/>AGM<br/>B<br/>Manager<br/> <br/>Junior Manager C<br/>Clerk<br/> <br/>From:- Only two person are designated between<br/>G and H who is junior to D. G is not adjacent to A<br/>and E is not junior to G.<br/>Designation<br/>Person<br/>Chairman<br/>D<br/>CFO<br/>A<br/>GM<br/>H<br/>DGM<br/>E<br/>AGM<br/>B<br/>Manager<br/>G<br/>Junior Manager C<br/>Clerk<br/>F<br/>Here is the final arrangement.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight Persons- A, B, C, D, E, F, G and H are\nworking in a department in different designation\nviz-Chairman, CFO, GM, DGM, AGM, Manager,\nJunior Manager and Clerk. All the designations\ngiven are to be considered in a given order (as\nChairman is considered as Senior-most and Clerk\nis considered as the Junior-most).\nOnly two person are designated between G and\nH who is junior to D. The number of persons\njunior to A is same as the number of persons\nsenior to C. Only One person is designated\nbetween B and C who is a junior manager. G is\nnot adjacent to A. E is not junior to G.\n \nHow many persons are senior to F?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight Persons- A, B, C, D, E, F, G and H are<br/>working in a department in different designation<br/>viz-Chairman, CFO, GM, DGM, AGM, Manager,<br/>Junior Manager and Clerk. All the designations<br/>given are to be considered in a given order (as<br/>Chairman is considered as Senior-most and Clerk<br/>is considered as the Junior-most).<br/>Only two person are designated between G and<br/>H who is junior to D. The number of persons<br/>junior to A is same as the number of persons<br/>senior to C. Only One person is designated<br/>between B and C who is a junior manager. G is<br/>not adjacent to A. E is not junior to G.<br/> <br/>How many persons are senior to F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5\n \nDesignation Based Puzzles",
+        "html": "5\n \nDesignation Based Puzzles"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "From:- Only One person is designated between\nB and C who is a junior manager.\nThe number of persons junior to A is same as the\nnumber of persons senior to C.\nDesignation\nPerson\nChairman\n \nCFO\nA\nGM\n \nDGM\n \nAGM\nB\nManager\n \nJunior Manager C",
+    "explanationHtml": "From:- Only One person is designated between<br/>B and C who is a junior manager.<br/>The number of persons junior to A is same as the<br/>number of persons senior to C.<br/>Designation<br/>Person<br/>Chairman<br/> <br/>CFO<br/>A<br/>GM<br/> <br/>DGM<br/> <br/>AGM<br/>B<br/>Manager<br/> <br/>Junior Manager C",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight Persons- A, B, C, D, E, F, G and H are\nworking in a department in different designation\nviz-Chairman, CFO, GM, DGM, AGM, Manager,\nJunior Manager and Clerk. All the designations\ngiven are to be considered in a given order (as\nChairman is considered as Senior-most and Clerk\nis considered as the Junior-most).\nOnly two person are designated between G and\nH who is junior to D. The number of persons\njunior to A is same as the number of persons\nsenior to C. Only One person is designated\nbetween B and C who is a junior manager. G is\nnot adjacent to A. E is not junior to G.\n \nWho among the following is Manager ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight Persons- A, B, C, D, E, F, G and H are<br/>working in a department in different designation<br/>viz-Chairman, CFO, GM, DGM, AGM, Manager,<br/>Junior Manager and Clerk. All the designations<br/>given are to be considered in a given order (as<br/>Chairman is considered as Senior-most and Clerk<br/>is considered as the Junior-most).<br/>Only two person are designated between G and<br/>H who is junior to D. The number of persons<br/>junior to A is same as the number of persons<br/>senior to C. Only One person is designated<br/>between B and C who is a junior manager. G is<br/>not adjacent to A. E is not junior to G.<br/> <br/>Who among the following is Manager ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "E",
+        "text": "G",
+        "html": "G"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "From:- Only One person is designated between B\nand C who is a junior manager.\nThe number of persons junior to A is same as the\nnumber of persons senior to C.\nDesignation\nPerson\nChairman\n \nCFO\nA\nGM\n \nDGM\n \nAGM\nB\nManager\n \nJunior Manager C\nClerk\n \nFrom:- Only two person are designated between\nG and H who is junior to D. G is not adjacent to A\nand E is not junior to G.\nDesignation\nPerson\nChairman\nD\nCFO\nA\nGM\nH\nDGM\nE\nAGM\nB\nManager\nG\nJunior Manager C\nClerk\nF\nHere is the final arrangement.",
+    "explanationHtml": "From:- Only One person is designated between B<br/>and C who is a junior manager.<br/>The number of persons junior to A is same as the<br/>number of persons senior to C.<br/>Designation<br/>Person<br/>Chairman<br/> <br/>CFO<br/>A<br/>GM<br/> <br/>DGM<br/> <br/>AGM<br/>B<br/>Manager<br/> <br/>Junior Manager C<br/>Clerk<br/> <br/>From:- Only two person are designated between<br/>G and H who is junior to D. G is not adjacent to A<br/>and E is not junior to G.<br/>Designation<br/>Person<br/>Chairman<br/>D<br/>CFO<br/>A<br/>GM<br/>H<br/>DGM<br/>E<br/>AGM<br/>B<br/>Manager<br/>G<br/>Junior Manager C<br/>Clerk<br/>F<br/>Here is the final arrangement.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Read the information given below carefully and\nanswer the following question.\n \nIn an organisation, nine people i.e. A, B, C, D, E, F,\nG, H, and I are working in different departments\nviz. Marketing, Finance and HR. At least two\npeople are working in these departments but not\nmore than four people can work in one\ndepartments. Only A is working with E in the\nsame department. H and B are working in\ndifferent departments but not in HR department.\nG is working in the marketing department. I is\nneither working in the marketing department nor\nin the HR department. D is not working with I but\nworking with B. C is working in finance\ndepartment. C and E are working in different\ndepartments. Only three persons are working in\nmarketing department.\n \nFour of the following five are alike in a certain\nway and thus forms a group, find the one which\ndoesn't belong to that group.",
+    "questionHtml": "Read the information given below carefully and<br/>answer the following question.<br/> <br/>In an organisation, nine people i.e. A, B, C, D, E, F,<br/>G, H, and I are working in different departments<br/>viz. Marketing, Finance and HR. At least two<br/>people are working in these departments but not<br/>more than four people can work in one<br/>departments. Only A is working with E in the<br/>same department. H and B are working in<br/>different departments but not in HR department.<br/>G is working in the marketing department. I is<br/>neither working in the marketing department nor<br/>in the HR department. D is not working with I but<br/>working with B. C is working in finance<br/>department. C and E are working in different<br/>departments. Only three persons are working in<br/>marketing department.<br/> <br/>Four of the following five are alike in a certain<br/>way and thus forms a group, find the one which<br/>doesn't belong to that group.",
+    "options": [
+      {
+        "id": "A",
+        "text": "B and G",
+        "html": "B and G"
+      },
+      {
+        "id": "B",
+        "text": "A and E",
+        "html": "A and E"
+      },
+      {
+        "id": "C",
+        "text": "G and A",
+        "html": "G and A"
+      },
+      {
+        "id": "D",
+        "text": "H and I",
+        "html": "H and I"
+      },
+      {
+        "id": "E",
+        "text": "F and C",
+        "html": "F and C"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "H and B are working in different departments\nbut not in HR department therefore there will\nbe two cases.\nCase-1\nHR\n \nFINANCE\nH\nMARKETING B\n \nCase-2\nHR\n \nFINANCE\nB\nMARKETING H \nG is working in the marketing department\nI is neither working in the marketing\ndepartment nor in the HR department\nCase-1\nHR\n \nFINANCE\nH I\nMARKETING B G\n \nCase-2\nHR\n \nFINANCE\nB I\nMARKETING H G \nD is not working with I but working with B,\ntherefore, Case-2 will get eliminated.\nC is working in finance department\nHR\n \nFINANCE\nH I C\nMARKETING B G D",
+    "explanationHtml": "H and B are working in different departments<br/>but not in HR department therefore there will<br/>be two cases.<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H<br/>MARKETING B<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B<br/>MARKETING H <br/>G is working in the marketing department<br/>I is neither working in the marketing<br/>department nor in the HR department<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H I<br/>MARKETING B G<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B I<br/>MARKETING H G <br/>D is not working with I but working with B,<br/>therefore, Case-2 will get eliminated.<br/>C is working in finance department<br/>HR<br/> <br/>FINANCE<br/>H I C<br/>MARKETING B G D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Read the information given below carefully and\nanswer the following question.\n \nIn an organisation, nine people i.e. A, B, C, D, E, F,\nG, H, and I are working in different departments\nviz. Marketing, Finance and HR. At least two\npeople are working in these departments but not\nmore than four people can work in one\ndepartments. Only A is working with E in the\nsame department. H and B are working in\ndifferent departments but not in HR department.\nG is working in the marketing department. I is\nneither working in the marketing department nor\nin the HR department. D is not working with I but\nworking with B. C is working in finance\ndepartment. C and E are working in different\ndepartments. Only three persons are working in\nmarketing department.\n \nHow many persons are working in Finance\ndepartment?",
+    "questionHtml": "Read the information given below carefully and<br/>answer the following question.<br/> <br/>In an organisation, nine people i.e. A, B, C, D, E, F,<br/>G, H, and I are working in different departments<br/>viz. Marketing, Finance and HR. At least two<br/>people are working in these departments but not<br/>more than four people can work in one<br/>departments. Only A is working with E in the<br/>same department. H and B are working in<br/>different departments but not in HR department.<br/>G is working in the marketing department. I is<br/>neither working in the marketing department nor<br/>in the HR department. D is not working with I but<br/>working with B. C is working in finance<br/>department. C and E are working in different<br/>departments. Only three persons are working in<br/>marketing department.<br/> <br/>How many persons are working in Finance<br/>department?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "Either 3 or 4",
+        "html": "Either 3 or 4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "H and B are working in different departments\nbut not in HR department therefore there will\nbe two cases.\nCase-1\nHR\n \nFINANCE\nH\nMARKETING B\n \nCase-2\nHR\n \nFINANCE\nB\nMARKETING H \nG is working in the marketing department\nI is neither working in the marketing\ndepartment nor in the HR department\nCase-1\nHR\n \nFINANCE\nH I\nMARKETING B G\n \nCase-2\nHR\n \nFINANCE\nB I\nMARKETING H G \nD is not working with I but working with B,\ntherefore, Case-2 will get eliminated.\nC is working in finance department\nHR\n \nFINANCE\nH I C\nMARKETING B G D\nC and E are working in different departments\nOnly three persons are working in marketing\ndepartment\nOnly A is working with E in the same\ndepartment \nHR\nE A\nFINANCE\nH I C F\nMARKETING B G D",
+    "explanationHtml": "H and B are working in different departments<br/>but not in HR department therefore there will<br/>be two cases.<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H<br/>MARKETING B<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B<br/>MARKETING H <br/>G is working in the marketing department<br/>I is neither working in the marketing<br/>department nor in the HR department<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H I<br/>MARKETING B G<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B I<br/>MARKETING H G <br/>D is not working with I but working with B,<br/>therefore, Case-2 will get eliminated.<br/>C is working in finance department<br/>HR<br/> <br/>FINANCE<br/>H I C<br/>MARKETING B G D<br/>C and E are working in different departments<br/>Only three persons are working in marketing<br/>department<br/>Only A is working with E in the same<br/>department <br/>HR<br/>E A<br/>FINANCE<br/>H I C F<br/>MARKETING B G D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Read the information given below carefully and\nanswer the following question.",
+    "questionHtml": "Read the information given below carefully and<br/>answer the following question.",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "H and B are working in different departments\nbut not in HR department therefore there will\nbe two cases.\nCase-1\nHR\n \nFINANCE\nH\nMARKETING B\n \nCase-2\nHR\n \nFINANCE\nB\nMARKETING H \nG is working in the marketing department\nI is neither working in the marketing\ndepartment nor in the HR department\nCase-1\nHR\n \nFINANCE\nH I\nMARKETING B G\n \nCase-2\nHR\n \nFINANCE\nB I\nMARKETING H G",
+    "explanationHtml": "H and B are working in different departments<br/>but not in HR department therefore there will<br/>be two cases.<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H<br/>MARKETING B<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B<br/>MARKETING H <br/>G is working in the marketing department<br/>I is neither working in the marketing<br/>department nor in the HR department<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H I<br/>MARKETING B G<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B I<br/>MARKETING H G",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Read the information given below carefully and\nanswer the following question.\n \nIn an organisation, nine people i.e. A, B, C, D, E, F,\nG, H, and I are working in different departments\nviz. Marketing, Finance and HR. At least two\npeople are working in these departments but not\nmore than four people can work in one\ndepartments. Only A is working with E in the\nsame department. H and B are working in\ndifferent departments but not in HR department.\nG is working in the marketing department. I is\nneither working in the marketing department nor\nin the HR department. D is not working with I but\nworking with B. C is working in finance\ndepartment. C and E are working in different\ndepartments. Only three persons are working in\nmarketing department.\n \nWho among the following is working in\nmarketing department?",
+    "questionHtml": "Read the information given below carefully and<br/>answer the following question.<br/> <br/>In an organisation, nine people i.e. A, B, C, D, E, F,<br/>G, H, and I are working in different departments<br/>viz. Marketing, Finance and HR. At least two<br/>people are working in these departments but not<br/>more than four people can work in one<br/>departments. Only A is working with E in the<br/>same department. H and B are working in<br/>different departments but not in HR department.<br/>G is working in the marketing department. I is<br/>neither working in the marketing department nor<br/>in the HR department. D is not working with I but<br/>working with B. C is working in finance<br/>department. C and E are working in different<br/>departments. Only three persons are working in<br/>marketing department.<br/> <br/>Who among the following is working in<br/>marketing department?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "C",
+        "text": "I",
+        "html": "I"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "H and B are working in different departments\nbut not in HR department therefore there will\nbe two cases.\nCase-1\nHR\n \nFINANCE\nH\nMARKETING B\n \nCase-2\nHR\n \nFINANCE\nB\nMARKETING H \nG is working in the marketing department\nI is neither working in the marketing\ndepartment nor in the HR department\nCase-1\nHR\n \nFINANCE\nH I\nMARKETING B G\n \nCase-2\nHR\n \nFINANCE\nB I\nMARKETING H G \nD is not working with I but working with B,\ntherefore, Case-2 will get eliminated.\nC is working in finance department\nHR\n \nFINANCE\nH I C\nMARKETING B G D\nC and E are working in different departments\nOnly three persons are working in marketing\ndepartment\nOnly A is working with E in the same\ndepartment \nHR\nE A\nFINANCE\nH I C F\nMARKETING B G D",
+    "explanationHtml": "H and B are working in different departments<br/>but not in HR department therefore there will<br/>be two cases.<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H<br/>MARKETING B<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B<br/>MARKETING H <br/>G is working in the marketing department<br/>I is neither working in the marketing<br/>department nor in the HR department<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H I<br/>MARKETING B G<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B I<br/>MARKETING H G <br/>D is not working with I but working with B,<br/>therefore, Case-2 will get eliminated.<br/>C is working in finance department<br/>HR<br/> <br/>FINANCE<br/>H I C<br/>MARKETING B G D<br/>C and E are working in different departments<br/>Only three persons are working in marketing<br/>department<br/>Only A is working with E in the same<br/>department <br/>HR<br/>E A<br/>FINANCE<br/>H I C F<br/>MARKETING B G D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Read the information given below carefully and\nanswer the following question.\n \nIn an organisation, nine people i.e. A, B, C, D, E, F,\nG, H, and I are working in different departments\nviz. Marketing, Finance and HR. At least two\npeople are working in these departments but not\nmore than four people can work in one\ndepartments. Only A is working with E in the\nsame department. H and B are working in\ndifferent departments but not in HR department.\nG is working in the marketing department. I is\nneither working in the marketing department nor\nin the HR department. D is not working with I but\nworking with B. C is working in finance\ndepartment. C and E are working in different\ndepartments. Only three persons are working in\nmarketing department\n \nWho among the following is working together?",
+    "questionHtml": "Read the information given below carefully and<br/>answer the following question.<br/> <br/>In an organisation, nine people i.e. A, B, C, D, E, F,<br/>G, H, and I are working in different departments<br/>viz. Marketing, Finance and HR. At least two<br/>people are working in these departments but not<br/>more than four people can work in one<br/>departments. Only A is working with E in the<br/>same department. H and B are working in<br/>different departments but not in HR department.<br/>G is working in the marketing department. I is<br/>neither working in the marketing department nor<br/>in the HR department. D is not working with I but<br/>working with B. C is working in finance<br/>department. C and E are working in different<br/>departments. Only three persons are working in<br/>marketing department<br/> <br/>Who among the following is working together?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A and D",
+        "html": "A and D"
+      },
+      {
+        "id": "B",
+        "text": "H and C",
+        "html": "H and C"
+      },
+      {
+        "id": "C",
+        "text": "I and E",
+        "html": "I and E"
+      },
+      {
+        "id": "D",
+        "text": "D and C",
+        "html": "D and C"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "H and B are working in different departments\nbut not in HR department therefore there will\nbe two cases.\nCase-1\nHR\n \nFINANCE\nH\nMARKETING B\n \nCase-2\nHR\n \nFINANCE\nB\nMARKETING H \nG is working in the marketing department\nI is neither working in the marketing\ndepartment nor in the HR department\nCase-1\nHR\n \nFINANCE\nH I",
+    "explanationHtml": "H and B are working in different departments<br/>but not in HR department therefore there will<br/>be two cases.<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H<br/>MARKETING B<br/> <br/>Case-2<br/>HR<br/> <br/>FINANCE<br/>B<br/>MARKETING H <br/>G is working in the marketing department<br/>I is neither working in the marketing<br/>department nor in the HR department<br/>Case-1<br/>HR<br/> <br/>FINANCE<br/>H I",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\n \nThere are nine persons P, Q, R, S, T, U, V, W and X\nworking in a Bank at different Designations viz.\nZonal Head, Regional Head, Cluster Head, Branch",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/> <br/>There are nine persons P, Q, R, S, T, U, V, W and X<br/>working in a Bank at different Designations viz.<br/>Zonal Head, Regional Head, Cluster Head, Branch",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "The number of persons senior to V is equal to\npersons junior to it.\nQ is working at the lowest position in the\nbank.\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\n \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\n \nR is immediately senior to V\nOnly two persons are having designations\nbetween R and U, so there will be two cases. \nX is designated immediately next to U\n \nCase 1\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nU \nCashier\nX\nWelcome Desk\nQ\n \nCase-2\nZonal Head\nU \nRegional Head\nX \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\nFour persons are designated between X and S\nX is senior to S, therefore, Case-1 will get\neliminated.\nZonal Head\nU\nRegional Head\nX\nCluster Head\n \nBranch Manager\nR\nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nS\nCashier",
+    "explanationHtml": "The number of persons senior to V is equal to<br/>persons junior to it.<br/>Q is working at the lowest position in the<br/>bank.<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/> <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/> <br/>R is immediately senior to V<br/>Only two persons are having designations<br/>between R and U, so there will be two cases. <br/>X is designated immediately next to U<br/> <br/>Case 1<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>U <br/>Cashier<br/>X<br/>Welcome Desk<br/>Q<br/> <br/>Case-2<br/>Zonal Head<br/>U <br/>Regional Head<br/>X <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/>Four persons are designated between X and S<br/>X is senior to S, therefore, Case-1 will get<br/>eliminated.<br/>Zonal Head<br/>U<br/>Regional Head<br/>X<br/>Cluster Head<br/> <br/>Branch Manager<br/>R<br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>S<br/>Cashier",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\n \nThere are nine persons P, Q, R, S, T, U, V, W and X\nworking in a Bank at different Designations viz.\nZonal Head, Regional Head, Cluster Head, Branch\nManager, Branch Operations Manager, Teller\nAuthorizer, \nTeller, \nCashier, \nWelcome \nDesk.\nConsider Zonal Head as the highest position and\nWelcome desk as the lowest position.\nThe number of persons senior to V is equal to\npersons junior to it. Q is working at the lowest\nposition in the bank. R is immediately senior to V.\nOnly two persons are having designations\nbetween R and U. P is neither Teller Authorizer\nnor Cashier. X is designated immediately next to\nU. Four persons are designated between X and S.\nX is senior to S. T is designated at higher position\nto W.\n \nHow many people are working at higher\npositions to T?",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/> <br/>There are nine persons P, Q, R, S, T, U, V, W and X<br/>working in a Bank at different Designations viz.<br/>Zonal Head, Regional Head, Cluster Head, Branch<br/>Manager, Branch Operations Manager, Teller<br/>Authorizer, <br/>Teller, <br/>Cashier, <br/>Welcome <br/>Desk.<br/>Consider Zonal Head as the highest position and<br/>Welcome desk as the lowest position.<br/>The number of persons senior to V is equal to<br/>persons junior to it. Q is working at the lowest<br/>position in the bank. R is immediately senior to V.<br/>Only two persons are having designations<br/>between R and U. P is neither Teller Authorizer<br/>nor Cashier. X is designated immediately next to<br/>U. Four persons are designated between X and S.<br/>X is senior to S. T is designated at higher position<br/>to W.<br/> <br/>How many people are working at higher<br/>positions to T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "The number of persons senior to V is equal to\npersons junior to it.\nQ is working at the lowest position in the\nbank.\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\n \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\n \nR is immediately senior to V\nOnly two persons are having designations\nbetween R and U, so there will be two cases. \nX is designated immediately next to U\n \nCase 1\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nU \nCashier\nX\nWelcome Desk\nQ\n \nCase-2\nZonal Head\nU \nRegional Head\nX \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\nFour persons are designated between X and S\nX is senior to S, therefore, Case-1 will get\neliminated.\nZonal Head\nU\nRegional Head\nX\nCluster Head\n \nBranch Manager\nR",
+    "explanationHtml": "The number of persons senior to V is equal to<br/>persons junior to it.<br/>Q is working at the lowest position in the<br/>bank.<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/> <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/> <br/>R is immediately senior to V<br/>Only two persons are having designations<br/>between R and U, so there will be two cases. <br/>X is designated immediately next to U<br/> <br/>Case 1<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>U <br/>Cashier<br/>X<br/>Welcome Desk<br/>Q<br/> <br/>Case-2<br/>Zonal Head<br/>U <br/>Regional Head<br/>X <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/>Four persons are designated between X and S<br/>X is senior to S, therefore, Case-1 will get<br/>eliminated.<br/>Zonal Head<br/>U<br/>Regional Head<br/>X<br/>Cluster Head<br/> <br/>Branch Manager<br/>R",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\n \nThere are nine persons P, Q, R, S, T, U, V, W and X\nworking in a Bank at different Designations viz.\nZonal Head, Regional Head, Cluster Head, Branch\nManager, Branch Operations Manager, Teller\nAuthorizer, \nTeller, \nCashier, \nWelcome \nDesk.\nConsider Zonal Head as the highest position and\nWelcome desk as the lowest position.\nThe number of persons senior to V is equal to\npersons junior to it. Q is working at the lowest\nposition in the bank. R is immediately senior to V.\nOnly two persons are having designations\nbetween R and U. P is neither Teller Authorizer\nnor Cashier. X is designated immediately next to\nU. Four persons are designated between X and S.\nX is senior to S. T is designated at higher position\nto W.\n \nHow many people are working at lower positions\nto P?",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/> <br/>There are nine persons P, Q, R, S, T, U, V, W and X<br/>working in a Bank at different Designations viz.<br/>Zonal Head, Regional Head, Cluster Head, Branch<br/>Manager, Branch Operations Manager, Teller<br/>Authorizer, <br/>Teller, <br/>Cashier, <br/>Welcome <br/>Desk.<br/>Consider Zonal Head as the highest position and<br/>Welcome desk as the lowest position.<br/>The number of persons senior to V is equal to<br/>persons junior to it. Q is working at the lowest<br/>position in the bank. R is immediately senior to V.<br/>Only two persons are having designations<br/>between R and U. P is neither Teller Authorizer<br/>nor Cashier. X is designated immediately next to<br/>U. Four persons are designated between X and S.<br/>X is senior to S. T is designated at higher position<br/>to W.<br/> <br/>How many people are working at lower positions<br/>to P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "The number of persons senior to V is equal to\npersons junior to it.\nQ is working at the lowest position in the\nbank.\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\n \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\n \nR is immediately senior to V\nOnly two persons are having designations\nbetween R and U, so there will be two cases. \nX is designated immediately next to U\n \nCase 1\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nU \nCashier\nX\nWelcome Desk\nQ\n \nCase-2\nZonal Head\nU \nRegional Head\nX \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\nFour persons are designated between X and S\nX is senior to S, therefore, Case-1 will get\neliminated.",
+    "explanationHtml": "The number of persons senior to V is equal to<br/>persons junior to it.<br/>Q is working at the lowest position in the<br/>bank.<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/> <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/> <br/>R is immediately senior to V<br/>Only two persons are having designations<br/>between R and U, so there will be two cases. <br/>X is designated immediately next to U<br/> <br/>Case 1<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>U <br/>Cashier<br/>X<br/>Welcome Desk<br/>Q<br/> <br/>Case-2<br/>Zonal Head<br/>U <br/>Regional Head<br/>X <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/>Four persons are designated between X and S<br/>X is senior to S, therefore, Case-1 will get<br/>eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\n \nThere are nine persons P, Q, R, S, T, U, V, W and X\nworking in a Bank at different Designations viz.\nZonal Head, Regional Head, Cluster Head, Branch\nManager, Branch Operations Manager, Teller",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/> <br/>There are nine persons P, Q, R, S, T, U, V, W and X<br/>working in a Bank at different Designations viz.<br/>Zonal Head, Regional Head, Cluster Head, Branch<br/>Manager, Branch Operations Manager, Teller",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "The number of persons senior to V is equal to\npersons junior to it.\nQ is working at the lowest position in the\nbank.\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\n \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\n \nR is immediately senior to V\nOnly two persons are having designations\nbetween R and U, so there will be two cases. \nX is designated immediately next to U\n \nCase 1\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nU \nCashier\nX\nWelcome Desk\nQ\n \nCase-2\nZonal Head\nU \nRegional Head\nX \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller",
+    "explanationHtml": "The number of persons senior to V is equal to<br/>persons junior to it.<br/>Q is working at the lowest position in the<br/>bank.<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/> <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/> <br/>R is immediately senior to V<br/>Only two persons are having designations<br/>between R and U, so there will be two cases. <br/>X is designated immediately next to U<br/> <br/>Case 1<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>U <br/>Cashier<br/>X<br/>Welcome Desk<br/>Q<br/> <br/>Case-2<br/>Zonal Head<br/>U <br/>Regional Head<br/>X <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\n \nThere are nine persons P, Q, R, S, T, U, V, W and X\nworking in a Bank at different Designations viz.\nZonal Head, Regional Head, Cluster Head, Branch\nManager, Branch Operations Manager, Teller\nAuthorizer, \nTeller, \nCashier, \nWelcome \nDesk.\nConsider Zonal Head as the highest position and\nWelcome desk as the lowest position.\nThe number of persons senior to V is equal to\npersons junior to it. Q is working at the lowest\nposition in the bank. R is immediately senior to V.\nOnly two persons are having designations\nbetween R and U. P is neither Teller Authorizer\nnor Cashier. X is designated immediately next to\nU. Four persons are designated between X and S.\nX is senior to S. T is designated at higher position\nto W.\n \nWho among the following is working at the\nsenior most position in the bank?",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/> <br/>There are nine persons P, Q, R, S, T, U, V, W and X<br/>working in a Bank at different Designations viz.<br/>Zonal Head, Regional Head, Cluster Head, Branch<br/>Manager, Branch Operations Manager, Teller<br/>Authorizer, <br/>Teller, <br/>Cashier, <br/>Welcome <br/>Desk.<br/>Consider Zonal Head as the highest position and<br/>Welcome desk as the lowest position.<br/>The number of persons senior to V is equal to<br/>persons junior to it. Q is working at the lowest<br/>position in the bank. R is immediately senior to V.<br/>Only two persons are having designations<br/>between R and U. P is neither Teller Authorizer<br/>nor Cashier. X is designated immediately next to<br/>U. Four persons are designated between X and S.<br/>X is senior to S. T is designated at higher position<br/>to W.<br/> <br/>Who among the following is working at the<br/>senior most position in the bank?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "The number of persons senior to V is equal to\npersons junior to it.\nQ is working at the lowest position in the\nbank.\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\n \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\n \nCashier\n \nWelcome Desk\nQ\n \nR is immediately senior to V\nOnly two persons are having designations\nbetween R and U, so there will be two cases. \nX is designated immediately next to U\n \nCase 1\nZonal Head\n \nRegional Head\n \nCluster Head\n \nBranch Manager\nR \nBranch Operations Manager V\nTeller Authorizer\n \nTeller\nU \nCashier\nX\nWelcome Desk\nQ\n \nCase-2\nZonal Head\nU \nRegional Head\nX \nCluster Head",
+    "explanationHtml": "The number of persons senior to V is equal to<br/>persons junior to it.<br/>Q is working at the lowest position in the<br/>bank.<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/> <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/> <br/>Cashier<br/> <br/>Welcome Desk<br/>Q<br/> <br/>R is immediately senior to V<br/>Only two persons are having designations<br/>between R and U, so there will be two cases. <br/>X is designated immediately next to U<br/> <br/>Case 1<br/>Zonal Head<br/> <br/>Regional Head<br/> <br/>Cluster Head<br/> <br/>Branch Manager<br/>R <br/>Branch Operations Manager V<br/>Teller Authorizer<br/> <br/>Teller<br/>U <br/>Cashier<br/>X<br/>Welcome Desk<br/>Q<br/> <br/>Case-2<br/>Zonal Head<br/>U <br/>Regional Head<br/>X <br/>Cluster Head",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "designation",
+      "based",
+      "puzzles"
+    ],
+    "sourcePages": [
+      5
+    ]
+  }
+]

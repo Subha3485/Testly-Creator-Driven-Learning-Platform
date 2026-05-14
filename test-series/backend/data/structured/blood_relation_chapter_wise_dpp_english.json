@@ -1,0 +1,298 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nR@S means R is married to S\nR#S means R is parent of S\nR&S means R is sibling of S and both are of same\ngender\nR$S means R is sibling of S and both are of\ndifferent gender\nR+ means R is male R* means R is female\nIf Q@U*#G$V, E@V+#Y&Z, U#J#W, J+@D#M is\ntrue and W is only niece of G then, how many\nmale members are in the family?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>R@S means R is married to S<br/>R#S means R is parent of S<br/>R&S means R is sibling of S and both are of same<br/>gender<br/>R$S means R is sibling of S and both are of<br/>different gender<br/>R+ means R is male R* means R is female<br/>If Q@U*#G$V, E@V+#Y&Z, U#J#W, J+@D#M is<br/>true and W is only niece of G then, how many<br/>male members are in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Seven",
+        "html": "Seven"
+      },
+      {
+        "id": "E",
+        "text": "Six",
+        "html": "Six"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Q2\nText Solution:\nMale +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "explanationHtml": "Q2<br/>Text Solution:<br/>Male +<br/>Female -<br/>Couple =<br/>Generation gap |<br/>Sibling —",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight persons and three generations in\na family. E is a sister-in-law of F, who is the father-\nin-law of G. A is the only son of B. D is a spouse\nof C. F does not have any brother or sister. H,\nwho is the mother of B, is a spouse of F. C is a\nmale member. B is a son-in-law of C.\n \nHow is B related to E?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight persons and three generations in<br/>a family. E is a sister-in-law of F, who is the father-<br/>in-law of G. A is the only son of B. D is a spouse<br/>of C. F does not have any brother or sister. H,<br/>who is the mother of B, is a spouse of F. C is a<br/>male member. B is a son-in-law of C.<br/> <br/>How is B related to E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Niece",
+        "html": "Niece"
+      },
+      {
+        "id": "B",
+        "text": "Son",
+        "html": "Son"
+      },
+      {
+        "id": "C",
+        "text": "Daughter",
+        "html": "Daughter"
+      },
+      {
+        "id": "D",
+        "text": "Nephew",
+        "html": "Nephew"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight persons and three generations in\na family. E is a sister-in-law of F, who is the father-\nin-law of G. A is the only son of B. D is a spouse\nof C. F does not have any brother or sister. H,\nwho is the mother of B, is a spouse of F. C is a\nmale member. B is a son-in-law of C.\n \nHow many male members are in the family?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight persons and three generations in<br/>a family. E is a sister-in-law of F, who is the father-<br/>in-law of G. A is the only son of B. D is a spouse<br/>of C. F does not have any brother or sister. H,<br/>who is the mother of B, is a spouse of F. C is a<br/>male member. B is a son-in-law of C.<br/> <br/>How many male members are in the family?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "explanationHtml": "Male +<br/>Female -<br/>Couple =<br/>Generation gap |<br/>Sibling —",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight persons and three generations in\na family. E is a sister-in-law of F, who is the father-\nin-law of G. A is the only son of B. D is a spouse\nof C. F does not have any brother or sister. H,\nwho is the mother of B, is a spouse of F. C is a\nmale member. B is a son-in-law of C.\n \nWho among the following person is the paternal\ngrandfather of A?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight persons and three generations in<br/>a family. E is a sister-in-law of F, who is the father-<br/>in-law of G. A is the only son of B. D is a spouse<br/>of C. F does not have any brother or sister. H,<br/>who is the mother of B, is a spouse of F. C is a<br/>male member. B is a son-in-law of C.<br/> <br/>Who among the following person is the paternal<br/>grandfather of A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "explanationHtml": "Male +<br/>Female -<br/>Couple =<br/>Generation gap |<br/>Sibling —",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are nine members P, Q, R, S, T, U, V, W, and\nX in the family of three generations. There are\nonly three female members in the family. S is the\ngrandmother of X, who has no children. Q is the\ndaughter of P, whose husband/wife is alive. X is\nthe daughter of V. Both W and U are brothers\nand are the children of V. P is married to S. Each\nfemale has two sons and one daughter except\nthe third-generation female.\n \n \nBlood Relation\nLevel-1",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are nine members P, Q, R, S, T, U, V, W, and<br/>X in the family of three generations. There are<br/>only three female members in the family. S is the<br/>grandmother of X, who has no children. Q is the<br/>daughter of P, whose husband/wife is alive. X is<br/>the daughter of V. Both W and U are brothers<br/>and are the children of V. P is married to S. Each<br/>female has two sons and one daughter except<br/>the third-generation female.<br/> <br/> <br/>Blood Relation<br/>Level-1",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "explanationHtml": "Male +<br/>Female -<br/>Couple =<br/>Generation gap |<br/>Sibling —",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are nine members P, Q, R, S, T, U, V, W, and\nX in the family of three generations. There are\nonly three female members in the family. S is the\ngrandmother of X, who has no children. Q is the\ndaughter of P, whose husband/wife is alive. X is\nthe daughter of V. Both W and U are brothers\nand are the children of V. P is married to S. Each\nfemale has two sons and one daughter except\nthe third-generation female.\n \nWhat is the relation of V with respect to R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are nine members P, Q, R, S, T, U, V, W, and<br/>X in the family of three generations. There are<br/>only three female members in the family. S is the<br/>grandmother of X, who has no children. Q is the<br/>daughter of P, whose husband/wife is alive. X is<br/>the daughter of V. Both W and U are brothers<br/>and are the children of V. P is married to S. Each<br/>female has two sons and one daughter except<br/>the third-generation female.<br/> <br/>What is the relation of V with respect to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sister in law",
+        "html": "Sister in law"
+      },
+      {
+        "id": "B",
+        "text": "Brother",
+        "html": "Brother"
+      },
+      {
+        "id": "C",
+        "text": "Sister",
+        "html": "Sister"
+      },
+      {
+        "id": "D",
+        "text": "Brother in law",
+        "html": "Brother in law"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are nine members P, Q, R, S, T, U, V, W, and\nX in the family of three generations. There are\nonly three female members in the family. S is the\ngrandmother of X, who has no children. Q is the\ndaughter of P, whose husband/wife is alive. X is\nthe daughter of V. Both W and U are brothers\nand are the children of V. P is married to S. Each\nfemale has two sons and one daughter except\nthe third-generation female.\n \nWho among the following person is the nephew\nof T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are nine members P, Q, R, S, T, U, V, W, and<br/>X in the family of three generations. There are<br/>only three female members in the family. S is the<br/>grandmother of X, who has no children. Q is the<br/>daughter of P, whose husband/wife is alive. X is<br/>the daughter of V. Both W and U are brothers<br/>and are the children of V. P is married to S. Each<br/>female has two sons and one daughter except<br/>the third-generation female.<br/> <br/>Who among the following person is the nephew<br/>of T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "D",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      },
+      {
+        "id": "E",
+        "text": "Both B and C",
+        "html": "Both B and C"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Male +\nFemale -\nCouple =\nGeneration gap |\nSibling —",
+    "explanationHtml": "Male +<br/>Female -<br/>Couple =<br/>Generation gap |<br/>Sibling —",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "blood",
+      "relation"
+    ],
+    "sourcePages": [
+      2
+    ]
+  }
+]

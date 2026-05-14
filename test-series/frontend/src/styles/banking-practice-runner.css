@@ -303,13 +303,27 @@
 
 .banking-runner__stem,
 .banking-runner__optionText {
-  white-space: pre-line;
+  white-space: pre-wrap;
 }
 
 .banking-runner__stem {
   color: #172335;
   font-size: 18px;
   line-height: 1.75;
+  margin-bottom: 12px;
+}
+
+.banking-runner__questionImage {
+  margin: 12px 0;
+  text-align: center;
+}
+
+.banking-runner__questionImage img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #dbe4ee;
+  box-shadow: 0 2px 8px rgba(18, 32, 51, 0.06);
 }
 
 .banking-runner__options {
@@ -389,7 +403,7 @@
 .banking-runner__explanationBody {
   color: #5a6a84;
   line-height: 1.7;
-  white-space: pre-line;
+  white-space: pre-wrap;
 }
 
 .banking-runner__actions {

@@ -1,0 +1,1001 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Directions:Read the information carefully and\nanswer the questions given below.\n \nAt a reunion party, eight friends named P, Q, R, S,\nT, U, V and W sit together on a round table facing\nthe center. Interestingly, all eight friends are\npursuing bachelor’s degrees in different subjects\nnamely Mathematics, English, Business studies,\nPolity, Physics, Chemistry, Mythology and Hindi.\nThey are not necessarily seated in the mentioned\norder. R sits adjacent to S who is studying\nBusiness studies. Q is studying Polity and does\nnot sit adjacent to R or S. U is sitting fifth to the\nleft of P and is studying Physics. One who is\nstudying Chemistry sits immediate left to U. V\nsits opposite to P. Neither W nor T is immediate\nneighbor of V. One who is studying Hindi sits\nfifth to the left of V, who is learning Mythology. T\nis studying English and sits next to the one who is\nstudying Hindi.\n \nWhat does the person study who is sitting third\nto the left of R?",
+    "questionHtml": "Directions:Read the information carefully and<br/>answer the questions given below.<br/> <br/>At a reunion party, eight friends named P, Q, R, S,<br/>T, U, V and W sit together on a round table facing<br/>the center. Interestingly, all eight friends are<br/>pursuing bachelor’s degrees in different subjects<br/>namely Mathematics, English, Business studies,<br/>Polity, Physics, Chemistry, Mythology and Hindi.<br/>They are not necessarily seated in the mentioned<br/>order. R sits adjacent to S who is studying<br/>Business studies. Q is studying Polity and does<br/>not sit adjacent to R or S. U is sitting fifth to the<br/>left of P and is studying Physics. One who is<br/>studying Chemistry sits immediate left to U. V<br/>sits opposite to P. Neither W nor T is immediate<br/>neighbor of V. One who is studying Hindi sits<br/>fifth to the left of V, who is learning Mythology. T<br/>is studying English and sits next to the one who is<br/>studying Hindi.<br/> <br/>What does the person study who is sitting third<br/>to the left of R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mathematics",
+        "html": "Mathematics"
+      },
+      {
+        "id": "B",
+        "text": "Physics",
+        "html": "Physics"
+      },
+      {
+        "id": "C",
+        "text": "Mythology",
+        "html": "Mythology"
+      },
+      {
+        "id": "D",
+        "text": "Polity",
+        "html": "Polity"
+      },
+      {
+        "id": "E",
+        "text": "Hindi",
+        "html": "Hindi"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1. U is sitting fifth to the left of P and is studying\nPhysics.\n2. V sits opposite to P.\n3. One who is studying Chemistry sits immediate\nleft to U.\n4. One who is studying Hindi sits fifth to the left\nof V, who is learning Mythology.\n5. T is studying English and sits next to the one\nwho is studying Hindi.\n6. R sits adjacent to S who is studying Business\nstudies.\n7. Q is studying Polity and does not sit adjacent\nto R or S. \n8. Neither W nor T is immediate neighbor of V. \nThus, V is sitting third to the left of R and studies\nMythology. Hence, the correct option is (C).",
+    "explanationHtml": "1. U is sitting fifth to the left of P and is studying<br/>Physics.<br/>2. V sits opposite to P.<br/>3. One who is studying Chemistry sits immediate<br/>left to U.<br/>4. One who is studying Hindi sits fifth to the left<br/>of V, who is learning Mythology.<br/>5. T is studying English and sits next to the one<br/>who is studying Hindi.<br/>6. R sits adjacent to S who is studying Business<br/>studies.<br/>7. Q is studying Polity and does not sit adjacent<br/>to R or S. <br/>8. Neither W nor T is immediate neighbor of V. <br/>Thus, V is sitting third to the left of R and studies<br/>Mythology. Hence, the correct option is (C).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Directions:Read the information carefully and\nanswer the questions given below.\n \nAt a reunion party, eight friends named P, Q, R, S,\nT, U, V and W sit together on a round table facing\nthe center. Interestingly, all eight friends are\npursuing bachelor’s degrees in different subjects\nnamely Mathematics, English, Business studies,\nPolity, Physics, Chemistry, Mythology and Hindi.\nThey are not necessarily seated in the mentioned\norder. R sits adjacent to S who is studying\nBusiness studies. Q is studying Polity and does\nnot sit adjacent to R or S. U is sitting fifth to the\nleft of P and is studying Physics. One who is\nstudying Chemistry sits immediate left to U. V\nsits opposite to P. Neither W nor T is immediate\nneighbor of V. One who is studying Hindi sits\nfifth to the left of V, who is learning Mythology. T\nis studying English and sits next to the one who is\nstudying Hindi.\n \nWhich subject is P studying?",
+    "questionHtml": "Directions:Read the information carefully and<br/>answer the questions given below.<br/> <br/>At a reunion party, eight friends named P, Q, R, S,<br/>T, U, V and W sit together on a round table facing<br/>the center. Interestingly, all eight friends are<br/>pursuing bachelor’s degrees in different subjects<br/>namely Mathematics, English, Business studies,<br/>Polity, Physics, Chemistry, Mythology and Hindi.<br/>They are not necessarily seated in the mentioned<br/>order. R sits adjacent to S who is studying<br/>Business studies. Q is studying Polity and does<br/>not sit adjacent to R or S. U is sitting fifth to the<br/>left of P and is studying Physics. One who is<br/>studying Chemistry sits immediate left to U. V<br/>sits opposite to P. Neither W nor T is immediate<br/>neighbor of V. One who is studying Hindi sits<br/>fifth to the left of V, who is learning Mythology. T<br/>is studying English and sits next to the one who is<br/>studying Hindi.<br/> <br/>Which subject is P studying?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mythology",
+        "html": "Mythology"
+      },
+      {
+        "id": "B",
+        "text": "English",
+        "html": "English"
+      },
+      {
+        "id": "C",
+        "text": "Chemistry",
+        "html": "Chemistry"
+      },
+      {
+        "id": "D",
+        "text": "Polity",
+        "html": "Polity"
+      },
+      {
+        "id": "E",
+        "text": "Mathematics",
+        "html": "Mathematics"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1. U is sitting fifth to the left of P and is studying\nPhysics.\n2. V sits opposite to P.\n3. One who is studying Chemistry sits immediate\nleft to U.\n4. One who is studying Hindi sits fifth to the left\nof V, who is learning Mythology.\n5. T is studying English and sits next to the one\nwho is studying Hindi.\n6. R sits adjacent to S who is studying Business\nstudies.\n7. Q is studying Polity and does not sit adjacent\nto R or S. \n8. Neither W nor T is immediate neighbor of V. \nThus, P is studying Mathematics.\nHence, the correct option is (E).",
+    "explanationHtml": "1. U is sitting fifth to the left of P and is studying<br/>Physics.<br/>2. V sits opposite to P.<br/>3. One who is studying Chemistry sits immediate<br/>left to U.<br/>4. One who is studying Hindi sits fifth to the left<br/>of V, who is learning Mythology.<br/>5. T is studying English and sits next to the one<br/>who is studying Hindi.<br/>6. R sits adjacent to S who is studying Business<br/>studies.<br/>7. Q is studying Polity and does not sit adjacent<br/>to R or S. <br/>8. Neither W nor T is immediate neighbor of V. <br/>Thus, P is studying Mathematics.<br/>Hence, the correct option is (E).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Directions:Read the information carefully and\nanswer the questions given below.\n \nAt a reunion party, eight friends named P, Q, R, S,\nT, U, V and W sit together on a round table facing\nthe center. Interestingly, all eight friends are\npursuing bachelor’s degrees in different subjects\nnamely Mathematics, English, Business studies,\nPolity, Physics, Chemistry, Mythology and Hindi.\nThey are not necessarily seated in the mentioned\norder. R sits adjacent to S who is studying\nBusiness studies. Q is studying Polity and does\nnot sit adjacent to R or S. U is sitting fifth to the\nleft of P and is studying Physics. One who is\nstudying Chemistry sits immediate left to U. V\nsits opposite to P. Neither W nor T is immediate\nneighbor of V. One who is studying Hindi sits\nfifth to the left of V, who is learning Mythology. T\nis studying English and sits next to the one who is\nstudying Hindi.\n \n \nCircular Arrangements\nLevel-1",
+    "questionHtml": "Directions:Read the information carefully and<br/>answer the questions given below.<br/> <br/>At a reunion party, eight friends named P, Q, R, S,<br/>T, U, V and W sit together on a round table facing<br/>the center. Interestingly, all eight friends are<br/>pursuing bachelor’s degrees in different subjects<br/>namely Mathematics, English, Business studies,<br/>Polity, Physics, Chemistry, Mythology and Hindi.<br/>They are not necessarily seated in the mentioned<br/>order. R sits adjacent to S who is studying<br/>Business studies. Q is studying Polity and does<br/>not sit adjacent to R or S. U is sitting fifth to the<br/>left of P and is studying Physics. One who is<br/>studying Chemistry sits immediate left to U. V<br/>sits opposite to P. Neither W nor T is immediate<br/>neighbor of V. One who is studying Hindi sits<br/>fifth to the left of V, who is learning Mythology. T<br/>is studying English and sits next to the one who is<br/>studying Hindi.<br/> <br/> <br/>Circular Arrangements<br/>Level-1",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "1. U is sitting fifth to the left of P and is studying\nPhysics.\n2. V sits opposite to P.\n3. One who is studying Chemistry sits immediate\nleft to U.\n4. One who is studying Hindi sits fifth to the left\nof V, who is learning Mythology.\n5. T is studying English and sits next to the one\nwho is studying Hindi.\n6. R sits adjacent to S who is studying Business\nstudies.\n7. Q is studying Polity and does not sit adjacent\nto R or S. \n8. Neither W nor T is immediate neighbor of V. \nThus, S is sitting diagonally opposite to Q.\nHence, the correct option is A",
+    "explanationHtml": "1. U is sitting fifth to the left of P and is studying<br/>Physics.<br/>2. V sits opposite to P.<br/>3. One who is studying Chemistry sits immediate<br/>left to U.<br/>4. One who is studying Hindi sits fifth to the left<br/>of V, who is learning Mythology.<br/>5. T is studying English and sits next to the one<br/>who is studying Hindi.<br/>6. R sits adjacent to S who is studying Business<br/>studies.<br/>7. Q is studying Polity and does not sit adjacent<br/>to R or S. <br/>8. Neither W nor T is immediate neighbor of V. <br/>Thus, S is sitting diagonally opposite to Q.<br/>Hence, the correct option is A",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Directions:Read the information carefully and\nanswer the questions given below.\n \nAt a reunion party, eight friends named P, Q, R, S,\nT, U, V and W sit together on a round table facing\nthe center. Interestingly, all eight friends are\npursuing bachelor’s degrees in different subjects\nnamely Mathematics, English, Business studies,\nPolity, Physics, Chemistry, Mythology and Hindi.\nThey are not necessarily seated in the mentioned\norder. R sits adjacent to S who is studying\nBusiness studies. Q is studying Polity and does\nnot sit adjacent to R or S. U is sitting fifth to the\nleft of P and is studying Physics. One who is\nstudying Chemistry sits immediate left to U. V\nsits opposite to P. Neither W nor T is immediate\nneighbor of V. One who is studying Hindi sits\nfifth to the left of V, who is learning Mythology. T\nis studying English and sits next to the one who is\nstudying Hindi.\n \nWho is studying Chemistry?",
+    "questionHtml": "Directions:Read the information carefully and<br/>answer the questions given below.<br/> <br/>At a reunion party, eight friends named P, Q, R, S,<br/>T, U, V and W sit together on a round table facing<br/>the center. Interestingly, all eight friends are<br/>pursuing bachelor’s degrees in different subjects<br/>namely Mathematics, English, Business studies,<br/>Polity, Physics, Chemistry, Mythology and Hindi.<br/>They are not necessarily seated in the mentioned<br/>order. R sits adjacent to S who is studying<br/>Business studies. Q is studying Polity and does<br/>not sit adjacent to R or S. U is sitting fifth to the<br/>left of P and is studying Physics. One who is<br/>studying Chemistry sits immediate left to U. V<br/>sits opposite to P. Neither W nor T is immediate<br/>neighbor of V. One who is studying Hindi sits<br/>fifth to the left of V, who is learning Mythology. T<br/>is studying English and sits next to the one who is<br/>studying Hindi.<br/> <br/>Who is studying Chemistry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "1. U is sitting fifth to the left of P and is studying\nPhysics.\n2. V sits opposite to P.",
+    "explanationHtml": "1. U is sitting fifth to the left of P and is studying<br/>Physics.<br/>2. V sits opposite to P.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Directions:Read the information carefully and\nanswer the questions given below.\n \nAt a reunion party, eight friends named P, Q, R, S,\nT, U, V and W sit together on a round table facing\nthe center. Interestingly, all eight friends are\npursuing bachelor’s degrees in different subjects\nnamely Mathematics, English, Business studies,\nPolity, Physics, Chemistry, Mythology and Hindi.\nThey are not necessarily seated in the mentioned\norder. R sits adjacent to S who is studying\nBusiness studies. Q is studying Polity and does\nnot sit adjacent to R or S. U is sitting fifth to the\nleft of P and is studying Physics. One who is\nstudying Chemistry sits immediate left to U. V\nsits opposite to P. Neither W nor T is immediate\nneighbor of V. One who is studying Hindi sits\nfifth to the left of V, who is learning Mythology. T\nis studying English and sits next to the one who is\nstudying Hindi.\n \nWho sits between P and T?",
+    "questionHtml": "Directions:Read the information carefully and<br/>answer the questions given below.<br/> <br/>At a reunion party, eight friends named P, Q, R, S,<br/>T, U, V and W sit together on a round table facing<br/>the center. Interestingly, all eight friends are<br/>pursuing bachelor’s degrees in different subjects<br/>namely Mathematics, English, Business studies,<br/>Polity, Physics, Chemistry, Mythology and Hindi.<br/>They are not necessarily seated in the mentioned<br/>order. R sits adjacent to S who is studying<br/>Business studies. Q is studying Polity and does<br/>not sit adjacent to R or S. U is sitting fifth to the<br/>left of P and is studying Physics. One who is<br/>studying Chemistry sits immediate left to U. V<br/>sits opposite to P. Neither W nor T is immediate<br/>neighbor of V. One who is studying Hindi sits<br/>fifth to the left of V, who is learning Mythology. T<br/>is studying English and sits next to the one who is<br/>studying Hindi.<br/> <br/>Who sits between P and T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. U is sitting fifth to the left of P and is studying\nPhysics.\n2. V sits opposite to P.\n3. One who is studying Chemistry sits immediate\nleft to U.\n4. One who is studying Hindi sits fifth to the left\nof V, who is learning Mythology.\n5. T is studying English and sits next to the one\nwho is studying Hindi.\n6. R sits adjacent to S who is studying Business\nstudies.\n7. Q is studying Polity and does not sit adjacent\nto R or S. \n8. Neither W nor T is immediate neighbor of V. \nThus, W sits between P and T. Hence, the correct\noption is (B).",
+    "explanationHtml": "1. U is sitting fifth to the left of P and is studying<br/>Physics.<br/>2. V sits opposite to P.<br/>3. One who is studying Chemistry sits immediate<br/>left to U.<br/>4. One who is studying Hindi sits fifth to the left<br/>of V, who is learning Mythology.<br/>5. T is studying English and sits next to the one<br/>who is studying Hindi.<br/>6. R sits adjacent to S who is studying Business<br/>studies.<br/>7. Q is studying Polity and does not sit adjacent<br/>to R or S. <br/>8. Neither W nor T is immediate neighbor of V. <br/>Thus, W sits between P and T. Hence, the correct<br/>option is (B).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nSeven persons i.e. Z, Y, X, W, V, U and T of\ndifferent ages i.e. 6, 15, 19, 23, 30, 45, 60 years\nare sitting in a circular table facing towards the\ncenter. Note- No two consecutive letters are in\nalphabetical order. Person’s age must not be a\nfactor or a multiple of the sum of the ages of\ntheir immediate neighbors. X sits immediate to\nthe right of the person whose age is 15. One\nperson sits between V and X . One person sits\nbetween Z and the person whose age is 6 . Age\nof V is twice the age of the person who sits 2nd\nto the right of V. Difference between the age of\nthe immediate neighbors of T is more than 14.\nAge of U must not be multiple of 10. Sum of the\nages of immediate neighbors of X is 34. Y is\nyounger than Z.\n \nWhat is the age of Z?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>Seven persons i.e. Z, Y, X, W, V, U and T of<br/>different ages i.e. 6, 15, 19, 23, 30, 45, 60 years<br/>are sitting in a circular table facing towards the<br/>center. Note- No two consecutive letters are in<br/>alphabetical order. Person’s age must not be a<br/>factor or a multiple of the sum of the ages of<br/>their immediate neighbors. X sits immediate to<br/>the right of the person whose age is 15. One<br/>person sits between V and X . One person sits<br/>between Z and the person whose age is 6 . Age<br/>of V is twice the age of the person who sits 2nd<br/>to the right of V. Difference between the age of<br/>the immediate neighbors of T is more than 14.<br/>Age of U must not be multiple of 10. Sum of the<br/>ages of immediate neighbors of X is 34. Y is<br/>younger than Z.<br/> <br/>What is the age of Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "B",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "C",
+        "text": "23",
+        "html": "23"
+      },
+      {
+        "id": "D",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "E",
+        "text": "19",
+        "html": "19"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "X sits immediate to the right of the person whose\nage is 15.\nOne person sits between V and X.\nSum of the ages of immediate neighbors of X is\n34.",
+    "explanationHtml": "X sits immediate to the right of the person whose<br/>age is 15.<br/>One person sits between V and X.<br/>Sum of the ages of immediate neighbors of X is<br/>34.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nSeven persons i.e. Z, Y, X, W, V, U and T of\ndifferent ages i.e. 6, 15, 19, 23, 30, 45, 60 years\nare sitting in a circular table facing towards the",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>Seven persons i.e. Z, Y, X, W, V, U and T of<br/>different ages i.e. 6, 15, 19, 23, 30, 45, 60 years<br/>are sitting in a circular table facing towards the",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "X sits immediate to the right of the person whose\nage is 15.\nOne person sits between V and X.",
+    "explanationHtml": "X sits immediate to the right of the person whose<br/>age is 15.<br/>One person sits between V and X.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nSeven persons i.e. Z, Y, X, W, V, U and T of\ndifferent ages i.e. 6, 15, 19, 23, 30, 45, 60 years\nare sitting in a circular table facing towards the\ncenter. Note- No two consecutive letters are in\nalphabetical order. Person’s age must not be a\nfactor or a multiple of the sum of the ages of\ntheir immediate neighbors. X sits immediate to\nthe right of the person whose age is 15. One\nperson sits between V and X . One person sits\nbetween Z and the person whose age is 6 . Age\nof V is twice the age of the person who sits 2nd\nto the right of V. Difference between the age of\nthe immediate neighbors of T is more than 14.\nAge of U must not be multiple of 10. Sum of the\nages of immediate neighbors of X is 34. Y is\nyounger than Z.\n \nWhich of the following is true?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>Seven persons i.e. Z, Y, X, W, V, U and T of<br/>different ages i.e. 6, 15, 19, 23, 30, 45, 60 years<br/>are sitting in a circular table facing towards the<br/>center. Note- No two consecutive letters are in<br/>alphabetical order. Person’s age must not be a<br/>factor or a multiple of the sum of the ages of<br/>their immediate neighbors. X sits immediate to<br/>the right of the person whose age is 15. One<br/>person sits between V and X . One person sits<br/>between Z and the person whose age is 6 . Age<br/>of V is twice the age of the person who sits 2nd<br/>to the right of V. Difference between the age of<br/>the immediate neighbors of T is more than 14.<br/>Age of U must not be multiple of 10. Sum of the<br/>ages of immediate neighbors of X is 34. Y is<br/>younger than Z.<br/> <br/>Which of the following is true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "W’s age is 60 years",
+        "html": "W’s age is 60 years"
+      },
+      {
+        "id": "B",
+        "text": "X is younger than Y",
+        "html": "X is younger than Y"
+      },
+      {
+        "id": "C",
+        "text": "U sits immediate right of Z",
+        "html": "U sits immediate right of Z"
+      },
+      {
+        "id": "D",
+        "text": "T’s age is 19",
+        "html": "T’s age is 19"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "X sits immediate to the right of the person whose\nage is 15.\nOne person sits between V and X.",
+    "explanationHtml": "X sits immediate to the right of the person whose<br/>age is 15.<br/>One person sits between V and X.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nSeven persons i.e. Z, Y, X, W, V, U and T of\ndifferent ages i.e. 6, 15, 19, 23, 30, 45, 60 years\nare sitting in a circular table facing towards the\ncenter. Note- No two consecutive letters are in\nalphabetical order. Person’s age must not be a\nfactor or a multiple of the sum of the ages of\ntheir immediate neighbors. X sits immediate to\nthe right of the person whose age is 15. One\nperson sits between V and X . One person sits\nbetween Z and the person whose age is 6 . Age\nof V is twice the age of the person who sits 2nd\nto the right of V. Difference between the age of\nthe immediate neighbors of T is more than 14.\nAge of U must not be multiple of 10. Sum of the\nages of immediate neighbors of X is 34. Y is\nyounger than Z.\n \nWho among the following is the youngest\nperson?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>Seven persons i.e. Z, Y, X, W, V, U and T of<br/>different ages i.e. 6, 15, 19, 23, 30, 45, 60 years<br/>are sitting in a circular table facing towards the<br/>center. Note- No two consecutive letters are in<br/>alphabetical order. Person’s age must not be a<br/>factor or a multiple of the sum of the ages of<br/>their immediate neighbors. X sits immediate to<br/>the right of the person whose age is 15. One<br/>person sits between V and X . One person sits<br/>between Z and the person whose age is 6 . Age<br/>of V is twice the age of the person who sits 2nd<br/>to the right of V. Difference between the age of<br/>the immediate neighbors of T is more than 14.<br/>Age of U must not be multiple of 10. Sum of the<br/>ages of immediate neighbors of X is 34. Y is<br/>younger than Z.<br/> <br/>Who among the following is the youngest<br/>person?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Z",
+        "html": "Z"
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "X sits immediate to the right of the person whose\nage is 15.\nOne person sits between V and X.\nSum of the ages of immediate neighbors of X is\n34.\nAge of V is twice the age of the person who sits\n2nd to the right of V.\n(Remaining ages are 6, 23, 30, 45 and 60, so use\n30 and 60. Person’s age must not be a factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.)\nCase 1 is eliminated because 15 is the factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.\nOne person sits between Z and the person\nwhose age is 6.(Person’s age must not be a factor\nor a multiple of the sum of the ages of their\nimmediate neighbors.)\nNo two consecutive letters are in alphabetical\norder.(Now Y is fixed.)\nAge of U must not be multiple of 10.\n(No two consecutive letters are in alphabetical\norder. U is not sit near to V)\nFixed remaining person uses of No two\nconsecutive letters are in alphabetical order.(W is\nnot sit near to X)",
+    "explanationHtml": "X sits immediate to the right of the person whose<br/>age is 15.<br/>One person sits between V and X.<br/>Sum of the ages of immediate neighbors of X is<br/>34.<br/>Age of V is twice the age of the person who sits<br/>2nd to the right of V.<br/>(Remaining ages are 6, 23, 30, 45 and 60, so use<br/>30 and 60. Person’s age must not be a factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>Case 1 is eliminated because 15 is the factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.<br/>One person sits between Z and the person<br/>whose age is 6.(Person’s age must not be a factor<br/>or a multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>No two consecutive letters are in alphabetical<br/>order.(Now Y is fixed.)<br/>Age of U must not be multiple of 10.<br/>(No two consecutive letters are in alphabetical<br/>order. U is not sit near to V)<br/>Fixed remaining person uses of No two<br/>consecutive letters are in alphabetical order.(W is<br/>not sit near to X)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nSeven persons i.e. Z, Y, X, W, V, U and T of\ndifferent ages i.e. 6, 15, 19, 23, 30, 45, 60 years\nare sitting in a circular table facing towards the\ncenter. Note- No two consecutive letters are in\nalphabetical order. Person’s age must not be a\nfactor or a multiple of the sum of the ages of\ntheir immediate neighbors. X sits immediate to\nthe right of the person whose age is 15. One\nperson sits between V and X . One person sits\nbetween Z and the person whose age is 6 . Age\nof V is twice the age of the person who sits 2nd",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>Seven persons i.e. Z, Y, X, W, V, U and T of<br/>different ages i.e. 6, 15, 19, 23, 30, 45, 60 years<br/>are sitting in a circular table facing towards the<br/>center. Note- No two consecutive letters are in<br/>alphabetical order. Person’s age must not be a<br/>factor or a multiple of the sum of the ages of<br/>their immediate neighbors. X sits immediate to<br/>the right of the person whose age is 15. One<br/>person sits between V and X . One person sits<br/>between Z and the person whose age is 6 . Age<br/>of V is twice the age of the person who sits 2nd",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "X sits immediate to the right of the person whose\nage is 15.\nOne person sits between V and X.\nSum of the ages of immediate neighbors of X is\n34.\nAge of V is twice the age of the person who sits\n2nd to the right of V.\n(Remaining ages are 6, 23, 30, 45 and 60, so use\n30 and 60. Person’s age must not be a factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.)\nCase 1 is eliminated because 15 is the factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.\nOne person sits between Z and the person\nwhose age is 6.(Person’s age must not be a factor\nor a multiple of the sum of the ages of their\nimmediate neighbors.)\nNo two consecutive letters are in alphabetical\norder.(Now Y is fixed.)\nAge of U must not be multiple of 10.\n(No two consecutive letters are in alphabetical",
+    "explanationHtml": "X sits immediate to the right of the person whose<br/>age is 15.<br/>One person sits between V and X.<br/>Sum of the ages of immediate neighbors of X is<br/>34.<br/>Age of V is twice the age of the person who sits<br/>2nd to the right of V.<br/>(Remaining ages are 6, 23, 30, 45 and 60, so use<br/>30 and 60. Person’s age must not be a factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>Case 1 is eliminated because 15 is the factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.<br/>One person sits between Z and the person<br/>whose age is 6.(Person’s age must not be a factor<br/>or a multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>No two consecutive letters are in alphabetical<br/>order.(Now Y is fixed.)<br/>Age of U must not be multiple of 10.<br/>(No two consecutive letters are in alphabetical",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. G and\nA are immediate neighbors of each other. There\nare three people sitting between A and F. C sits\nsecond to the left of F. The number of people\nsitting between G and C is the same number of\npeople sitting between C and E. B sits second to\nthe right of D, who does not sit near to F.\nFour of the following five are alike in a certain\nway and so form a group. Which one does not\nbelong to that group?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. G and<br/>A are immediate neighbors of each other. There<br/>are three people sitting between A and F. C sits<br/>second to the left of F. The number of people<br/>sitting between G and C is the same number of<br/>people sitting between C and E. B sits second to<br/>the right of D, who does not sit near to F.<br/>Four of the following five are alike in a certain<br/>way and so form a group. Which one does not<br/>belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E-H",
+        "html": "E-H"
+      },
+      {
+        "id": "B",
+        "text": "A-D",
+        "html": "A-D"
+      },
+      {
+        "id": "C",
+        "text": "B-F",
+        "html": "B-F"
+      },
+      {
+        "id": "D",
+        "text": "G-A",
+        "html": "G-A"
+      },
+      {
+        "id": "E",
+        "text": "H-F",
+        "html": "H-F"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "G and A are immediate neighbors of each other.\nThere are three people sitting between A and F.\nC sits second to the left of F.\nThe number of people sitting between G and C is\nthe same number of people sitting between C\nand E.\nB sits second to the right of D, who does not sit\nnear to F.\nCase 2: is eliminated.",
+    "explanationHtml": "G and A are immediate neighbors of each other.<br/>There are three people sitting between A and F.<br/>C sits second to the left of F.<br/>The number of people sitting between G and C is<br/>the same number of people sitting between C<br/>and E.<br/>B sits second to the right of D, who does not sit<br/>near to F.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. G and\nA are immediate neighbors of each other. There\nare three people sitting between A and F. C sits\nsecond to the left of F. The number of people\nsitting between G and C is the same number of\npeople sitting between C and E. B sits second to\nthe right of D, who does not sit near to F.\nHow many people are sitting between B and E?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. G and<br/>A are immediate neighbors of each other. There<br/>are three people sitting between A and F. C sits<br/>second to the left of F. The number of people<br/>sitting between G and C is the same number of<br/>people sitting between C and E. B sits second to<br/>the right of D, who does not sit near to F.<br/>How many people are sitting between B and E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. G and\nA are immediate neighbors of each other. There\nare three people sitting between A and F. C sits\nsecond to the left of F. The number of people\nsitting between G and C is the same number of\npeople sitting between C and E. B sits second to\nthe right of D, who does not sit near to F.\nHow many persons sit between D and H when\ncounted from right of D ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. G and<br/>A are immediate neighbors of each other. There<br/>are three people sitting between A and F. C sits<br/>second to the left of F. The number of people<br/>sitting between G and C is the same number of<br/>people sitting between C and E. B sits second to<br/>the right of D, who does not sit near to F.<br/>How many persons sit between D and H when<br/>counted from right of D ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "G and A are immediate neighbors of each other.\nThere are three people sitting between A and F.\nC sits second to the left of F.\nThe number of people sitting between G and C is\nthe same number of people sitting between C\nand E.",
+    "explanationHtml": "G and A are immediate neighbors of each other.<br/>There are three people sitting between A and F.<br/>C sits second to the left of F.<br/>The number of people sitting between G and C is<br/>the same number of people sitting between C<br/>and E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. G and\nA are immediate neighbors of each other. There\nare three people sitting between A and F. C sits\nsecond to the left of F. The number of people\nsitting between G and C is the same number of\npeople sitting between C and E. B sits second to\nthe right of D, who does not sit near to F.\nWhat is the position of B with respect to C?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. G and<br/>A are immediate neighbors of each other. There<br/>are three people sitting between A and F. C sits<br/>second to the left of F. The number of people<br/>sitting between G and C is the same number of<br/>people sitting between C and E. B sits second to<br/>the right of D, who does not sit near to F.<br/>What is the position of B with respect to C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second right",
+        "html": "Second right"
+      },
+      {
+        "id": "B",
+        "text": "Third left",
+        "html": "Third left"
+      },
+      {
+        "id": "C",
+        "text": "Second left",
+        "html": "Second left"
+      },
+      {
+        "id": "D",
+        "text": "Fourth right",
+        "html": "Fourth right"
+      },
+      {
+        "id": "E",
+        "text": "Immediate right",
+        "html": "Immediate right"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "G and A are immediate neighbors of each other.\nThere are three people sitting between A and F.\nC sits second to the left of F.\nThe number of people sitting between G and C is\nthe same number of people sitting between C\nand E.\nB sits second to the right of D, who does not sit\nnear to F.\nCase 2: is eliminated.",
+    "explanationHtml": "G and A are immediate neighbors of each other.<br/>There are three people sitting between A and F.<br/>C sits second to the left of F.<br/>The number of people sitting between G and C is<br/>the same number of people sitting between C<br/>and E.<br/>B sits second to the right of D, who does not sit<br/>near to F.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a circular table with equal distance",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a circular table with equal distance",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "G and A are immediate neighbors of each other.\nThere are three people sitting between A and F.",
+    "explanationHtml": "G and A are immediate neighbors of each other.<br/>There are three people sitting between A and F.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. V sits\nthird to the left of W. There is only one person\nsitting between V and Q. R sits third to the right\nof Q. S and R sit adjacent to each other. S does\nnot sits opposite to V. P is the immediate\nneighbor of T. There are two people sitting\nbetween P and U.\nAs many people sitting between R and T as many\nbetween W and _ ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people P, Q, R, S, T, U, V and W are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. V sits<br/>third to the left of W. There is only one person<br/>sitting between V and Q. R sits third to the right<br/>of Q. S and R sit adjacent to each other. S does<br/>not sits opposite to V. P is the immediate<br/>neighbor of T. There are two people sitting<br/>between P and U.<br/>As many people sitting between R and T as many<br/>between W and _ ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "U",
+        "html": "U"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "V sits third to the left of W.\nThere is only one person sitting between V and\nQ.\nR sits third to the right of Q.\nS and R sit adjacent to each other.\nS does not sit opposite to V.\nP is the immediate neighbor of T.",
+    "explanationHtml": "V sits third to the left of W.<br/>There is only one person sitting between V and<br/>Q.<br/>R sits third to the right of Q.<br/>S and R sit adjacent to each other.<br/>S does not sit opposite to V.<br/>P is the immediate neighbor of T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. V sits\nthird to the left of W. There is only one person\nsitting between V and Q. R sits third to the right\nof Q. S and R sit adjacent to each other. S does\nnot sits opposite to V. P is the immediate\nneighbor of T. There are two people sitting\nbetween P and U.\nHow many people sit between U and P ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people P, Q, R, S, T, U, V and W are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. V sits<br/>third to the left of W. There is only one person<br/>sitting between V and Q. R sits third to the right<br/>of Q. S and R sit adjacent to each other. S does<br/>not sits opposite to V. P is the immediate<br/>neighbor of T. There are two people sitting<br/>between P and U.<br/>How many people sit between U and P ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "D",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "E",
+        "text": "Either Two or Four",
+        "html": "Either Two or Four"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "V sits third to the left of W.\nThere is only one person sitting between V and\nQ.\nR sits third to the right of Q.\nS and R sit adjacent to each other.\nS does not sit opposite to V.\nP is the immediate neighbor of T.\nThere are two people sitting between P and U.",
+    "explanationHtml": "V sits third to the left of W.<br/>There is only one person sitting between V and<br/>Q.<br/>R sits third to the right of Q.<br/>S and R sit adjacent to each other.<br/>S does not sit opposite to V.<br/>P is the immediate neighbor of T.<br/>There are two people sitting between P and U.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. V sits\nthird to the left of W. There is only one person\nsitting between V and Q. R sits third to the right\nof Q. S and R sit adjacent to each other. S does\nnot sits opposite to V. P is the immediate\nneighbor of T. There are two people sitting\nbetween P and U.\nIf U related to T , Q related to P in the same way\nS related to ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people P, Q, R, S, T, U, V and W are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. V sits<br/>third to the left of W. There is only one person<br/>sitting between V and Q. R sits third to the right<br/>of Q. S and R sit adjacent to each other. S does<br/>not sits opposite to V. P is the immediate<br/>neighbor of T. There are two people sitting<br/>between P and U.<br/>If U related to T , Q related to P in the same way<br/>S related to ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "V sits third to the left of W.",
+    "explanationHtml": "V sits third to the left of W.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people P, Q, R, S, T, U, V and W are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing inside the circle. V sits\nthird to the left of W. There is only one person\nsitting between V and Q. R sits third to the right\nof Q. S and R sit adjacent to each other. S does\nnot sits opposite to V. P is the immediate\nneighbor of T. There are two people sitting\nbetween P and U.\nWho among the following sits opposite to V ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people P, Q, R, S, T, U, V and W are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing inside the circle. V sits<br/>third to the left of W. There is only one person<br/>sitting between V and Q. R sits third to the right<br/>of Q. S and R sit adjacent to each other. S does<br/>not sits opposite to V. P is the immediate<br/>neighbor of T. There are two people sitting<br/>between P and U.<br/>Who among the following sits opposite to V ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "D",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "E",
+        "text": "W",
+        "html": "W"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "V sits third to the left of W.\nThere is only one person sitting between V and\nQ.\nR sits third to the right of Q.",
+    "explanationHtml": "V sits third to the left of W.<br/>There is only one person sitting between V and<br/>Q.<br/>R sits third to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people Z, Y, X, W, V, U, T and S are sitting\naround a circular table with equal distance",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people Z, Y, X, W, V, U, T and S are sitting<br/>around a circular table with equal distance",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "W sits three places away from the T.\nX sits second to the left of W.\nThere are two people sitting between X and Z.\nZ sits opposite to U.\nThere are two people sitting between Y and V.\nBoth V and Y does not sit near to X.\nCase 2: is eliminated.",
+    "explanationHtml": "W sits three places away from the T.<br/>X sits second to the left of W.<br/>There are two people sitting between X and Z.<br/>Z sits opposite to U.<br/>There are two people sitting between Y and V.<br/>Both V and Y does not sit near to X.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people Z, Y, X, W, V, U, T and S are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing outside the circle. W\nsits three places away from the T. X sits second to\nthe left of W. There are two people sitting\nbetween X and Z. Z sits opposite to U. There are\ntwo people sitting between Y and V. Both V and\nY does not sit near to X.\nIf V sits opposite to T, then who sits third to the\nleft of U ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people Z, Y, X, W, V, U, T and S are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing outside the circle. W<br/>sits three places away from the T. X sits second to<br/>the left of W. There are two people sitting<br/>between X and Z. Z sits opposite to U. There are<br/>two people sitting between Y and V. Both V and<br/>Y does not sit near to X.<br/>If V sits opposite to T, then who sits third to the<br/>left of U ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "D",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "W sits three places away from the T.\nX sits second to the left of W.\nThere are two people sitting between X and Z.\nZ sits opposite to U.\nThere are two people sitting between Y and V.\nBoth V and Y does not sit near to X.\nCase 2: is eliminated.",
+    "explanationHtml": "W sits three places away from the T.<br/>X sits second to the left of W.<br/>There are two people sitting between X and Z.<br/>Z sits opposite to U.<br/>There are two people sitting between Y and V.<br/>Both V and Y does not sit near to X.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people Z, Y, X, W, V, U, T and S are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing outside the circle. W\nsits three places away from the T. X sits second to\nthe left of W. There are two people sitting\nbetween X and Z. Z sits opposite to U. There are\ntwo people sitting between Y and V. Both V and\nY does not sit near to X.\nWhat is the position of V with respect to S?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people Z, Y, X, W, V, U, T and S are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing outside the circle. W<br/>sits three places away from the T. X sits second to<br/>the left of W. There are two people sitting<br/>between X and Z. Z sits opposite to U. There are<br/>two people sitting between Y and V. Both V and<br/>Y does not sit near to X.<br/>What is the position of V with respect to S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediate left",
+        "html": "Immediate left"
+      },
+      {
+        "id": "B",
+        "text": "Third left",
+        "html": "Third left"
+      },
+      {
+        "id": "C",
+        "text": "Second right",
+        "html": "Second right"
+      },
+      {
+        "id": "D",
+        "text": "Either (A) or (C) option",
+        "html": "Either (A) or (C) option"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "W sits three places away from the T.\nX sits second to the left of W.\nThere are two people sitting between X and Z.\nZ sits opposite to U.",
+    "explanationHtml": "W sits three places away from the T.<br/>X sits second to the left of W.<br/>There are two people sitting between X and Z.<br/>Z sits opposite to U.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people Z, Y, X, W, V, U, T and S are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing outside the circle. W\nsits three places away from the T. X sits second to\nthe left of W. There are two people sitting\nbetween X and Z. Z sits opposite to U. There are\ntwo people sitting between Y and V. Both V and\nY does not sit near to X.\nWhich of the following statements is true?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people Z, Y, X, W, V, U, T and S are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing outside the circle. W<br/>sits three places away from the T. X sits second to<br/>the left of W. There are two people sitting<br/>between X and Z. Z sits opposite to U. There are<br/>two people sitting between Y and V. Both V and<br/>Y does not sit near to X.<br/>Which of the following statements is true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V sits just right of Z",
+        "html": "V sits just right of Z"
+      },
+      {
+        "id": "B",
+        "text": "Two people sit between X and W",
+        "html": "Two people sit between X and W"
+      },
+      {
+        "id": "C",
+        "text": "S sits opposite to X",
+        "html": "S sits opposite to X"
+      },
+      {
+        "id": "D",
+        "text": "Y sits second to the right of U",
+        "html": "Y sits second to the right of U"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "W sits three places away from the T.\nX sits second to the left of W.\nThere are two people sitting between X and Z.\nZ sits opposite to U.\nThere are two people sitting between Y and V.\nBoth V and Y does not sit near to X.\nCase 2: is eliminated.",
+    "explanationHtml": "W sits three places away from the T.<br/>X sits second to the left of W.<br/>There are two people sitting between X and Z.<br/>Z sits opposite to U.<br/>There are two people sitting between Y and V.<br/>Both V and Y does not sit near to X.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "Level-1",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people Z, Y, X, W, V, U, T and S are sitting\naround a circular table with equal distance\nbetween each other but not necessarily in the\nsame order. All are facing outside the circle. W\nsits three places away from the T. X sits second to\nthe left of W. There are two people sitting\nbetween X and Z. Z sits opposite to U. There are\ntwo people sitting between Y and V. Both V and\nY does not sit near to X.\nWho sits third to the right of Z ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people Z, Y, X, W, V, U, T and S are sitting<br/>around a circular table with equal distance<br/>between each other but not necessarily in the<br/>same order. All are facing outside the circle. W<br/>sits three places away from the T. X sits second to<br/>the left of W. There are two people sitting<br/>between X and Z. Z sits opposite to U. There are<br/>two people sitting between Y and V. Both V and<br/>Y does not sit near to X.<br/>Who sits third to the right of Z ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "C",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "D",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "W sits three places away from the T.",
+    "explanationHtml": "W sits three places away from the T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "34",
+    "level": "Level-1",
+    "question": "Age of V is twice the age of the person who sits\n2nd to the right of V.\n(Remaining ages are 6, 23, 30, 45 and 60, so use\n30 and 60. Person’s age must not be a factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.)\nCase 1 is eliminated because 15 is the factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.\nOne person sits between Z and the person\nwhose age is 6.(Person’s age must not be a factor\nor a multiple of the sum of the ages of their\nimmediate neighbors.)\nNo two consecutive letters are in alphabetical\norder.(Now Y is fixed.)\nAge of U must not be multiple of 10.\n(No two consecutive letters are in alphabetical\norder. U is not sit near to V)\nFixed remaining person uses of No two\nconsecutive letters are in alphabetical order.(W is\nnot sit near to X)\nPerson’s age must not be a factor or a multiple of\nthe sum of the ages of their immediate\nneighbors. 45 is not fixed in case 3 so it is\neliminated.\nDifference between the age of the immediate\nneighbors of T is more than 14.\nY is younger than Z.",
+    "questionHtml": "Age of V is twice the age of the person who sits<br/>2nd to the right of V.<br/>(Remaining ages are 6, 23, 30, 45 and 60, so use<br/>30 and 60. Person’s age must not be a factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>Case 1 is eliminated because 15 is the factor or a<br/>multiple of the sum of the ages of their<br/>immediate neighbors.<br/>One person sits between Z and the person<br/>whose age is 6.(Person’s age must not be a factor<br/>or a multiple of the sum of the ages of their<br/>immediate neighbors.)<br/>No two consecutive letters are in alphabetical<br/>order.(Now Y is fixed.)<br/>Age of U must not be multiple of 10.<br/>(No two consecutive letters are in alphabetical<br/>order. U is not sit near to V)<br/>Fixed remaining person uses of No two<br/>consecutive letters are in alphabetical order.(W is<br/>not sit near to X)<br/>Person’s age must not be a factor or a multiple of<br/>the sum of the ages of their immediate<br/>neighbors. 45 is not fixed in case 3 so it is<br/>eliminated.<br/>Difference between the age of the immediate<br/>neighbors of T is more than 14.<br/>Y is younger than Z.",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "output/images/circular_arrangements_chapter_wise_dpp_english/circular_arrangements_chapter_wise_dpp_english_p012_img01.png",
+    "image": {
+      "url": "output/images/circular_arrangements_chapter_wise_dpp_english/circular_arrangements_chapter_wise_dpp_english_p012_img01.png",
+      "key": "output/images/circular_arrangements_chapter_wise_dpp_english/circular_arrangements_chapter_wise_dpp_english_p012_img01.png",
+      "sourceType": "local",
+      "alt": "Age of V is twice the age of the person who sits\n2nd to the right of V.\n(Remaining ages are 6, 23, 30, 45 and 60, so use\n30 and 60. Person’s age must not be a factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.)\nCase 1 is eliminated because 15 is the factor or a\nmultiple of the sum of the ages of their\nimmediate neighbors.\nOne person sits between Z and the person\nwhose age is 6.(Person’s age must not be a factor\nor a multiple of the sum of the ages of their\nimmediate neighbors.)\nNo two consecutive letters are in alphabetical\norder.(Now Y is fixed.)\nAge of U must not be multiple of 10.\n(No two consecutive letters are in alphabetical\norder. U is not sit near to V)\nFixed remaining person uses of No two\nconsecutive letters are in alphabetical order.(W is\nnot sit near to X)\nPerson’s age must not be a factor or a multiple of\nthe sum of the ages of their immediate\nneighbors. 45 is not fixed in case 3 so it is\neliminated.\nDifference between the age of the immediate\nneighbors of T is more than 14.\nY is younger than Z."
+    },
+    "tags": [
+      "circular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      12
+    ]
+  }
+]

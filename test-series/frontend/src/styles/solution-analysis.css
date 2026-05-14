@@ -256,6 +256,7 @@
 .analysis-question__title {
   margin: 6px 0 0;
   font-size: 22px;
+  white-space: pre-wrap;
 }
 
 .analysis-question__meta {
@@ -288,6 +289,7 @@
   gap: 10px;
   align-items: flex-start;
   margin-bottom: 10px;
+  white-space: pre-wrap;
 }
 
 .analysis-option.correct {
@@ -310,6 +312,7 @@
 .analysis-explanation {
   border-top: 1px solid #e5ebf3;
   padding-top: 12px;
+  white-space: pre-wrap;
 }
 
 .analysis-empty {

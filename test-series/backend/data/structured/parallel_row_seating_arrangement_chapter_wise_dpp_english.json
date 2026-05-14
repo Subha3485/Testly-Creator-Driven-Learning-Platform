@@ -1,0 +1,850 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face each\nother. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O. One\nperson sits between O and Q, who sits at one of\nthe extreme ends. F does not sit at any extreme\nend. M sits to the immediate right of N, who sits\nfifth left to the Q. R sits opposite I, who is not\nadjacent to F. I sits immediately right to the H. J\nsits second to the right of E but not opposite to P.\nHow many students sit between M and Q in the\nsame row?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face each<br/>other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O. One<br/>person sits between O and Q, who sits at one of<br/>the extreme ends. F does not sit at any extreme<br/>end. M sits to the immediate right of N, who sits<br/>fifth left to the Q. R sits opposite I, who is not<br/>adjacent to F. I sits immediately right to the H. J<br/>sits second to the right of E but not opposite to P.<br/>How many students sit between M and Q in the<br/>same row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "E",
+        "text": "Two",
+        "html": "Two"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One student sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat three students sit between M and Q in the\nsame row.\nThus, the correct answer is option A.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One student sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that three students sit between M and Q in the<br/>same row.<br/>Thus, the correct answer is option A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face each\nother. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O. One\nperson sits between O and Q, who sits at one of\nthe extreme ends. F does not sit at any extreme\nend. M sits to the immediate right of N, who sits\nfifth left to the Q. R sits opposite I, who is not\nadjacent to F. I sits immediately right to the H. J\nsits second to the right of E but not opposite to P.\nWho sits opposite Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face each<br/>other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O. One<br/>person sits between O and Q, who sits at one of<br/>the extreme ends. F does not sit at any extreme<br/>end. M sits to the immediate right of N, who sits<br/>fifth left to the Q. R sits opposite I, who is not<br/>adjacent to F. I sits immediately right to the H. J<br/>sits second to the right of E but not opposite to P.<br/>Who sits opposite Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I",
+        "html": "I"
+      },
+      {
+        "id": "B",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face each\nother. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O. One\nperson sits between O and Q, who sits at one of\nthe extreme ends. F does not sit at any extreme\nend. M sits to the immediate right of N, who sits\nfifth left to the Q. R sits opposite I, who is not\nadjacent to F. I sits immediately right to the H. J\nsits second to the right of E but not opposite to P.\nWho sits second to the left of O?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face each<br/>other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O. One<br/>person sits between O and Q, who sits at one of<br/>the extreme ends. F does not sit at any extreme<br/>end. M sits to the immediate right of N, who sits<br/>fifth left to the Q. R sits opposite I, who is not<br/>adjacent to F. I sits immediately right to the H. J<br/>sits second to the right of E but not opposite to P.<br/>Who sits second to the left of O?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face each\nother. Students of row 1 face south while\nstudents of row 2 face north.\n \nParallel Row Seating Arrangement",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face each<br/>other. Students of row 1 face south while<br/>students of row 2 face north.<br/> <br/>Parallel Row Seating Arrangement",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One student sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat O sits to the immediate left of R.\nThus, the correct answer is option E.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One student sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that O sits to the immediate left of R.<br/>Thus, the correct answer is option E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face each\nother. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O. One\nperson sits between O and Q, who sits at one of\nthe extreme ends. F does not sit at any extreme\nend. M sits to the immediate right of N, who sits\nfifth left to the Q. R sits opposite I, who is not\nadjacent to F. I sits immediately right to the H. J\nsits second to the right of E but not opposite to P.\nWho sits to the immediate right of I?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face each<br/>other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O. One<br/>person sits between O and Q, who sits at one of<br/>the extreme ends. F does not sit at any extreme<br/>end. M sits to the immediate right of N, who sits<br/>fifth left to the Q. R sits opposite I, who is not<br/>adjacent to F. I sits immediately right to the H. J<br/>sits second to the right of E but not opposite to P.<br/>Who sits to the immediate right of I?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\n \nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S and\nT are seated and all face towards the north.\nPeople seated in row-1 face people seated in row-",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/> <br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S and<br/>T are seated and all face towards the north.<br/>People seated in row-1 face people seated in row-",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "S sits in the middle of the row.\nThe immediate neighbor of S faces E.\nE sits three places away from B.\nT sits diagonally opposite to B.\nA faces P.\nC and Q does not sit on any of the extreme ends\nof the row.\nD sits right of B.\nCase 2: is eliminated.",
+    "explanationHtml": "S sits in the middle of the row.<br/>The immediate neighbor of S faces E.<br/>E sits three places away from B.<br/>T sits diagonally opposite to B.<br/>A faces P.<br/>C and Q does not sit on any of the extreme ends<br/>of the row.<br/>D sits right of B.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "S sits in the middle of the row. The immediate\nneighbor of S faces E. E sits three places away\nfrom B. T sits diagonally opposite to B. A faces P.\nC and Q does not sit on any of the extreme ends\nof the row. D sits right of B.\n \nFour of the following five are alike in a certain\nway based on their positions in the above\narrangement and so form a group. Which of the\nfollowing does not belong to the group ?",
+    "questionHtml": "S sits in the middle of the row. The immediate<br/>neighbor of S faces E. E sits three places away<br/>from B. T sits diagonally opposite to B. A faces P.<br/>C and Q does not sit on any of the extreme ends<br/>of the row. D sits right of B.<br/> <br/>Four of the following five are alike in a certain<br/>way based on their positions in the above<br/>arrangement and so form a group. Which of the<br/>following does not belong to the group ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "R",
+        "html": "R"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "S sits in the middle of the row. The immediate\nneighbor of S faces E. E sits three places away\nfrom B. T sits diagonally opposite to B. A faces P.\nC and Q does not sit on any of the extreme ends\nof the row. D sits right of B.\n \nWhich of the following faces R ?",
+    "questionHtml": "S sits in the middle of the row. The immediate<br/>neighbor of S faces E. E sits three places away<br/>from B. T sits diagonally opposite to B. A faces P.<br/>C and Q does not sit on any of the extreme ends<br/>of the row. D sits right of B.<br/> <br/>Which of the following faces R ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S and\nT are seated and all face towards the north.\nPeople seated in row-1 face people seated in row-",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S and<br/>T are seated and all face towards the north.<br/>People seated in row-1 face people seated in row-",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "S sits in the middle of the row.\nThe immediate neighbor of S faces E.\nE sits three places away from B.\nT sits diagonally opposite to B.\nA faces P.\nC and Q does not sit on any of the extreme ends\nof the row.\nD sits right of B.\nCase 2: is eliminated.",
+    "explanationHtml": "S sits in the middle of the row.<br/>The immediate neighbor of S faces E.<br/>E sits three places away from B.<br/>T sits diagonally opposite to B.<br/>A faces P.<br/>C and Q does not sit on any of the extreme ends<br/>of the row.<br/>D sits right of B.<br/>Case 2: is eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "S sits in the middle of the row. The immediate",
+    "questionHtml": "S sits in the middle of the row. The immediate",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\n \nTen people sit in two-parallel row. Five people in\neach row. In row-1 A, B, C, D and E are seated and\nall face towards south. In row-2 P, Q, R, S and T\nare seated and all face towards the north. People\nseated in row-1 face people seated in row-2. S sits\nin the middle of the row. The immediate neighbor\nof S faces E. E sits three places away from B. T sits\ndiagonally opposite to B. A faces P. C and Q does\nnot sit on any of the extreme ends of the row. D\nsits right of B.\n \nWhich of the following sits just left of D ?",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/> <br/>Ten people sit in two-parallel row. Five people in<br/>each row. In row-1 A, B, C, D and E are seated and<br/>all face towards south. In row-2 P, Q, R, S and T<br/>are seated and all face towards the north. People<br/>seated in row-1 face people seated in row-2. S sits<br/>in the middle of the row. The immediate neighbor<br/>of S faces E. E sits three places away from B. T sits<br/>diagonally opposite to B. A faces P. C and Q does<br/>not sit on any of the extreme ends of the row. D<br/>sits right of B.<br/> <br/>Which of the following sits just left of D ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "C",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "E",
+        "text": "B",
+        "html": "B"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "S sits in the middle of the row.\nThe immediate neighbor of S faces E.",
+    "explanationHtml": "S sits in the middle of the row.<br/>The immediate neighbor of S faces E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "S sits in the middle of the row. The immediate\nneighbor of S faces E. E sits three places away\nfrom B. T sits diagonally opposite to B. A faces P.\nC and Q does not sit on any of the extreme ends\nof the row. D sits right of B.\nWho among the following persons is/are sitting\nat the extreme end of the row ?",
+    "questionHtml": "S sits in the middle of the row. The immediate<br/>neighbor of S faces E. E sits three places away<br/>from B. T sits diagonally opposite to B. A faces P.<br/>C and Q does not sit on any of the extreme ends<br/>of the row. D sits right of B.<br/>Who among the following persons is/are sitting<br/>at the extreme end of the row ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "D",
+        "html": "D"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 P, Q, R, S and T are seated\nand all face towards south. In row-2 A, B, C, D\nand E are seated and all face towards the north.\nPeople seated in row-1 face people seated in row-",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 P, Q, R, S and T are seated<br/>and all face towards south. In row-2 A, B, C, D<br/>and E are seated and all face towards the north.<br/>People seated in row-1 face people seated in row-",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "R sits third to the right of T, either R or T sit at\nany of the extreme ends of the row.",
+    "explanationHtml": "R sits third to the right of T, either R or T sit at<br/>any of the extreme ends of the row.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "R sits third to the right of T, either R or T sit at\nany of the extreme ends of the row. The one who\nfaces R sits second to the left of E. C sits\nimmediately left of E. The one who faces C sits\nimmediately right of S. Q faces A. B does not sit\nat any of the extreme ends of the row. Q sits two\nplaces away from P.\nHow many people are seated between R and T?",
+    "questionHtml": "R sits third to the right of T, either R or T sit at<br/>any of the extreme ends of the row. The one who<br/>faces R sits second to the left of E. C sits<br/>immediately left of E. The one who faces C sits<br/>immediately right of S. Q faces A. B does not sit<br/>at any of the extreme ends of the row. Q sits two<br/>places away from P.<br/>How many people are seated between R and T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "R sits third to the right of T, either R or T sit at\nany of the extreme ends of the row. The one who\nfaces R sits second to the left of E. C sits\nimmediately left of E. The one who faces C sits\nimmediately right of S. Q faces A. B does not sit",
+    "questionHtml": "R sits third to the right of T, either R or T sit at<br/>any of the extreme ends of the row. The one who<br/>faces R sits second to the left of E. C sits<br/>immediately left of E. The one who faces C sits<br/>immediately right of S. Q faces A. B does not sit",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "R sits third to the right of T, either R or T sit at\nany of the extreme ends of the row. The one who\nfaces R sits second to the left of E. C sits\nimmediately left of E. The one who faces C sits\nimmediately right of S. Q faces A. B does not sit\nat any of the extreme ends of the row. Q sits two\nplaces away from P.\nWho among the following persons is/are sitting\nat the extreme end of the row?",
+    "questionHtml": "R sits third to the right of T, either R or T sit at<br/>any of the extreme ends of the row. The one who<br/>faces R sits second to the left of E. C sits<br/>immediately left of E. The one who faces C sits<br/>immediately right of S. Q faces A. B does not sit<br/>at any of the extreme ends of the row. Q sits two<br/>places away from P.<br/>Who among the following persons is/are sitting<br/>at the extreme end of the row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\n \nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement, each\nmember sitting in a row faces another member of\nthe other row.\nC sits second from any of the end of the row. Two\npersons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not sit\nany of the end of the row. C does not face P. R\nsits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\n \nHow many persons sit between S and T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/> <br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement, each<br/>member sitting in a row faces another member of<br/>the other row.<br/>C sits second from any of the end of the row. Two<br/>persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not sit<br/>any of the end of the row. C does not face P. R<br/>sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/> <br/>How many persons sit between S and T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "More than three",
+        "html": "More than three"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "From the given conditions, C sits second from\nany of the end of the row. From this condition\nthere are two possibilities. Two persons sit\nbetween C and F. One of immediate neighbour of\nF faces T.\nTwo persons sit between T and Q. P sits third to\nright of U. U and P does not sit adjacent to T. One\nof the immediate neighbour of U faces A. A does\nnot sit any of the end of the row. From this\ncondition case-1 will be eliminated. C does not\nface P.\nR sits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C. The final arrangement is-\nThree persons sit between S and T.",
+    "explanationHtml": "From the given conditions, C sits second from<br/>any of the end of the row. From this condition<br/>there are two possibilities. Two persons sit<br/>between C and F. One of immediate neighbour of<br/>F faces T.<br/>Two persons sit between T and Q. P sits third to<br/>right of U. U and P does not sit adjacent to T. One<br/>of the immediate neighbour of U faces A. A does<br/>not sit any of the end of the row. From this<br/>condition case-1 will be eliminated. C does not<br/>face P.<br/>R sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C. The final arrangement is-<br/>Three persons sit between S and T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\n \nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement, each\nmember sitting in a row faces another member of\nthe other row.\nC sits second from any of the end of the row. Two\npersons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not sit\nany of the end of the row. C does not face P. R",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/> <br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement, each<br/>member sitting in a row faces another member of<br/>the other row.<br/>C sits second from any of the end of the row. Two<br/>persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not sit<br/>any of the end of the row. C does not face P. R",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "From the given conditions, C sits second from\nany of the end of the row. From this condition\nthere are two possibilities. Two persons sit\nbetween C and F. One of immediate neighbour of",
+    "explanationHtml": "From the given conditions, C sits second from<br/>any of the end of the row. From this condition<br/>there are two possibilities. Two persons sit<br/>between C and F. One of immediate neighbour of",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\n \nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement, each\nmember sitting in a row faces another member of\nthe other row.\nC sits second from any of the end of the row. Two\npersons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not sit\nany of the end of the row. C does not face P. R\nsits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\n \nWhich of the following pair of persons sit\nextreme ends of the row?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/> <br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement, each<br/>member sitting in a row faces another member of<br/>the other row.<br/>C sits second from any of the end of the row. Two<br/>persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not sit<br/>any of the end of the row. C does not face P. R<br/>sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/> <br/>Which of the following pair of persons sit<br/>extreme ends of the row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P, F",
+        "html": "P, F"
+      },
+      {
+        "id": "B",
+        "text": "B, T",
+        "html": "B, T"
+      },
+      {
+        "id": "C",
+        "text": "E, Q",
+        "html": "E, Q"
+      },
+      {
+        "id": "D",
+        "text": "T, A",
+        "html": "T, A"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "From the given conditions, C sits second from\nany of the end of the row. From this condition\nthere are two possibilities. Two persons sit\nbetween C and F. One of immediate neighbour of\nF faces T.\nTwo persons sit between T and Q. P sits third to\nright of U. U and P does not sit adjacent to T. One\nof the immediate neighbour of U faces A. A does\nnot sit any of the end of the row. From this\ncondition case-1 will be eliminated. C does not\nface P.\nR sits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C. The final arrangement is-\nB, T sit extreme ends of the row.",
+    "explanationHtml": "From the given conditions, C sits second from<br/>any of the end of the row. From this condition<br/>there are two possibilities. Two persons sit<br/>between C and F. One of immediate neighbour of<br/>F faces T.<br/>Two persons sit between T and Q. P sits third to<br/>right of U. U and P does not sit adjacent to T. One<br/>of the immediate neighbour of U faces A. A does<br/>not sit any of the end of the row. From this<br/>condition case-1 will be eliminated. C does not<br/>face P.<br/>R sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C. The final arrangement is-<br/>B, T sit extreme ends of the row.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\n \nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement, each\nmember sitting in a row faces another member of\nthe other row.\nC sits second from any of the end of the row. Two\npersons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not sit\nany of the end of the row. C does not face P. R\nsits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\n \nWho among the following sit opposite to R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/> <br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement, each<br/>member sitting in a row faces another member of<br/>the other row.<br/>C sits second from any of the end of the row. Two<br/>persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not sit<br/>any of the end of the row. C does not face P. R<br/>sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/> <br/>Who among the following sit opposite to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "From the given conditions, C sits second from\nany of the end of the row. From this condition\nthere are two possibilities. Two persons sit\nbetween C and F. One of immediate neighbour of\nF faces T.\nTwo persons sit between T and Q. P sits third to\nright of U. U and P does not sit adjacent to T. One\nof the immediate neighbour of U faces A. A does\nnot sit any of the end of the row. From this\ncondition case-1 will be eliminated. C does not\nface P.",
+    "explanationHtml": "From the given conditions, C sits second from<br/>any of the end of the row. From this condition<br/>there are two possibilities. Two persons sit<br/>between C and F. One of immediate neighbour of<br/>F faces T.<br/>Two persons sit between T and Q. P sits third to<br/>right of U. U and P does not sit adjacent to T. One<br/>of the immediate neighbour of U faces A. A does<br/>not sit any of the end of the row. From this<br/>condition case-1 will be eliminated. C does not<br/>face P.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\n \nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/> <br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "From the given conditions, C sits second from\nany of the end of the row. From this condition\nthere are two possibilities. Two persons sit\nbetween C and F. One of immediate neighbour of\nF faces T.\nTwo persons sit between T and Q. P sits third to\nright of U. U and P does not sit adjacent to T. One\nof the immediate neighbour of U faces A. A does\nnot sit any of the end of the row. From this\ncondition case-1 will be eliminated. C does not\nface P.\nR sits one of the positions to the left of Q. One of\nthe immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C. The final arrangement is-\nA sits third to the left of E.",
+    "explanationHtml": "From the given conditions, C sits second from<br/>any of the end of the row. From this condition<br/>there are two possibilities. Two persons sit<br/>between C and F. One of immediate neighbour of<br/>F faces T.<br/>Two persons sit between T and Q. P sits third to<br/>right of U. U and P does not sit adjacent to T. One<br/>of the immediate neighbour of U faces A. A does<br/>not sit any of the end of the row. From this<br/>condition case-1 will be eliminated. C does not<br/>face P.<br/>R sits one of the positions to the left of Q. One of<br/>the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C. The final arrangement is-<br/>A sits third to the left of E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "R sits third to the right of T, either R or T sit at\nany of the extreme ends of the row. The one who\nfaces R sits second to the left of E. C sits\nimmediately left of E. The one who faces C sits\nimmediately right of S. Q faces A. B does not sit\nat any of the extreme ends of the row. Q sits two\nplaces away from P.\nWho sits to the immediate right of E?",
+    "questionHtml": "R sits third to the right of T, either R or T sit at<br/>any of the extreme ends of the row. The one who<br/>faces R sits second to the left of E. C sits<br/>immediately left of E. The one who faces C sits<br/>immediately right of S. Q faces A. B does not sit<br/>at any of the extreme ends of the row. Q sits two<br/>places away from P.<br/>Who sits to the immediate right of E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. F sits second to the right of G, who faces O.\n2. One person sits between O and Q, who sits at\none of the extreme ends.\n3. F does not sit at any extreme end.\nSo, we have one case,\n4. M sits immediately to the right of N, who sits\nfifth left to the Q.\n5. R sits opposite I, who is not adjacent to F.\n6. J sits second to the right of E but not opposite\nto P.\n7. I sits immediately right to the H.\nSo, we have,\nAccording to the common solution, we can say\nthat H sits opposite to Q.\nThus, the correct answer is option B.",
+    "explanationHtml": "1. F sits second to the right of G, who faces O.<br/>2. One person sits between O and Q, who sits at<br/>one of the extreme ends.<br/>3. F does not sit at any extreme end.<br/>So, we have one case,<br/>4. M sits immediately to the right of N, who sits<br/>fifth left to the Q.<br/>5. R sits opposite I, who is not adjacent to F.<br/>6. J sits second to the right of E but not opposite<br/>to P.<br/>7. I sits immediately right to the H.<br/>So, we have,<br/>According to the common solution, we can say<br/>that H sits opposite to Q.<br/>Thus, the correct answer is option B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "seating",
+      "arrangement"
+    ],
+    "sourcePages": [
+      6
+    ]
+  }
+]

@@ -1,0 +1,3200 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Directions : Study the data carefully and\nanswer the questions accordingly.\nThe distance between N and Q is 15m. Point H is\n40m west of point Q. Point V is in 10m north of N\nand 20m east of point S. Points H, N, and Q are in\na single line. Point L is 15m north of point Q and\n20m east of point T. Point L is not in the north-\nwest of point N.\nWhat is the distance between the points H and\nN?",
+    "questionHtml": "Directions : Study the data carefully and<br/>answer the questions accordingly.<br/>The distance between N and Q is 15m. Point H is<br/>40m west of point Q. Point V is in 10m north of N<br/>and 20m east of point S. Points H, N, and Q are in<br/>a single line. Point L is 15m north of point Q and<br/>20m east of point T. Point L is not in the north-<br/>west of point N.<br/>What is the distance between the points H and<br/>N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25m",
+        "html": "25m"
+      },
+      {
+        "id": "B",
+        "text": "15m",
+        "html": "15m"
+      },
+      {
+        "id": "C",
+        "text": "30m",
+        "html": "30m"
+      },
+      {
+        "id": "D",
+        "text": "40m",
+        "html": "40m"
+      },
+      {
+        "id": "E",
+        "text": "45m",
+        "html": "45m"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "In triangle ZHG",
+    "explanationHtml": "In triangle ZHG",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions : Study the data carefully and\nanswer the questions accordingly.\nThe distance between N and Q is 15m. Point H is\n40m west of point Q. Point V is in 10m north of N\nand 20m east of point S. Points H, N, and Q are in\na single line. Point L is 15m north of point Q and\n20m east of point T. Point L is not in the north-\nwest of point N.\nWhich of the followings points is/are in the north-\nwest of point N?",
+    "questionHtml": "Directions : Study the data carefully and<br/>answer the questions accordingly.<br/>The distance between N and Q is 15m. Point H is<br/>40m west of point Q. Point V is in 10m north of N<br/>and 20m east of point S. Points H, N, and Q are in<br/>a single line. Point L is 15m north of point Q and<br/>20m east of point T. Point L is not in the north-<br/>west of point N.<br/>Which of the followings points is/are in the north-<br/>west of point N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "B",
+        "text": "L",
+        "html": "L"
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "D",
+        "text": "Both T and S",
+        "html": "Both T and S"
+      },
+      {
+        "id": "E",
+        "text": "N",
+        "html": "N"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions: A family has five members viz. Q, R,\nS, T, and U, whose relations are given in a\ncoded language. Either both or none of the\nparents of a person are alive. The family\nmembers are also standing on the ground at a\ncertain \ndistance \nfrom \neach \nother. \nThe\nrespective position of a person with respect to\nanother is also given in coded language. Study\nthe following information and answer the\nquestions.\nU is the husband of Q. No one in the family has\nmore than two children.\nA ^ B means A is the father of B and stands to the\neast of B.\nA * B means A is the daughter of B.\nA # B means A stands to the north of B.\nA ? B means A stands to the south of B.\nA = B means A stands to the west of B.\nExample: A(24) ^ B, means A is the father of B\nand A has two children. A stands 12 m to the east\nof B.\nA(9) ? B, means A stands 9 m south of B.\nA(10) ? B, means A stands 10 m south of B.\nA(8) = B, means A stands 8 m west of B.\nR(24) ^ Q(10) ? U(12) = S.\nU(7) ? T * R.\nU is standing to the ______ of R.",
+    "questionHtml": "Directions: A family has five members viz. Q, R,<br/>S, T, and U, whose relations are given in a<br/>coded language. Either both or none of the<br/>parents of a person are alive. The family<br/>members are also standing on the ground at a<br/>certain <br/>distance <br/>from <br/>each <br/>other. <br/>The<br/>respective position of a person with respect to<br/>another is also given in coded language. Study<br/>the following information and answer the<br/>questions.<br/>U is the husband of Q. No one in the family has<br/>more than two children.<br/>A ^ B means A is the father of B and stands to the<br/>east of B.<br/>A * B means A is the daughter of B.<br/>A # B means A stands to the north of B.<br/>A ? B means A stands to the south of B.<br/>A = B means A stands to the west of B.<br/>Example: A(24) ^ B, means A is the father of B<br/>and A has two children. A stands 12 m to the east<br/>of B.<br/>A(9) ? B, means A stands 9 m south of B.<br/>A(10) ? B, means A stands 10 m south of B.<br/>A(8) = B, means A stands 8 m west of B.<br/>R(24) ^ Q(10) ? U(12) = S.<br/>U(7) ? T * R.<br/>U is standing to the ______ of R.",
+    "options": [
+      {
+        "id": "A",
+        "text": "North-west",
+        "html": "North-west"
+      },
+      {
+        "id": "B",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "C",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "D",
+        "text": "North-east",
+        "html": "North-east"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Directions: A family has five members viz. Q, R,\nS, T, and U, whose relations are given in a\ncoded language. Either both or none of the\nparents of a person are alive. The family\nmembers are also standing on the ground at a\ncertain \ndistance \nfrom \neach \nother. \nThe\nrespective position of a person with respect to\nanother is also given in coded language. Study\nthe following information and answer the\nquestions.\nU is the husband of Q. No one in the family has\nmore than two children.\nA ^ B means A is the father of B and stands to the\neast of B.\nA * B means A is the daughter of B.\nA # B means A stands to the north of B.\n \nDirection & Distance for Mains",
+    "questionHtml": "Directions: A family has five members viz. Q, R,<br/>S, T, and U, whose relations are given in a<br/>coded language. Either both or none of the<br/>parents of a person are alive. The family<br/>members are also standing on the ground at a<br/>certain <br/>distance <br/>from <br/>each <br/>other. <br/>The<br/>respective position of a person with respect to<br/>another is also given in coded language. Study<br/>the following information and answer the<br/>questions.<br/>U is the husband of Q. No one in the family has<br/>more than two children.<br/>A ^ B means A is the father of B and stands to the<br/>east of B.<br/>A * B means A is the daughter of B.<br/>A # B means A stands to the north of B.<br/> <br/>Direction & Distance for Mains",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Directions: A family has five members viz. Q, R,\nS, T, and U, whose relations are given in a\ncoded language. Either both or none of the\nparents of a person are alive. The family\nmembers are also standing on the ground at a\ncertain \ndistance \nfrom \neach \nother. \nThe\nrespective position of a person with respect to\nanother is also given in coded language. Study\nthe following information and answer the\nquestions.\nU is the husband of Q. No one in the family has\nmore than two children.\nA ^ B means A is the father of B and stands to the\neast of B.\nA * B means A is the daughter of B.\nA # B means A stands to the north of B.\nA ? B means A stands to the south of B.\nA = B means A stands to the west of B.\nExample: A(24) ^ B, means A is the father of B\nand A has two children. A stands 12 m to the east\nof B.\nA(9) ? B, means A stands 9 m south of B.\nA(10) ? B, means A stands 10 m south of B.\nA(8) = B, means A stands 8 m west of B.\nR(24) ^ Q(10) ? U(12) = S.\nU(7) ? T * R.\nWho among the following is the female member\nof the family ?\nI. S\nII. U\nIII. T",
+    "questionHtml": "Directions: A family has five members viz. Q, R,<br/>S, T, and U, whose relations are given in a<br/>coded language. Either both or none of the<br/>parents of a person are alive. The family<br/>members are also standing on the ground at a<br/>certain <br/>distance <br/>from <br/>each <br/>other. <br/>The<br/>respective position of a person with respect to<br/>another is also given in coded language. Study<br/>the following information and answer the<br/>questions.<br/>U is the husband of Q. No one in the family has<br/>more than two children.<br/>A ^ B means A is the father of B and stands to the<br/>east of B.<br/>A * B means A is the daughter of B.<br/>A # B means A stands to the north of B.<br/>A ? B means A stands to the south of B.<br/>A = B means A stands to the west of B.<br/>Example: A(24) ^ B, means A is the father of B<br/>and A has two children. A stands 12 m to the east<br/>of B.<br/>A(9) ? B, means A stands 9 m south of B.<br/>A(10) ? B, means A stands 10 m south of B.<br/>A(8) = B, means A stands 8 m west of B.<br/>R(24) ^ Q(10) ? U(12) = S.<br/>U(7) ? T * R.<br/>Who among the following is the female member<br/>of the family ?<br/>I. S<br/>II. U<br/>III. T",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Both I and II",
+        "html": "Both I and II"
+      },
+      {
+        "id": "D",
+        "text": "Both II and III",
+        "html": "Both II and III"
+      },
+      {
+        "id": "E",
+        "text": "Both I and III",
+        "html": "Both I and III"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\n \nZ\n = H\n+ Z\nH 2\nG2\nG2\nZ\n = \n+ \nH 2\n32\n42\nZ\n = 9 + 16\nH 2\nZ\n = 25\nH 2\nZH = 5Km",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/> <br/>Z<br/> = H<br/>+ Z<br/>H 2<br/>G2<br/>G2<br/>Z<br/> = <br/>+ <br/>H 2<br/>32<br/>42<br/>Z<br/> = 9 + 16<br/>H 2<br/>Z<br/> = 25<br/>H 2<br/>ZH = 5Km",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions: A family has five members viz. Q, R,\nS, T, and U, whose relations are given in a\ncoded language. Either both or none of the\nparents of a person are alive. The family\nmembers are also standing on the ground at a\ncertain \ndistance \nfrom \neach \nother. \nThe\nrespective position of a person with respect to\nanother is also given in coded language. Study\nthe following information and answer the\nquestions.\nU is the husband of Q. No one in the family has\nmore than two children.\nA ^ B means A is the father of B and stands to the\neast of B.\nA * B means A is the daughter of B.\nA # B means A stands to the north of B.\nA ? B means A stands to the south of B.\nA = B means A stands to the west of B.\nExample: A(24) ^ B, means A is the father of B\nand A has two children. A stands 12 m to the east\nof B.\nA(9) ? B, means A stands 9 m south of B.\nA(10) ? B, means A stands 10 m south of B.\nA(8) = B, means A stands 8 m west of B.\nR(24) ^ Q(10) ? U(12) = S.\nU(7) ? T * R.\nWho is the mother-in-law of the one standing to\nthe west of S ?",
+    "questionHtml": "Directions: A family has five members viz. Q, R,<br/>S, T, and U, whose relations are given in a<br/>coded language. Either both or none of the<br/>parents of a person are alive. The family<br/>members are also standing on the ground at a<br/>certain <br/>distance <br/>from <br/>each <br/>other. <br/>The<br/>respective position of a person with respect to<br/>another is also given in coded language. Study<br/>the following information and answer the<br/>questions.<br/>U is the husband of Q. No one in the family has<br/>more than two children.<br/>A ^ B means A is the father of B and stands to the<br/>east of B.<br/>A * B means A is the daughter of B.<br/>A # B means A stands to the north of B.<br/>A ? B means A stands to the south of B.<br/>A = B means A stands to the west of B.<br/>Example: A(24) ^ B, means A is the father of B<br/>and A has two children. A stands 12 m to the east<br/>of B.<br/>A(9) ? B, means A stands 9 m south of B.<br/>A(10) ? B, means A stands 10 m south of B.<br/>A(8) = B, means A stands 8 m west of B.<br/>R(24) ^ Q(10) ? U(12) = S.<br/>U(7) ? T * R.<br/>Who is the mother-in-law of the one standing to<br/>the west of S ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "E",
+        "text": "Cant determine",
+        "html": "Cant determine"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, E is standing to the north-east of B.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, E is standing to the north-east of B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nHence, S is in the north-east direction of Y.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Hence, S is in the north-east direction of Y.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRahul starts from point A and moves 6m to the\nwest to reach point B. From point B, he takes a\nleft turn and moves 4m to reach point C. Then,\nfrom point C, he takes right turn and moves 8m\nto reach point D. From point D, he takes right turn\nand moves 12m to reach point E. Finally, from\npoint E, he takes right turn again and moves 8m\nto reach point F.\nWhat is the direction of point A with respect to\npoint D?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Rahul starts from point A and moves 6m to the<br/>west to reach point B. From point B, he takes a<br/>left turn and moves 4m to reach point C. Then,<br/>from point C, he takes right turn and moves 8m<br/>to reach point D. From point D, he takes right turn<br/>and moves 12m to reach point E. Finally, from<br/>point E, he takes right turn again and moves 8m<br/>to reach point F.<br/>What is the direction of point A with respect to<br/>point D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Southwest",
+        "html": "Southwest"
+      },
+      {
+        "id": "B",
+        "text": "Northeast",
+        "html": "Northeast"
+      },
+      {
+        "id": "C",
+        "text": "Northwest",
+        "html": "Northwest"
+      },
+      {
+        "id": "D",
+        "text": "Southeast",
+        "html": "Southeast"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\n \nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nHence, X is in the south-east direction of Z.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/> <br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Hence, X is in the south-east direction of Z.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRaj moves 20m towards the north from point D\nto reach point E. From point E, he takes right turn\nand moves 15m to point F. From point F, he takes\nright turn and moves 8m to point G then from\npoint G he takes a U-Turn and moves 18m to\npoint H. Now from point H he takes a right turn\nand moves 15m to reach the point I.\n \nWhat is the shortest distance between point D\nand point F?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Raj moves 20m towards the north from point D<br/>to reach point E. From point E, he takes right turn<br/>and moves 15m to point F. From point F, he takes<br/>right turn and moves 8m to point G then from<br/>point G he takes a U-Turn and moves 18m to<br/>point H. Now from point H he takes a right turn<br/>and moves 15m to reach the point I.<br/> <br/>What is the shortest distance between point D<br/>and point F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "C",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "D",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nShortest distance between R and V can be\ndetermined by using Pythagoras theorem.\nRV = √ (8² + 6²) m\nRV = √ (64 + 36) m\nRV = √ 100 m\nRV = 10m\nHence, the shortest distance between R and V is\n10m.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Shortest distance between R and V can be<br/>determined by using Pythagoras theorem.<br/>RV = √ (8² + 6²) m<br/>RV = √ (64 + 36) m<br/>RV = √ 100 m<br/>RV = 10m<br/>Hence, the shortest distance between R and V is<br/>10m.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRaj moves 20m towards the north from point D\nto reach point E. From point E, he takes right turn\nand moves 15m to point F. From point F, he takes\nright turn and moves 8m to point G then from\npoint G he takes a U-Turn and moves 18m to\npoint H. Now from point H he takes right turn\nand moves 15m to reach the point I.\n \nWhat is the direction of point E with respect to\nthe point I?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Raj moves 20m towards the north from point D<br/>to reach point E. From point E, he takes right turn<br/>and moves 15m to point F. From point F, he takes<br/>right turn and moves 8m to point G then from<br/>point G he takes a U-Turn and moves 18m to<br/>point H. Now from point H he takes right turn<br/>and moves 15m to reach the point I.<br/> <br/>What is the direction of point E with respect to<br/>the point I?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North East",
+        "html": "North East"
+      },
+      {
+        "id": "B",
+        "text": "South West",
+        "html": "South West"
+      },
+      {
+        "id": "C",
+        "text": "North West",
+        "html": "North West"
+      },
+      {
+        "id": "D",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "On decoding the codes, we get:\nP is 8m north of S. U is 5m east of P. V is 12m\nsouth of U. Q is 3m west of V. W is 8m east of Q.\nY is 4m north of Q. W is 4m south of X.\nWe draw the following figure:\nSo, the shortest distance between S and X is 10m.\nHence, option c) is the correct answer.",
+    "explanationHtml": "On decoding the codes, we get:<br/>P is 8m north of S. U is 5m east of P. V is 12m<br/>south of U. Q is 3m west of V. W is 8m east of Q.<br/>Y is 4m north of Q. W is 4m south of X.<br/>We draw the following figure:<br/>So, the shortest distance between S and X is 10m.<br/>Hence, option c) is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRaj moves 20m towards the north from point D\nto reach point E. From point E, he takes right turn\nand moves 15m to point F. From point F, he takes\nright turn and moves 8m to point G then from\npoint G he takes a U-Turn and moves 18m to\npoint H. Now from point H he takes right turn\nand moves 15m to reach the point I.\n \nWhat is the direction of point H with respect to\npoint D?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Raj moves 20m towards the north from point D<br/>to reach point E. From point E, he takes right turn<br/>and moves 15m to point F. From point F, he takes<br/>right turn and moves 8m to point G then from<br/>point G he takes a U-Turn and moves 18m to<br/>point H. Now from point H he takes right turn<br/>and moves 15m to reach the point I.<br/> <br/>What is the direction of point H with respect to<br/>point D?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North East",
+        "html": "North East"
+      },
+      {
+        "id": "B",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "C",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "D",
+        "text": "South west",
+        "html": "South west"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y",
+    "explanationHtml": "Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRaj starts from point A, towards the 10m east\ndirection then he takes left from point B and\nmoves 6m to reach point C. From point C, he\ntakes left again and moves 10m to reach point D.\nFinally, from point D, he takes right and moves\n5m to reach the Mall.",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Raj starts from point A, towards the 10m east<br/>direction then he takes left from point B and<br/>moves 6m to reach point C. From point C, he<br/>takes left again and moves 10m to reach point D.<br/>Finally, from point D, he takes right and moves<br/>5m to reach the Mall.",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Expression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y\nIn the case of OS : The second letter from\nleft is to the south-east of the first letter\nfrom left.\nBut, in other cases, The second letter from\nleft is to the north-east of the first letter\nfrom left.",
+    "explanationHtml": "Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y<br/>In the case of OS : The second letter from<br/>left is to the south-east of the first letter<br/>from left.<br/>But, in other cases, The second letter from<br/>left is to the north-east of the first letter<br/>from left.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRicha starts her journey from college, she moves\ntoward her west direction and covers a 10m\ndistance to reach the coffee shop. From the\ncoffee shop, she took a right turn to reach the\npark after covering 8m and then she again took a\nright turn and walked 10 m to reach SBI. From SBI\nshe took a left turn and covered 7m to reach the\nmarket and then she took a right to reach home\nafter covering 5m.\nWhat is the total distance covered by her?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Richa starts her journey from college, she moves<br/>toward her west direction and covers a 10m<br/>distance to reach the coffee shop. From the<br/>coffee shop, she took a right turn to reach the<br/>park after covering 8m and then she again took a<br/>right turn and walked 10 m to reach SBI. From SBI<br/>she took a left turn and covered 7m to reach the<br/>market and then she took a right to reach home<br/>after covering 5m.<br/>What is the total distance covered by her?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30m",
+        "html": "30m"
+      },
+      {
+        "id": "B",
+        "text": "50m",
+        "html": "50m"
+      },
+      {
+        "id": "C",
+        "text": "40m",
+        "html": "40m"
+      },
+      {
+        "id": "D",
+        "text": "60m",
+        "html": "60m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y",
+    "explanationHtml": "Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRicha starts her journey from college, she moves\ntoward her west direction and covers a 10m\ndistance to reach the coffee shop. From the\ncoffee shop, she took a right turn to reach the\npark after covering 8m and then she again took a\nright turn and walks 10m to reach SBI. From SBI\nshe took a left turn and covered 7m to reach the\nmarket and then she took a right to reach home\nafter covering 5m.\nWhat is the direction of her home with respect to\nher college?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Richa starts her journey from college, she moves<br/>toward her west direction and covers a 10m<br/>distance to reach the coffee shop. From the<br/>coffee shop, she took a right turn to reach the<br/>park after covering 8m and then she again took a<br/>right turn and walks 10m to reach SBI. From SBI<br/>she took a left turn and covered 7m to reach the<br/>market and then she took a right to reach home<br/>after covering 5m.<br/>What is the direction of her home with respect to<br/>her college?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "B",
+        "text": "North- East",
+        "html": "North- East"
+      },
+      {
+        "id": "C",
+        "text": "South- West",
+        "html": "South- West"
+      },
+      {
+        "id": "D",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression : P#Q!R$N!T@S\nN is to the east of T, but others are to the\nsouth-east of T.",
+    "explanationHtml": "Expression : P#Q!R$N!T@S<br/>N is to the east of T, but others are to the<br/>south-east of T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRiddhi starts walking from her home to the\ntuition classes. She walks 4m from her home in\nthe south direction and reaches the stationary\nshop. She buys a notebook, takes a left turn and\nwalk for 6m in the same direction to reach an ice-\ncream shop. She buys an ice-cream and takes a\nright turn. She walks 8m in the same direction till\nMG Road and takes a right turn. She walks for\n10m in the same direction to reach her tuition.\nWhat is the direction of Home with respect to the\nMG Road?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Riddhi starts walking from her home to the<br/>tuition classes. She walks 4m from her home in<br/>the south direction and reaches the stationary<br/>shop. She buys a notebook, takes a left turn and<br/>walk for 6m in the same direction to reach an ice-<br/>cream shop. She buys an ice-cream and takes a<br/>right turn. She walks 8m in the same direction till<br/>MG Road and takes a right turn. She walks for<br/>10m in the same direction to reach her tuition.<br/>What is the direction of Home with respect to the<br/>MG Road?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South east",
+        "html": "South east"
+      },
+      {
+        "id": "B",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "C",
+        "text": "North west",
+        "html": "North west"
+      },
+      {
+        "id": "D",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : P#Q!R$N!T@S",
+    "explanationHtml": "Expression : P#Q!R$N!T@S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRishabh moves 8m towards the South from point\nV to reach point P. From point P, he takes right\nturn and moves 4m to point Q. Then he takes a\nleft turn and moves 4m to reach point R and then\nhe takes a left turn and moves 5m to reach point\nS. From point S, he takes a right turn and moves\n7m to reach point T.\nWhat is the direction of point T with respect to\npoint P?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Rishabh moves 8m towards the South from point<br/>V to reach point P. From point P, he takes right<br/>turn and moves 4m to point Q. Then he takes a<br/>left turn and moves 4m to reach point R and then<br/>he takes a left turn and moves 5m to reach point<br/>S. From point S, he takes a right turn and moves<br/>7m to reach point T.<br/>What is the direction of point T with respect to<br/>point P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "B",
+        "text": "Northwest",
+        "html": "Northwest"
+      },
+      {
+        "id": "C",
+        "text": "Southeast",
+        "html": "Southeast"
+      },
+      {
+        "id": "D",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression : P#Q!R$N!T@S",
+    "explanationHtml": "Expression : P#Q!R$N!T@S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRishav is going to a coffee shop. He starts\nwalking in the west direction. After walking a\ndistance of 4 meters, he takes a left turn and\nwalks 5 meters more. After that he takes another\nleft turn and walks 10 meters. And then he takes\na right turn and walks 5 meters to reach the\ncoffee shop.\nIn which direction is the Rishav’s starting point\nwith respect to the Coffee shop?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Rishav is going to a coffee shop. He starts<br/>walking in the west direction. After walking a<br/>distance of 4 meters, he takes a left turn and<br/>walks 5 meters more. After that he takes another<br/>left turn and walks 10 meters. And then he takes<br/>a right turn and walks 5 meters to reach the<br/>coffee shop.<br/>In which direction is the Rishav’s starting point<br/>with respect to the Coffee shop?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South-west",
+        "html": "South-west"
+      },
+      {
+        "id": "B",
+        "text": "north-west",
+        "html": "north-west"
+      },
+      {
+        "id": "C",
+        "text": "south-east",
+        "html": "south-east"
+      },
+      {
+        "id": "D",
+        "text": "north-east",
+        "html": "north-east"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\nThe distance between J and G is equal to the\ndistance between R and K. Therefore, it is\n4m.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>The distance between J and G is equal to the<br/>distance between R and K. Therefore, it is<br/>4m.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRitu starts moving from her Office, after moving\n10m north to reach Restaurant. From the",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ritu starts moving from her Office, after moving<br/>10m north to reach Restaurant. From the",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\n* L is to the north of Y.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>* L is to the north of Y.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRitu starts moving from her Office, after moving\n10m north to reach Restaurant. From the\nrestaurant, she takes a right turn and moves 5m\nto reach the big basket. Then, she takes a left\nturn and moves 6m to reach the Metro station.\nFrom the metro station, she takes the right and\ncovers 6m to reach the cafe. From the cafe, she\ntakes a right and moves 6m to reach the market.\nFrom the market, she takes left and moves 5m to\nreach home.\nWhat is the direction of Home with respect to her\noffice?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ritu starts moving from her Office, after moving<br/>10m north to reach Restaurant. From the<br/>restaurant, she takes a right turn and moves 5m<br/>to reach the big basket. Then, she takes a left<br/>turn and moves 6m to reach the Metro station.<br/>From the metro station, she takes the right and<br/>covers 6m to reach the cafe. From the cafe, she<br/>takes a right and moves 6m to reach the market.<br/>From the market, she takes left and moves 5m to<br/>reach home.<br/>What is the direction of Home with respect to her<br/>office?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Northeast",
+        "html": "Northeast"
+      },
+      {
+        "id": "B",
+        "text": "Southwest",
+        "html": "Southwest"
+      },
+      {
+        "id": "C",
+        "text": "Southeast",
+        "html": "Southeast"
+      },
+      {
+        "id": "D",
+        "text": "Northwest",
+        "html": "Northwest"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\nY is to the west of T.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>Y is to the west of T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRitu starts moving from her Office, after moving\n10m north to reach Restaurant. From the\nrestaurant, she takes a right turn and moves 5m\nto reach the big basket. Then, she takes a left\nturn and moves 6m to reach the Metro station.\nFrom the metro station, she takes the right and\ncovers 6m to reach the cafe. From the cafe, she\ntakes a right and moves 6m to reach the market.\nFrom the market, she takes left and moves 5m to\nreach home.\nWhat is the shortest distance between a cafe and\na restaurant?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ritu starts moving from her Office, after moving<br/>10m north to reach Restaurant. From the<br/>restaurant, she takes a right turn and moves 5m<br/>to reach the big basket. Then, she takes a left<br/>turn and moves 6m to reach the Metro station.<br/>From the metro station, she takes the right and<br/>covers 6m to reach the cafe. From the cafe, she<br/>takes a right and moves 6m to reach the market.<br/>From the market, she takes left and moves 5m to<br/>reach home.<br/>What is the shortest distance between a cafe and<br/>a restaurant?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12m",
+        "html": "12m"
+      },
+      {
+        "id": "B",
+        "text": "√157",
+        "html": "√157"
+      },
+      {
+        "id": "C",
+        "text": "√161",
+        "html": "√161"
+      },
+      {
+        "id": "D",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRiya starts 7m to the south direction from\nGarden to reach point P. From point P, she takes a\nleft turn and moves 12 m to reach point Q. Then,\nfrom point Q she takes right turn and covers 5m\nto reach point R. From point R, she takes a left\nturn and moves 6m to reach point S. From point\nS, she takes a left turn and moves 9m to reach\npoint T. Finally, from point T, she takes a left turn\nagain and moves 6m to reach Ground.\nWhat is the shortest distance between point P\nand point R?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Riya starts 7m to the south direction from<br/>Garden to reach point P. From point P, she takes a<br/>left turn and moves 12 m to reach point Q. Then,<br/>from point Q she takes right turn and covers 5m<br/>to reach point R. From point R, she takes a left<br/>turn and moves 6m to reach point S. From point<br/>S, she takes a left turn and moves 9m to reach<br/>point T. Finally, from point T, she takes a left turn<br/>again and moves 6m to reach Ground.<br/>What is the shortest distance between point P<br/>and point R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20m",
+        "html": "20m"
+      },
+      {
+        "id": "B",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "C",
+        "text": "25m",
+        "html": "25m"
+      },
+      {
+        "id": "D",
+        "text": "13m",
+        "html": "13m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expression : F&7N*5T^3O*8G%7H\nT is 2m to the west of F.",
+    "explanationHtml": "Expression : F&7N*5T^3O*8G%7H<br/>T is 2m to the west of F.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRiya starts 7m to the south direction from\nGarden to reach point P. From point P, she takes a\nleft turn and moves 12 m to reach point Q. Then,\nfrom point Q she takes right turn and covers 5m\nto reach point R. From point R, she takes a left\nturn and moves 6m to reach point S. From point\nS, she takes a left turn and moves 9m to reach\npoint T. Finally, from point T, she takes left turn\nagain and moves 6m to reach Ground.\nWhat is the direction of point T with respect to\nthe Garden?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Riya starts 7m to the south direction from<br/>Garden to reach point P. From point P, she takes a<br/>left turn and moves 12 m to reach point Q. Then,<br/>from point Q she takes right turn and covers 5m<br/>to reach point R. From point R, she takes a left<br/>turn and moves 6m to reach point S. From point<br/>S, she takes a left turn and moves 9m to reach<br/>point T. Finally, from point T, she takes left turn<br/>again and moves 6m to reach Ground.<br/>What is the direction of point T with respect to<br/>the Garden?",
+    "options": [
+      {
+        "id": "A",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "B",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "C",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "D",
+        "text": "South- East",
+        "html": "South- East"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : F&7N*5T^3O*8G%7H\nOnly G is to the north of H and others are to\nthe north-west of H.",
+    "explanationHtml": "Expression : F&7N*5T^3O*8G%7H<br/>Only G is to the north of H and others are to<br/>the north-west of H.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRiya starts 7m to the south direction from\nGarden to reach point P. From that point, she\ntakes a left turn and moves 12 m to reach point",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Riya starts 7m to the south direction from<br/>Garden to reach point P. From that point, she<br/>takes a left turn and moves 12 m to reach point",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nRiya starts moving 15m in the east direction from\nher house to reach point A. From point A, she\ntakes a right turn and moves 6m to reach point\nQ. From point Q, she takes a left turn and covers\n6m to reach point C. From point C, she moves\ntowards the South direction and moves 14m to\nreach point B. Then, from point B she takes a\nright turn and moves 21m to reach her coaching.\nWhat is the direction of point A with respect to\nher Coaching and the total distance covered\nfrom her house to coaching?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Riya starts moving 15m in the east direction from<br/>her house to reach point A. From point A, she<br/>takes a right turn and moves 6m to reach point<br/>Q. From point Q, she takes a left turn and covers<br/>6m to reach point C. From point C, she moves<br/>towards the South direction and moves 14m to<br/>reach point B. Then, from point B she takes a<br/>right turn and moves 21m to reach her coaching.<br/>What is the direction of point A with respect to<br/>her Coaching and the total distance covered<br/>from her house to coaching?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North-West,80m",
+        "html": "North-West,80m"
+      },
+      {
+        "id": "B",
+        "text": "South-West,56m",
+        "html": "South-West,56m"
+      },
+      {
+        "id": "C",
+        "text": "North-East,62m",
+        "html": "North-East,62m"
+      },
+      {
+        "id": "D",
+        "text": "South-East,70m",
+        "html": "South-East,70m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;\nY&3S",
+    "explanationHtml": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;<br/>Y&3S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRuhi started running from her house to her\nfriend’s house. At first she ran 4m to the West\nand took a right turn. After running 7m she took\na left turn and covered the 15m distance. Then\nshe ran 10m within the South direction. Finally\nshe took 8m right turn and reached her friend’s\nhome.\n \nWhat is the distance between Ruhi’s home and\nher friend's home?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Ruhi started running from her house to her<br/>friend’s house. At first she ran 4m to the West<br/>and took a right turn. After running 7m she took<br/>a left turn and covered the 15m distance. Then<br/>she ran 10m within the South direction. Finally<br/>she took 8m right turn and reached her friend’s<br/>home.<br/> <br/>What is the distance between Ruhi’s home and<br/>her friend's home?",
+    "options": [
+      {
+        "id": "A",
+        "text": "√748 m",
+        "html": "√748 m"
+      },
+      {
+        "id": "B",
+        "text": "√508 m",
+        "html": "√508 m"
+      },
+      {
+        "id": "C",
+        "text": "√618 m",
+        "html": "√618 m"
+      },
+      {
+        "id": "D",
+        "text": "√738 m",
+        "html": "√738 m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;\nY&3S",
+    "explanationHtml": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;<br/>Y&3S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRuhi started running from her house to her\nfriend’s house. At first she ran 4m to the West\nand took a right turn. After running 7m she took\na left turn and covered the 15m distance. Then\nshe ran 10m within the South direction. Finally\nshe took the 8m right turn and reached her\nfriend’s home.\n \nFind the distance between Ruhi's starting\nposition and her present position if she turned\n45 degrees in a clockwise manner from her\nstarting position.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Ruhi started running from her house to her<br/>friend’s house. At first she ran 4m to the West<br/>and took a right turn. After running 7m she took<br/>a left turn and covered the 15m distance. Then<br/>she ran 10m within the South direction. Finally<br/>she took the 8m right turn and reached her<br/>friend’s home.<br/> <br/>Find the distance between Ruhi's starting<br/>position and her present position if she turned<br/>45 degrees in a clockwise manner from her<br/>starting position.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2m",
+        "html": "2m"
+      },
+      {
+        "id": "B",
+        "text": "6m",
+        "html": "6m"
+      },
+      {
+        "id": "C",
+        "text": "Can not be determined",
+        "html": "Can not be determined"
+      },
+      {
+        "id": "D",
+        "text": "5m",
+        "html": "5m"
+      },
+      {
+        "id": "E",
+        "text": "3 m",
+        "html": "3 m"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nRuhi started running from her house to her\nfriend’s house. At first she ran 4m to the West\nand took a right turn. After running 7m she took\na left turn and covered the 15m distance. Then\nshe ran 10m within the South direction. Finally\nshe took the 8m right turn and reached her\nfriend’s home.\n \nRuhi does a U-turn and runs 2 meters from her\nfriend's house; currently, where is Ruhi in relation\nto her starting point?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Ruhi started running from her house to her<br/>friend’s house. At first she ran 4m to the West<br/>and took a right turn. After running 7m she took<br/>a left turn and covered the 15m distance. Then<br/>she ran 10m within the South direction. Finally<br/>she took the 8m right turn and reached her<br/>friend’s home.<br/> <br/>Ruhi does a U-turn and runs 2 meters from her<br/>friend's house; currently, where is Ruhi in relation<br/>to her starting point?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "B",
+        "text": "South-West",
+        "html": "South-West"
+      },
+      {
+        "id": "C",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "D",
+        "text": "North-West",
+        "html": "North-West"
+      },
+      {
+        "id": "E",
+        "text": "South-East",
+        "html": "South-East"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Distance : 9m+8m+8m+13m+6m+5m+1m = 50m\n#8 = 10 ( added 2)\n$21 = 19 (subtracted 2)\n!13 = 12 (subtracted 1)\n@4 = 4 ( no change)",
+    "explanationHtml": "Distance : 9m+8m+8m+13m+6m+5m+1m = 50m<br/>#8 = 10 ( added 2)<br/>$21 = 19 (subtracted 2)<br/>!13 = 12 (subtracted 1)<br/>@4 = 4 ( no change)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nSagar starts walking from his office in the South\ndirection and walks for 5 km, from here he takes\na left turn to reach the coffee shop which is 4 km\naway. From the coffee shop, he takes a left turn\nand walks for 1 km, and finally takes a right turn\nto reach the park which is 3 km away. Another\nperson, Anurag also starts walking from the same\noffice in the South direction and walks for 4 km,\nand then takes a left turn to reach the car stand\nwhich is 2 km. From the car stand, he takes a left\nturn and walks for 6 km and then takes right turn\nand walks 2 km and takes right turn and walks 2\nkm and then again takes left turn and walks 3 km\nand then takes right turn and walks for 4 km to\nreach the park.\nWhat is the shortest distance between the\noffice and the car stand?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Sagar starts walking from his office in the South<br/>direction and walks for 5 km, from here he takes<br/>a left turn to reach the coffee shop which is 4 km<br/>away. From the coffee shop, he takes a left turn<br/>and walks for 1 km, and finally takes a right turn<br/>to reach the park which is 3 km away. Another<br/>person, Anurag also starts walking from the same<br/>office in the South direction and walks for 4 km,<br/>and then takes a left turn to reach the car stand<br/>which is 2 km. From the car stand, he takes a left<br/>turn and walks for 6 km and then takes right turn<br/>and walks 2 km and takes right turn and walks 2<br/>km and then again takes left turn and walks 3 km<br/>and then takes right turn and walks for 4 km to<br/>reach the park.<br/>What is the shortest distance between the<br/>office and the car stand?",
+    "options": [
+      {
+        "id": "A",
+        "text": "√29 km",
+        "html": "√29 km"
+      },
+      {
+        "id": "B",
+        "text": "√27 km",
+        "html": "√27 km"
+      },
+      {
+        "id": "C",
+        "text": "22 km",
+        "html": "22 km"
+      },
+      {
+        "id": "D",
+        "text": "29 km",
+        "html": "29 km"
+      },
+      {
+        "id": "E",
+        "text": "√20 Km",
+        "html": "√20 Km"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Q30\nText Solution:",
+    "explanationHtml": "Q30<br/>Text Solution:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nSagar starts walking from his office in the South\ndirection and walks for 5 km, from here he takes\na left turn to reach the coffee shop which is 4 km\naway. From the coffee shop, he takes a left turn\nand walks for 1 km, and finally takes a right turn\nto reach the park which is 3 km away. Another\nperson, Anurag also starts walking from the same\noffice in the South direction and walks for 4 km,\nand then takes a left turn to reach the car stand\nwhich is 2 km. From the car stand, he takes a left\nturn and walks for 6 km and then takes right turn\nand walks 2 km and takes right turn and walks 2\nkm and then again takes left turn and walks 3 km\nand then takes right turn and walks for 4 km to\nreach the park.\nWhat is the total distance between covered by\nSagar from Coffee shop to Park?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Sagar starts walking from his office in the South<br/>direction and walks for 5 km, from here he takes<br/>a left turn to reach the coffee shop which is 4 km<br/>away. From the coffee shop, he takes a left turn<br/>and walks for 1 km, and finally takes a right turn<br/>to reach the park which is 3 km away. Another<br/>person, Anurag also starts walking from the same<br/>office in the South direction and walks for 4 km,<br/>and then takes a left turn to reach the car stand<br/>which is 2 km. From the car stand, he takes a left<br/>turn and walks for 6 km and then takes right turn<br/>and walks 2 km and takes right turn and walks 2<br/>km and then again takes left turn and walks 3 km<br/>and then takes right turn and walks for 4 km to<br/>reach the park.<br/>What is the total distance between covered by<br/>Sagar from Coffee shop to Park?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 km",
+        "html": "9 km"
+      },
+      {
+        "id": "B",
+        "text": "10 km",
+        "html": "10 km"
+      },
+      {
+        "id": "C",
+        "text": "5 km",
+        "html": "5 km"
+      },
+      {
+        "id": "D",
+        "text": "4 km",
+        "html": "4 km"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "1) Sagar starts walking from his office in the\nSouth direction and walks for 5 km, from here he\ntakes a left turn to reach the coffee shop which is\n4 km away. From the coffee shop, he takes a left\nturn and walks for 1 km, and finally takes a right\nturn to reach the park which is 3 km away.",
+    "explanationHtml": "1) Sagar starts walking from his office in the<br/>South direction and walks for 5 km, from here he<br/>takes a left turn to reach the coffee shop which is<br/>4 km away. From the coffee shop, he takes a left<br/>turn and walks for 1 km, and finally takes a right<br/>turn to reach the park which is 3 km away.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nStarting from point A, Abhi and Lokesh both\ntraveled 4km east to reach point B. From there,\nAbhi took a right turn and Lokesh took a left\nturn. Abhi continued traveling 4km, made\nanother right turn, traveled 2km, then made a\nthird right turn, traveled 2km more, and finally\nmade a left turn to travel 2km and reach his final\ndestination Z. Meanwhile, Lokesh took a left turn\nfrom point B and traveled 2km, then made\nanother left turn and traveled 1km, took a right\nturn and traveled 1km to reach point E. From\nthere, he took another left turn and traveled 3km\nto reach point F. He then took a left turn, traveled\n1km and took a final right turn to reach his final\ndestination H, which was 3km ahead.\nWhat is the direction of F with respect to Z?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Starting from point A, Abhi and Lokesh both<br/>traveled 4km east to reach point B. From there,<br/>Abhi took a right turn and Lokesh took a left<br/>turn. Abhi continued traveling 4km, made<br/>another right turn, traveled 2km, then made a<br/>third right turn, traveled 2km more, and finally<br/>made a left turn to travel 2km and reach his final<br/>destination Z. Meanwhile, Lokesh took a left turn<br/>from point B and traveled 2km, then made<br/>another left turn and traveled 1km, took a right<br/>turn and traveled 1km to reach point E. From<br/>there, he took another left turn and traveled 3km<br/>to reach point F. He then took a left turn, traveled<br/>1km and took a final right turn to reach his final<br/>destination H, which was 3km ahead.<br/>What is the direction of F with respect to Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "B",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "C",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "D",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. The first figure shows the meaning of the\ndirection board initially and the second figure\nshows the meaning of the direction board\nafter the bumping.\nStephan wanted to take the direction west (#)\nbut according to the second figure, he took the\nsouth east ($@) direction.",
+    "explanationHtml": "1. The first figure shows the meaning of the<br/>direction board initially and the second figure<br/>shows the meaning of the direction board<br/>after the bumping.<br/>Stephan wanted to take the direction west (#)<br/>but according to the second figure, he took the<br/>south east ($@) direction.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nStarting from point A, Abhi and Lokesh both\ntraveled 4km east to reach point B. From there,\nAbhi took a right turn and Lokesh took a left\nturn. Abhi continued traveling 4km, made\nanother right turn, traveled 2km, then made a\nthird right turn, traveled 2km more, and finally\nmade a left turn to travel 2km and reach his final\ndestination Z. Meanwhile, Lokesh took a left turn\nfrom point B and traveled 2km, then made\nanother left turn and traveled 1km, took a right\nturn and traveled 1km to reach point E. From\nthere, he took another left turn and traveled 3km\nto reach point F. He then took a left turn, traveled\n1km and took a final right turn to reach his final\ndestination H, which was 3km ahead.\nWhat is the direction of H with respect to A ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Starting from point A, Abhi and Lokesh both<br/>traveled 4km east to reach point B. From there,<br/>Abhi took a right turn and Lokesh took a left<br/>turn. Abhi continued traveling 4km, made<br/>another right turn, traveled 2km, then made a<br/>third right turn, traveled 2km more, and finally<br/>made a left turn to travel 2km and reach his final<br/>destination Z. Meanwhile, Lokesh took a left turn<br/>from point B and traveled 2km, then made<br/>another left turn and traveled 1km, took a right<br/>turn and traveled 1km to reach point E. From<br/>there, he took another left turn and traveled 3km<br/>to reach point F. He then took a left turn, traveled<br/>1km and took a final right turn to reach his final<br/>destination H, which was 3km ahead.<br/>What is the direction of H with respect to A ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North East",
+        "html": "North East"
+      },
+      {
+        "id": "B",
+        "text": "North West",
+        "html": "North West"
+      },
+      {
+        "id": "C",
+        "text": "South East",
+        "html": "South East"
+      },
+      {
+        "id": "D",
+        "text": "South West",
+        "html": "South West"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1) BA is 2 m south of ZA.\n2) PA is 2 m left of BA.",
+    "explanationHtml": "1) BA is 2 m south of ZA.<br/>2) PA is 2 m left of BA.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nStarting from point A, Abhi and Lokesh both\ntraveled 4km east to reach point B. From there,\nAbhi took a right turn and Lokesh took a left\nturn. Abhi continued traveling 4km, made\nanother right turn, traveled 2km, then made a\nthird right turn, traveled 2km more, and finally\nmade a left turn to travel 2km and reach his final\ndestination Z. Meanwhile, Lokesh took a left turn\nfrom point B and traveled 2km, then made\nanother left turn and traveled 1km, took a right\nturn and traveled 1km to reach point E. From\nthere, he took another left turn and traveled 3km\nto reach point F. He then took a left turn, traveled\n1km and took a final right turn to reach his final\ndestination H, which was 3km ahead.\nWhat is the shortest distance between Z and H?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Starting from point A, Abhi and Lokesh both<br/>traveled 4km east to reach point B. From there,<br/>Abhi took a right turn and Lokesh took a left<br/>turn. Abhi continued traveling 4km, made<br/>another right turn, traveled 2km, then made a<br/>third right turn, traveled 2km more, and finally<br/>made a left turn to travel 2km and reach his final<br/>destination Z. Meanwhile, Lokesh took a left turn<br/>from point B and traveled 2km, then made<br/>another left turn and traveled 1km, took a right<br/>turn and traveled 1km to reach point E. From<br/>there, he took another left turn and traveled 3km<br/>to reach point F. He then took a left turn, traveled<br/>1km and took a final right turn to reach his final<br/>destination H, which was 3km ahead.<br/>What is the shortest distance between Z and H?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4km",
+        "html": "4km"
+      },
+      {
+        "id": "B",
+        "text": "5km",
+        "html": "5km"
+      },
+      {
+        "id": "C",
+        "text": "3km",
+        "html": "3km"
+      },
+      {
+        "id": "D",
+        "text": "4.3km",
+        "html": "4.3km"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "In triangle ZHG",
+    "explanationHtml": "In triangle ZHG",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the below questions\nA@B(13m) A is 18m north of B\nA#B(11m) A is 9m south of B\nA$B(22m) A is 19m east of B\nA%B(9m) A is 16m west of B\nG@Q(19); P$G(15); T#R(13); F$L@Q; Q%T(8);\nF%R(2); F#M(11); P@S@E; S$M; F%E%R;\nWhat is the direction of R with respect to Q?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the below questions<br/>A@B(13m) A is 18m north of B<br/>A#B(11m) A is 9m south of B<br/>A$B(22m) A is 19m east of B<br/>A%B(9m) A is 16m west of B<br/>G@Q(19); P$G(15); T#R(13); F$L@Q; Q%T(8);<br/>F%R(2); F#M(11); P@S@E; S$M; F%E%R;<br/>What is the direction of R with respect to Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North-west",
+        "html": "North-west"
+      },
+      {
+        "id": "B",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "C",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      },
+      {
+        "id": "D",
+        "text": "South-west",
+        "html": "South-west"
+      },
+      {
+        "id": "E",
+        "text": "North-East",
+        "html": "North-East"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the below questions\nA@B(13m) A is 18m north of B\nA#B(11m) A is 9m south of B\nA$B(22m) A is 19m east of B\nA%B(9m) A is 16m west of B\nG@Q(19); P$G(15); T#R(13); F$L@Q; Q%T(8);\nF%R(2); F#M(11); P@S@E; S$M; F%E%R;\nWhat is the shortest distance between P and E?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the below questions<br/>A@B(13m) A is 18m north of B<br/>A#B(11m) A is 9m south of B<br/>A$B(22m) A is 19m east of B<br/>A%B(9m) A is 16m west of B<br/>G@Q(19); P$G(15); T#R(13); F$L@Q; Q%T(8);<br/>F%R(2); F#M(11); P@S@E; S$M; F%E%R;<br/>What is the shortest distance between P and E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "13m",
+        "html": "13m"
+      },
+      {
+        "id": "B",
+        "text": "21m",
+        "html": "21m"
+      },
+      {
+        "id": "C",
+        "text": "20m",
+        "html": "20m"
+      },
+      {
+        "id": "D",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "E",
+        "text": "11m",
+        "html": "11m"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Six people A, B, C, D, E and F are standing in a\ncertain \ndirection \nfrom \neach \nother. \nTheir\narrangement is given in a coded form.\nP 1 Q means P is to the north of Q.\nP 2 Q means P is to the south of Q.\nP 3 Q means P is to the east of Q.\nP 4 Q means P is to the west of Q.\nF 3 A 1 D 4 B; E 3 F 2 C 1 B\nB is standing to the ______ of C.",
+    "questionHtml": "Six people A, B, C, D, E and F are standing in a<br/>certain <br/>direction <br/>from <br/>each <br/>other. <br/>Their<br/>arrangement is given in a coded form.<br/>P 1 Q means P is to the north of Q.<br/>P 2 Q means P is to the south of Q.<br/>P 3 Q means P is to the east of Q.<br/>P 4 Q means P is to the west of Q.<br/>F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>B is standing to the ______ of C.",
+    "options": [
+      {
+        "id": "A",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "B",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "C",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "D",
+        "text": "North-west",
+        "html": "North-west"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Six people A, B, C, D, E and F are standing in a\ncertain \ndirection \nfrom \neach \nother. \nTheir\narrangement is given in a coded form.\nP 1 Q means P is to the north of Q.\nP 2 Q means P is to the south of Q.\nP 3 Q means P is to the east of Q.\nP 4 Q means P is to the west of Q.\nF 3 A 1 D 4 B; E 3 F 2 C 1 B\nWho among the following are standing along the\nsame horizontal line?",
+    "questionHtml": "Six people A, B, C, D, E and F are standing in a<br/>certain <br/>direction <br/>from <br/>each <br/>other. <br/>Their<br/>arrangement is given in a coded form.<br/>P 1 Q means P is to the north of Q.<br/>P 2 Q means P is to the south of Q.<br/>P 3 Q means P is to the east of Q.<br/>P 4 Q means P is to the west of Q.<br/>F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>Who among the following are standing along the<br/>same horizontal line?",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\n \nZ\n = H\n+ Z\nH 2\nG2\nG2\nZ\n = \n+ \nH 2\n32\n42\nZ\n = 9 + 16\nH 2\nZ\n = 25\nH 2\nZH = 5Km",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/> <br/>Z<br/> = H<br/>+ Z<br/>H 2<br/>G2<br/>G2<br/>Z<br/> = <br/>+ <br/>H 2<br/>32<br/>42<br/>Z<br/> = 9 + 16<br/>H 2<br/>Z<br/> = 25<br/>H 2<br/>ZH = 5Km",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Six people A, B, C, D, E and F are standing in a\ncertain \ndirection \nfrom \neach \nother. \nTheir\narrangement is given in a coded form.\nP 1 Q means P is to the north of Q.\nP 2 Q means P is to the south of Q.\nP 3 Q means P is to the east of Q.\nP 4 Q means P is to the west of Q.\nF 3 A 1 D 4 B; E 3 F 2 C 1 B\nWho is standing to the north-east of B ?",
+    "questionHtml": "Six people A, B, C, D, E and F are standing in a<br/>certain <br/>direction <br/>from <br/>each <br/>other. <br/>Their<br/>arrangement is given in a coded form.<br/>P 1 Q means P is to the north of Q.<br/>P 2 Q means P is to the south of Q.<br/>P 3 Q means P is to the east of Q.<br/>P 4 Q means P is to the west of Q.<br/>F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>Who is standing to the north-east of B ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, E is standing to the north-east of B.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, E is standing to the north-east of B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Answer the following question based on the\ninformation given below.\n \nIn a certain code language,\nP @ Q [x] means P is x (metres) east of Q.\nP # Q [x] means P is x (metres) west of Q.\nP ® Q [x] means Q is x (metres) north of P.\nP © Q [x] means P is x (metres) south of Q.\n \nIf \"W @ Z [13], X ® U [15], T © R [8], W ® S [7],\nV @ T [6], R # X [17], U @ S [9], Y ® V [10]\",\n \nWhat is the direction of S with respect to Y?",
+    "questionHtml": "Answer the following question based on the<br/>information given below.<br/> <br/>In a certain code language,<br/>P @ Q [x] means P is x (metres) east of Q.<br/>P # Q [x] means P is x (metres) west of Q.<br/>P ® Q [x] means Q is x (metres) north of P.<br/>P © Q [x] means P is x (metres) south of Q.<br/> <br/>If \"W @ Z [13], X ® U [15], T © R [8], W ® S [7],<br/>V @ T [6], R # X [17], U @ S [9], Y ® V [10]\",<br/> <br/>What is the direction of S with respect to Y?",
+    "options": [
+      {
+        "id": "A",
+        "text": "North-east",
+        "html": "North-east"
+      },
+      {
+        "id": "B",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "C",
+        "text": "North-west",
+        "html": "North-west"
+      },
+      {
+        "id": "D",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "E",
+        "text": "North",
+        "html": "North"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nHence, S is in the north-east direction of Y.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Hence, S is in the north-east direction of Y.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions: Answer the following question\nbased on the information given below.\nIn a certain code language,\nP @ Q [x] means P is x (metres) east of Q.\nP # Q [x] means P is x (metres) west of Q.\nP ® Q [x] means Q is x (metres) north of P.\nP © Q [x] means P is x (metres) south of Q.\nIf \"W @ Z [13], X ® U [15], T © R [8], W ® S [7], V\n@ T [6], R # X [17], U @ S [9], Y ® V [10]\",\nWhat is the direction of X with respect to Z?",
+    "questionHtml": "Directions: Answer the following question<br/>based on the information given below.<br/>In a certain code language,<br/>P @ Q [x] means P is x (metres) east of Q.<br/>P # Q [x] means P is x (metres) west of Q.<br/>P ® Q [x] means Q is x (metres) north of P.<br/>P © Q [x] means P is x (metres) south of Q.<br/>If \"W @ Z [13], X ® U [15], T © R [8], W ® S [7], V<br/>@ T [6], R # X [17], U @ S [9], Y ® V [10]\",<br/>What is the direction of X with respect to Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "B",
+        "text": "South-west",
+        "html": "South-west"
+      },
+      {
+        "id": "C",
+        "text": "North-east",
+        "html": "North-east"
+      },
+      {
+        "id": "D",
+        "text": "North-west",
+        "html": "North-west"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\n \nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nHence, X is in the south-east direction of Z.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/> <br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Hence, X is in the south-east direction of Z.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Answer the following question based on the\ninformation given below.\n \nIn a certain code language,\nP @ Q [x] means P is x (metres) east of Q.\nP # Q [x] means P is x (metres) west of Q.\nP ® Q [x] means Q is x (metres) north of P.\nP © Q [x] means P is x (metres) south of Q.\nIf \"W @ Z [13], X ® U [15], T © R [8], W ® S [7],\nV @ T [6], R # X [17], U @ S [9], Y ® V [10]\",\n \nWhat is the shortest distance between point R\nand point V?",
+    "questionHtml": "Answer the following question based on the<br/>information given below.<br/> <br/>In a certain code language,<br/>P @ Q [x] means P is x (metres) east of Q.<br/>P # Q [x] means P is x (metres) west of Q.<br/>P ® Q [x] means Q is x (metres) north of P.<br/>P © Q [x] means P is x (metres) south of Q.<br/>If \"W @ Z [13], X ® U [15], T © R [8], W ® S [7],<br/>V @ T [6], R # X [17], U @ S [9], Y ® V [10]\",<br/> <br/>What is the shortest distance between point R<br/>and point V?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10m",
+        "html": "10m"
+      },
+      {
+        "id": "B",
+        "text": "12m",
+        "html": "12m"
+      },
+      {
+        "id": "C",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "D",
+        "text": "8m",
+        "html": "8m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: \"W @ Z [13], X ® U [15], T © R\n[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®\nV [10]\"\nAfter decoding the codes we get,\nW @ Z [13] means W is the 13m east of Z, X ® U\n[15] means U is the 15m north of X, T © R [8]\nmeans T is the 8m south of R, W ® S [7] means S\nis the 7m north of W, V @ T [6] means V is the\n6m east of T, R # X [17] means R is 17m west of X,\nU @ S [9] means U is 9m east of S, Y ® V [10]\nmeans V is 10m north of Y.\nThe final diagram:\nShortest distance between R and V can be\ndetermined by using Pythagoras theorem.\nRV = √ (8² + 6²) m\nRV = √ (64 + 36) m\nRV = √ 100 m\nRV = 10m\nHence, the shortest distance between R and V is\n10m.",
+    "explanationHtml": "Given expression: \"W @ Z [13], X ® U [15], T © R<br/>[8], W ® S [7], V @ T [6], R # X [17], U @ S [9], Y ®<br/>V [10]\"<br/>After decoding the codes we get,<br/>W @ Z [13] means W is the 13m east of Z, X ® U<br/>[15] means U is the 15m north of X, T © R [8]<br/>means T is the 8m south of R, W ® S [7] means S<br/>is the 7m north of W, V @ T [6] means V is the<br/>6m east of T, R # X [17] means R is 17m west of X,<br/>U @ S [9] means U is 9m east of S, Y ® V [10]<br/>means V is 10m north of Y.<br/>The final diagram:<br/>Shortest distance between R and V can be<br/>determined by using Pythagoras theorem.<br/>RV = √ (8² + 6²) m<br/>RV = √ (64 + 36) m<br/>RV = √ 100 m<br/>RV = 10m<br/>Hence, the shortest distance between R and V is<br/>10m.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Answer the questions based on the information\ngiven below.\n \nIn a certain coded language,\nIf A # C (9m) means A is 9m west of C,\nA @ C (7m) means A is 7m north of C,\nA % C (11m) means A is 11m east of C,\nA $ C (15m) means A is 15m south of C.\nP @ S (8m), U % P (5m), V $ U (12m), Q # V (3m),\nW % Q (8m), Y @ Q (4m), W $ X (4m)\n \nWhat is the shortest distance between S and X?",
+    "questionHtml": "Answer the questions based on the information<br/>given below.<br/> <br/>In a certain coded language,<br/>If A # C (9m) means A is 9m west of C,<br/>A @ C (7m) means A is 7m north of C,<br/>A % C (11m) means A is 11m east of C,<br/>A $ C (15m) means A is 15m south of C.<br/>P @ S (8m), U % P (5m), V $ U (12m), Q # V (3m),<br/>W % Q (8m), Y @ Q (4m), W $ X (4m)<br/> <br/>What is the shortest distance between S and X?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8m",
+        "html": "8m"
+      },
+      {
+        "id": "B",
+        "text": "9m",
+        "html": "9m"
+      },
+      {
+        "id": "C",
+        "text": "10m",
+        "html": "10m"
+      },
+      {
+        "id": "D",
+        "text": "12m",
+        "html": "12m"
+      },
+      {
+        "id": "E",
+        "text": "5m",
+        "html": "5m"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "On decoding the codes, we get:\nP is 8m north of S. U is 5m east of P. V is 12m\nsouth of U. Q is 3m west of V. W is 8m east of Q.\nY is 4m north of Q. W is 4m south of X.\nWe draw the following figure:\nSo, the shortest distance between S and X is 10m.\nHence, option c) is the correct answer.",
+    "explanationHtml": "On decoding the codes, we get:<br/>P is 8m north of S. U is 5m east of P. V is 12m<br/>south of U. Q is 3m west of V. W is 8m east of Q.<br/>Y is 4m north of Q. W is 4m south of X.<br/>We draw the following figure:<br/>So, the shortest distance between S and X is 10m.<br/>Hence, option c) is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "Expression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y",
+    "explanationHtml": "Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "A!5B means B is 5m to the east of A",
+    "questionHtml": "A!5B means B is 5m to the east of A",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "In triangle ZHG",
+    "explanationHtml": "In triangle ZHG",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "A@4B means B is 4m to the west of A",
+    "questionHtml": "A@4B means B is 4m to the west of A",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "A#3B means B is 3m to the north of A",
+    "questionHtml": "A#3B means B is 3m to the north of A",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$9B means B is 9m to the south of A\nNote : (1) #! means north-east\n(2) #@ means north-west\n(3) $! means south-east\n(4) $@ means south-west\nFor example : F#@8A means A is 8m to the\nnorth-west of F.\nExpression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y\n \nCalculate the distance of QYSXP?",
+    "questionHtml": "A$9B means B is 9m to the south of A<br/>Note : (1) #! means north-east<br/>(2) #@ means north-west<br/>(3) $! means south-east<br/>(4) $@ means south-west<br/>For example : F#@8A means A is 8m to the<br/>north-west of F.<br/>Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y<br/> <br/>Calculate the distance of QYSXP?",
+    "options": [
+      {
+        "id": "A",
+        "text": "42m",
+        "html": "42m"
+      },
+      {
+        "id": "B",
+        "text": "43m",
+        "html": "43m"
+      },
+      {
+        "id": "C",
+        "text": "47m",
+        "html": "47m"
+      },
+      {
+        "id": "D",
+        "text": "49m",
+        "html": "49m"
+      },
+      {
+        "id": "E",
+        "text": "50m",
+        "html": "50m"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Expression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y\nIn the case of OS : The second letter from\nleft is to the south-east of the first letter\nfrom left.\nBut, in other cases, The second letter from\nleft is to the north-east of the first letter\nfrom left.",
+    "explanationHtml": "Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y<br/>In the case of OS : The second letter from<br/>left is to the south-east of the first letter<br/>from left.<br/>But, in other cases, The second letter from<br/>left is to the north-east of the first letter<br/>from left.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$9B means B is 9m to the south of A\nNote : (1) #! means north-east\n(2) #@ means north-west\n(3) $! means south-east\n(4) $@ means south-west\nFor example : F#@8A means A is 8m to the\nnorth-west of F.\nExpression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y\n \nFind the odd one out?",
+    "questionHtml": "A$9B means B is 9m to the south of A<br/>Note : (1) #! means north-east<br/>(2) #@ means north-west<br/>(3) $! means south-east<br/>(4) $@ means south-west<br/>For example : F#@8A means A is 8m to the<br/>north-west of F.<br/>Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y<br/> <br/>Find the odd one out?",
+    "options": [
+      {
+        "id": "A",
+        "text": "PS",
+        "html": "PS"
+      },
+      {
+        "id": "B",
+        "text": "JQ",
+        "html": "JQ"
+      },
+      {
+        "id": "C",
+        "text": "XY",
+        "html": "XY"
+      },
+      {
+        "id": "D",
+        "text": "PT",
+        "html": "PT"
+      },
+      {
+        "id": "E",
+        "text": "OS",
+        "html": "OS"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$9B means B is 9m to the south of A\nNote : (1) #! means north-east\n(2) #@ means north-west\n(3) $! means south-east\n(4) $@ means south-west\nFor example : F#@8A means A is 8m to the\nnorth-west of F.\nExpression \n: \nP!11X#16S@3T!12Y;\nT#O@4J#!5Q$!13Y\n \nWhich of the following is not to the south-east\nof J?",
+    "questionHtml": "A$9B means B is 9m to the south of A<br/>Note : (1) #! means north-east<br/>(2) #@ means north-west<br/>(3) $! means south-east<br/>(4) $@ means south-west<br/>For example : F#@8A means A is 8m to the<br/>north-west of F.<br/>Expression <br/>: <br/>P!11X#16S@3T!12Y;<br/>T#O@4J#!5Q$!13Y<br/> <br/>Which of the following is not to the south-east<br/>of J?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "A!B means A is 3m to the east of B",
+    "questionHtml": "A!B means A is 3m to the east of B",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "In triangle ZHG",
+    "explanationHtml": "In triangle ZHG",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "A@B means A is 2m to the west of B",
+    "questionHtml": "A@B means A is 2m to the west of B",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "A#B means A is 4m to the north of B",
+    "questionHtml": "A#B means A is 4m to the north of B",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "A@B(13m) A is 18m north of B13+5=18\nA#B(11m) A is 9m south of B11-2=9\nA$B(22m) A is 19m east of B22-3=19\nA%B(9m) A is 16m west of B9+7=16\nFrom the above condition, we have subtracted -\n2, -3 from the new sequence of questions and we\nhave added 5, 7 to the new sequence of the\nquestion.",
+    "explanationHtml": "A@B(13m) A is 18m north of B13+5=18<br/>A#B(11m) A is 9m south of B11-2=9<br/>A$B(22m) A is 19m east of B22-3=19<br/>A%B(9m) A is 16m west of B9+7=16<br/>From the above condition, we have subtracted -<br/>2, -3 from the new sequence of questions and we<br/>have added 5, 7 to the new sequence of the<br/>question.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$B means A is 5m to the south of B\nExpression : P#Q!R$N!T@S\n \nFind the odd one out with respect to T?",
+    "questionHtml": "A$B means A is 5m to the south of B<br/>Expression : P#Q!R$N!T@S<br/> <br/>Find the odd one out with respect to T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "N",
+        "html": "N"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$B means A is 5m to the south of B\nExpression : P#Q!R$N!T@S\n \nWhat is the distance between S and N?",
+    "questionHtml": "A$B means A is 5m to the south of B<br/>Expression : P#Q!R$N!T@S<br/> <br/>What is the distance between S and N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5m",
+        "html": "5m"
+      },
+      {
+        "id": "B",
+        "text": "4m",
+        "html": "4m"
+      },
+      {
+        "id": "C",
+        "text": "3m",
+        "html": "3m"
+      },
+      {
+        "id": "D",
+        "text": "2m",
+        "html": "2m"
+      },
+      {
+        "id": "E",
+        "text": "1m",
+        "html": "1m"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A$B means A is 5m to the south of B\nExpression : P#Q!R$N!T@S\n \nWhich of the following is to the south-west of\nP?",
+    "questionHtml": "A$B means A is 5m to the south of B<br/>Expression : P#Q!R$N!T@S<br/> <br/>Which of the following is to the south-west of<br/>P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "N",
+        "html": "N"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "Q",
+        "html": "Q"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B\nAfter decoding the codes we get,\nF is to the east of A. A is to the north of D. D is to\nthe west of B. E is to the east of F. F is to the\nsouth of C. C is to the north of B.\nThe final diagram:\nHence, B is standing to the south of C.",
+    "explanationHtml": "Given expression: F 3 A 1 D 4 B; E 3 F 2 C 1 B<br/>After decoding the codes we get,<br/>F is to the east of A. A is to the north of D. D is to<br/>the west of B. E is to the east of F. F is to the<br/>south of C. C is to the north of B.<br/>The final diagram:<br/>Hence, B is standing to the south of C.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nA!4B means A is 8m to the east of B\nA@7B means A is 14m to the west of B\nA#5B means A is 10m to the north of B\nA$2B means A is 4m to the south of B\nExpression : G@2K#5T$7R!4W!3L#7Y\n \nIf J is the mid-point of W and R, then what is\nthe distance between G and J?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>A!4B means A is 8m to the east of B<br/>A@7B means A is 14m to the west of B<br/>A#5B means A is 10m to the north of B<br/>A$2B means A is 4m to the south of B<br/>Expression : G@2K#5T$7R!4W!3L#7Y<br/> <br/>If J is the mid-point of W and R, then what is<br/>the distance between G and J?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2m",
+        "html": "2m"
+      },
+      {
+        "id": "B",
+        "text": "6m",
+        "html": "6m"
+      },
+      {
+        "id": "C",
+        "text": "8m",
+        "html": "8m"
+      },
+      {
+        "id": "D",
+        "text": "4m",
+        "html": "4m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\nThe distance between J and G is equal to the\ndistance between R and K. Therefore, it is\n4m.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>The distance between J and G is equal to the<br/>distance between R and K. Therefore, it is<br/>4m.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nA!4B means A is 8m to the east of B\nA@7B means A is 14m to the west of B\nA#5B means A is 10m to the north of B\nA$2B means A is 4m to the south of B\nExpression : G@2K#5T$7R!4W!3L#7Y\n \nWhich of the following is not to the north-east\nof Y?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>A!4B means A is 8m to the east of B<br/>A@7B means A is 14m to the west of B<br/>A#5B means A is 10m to the north of B<br/>A$2B means A is 4m to the south of B<br/>Expression : G@2K#5T$7R!4W!3L#7Y<br/> <br/>Which of the following is not to the north-east<br/>of Y?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "K",
+        "html": "K"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "L",
+        "html": "L"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\n* L is to the north of Y.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>* L is to the north of Y.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nA!4B means A is 8m to the east of B\nA@7B means A is 14m to the west of B\nA#5B means A is 10m to the north of B\nA$2B means A is 4m to the south of B\nExpression : G@2K#5T$7R!4W!3L#7Y\n \nWhich of the following is to the west of T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>A!4B means A is 8m to the east of B<br/>A@7B means A is 14m to the west of B<br/>A#5B means A is 10m to the north of B<br/>A$2B means A is 4m to the south of B<br/>Expression : G@2K#5T$7R!4W!3L#7Y<br/> <br/>Which of the following is to the west of T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "B",
+        "text": "L",
+        "html": "L"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expression : G@2K#5T$7R!4W!3L#7Y\nY is to the west of T.",
+    "explanationHtml": "Expression : G@2K#5T$7R!4W!3L#7Y<br/>Y is to the west of T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 3m to the north of Q\nP^6Q means P is 4m to the south of Q\nP&4Q means P is 2m to the east of Q\nP*7Q means P is 5m to the west of Q\nExpression : F&7N*5T^3O*8G%7H\n \nIf L is 4m to the north of H, then which of the\nfollowing is 9m to the west of L?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 3m to the north of Q<br/>P^6Q means P is 4m to the south of Q<br/>P&4Q means P is 2m to the east of Q<br/>P*7Q means P is 5m to the west of Q<br/>Expression : F&7N*5T^3O*8G%7H<br/> <br/>If L is 4m to the north of H, then which of the<br/>following is 9m to the west of L?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "D",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "E",
+        "text": "N",
+        "html": "N"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 3m to the north of Q\nP^6Q means P is 4m to the south of Q\nP&4Q means P is 2m to the east of Q\nP*7Q means P is 5m to the west of Q\nExpression : F&7N*5T^3O*8G%7H\n \nWhich of the following is 2m to the west of F?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 3m to the north of Q<br/>P^6Q means P is 4m to the south of Q<br/>P&4Q means P is 2m to the east of Q<br/>P*7Q means P is 5m to the west of Q<br/>Expression : F&7N*5T^3O*8G%7H<br/> <br/>Which of the following is 2m to the west of F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "N",
+        "html": "N"
+      },
+      {
+        "id": "E",
+        "text": "H",
+        "html": "H"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Expression : F&7N*5T^3O*8G%7H\nT is 2m to the west of F.",
+    "explanationHtml": "Expression : F&7N*5T^3O*8G%7H<br/>T is 2m to the west of F.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 3m to the north of Q\nP^6Q means P is 4m to the south of Q\nP&4Q means P is 2m to the east of Q\nP*7Q means P is 5m to the west of Q\nExpression : F&7N*5T^3O*8G%7H\n \nWhich of the following is not to the north-west\nof H?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 3m to the north of Q<br/>P^6Q means P is 4m to the south of Q<br/>P&4Q means P is 2m to the east of Q<br/>P*7Q means P is 5m to the west of Q<br/>Expression : F&7N*5T^3O*8G%7H<br/> <br/>Which of the following is not to the north-west<br/>of H?",
+    "options": [
+      {
+        "id": "A",
+        "text": "N",
+        "html": "N"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "D",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "E",
+        "text": "G",
+        "html": "G"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : F&7N*5T^3O*8G%7H\nOnly G is to the north of H and others are to\nthe north-west of H.",
+    "explanationHtml": "Expression : F&7N*5T^3O*8G%7H<br/>Only G is to the north of H and others are to<br/>the north-west of H.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 5m to the north of Q\nP^6Q means P is 6m to the south of Q\nP&4Q means P is 4m to the east of Q\nP*7Q means P is 7m to the west of Q\nNote : (1) %& means north-east\n(2) %* means north-west\n(3) ^& means south-east\n(4) ^* means south-west\nFor example : F%*8A means F is 8m to the north-\nwest of A.\nExpression : X%&5Y*4Z^10M%5K; N*7M^&25L;\nY&3S\n \nCalculate the distance of LMKXY?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 5m to the north of Q<br/>P^6Q means P is 6m to the south of Q<br/>P&4Q means P is 4m to the east of Q<br/>P*7Q means P is 7m to the west of Q<br/>Note : (1) %& means north-east<br/>(2) %* means north-west<br/>(3) ^& means south-east<br/>(4) ^* means south-west<br/>For example : F%*8A means F is 8m to the north-<br/>west of A.<br/>Expression : X%&5Y*4Z^10M%5K; N*7M^&25L;<br/>Y&3S<br/> <br/>Calculate the distance of LMKXY?",
+    "options": [
+      {
+        "id": "A",
+        "text": "35m",
+        "html": "35m"
+      },
+      {
+        "id": "B",
+        "text": "36m",
+        "html": "36m"
+      },
+      {
+        "id": "C",
+        "text": "34m",
+        "html": "34m"
+      },
+      {
+        "id": "D",
+        "text": "37m",
+        "html": "37m"
+      },
+      {
+        "id": "E",
+        "text": "33m",
+        "html": "33m"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 5m to the north of Q\nP^6Q means P is 6m to the south of Q\nP&4Q means P is 4m to the east of Q",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 5m to the north of Q<br/>P^6Q means P is 6m to the south of Q<br/>P&4Q means P is 4m to the east of Q",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;\nY&3S",
+    "explanationHtml": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;<br/>Y&3S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the expression given below.\nP%5Q means P is 5m to the north of Q\nP^6Q means P is 6m to the south of Q\nP&4Q means P is 4m to the east of Q\nP*7Q means P is 7m to the west of Q\nNote : (1) %& means north-east\n(2) %* means north-west\n(3) ^& means south-east\n(4) ^* means south-west\nFor example : F%*8A means F is 8m to the north-\nwest of A.\nExpression : X%&5Y*4Z^10M%5K; N*7M^&25L;\nY&3S\n \nWhich of the following is not to the south-east\nof L?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the expression given below.<br/>P%5Q means P is 5m to the north of Q<br/>P^6Q means P is 6m to the south of Q<br/>P&4Q means P is 4m to the east of Q<br/>P*7Q means P is 7m to the west of Q<br/>Note : (1) %& means north-east<br/>(2) %* means north-west<br/>(3) ^& means south-east<br/>(4) ^* means south-west<br/>For example : F%*8A means F is 8m to the north-<br/>west of A.<br/>Expression : X%&5Y*4Z^10M%5K; N*7M^&25L;<br/>Y&3S<br/> <br/>Which of the following is not to the south-east<br/>of L?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "B",
+        "text": "K",
+        "html": "K"
+      },
+      {
+        "id": "C",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "D",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "E",
+        "text": "N",
+        "html": "N"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;\nY&3S",
+    "explanationHtml": "Expression : X%&5Y*4Z^10M%5K; N*7M^*25L;<br/>Y&3S",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the question given below.\nP#8Q means P is 10m to the north of Q\nP$21Q means P is 19m to the south of Q\nP!13Q means P is 12m to the east of Q\nP@4Q means P is 4m to the west of Q\nRamesh was living #7 of Shyam. One day, Shyam\nwent to Richa’s house which was !9 of Piyush’s\nhome, but she was not there. She went out with\nRekha who lived $3 of Atul’s house. Divya lived\n@6 of Abha’s house, who lived $15 of Richa’s\nhouse. Piyush’s house was !9 of Shyam’s house.\nAtul’s house was $7 of Divya’s house.\n \nWhat is the distance between Shyam’s house\nand Richa’s house?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the question given below.<br/>P#8Q means P is 10m to the north of Q<br/>P$21Q means P is 19m to the south of Q<br/>P!13Q means P is 12m to the east of Q<br/>P@4Q means P is 4m to the west of Q<br/>Ramesh was living #7 of Shyam. One day, Shyam<br/>went to Richa’s house which was !9 of Piyush’s<br/>home, but she was not there. She went out with<br/>Rekha who lived $3 of Atul’s house. Divya lived<br/>@6 of Abha’s house, who lived $15 of Richa’s<br/>house. Piyush’s house was !9 of Shyam’s house.<br/>Atul’s house was $7 of Divya’s house.<br/> <br/>What is the distance between Shyam’s house<br/>and Richa’s house?",
+    "options": [
+      {
+        "id": "A",
+        "text": "9m",
+        "html": "9m"
+      },
+      {
+        "id": "B",
+        "text": "12m",
+        "html": "12m"
+      },
+      {
+        "id": "C",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "D",
+        "text": "15m",
+        "html": "15m"
+      },
+      {
+        "id": "E",
+        "text": "16m",
+        "html": "16m"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the question given below.\nP#8Q means P is 10m to the north of Q\nP$21Q means P is 19m to the south of Q\nP!13Q means P is 12m to the east of Q\nP@4Q means P is 4m to the west of Q\nRamesh was living #7 of Shyam. One day, Shyam\nwent to Richa’s house which was !9 of Piyush’s\nhome, but she was not there. She went out with\nRekha who lived $3 of Atul’s house. Divya lived\n@6 of Abha’s house, who lived $15 of Richa’s\nhouse. Piyush’s house was !9 of Shyam’s house.\nAtul’s house was $7 of Divya’s house.\n \nWhat is the longest distance between Ramesh’s\nand Rekha’s house?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the question given below.<br/>P#8Q means P is 10m to the north of Q<br/>P$21Q means P is 19m to the south of Q<br/>P!13Q means P is 12m to the east of Q<br/>P@4Q means P is 4m to the west of Q<br/>Ramesh was living #7 of Shyam. One day, Shyam<br/>went to Richa’s house which was !9 of Piyush’s<br/>home, but she was not there. She went out with<br/>Rekha who lived $3 of Atul’s house. Divya lived<br/>@6 of Abha’s house, who lived $15 of Richa’s<br/>house. Piyush’s house was !9 of Shyam’s house.<br/>Atul’s house was $7 of Divya’s house.<br/> <br/>What is the longest distance between Ramesh’s<br/>and Rekha’s house?",
+    "options": [
+      {
+        "id": "A",
+        "text": "46m",
+        "html": "46m"
+      },
+      {
+        "id": "B",
+        "text": "47m",
+        "html": "47m"
+      },
+      {
+        "id": "C",
+        "text": "48m",
+        "html": "48m"
+      },
+      {
+        "id": "D",
+        "text": "49m",
+        "html": "49m"
+      },
+      {
+        "id": "E",
+        "text": "50m",
+        "html": "50m"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Distance : 9m+8m+8m+13m+6m+5m+1m = 50m\n#8 = 10 ( added 2)\n$21 = 19 (subtracted 2)\n!13 = 12 (subtracted 1)\n@4 = 4 ( no change)",
+    "explanationHtml": "Distance : 9m+8m+8m+13m+6m+5m+1m = 50m<br/>#8 = 10 ( added 2)<br/>$21 = 19 (subtracted 2)<br/>!13 = 12 (subtracted 1)<br/>@4 = 4 ( no change)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nA set of coded directions is given below. You\nhave to decode the meaning of the following\nsymbols and solve the question given below.\nP#8Q means P is 10m to the north of Q\nP$21Q means P is 19m to the south of Q\nP!13Q means P is 12m to the east of Q\nP@4Q means P is 4m to the west of Q\nRamesh was living #7 of Shyam. One day, Shyam\nwent to Richa’s house which was !9 of Piyush’s\nhome, but she was not there. She went out with\nRekha who lived $3 of Atul’s house. Divya lived\n@6 of Abha’s house, who lived $15 of Richa’s\nhouse. Piyush’s house was !9 of Shyam’s house.\nAtul’s house was $7 of Divya’s house.\n \nWho did not live to the south-east of Piyush?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>A set of coded directions is given below. You<br/>have to decode the meaning of the following<br/>symbols and solve the question given below.<br/>P#8Q means P is 10m to the north of Q<br/>P$21Q means P is 19m to the south of Q<br/>P!13Q means P is 12m to the east of Q<br/>P@4Q means P is 4m to the west of Q<br/>Ramesh was living #7 of Shyam. One day, Shyam<br/>went to Richa’s house which was !9 of Piyush’s<br/>home, but she was not there. She went out with<br/>Rekha who lived $3 of Atul’s house. Divya lived<br/>@6 of Abha’s house, who lived $15 of Richa’s<br/>house. Piyush’s house was !9 of Shyam’s house.<br/>Atul’s house was $7 of Divya’s house.<br/> <br/>Who did not live to the south-east of Piyush?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ramesh",
+        "html": "Ramesh"
+      },
+      {
+        "id": "B",
+        "text": "Divya",
+        "html": "Divya"
+      },
+      {
+        "id": "C",
+        "text": "Rekha",
+        "html": "Rekha"
+      },
+      {
+        "id": "D",
+        "text": "Abha",
+        "html": "Abha"
+      },
+      {
+        "id": "E",
+        "text": "Atul",
+        "html": "Atul"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "#8 = 10 ( added 2)\n$21 = 19 (subtracted 2)\n!13 = 12 (subtracted 1)\n@4 = 4 ( no change)",
+    "explanationHtml": "#8 = 10 ( added 2)<br/>$21 = 19 (subtracted 2)<br/>!13 = 12 (subtracted 1)<br/>@4 = 4 ( no change)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below. It has been\ngiven that-\n \nZ ȣ Y means Y is to the north of Z\nZ ȶ Y means Y is to the south of Z.\nZ ≠ Y means Z is to the east of Y.\nZ ᶺ Y means Z is to the west of Y.\n \nH is ȶ 20 m from point K. Point J is ȶ 15 m from\npoint I. Point F is ȣ 15 m from Point E. Point G is ≠\n20 m from point E. Point F is ≠ 16 m from point J.\nPoint I is ≠ 30 m From point K.\n \nH is in which direction with respect to F?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below. It has been<br/>given that-<br/> <br/>Z ȣ Y means Y is to the north of Z<br/>Z ȶ Y means Y is to the south of Z.<br/>Z ≠ Y means Z is to the east of Y.<br/>Z ᶺ Y means Z is to the west of Y.<br/> <br/>H is ȶ 20 m from point K. Point J is ȶ 15 m from<br/>point I. Point F is ȣ 15 m from Point E. Point G is ≠<br/>20 m from point E. Point F is ≠ 16 m from point J.<br/>Point I is ≠ 30 m From point K.<br/> <br/>H is in which direction with respect to F?",
+    "options": [
+      {
+        "id": "A",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "B",
+        "text": "South-East",
+        "html": "South-East"
+      },
+      {
+        "id": "C",
+        "text": "North-East",
+        "html": "North-East"
+      },
+      {
+        "id": "D",
+        "text": "South-West",
+        "html": "South-West"
+      },
+      {
+        "id": "E",
+        "text": "North-West",
+        "html": "North-West"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Q30\nText Solution:",
+    "explanationHtml": "Q30<br/>Text Solution:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below. It has been\ngiven that-\n \nZ ȣ Y means Y is to the north of Z\nZ ȶ Y means Y is to the south of Z.\nZ ≠ Y means Z is to the east of Y.\nZ ᶺ Y means Z is to the west of Y.\n \nH is ȶ 20 m from point K. Point J is ȶ 15 m from\npoint I. Point F is ȣ 15 m from Point E. Point G is ≠\n20 m from point E. Point F is ≠ 16 m from point J.\nPoint I is ≠ 30 m From point K.\n \nWhat is the shortest distance between point F\nand G?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below. It has been<br/>given that-<br/> <br/>Z ȣ Y means Y is to the north of Z<br/>Z ȶ Y means Y is to the south of Z.<br/>Z ≠ Y means Z is to the east of Y.<br/>Z ᶺ Y means Z is to the west of Y.<br/> <br/>H is ȶ 20 m from point K. Point J is ȶ 15 m from<br/>point I. Point F is ȣ 15 m from Point E. Point G is ≠<br/>20 m from point E. Point F is ≠ 16 m from point J.<br/>Point I is ≠ 30 m From point K.<br/> <br/>What is the shortest distance between point F<br/>and G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20m",
+        "html": "20m"
+      },
+      {
+        "id": "B",
+        "text": "30m",
+        "html": "30m"
+      },
+      {
+        "id": "C",
+        "text": "15m",
+        "html": "15m"
+      },
+      {
+        "id": "D",
+        "text": "25m",
+        "html": "25m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "1) Sagar starts walking from his office in the\nSouth direction and walks for 5 km, from here he\ntakes a left turn to reach the coffee shop which is\n4 km away. From the coffee shop, he takes a left\nturn and walks for 1 km, and finally takes a right\nturn to reach the park which is 3 km away.",
+    "explanationHtml": "1) Sagar starts walking from his office in the<br/>South direction and walks for 5 km, from here he<br/>takes a left turn to reach the coffee shop which is<br/>4 km away. From the coffee shop, he takes a left<br/>turn and walks for 1 km, and finally takes a right<br/>turn to reach the park which is 3 km away.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "",
+    "question": "Directions: Study the following questions\ncarefully and answer the questions given\nbelow.\nIn a certain coded language,\n‘@’ means east.\n‘#’ means west.\n‘%’ means north.\n‘$’ means south.\nNote: If two symbols are given simultaneously\nthen we will consider both the directions.\nFor example,\n%@ means north-east.\nA kid accidently bumped into a directional sign\nboard. He placed the board again but in such a\nway that the arrow which was first showing $@ is\nnow showing %. Stephan went in a wrong way\nthinking it to be #. In which direction is Stephan\nactually travelling now?",
+    "questionHtml": "Directions: Study the following questions<br/>carefully and answer the questions given<br/>below.<br/>In a certain coded language,<br/>‘@’ means east.<br/>‘#’ means west.<br/>‘%’ means north.<br/>‘$’ means south.<br/>Note: If two symbols are given simultaneously<br/>then we will consider both the directions.<br/>For example,<br/>%@ means north-east.<br/>A kid accidently bumped into a directional sign<br/>board. He placed the board again but in such a<br/>way that the arrow which was first showing $@ is<br/>now showing %. Stephan went in a wrong way<br/>thinking it to be #. In which direction is Stephan<br/>actually travelling now?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$@",
+        "html": "$@"
+      },
+      {
+        "id": "B",
+        "text": "%@",
+        "html": "%@"
+      },
+      {
+        "id": "C",
+        "text": "$#",
+        "html": "$#"
+      },
+      {
+        "id": "D",
+        "text": "%#",
+        "html": "%#"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. The first figure shows the meaning of the\ndirection board initially and the second figure\nshows the meaning of the direction board\nafter the bumping.\nStephan wanted to take the direction west (#)\nbut according to the second figure, he took the\nsouth east ($@) direction.",
+    "explanationHtml": "1. The first figure shows the meaning of the<br/>direction board initially and the second figure<br/>shows the meaning of the direction board<br/>after the bumping.<br/>Stephan wanted to take the direction west (#)<br/>but according to the second figure, he took the<br/>south east ($@) direction.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \n1 $ 2 means 2 is at 2 m to the North of 1.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>1 $ 2 means 2 is at 2 m to the North of 1.",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "1) BA is 2 m south of ZA.\n2) PA is 2 m left of BA.",
+    "explanationHtml": "1) BA is 2 m south of ZA.<br/>2) PA is 2 m left of BA.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "* 2 means 2 is at 2 m to the left of 1.\n1 @ 2 means 2 is at 2 m to the south of 1.\n1 # 2 means 2 is at 2 m to the right of 1.\n \nFollowing given equation- ZA @ BA * PA, PA is in\nwhich direction of ZA?",
+    "questionHtml": "* 2 means 2 is at 2 m to the left of 1.<br/>1 @ 2 means 2 is at 2 m to the south of 1.<br/>1 # 2 means 2 is at 2 m to the right of 1.<br/> <br/>Following given equation- ZA @ BA * PA, PA is in<br/>which direction of ZA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "B",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "C",
+        "text": "South-West",
+        "html": "South-West"
+      },
+      {
+        "id": "D",
+        "text": "North-West",
+        "html": "North-West"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "In triangle ZHG",
+    "explanationHtml": "In triangle ZHG",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \n1 $ 2 means 2 is at 2 m to the North of 1.\n1 * 2 means 2 is at 2 m to the left of 1.\n1 @ 2 means 2 is at 2 m to the south of 1.\n1 # 2 means 2 is at 2 m to the right of 1.\n \nFollowing the equation- PB * RB $ AB # UB, in\nwhich direction is PB with respect to AB?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>1 $ 2 means 2 is at 2 m to the North of 1.<br/>1 * 2 means 2 is at 2 m to the left of 1.<br/>1 @ 2 means 2 is at 2 m to the south of 1.<br/>1 # 2 means 2 is at 2 m to the right of 1.<br/> <br/>Following the equation- PB * RB $ AB # UB, in<br/>which direction is PB with respect to AB?",
+    "options": [
+      {
+        "id": "A",
+        "text": "West",
+        "html": "West"
+      },
+      {
+        "id": "B",
+        "text": "South-East",
+        "html": "South-East"
+      },
+      {
+        "id": "C",
+        "text": "North-West",
+        "html": "North-West"
+      },
+      {
+        "id": "D",
+        "text": "East",
+        "html": "East"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1) RB is left of PB.\n2) AB is north of RB.\n3) UB is right of AB.",
+    "explanationHtml": "1) RB is left of PB.<br/>2) AB is north of RB.<br/>3) UB is right of AB.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "34",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nIn a certain code language,\nS%Q (21m) means S is 21m north of Q.\nS&Q (19m) means S is 19m south of Q.\nS*Q (45m) means S is 45m east of Q.\nS@Q (11m) means S is 11m west of Q.\nIf, C%F (12m); F@H (5m); I@D (4m); I&H(3m);\nA%D (8m) A@G (5m); E%A (7m); B*E (5m)\n \nIf J%H (5m), then what will be the distance\nbetween J and G?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>In a certain code language,<br/>S%Q (21m) means S is 21m north of Q.<br/>S&Q (19m) means S is 19m south of Q.<br/>S*Q (45m) means S is 45m east of Q.<br/>S@Q (11m) means S is 11m west of Q.<br/>If, C%F (12m); F@H (5m); I@D (4m); I&H(3m);<br/>A%D (8m) A@G (5m); E%A (7m); B*E (5m)<br/> <br/>If J%H (5m), then what will be the distance<br/>between J and G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7m",
+        "html": "7m"
+      },
+      {
+        "id": "B",
+        "text": "5m",
+        "html": "5m"
+      },
+      {
+        "id": "C",
+        "text": "9m",
+        "html": "9m"
+      },
+      {
+        "id": "D",
+        "text": "10m",
+        "html": "10m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given expression: C%F (12m); F@H (5m); I@D\n(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);\nB*E (5m)\nAfter decoding the codes we get,\nC%F (12m); C is 12m North of F, F@H (5m); F is 5m\nwest of H, I@D (4m); I is 4m to the west of D,\nI&H(3m); I is 3m South of H, A%D (8m): A is 8m to\nthe north of D, A@G (5m); A is 5m to the west of\nG, E%A (7m); E is 7 m to the north of A, B*E (5m):\nB is 5 m to the east of A.\nThe final diagram:\nHence, the distance between G and J will be 9m.",
+    "explanationHtml": "Given expression: C%F (12m); F@H (5m); I@D<br/>(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);<br/>B*E (5m)<br/>After decoding the codes we get,<br/>C%F (12m); C is 12m North of F, F@H (5m); F is 5m<br/>west of H, I@D (4m); I is 4m to the west of D,<br/>I&H(3m); I is 3m South of H, A%D (8m): A is 8m to<br/>the north of D, A@G (5m); A is 5m to the west of<br/>G, E%A (7m); E is 7 m to the north of A, B*E (5m):<br/>B is 5 m to the east of A.<br/>The final diagram:<br/>Hence, the distance between G and J will be 9m.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "35",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nIn a certain code language,\nS%Q (21m) means S is 21m north of Q.\nS&Q (19m) means S is 19m south of Q.\nS*Q (45m) means S is 45m east of Q.\nS@Q (11m) means S is 11m west of Q.\nIf, C%F (12m); F@H (5m); I@D (4m); I&H(3m);\nA%D (8m) A@G (5m); E%A (7m); B*E (5m)\n \nIf L is the midpoint of line CB, then what is the\ndistance between L and E?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>In a certain code language,<br/>S%Q (21m) means S is 21m north of Q.<br/>S&Q (19m) means S is 19m south of Q.<br/>S*Q (45m) means S is 45m east of Q.<br/>S@Q (11m) means S is 11m west of Q.<br/>If, C%F (12m); F@H (5m); I@D (4m); I&H(3m);<br/>A%D (8m) A@G (5m); E%A (7m); B*E (5m)<br/> <br/>If L is the midpoint of line CB, then what is the<br/>distance between L and E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1m",
+        "html": "1m"
+      },
+      {
+        "id": "B",
+        "text": "2m",
+        "html": "2m"
+      },
+      {
+        "id": "C",
+        "text": "3m",
+        "html": "3m"
+      },
+      {
+        "id": "D",
+        "text": "4m",
+        "html": "4m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Given expression: C%F (12m); F@H (5m); I@D\n(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);\nB*E (5m)\nAfter decoding the codes we get,\nC%F (12m); C is 12m North of F, F@H (5m); F is 5m\nwest of H, I@D (4m); I is 4m to the west of D,\nI&H(3m); I is 3m South of H, A%D (8m): A is 8m to\nthe north of D, A@G (5m); A is 5m to the west of\nG, E%A (7m); E is 7 m to the north of A, B*E (5m):\nB is 5 m to the east of A.\nThe final diagram:\n \n625 \n−−\n−−\n√",
+    "explanationHtml": "Given expression: C%F (12m); F@H (5m); I@D<br/>(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);<br/>B*E (5m)<br/>After decoding the codes we get,<br/>C%F (12m); C is 12m North of F, F@H (5m); F is 5m<br/>west of H, I@D (4m); I is 4m to the west of D,<br/>I&H(3m); I is 3m South of H, A%D (8m): A is 8m to<br/>the north of D, A@G (5m); A is 5m to the west of<br/>G, E%A (7m); E is 7 m to the north of A, B*E (5m):<br/>B is 5 m to the east of A.<br/>The final diagram:<br/> <br/>625 <br/>−−<br/>−−<br/>√",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "36",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below:\n \nIn a certain code language,\nS%Q (21m) means S is 21m north of Q.\nS&Q (19m) means S is 19m south of Q.\nS*Q (45m) means S is 45m east of Q.\nS@Q (11m) means S is 11m west of Q.\nIf, C%F (12m); F@H (5m); I@D (4m); I&H(3m);\nA%D (8m) A@G (5m); E%A (7m); B*E (5m)\n \nWhat is the direction of H with respect to B?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below:<br/> <br/>In a certain code language,<br/>S%Q (21m) means S is 21m north of Q.<br/>S&Q (19m) means S is 19m south of Q.<br/>S*Q (45m) means S is 45m east of Q.<br/>S@Q (11m) means S is 11m west of Q.<br/>If, C%F (12m); F@H (5m); I@D (4m); I&H(3m);<br/>A%D (8m) A@G (5m); E%A (7m); B*E (5m)<br/> <br/>What is the direction of H with respect to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "South-west",
+        "html": "South-west"
+      },
+      {
+        "id": "B",
+        "text": "North",
+        "html": "North"
+      },
+      {
+        "id": "C",
+        "text": "South-east",
+        "html": "South-east"
+      },
+      {
+        "id": "D",
+        "text": "South",
+        "html": "South"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given expression: C%F (12m); F@H (5m); I@D\n(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);\nB*E (5m)\nAfter decoding the codes we get,\nC%F (12m); C is 12m North of F, F@H (5m); F is 5m\nwest of H, I@D (4m); I is 4m to the west of D,\nI&H(3m); I is 3m South of H, A%D (8m): A is 8m to\nthe north of D, A@G (5m); A is 5m to the west of\nG, E%A (7m); E is 7 m to the north of A, B*E (5m):\nB is 5 m to the east of A.\nThe final diagram:\nHence, H is in the south-west to the B.",
+    "explanationHtml": "Given expression: C%F (12m); F@H (5m); I@D<br/>(4m); I&H(3m); A%D (8m) A@G (5m); E%A (7m);<br/>B*E (5m)<br/>After decoding the codes we get,<br/>C%F (12m); C is 12m North of F, F@H (5m); F is 5m<br/>west of H, I@D (4m); I is 4m to the west of D,<br/>I&H(3m); I is 3m South of H, A%D (8m): A is 8m to<br/>the north of D, A@G (5m); A is 5m to the west of<br/>G, E%A (7m); E is 7 m to the north of A, B*E (5m):<br/>B is 5 m to the east of A.<br/>The final diagram:<br/>Hence, H is in the south-west to the B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "37",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n1 # 2 - 1 is 4m east of 2\n1 & 2 - 1 is either 10 or 15m west of 2\n1 % 2 - 1 is either 6 or 14m north of 2\n1 $ 2 - 1 is 12m south of 2\n1 %# 2 – means 1 is north-east of 2\n1 $& 2 – means 1 is south-west of 2\nQ % Z, U # R, Q & R, S $ R, Z $& S\nWhat is the distance between Z and Q then if the\ndistance between Q and U is 19m?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>1 # 2 - 1 is 4m east of 2<br/>1 & 2 - 1 is either 10 or 15m west of 2<br/>1 % 2 - 1 is either 6 or 14m north of 2<br/>1 $ 2 - 1 is 12m south of 2<br/>1 %# 2 – means 1 is north-east of 2<br/>1 $& 2 – means 1 is south-west of 2<br/>Q % Z, U # R, Q & R, S $ R, Z $& S<br/>What is the distance between Z and Q then if the<br/>distance between Q and U is 19m?",
+    "options": [
+      {
+        "id": "A",
+        "text": "22m",
+        "html": "22m"
+      },
+      {
+        "id": "B",
+        "text": "17m",
+        "html": "17m"
+      },
+      {
+        "id": "C",
+        "text": "20m",
+        "html": "20m"
+      },
+      {
+        "id": "D",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ38",
+        "html": "None of these\nQ38"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Q38\nText Solution:",
+    "explanationHtml": "Q38<br/>Text Solution:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "question_number": "39",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n1 # 2 - 1 is 4m east of 2\n1 & 2 - 1 is either 10 or 15m west of 2\n1 % 2 - 1 is either 6 or 14m north of 2\n1 $ 2 - 1 is 12m south of 2\n1 %# 2 – means 1 is north-east of 2\n1 $& 2 – means 1 is south-west of 2\nZ %# K, N # L, Z % N, K % L\nIf O $ N, then what is the distance between O\nand Z?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>1 # 2 - 1 is 4m east of 2<br/>1 & 2 - 1 is either 10 or 15m west of 2<br/>1 % 2 - 1 is either 6 or 14m north of 2<br/>1 $ 2 - 1 is 12m south of 2<br/>1 %# 2 – means 1 is north-east of 2<br/>1 $& 2 – means 1 is south-west of 2<br/>Z %# K, N # L, Z % N, K % L<br/>If O $ N, then what is the distance between O<br/>and Z?",
+    "options": [
+      {
+        "id": "A",
+        "text": "34m",
+        "html": "34m"
+      },
+      {
+        "id": "B",
+        "text": "32m",
+        "html": "32m"
+      },
+      {
+        "id": "C",
+        "text": "19m",
+        "html": "19m"
+      },
+      {
+        "id": "D",
+        "text": "26m",
+        "html": "26m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Required distance = 14 + 12 = 26m",
+    "explanationHtml": "Required distance = 14 + 12 = 26m",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "question_number": "40",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\n1 # 2 - 1 is 4m east of 2\n1 & 2 - 1 is either 10 or 15m west of 2\n1 % 2 - 1 is either 6 or 14m north of 2\n1 $ 2 - 1 is 12m south of 2\n1 %# 2 – means 1 is north-east of 2\n1 $& 2 – means 1 is south-west of 2\nZ %# K, N # L, Z % N, K % L\nWhat is the shortest distance between Z and K?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>1 # 2 - 1 is 4m east of 2<br/>1 & 2 - 1 is either 10 or 15m west of 2<br/>1 % 2 - 1 is either 6 or 14m north of 2<br/>1 $ 2 - 1 is 12m south of 2<br/>1 %# 2 – means 1 is north-east of 2<br/>1 $& 2 – means 1 is south-west of 2<br/>Z %# K, N # L, Z % N, K % L<br/>What is the shortest distance between Z and K?",
+    "options": [
+      {
+        "id": "A",
+        "text": "14m",
+        "html": "14m"
+      },
+      {
+        "id": "B",
+        "text": "4√5m",
+        "html": "4√5m"
+      },
+      {
+        "id": "C",
+        "text": "8m",
+        "html": "8m"
+      },
+      {
+        "id": "D",
+        "text": "10√5m",
+        "html": "10√5m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "direction",
+      "distance"
+    ],
+    "sourcePages": [
+      29
+    ]
+  }
+]

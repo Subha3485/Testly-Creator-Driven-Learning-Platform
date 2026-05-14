@@ -1,3 +1,5 @@
+import RichText from "./RichText";
+
 export default function AnalysisQuestionCard({ question, index, selectedAnswer, onSelect }) {
   const correctAnswer = normalizeAnswer(question.correctAnswer);
   const status = question.status || deriveStatus(selectedAnswer, correctAnswer);
@@ -9,7 +11,14 @@ export default function AnalysisQuestionCard({ question, index, selectedAnswer, 
       <div className="analysis-question__top">
         <div>
           <div className="label">Question {index + 1}</div>
-          <h3 className="analysis-question__title">{question.question}</h3>
+          <h3 className="analysis-question__title">
+            <RichText value={question.question} html={question.questionHtml || question.question_html} segments={question.questionRich} />
+          </h3>
+          {getQuestionImageUrl(question) ? (
+            <div className="analysis-question__image">
+              <img src={getQuestionImageUrl(question)} alt={question?.image?.alt || "Question visual aid"} loading="lazy" />
+            </div>
+          ) : null}
         </div>
 
         <div className="analysis-question__meta">
@@ -29,7 +38,9 @@ export default function AnalysisQuestionCard({ question, index, selectedAnswer, 
           return (
             <div key={`${question._id || index}-${optionIndex}`} className={className} onClick={() => onSelect?.(optionIndex)} role="button" tabIndex={0}>
               <strong>{letter}.</strong>
-              <span>{option}</span>
+              <span>
+                <RichText value={option} html={question.optionsHtml?.[optionIndex] || question.options_html?.[optionIndex]} segments={question.optionsRich?.[optionIndex]} />
+              </span>
             </div>
           );
         }) : <p className="analysis-empty">No options available.</p>}
@@ -42,10 +53,29 @@ export default function AnalysisQuestionCard({ question, index, selectedAnswer, 
 
       <div className="analysis-explanation">
         <div className="label">Explanation</div>
-        <p>{question.explanation?.text || question.explanation || "No explanation added yet."}</p>
+        <p>
+          <RichText
+            value={question.explanation?.text || question.explanation || "No explanation added yet."}
+            html={question.explanationHtml || question.explanation_html || question.explanation?.html}
+            segments={question.explanationRich}
+          />
+        </p>
       </div>
     </article>
   );
+}
+
+function getQuestionImageUrl(question) {
+  const raw = question?.image?.url || question?.imageUrl || question?.image_url || question?.imageRef || question?.image_ref || "";
+  if (!raw) return "";
+  const normalized = String(raw).replace(/\\/g, "/");
+  if (normalized.startsWith("output/images/")) {
+    return `/${normalized.replace(/^output\/images\//, "question-images/")}`;
+  }
+  if (normalized.startsWith("images/")) {
+    return `/${normalized.replace(/^images\//, "question-images/")}`;
+  }
+  return normalized;
 }
 
 function deriveStatus(selectedAnswer, correctAnswer) {

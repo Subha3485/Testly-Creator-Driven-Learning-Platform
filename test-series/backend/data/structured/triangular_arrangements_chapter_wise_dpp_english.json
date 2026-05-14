@@ -1,0 +1,1272 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the center, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Q sits third to\nthe right of R. Only one person sits between Q\nand T, who is immediate left of R. As many\npersons sit between S and T is the same as\nbetween Q and S, who is an immediate\nneighbour of R. P sits second to the left of U. P\ndoes not sit on the corner of the table.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the center, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Q sits third to<br/>the right of R. Only one person sits between Q<br/>and T, who is immediate left of R. As many<br/>persons sit between S and T is the same as<br/>between Q and S, who is an immediate<br/>neighbour of R. P sits second to the left of U. P<br/>does not sit on the corner of the table.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three persons sits between T and P",
+        "html": "Three persons sits between T and P"
+      },
+      {
+        "id": "B",
+        "text": "P sits to the immediate left of S",
+        "html": "P sits to the immediate left of S"
+      },
+      {
+        "id": "C",
+        "text": "P sits third to the left of Q",
+        "html": "P sits third to the left of Q"
+      },
+      {
+        "id": "D",
+        "text": "No one sits between U and Q",
+        "html": "No one sits between U and Q"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:\nQ sits third to the right of R. Only one person sits\nbetween Q and T, who is immediate left of R.\nFrom these conditions, we get,\nAs many persons sit between S and T is the same\nas between Q and S, who is an immediate\nneighbour of R. P sits second to the left of U.\nP does not sit on the corner of the table. From\nthis condition Case, 1 gets rejected, and we get\nHence, No one sits between U and Q is true.",
+    "explanationHtml": "Final answer:<br/>Q sits third to the right of R. Only one person sits<br/>between Q and T, who is immediate left of R.<br/>From these conditions, we get,<br/>As many persons sit between S and T is the same<br/>as between Q and S, who is an immediate<br/>neighbour of R. P sits second to the left of U.<br/>P does not sit on the corner of the table. From<br/>this condition Case, 1 gets rejected, and we get<br/>Hence, No one sits between U and Q is true.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the center, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Q sits third to\nthe right of R. Only one person sits between Q\nand T, who is immediate left of R. As many\npersons sit between S and T is the same as\nbetween Q and S, who is an immediate\nneighbour of R. P sits second to the left of U. P\ndoes not sit on the corner of the table.\n \nWho among the following sits opposite to T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the center, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Q sits third to<br/>the right of R. Only one person sits between Q<br/>and T, who is immediate left of R. As many<br/>persons sit between S and T is the same as<br/>between Q and S, who is an immediate<br/>neighbour of R. P sits second to the left of U. P<br/>does not sit on the corner of the table.<br/> <br/>Who among the following sits opposite to T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final answer:\nQ sits third to the right of R. Only one person sits\nbetween Q and T, who is immediate left of R.\nFrom these conditions, we get,\nAs many persons sit between S and T is the same\nas between Q and S, who is an immediate\nneighbour of R. P sits second to the left of U.\nP does not sit on the corner of the table. From\nthis condition Case, 1 gets rejected, and we get\nHence, P sits opposite to T",
+    "explanationHtml": "Final answer:<br/>Q sits third to the right of R. Only one person sits<br/>between Q and T, who is immediate left of R.<br/>From these conditions, we get,<br/>As many persons sit between S and T is the same<br/>as between Q and S, who is an immediate<br/>neighbour of R. P sits second to the left of U.<br/>P does not sit on the corner of the table. From<br/>this condition Case, 1 gets rejected, and we get<br/>Hence, P sits opposite to T",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the center, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Q sits third to\nthe right of R. Only one person sits between Q\nand T, who is immediate left of R. As many\npersons sit between S and T is the same as\nbetween Q and S, who is an immediate\nneighbour of R. P sits second to the left of U. P\ndoes not sit on the corner of the table.\n \nWho among the following sits second to the\nright of the one who is third to the right of S?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the center, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Q sits third to<br/>the right of R. Only one person sits between Q<br/>and T, who is immediate left of R. As many<br/>persons sit between S and T is the same as<br/>between Q and S, who is an immediate<br/>neighbour of R. P sits second to the left of U. P<br/>does not sit on the corner of the table.<br/> <br/>Who among the following sits second to the<br/>right of the one who is third to the right of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:",
+    "explanationHtml": "Final answer:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\n \nTriangular Arrangements",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/> <br/>Triangular Arrangements",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits two places away from U, who sits\nimmediate left of S. S does not sit on the corner\nof the table. From these conditions, we get,\nOnly one person sits between T and R. The\nnumber of persons sitting between S and P is the\nsame as the number of persons sitting between S\nand Q, who is not an immediate neighbour of R.\nFrom this condition Case, 2 gets rejected, and we\nget\nLogic- In all options, Both persons are immediate\nto each other except option B.\nHence, Option B is the correct answer.",
+    "explanationHtml": "Final answer:<br/>T sits two places away from U, who sits<br/>immediate left of S. S does not sit on the corner<br/>of the table. From these conditions, we get,<br/>Only one person sits between T and R. The<br/>number of persons sitting between S and P is the<br/>same as the number of persons sitting between S<br/>and Q, who is not an immediate neighbour of R.<br/>From this condition Case, 2 gets rejected, and we<br/>get<br/>Logic- In all options, Both persons are immediate<br/>to each other except option B.<br/>Hence, Option B is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. S does not sit on\nthe corner of the table. Only one person sits\nbetween T and R. The number of persons sitting\nbetween S and P is the same as the number of\npersons sitting between S and Q, who is not an\nimmediate neighbour of R. T sits two places away\nfrom U, who sits immediate left of S.\n \nHow many persons sit between R and T, when\ncounted from the right of T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. S does not sit on<br/>the corner of the table. Only one person sits<br/>between T and R. The number of persons sitting<br/>between S and P is the same as the number of<br/>persons sitting between S and Q, who is not an<br/>immediate neighbour of R. T sits two places away<br/>from U, who sits immediate left of S.<br/> <br/>How many persons sit between R and T, when<br/>counted from the right of T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits two places away from U, who sits\nimmediate left of S. S does not sit on the corner\nof the table. From these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits two places away from U, who sits<br/>immediate left of S. S does not sit on the corner<br/>of the table. From these conditions, we get,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. S does not sit on\nthe corner of the table. Only one person sits\nbetween T and R. The number of persons sitting\nbetween S and P is the same as the number of\npersons sitting between S and Q, who is not an\nimmediate neighbour of R. T sits two places away\nfrom U, who sits immediate left of S.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. S does not sit on<br/>the corner of the table. Only one person sits<br/>between T and R. The number of persons sitting<br/>between S and P is the same as the number of<br/>persons sitting between S and Q, who is not an<br/>immediate neighbour of R. T sits two places away<br/>from U, who sits immediate left of S.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One person sits between T and S",
+        "html": "One person sits between T and S"
+      },
+      {
+        "id": "B",
+        "text": "R sits to the immediate right of S",
+        "html": "R sits to the immediate right of S"
+      },
+      {
+        "id": "C",
+        "text": "P sits third to the left of Q",
+        "html": "P sits third to the left of Q"
+      },
+      {
+        "id": "D",
+        "text": "No one sits between S and Q",
+        "html": "No one sits between S and Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits two places away from U, who sits\nimmediate left of S. S does not sit on the corner\nof the table. From these conditions, we get,\nOnly one person sits between T and R. The\nnumber of persons sitting between S and P is the\nsame as the number of persons sitting between S\nand Q, who is not an immediate neighbour of R.\nFrom this condition Case, 2 gets rejected, and we\nget\nHence, R sits to the immediate right of S is true.",
+    "explanationHtml": "Final answer:<br/>T sits two places away from U, who sits<br/>immediate left of S. S does not sit on the corner<br/>of the table. From these conditions, we get,<br/>Only one person sits between T and R. The<br/>number of persons sitting between S and P is the<br/>same as the number of persons sitting between S<br/>and Q, who is not an immediate neighbour of R.<br/>From this condition Case, 2 gets rejected, and we<br/>get<br/>Hence, R sits to the immediate right of S is true.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. S does not sit on\nthe corner of the table. Only one person sits\nbetween T and R. The number of persons sitting\nbetween S and P is the same as the number of\npersons sitting between S and Q, who is not an\nimmediate neighbour of R. T sits two places away\nfrom U, who sits immediate left of S.\n \nWho among the following person sits second to\nthe right of S?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. S does not sit on<br/>the corner of the table. Only one person sits<br/>between T and R. The number of persons sitting<br/>between S and P is the same as the number of<br/>persons sitting between S and Q, who is not an<br/>immediate neighbour of R. T sits two places away<br/>from U, who sits immediate left of S.<br/> <br/>Who among the following person sits second to<br/>the right of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "C",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "T",
+        "html": "T"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits two places away from U, who sits\nimmediate left of S. S does not sit on the corner\nof the table. From these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits two places away from U, who sits<br/>immediate left of S. S does not sit on the corner<br/>of the table. From these conditions, we get,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits two places away from U, who sits\nimmediate left of S. S does not sit on the corner\nof the table. From these conditions, we get,\nOnly one person sits between T and R. The\nnumber of persons sitting between S and P is the\nsame as the number of persons sitting between S\nand Q, who is not an immediate neighbour of R.\nFrom this condition Case, 2 gets rejected, and we\nget\nHence, R sits opposite to Q.",
+    "explanationHtml": "Final answer:<br/>T sits two places away from U, who sits<br/>immediate left of S. S does not sit on the corner<br/>of the table. From these conditions, we get,<br/>Only one person sits between T and R. The<br/>number of persons sitting between S and P is the<br/>same as the number of persons sitting between S<br/>and Q, who is not an immediate neighbour of R.<br/>From this condition Case, 2 gets rejected, and we<br/>get<br/>Hence, R sits opposite to Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. T sits third to the\nleft of R. Only one person sits between T and P,\nwho is second to the left of T. The number of\npersons sitting between P and R is the same as\nthe number of persons sitting between U and R.\nS sits immediate right of P. Q sits on one of the\ncorner of the table.\n \nFour of the following five are alike in a certain\nway and hence form a group. Which of the\nfollowing one does not belong to that group?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. T sits third to the<br/>left of R. Only one person sits between T and P,<br/>who is second to the left of T. The number of<br/>persons sitting between P and R is the same as<br/>the number of persons sitting between U and R.<br/>S sits immediate right of P. Q sits on one of the<br/>corner of the table.<br/> <br/>Four of the following five are alike in a certain<br/>way and hence form a group. Which of the<br/>following one does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RS",
+        "html": "RS"
+      },
+      {
+        "id": "B",
+        "text": "PR",
+        "html": "PR"
+      },
+      {
+        "id": "C",
+        "text": "QS",
+        "html": "QS"
+      },
+      {
+        "id": "D",
+        "text": "UT",
+        "html": "UT"
+      },
+      {
+        "id": "E",
+        "text": "QR",
+        "html": "QR"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits third to the left of R. Only one person sits\nbetween T and P, who is second to the left of T.\nFrom these conditions, we get,\nThe number of persons sitting between P and R\nis the same as the number of persons sitting\nbetween U and R. S sits immediate right of P.",
+    "explanationHtml": "Final answer:<br/>T sits third to the left of R. Only one person sits<br/>between T and P, who is second to the left of T.<br/>From these conditions, we get,<br/>The number of persons sitting between P and R<br/>is the same as the number of persons sitting<br/>between U and R. S sits immediate right of P.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. T sits third to the\nleft of R. Only one person sits between T and P,\nwho is second to the left of T. The number of\npersons sitting between P and R is the same as\nthe number of persons sitting between U and R.\nS sits immediate right of P. Q sits on one of the\ncorner of the table.\n \nHow many persons sit between Q and T, when\ncounted from the right of T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. T sits third to the<br/>left of R. Only one person sits between T and P,<br/>who is second to the left of T. The number of<br/>persons sitting between P and R is the same as<br/>the number of persons sitting between U and R.<br/>S sits immediate right of P. Q sits on one of the<br/>corner of the table.<br/> <br/>How many persons sit between Q and T, when<br/>counted from the right of T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None",
+        "html": "None"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Final answer:\nT sits third to the left of R. Only one person sits\nbetween T and P, who is second to the left of T.\nFrom these conditions, we get,\nThe number of persons sitting between P and R\nis the same as the number of persons sitting\nbetween U and R. S sits immediate right of P.\nQ sits on one of the corner of the table. From this\ncondition Case, 1 gets rejected, and we get\nHence, No one sit between Q and T, when\ncounted from the right of T.",
+    "explanationHtml": "Final answer:<br/>T sits third to the left of R. Only one person sits<br/>between T and P, who is second to the left of T.<br/>From these conditions, we get,<br/>The number of persons sitting between P and R<br/>is the same as the number of persons sitting<br/>between U and R. S sits immediate right of P.<br/>Q sits on one of the corner of the table. From this<br/>condition Case, 1 gets rejected, and we get<br/>Hence, No one sit between Q and T, when<br/>counted from the right of T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. T sits third to the\nleft of R. Only one person sits between T and P,\nwho is second to the left of T. The number of\npersons sitting between P and R is the same as\nthe number of persons sitting between U and R.\nS sits immediate right of P. Q sits on one of the\ncorner of the table.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. T sits third to the<br/>left of R. Only one person sits between T and P,<br/>who is second to the left of T. The number of<br/>persons sitting between P and R is the same as<br/>the number of persons sitting between U and R.<br/>S sits immediate right of P. Q sits on one of the<br/>corner of the table.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three persons sits between T and S",
+        "html": "Three persons sits between T and S"
+      },
+      {
+        "id": "B",
+        "text": "R sits to the immediate left of S",
+        "html": "R sits to the immediate left of S"
+      },
+      {
+        "id": "C",
+        "text": "P sits third to the left of Q",
+        "html": "P sits third to the left of Q"
+      },
+      {
+        "id": "D",
+        "text": "No one sits between S and R",
+        "html": "No one sits between S and R"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits third to the left of R. Only one person sits\nbetween T and P, who is second to the left of T.\nFrom these conditions, we get,\nThe number of persons sitting between P and R\nis the same as the number of persons sitting\nbetween U and R. S sits immediate right of P.\nQ sits on one of the corner of the table. From this\ncondition Case, 1 gets rejected, and we get\nHence, P sits third to the left of Q is true.",
+    "explanationHtml": "Final answer:<br/>T sits third to the left of R. Only one person sits<br/>between T and P, who is second to the left of T.<br/>From these conditions, we get,<br/>The number of persons sitting between P and R<br/>is the same as the number of persons sitting<br/>between U and R. S sits immediate right of P.<br/>Q sits on one of the corner of the table. From this<br/>condition Case, 1 gets rejected, and we get<br/>Hence, P sits third to the left of Q is true.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits third to the left of R. Only one person sits\nbetween T and P, who is second to the left of T.\nFrom these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits third to the left of R. Only one person sits<br/>between T and P, who is second to the left of T.<br/>From these conditions, we get,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. T sits third to the\nleft of R. Only one person sits between T and P,\nwho is second to the left of T. The number of\npersons sitting between P and R is the same as\nthe number of persons sitting between U and R.\nS sits immediate right of P. Q sits on one of the\ncorner of the table.\n \nWho among the following sits second to the\nright of the one who is third to the right of P?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. T sits third to the<br/>left of R. Only one person sits between T and P,<br/>who is second to the left of T. The number of<br/>persons sitting between P and R is the same as<br/>the number of persons sitting between U and R.<br/>S sits immediate right of P. Q sits on one of the<br/>corner of the table.<br/> <br/>Who among the following sits second to the<br/>right of the one who is third to the right of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nT sits third to the left of R. Only one person sits\nbetween T and P, who is second to the left of T.\nFrom these conditions, we get,\nThe number of persons sitting between P and R\nis the same as the number of persons sitting\nbetween U and R. S sits immediate right of P.\nQ sits on one of the corner of the table. From this\ncondition Case, 1 gets rejected, and we get\nHence, R sits second to the right of the one\nwho is third to the right of P",
+    "explanationHtml": "Final answer:<br/>T sits third to the left of R. Only one person sits<br/>between T and P, who is second to the left of T.<br/>From these conditions, we get,<br/>The number of persons sitting between P and R<br/>is the same as the number of persons sitting<br/>between U and R. S sits immediate right of P.<br/>Q sits on one of the corner of the table. From this<br/>condition Case, 1 gets rejected, and we get<br/>Hence, R sits second to the right of the one<br/>who is third to the right of P",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Only one person\nsits between P and U. T sits adjacent to Q, who\nsits on the side of triangular table. The one who\nsits immediate right of Q, sits opposite P. S does\nnot sit opposite P. R sits two places away from T\nbut not sits adjacent to Q.\n \nFour of the following five are alike in a certain\nway and hence form a group. Which of the\nfollowing one does not belong to that group?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Only one person<br/>sits between P and U. T sits adjacent to Q, who<br/>sits on the side of triangular table. The one who<br/>sits immediate right of Q, sits opposite P. S does<br/>not sit opposite P. R sits two places away from T<br/>but not sits adjacent to Q.<br/> <br/>Four of the following five are alike in a certain<br/>way and hence form a group. Which of the<br/>following one does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RS",
+        "html": "RS"
+      },
+      {
+        "id": "B",
+        "text": "PU",
+        "html": "PU"
+      },
+      {
+        "id": "C",
+        "text": "QT",
+        "html": "QT"
+      },
+      {
+        "id": "D",
+        "text": "UQ",
+        "html": "UQ"
+      },
+      {
+        "id": "E",
+        "text": "ST",
+        "html": "ST"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits adjacent to Q, who sits on the side of\ntriangular table. R sits two places away from T\nbut does not sit adjacent to Q. From these\nconditions, we get,\nThe one who sits immediate right of Q, sits\nopposite P. Only one person sits between P and\nU. S does not sit opposite P. From this condition\nCase 1 gets rejected, and we get",
+    "explanationHtml": "Final answer:<br/>T sits adjacent to Q, who sits on the side of<br/>triangular table. R sits two places away from T<br/>but does not sit adjacent to Q. From these<br/>conditions, we get,<br/>The one who sits immediate right of Q, sits<br/>opposite P. Only one person sits between P and<br/>U. S does not sit opposite P. From this condition<br/>Case 1 gets rejected, and we get",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Only one person\nsits between P and U. T sits adjacent to Q, who\nsits on the side of triangular table. The one who\nsits immediate right of Q, sits opposite P. S does\nnot sit opposite P. R sits two places away from T\nbut not sits adjacent to Q.\n \nHow many persons sit between P and T, when\ncounted from the right of P?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Only one person<br/>sits between P and U. T sits adjacent to Q, who<br/>sits on the side of triangular table. The one who<br/>sits immediate right of Q, sits opposite P. S does<br/>not sit opposite P. R sits two places away from T<br/>but not sits adjacent to Q.<br/> <br/>How many persons sit between P and T, when<br/>counted from the right of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None",
+        "html": "None"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits adjacent to Q, who sits on the side of\ntriangular table. R sits two places away from T\nbut does not sit adjacent to Q. From these\nconditions, we get,\nThe one who sits immediate right of Q, sits\nopposite P. Only one person sits between P and\nU. S does not sit opposite P. From this condition\nCase 1 gets rejected, and we get\nHence, two persons sit between P and T, when\ncounted from the right of P",
+    "explanationHtml": "Final answer:<br/>T sits adjacent to Q, who sits on the side of<br/>triangular table. R sits two places away from T<br/>but does not sit adjacent to Q. From these<br/>conditions, we get,<br/>The one who sits immediate right of Q, sits<br/>opposite P. Only one person sits between P and<br/>U. S does not sit opposite P. From this condition<br/>Case 1 gets rejected, and we get<br/>Hence, two persons sit between P and T, when<br/>counted from the right of P",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Only one person\nsits between P and U. T sits adjacent to Q, who\nsits on the side of triangular table. The one who\nsits immediate right of Q, sits opposite P. S does\nnot sit opposite P. R sits two places away from T\nbut not sits adjacent to Q.\n \nWho among the following person sits second to\nthe right of S?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Only one person<br/>sits between P and U. T sits adjacent to Q, who<br/>sits on the side of triangular table. The one who<br/>sits immediate right of Q, sits opposite P. S does<br/>not sit opposite P. R sits two places away from T<br/>but not sits adjacent to Q.<br/> <br/>Who among the following person sits second to<br/>the right of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "P",
+        "html": "P"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits adjacent to Q, who sits on the side of\ntriangular table. R sits two places away from T\nbut does not sit adjacent to Q. From these\nconditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits adjacent to Q, who sits on the side of<br/>triangular table. R sits two places away from T<br/>but does not sit adjacent to Q. From these<br/>conditions, we get,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Three persons are sitting on the\ncorners while three persons are sitting in the\nmiddle of the sides of the table. Only one person\nsits between P and U. T sits adjacent to Q, who\nsits on the side of triangular table. The one who\nsits immediate right of Q, sits opposite P. S does\nnot sit opposite P. R sits two places away from T\nbut not sits adjacent to Q.\n \nWho among the following sits opposite T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Three persons are sitting on the<br/>corners while three persons are sitting in the<br/>middle of the sides of the table. Only one person<br/>sits between P and U. T sits adjacent to Q, who<br/>sits on the side of triangular table. The one who<br/>sits immediate right of Q, sits opposite P. S does<br/>not sit opposite P. R sits two places away from T<br/>but not sits adjacent to Q.<br/> <br/>Who among the following sits opposite T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "D",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "E",
+        "text": "U",
+        "html": "U"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits adjacent to Q, who sits on the side of\ntriangular table. R sits two places away from T\nbut does not sit adjacent to Q. From these\nconditions, we get,\nThe one who sits immediate right of Q, sits\nopposite P. Only one person sits between P and\nU. S does not sit opposite P. From this condition\nCase 1 gets rejected, and we get\nHence, P sits opposite to T.",
+    "explanationHtml": "Final answer:<br/>T sits adjacent to Q, who sits on the side of<br/>triangular table. R sits two places away from T<br/>but does not sit adjacent to Q. From these<br/>conditions, we get,<br/>The one who sits immediate right of Q, sits<br/>opposite P. Only one person sits between P and<br/>U. S does not sit opposite P. From this condition<br/>Case 1 gets rejected, and we get<br/>Hence, P sits opposite to T.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sit on each side of the\ntable. Only two persons sit between Q and U.\nOnly two persons sit between R and S. P sits\nsecond to the left of S. The number of persons\nsitting between R and S is the same as the\nnumber of persons sitting between T and P. T sits\nimmediate left of U and both sit on the same side\nof the triangle.\n \nFour of the following five are alike in a certain\nway and hence form a group. Which of the\nfollowing one does not belong to that group?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sit on each side of the<br/>table. Only two persons sit between Q and U.<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. The number of persons<br/>sitting between R and S is the same as the<br/>number of persons sitting between T and P. T sits<br/>immediate left of U and both sit on the same side<br/>of the triangle.<br/> <br/>Four of the following five are alike in a certain<br/>way and hence form a group. Which of the<br/>following one does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "RS",
+        "html": "RS"
+      },
+      {
+        "id": "B",
+        "text": "PT",
+        "html": "PT"
+      },
+      {
+        "id": "C",
+        "text": "QU",
+        "html": "QU"
+      },
+      {
+        "id": "D",
+        "text": "UT",
+        "html": "UT"
+      },
+      {
+        "id": "E",
+        "text": "TR",
+        "html": "TR"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:\nOnly two persons sit between R and S. P sits\nsecond to the left of S. From these conditions, we\nget,\nThe number of persons sitting between R and S is\nthe same as the number of persons sitting\nbetween T and P. Only two persons sit between\nQ and U.",
+    "explanationHtml": "Final answer:<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. From these conditions, we<br/>get,<br/>The number of persons sitting between R and S is<br/>the same as the number of persons sitting<br/>between T and P. Only two persons sit between<br/>Q and U.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sit on each side of the\ntable. Only two persons sit between Q and U.\nOnly two persons sit between R and S. P sits\nsecond to the left of S. The number of persons\nsitting between R and S is the same as the\nnumber of persons sitting between T and P. T sits\nimmediate left of U and both sit on the same side\nof the triangle.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sit on each side of the<br/>table. Only two persons sit between Q and U.<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. The number of persons<br/>sitting between R and S is the same as the<br/>number of persons sitting between T and P. T sits<br/>immediate left of U and both sit on the same side<br/>of the triangle.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two persons sits between T and S",
+        "html": "Two persons sits between T and S"
+      },
+      {
+        "id": "B",
+        "text": "R sits to the immediate right of S",
+        "html": "R sits to the immediate right of S"
+      },
+      {
+        "id": "C",
+        "text": "P sits second to the left of Q",
+        "html": "P sits second to the left of Q"
+      },
+      {
+        "id": "D",
+        "text": "No one sits between S and Q",
+        "html": "No one sits between S and Q"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:",
+    "explanationHtml": "Final answer:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sit on each side of the\ntable. Only two persons sit between Q and U.\nOnly two persons sit between R and S. P sits\nsecond to the left of S. The number of persons\nsitting between R and S is the same as the\nnumber of persons sitting between T and P. T sits\nimmediate left of U and both sit on the same side\nof the triangle.\n \nWho among the following person sits second to\nthe right of Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sit on each side of the<br/>table. Only two persons sit between Q and U.<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. The number of persons<br/>sitting between R and S is the same as the<br/>number of persons sitting between T and P. T sits<br/>immediate left of U and both sit on the same side<br/>of the triangle.<br/> <br/>Who among the following person sits second to<br/>the right of Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "C",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "D",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "E",
+        "text": "R",
+        "html": "R"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nOnly two persons sit between R and S. P sits\nsecond to the left of S. From these conditions, we\nget,\nThe number of persons sitting between R and S is\nthe same as the number of persons sitting\nbetween T and P. Only two persons sit between\nQ and U.",
+    "explanationHtml": "Final answer:<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. From these conditions, we<br/>get,<br/>The number of persons sitting between R and S is<br/>the same as the number of persons sitting<br/>between T and P. Only two persons sit between<br/>Q and U.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sit on each side of the\ntable. Only two persons sit between Q and U.\nOnly two persons sit between R and S. P sits\nsecond to the left of S. The number of persons\nsitting between R and S is the same as the\nnumber of persons sitting between T and P. T sits\nimmediate left of U and both sit on the same side\nof the triangle.\n \nWho among the following sits immediate left of\nthe one who is second to the right of U?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sit on each side of the<br/>table. Only two persons sit between Q and U.<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. The number of persons<br/>sitting between R and S is the same as the<br/>number of persons sitting between T and P. T sits<br/>immediate left of U and both sit on the same side<br/>of the triangle.<br/> <br/>Who among the following sits immediate left of<br/>the one who is second to the right of U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:\nOnly two persons sit between R and S. P sits\nsecond to the left of S. From these conditions, we\nget,\nThe number of persons sitting between R and S is\nthe same as the number of persons sitting\nbetween T and P. Only two persons sit between\nQ and U.\nT sits immediate left of U and both sit on the\nsame side of the triangle. From this condition\nCase, 2 gets rejected, and we get\nHence, R sits immediate left of the one who is\nsecond to the right of U.",
+    "explanationHtml": "Final answer:<br/>Only two persons sit between R and S. P sits<br/>second to the left of S. From these conditions, we<br/>get,<br/>The number of persons sitting between R and S is<br/>the same as the number of persons sitting<br/>between T and P. Only two persons sit between<br/>Q and U.<br/>T sits immediate left of U and both sit on the<br/>same side of the triangle. From this condition<br/>Case, 2 gets rejected, and we get<br/>Hence, R sits immediate left of the one who is<br/>second to the right of U.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sits on each side of the",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sits on each side of the",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Final answer:",
+    "explanationHtml": "Final answer:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sits on each side of the\ntable. Q sits second to the left of T. P sits third to\nthe left of T, who is immediate right of U. The\nnumber of persons sitting between U and P is the\nsame as the number of persons sitting between P\nand S. Both R and S sits on the same side of the\ntriangular shape.\n \nHow many persons sit between S and U, when\ncounted from the right of U?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sits on each side of the<br/>table. Q sits second to the left of T. P sits third to<br/>the left of T, who is immediate right of U. The<br/>number of persons sitting between U and P is the<br/>same as the number of persons sitting between P<br/>and S. Both R and S sits on the same side of the<br/>triangular shape.<br/> <br/>How many persons sit between S and U, when<br/>counted from the right of U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None",
+        "html": "None"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final answer:\nP sits third to the left of T, who is immediate right\nof U. From these conditions, we get,\nThe number of persons sitting between U and P\nis the same as the number of persons sitting\nbetween P and S. Q sits second to the left of T.\nBoth R and S sits on the same side of the\ntriangular shape. From this condition Case, 2 gets\nrejected, and we get\nHence, one person sit between S and U, when\ncounted from the right of U",
+    "explanationHtml": "Final answer:<br/>P sits third to the left of T, who is immediate right<br/>of U. From these conditions, we get,<br/>The number of persons sitting between U and P<br/>is the same as the number of persons sitting<br/>between P and S. Q sits second to the left of T.<br/>Both R and S sits on the same side of the<br/>triangular shape. From this condition Case, 2 gets<br/>rejected, and we get<br/>Hence, one person sit between S and U, when<br/>counted from the right of U",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sits on each side of the\ntable. Q sits second to the left of T. P sits third to\nthe left of T, who is immediate right of U. The\nnumber of persons sitting between U and P is the\nsame as the number of persons sitting between P\nand S. Both R and S sits on the same side of the\ntriangular shape.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sits on each side of the<br/>table. Q sits second to the left of T. P sits third to<br/>the left of T, who is immediate right of U. The<br/>number of persons sitting between U and P is the<br/>same as the number of persons sitting between P<br/>and S. Both R and S sits on the same side of the<br/>triangular shape.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two persons sits between T and S",
+        "html": "Two persons sits between T and S"
+      },
+      {
+        "id": "B",
+        "text": "R sits to the immediate right of S",
+        "html": "R sits to the immediate right of S"
+      },
+      {
+        "id": "C",
+        "text": "P sits second to the left of Q",
+        "html": "P sits second to the left of Q"
+      },
+      {
+        "id": "D",
+        "text": "No one sits between S and Q",
+        "html": "No one sits between S and Q"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nP sits third to the left of T, who is immediate right\nof U. From these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>P sits third to the left of T, who is immediate right<br/>of U. From these conditions, we get,",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sits on each side of the\ntable. Q sits second to the left of T. P sits third to\nthe left of T, who is immediate right of U. The\nnumber of persons sitting between U and P is the\nsame as the number of persons sitting between P\nand S. Both R and S sits on the same side of the\ntriangular shape.\n \nWho among the following person sits second to\nthe right of R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sits on each side of the<br/>table. Q sits second to the left of T. P sits third to<br/>the left of T, who is immediate right of U. The<br/>number of persons sitting between U and P is the<br/>same as the number of persons sitting between P<br/>and S. Both R and S sits on the same side of the<br/>triangular shape.<br/> <br/>Who among the following person sits second to<br/>the right of R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nP sits third to the left of T, who is immediate right\nof U. From these conditions, we get,\nThe number of persons sitting between U and P\nis the same as the number of persons sitting\nbetween P and S. Q sits second to the left of T.\nBoth R and S sits on the same side of the\ntriangular shape. From this condition Case, 2 gets\nrejected, and we get\nHence, Q sits second to the right of R",
+    "explanationHtml": "Final answer:<br/>P sits third to the left of T, who is immediate right<br/>of U. From these conditions, we get,<br/>The number of persons sitting between U and P<br/>is the same as the number of persons sitting<br/>between P and S. Q sits second to the left of T.<br/>Both R and S sits on the same side of the<br/>triangular shape. From this condition Case, 2 gets<br/>rejected, and we get<br/>Hence, Q sits second to the right of R",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix persons - P, Q, R, S, T, and U are sitting on a\ntriangular table such that all of them are facing\ntowards the centre, but not necessarily in the\nsame order. Two persons sits on each side of the\ntable. Q sits second to the left of T. P sits third to\nthe left of T, who is immediate right of U. The\nnumber of persons sitting between U and P is the\nsame as the number of persons sitting between P",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six persons - P, Q, R, S, T, and U are sitting on a<br/>triangular table such that all of them are facing<br/>towards the centre, but not necessarily in the<br/>same order. Two persons sits on each side of the<br/>table. Q sits second to the left of T. P sits third to<br/>the left of T, who is immediate right of U. The<br/>number of persons sitting between U and P is the<br/>same as the number of persons sitting between P",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nP sits third to the left of T, who is immediate right\nof U. From these conditions, we get,\nThe number of persons sitting between U and P\nis the same as the number of persons sitting\nbetween P and S. Q sits second to the left of T.\nBoth R and S sits on the same side of the\ntriangular shape. From this condition Case, 2 gets\nrejected, and we get",
+    "explanationHtml": "Final answer:<br/>P sits third to the left of T, who is immediate right<br/>of U. From these conditions, we get,<br/>The number of persons sitting between U and P<br/>is the same as the number of persons sitting<br/>between P and S. Q sits second to the left of T.<br/>Both R and S sits on the same side of the<br/>triangular shape. From this condition Case, 2 gets<br/>rejected, and we get",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six people i.e. M, N, O, P, Q and R sitting\naround a triangular-shaped table. Two people sit\nin the middle of each of the three sides. All are\nfacing outside the triangular table. All the\ninformation is not necessarily in the same order.\nN sits fourth to the right of Q. P sits fourth to the\nleft of R. There are three people sitting between\nP and M. There are two people sitting between M\nand O.\nHow many people sit between N and Q ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>There are six people i.e. M, N, O, P, Q and R sitting<br/>around a triangular-shaped table. Two people sit<br/>in the middle of each of the three sides. All are<br/>facing outside the triangular table. All the<br/>information is not necessarily in the same order.<br/>N sits fourth to the right of Q. P sits fourth to the<br/>left of R. There are three people sitting between<br/>P and M. There are two people sitting between M<br/>and O.<br/>How many people sit between N and Q ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Either one or three",
+        "html": "Either one or three"
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "P sits fourth to the left of R.\nThere are three people sitting between P and M.\nThere are two people sitting between M and O.\nN sits fourth to the right of Q.",
+    "explanationHtml": "P sits fourth to the left of R.<br/>There are three people sitting between P and M.<br/>There are two people sitting between M and O.<br/>N sits fourth to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six people i.e. M, N, O, P, Q and R sitting\naround a triangular-shaped table. Two people sit\nin the middle of each of the three sides. All are\nfacing outside the triangular table. All the\ninformation is not necessarily in the same order.\nN sits fourth to the right of Q. P sits fourth to the\nleft of R. There are three people sitting between\nP and M. There are two people sitting between M\nand O.\nWhat is the position of Q with respect to O ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>There are six people i.e. M, N, O, P, Q and R sitting<br/>around a triangular-shaped table. Two people sit<br/>in the middle of each of the three sides. All are<br/>facing outside the triangular table. All the<br/>information is not necessarily in the same order.<br/>N sits fourth to the right of Q. P sits fourth to the<br/>left of R. There are three people sitting between<br/>P and M. There are two people sitting between M<br/>and O.<br/>What is the position of Q with respect to O ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third to the right",
+        "html": "Third to the right"
+      },
+      {
+        "id": "B",
+        "text": "second to the right",
+        "html": "second to the right"
+      },
+      {
+        "id": "C",
+        "text": "Immediate left",
+        "html": "Immediate left"
+      },
+      {
+        "id": "D",
+        "text": "Third to the left",
+        "html": "Third to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "P sits fourth to the left of R.\nThere are three people sitting between P and M.\nThere are two people sitting between M and O.\nN sits fourth to the right of Q.",
+    "explanationHtml": "P sits fourth to the left of R.<br/>There are three people sitting between P and M.<br/>There are two people sitting between M and O.<br/>N sits fourth to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six people i.e. M, N, O, P, Q and R sitting\naround a triangular-shaped table. Two people sit\nin the middle of each of the three sides. All are\nfacing outside the triangular table. All the\ninformation is not necessarily in the same order.\nN sits fourth to the right of Q. P sits fourth to the\nleft of R. There are three people sitting between\nP and M. There are two people sitting between M\nand O.\nWhich of the following sit Immediate right of N ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>There are six people i.e. M, N, O, P, Q and R sitting<br/>around a triangular-shaped table. Two people sit<br/>in the middle of each of the three sides. All are<br/>facing outside the triangular table. All the<br/>information is not necessarily in the same order.<br/>N sits fourth to the right of Q. P sits fourth to the<br/>left of R. There are three people sitting between<br/>P and M. There are two people sitting between M<br/>and O.<br/>Which of the following sit Immediate right of N ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "M",
+        "html": "M"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "P sits fourth to the left of R.\nThere are three people sitting between P and M.\nThere are two people sitting between M and O.\nN sits fourth to the right of Q.",
+    "explanationHtml": "P sits fourth to the left of R.<br/>There are three people sitting between P and M.<br/>There are two people sitting between M and O.<br/>N sits fourth to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six people i.e. M, N, O, P, Q and R sitting\naround a triangular-shaped table. Two people sit\nin the middle of each of the three sides. All are\nfacing outside the triangular table. All the\ninformation is not necessarily in the same order.\nN sits fourth to the right of Q. P sits fourth to the\nleft of R. There are three people sitting between\nP and M. There are two people sitting between M\nand O.\nWhich of the following sit third to the right of N ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>There are six people i.e. M, N, O, P, Q and R sitting<br/>around a triangular-shaped table. Two people sit<br/>in the middle of each of the three sides. All are<br/>facing outside the triangular table. All the<br/>information is not necessarily in the same order.<br/>N sits fourth to the right of Q. P sits fourth to the<br/>left of R. There are three people sitting between<br/>P and M. There are two people sitting between M<br/>and O.<br/>Which of the following sit third to the right of N ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "E",
+        "text": "M",
+        "html": "M"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "P sits fourth to the left of R.\nThere are three people sitting between P and M.\nThere are two people sitting between M and O.\nN sits fourth to the right of Q.",
+    "explanationHtml": "P sits fourth to the left of R.<br/>There are three people sitting between P and M.<br/>There are two people sitting between M and O.<br/>N sits fourth to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nThere are six people i.e. M, N, O, P, Q and R sitting\naround a triangular-shaped table. Two people sit\nin the middle of each of the three sides. All are\nfacing outside the triangular table. All the\ninformation is not necessarily in the same order.\nN sits fourth to the right of Q. P sits fourth to the\nleft of R. There are three people sitting between\nP and M. There are two people sitting between M\nand O.\nWhich of the following statements is true ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>There are six people i.e. M, N, O, P, Q and R sitting<br/>around a triangular-shaped table. Two people sit<br/>in the middle of each of the three sides. All are<br/>facing outside the triangular table. All the<br/>information is not necessarily in the same order.<br/>N sits fourth to the right of Q. P sits fourth to the<br/>left of R. There are three people sitting between<br/>P and M. There are two people sitting between M<br/>and O.<br/>Which of the following statements is true ?",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "P sits fourth to the left of R.\nThere are three people sitting between P and M.\nThere are two people sitting between M and O.\nN sits fourth to the right of Q.",
+    "explanationHtml": "P sits fourth to the left of R.<br/>There are three people sitting between P and M.<br/>There are two people sitting between M and O.<br/>N sits fourth to the right of Q.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "triangular",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  }
+]

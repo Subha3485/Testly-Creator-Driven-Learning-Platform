@@ -1,0 +1,2103 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Directions: Study the following information\ncarefully and answer\nthe questions given\nbelow:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face\neach other. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O.\nOne person sits between O and Q, who sits at\none of the extreme ends. F does not sit at any\nextreme end. M sits to the immediate right of N,\nwho sits fifth left to the Q. R sits opposite I, who\nis not adjacent to F. I sits immediately right to\nthe H. J sits second to the right of E but not\nopposite to P.\nHow many students sit between M and Q in the\nsame row?",
+    "questionHtml": "Directions: Study the following information<br/>carefully and answer<br/>the questions given<br/>below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face<br/>each other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O.<br/>One person sits between O and Q, who sits at<br/>one of the extreme ends. F does not sit at any<br/>extreme end. M sits to the immediate right of N,<br/>who sits fifth left to the Q. R sits opposite I, who<br/>is not adjacent to F. I sits immediately right to<br/>the H. J sits second to the right of E but not<br/>opposite to P.<br/>How many students sit between M and Q in the<br/>same row?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "E",
+        "text": "Two",
+        "html": "Two"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.\nFinal arrangement:\nAnswer: Two",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.<br/>Final arrangement:<br/>Answer: Two",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions: Study the following information\ncarefully and answer\nthe questions given\nbelow:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face\neach other. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O.\nOne person sits between O and Q, who sits at\none of the extreme ends. F does not sit at any\nextreme end. M sits to the immediate right of N,\nwho sits fifth left to the Q. R sits opposite I, who\nis not adjacent to F. I sits immediately right to\nthe H. J sits second to the right of E but not\nopposite to P.\nWho sits opposite Q?",
+    "questionHtml": "Directions: Study the following information<br/>carefully and answer<br/>the questions given<br/>below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face<br/>each other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O.<br/>One person sits between O and Q, who sits at<br/>one of the extreme ends. F does not sit at any<br/>extreme end. M sits to the immediate right of N,<br/>who sits fifth left to the Q. R sits opposite I, who<br/>is not adjacent to F. I sits immediately right to<br/>the H. J sits second to the right of E but not<br/>opposite to P.<br/>Who sits opposite Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "I",
+        "html": "I"
+      },
+      {
+        "id": "B",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions: Study the following information\ncarefully and answer the questions given\nbelow:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face\neach other. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O.\nOne person sits between O and Q, who sits at\none of the extreme ends. F does not sit at any\nextreme end. M sits to the immediate right of N,\nwho sits fifth left to the Q. R sits opposite I, who\nis not adjacent to F. I sits immediately right to\nthe H. J sits second to the right of E but not\nopposite to P.\nWho sits second to the left of O?",
+    "questionHtml": "Directions: Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face<br/>each other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O.<br/>One person sits between O and Q, who sits at<br/>one of the extreme ends. F does not sit at any<br/>extreme end. M sits to the immediate right of N,<br/>who sits fifth left to the Q. R sits opposite I, who<br/>is not adjacent to F. I sits immediately right to<br/>the H. J sits second to the right of E but not<br/>opposite to P.<br/>Who sits second to the left of O?",
+    "options": [
+      {
+        "id": "A",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Directions: Study the following information\ncarefully and answer\nthe questions given\nbelow:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face\neach other. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O.\nOne person sits between O and Q, who sits at\nParallel Row Arrangement",
+    "questionHtml": "Directions: Study the following information<br/>carefully and answer<br/>the questions given<br/>below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face<br/>each other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O.<br/>One person sits between O and Q, who sits at<br/>Parallel Row Arrangement",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Directions: Study the following information\ncarefully and answer the questions given\nbelow:\nTwelve students are sitting in parallel rows. E, F,\nG, H, I and J sit in row 1 while M, N, O, P, Q and R\nsit in row 2. Students in row 1 and row 2 face\neach other. Students of row 1 face south while\nstudents of row 2 face north.\nF sits second to the right of G, who faces O.\nOne person sits between O and Q, who sits at\none of the extreme ends. F does not sit at any\nextreme end. M sits to the immediate right of N,\nwho sits fifth left to the Q. R sits opposite I, who\nis not adjacent to F. I sits immediately right to\nthe H. J sits second to the right of E but not\nopposite to P.\nWho sits to the immediate right of I?",
+    "questionHtml": "Directions: Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Twelve students are sitting in parallel rows. E, F,<br/>G, H, I and J sit in row 1 while M, N, O, P, Q and R<br/>sit in row 2. Students in row 1 and row 2 face<br/>each other. Students of row 1 face south while<br/>students of row 2 face north.<br/>F sits second to the right of G, who faces O.<br/>One person sits between O and Q, who sits at<br/>one of the extreme ends. F does not sit at any<br/>extreme end. M sits to the immediate right of N,<br/>who sits fifth left to the Q. R sits opposite I, who<br/>is not adjacent to F. I sits immediately right to<br/>the H. J sits second to the right of E but not<br/>opposite to P.<br/>Who sits to the immediate right of I?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S\nand T are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. S sits in the middle of the row.\nThe immediate neighbor of S faces E. E sits\nthree places away from B. T sits diagonally\nopposite to B. A faces P. C and Q does not sit\non any of the extreme ends of the row. D sits\nright of B.\nFour of the following five are alike in a certain\nway based on their positions in the above\narrangement and so form a group. Which of the\nfollowing does not belong to the group ?",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S<br/>and T are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. S sits in the middle of the row.<br/>The immediate neighbor of S faces E. E sits<br/>three places away from B. T sits diagonally<br/>opposite to B. A faces P. C and Q does not sit<br/>on any of the extreme ends of the row. D sits<br/>right of B.<br/>Four of the following five are alike in a certain<br/>way based on their positions in the above<br/>arrangement and so form a group. Which of the<br/>following does not belong to the group ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "R",
+        "html": "R"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nR does not belong to that group.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>R does not belong to that group.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S\nand T are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. S sits in the middle of the row.\nThe immediate neighbor of S faces E. E sits\nthree places away from B. T sits diagonally\nopposite to B. A faces P. C and Q does not sit\non any of the extreme ends of the row. D sits\nright of B.\nWhich of the following faces R ?",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S<br/>and T are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. S sits in the middle of the row.<br/>The immediate neighbor of S faces E. E sits<br/>three places away from B. T sits diagonally<br/>opposite to B. A faces P. C and Q does not sit<br/>on any of the extreme ends of the row. D sits<br/>right of B.<br/>Which of the following faces R ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S\nand T are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. S sits in the middle of the row.\nThe immediate neighbor of S faces E. E sits\nthree places away from B. T sits diagonally\nopposite to B. A faces P. C and Q does not sit\non any of the extreme ends of the row. D sits\nright of B.",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S<br/>and T are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. S sits in the middle of the row.<br/>The immediate neighbor of S faces E. E sits<br/>three places away from B. T sits diagonally<br/>opposite to B. A faces P. C and Q does not sit<br/>on any of the extreme ends of the row. D sits<br/>right of B.",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in two-parallel row. Five people in\neach row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S\nand T are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. S sits in the middle of the row.\nThe immediate neighbor of S faces E. E sits\nthree places away from B. T sits diagonally\nopposite to B. A faces P. C and Q does not sit\non any of the extreme ends of the row. D sits\nright of B.\nWhich of the following sits just left of D ?",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in two-parallel row. Five people in<br/>each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S<br/>and T are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. S sits in the middle of the row.<br/>The immediate neighbor of S faces E. E sits<br/>three places away from B. T sits diagonally<br/>opposite to B. A faces P. C and Q does not sit<br/>on any of the extreme ends of the row. D sits<br/>right of B.<br/>Which of the following sits just left of D ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "C",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "E",
+        "text": "B",
+        "html": "B"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Study the following data carefully and answer\nthe questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 A, B, C, D and E are seated\nand all face towards south. In row-2 P, Q, R, S\nand T are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. S sits in the middle of the row.\nThe immediate neighbor of S faces E. E sits\nthree places away from B. T sits diagonally\nopposite to B. A faces P. C and Q does not sit\non any of the extreme ends of the row. D sits\nright of B.\nWho among the following persons is/are sitting\nat the extreme end of the row ?",
+    "questionHtml": "Study the following data carefully and answer<br/>the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 A, B, C, D and E are seated<br/>and all face towards south. In row-2 P, Q, R, S<br/>and T are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. S sits in the middle of the row.<br/>The immediate neighbor of S faces E. E sits<br/>three places away from B. T sits diagonally<br/>opposite to B. A faces P. C and Q does not sit<br/>on any of the extreme ends of the row. D sits<br/>right of B.<br/>Who among the following persons is/are sitting<br/>at the extreme end of the row ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "D",
+        "html": "D"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nS sits fourth to the right of the one who faces J.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>S sits fourth to the right of the one who faces J.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 P, Q, R, S and T are seated\nand all face towards south. In row-2 A, B, C, D\nand E are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. R sits third to the right of T,\neither R or T sit at any of the extreme ends of\nthe row. The one who faces R sits second to the\nleft of E. C sits immediately left of E. The one\nwho faces C sits immediately right of S. Q faces",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 P, Q, R, S and T are seated<br/>and all face towards south. In row-2 A, B, C, D<br/>and E are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. R sits third to the right of T,<br/>either R or T sit at any of the extreme ends of<br/>the row. The one who faces R sits second to the<br/>left of E. C sits immediately left of E. The one<br/>who faces C sits immediately right of S. Q faces",
+    "options": [
+      {
+        "id": "A",
+        "text": "B does not sit at any of the extreme ends of\nthe row. Q sits two places away from P.\nHow many people are seated between R and\nT?",
+        "html": "B does not sit at any of the extreme ends of\nthe row. Q sits two places away from P.\nHow many people are seated between R and\nT?"
+      },
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nTen people sit in a two-parallel row. Five people\nin each row. In row-1 P, Q, R, S and T are seated\nand all face towards south. In row-2 A, B, C, D",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Ten people sit in a two-parallel row. Five people<br/>in each row. In row-1 P, Q, R, S and T are seated<br/>and all face towards south. In row-2 A, B, C, D",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement,\neach member sitting in a row faces another\nmember of the other row.\nC sits second from any of the end of the row.\nTwo persons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not\nsit any of the end of the row. C does not face P.\nR sits one of the positions to the left of Q. One\nof the immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\nHow many persons sit between S and T?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement,<br/>each member sitting in a row faces another<br/>member of the other row.<br/>C sits second from any of the end of the row.<br/>Two persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not<br/>sit any of the end of the row. C does not face P.<br/>R sits one of the positions to the left of Q. One<br/>of the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/>How many persons sit between S and T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "More than three",
+        "html": "More than three"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement,\neach member sitting in a row faces another\nmember of the other row.\nC sits second from any of the end of the row.\nTwo persons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not\nsit any of the end of the row. C does not face P.\nR sits one of the positions to the left of Q. One\nof the immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\nWhat is the position of A with respect to B?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement,<br/>each member sitting in a row faces another<br/>member of the other row.<br/>C sits second from any of the end of the row.<br/>Two persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not<br/>sit any of the end of the row. C does not face P.<br/>R sits one of the positions to the left of Q. One<br/>of the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/>What is the position of A with respect to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Immediate left",
+        "html": "Immediate left"
+      },
+      {
+        "id": "C",
+        "text": "Second to the left",
+        "html": "Second to the left"
+      },
+      {
+        "id": "D",
+        "text": "Third to the left",
+        "html": "Third to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.\nThus, the neighbour of J belongs to Kota and\nthe remaining one H belongs to Delhi.\nTherefore, the final arrangement is:\nC belongs to Bali",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.<br/>Thus, the neighbour of J belongs to Kota and<br/>the remaining one H belongs to Delhi.<br/>Therefore, the final arrangement is:<br/>C belongs to Bali",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P\nC sits at the extreme end of the row\nF is seated second to the right of B\nR does not face D\nR faces the immediate neighbour of B\nQ faces B\nS does not face D",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P<br/>C sits at the extreme end of the row<br/>F is seated second to the right of B<br/>R does not face D<br/>R faces the immediate neighbour of B<br/>Q faces B<br/>S does not face D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement,\neach member sitting in a row faces another\nmember of the other row.\nC sits second from any of the end of the row.\nTwo persons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not\nsit any of the end of the row. C does not face P.\nR sits one of the positions to the left of Q. One\nof the immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\nWho among the following sit opposite to R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement,<br/>each member sitting in a row faces another<br/>member of the other row.<br/>C sits second from any of the end of the row.<br/>Two persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not<br/>sit any of the end of the row. C does not face P.<br/>R sits one of the positions to the left of Q. One<br/>of the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/>Who among the following sit opposite to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the given questions:\nTwelve persons are sitting in two parallel rows\ncontaining six persons each in such a way that\nthere is an equal distance between adjacent\npersons. In the Row-1, P, Q, R, S, T and U are\nsitting and all of them are facing towards north\ndirection. In the Row-2, A, B, C, D, E and F are\nsitting and all of them are facing towards south\ndirection. In the given seating arrangement,\neach member sitting in a row faces another\nmember of the other row.\nC sits second from any of the end of the row.\nTwo persons sit between C and F. One of the\nimmediate neighbour of F faces T. Two persons\nsit between T and Q. P sits third to right of U. U\nand P does not sit adjacent to T. One of the\nimmediate neighbour of U faces A. A does not\nsit any of the end of the row. C does not face P.\nR sits one of the positions to the left of Q. One\nof the immediate neighbour of R faces D. Two\npersons sit between D and B who sits to the left\nof C.\nWho among the following sits third to the left of\nE?",
+    "questionHtml": "Study the following information carefully and<br/>answer the given questions:<br/>Twelve persons are sitting in two parallel rows<br/>containing six persons each in such a way that<br/>there is an equal distance between adjacent<br/>persons. In the Row-1, P, Q, R, S, T and U are<br/>sitting and all of them are facing towards north<br/>direction. In the Row-2, A, B, C, D, E and F are<br/>sitting and all of them are facing towards south<br/>direction. In the given seating arrangement,<br/>each member sitting in a row faces another<br/>member of the other row.<br/>C sits second from any of the end of the row.<br/>Two persons sit between C and F. One of the<br/>immediate neighbour of F faces T. Two persons<br/>sit between T and Q. P sits third to right of U. U<br/>and P does not sit adjacent to T. One of the<br/>immediate neighbour of U faces A. A does not<br/>sit any of the end of the row. C does not face P.<br/>R sits one of the positions to the left of Q. One<br/>of the immediate neighbour of R faces D. Two<br/>persons sit between D and B who sits to the left<br/>of C.<br/>Who among the following sits third to the left of<br/>E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "B",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P\nC sits at the extreme end of the row\nF is seated second to the right of B\nR does not face D\nR faces the immediate neighbour of B\nQ faces B\nS does not face D",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P<br/>C sits at the extreme end of the row<br/>F is seated second to the right of B<br/>R does not face D<br/>R faces the immediate neighbour of B<br/>Q faces B<br/>S does not face D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\nThirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,\nand Z are sitting in four rows facing north. There\nare five slots in each row and are vertically\naligned. The rows are numbered 1 - 4 from front\nto back. N is vertically aligned with neither L nor\nX. The number of slots between Q and X is an\nodd number. M and A are vertically aligned. Q is\nsitting immediately behind Z, who is sitting\nadjacent to W. Only one slot is between P and\nY and no one is sitting adjacent to P. R is sitting\nat the end of an even numbered row. C and L\nare vertically aligned, however L and B are not.\nNo one is sitting immediately before M. C is\nsitting in a row immediately behind P's row. No\none is sitting immediately before X. Only two\nslots are between W and R. M and B are sitting\nin the same row and are not sitting adjacent to\neach other. Y and A are sitting adjacent to\neach other. No one is sitting immediately to the\nleft of L. The number of people sitting in N's row\nis less than the number of his row.\n1 << 2 means 1 is sitting to the north-east of 2.\n1 >> 2 means 1 is sitting to the north-west of 2.\n1 ?? 2 means 1 is sitting to the east of 2.\nY >> W >> Q ?? X << B\nIn which row, the number of people and the\nrow's number is the same?",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/>Thirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,<br/>and Z are sitting in four rows facing north. There<br/>are five slots in each row and are vertically<br/>aligned. The rows are numbered 1 - 4 from front<br/>to back. N is vertically aligned with neither L nor<br/>X. The number of slots between Q and X is an<br/>odd number. M and A are vertically aligned. Q is<br/>sitting immediately behind Z, who is sitting<br/>adjacent to W. Only one slot is between P and<br/>Y and no one is sitting adjacent to P. R is sitting<br/>at the end of an even numbered row. C and L<br/>are vertically aligned, however L and B are not.<br/>No one is sitting immediately before M. C is<br/>sitting in a row immediately behind P's row. No<br/>one is sitting immediately before X. Only two<br/>slots are between W and R. M and B are sitting<br/>in the same row and are not sitting adjacent to<br/>each other. Y and A are sitting adjacent to<br/>each other. No one is sitting immediately to the<br/>left of L. The number of people sitting in N's row<br/>is less than the number of his row.<br/>1 << 2 means 1 is sitting to the north-east of 2.<br/>1 >> 2 means 1 is sitting to the north-west of 2.<br/>1 ?? 2 means 1 is sitting to the east of 2.<br/>Y >> W >> Q ?? X << B<br/>In which row, the number of people and the<br/>row's number is the same?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both B and C",
+        "html": "Both B and C"
+      },
+      {
+        "id": "B",
+        "text": "Row 2",
+        "html": "Row 2"
+      },
+      {
+        "id": "C",
+        "text": "Row 1",
+        "html": "Row 1"
+      },
+      {
+        "id": "D",
+        "text": "Row 4",
+        "html": "Row 4"
+      },
+      {
+        "id": "E",
+        "text": "Row 3",
+        "html": "Row 3"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.\nFinal arrangement:\nAnswer: Two",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.<br/>Final arrangement:<br/>Answer: Two",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\nThirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,\nand Z are sitting in four rows facing north. There\nare five slots in each row and are vertically\naligned. The rows are numbered 1 - 4 from front\nto back. N is vertically aligned with neither L nor\nX. The number of slots between Q and X is an\nodd number. M and A are vertically aligned. Q is\nsitting immediately behind Z, who is sitting\nadjacent to W. Only one slot is between P and\nY and no one is sitting adjacent to P. R is sitting\nat the end of an even numbered row. C and L\nare vertically aligned, however L and B are not.\nNo one is sitting immediately before M. C is\nsitting in a row immediately behind P's row. No\none is sitting immediately before X. Only two\nslots are between W and R. M and B are sitting\nin the same row and are not sitting adjacent to\neach other. Y and A are sitting adjacent to\neach other. No one is sitting immediately to the\nleft of L. The number of people sitting in N's row\nis less than the number of his row.\n1 << 2 means 1 is sitting to the north-east of 2.\n1 >> 2 means 1 is sitting to the north-west of 2.\n1 ?? 2 means 1 is sitting to the east of 2.\nY >> W >> Q ?? X << B\nWhat is N's position with respect to B?",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/>Thirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,<br/>and Z are sitting in four rows facing north. There<br/>are five slots in each row and are vertically<br/>aligned. The rows are numbered 1 - 4 from front<br/>to back. N is vertically aligned with neither L nor<br/>X. The number of slots between Q and X is an<br/>odd number. M and A are vertically aligned. Q is<br/>sitting immediately behind Z, who is sitting<br/>adjacent to W. Only one slot is between P and<br/>Y and no one is sitting adjacent to P. R is sitting<br/>at the end of an even numbered row. C and L<br/>are vertically aligned, however L and B are not.<br/>No one is sitting immediately before M. C is<br/>sitting in a row immediately behind P's row. No<br/>one is sitting immediately before X. Only two<br/>slots are between W and R. M and B are sitting<br/>in the same row and are not sitting adjacent to<br/>each other. Y and A are sitting adjacent to<br/>each other. No one is sitting immediately to the<br/>left of L. The number of people sitting in N's row<br/>is less than the number of his row.<br/>1 << 2 means 1 is sitting to the north-east of 2.<br/>1 >> 2 means 1 is sitting to the north-west of 2.<br/>1 ?? 2 means 1 is sitting to the east of 2.<br/>Y >> W >> Q ?? X << B<br/>What is N's position with respect to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Immediately to the left",
+        "html": "Immediately to the left"
+      },
+      {
+        "id": "B",
+        "text": "Fourth to the right",
+        "html": "Fourth to the right"
+      },
+      {
+        "id": "C",
+        "text": "Third to the left",
+        "html": "Third to the left"
+      },
+      {
+        "id": "D",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\nThirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,\nand Z are sitting in four rows facing north. There\nare five slots in each row and are vertically\naligned. The rows are numbered 1 - 4 from front\nto back. N is vertically aligned with neither L nor\nX. The number of slots between Q and X is an\nodd number. M and A are vertically aligned. Q is\nsitting immediately behind Z, who is sitting",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/>Thirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,<br/>and Z are sitting in four rows facing north. There<br/>are five slots in each row and are vertically<br/>aligned. The rows are numbered 1 - 4 from front<br/>to back. N is vertically aligned with neither L nor<br/>X. The number of slots between Q and X is an<br/>odd number. M and A are vertically aligned. Q is<br/>sitting immediately behind Z, who is sitting",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nThirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,\nand Z are sitting in four rows facing north. There\nare five slots in each row and are vertically\naligned. The rows are numbered 1 - 4 from front\nto back. N is vertically aligned with neither L nor\nX. The number of slots between Q and X is an\nodd number. M and A are vertically aligned. Q is\nsitting immediately behind Z, who is sitting\nadjacent to W. Only one slot is between P and\nY and no one is sitting adjacent to P. R is sitting\nat the end of an even numbered row. C and L\nare vertically aligned, however L and B are not.\nNo one is sitting immediately before M. C is\nsitting in a row immediately behind P's row. No\none is sitting immediately before X. Only two\nslots are between W and R. M and B are sitting\nin the same row and are not sitting adjacent to\neach other. Y and A are sitting adjacent to\neach other. No one is sitting immediately to the\nleft of L. The number of people sitting in N's row\nis less than the number of his row.\n1 << 2 means 1 is sitting to the north-east of 2.\n1 >> 2 means 1 is sitting to the north-west of 2.\n1 ?? 2 means 1 is sitting to the east of 2.\nY >> W >> Q ?? X << B\n \nWhat is the sum of the number of people\nsitting in odd numbered rows?",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Thirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,<br/>and Z are sitting in four rows facing north. There<br/>are five slots in each row and are vertically<br/>aligned. The rows are numbered 1 - 4 from front<br/>to back. N is vertically aligned with neither L nor<br/>X. The number of slots between Q and X is an<br/>odd number. M and A are vertically aligned. Q is<br/>sitting immediately behind Z, who is sitting<br/>adjacent to W. Only one slot is between P and<br/>Y and no one is sitting adjacent to P. R is sitting<br/>at the end of an even numbered row. C and L<br/>are vertically aligned, however L and B are not.<br/>No one is sitting immediately before M. C is<br/>sitting in a row immediately behind P's row. No<br/>one is sitting immediately before X. Only two<br/>slots are between W and R. M and B are sitting<br/>in the same row and are not sitting adjacent to<br/>each other. Y and A are sitting adjacent to<br/>each other. No one is sitting immediately to the<br/>left of L. The number of people sitting in N's row<br/>is less than the number of his row.<br/>1 << 2 means 1 is sitting to the north-east of 2.<br/>1 >> 2 means 1 is sitting to the north-west of 2.<br/>1 ?? 2 means 1 is sitting to the east of 2.<br/>Y >> W >> Q ?? X << B<br/> <br/>What is the sum of the number of people<br/>sitting in odd numbered rows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "9",
+        "html": "9"
+      },
+      {
+        "id": "E",
+        "text": "8",
+        "html": "8"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nThirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,\nand Z are sitting in four rows facing north. There\nare five slots in each row and are vertically\naligned. The rows are numbered 1 - 4 from front\nto back. N is vertically aligned with neither L nor\nX. The number of slots between Q and X is an\nodd number. M and A are vertically aligned. Q is\nsitting immediately behind Z, who is sitting\nadjacent to W. Only one slot is between P and\nY and no one is sitting adjacent to P. R is sitting\nat the end of an even numbered row. C and L\nare vertically aligned, however L and B are not.\nNo one is sitting immediately before M. C is\nsitting in a row immediately behind P's row. No\none is sitting immediately before X. Only two\nslots are between W and R. M and B are sitting\nin the same row and are not sitting adjacent to\neach other. Y and A are sitting adjacent to\neach other. No one is sitting immediately to the\nleft of L. The number of people sitting in N's row\nis less than the number of his row.\n1 << 2 means 1 is sitting to the north-east of 2.\n1 >> 2 means 1 is sitting to the north-west of 2.\n1 ?? 2 means 1 is sitting to the east of 2.\nY >> W >> Q ?? X << B",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Thirteen people A, B, C, L, M, N, P, Q, R, W, X, Y,<br/>and Z are sitting in four rows facing north. There<br/>are five slots in each row and are vertically<br/>aligned. The rows are numbered 1 - 4 from front<br/>to back. N is vertically aligned with neither L nor<br/>X. The number of slots between Q and X is an<br/>odd number. M and A are vertically aligned. Q is<br/>sitting immediately behind Z, who is sitting<br/>adjacent to W. Only one slot is between P and<br/>Y and no one is sitting adjacent to P. R is sitting<br/>at the end of an even numbered row. C and L<br/>are vertically aligned, however L and B are not.<br/>No one is sitting immediately before M. C is<br/>sitting in a row immediately behind P's row. No<br/>one is sitting immediately before X. Only two<br/>slots are between W and R. M and B are sitting<br/>in the same row and are not sitting adjacent to<br/>each other. Y and A are sitting adjacent to<br/>each other. No one is sitting immediately to the<br/>left of L. The number of people sitting in N's row<br/>is less than the number of his row.<br/>1 << 2 means 1 is sitting to the north-east of 2.<br/>1 >> 2 means 1 is sitting to the north-west of 2.<br/>1 ?? 2 means 1 is sitting to the east of 2.<br/>Y >> W >> Q ?? X << B",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nA, B, C, D, E, P, Q, R, S, and T are sitting in two\nparallel rows Row 1 and Row 2. Row 2 is in front\nof Row 1 and all people are facing south\ndirection. Five people sit in each row. The\ndistance between two adjacent people is the\nsame. No two people sit in the same position.\nNote: (Person sitting behind/in front of another\nperson means they are parallel to each other).\nOnly one person sits between D and B. D is\nsitting behind A. D is not sitting at the end of\nthe row. The one who sits on the immediate\nright of A is in front of S. The one who sits\nsecond to the left of T is in front of R. C sits\nimmediate to the right of E, who does not sit in\nfront of B. T is not second to the left of P, who\ndoes not sit at any end. T is an immediate\nneighbour of C. B can not sit to the right of D.\nWhat is the position of C with respect to A?",
+    "questionHtml": "Directions:Study<br/>the <br/>following <br/>information<br/>carefully <br/>and <br/>answer<br/>the <br/>questions<br/>accordingly.<br/>A, B, C, D, E, P, Q, R, S, and T are sitting in two<br/>parallel rows Row 1 and Row 2. Row 2 is in front<br/>of Row 1 and all people are facing south<br/>direction. Five people sit in each row. The<br/>distance between two adjacent people is the<br/>same. No two people sit in the same position.<br/>Note: (Person sitting behind/in front of another<br/>person means they are parallel to each other).<br/>Only one person sits between D and B. D is<br/>sitting behind A. D is not sitting at the end of<br/>the row. The one who sits on the immediate<br/>right of A is in front of S. The one who sits<br/>second to the left of T is in front of R. C sits<br/>immediate to the right of E, who does not sit in<br/>front of B. T is not second to the left of P, who<br/>does not sit at any end. T is an immediate<br/>neighbour of C. B can not sit to the right of D.<br/>What is the position of C with respect to A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third to the left",
+        "html": "Third to the left"
+      },
+      {
+        "id": "B",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "C",
+        "text": "Third to the right",
+        "html": "Third to the right"
+      },
+      {
+        "id": "D",
+        "text": "Second to the left",
+        "html": "Second to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nR does not belong to that group.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>R does not belong to that group.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nA, B, C, D, E, P, Q, R, S, and T are sitting in two\nparallel rows Row 1 and Row 2. Row 2 is in front\nof Row 1 and all people are facing south\ndirection. Five people sit in each row. The\ndistance between two adjacent people is the\nsame. No two people sit in the same position.\nNote: (Person sitting behind/in front of another\nperson means they are parallel to each other).\nOnly one person sits between D and B. D is\nsitting behind A. D is not sitting at the end of\nthe row. The one who sits on the immediate\nright of A is in front of S. The one who sits\nsecond to the left of T is in front of R. C sits\nimmediate to the right of E, who does not sit in\nfront of B. T is not second to the left of P, who\ndoes not sit at any end. T is an immediate\nneighbour of C. B can not sit to the right of D.\nWho among the following sits in front of B?",
+    "questionHtml": "Directions:Study<br/>the <br/>following <br/>information<br/>carefully <br/>and <br/>answer<br/>the <br/>questions<br/>accordingly.<br/>A, B, C, D, E, P, Q, R, S, and T are sitting in two<br/>parallel rows Row 1 and Row 2. Row 2 is in front<br/>of Row 1 and all people are facing south<br/>direction. Five people sit in each row. The<br/>distance between two adjacent people is the<br/>same. No two people sit in the same position.<br/>Note: (Person sitting behind/in front of another<br/>person means they are parallel to each other).<br/>Only one person sits between D and B. D is<br/>sitting behind A. D is not sitting at the end of<br/>the row. The one who sits on the immediate<br/>right of A is in front of S. The one who sits<br/>second to the left of T is in front of R. C sits<br/>immediate to the right of E, who does not sit in<br/>front of B. T is not second to the left of P, who<br/>does not sit at any end. T is an immediate<br/>neighbour of C. B can not sit to the right of D.<br/>Who among the following sits in front of B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "T",
+        "html": "T"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions:Study \nthe \nfollowing \ninformation\ncarefully \nand \nanswer \nthe \nquestions\naccordingly.\nA, B, C, D, E, P, Q, R, S, and T are sitting in two\nparallel rows Row 1 and Row 2. Row 2 is in front\nof Row 1 and all people are facing south\ndirection. Five people sit in each row. The\ndistance between two adjacent people is the\nsame. No two people sit in the same position.\nNote: (Person sitting behind/in front of another\nperson means they are parallel to each other).\nOnly one person sits between D and B. D is\nsitting behind A. D is not sitting at the end of\nthe row. The one who sits on the immediate\nright of A is in front of S. The one who sits\nsecond to the left of T is in front of R. C sits\nimmediate to the right of E, who does not sit in\nfront of B. T is not second to the left of P, who\ndoes not sit at any end. T is an immediate\nneighbour of C. B can not sit to the right of D.",
+    "questionHtml": "Directions:Study <br/>the <br/>following <br/>information<br/>carefully <br/>and <br/>answer <br/>the <br/>questions<br/>accordingly.<br/>A, B, C, D, E, P, Q, R, S, and T are sitting in two<br/>parallel rows Row 1 and Row 2. Row 2 is in front<br/>of Row 1 and all people are facing south<br/>direction. Five people sit in each row. The<br/>distance between two adjacent people is the<br/>same. No two people sit in the same position.<br/>Note: (Person sitting behind/in front of another<br/>person means they are parallel to each other).<br/>Only one person sits between D and B. D is<br/>sitting behind A. D is not sitting at the end of<br/>the row. The one who sits on the immediate<br/>right of A is in front of S. The one who sits<br/>second to the left of T is in front of R. C sits<br/>immediate to the right of E, who does not sit in<br/>front of B. T is not second to the left of P, who<br/>does not sit at any end. T is an immediate<br/>neighbour of C. B can not sit to the right of D.",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nA, B, C, D, E, P, Q, R, S, and T are sitting in two\nparallel rows Row 1 and Row 2. Row 2 is in front\nof Row 1 and all people are facing south\ndirection. Five people sit in each row. The\ndistance between two adjacent people is the\nsame. No two people sit in the same position.\nNote: (Person sitting behind/in front of another\nperson means they are parallel to each other).\nOnly one person sits between D and B. D is\nsitting behind A. D is not sitting at the end of\nthe row. The one who sits on the immediate\nright of A is in front of S. The one who sits\nsecond to the left of T is in front of R. C sits\nimmediate to the right of E, who does not sit in\nfront of B. T is not second to the left of P, who\ndoes not sit at any end. T is an immediate\nneighbour of C. B can not sit to the right of D.\nFour of the five among the following are similar\nin such a way to form a group, who among the\nfollowing doesn’t belong to the group.",
+    "questionHtml": "Directions:Study<br/>the <br/>following <br/>information<br/>carefully <br/>and <br/>answer<br/>the <br/>questions<br/>accordingly.<br/>A, B, C, D, E, P, Q, R, S, and T are sitting in two<br/>parallel rows Row 1 and Row 2. Row 2 is in front<br/>of Row 1 and all people are facing south<br/>direction. Five people sit in each row. The<br/>distance between two adjacent people is the<br/>same. No two people sit in the same position.<br/>Note: (Person sitting behind/in front of another<br/>person means they are parallel to each other).<br/>Only one person sits between D and B. D is<br/>sitting behind A. D is not sitting at the end of<br/>the row. The one who sits on the immediate<br/>right of A is in front of S. The one who sits<br/>second to the left of T is in front of R. C sits<br/>immediate to the right of E, who does not sit in<br/>front of B. T is not second to the left of P, who<br/>does not sit at any end. T is an immediate<br/>neighbour of C. B can not sit to the right of D.<br/>Four of the five among the following are similar<br/>in such a way to form a group, who among the<br/>following doesn’t belong to the group.",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "P",
+        "html": "P"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions:Study\nthe \nfollowing \ninformation\ncarefully \nand \nanswer\nthe \nquestions\naccordingly.\nA, B, C, D, E, P, Q, R, S, and T are sitting in two\nparallel rows Row 1 and Row 2. Row 2 is in front\nof Row 1 and all people are facing south\ndirection. Five people sit in each row. The\ndistance between two adjacent people is the\nsame. No two people sit in the same position.\nNote: (Person sitting behind/in front of another\nperson means they are parallel to each other).\nOnly one person sits between D and B. D is\nsitting behind A. D is not sitting at the end of\nthe row. The one who sits on the immediate\nright of A is in front of S. The one who sits\nsecond to the left of T is in front of R. C sits\nimmediate to the right of E, who does not sit in\nfront of B. T is not second to the left of P, who\ndoes not sit at any end. T is an immediate\nneighbour of C. B can not sit to the right of D.\nHow many people are sitting between S and P?",
+    "questionHtml": "Directions:Study<br/>the <br/>following <br/>information<br/>carefully <br/>and <br/>answer<br/>the <br/>questions<br/>accordingly.<br/>A, B, C, D, E, P, Q, R, S, and T are sitting in two<br/>parallel rows Row 1 and Row 2. Row 2 is in front<br/>of Row 1 and all people are facing south<br/>direction. Five people sit in each row. The<br/>distance between two adjacent people is the<br/>same. No two people sit in the same position.<br/>Note: (Person sitting behind/in front of another<br/>person means they are parallel to each other).<br/>Only one person sits between D and B. D is<br/>sitting behind A. D is not sitting at the end of<br/>the row. The one who sits on the immediate<br/>right of A is in front of S. The one who sits<br/>second to the left of T is in front of R. C sits<br/>immediate to the right of E, who does not sit in<br/>front of B. T is not second to the left of P, who<br/>does not sit at any end. T is an immediate<br/>neighbour of C. B can not sit to the right of D.<br/>How many people are sitting between S and P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None",
+        "html": "None"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nS sits fourth to the right of the one who faces J.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>S sits fourth to the right of the one who faces J.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people sit in a two-parallel row. Four\npeople in each row. In row-1 A, B, C and D are\nseated and all face towards south. In row-2 P,\nQ, R and S are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. P sits third to the left of S. C sits\nimmediately to the right of the one who faces S.\nA sits opposite to Q. B sits second to the right of\nthe one who faces R.\nFour of the following five are alike in a certain\nway and hence form a group. Find the one that\ndoesn’t belong to that group.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Eight people sit in a two-parallel row. Four<br/>people in each row. In row-1 A, B, C and D are<br/>seated and all face towards south. In row-2 P,<br/>Q, R and S are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. P sits third to the left of S. C sits<br/>immediately to the right of the one who faces S.<br/>A sits opposite to Q. B sits second to the right of<br/>the one who faces R.<br/>Four of the following five are alike in a certain<br/>way and hence form a group. Find the one that<br/>doesn’t belong to that group.",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "E",
+        "text": "A",
+        "html": "A"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people sit in a two-parallel row. Four\npeople in each row. In row-1 A, B, C and D are",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Eight people sit in a two-parallel row. Four<br/>people in each row. In row-1 A, B, C and D are",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is n ot necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\n \nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.\nThus, the neighbour of J belongs to Kota and\nthe remaining one H belongs to Delhi.\nTherefore, the final arrangement is:\nH sits second to the left of I and I belongs to\nNoida.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is n ot necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/> <br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.<br/>Thus, the neighbour of J belongs to Kota and<br/>the remaining one H belongs to Delhi.<br/>Therefore, the final arrangement is:<br/>H sits second to the left of I and I belongs to<br/>Noida.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people sit in a two-parallel row. Four\npeople in each row. In row-1 A, B, C and D are\nseated and all face towards south. In row-2 P,\nQ, R and S are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. P sits third to the left of S. C sits\nimmediately to the right of the one who faces S.\nA sits opposite to Q. B sits second to the right of\nthe one who faces R.\nWho among the following faces the immediate\nneighbor of S ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Eight people sit in a two-parallel row. Four<br/>people in each row. In row-1 A, B, C and D are<br/>seated and all face towards south. In row-2 P,<br/>Q, R and S are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. P sits third to the left of S. C sits<br/>immediately to the right of the one who faces S.<br/>A sits opposite to Q. B sits second to the right of<br/>the one who faces R.<br/>Who among the following faces the immediate<br/>neighbor of S ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "Either (1) or (3) option",
+        "html": "Either (1) or (3) option"
+      },
+      {
+        "id": "E",
+        "text": "B",
+        "html": "B"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people sit in a two-parallel row. Four\npeople in each row. In row-1 A, B, C and D are\nseated and all face towards south. In row-2 P,\nQ, R and S are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. P sits third to the left of S. C sits\nimmediately to the right of the one who faces S.\nA sits opposite to Q. B sits second to the right of\nthe one who faces R.\nWho among the following sits second to the\nright of the one, who is facing the one, who is\nsecond to the right of P?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Eight people sit in a two-parallel row. Four<br/>people in each row. In row-1 A, B, C and D are<br/>seated and all face towards south. In row-2 P,<br/>Q, R and S are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. P sits third to the left of S. C sits<br/>immediately to the right of the one who faces S.<br/>A sits opposite to Q. B sits second to the right of<br/>the one who faces R.<br/>Who among the following sits second to the<br/>right of the one, who is facing the one, who is<br/>second to the right of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nEight people sit in a two-parallel row. Four\npeople in each row. In row-1 A, B, C and D are\nseated and all face towards south. In row-2 P,\nQ, R and S are seated and all face towards the\nnorth. People seated in row-1 face people\nseated in row-2. P sits third to the left of S. C sits\nimmediately to the right of the one who faces S.\nA sits opposite to Q. B sits second to the right of\nthe one who faces R.\nHow many people are seated between R and\nQ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Eight people sit in a two-parallel row. Four<br/>people in each row. In row-1 A, B, C and D are<br/>seated and all face towards south. In row-2 P,<br/>Q, R and S are seated and all face towards the<br/>north. People seated in row-1 face people<br/>seated in row-2. P sits third to the left of S. C sits<br/>immediately to the right of the one who faces S.<br/>A sits opposite to Q. B sits second to the right of<br/>the one who faces R.<br/>How many people are seated between R and<br/>Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "B",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "C",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "D",
+        "text": "Can't be determined",
+        "html": "Can't be determined"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.\nThus, the neighbour of J belongs to Kota and\nthe remaining one H belongs to Delhi.\nTherefore, the final arrangement is:\nC belongs to Bali",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.<br/>Thus, the neighbour of J belongs to Kota and<br/>the remaining one H belongs to Delhi.<br/>Therefore, the final arrangement is:<br/>C belongs to Bali",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Directions:Study the information given below\ncarefully and answer the following question.\nThere are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,\nU) seated in two different rows i.e. row-1 and\nrow-2. A, B, C, D, E and F are seated in row-1\nfacing south and P, Q, R, S, T and U are seated\nin row- 2 facing north. Member of both the rows\nface each other. A is seated at the extreme\nright end of the row. T is sitting diagonally\nopposite to A. T is facing the one who is\nimmediate left of E. P is seated at the extreme",
+    "questionHtml": "Directions:Study the information given below<br/>carefully and answer the following question.<br/>There are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,<br/>U) seated in two different rows i.e. row-1 and<br/>row-2. A, B, C, D, E and F are seated in row-1<br/>facing south and P, Q, R, S, T and U are seated<br/>in row- 2 facing north. Member of both the rows<br/>face each other. A is seated at the extreme<br/>right end of the row. T is sitting diagonally<br/>opposite to A. T is facing the one who is<br/>immediate left of E. P is seated at the extreme",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P\nC sits at the extreme end of the row\nF is seated second to the right of B\nR does not face D\nR faces the immediate neighbour of B\nQ faces B\nS does not face D",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P<br/>C sits at the extreme end of the row<br/>F is seated second to the right of B<br/>R does not face D<br/>R faces the immediate neighbour of B<br/>Q faces B<br/>S does not face D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Directions:Study the information given below\ncarefully and answer the following question.\nThere are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,\nU) seated in two different rows i.e. row-1 and\nrow-2. A, B, C, D, E and F are seated in row-1\nfacing south and P, Q, R, S, T and U are seated\nin row- 2 facing north. Member of both the rows\nface each other. A is seated at the extreme\nright end of the row. T is sitting diagonally\nopposite to A. T is facing the one who is\nimmediate left of E. P is seated at the extreme\nend of the row. B is facing the one who sits third\nto the right of P. R faces the immediate\nneighbour of B. R does not face D. C is seated\nat the extreme end of the row. F is seated\nsecond to the right of B. S does not face D. Q\nfaces B.\nWho among the following sits\ndiagonally\nopposite to P?",
+    "questionHtml": "Directions:Study the information given below<br/>carefully and answer the following question.<br/>There are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,<br/>U) seated in two different rows i.e. row-1 and<br/>row-2. A, B, C, D, E and F are seated in row-1<br/>facing south and P, Q, R, S, T and U are seated<br/>in row- 2 facing north. Member of both the rows<br/>face each other. A is seated at the extreme<br/>right end of the row. T is sitting diagonally<br/>opposite to A. T is facing the one who is<br/>immediate left of E. P is seated at the extreme<br/>end of the row. B is facing the one who sits third<br/>to the right of P. R faces the immediate<br/>neighbour of B. R does not face D. C is seated<br/>at the extreme end of the row. F is seated<br/>second to the right of B. S does not face D. Q<br/>faces B.<br/>Who among the following sits<br/>diagonally<br/>opposite to P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Directions:Study the information given below\ncarefully and answer the following question.\nThere are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,\nU) seated in two different rows i.e. row-1 and\nrow-2. A, B, C, D, E and F are seated in row-1\nfacing south and P, Q, R, S, T and U are seated\nin row- 2 facing north. Member of both the rows\nface each other. A is seated at the extreme\nright end of the row. T is sitting diagonally\nopposite to A. T is facing the one who is\nimmediate left of E. P is seated at the extreme\nend of the row. B is facing the one who sits third\nto the right of P. R faces the immediate\nneighbour of B. R does not face D. C is seated\nat the extreme end of the row. F is seated\nsecond to the right of B. S does not face D. Q\nfaces B.\nWho among the following sits third to the right\nof E?",
+    "questionHtml": "Directions:Study the information given below<br/>carefully and answer the following question.<br/>There are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,<br/>U) seated in two different rows i.e. row-1 and<br/>row-2. A, B, C, D, E and F are seated in row-1<br/>facing south and P, Q, R, S, T and U are seated<br/>in row- 2 facing north. Member of both the rows<br/>face each other. A is seated at the extreme<br/>right end of the row. T is sitting diagonally<br/>opposite to A. T is facing the one who is<br/>immediate left of E. P is seated at the extreme<br/>end of the row. B is facing the one who sits third<br/>to the right of P. R faces the immediate<br/>neighbour of B. R does not face D. C is seated<br/>at the extreme end of the row. F is seated<br/>second to the right of B. S does not face D. Q<br/>faces B.<br/>Who among the following sits third to the right<br/>of E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P\nC sits at the extreme end of the row\nF is seated second to the right of B\nR does not face D\nR faces the immediate neighbour of B\nQ faces B\nS does not face D",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P<br/>C sits at the extreme end of the row<br/>F is seated second to the right of B<br/>R does not face D<br/>R faces the immediate neighbour of B<br/>Q faces B<br/>S does not face D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Directions:Study the information given below\ncarefully and answer the following question.\nThere are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,\nU) seated in two different rows i.e. row-1 and\nrow-2. A, B, C, D, E and F are seated in row-1\nfacing south and P, Q, R, S, T and U are seated\nin row- 2 facing north. Member of both the rows\nface each other. A is seated at the extreme\nright end of the row. T is sitting diagonally\nopposite to A. T is facing the one who is\nimmediate left of E. P is seated at the extreme\nend of the row. B is facing the one who sits third\nto the right of P. R faces the immediate\nneighbour of B. R does not face D. C is seated\nat the extreme end of the row. F is seated\nsecond to the right of B. S does not face D. Q\nfaces B.\nWho among the following faces Q?",
+    "questionHtml": "Directions:Study the information given below<br/>carefully and answer the following question.<br/>There are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,<br/>U) seated in two different rows i.e. row-1 and<br/>row-2. A, B, C, D, E and F are seated in row-1<br/>facing south and P, Q, R, S, T and U are seated<br/>in row- 2 facing north. Member of both the rows<br/>face each other. A is seated at the extreme<br/>right end of the row. T is sitting diagonally<br/>opposite to A. T is facing the one who is<br/>immediate left of E. P is seated at the extreme<br/>end of the row. B is facing the one who sits third<br/>to the right of P. R faces the immediate<br/>neighbour of B. R does not face D. C is seated<br/>at the extreme end of the row. F is seated<br/>second to the right of B. S does not face D. Q<br/>faces B.<br/>Who among the following faces Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Directions:Study the information given below\ncarefully and answer the following question.\nThere are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,\nU) seated in two different rows i.e. row-1 and\nrow-2. A, B, C, D, E and F are seated in row-1\nfacing south and P, Q, R, S, T and U are seated\nin row- 2 facing north. Member of both the rows\nface each other. A is seated at the extreme\nright end of the row. T is sitting diagonally\nopposite to A. T is facing the one who is\nimmediate left of E. P is seated at the extreme\nend of the row. B is facing the one who sits third\nto the right of P. R faces the immediate\nneighbour of B. R does not face D. C is seated\nat the extreme end of the row. F is seated\nsecond to the right of B. S does not face D. Q\nfaces B.\nWhich of the following pair sits at the extreme\nleft ends of both the rows?",
+    "questionHtml": "Directions:Study the information given below<br/>carefully and answer the following question.<br/>There are 12 persons (A, B, C, D, E, F, P, Q, R, S, T,<br/>U) seated in two different rows i.e. row-1 and<br/>row-2. A, B, C, D, E and F are seated in row-1<br/>facing south and P, Q, R, S, T and U are seated<br/>in row- 2 facing north. Member of both the rows<br/>face each other. A is seated at the extreme<br/>right end of the row. T is sitting diagonally<br/>opposite to A. T is facing the one who is<br/>immediate left of E. P is seated at the extreme<br/>end of the row. B is facing the one who sits third<br/>to the right of P. R faces the immediate<br/>neighbour of B. R does not face D. C is seated<br/>at the extreme end of the row. F is seated<br/>second to the right of B. S does not face D. Q<br/>faces B.<br/>Which of the following pair sits at the extreme<br/>left ends of both the rows?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C and P",
+        "html": "C and P"
+      },
+      {
+        "id": "B",
+        "text": "A and B",
+        "html": "A and B"
+      },
+      {
+        "id": "C",
+        "text": "S and T",
+        "html": "S and T"
+      },
+      {
+        "id": "D",
+        "text": "E and U",
+        "html": "E and U"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "A is seated at the extreme right end of the\nrow.\nT is sitting diagonally opposite to A\nT is facing the one who is immediate left of E\nP sits at the extreme end of the row\nB is facing the one who sits third to the right\nof P\nC sits at the extreme end of the row\nF is seated second to the right of B\nR does not face D\nR faces the immediate neighbour of B\nQ faces B\nS does not face D",
+    "explanationHtml": "A is seated at the extreme right end of the<br/>row.<br/>T is sitting diagonally opposite to A<br/>T is facing the one who is immediate left of E<br/>P sits at the extreme end of the row<br/>B is facing the one who sits third to the right<br/>of P<br/>C sits at the extreme end of the row<br/>F is seated second to the right of B<br/>R does not face D<br/>R faces the immediate neighbour of B<br/>Q faces B<br/>S does not face D",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nTen persons viz. A, B, C, D, E, F, G, H, I and J are\nseated on two parallel rows such that the\npersons on one row faces towards the person of\nthe other row and vice versa. Each person likes\ndifferent colours viz. Black, Blue, Cyan, Gold,\nGreen, Grey, Indigo, Pink, Red and Rose. All the\ninformation is not necessarily in the same order.\nE sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.G sits\nadjacent to\nthe one who likes Blue and\nopposite to the one who likes Gold.The one who\nlikes Rose is the immediate neighbour of the\none who likes Gold and third to the left of A.The\none who likes Green sits adjacent to the one\nwho likes Cyan and the one who faces A.H sits\nfacing towards the one who likes Cyan and\nimmediate left of C who faces B.J sits to the\nimmediate right of D and faces towards the\none who likes Black. F faces towards the one\nwho likes Indigo but neither faces north nor likes\nRed.\nHow many persons sit between D and the one\nwho faces A?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Ten persons viz. A, B, C, D, E, F, G, H, I and J are<br/>seated on two parallel rows such that the<br/>persons on one row faces towards the person of<br/>the other row and vice versa. Each person likes<br/>different colours viz. Black, Blue, Cyan, Gold,<br/>Green, Grey, Indigo, Pink, Red and Rose. All the<br/>information is not necessarily in the same order.<br/>E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.G sits<br/>adjacent to<br/>the one who likes Blue and<br/>opposite to the one who likes Gold.The one who<br/>likes Rose is the immediate neighbour of the<br/>one who likes Gold and third to the left of A.The<br/>one who likes Green sits adjacent to the one<br/>who likes Cyan and the one who faces A.H sits<br/>facing towards the one who likes Cyan and<br/>immediate left of C who faces B.J sits to the<br/>immediate right of D and faces towards the<br/>one who likes Black. F faces towards the one<br/>who likes Indigo but neither faces north nor likes<br/>Red.<br/>How many persons sit between D and the one<br/>who faces A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.\nFinal arrangement:\nAnswer: Two",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.<br/>Final arrangement:<br/>Answer: Two",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nTen persons viz. A, B, C, D, E, F, G, H, I and J are\nseated on two parallel rows such that the\npersons on one row faces towards the person of\nthe other row and vice versa. Each person likes\ndifferent colours viz. Black, Blue, Cyan, Gold,\nGreen, Grey, Indigo, Pink, Red and Rose. All the\ninformation is not necessarily in the same order.\nE sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.G sits\nadjacent to\nthe one who likes Blue and\nopposite to the one who likes Gold.The one who\nlikes Rose is the immediate neighbour of the\none who likes Gold and third to the left of A.The\none who likes Green sits adjacent to the one\nwho likes Cyan and the one who faces A.H sits\nfacing towards the one who likes Cyan and\nimmediate left of C who faces B.J sits to the\nimmediate right of D and faces towards the\none who likes Black. F faces towards the one\nwho likes Indigo but neither faces north nor likes\nRed.\nIf I is related to Pink and B is related to Black,\nthen\nwho among the following person is\nrelated to Rose?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Ten persons viz. A, B, C, D, E, F, G, H, I and J are<br/>seated on two parallel rows such that the<br/>persons on one row faces towards the person of<br/>the other row and vice versa. Each person likes<br/>different colours viz. Black, Blue, Cyan, Gold,<br/>Green, Grey, Indigo, Pink, Red and Rose. All the<br/>information is not necessarily in the same order.<br/>E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.G sits<br/>adjacent to<br/>the one who likes Blue and<br/>opposite to the one who likes Gold.The one who<br/>likes Rose is the immediate neighbour of the<br/>one who likes Gold and third to the left of A.The<br/>one who likes Green sits adjacent to the one<br/>who likes Cyan and the one who faces A.H sits<br/>facing towards the one who likes Cyan and<br/>immediate left of C who faces B.J sits to the<br/>immediate right of D and faces towards the<br/>one who likes Black. F faces towards the one<br/>who likes Indigo but neither faces north nor likes<br/>Red.<br/>If I is related to Pink and B is related to Black,<br/>then<br/>who among the following person is<br/>related to Rose?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "D",
+        "text": "J",
+        "html": "J"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nTen persons viz. A, B, C, D, E, F, G, H, I and J are\nseated on two parallel rows such that the\npersons on one row faces towards the person of\nthe other row and vice versa. Each person likes\ndifferent colours viz. Black, Blue, Cyan, Gold,\nGreen, Grey, Indigo, Pink, Red and Rose. All the\ninformation is not necessarily in the same order.\nE sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.G sits\nadjacent to\nthe one who likes Blue and",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Ten persons viz. A, B, C, D, E, F, G, H, I and J are<br/>seated on two parallel rows such that the<br/>persons on one row faces towards the person of<br/>the other row and vice versa. Each person likes<br/>different colours viz. Black, Blue, Cyan, Gold,<br/>Green, Grey, Indigo, Pink, Red and Rose. All the<br/>information is not necessarily in the same order.<br/>E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.G sits<br/>adjacent to<br/>the one who likes Blue and",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nTen persons viz. A, B, C, D, E, F, G, H, I and J are\nseated on two parallel rows such that the\npersons on one row faces towards the person of\nthe other row and vice versa. Each person likes\ndifferent colours viz. Black, Blue, Cyan, Gold,\nGreen, Grey, Indigo, Pink, Red and Rose. All the\ninformation is not necessarily in the same order.\nE sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.G sits\nadjacent to\nthe one who likes Blue and\nopposite to the one who likes Gold.The one who\nlikes Rose is the immediate neighbour of the\none who likes Gold and third to the left of A.The\none who likes Green sits adjacent to the one\nwho likes Cyan and the one who faces A.H sits\nfacing towards the one who likes Cyan and\nimmediate left of C who faces B.J sits to the\nimmediate right of D and faces towards the\none who likes Black. F faces towards the one\nwho likes Indigo but neither faces north nor likes\nRed.\nWhich of the following statement is/are true\nwith respect to the final arrangement?\nI. E likes Gold and sits facing towards G.\nII. J faces the one who likes Rose colour.\nIII. The one who likes Green faces the one who\nsits to the immediate left of H.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Ten persons viz. A, B, C, D, E, F, G, H, I and J are<br/>seated on two parallel rows such that the<br/>persons on one row faces towards the person of<br/>the other row and vice versa. Each person likes<br/>different colours viz. Black, Blue, Cyan, Gold,<br/>Green, Grey, Indigo, Pink, Red and Rose. All the<br/>information is not necessarily in the same order.<br/>E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.G sits<br/>adjacent to<br/>the one who likes Blue and<br/>opposite to the one who likes Gold.The one who<br/>likes Rose is the immediate neighbour of the<br/>one who likes Gold and third to the left of A.The<br/>one who likes Green sits adjacent to the one<br/>who likes Cyan and the one who faces A.H sits<br/>facing towards the one who likes Cyan and<br/>immediate left of C who faces B.J sits to the<br/>immediate right of D and faces towards the<br/>one who likes Black. F faces towards the one<br/>who likes Indigo but neither faces north nor likes<br/>Red.<br/>Which of the following statement is/are true<br/>with respect to the final arrangement?<br/>I. E likes Gold and sits facing towards G.<br/>II. J faces the one who likes Rose colour.<br/>III. The one who likes Green faces the one who<br/>sits to the immediate left of H.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III",
+        "html": "Both I and III"
+      },
+      {
+        "id": "D",
+        "text": "Both II and III",
+        "html": "Both II and III"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nTen persons viz. A, B, C, D, E, F, G, H, I and J are\nseated on two parallel rows such that the\npersons on one row faces towards the person of\nthe other row and vice versa. Each person likes\ndifferent colours viz. Black, Blue, Cyan, Gold,\nGreen, Grey, Indigo, Pink, Red and Rose. All the\ninformation is not necessarily in the same order.\nE sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.G sits\nadjacent to\nthe one who likes Blue and\nopposite to the one who likes Gold.The one who\nlikes Rose is the immediate neighbour of the\none who likes Gold and third to the left of A.The\none who likes Green sits adjacent to the one\nwho likes Cyan and the one who faces A.H sits\nfacing towards the one who likes Cyan and\nimmediate left of C who faces B.J sits to the\nimmediate right of D and faces towards the\none who likes Black. F faces towards the one\nwho likes Indigo but neither faces north nor likes\nRed.\nWho among the following likes red colour?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>Ten persons viz. A, B, C, D, E, F, G, H, I and J are<br/>seated on two parallel rows such that the<br/>persons on one row faces towards the person of<br/>the other row and vice versa. Each person likes<br/>different colours viz. Black, Blue, Cyan, Gold,<br/>Green, Grey, Indigo, Pink, Red and Rose. All the<br/>information is not necessarily in the same order.<br/>E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.G sits<br/>adjacent to<br/>the one who likes Blue and<br/>opposite to the one who likes Gold.The one who<br/>likes Rose is the immediate neighbour of the<br/>one who likes Gold and third to the left of A.The<br/>one who likes Green sits adjacent to the one<br/>who likes Cyan and the one who faces A.H sits<br/>facing towards the one who likes Cyan and<br/>immediate left of C who faces B.J sits to the<br/>immediate right of D and faces towards the<br/>one who likes Black. F faces towards the one<br/>who likes Indigo but neither faces north nor likes<br/>Red.<br/>Who among the following likes red colour?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "C",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "D",
+        "text": "J",
+        "html": "J"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Read the following information carefully and\nanswer the questions given below.\nTwelve people are sitting in two parallel rows\nwhich has seven seats in each row such that\none of the seats in each row is vacant. There is\nequal distance between adjacent seats. In row\n1 i.e. H, I, J, K, L and M are seated and all of\nthem are facing towards north. In row 2 i.e. P, Q,\nR, S, T and U seated and all of them are facing\ntowards south. Therefore, each member in one\nrow face another person in other row except\none person as one person as one seat is\nvacant.\nNote 1: One seat in between two people\ndoesn’t necessarily mean that there is a person\nsitting on the seat between the two people.\nNote 2: One person sitting between the two\npeople doesn’t necessarily mean that there is\nonly one seat in between the two persons.\nI sits on the third seat from the left end of the\nrow. The one who faces R sits second to the left\nof J. Only two people sit between I and J. The\none who faces K sits third to the right of R. Q is\nnot an immediate neighbor of R. Only three\npeople sit between K and the one who faces Q.\nOnly two people sit between Q and S who\nneither faces K nor I. There are two persons\nbetween P and U. P sits to the right of U. P\ndoesn’t sit at the extreme end of the row. The\none who sits to the immediate left of S faces\nthe one who sits to the immediate left of H who\nis not an immediate neighbour of J. M sits\nsecond to the left of L.\nFour of the following five are alike in a certain\nway and hence form a group. Which of the\nfollowing does not belong to that group?",
+    "questionHtml": "Read the following information carefully and<br/>answer the questions given below.<br/>Twelve people are sitting in two parallel rows<br/>which has seven seats in each row such that<br/>one of the seats in each row is vacant. There is<br/>equal distance between adjacent seats. In row<br/>1 i.e. H, I, J, K, L and M are seated and all of<br/>them are facing towards north. In row 2 i.e. P, Q,<br/>R, S, T and U seated and all of them are facing<br/>towards south. Therefore, each member in one<br/>row face another person in other row except<br/>one person as one person as one seat is<br/>vacant.<br/>Note 1: One seat in between two people<br/>doesn’t necessarily mean that there is a person<br/>sitting on the seat between the two people.<br/>Note 2: One person sitting between the two<br/>people doesn’t necessarily mean that there is<br/>only one seat in between the two persons.<br/>I sits on the third seat from the left end of the<br/>row. The one who faces R sits second to the left<br/>of J. Only two people sit between I and J. The<br/>one who faces K sits third to the right of R. Q is<br/>not an immediate neighbor of R. Only three<br/>people sit between K and the one who faces Q.<br/>Only two people sit between Q and S who<br/>neither faces K nor I. There are two persons<br/>between P and U. P sits to the right of U. P<br/>doesn’t sit at the extreme end of the row. The<br/>one who sits to the immediate left of S faces<br/>the one who sits to the immediate left of H who<br/>is not an immediate neighbour of J. M sits<br/>second to the left of L.<br/>Four of the following five are alike in a certain<br/>way and hence form a group. Which of the<br/>following does not belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "B",
+        "text": "K",
+        "html": "K"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "L",
+        "html": "L"
+      },
+      {
+        "id": "E",
+        "text": "U",
+        "html": "U"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nR does not belong to that group.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>R does not belong to that group.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Read the following information carefully and\nanswer the questions given below.\nTwelve people are sitting in two parallel rows\nwhich has seven seats in each row such that\none of the seats in each row is vacant. There is\nequal distance between adjacent seats. In row\n1 i.e. H, I, J, K, L and M are seated and all of\nthem are facing towards north. In row 2 i.e. P, Q,\nR, S, T and U seated and all of them are facing\ntowards south. Therefore, each member in one\nrow face another person in other row except\none person as one person as one seat is\nvacant.\nNote 1: One seat in between two people\ndoesn’t necessarily mean that there is a person\nsitting on the seat between the two people.\nNote 2: One person sitting between the two\npeople doesn’t necessarily mean that there is\nonly one seat in between the two persons.\nI sits on the third seat from the left end of the\nrow. The one who faces R sits second to the left\nof J. Only two people sit between I and J. The\none who faces K sits third to the right of R. Q is\nnot an immediate neighbor of R. Only three\npeople sit between K and the one who faces Q.\nOnly two people sit between Q and S who\nneither faces K nor I. There are two persons\nbetween P and U. P sits to the right of U. P\ndoesn’t sit at the extreme end of the row. The\none who sits to the immediate left of S faces\nthe one who sits to the immediate left of H who\nis not an immediate neighbour of J. M sits\nsecond to the left of L.\nHow many people sit between the one who\nfaces both T and J?",
+    "questionHtml": "Read the following information carefully and<br/>answer the questions given below.<br/>Twelve people are sitting in two parallel rows<br/>which has seven seats in each row such that<br/>one of the seats in each row is vacant. There is<br/>equal distance between adjacent seats. In row<br/>1 i.e. H, I, J, K, L and M are seated and all of<br/>them are facing towards north. In row 2 i.e. P, Q,<br/>R, S, T and U seated and all of them are facing<br/>towards south. Therefore, each member in one<br/>row face another person in other row except<br/>one person as one person as one seat is<br/>vacant.<br/>Note 1: One seat in between two people<br/>doesn’t necessarily mean that there is a person<br/>sitting on the seat between the two people.<br/>Note 2: One person sitting between the two<br/>people doesn’t necessarily mean that there is<br/>only one seat in between the two persons.<br/>I sits on the third seat from the left end of the<br/>row. The one who faces R sits second to the left<br/>of J. Only two people sit between I and J. The<br/>one who faces K sits third to the right of R. Q is<br/>not an immediate neighbor of R. Only three<br/>people sit between K and the one who faces Q.<br/>Only two people sit between Q and S who<br/>neither faces K nor I. There are two persons<br/>between P and U. P sits to the right of U. P<br/>doesn’t sit at the extreme end of the row. The<br/>one who sits to the immediate left of S faces<br/>the one who sits to the immediate left of H who<br/>is not an immediate neighbour of J. M sits<br/>second to the left of L.<br/>How many people sit between the one who<br/>faces both T and J?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "B",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "C",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "D",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "E",
+        "text": "Two",
+        "html": "Two"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Read the following information carefully and\nanswer the questions given below.\nTwelve people are sitting in two parallel rows\nwhich has seven seats in each row such that\none of the seats in each row is vacant. There is",
+    "questionHtml": "Read the following information carefully and<br/>answer the questions given below.<br/>Twelve people are sitting in two parallel rows<br/>which has seven seats in each row such that<br/>one of the seats in each row is vacant. There is",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Read the following information carefully and\nanswer the questions given below.\nTwelve people are sitting in two parallel rows\nwhich has seven seats in each row such that\none of the seats in each row is vacant. There is\nequal distance between adjacent seats. In row\n1 i.e. H, I, J, K, L and M are seated and all of\nthem are facing towards north. In row 2 i.e. P, Q,\nR, S, T and U seated and all of them are facing\ntowards south. Therefore, each member in one\nrow face another person in other row except\none person as one person as one seat is\nvacant.\nNote 1: One seat in between two people\ndoesn’t necessarily mean that there is a person\nsitting on the seat between the two people.\nNote 2: One person sitting between the two\npeople doesn’t necessarily mean that there is\nonly one seat in between the two persons.\nI sits on the third seat from the left end of the\nrow. The one who faces R sits second to the left\nof J. Only two people sit between I and J. The\none who faces K sits third to the right of R. Q is\nnot an immediate neighbor of R. Only three\npeople sit between K and the one who faces Q.\nOnly two people sit between Q and S who\nneither faces K nor I. There are two persons\nbetween P and U. P sits to the right of U. P\ndoesn’t sit at the extreme end of the row. The\none who sits to the immediate left of S faces\nthe one who sits to the immediate left of H who\nis not an immediate neighbour of J. M sits\nsecond to the left of L.\nIf ‘L’ is related ‘T’ and ‘P’ is related to ‘M’ then in\nthe same way ‘H’ is related to whom?",
+    "questionHtml": "Read the following information carefully and<br/>answer the questions given below.<br/>Twelve people are sitting in two parallel rows<br/>which has seven seats in each row such that<br/>one of the seats in each row is vacant. There is<br/>equal distance between adjacent seats. In row<br/>1 i.e. H, I, J, K, L and M are seated and all of<br/>them are facing towards north. In row 2 i.e. P, Q,<br/>R, S, T and U seated and all of them are facing<br/>towards south. Therefore, each member in one<br/>row face another person in other row except<br/>one person as one person as one seat is<br/>vacant.<br/>Note 1: One seat in between two people<br/>doesn’t necessarily mean that there is a person<br/>sitting on the seat between the two people.<br/>Note 2: One person sitting between the two<br/>people doesn’t necessarily mean that there is<br/>only one seat in between the two persons.<br/>I sits on the third seat from the left end of the<br/>row. The one who faces R sits second to the left<br/>of J. Only two people sit between I and J. The<br/>one who faces K sits third to the right of R. Q is<br/>not an immediate neighbor of R. Only three<br/>people sit between K and the one who faces Q.<br/>Only two people sit between Q and S who<br/>neither faces K nor I. There are two persons<br/>between P and U. P sits to the right of U. P<br/>doesn’t sit at the extreme end of the row. The<br/>one who sits to the immediate left of S faces<br/>the one who sits to the immediate left of H who<br/>is not an immediate neighbour of J. M sits<br/>second to the left of L.<br/>If ‘L’ is related ‘T’ and ‘P’ is related to ‘M’ then in<br/>the same way ‘H’ is related to whom?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "B",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "No one",
+        "html": "No one"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Read the following information carefully and\nanswer the questions given below.\nTwelve people are sitting in two parallel rows\nwhich has seven seats in each row such that\none of the seats in each row is vacant. There is\nequal distance between adjacent seats. In row\n1 i.e. H, I, J, K, L and M are seated and all of\nthem are facing towards north. In row 2 i.e. P, Q,\nR, S, T and U seated and all of them are facing\ntowards south. Therefore, each member in one\nrow face another person in other row except\none person as one person as one seat is",
+    "questionHtml": "Read the following information carefully and<br/>answer the questions given below.<br/>Twelve people are sitting in two parallel rows<br/>which has seven seats in each row such that<br/>one of the seats in each row is vacant. There is<br/>equal distance between adjacent seats. In row<br/>1 i.e. H, I, J, K, L and M are seated and all of<br/>them are facing towards north. In row 2 i.e. P, Q,<br/>R, S, T and U seated and all of them are facing<br/>towards south. Therefore, each member in one<br/>row face another person in other row except<br/>one person as one person as one seat is",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nS sits fourth to the right of the one who faces J.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>S sits fourth to the right of the one who faces J.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\nTen persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong\nto\nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich. Five persons-F, G, H, I and J\nsit in row 2 facing towards the north and belong\nto the Indian cities viz., Delhi, Kota, Loni, Noida\nand Ujjain. All the given data is not necessarily\nin the same order. Distance between adjacent\nperson is same and person sitting in row 1 are\nfacing towards person sitting in row 2.\nB sits second to the left of A. The neighbour of J\ndoes not belong to Delhi. E belongs to Zurich\nand sits adjacent to the ones that belong to\nSydney and Venice. F belongs to Loni and faces",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/>Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong<br/>to<br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich. Five persons-F, G, H, I and J<br/>sit in row 2 facing towards the north and belong<br/>to the Indian cities viz., Delhi, Kota, Loni, Noida<br/>and Ujjain. All the given data is not necessarily<br/>in the same order. Distance between adjacent<br/>person is same and person sitting in row 1 are<br/>facing towards person sitting in row 2.<br/>B sits second to the left of A. The neighbour of J<br/>does not belong to Delhi. E belongs to Zurich<br/>and sits adjacent to the ones that belong to<br/>Sydney and Venice. F belongs to Loni and faces",
+    "options": [
+      {
+        "id": "A",
+        "text": "G, who is third to the right of F, sits at one of\nthe ends. The person belongs to Noida faces E.\nJ belongs to Ujjain and sits adjacent to I. The\nperson who belongs to Athens sits second to\nthe left of E. A as well as C neither belongs to\nAthens nor Venice.\nIf all the persons sitting in row 2 are arranged\nas per the English alphabetical order from left\nto right end, then I sits opposite to the person\nwho belongs to _____.",
+        "html": "G, who is third to the right of F, sits at one of\nthe ends. The person belongs to Noida faces E.\nJ belongs to Ujjain and sits adjacent to I. The\nperson who belongs to Athens sits second to\nthe left of E. A as well as C neither belongs to\nAthens nor Venice.\nIf all the persons sitting in row 2 are arranged\nas per the English alphabetical order from left\nto right end, then I sits opposite to the person\nwho belongs to _____."
+      },
+      {
+        "id": "A",
+        "text": "Sydney",
+        "html": "Sydney"
+      },
+      {
+        "id": "B",
+        "text": "Zurich",
+        "html": "Zurich"
+      },
+      {
+        "id": "C",
+        "text": "Venice",
+        "html": "Venice"
+      },
+      {
+        "id": "D",
+        "text": "Bali",
+        "html": "Bali"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is not necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is not necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\nTen persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto\nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich. Five persons-F, G, H, I and J\nsit in row 2 facing towards the north and belong\nto the Indian cities viz., Delhi, Kota, Loni, Noida\nand Ujjain. All the given data is not necessarily\nin the same order. Distance between adjacent\nperson is same and person sitting in row 1 are\nfacing towards person sitting in row 2.\nB sits second to the left of A. The neighbour of J\ndoes not belong to Delhi. E belongs to Zurich\nand sits adjacent to the ones that belong to\nSydney and Venice. F belongs to Loni and faces",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/>Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to<br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich. Five persons-F, G, H, I and J<br/>sit in row 2 facing towards the north and belong<br/>to the Indian cities viz., Delhi, Kota, Loni, Noida<br/>and Ujjain. All the given data is not necessarily<br/>in the same order. Distance between adjacent<br/>person is same and person sitting in row 1 are<br/>facing towards person sitting in row 2.<br/>B sits second to the left of A. The neighbour of J<br/>does not belong to Delhi. E belongs to Zurich<br/>and sits adjacent to the ones that belong to<br/>Sydney and Venice. F belongs to Loni and faces",
+    "options": [
+      {
+        "id": "A",
+        "text": "G, who is third to the right of F, sits at one of\nthe ends. The person belongs to Noida faces E.\nJ belongs to Ujjain and sits adjacent to I. The\nperson who belongs to Athens sits second to\nthe left of E. A as well as C neither belongs to\nAthens nor Venice.\nPerson H sits second to the left of ____.",
+        "html": "G, who is third to the right of F, sits at one of\nthe ends. The person belongs to Noida faces E.\nJ belongs to Ujjain and sits adjacent to I. The\nperson who belongs to Athens sits second to\nthe left of E. A as well as C neither belongs to\nAthens nor Venice.\nPerson H sits second to the left of ____."
+      },
+      {
+        "id": "A",
+        "text": "The person who sits adjacent to G",
+        "html": "The person who sits adjacent to G"
+      },
+      {
+        "id": "B",
+        "text": "J",
+        "html": "J"
+      },
+      {
+        "id": "C",
+        "text": "The person who belongs to Noida",
+        "html": "The person who belongs to Noida"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ten persons sit in two parallel rows for the\nconference.\nFive persons- A, B C, D and E sit in row 1 facing\ntowards \nthe \nsouth \nand \nbelong \nto \nthe\ninternational cities viz., Athens, Bali, Sydney,\nVenice and Zurich.\nFive persons-F, G, H, I and J sit in row 2 facing\ntowards the north and belong to the Indian\ncities viz., Delhi, Kota, Loni, Noida and Ujjain.\nAll the given data is n ot necessarily in the same\norder.\nF belongs to Loni and faces A.\nG, who is third to the right of F, sits at one of the\nends.\nB sits second to the left of A.\nE belongs to Zurich and sits adjacent to the\nones that belong to Sydney and Venice. The\nperson belongs to Noida faces E.\nThe person who belongs to Athens sits second\nto the left of E.\nA as well as C neither belongs to Athens nor\nVenice. Thus, case 2 is invalid.\nThus, C belongs to Bali.\n \nJ belongs to Ujjain and sits adjacent to I.\nThe neighbour of J does not belong to Delhi.\nThus, the neighbour of J belongs to Kota and\nthe remaining one H belongs to Delhi.\nTherefore, the final arrangement is:\nH sits second to the left of I and I belongs to\nNoida.",
+    "explanationHtml": "Ten persons sit in two parallel rows for the<br/>conference.<br/>Five persons- A, B C, D and E sit in row 1 facing<br/>towards <br/>the <br/>south <br/>and <br/>belong <br/>to <br/>the<br/>international cities viz., Athens, Bali, Sydney,<br/>Venice and Zurich.<br/>Five persons-F, G, H, I and J sit in row 2 facing<br/>towards the north and belong to the Indian<br/>cities viz., Delhi, Kota, Loni, Noida and Ujjain.<br/>All the given data is n ot necessarily in the same<br/>order.<br/>F belongs to Loni and faces A.<br/>G, who is third to the right of F, sits at one of the<br/>ends.<br/>B sits second to the left of A.<br/>E belongs to Zurich and sits adjacent to the<br/>ones that belong to Sydney and Venice. The<br/>person belongs to Noida faces E.<br/>The person who belongs to Athens sits second<br/>to the left of E.<br/>A as well as C neither belongs to Athens nor<br/>Venice. Thus, case 2 is invalid.<br/>Thus, C belongs to Bali.<br/> <br/>J belongs to Ujjain and sits adjacent to I.<br/>The neighbour of J does not belong to Delhi.<br/>Thus, the neighbour of J belongs to Kota and<br/>the remaining one H belongs to Delhi.<br/>Therefore, the final arrangement is:<br/>H sits second to the left of I and I belongs to<br/>Noida.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "(E)",
+    "questionHtml": "(E)",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.\n4. J sits to the immediate right of D and faces\ntowards the one who likes Black. F faces\ntowards the one who likes Indigo but neither\nfaces north nor likes Red. Hence, cases 1, 2 and\n2a get eliminated.\nFinal arrangement:\nAnswer: Two",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.<br/>4. J sits to the immediate right of D and faces<br/>towards the one who likes Black. F faces<br/>towards the one who likes Indigo but neither<br/>faces north nor likes Red. Hence, cases 1, 2 and<br/>2a get eliminated.<br/>Final arrangement:<br/>Answer: Two",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "(B)",
+    "questionHtml": "(B)",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "(D)",
+    "questionHtml": "(D)",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "(A)",
+    "questionHtml": "(A)",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "1. E sits at one of the extreme ends and third to\nthe left of the one who likes Grey. Only one\nperson sits between the one who likes Grey and\nI, who faces the one who likes Blue.\n2. G sits adjacent to the one who likes Blue and\nopposite to the one who likes Gold. The one\nwho likes Rose is the immediate neighbour of\nthe one who likes Gold and third to the left of A.\n3. The one who likes Green sits adjacent to the\none who likes Cyan and the one who faces A. H\nsits facing towards the one who likes Cyan and\nimmediate left of C who faces B.",
+    "explanationHtml": "1. E sits at one of the extreme ends and third to<br/>the left of the one who likes Grey. Only one<br/>person sits between the one who likes Grey and<br/>I, who faces the one who likes Blue.<br/>2. G sits adjacent to the one who likes Blue and<br/>opposite to the one who likes Gold. The one<br/>who likes Rose is the immediate neighbour of<br/>the one who likes Gold and third to the left of A.<br/>3. The one who likes Green sits adjacent to the<br/>one who likes Cyan and the one who faces A. H<br/>sits facing towards the one who likes Cyan and<br/>immediate left of C who faces B.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "(C)",
+    "questionHtml": "(C)",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "1) I sits on the third seat from the left end of the\nrow.\n2) The one who faces R sits second to the left of\nJ.\n3) Only two people sit between I and J.\nHere, we have two possible cases i.e. Case 1\nand Case 2 and in Case 2 vacant seat lie\nbetween I and J.\n4) The one who faces K sits third to the right of\nR.\n5) Q is not an immediate neighbor of R.\n6) Only three people sit between K and the one\nwho faces Q.\nHere, vacant seat lie between K and J in both\nthe cases.\n7) Only two people sit between Q and S who\nneither faces K nor I.\nHere, Vacant seat lie between Q and S in case\n1.\n8) There are two persons between P and U.\n9) P sits to the right of U.\n10) P doesn’t sit at the extreme end of the row.\n11) The one who sits to the immediate left of S\nfaces the one who sits to the immediate left of\nH who is not an immediate neighbour of J.\nHere, case 2 gets eliminated.\n12) M sits second to the left of L.\nS sits fourth to the right of the one who faces J.",
+    "explanationHtml": "1) I sits on the third seat from the left end of the<br/>row.<br/>2) The one who faces R sits second to the left of<br/>J.<br/>3) Only two people sit between I and J.<br/>Here, we have two possible cases i.e. Case 1<br/>and Case 2 and in Case 2 vacant seat lie<br/>between I and J.<br/>4) The one who faces K sits third to the right of<br/>R.<br/>5) Q is not an immediate neighbor of R.<br/>6) Only three people sit between K and the one<br/>who faces Q.<br/>Here, vacant seat lie between K and J in both<br/>the cases.<br/>7) Only two people sit between Q and S who<br/>neither faces K nor I.<br/>Here, Vacant seat lie between Q and S in case<br/>1.<br/>8) There are two persons between P and U.<br/>9) P sits to the right of U.<br/>10) P doesn’t sit at the extreme end of the row.<br/>11) The one who sits to the immediate left of S<br/>faces the one who sits to the immediate left of<br/>H who is not an immediate neighbour of J.<br/>Here, case 2 gets eliminated.<br/>12) M sits second to the left of L.<br/>S sits fourth to the right of the one who faces J.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "parallel",
+      "row",
+      "arrangement"
+    ],
+    "sourcePages": [
+      22
+    ]
+  }
+]

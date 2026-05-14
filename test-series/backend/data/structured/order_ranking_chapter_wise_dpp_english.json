@@ -1,0 +1,855 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix people(P, Q, R, S, T and U) are going to the\nmarket one after another,but not in the same\norder. Two people go to the market between S\nand P. P goes before Q. Two people go between\nR and U. U goes after P. R goes immediately\nbefore T. S goes before P.\n \nHow many people are going to the market\nbetween R and Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six people(P, Q, R, S, T and U) are going to the<br/>market one after another,but not in the same<br/>order. Two people go to the market between S<br/>and P. P goes before Q. Two people go between<br/>R and U. U goes after P. R goes immediately<br/>before T. S goes before P.<br/> <br/>How many people are going to the market<br/>between R and Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1. S goes before P.\n2. Two people go to the market between S and P.\n3. P goes before Q.\n4. U goes after P.\nCASE 1\nCASE 2\n5. Two people go between R and U.\n6. R goes immediately before T. Therefore, case 2\nis no longer valid.\nCASE 1",
+    "explanationHtml": "1. S goes before P.<br/>2. Two people go to the market between S and P.<br/>3. P goes before Q.<br/>4. U goes after P.<br/>CASE 1<br/>CASE 2<br/>5. Two people go between R and U.<br/>6. R goes immediately before T. Therefore, case 2<br/>is no longer valid.<br/>CASE 1",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix people(P, Q, R, S, T and U) are going to the\nmarket one after another,but not in the same\norder. Two people go to the market between S\nand P. P goes before Q. Two people go between\nR and U. U goes after P. R goes immediately\nbefore T. S goes before P.\n \nWho goes immediately before U?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six people(P, Q, R, S, T and U) are going to the<br/>market one after another,but not in the same<br/>order. Two people go to the market between S<br/>and P. P goes before Q. Two people go between<br/>R and U. U goes after P. R goes immediately<br/>before T. S goes before P.<br/> <br/>Who goes immediately before U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "1. S goes before P.\n2. Two people go to the market between S and P.\n3. P goes before Q.\n4. U goes after P.\nCASE 1\nCASE 2",
+    "explanationHtml": "1. S goes before P.<br/>2. Two people go to the market between S and P.<br/>3. P goes before Q.<br/>4. U goes after P.<br/>CASE 1<br/>CASE 2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSix people(P, Q, R, S, T and U) are going to the\nmarket one after another,but not in the same\norder. Two people go to the market between S\nand P. P goes before Q. Two people go between\nR and U. U goes after P. R goes immediately\nbefore T. S goes before P.\n \nWho is going immediately after S?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Six people(P, Q, R, S, T and U) are going to the<br/>market one after another,but not in the same<br/>order. Two people go to the market between S<br/>and P. P goes before Q. Two people go between<br/>R and U. U goes after P. R goes immediately<br/>before T. S goes before P.<br/> <br/>Who is going immediately after S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "B",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "C",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. S goes before P.\n2. Two people go to the market between S and P.\n3. P goes before Q.\n4. U goes after P.\nCASE 1\nCASE 2\n5. Two people go between R and U.\n6. R goes immediately before T. Therefore, case 2\nis no longer valid.\nCASE 1",
+    "explanationHtml": "1. S goes before P.<br/>2. Two people go to the market between S and P.<br/>3. P goes before Q.<br/>4. U goes after P.<br/>CASE 1<br/>CASE 2<br/>5. Two people go between R and U.<br/>6. R goes immediately before T. Therefore, case 2<br/>is no longer valid.<br/>CASE 1",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below.\n \nSix flowers R, B, M, X, K and L are planted in a\nrow of a garden according to their height in\ndescending order from left to right. Only two\nflowers are shorter than flower X. There are two\nflowers planted between flower M and flower X.\nFlower R is shorter than flower K but taller than\nflower B which is not the shortest.\n \nWhich among the following is the 2nd tallest\nflower?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below.<br/> <br/>Six flowers R, B, M, X, K and L are planted in a<br/>row of a garden according to their height in<br/>descending order from left to right. Only two<br/>flowers are shorter than flower X. There are two<br/>flowers planted between flower M and flower X.<br/>Flower R is shorter than flower K but taller than<br/>flower B which is not the shortest.<br/> <br/>Which among the following is the 2nd tallest<br/>flower?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flower M",
+        "html": "Flower M"
+      },
+      {
+        "id": "B",
+        "text": "Flower K",
+        "html": "Flower K"
+      },
+      {
+        "id": "C",
+        "text": "Flower L",
+        "html": "Flower L"
+      },
+      {
+        "id": "D",
+        "text": "Flower B",
+        "html": "Flower B"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only two flowers are shorter than flower X.\nThere are two flowers planted between flower M\nand flower X.\nM > __ > __ > X > __ > __\nFlower R is shorter than flower K but taller than\nflower B which is not the shortest.\nM > K > R > X > B > __\nWe know, L is one of the flowers so the final\narrangement is-\nM > K > R > X > B > L\nFlower K is the 2nd tallest flower.",
+    "explanationHtml": "Only two flowers are shorter than flower X.<br/>There are two flowers planted between flower M<br/>and flower X.<br/>M > __ > __ > X > __ > __<br/>Flower R is shorter than flower K but taller than<br/>flower B which is not the shortest.<br/>M > K > R > X > B > __<br/>We know, L is one of the flowers so the final<br/>arrangement is-<br/>M > K > R > X > B > L<br/>Flower K is the 2nd tallest flower.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions given below.\n \nSix flowers R, B, M, X, K and L are planted in a\nrow of a garden according to their height in\ndescending order from left to right. Only two\nflowers are shorter than flower X. There are two\nflowers planted between flower M and flower X.\nFlower R is shorter than flower K but taller than\nflower B which is not the shortest.\n \nWhich among the following is the tallest?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given below.<br/> <br/>Six flowers R, B, M, X, K and L are planted in a<br/>row of a garden according to their height in<br/>descending order from left to right. Only two<br/>flowers are shorter than flower X. There are two<br/>flowers planted between flower M and flower X.<br/>Flower R is shorter than flower K but taller than<br/>flower B which is not the shortest.<br/> <br/>Which among the following is the tallest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flower M",
+        "html": "Flower M"
+      },
+      {
+        "id": "B",
+        "text": "Flower K\n \nOrder Ranking",
+        "html": "Flower K\n \nOrder Ranking"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only two flowers are shorter than flower X.\nThere are two flowers planted between flower M\nand flower X.",
+    "explanationHtml": "Only two flowers are shorter than flower X.<br/>There are two flowers planted between flower M<br/>and flower X.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions:Consider the following information\nand answer the questions accordingly.\n \n8 persons A, B, C, D, E, F, G and H have different\nheights. A is taller than only 2 other persons and\none of them is C. Only 3 persons are taller than C\nbut shorter than F. Only 1 person has height\nbetween F and E. B is taller than D who is taller\nthan G. G is taller than H. H is not the shortest.\n \nWho among the following is shorter than D but\ntaller than G?",
+    "questionHtml": "Directions:Consider the following information<br/>and answer the questions accordingly.<br/> <br/>8 persons A, B, C, D, E, F, G and H have different<br/>heights. A is taller than only 2 other persons and<br/>one of them is C. Only 3 persons are taller than C<br/>but shorter than F. Only 1 person has height<br/>between F and E. B is taller than D who is taller<br/>than G. G is taller than H. H is not the shortest.<br/> <br/>Who among the following is shorter than D but<br/>taller than G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "B",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "Both F and E",
+        "html": "Both F and E"
+      },
+      {
+        "id": "E",
+        "text": "Both E and H",
+        "html": "Both E and H"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "A is taller than only 2 other persons and one of\nthem is C.\nOnly 3 persons are taller than C but shorter than\nF.\nOnly 1 person has height between F and E.\nCase 1: -\nCase 2: -\nB is taller than D who is taller than G.\nG is taller than H.\nH is not the shortest.\nCase 1: -\nThis case is invalid.\nCase 2: -\nThis is the final solution.\nF is shorter than D but taller than G.",
+    "explanationHtml": "A is taller than only 2 other persons and one of<br/>them is C.<br/>Only 3 persons are taller than C but shorter than<br/>F.<br/>Only 1 person has height between F and E.<br/>Case 1: -<br/>Case 2: -<br/>B is taller than D who is taller than G.<br/>G is taller than H.<br/>H is not the shortest.<br/>Case 1: -<br/>This case is invalid.<br/>Case 2: -<br/>This is the final solution.<br/>F is shorter than D but taller than G.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions:Consider the following information\nand answer the questions accordingly.\n \n8 persons A, B, C, D, E, F, G and H have different\nheights. A is taller than only 2 other persons and\none of them is C. Only 3 persons are taller than C\nbut shorter than F. Only 1 person has height\nbetween F and E. B is taller than D who is taller\nthan G. G is taller than H. H is not the shortest.\n \nWho is the 4 tallest?",
+    "questionHtml": "Directions:Consider the following information<br/>and answer the questions accordingly.<br/> <br/>8 persons A, B, C, D, E, F, G and H have different<br/>heights. A is taller than only 2 other persons and<br/>one of them is C. Only 3 persons are taller than C<br/>but shorter than F. Only 1 person has height<br/>between F and E. B is taller than D who is taller<br/>than G. G is taller than H. H is not the shortest.<br/> <br/>Who is the 4 tallest?",
+    "options": [
+      {
+        "id": "A",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "G",
+        "html": "G"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "C",
+        "html": "C"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "A is taller than only 2 other persons and one of\nthem is C.\nOnly 3 persons are taller than C but shorter than\nF.\nOnly 1 person has height between F and E.\nCase 1: -\nCase 2: -\nB is taller than D who is taller than G.\nG is taller than H.\nH is not the shortest.\nCase 1: -\nThis case is invalid.\nCase 2: -\nThis is the final solution.\nF is the 4 tallest person.",
+    "explanationHtml": "A is taller than only 2 other persons and one of<br/>them is C.<br/>Only 3 persons are taller than C but shorter than<br/>F.<br/>Only 1 person has height between F and E.<br/>Case 1: -<br/>Case 2: -<br/>B is taller than D who is taller than G.<br/>G is taller than H.<br/>H is not the shortest.<br/>Case 1: -<br/>This case is invalid.<br/>Case 2: -<br/>This is the final solution.<br/>F is the 4 tallest person.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSeven friends have different height. Raju is taller\nthan atleast four people. Manu is taller than Raju\nbut shorter than Kamal. Tanuj is 170cm tall.\nDinesh is taller than gagan but shorter than\ntanuj. Gagan is 165cm tall and is taller than\nMohan.\n \nWhat could be the possible sum of heights of\nTanuj and Kamal?",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Seven friends have different height. Raju is taller<br/>than atleast four people. Manu is taller than Raju<br/>but shorter than Kamal. Tanuj is 170cm tall.<br/>Dinesh is taller than gagan but shorter than<br/>tanuj. Gagan is 165cm tall and is taller than<br/>Mohan.<br/> <br/>What could be the possible sum of heights of<br/>Tanuj and Kamal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "270cm",
+        "html": "270cm"
+      },
+      {
+        "id": "B",
+        "text": "360cm",
+        "html": "360cm"
+      },
+      {
+        "id": "C",
+        "text": "210cm",
+        "html": "210cm"
+      },
+      {
+        "id": "D",
+        "text": "320cm",
+        "html": "320cm"
+      },
+      {
+        "id": "E",
+        "text": "325 cm",
+        "html": "325 cm"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Raju is taller than atleast four people. Manu is\ntaller than Raju but shorter than Kamal.\nTanuj is 170cm tall. Dinesh is taller than gagan\nbut shorter than tanuj. Gagan is 165m tall and is\ntaller than Mohan.\nThe possible sum of heights of Tanuj and Kamal\nis:\n170 + 190 = 360cm.",
+    "explanationHtml": "Raju is taller than atleast four people. Manu is<br/>taller than Raju but shorter than Kamal.<br/>Tanuj is 170cm tall. Dinesh is taller than gagan<br/>but shorter than tanuj. Gagan is 165m tall and is<br/>taller than Mohan.<br/>The possible sum of heights of Tanuj and Kamal<br/>is:<br/>170 + 190 = 360cm.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSeven friends have different height. Raju is taller\nthan atleast four people. Manu is taller than Raju\nbut shorter than Kamal. Tanuj is 170cm tall.\nDinesh is taller than gagan but shorter than\ntanuj. Gagan is 165cm tall and is taller than\nMohan.\n \nWho among the following is/are taller than\nGagan?\nI. Raju\nII. Dinesh\nIII. Mohan",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Seven friends have different height. Raju is taller<br/>than atleast four people. Manu is taller than Raju<br/>but shorter than Kamal. Tanuj is 170cm tall.<br/>Dinesh is taller than gagan but shorter than<br/>tanuj. Gagan is 165cm tall and is taller than<br/>Mohan.<br/> <br/>Who among the following is/are taller than<br/>Gagan?<br/>I. Raju<br/>II. Dinesh<br/>III. Mohan",
+    "options": [
+      {
+        "id": "A",
+        "text": "I and II",
+        "html": "I and II"
+      },
+      {
+        "id": "B",
+        "text": "II and III",
+        "html": "II and III"
+      },
+      {
+        "id": "C",
+        "text": "All I,II and III",
+        "html": "All I,II and III"
+      },
+      {
+        "id": "D",
+        "text": "I and III",
+        "html": "I and III"
+      },
+      {
+        "id": "E",
+        "text": "Only III",
+        "html": "Only III"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Raju is taller than atleast four people. Manu is\ntaller than Raju but shorter than Kamal.\nTanuj is 170cm tall. Dinesh is taller than gagan\nbut shorter than tanuj. Gagan is 165m tall and is\ntaller than Mohan.\nRaju and Dinesh are taller than Gagan.\n \nth",
+    "explanationHtml": "Raju is taller than atleast four people. Manu is<br/>taller than Raju but shorter than Kamal.<br/>Tanuj is 170cm tall. Dinesh is taller than gagan<br/>but shorter than tanuj. Gagan is 165m tall and is<br/>taller than Mohan.<br/>Raju and Dinesh are taller than Gagan.<br/> <br/>th",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSeven people - L, M, R, T, V, W and Y have\ndifferent number of coins with them. The number\nof people having more coins than M is same as\nthe number of people having less coins than him.\nR has more coins than L but less than Y. T has\nmore coins than V but not the highest. Y has less\ncoins than V.\n \nWho among the following has the highest\nnumber of coins?",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Seven people - L, M, R, T, V, W and Y have<br/>different number of coins with them. The number<br/>of people having more coins than M is same as<br/>the number of people having less coins than him.<br/>R has more coins than L but less than Y. T has<br/>more coins than V but not the highest. Y has less<br/>coins than V.<br/> <br/>Who among the following has the highest<br/>number of coins?",
+    "options": [
+      {
+        "id": "A",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "C",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "D",
+        "text": "M",
+        "html": "M"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "The number of people having more coins than M\nis same as the number of people having less\ncoins than him.\n_____ > _____ > _____ > M > _____ > _____ >\n______\nR has more coins than L but less than Y.\nY > R > L\nT has more coins than V but not the highest. Y\nhas less coins than V.\nW > T > V > M > Y > R > L\nW has the highest number of coins.",
+    "explanationHtml": "The number of people having more coins than M<br/>is same as the number of people having less<br/>coins than him.<br/>_____ > _____ > _____ > M > _____ > _____ ><br/>______<br/>R has more coins than L but less than Y.<br/>Y > R > L<br/>T has more coins than V but not the highest. Y<br/>has less coins than V.<br/>W > T > V > M > Y > R > L<br/>W has the highest number of coins.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "th",
+    "questionHtml": "th",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "The number of people having more coins than M\nis same as the number of people having less\ncoins than him.\n_____ > _____ > _____ > M > _____ > _____ >\n______\nR has more coins than L but less than Y.\nY > R > L\nT has more coins than V but not the highest. Y\nhas less coins than V.\nW > T > V > M > Y > R > L\nAfter arranging in alphabetical order, we get:\nL > M > R > T > V > W > Y\nSo, none of the persons has the same order.",
+    "explanationHtml": "The number of people having more coins than M<br/>is same as the number of people having less<br/>coins than him.<br/>_____ > _____ > _____ > M > _____ > _____ ><br/>______<br/>R has more coins than L but less than Y.<br/>Y > R > L<br/>T has more coins than V but not the highest. Y<br/>has less coins than V.<br/>W > T > V > M > Y > R > L<br/>After arranging in alphabetical order, we get:<br/>L > M > R > T > V > W > Y<br/>So, none of the persons has the same order.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSix people have different ages. Aman is elder to\nEsha but younger to Harish. At least two people\nare elder to Harish. Uday is elder to Priya. Jatin is\nyounger to Aman but elder to at least one\nperson.\n \nAs many people are elder to Jatin as are younger\nto _____",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Six people have different ages. Aman is elder to<br/>Esha but younger to Harish. At least two people<br/>are elder to Harish. Uday is elder to Priya. Jatin is<br/>younger to Aman but elder to at least one<br/>person.<br/> <br/>As many people are elder to Jatin as are younger<br/>to _____",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uday",
+        "html": "Uday"
+      },
+      {
+        "id": "B",
+        "text": "Priya",
+        "html": "Priya"
+      },
+      {
+        "id": "C",
+        "text": "Aman",
+        "html": "Aman"
+      },
+      {
+        "id": "D",
+        "text": "Harish",
+        "html": "Harish"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aman is elder to Esha but younger to Harish. At\nleast two people are elder to Harish.\nCase 1:\nCase 2:\nUday is elder to Priya. Jatin is younger to Aman\nbut elder to at least one person.\nSo case 2 is invalid.\nCase 1:\nAs many people are elder to Jatin as are younger\nto Priya.",
+    "explanationHtml": "Aman is elder to Esha but younger to Harish. At<br/>least two people are elder to Harish.<br/>Case 1:<br/>Case 2:<br/>Uday is elder to Priya. Jatin is younger to Aman<br/>but elder to at least one person.<br/>So case 2 is invalid.<br/>Case 1:<br/>As many people are elder to Jatin as are younger<br/>to Priya.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSix people have different ages. Aman is elder to\nEsha but younger to Harish. At least two people\nare elder to Harish. Uday is elder to Priya. Jatin is\nyounger to Aman but elder to at least one\nperson.\n \nHow many people are younger to Priya?",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Six people have different ages. Aman is elder to<br/>Esha but younger to Harish. At least two people<br/>are elder to Harish. Uday is elder to Priya. Jatin is<br/>younger to Aman but elder to at least one<br/>person.<br/> <br/>How many people are younger to Priya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "1",
+        "html": "1"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aman is elder to Esha but younger to Harish. At\nleast two people are elder to Harish.\nCase 1:\nCase 2:\nUday is elder to Priya. Jatin is younger to Aman\nbut elder to at least one person.\nSo case 2 is invalid.\nCase 1:\n4 people are younger to Priya.",
+    "explanationHtml": "Aman is elder to Esha but younger to Harish. At<br/>least two people are elder to Harish.<br/>Case 1:<br/>Case 2:<br/>Uday is elder to Priya. Jatin is younger to Aman<br/>but elder to at least one person.<br/>So case 2 is invalid.<br/>Case 1:<br/>4 people are younger to Priya.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSix people in a class scored different marks.\nManoj scored more marks than Rahul. Anjali\nscored 25 marks which is the third lowest marks.\nKartik scored 57 marks which is more than the\nmarks scored by Manoj. Pinku scored less than\nRahul but more than Neetu.\n \nHow many people scored less than Manoj?",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Six people in a class scored different marks.<br/>Manoj scored more marks than Rahul. Anjali<br/>scored 25 marks which is the third lowest marks.<br/>Kartik scored 57 marks which is more than the<br/>marks scored by Manoj. Pinku scored less than<br/>Rahul but more than Neetu.<br/> <br/>How many people scored less than Manoj?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "1",
+        "html": "1"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anjali scored 25 marks which is the third lowest\nmarks.\nManoj scored more marks than Rahul. Kartik\nscored 57 marks which is more than the marks\nscored by Manoj. Pinku scored less than Rahul\nbut more than Neetu.\n4 people scored less than Manoj.",
+    "explanationHtml": "Anjali scored 25 marks which is the third lowest<br/>marks.<br/>Manoj scored more marks than Rahul. Kartik<br/>scored 57 marks which is more than the marks<br/>scored by Manoj. Pinku scored less than Rahul<br/>but more than Neetu.<br/>4 people scored less than Manoj.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Consider the following information and answer\nthe questions accordingly.\n \nSix people in a class scored different marks.\nManoj scored more marks than Rahul. Anjali\nscored 25 marks which is the third lowest marks.\nKartik scored 57 marks which is more than the\nmarks scored by Manoj. Pinku scored less than\nRahul but more than Neetu.\n \nWhich of the following could be the possible\nscore of Rahul?",
+    "questionHtml": "Consider the following information and answer<br/>the questions accordingly.<br/> <br/>Six people in a class scored different marks.<br/>Manoj scored more marks than Rahul. Anjali<br/>scored 25 marks which is the third lowest marks.<br/>Kartik scored 57 marks which is more than the<br/>marks scored by Manoj. Pinku scored less than<br/>Rahul but more than Neetu.<br/> <br/>Which of the following could be the possible<br/>score of Rahul?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "E",
+        "text": "15",
+        "html": "15"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Anjali scored 25 marks which is the third lowest\nmarks.\nManoj scored more marks than Rahul. Kartik\nscored 57 marks which is more than the marks\nscored by Manoj. Pinku scored less than Rahul\nbut more than Neetu.\nThe possible score of Rahul could be 55.",
+    "explanationHtml": "Anjali scored 25 marks which is the third lowest<br/>marks.<br/>Manoj scored more marks than Rahul. Kartik<br/>scored 57 marks which is more than the marks<br/>scored by Manoj. Pinku scored less than Rahul<br/>but more than Neetu.<br/>The possible score of Rahul could be 55.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nSix persons- P, Q, R, S, T and V are having\ndifferent Electricity Bills and are arranged in\ndescending order. Q’s electricity bill is only more\nthan T. Third highest bill is 3500. R’s bill is more\nthan V who has more bills than S. Only two\npersons are having bills between R and P. V’s\nElectricity bill has more than P's.\nIf the sum of the Bills of S and V is 6500 and the\nsum of the bill of S and R is 9000 then what is",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Six persons- P, Q, R, S, T and V are having<br/>different Electricity Bills and are arranged in<br/>descending order. Q’s electricity bill is only more<br/>than T. Third highest bill is 3500. R’s bill is more<br/>than V who has more bills than S. Only two<br/>persons are having bills between R and P. V’s<br/>Electricity bill has more than P's.<br/>If the sum of the Bills of S and V is 6500 and the<br/>sum of the bill of S and R is 9000 then what is",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "S + V= 6500\nS= 6500 - 3500\n= 3000\nS + R= 9000\nR= 9000 - 3000",
+    "explanationHtml": "S + V= 6500<br/>S= 6500 - 3500<br/>= 3000<br/>S + R= 9000<br/>R= 9000 - 3000",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nSix persons- P, Q, R, S, T and V are having\ndifferent Electricity Bills and are arranged in\ndescending order. Q’s electricity bill is only more\nthan T. Third highest bill is 3500. R’s bill is more\nthan V who has more bills than S. Only two\npersons are having bills between R and P. V’s\nElectricity bill has more than P's.\nWho among the following has an Electricity bill\nless than S?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Six persons- P, Q, R, S, T and V are having<br/>different Electricity Bills and are arranged in<br/>descending order. Q’s electricity bill is only more<br/>than T. Third highest bill is 3500. R’s bill is more<br/>than V who has more bills than S. Only two<br/>persons are having bills between R and P. V’s<br/>Electricity bill has more than P's.<br/>Who among the following has an Electricity bill<br/>less than S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "E",
+        "text": "Both Q & T",
+        "html": "Both Q & T"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Q’s electricity bill is only more than T.\nR’s bill is more than V who has more than S. Only\ntwo persons are having bills in between R and P.\nV’s Electricity bill has more than P.\nThird highest bill is 3500.",
+    "explanationHtml": "Q’s electricity bill is only more than T.<br/>R’s bill is more than V who has more than S. Only<br/>two persons are having bills in between R and P.<br/>V’s Electricity bill has more than P.<br/>Third highest bill is 3500.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Directions:Consider the following information\nand answer the questions accordingly.\n \nSeven students M, N, O, P, Q, R and S are\narranged in descending order of their weights for\nthe medical examination. Only two students are\nlighter than N. O and Q are heavier than N but\nlighter than M. R is lighter than S, but heavier\nthan P. Three students are heavier than R, but\nlighter than O. S, whose weight is 80kg is lighter\nthan Q. The weight of second lightest person is\n55kg.\n \nWhat is the possible weight of N?",
+    "questionHtml": "Directions:Consider the following information<br/>and answer the questions accordingly.<br/> <br/>Seven students M, N, O, P, Q, R and S are<br/>arranged in descending order of their weights for<br/>the medical examination. Only two students are<br/>lighter than N. O and Q are heavier than N but<br/>lighter than M. R is lighter than S, but heavier<br/>than P. Three students are heavier than R, but<br/>lighter than O. S, whose weight is 80kg is lighter<br/>than Q. The weight of second lightest person is<br/>55kg.<br/> <br/>What is the possible weight of N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50kg",
+        "html": "50kg"
+      },
+      {
+        "id": "B",
+        "text": "85kg",
+        "html": "85kg"
+      },
+      {
+        "id": "C",
+        "text": "90kg",
+        "html": "90kg"
+      },
+      {
+        "id": "D",
+        "text": "65kg",
+        "html": "65kg"
+      },
+      {
+        "id": "E",
+        "text": "82kg",
+        "html": "82kg"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Only two students are lighter than N. Here 7 for\nheaviest and 1 for lightest person.\nO and Q are heavier than N but lighter than M.\nThree students are heavier than R, but lighter\nthan O.\nThus, case 1 cancelled.\nR is lighter than S, but heavier than P.\nThus, case 2 cancelled.\nO and Q are heavier than N but lighter than M.",
+    "explanationHtml": "Only two students are lighter than N. Here 7 for<br/>heaviest and 1 for lightest person.<br/>O and Q are heavier than N but lighter than M.<br/>Three students are heavier than R, but lighter<br/>than O.<br/>Thus, case 1 cancelled.<br/>R is lighter than S, but heavier than P.<br/>Thus, case 2 cancelled.<br/>O and Q are heavier than N but lighter than M.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Directions:Consider the following information\nand answer the questions accordingly.\n \nSeven students M, N, O, P, Q, R and S are\narranged in descending order of their weights for\nthe medical examination. Only two students are\nlighter than N. O and Q are heavier than N but\nlighter than M. R is lighter than S, but heavier\nthan P. Three students are heavier than R, but\nlighter than O. S, whose weight is 80kg is lighter\nthan Q. The weight of second lightest person is\n55kg.\n \nWho among the following is the heaviest person\namong the students?",
+    "questionHtml": "Directions:Consider the following information<br/>and answer the questions accordingly.<br/> <br/>Seven students M, N, O, P, Q, R and S are<br/>arranged in descending order of their weights for<br/>the medical examination. Only two students are<br/>lighter than N. O and Q are heavier than N but<br/>lighter than M. R is lighter than S, but heavier<br/>than P. Three students are heavier than R, but<br/>lighter than O. S, whose weight is 80kg is lighter<br/>than Q. The weight of second lightest person is<br/>55kg.<br/> <br/>Who among the following is the heaviest person<br/>among the students?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "N",
+        "html": "N"
+      },
+      {
+        "id": "E",
+        "text": "M",
+        "html": "M"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Only two students are lighter than N. Here 7 for\nheaviest and 1 for lightest person.\nO and Q are heavier than N but lighter than M.\nThree students are heavier than R, but lighter\nthan O.\nThus, case 1 cancelled.\nR is lighter than S, but heavier than P.\nThus, case 2 cancelled.",
+    "explanationHtml": "Only two students are lighter than N. Here 7 for<br/>heaviest and 1 for lightest person.<br/>O and Q are heavier than N but lighter than M.<br/>Three students are heavier than R, but lighter<br/>than O.<br/>Thus, case 1 cancelled.<br/>R is lighter than S, but heavier than P.<br/>Thus, case 2 cancelled.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Directions:Consider the following information\nand answer the questions accordingly.\n \nSeven students M, N, O, P, Q, R and S are\narranged in descending order of their weights for\nthe medical examination. Only two students are\nlighter than N. O and Q are heavier than N but\nlighter than M. R is lighter than S, but heavier\nthan P. Three students are heavier than R, but\nlighter than O. S, whose weight is 80kg is lighter\nthan Q. The weight of second lightest person is\n55kg.\n \nIf all the students are arranged according to the\nalphabetical order from top to bottom, then who\namong the following weighs 55kg?",
+    "questionHtml": "Directions:Consider the following information<br/>and answer the questions accordingly.<br/> <br/>Seven students M, N, O, P, Q, R and S are<br/>arranged in descending order of their weights for<br/>the medical examination. Only two students are<br/>lighter than N. O and Q are heavier than N but<br/>lighter than M. R is lighter than S, but heavier<br/>than P. Three students are heavier than R, but<br/>lighter than O. S, whose weight is 80kg is lighter<br/>than Q. The weight of second lightest person is<br/>55kg.<br/> <br/>If all the students are arranged according to the<br/>alphabetical order from top to bottom, then who<br/>among the following weighs 55kg?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Only two students are lighter than N. Here 7 for\nheaviest and 1 for lightest person.\nO and Q are heavier than N but lighter than M.\nThree students are heavier than R, but lighter\nthan O.\nThus, case 1 cancelled.",
+    "explanationHtml": "Only two students are lighter than N. Here 7 for<br/>heaviest and 1 for lightest person.<br/>O and Q are heavier than N but lighter than M.<br/>Three students are heavier than R, but lighter<br/>than O.<br/>Thus, case 1 cancelled.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "order",
+      "ranking"
+    ],
+    "sourcePages": [
+      4
+    ]
+  }
+]

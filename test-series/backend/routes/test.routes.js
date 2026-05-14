@@ -11,9 +11,10 @@ const router = express.Router();
 
 router.use(optionalAuth);
 
-const STRUCTURED_DIR = process.env.REASONING_STRUCTURED_DIR
-  ? path.resolve(process.env.REASONING_STRUCTURED_DIR)
-  : path.resolve(__dirname, "..", "..", "..", "Reasoning", "structured");
+const DATA_ROOT_DIR = process.env.BACKEND_DATA_DIR
+  ? path.resolve(process.env.BACKEND_DATA_DIR)
+  : path.resolve(__dirname, "..", "data");
+const STRUCTURED_DIR = path.resolve(DATA_ROOT_DIR, "structured");
 
 const asyncHandler = (fn) => async (req, res) => {
   try {
@@ -113,19 +114,157 @@ function normalizeImportedText(value) {
   return input;
 }
 
+function normalizeRichSegments(value) {
+  if (!Array.isArray(value)) {
+    return [];
+  }
+
+  return value
+    .map((segment) => {
+      if (typeof segment === "string") {
+        return { text: normalizeImportedText(segment) };
+      }
+
+      if (!segment || typeof segment !== "object") {
+        return null;
+      }
+
+      const text = normalizeImportedText(segment.text || "");
+      if (!text) {
+        return null;
+      }
+
+      return {
+        text,
+        bold: Boolean(segment.bold),
+        italic: Boolean(segment.italic),
+        underline: Boolean(segment.underline)
+      };
+    })
+    .filter(Boolean);
+}
+
+function pickRichSegments(source, keys) {
+  for (const key of keys) {
+    const segments = normalizeRichSegments(source?.[key]);
+    if (segments.length) {
+      return segments;
+    }
+  }
+
+  return [];
+}
+
+function resolveImageUrl(value) {
+  const imageValue = normalizeImportedText(value || "");
+  if (!imageValue) {
+    return "";
+  }
+
+  const normalized = imageValue.replace(/\\/g, "/");
+  if (normalized.startsWith("output/images/")) {
+    return `/${normalized.replace(/^output\/images\//, "question-images/")}`;
+  }
+
+  if (normalized.startsWith("images/")) {
+    return `/${normalized.replace(/^images\//, "question-images/")}`;
+  }
+
+  return normalized;
+}
+
+function buildImagePayload(question, fallbackLabel) {
+  const rawImageRef = question?.image_ref || question?.imageRef || question?.image?.key || question?.image?.url || "";
+  const imageUrl = resolveImageUrl(rawImageRef);
+
+  if (!imageUrl) {
+    return { imageRef: "", image: null };
+  }
+
+  return {
+    imageRef: imageUrl,
+    image: {
+      url: imageUrl,
+      key: normalizeImportedText(rawImageRef || ""),
+      sourceType: imageUrl.startsWith("http") ? "remote" : "local",
+      alt: normalizeImportedText(question?.image?.alt || fallbackLabel || "Question image") || "Question image"
+    }
+  };
+}
+
+function serializeQuestionForClient(question) {
+  const explanationText = typeof question?.explanation === "string"
+    ? question.explanation
+    : normalizeImportedText(question?.explanation?.text || "");
+
+  const explanationHtml = normalizeImportedText(
+    question?.explanationHtml
+      || question?.explanation_html
+      || question?.explanation?.html
+      || ""
+  );
+
+  const { imageRef, image } = buildImagePayload(question, "Question image");
+
+  return {
+    _id: question?._id,
+    question: question?.question || "",
+    questionHtml: normalizeImportedText(question?.questionHtml || question?.question_html || ""),
+    questionRich: Array.isArray(question?.questionRich) ? question.questionRich : [],
+    options: Array.isArray(question?.options) ? question.options : [],
+    optionsHtml: Array.isArray(question?.optionsHtml) ? question.optionsHtml : [],
+    optionsRich: Array.isArray(question?.optionsRich) ? question.optionsRich : [],
+    correctAnswer: question?.correctAnswer,
+    marks: question?.marks,
+    negativeMarks: question?.negativeMarks,
+    topicTags: Array.isArray(question?.topicTags) ? question.topicTags : [],
+    difficulty: question?.difficulty,
+    explanation: {
+      text: explanationText,
+      videoUrl: question?.explanation?.videoUrl || ""
+    },
+    explanationHtml,
+    explanationRich: Array.isArray(question?.explanationRich) ? question.explanationRich : [],
+    imageRef,
+    image,
+    tables: Array.isArray(question?.tables) ? question.tables : [],
+    sourcePages: Array.isArray(question?.sourcePages) ? question.sourcePages : [],
+    level: normalizeImportedText(question?.level || ""),
+    questionNumber: Number(question?.questionNumber || 0)
+  };
+}
+
 function mapStructuredQuestion(question, index, fileSlug, topic) {
   const options = Array.isArray(question.options)
     ? question.options.map((option) => normalizeImportedText(option?.text || option?.label || option || "")).filter(Boolean)
     : [];
+  const optionsHtml = Array.isArray(question.options)
+    ? question.options.map((option) => normalizeImportedText(option?.html || option?.text || option?.label || option || ""))
+    : [];
+  const optionsRich = Array.isArray(question.options)
+    ? question.options.map((option) => pickRichSegments(option, ["rich_text", "text_rich", "segments"]))
+    : [];
 
-  const answerRaw = String(question.correct_answer || "A").trim().toUpperCase();
-  const answerIndex = answerRaw.length === 1 ? answerRaw.charCodeAt(0) - 65 : Math.max(0, Number(answerRaw) - 1);
+  const questionHtml = normalizeImportedText(question.question_html || question.questionHtml || "");
+  const explanationHtml = normalizeImportedText(question.explanation_html || question.explanationHtml || "");
+  const { imageRef, image } = buildImagePayload(question, `Question ${index + 1}`);
+
+  const answerSource = question.correctAnswer ?? question.correct_answer ?? 0;
+  const answerIndex = typeof answerSource === "number"
+    ? answerSource
+    : String(answerSource || "A").trim().toUpperCase().length === 1
+      ? String(answerSource || "A").trim().toUpperCase().charCodeAt(0) - 65
+      : Math.max(0, Number(answerSource) - 1);
   const safeAnswer = Number.isFinite(answerIndex) ? Math.min(Math.max(answerIndex, 0), Math.max(options.length - 1, 0)) : 0;
 
   return {
     _id: `${fileSlug}-${index + 1}`,
     question: normalizeImportedText(question.question || question.question_text || ""),
+    questionHtml,
+    questionRich: pickRichSegments(question, ["question_rich", "question_segments", "rich_text", "segments"]),
     options,
+    optionsHtml,
+    optionsRich,
     correctAnswer: safeAnswer,
     marks: Number(question.marks || 1),
     negativeMarks: Number(question.negative_marks || 0.25),
@@ -133,10 +272,15 @@ function mapStructuredQuestion(question, index, fileSlug, topic) {
     difficulty: "MEDIUM",
     level: normalizeImportedText(question.level || ""),
     questionNumber: Number(question.question_number || index + 1),
-    imageRef: normalizeImportedText(question.image_ref || ""),
+    imageRef,
+    image,
+    tables: Array.isArray(question.tables) ? question.tables : [],
+    sourcePages: Array.isArray(question.sourcePages || question.source_pages) ? (question.sourcePages || question.source_pages) : [],
     explanation: {
       text: normalizeImportedText(question.explanation || "")
-    }
+    },
+    explanationHtml,
+    explanationRich: pickRichSegments(question, ["explanation_rich", "explanation_segments"])
   };
 }
 
@@ -281,16 +425,7 @@ router.get(
       return res.status(404).json({ message: "Test not found" });
     }
 
-    const sanitizedQuestions = test.questions.map((q) => ({
-      _id: q._id,
-      question: q.question,
-      options: q.options,
-      marks: q.marks,
-      negativeMarks: q.negativeMarks,
-      topicTags: q.topicTags,
-      difficulty: q.difficulty,
-      explanation: q.explanation
-    }));
+    const sanitizedQuestions = test.questions.map((q) => serializeQuestionForClient(q));
 
     res.json({
       _id: test._id,
@@ -400,14 +535,7 @@ router.get(
     }
 
     const questions = test.questions.map((q, index) => ({
-      _id: q._id,
-      question: q.question,
-      options: q.options,
-      correctAnswer: q.correctAnswer,
-      explanation: q.explanation,
-      marks: q.marks,
-      negativeMarks: q.negativeMarks,
-      topicTags: q.topicTags,
+      ...serializeQuestionForClient(q),
       selectedAnswer: submission.answers[index]
     }));
 

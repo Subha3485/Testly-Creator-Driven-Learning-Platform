@@ -1,0 +1,3559 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight boxes namely i.e. P, B, R, G, W, Y,\nM and O. They are placed one above the other\nand contains different colour balls i.e. Black,\nWhite, Red, Lime, Blue, Yellow, Cyan, Magenta,\nSilver, Gray, Maroon, Olive, Green, Purple, Teal\nand Navy such that each box contains two balls\nbut not necessarily in the same order.\nBlack balls are in W and it cannot be in the same\nbox with Teal colour balls and Navy colour\nballs. Lime colour balls and Purple colour balls\nare in the box R. There are exactly four boxes\nbetween box Y and box P such that box Y is\nabove the box P and box P contains Gray colour\nballs and Green colour balls. Box O is\nimmediately below the box B. Silver colour balls\nand Maroon colour balls are in the box which is\nthird from the top. Box G contains White colour\nballs and Red colour balls. Cyan colour box and\nMagenta colour balls is immediately above the\nbox which contains Yellow colour balls and\nOrange colour balls respectively and both these\nboxes are above the 5th box from the top. The\nbox W is placed 4th from the top. The box M and\nbox R are at the bottom most and fourth from\nthe bottom respectively.\n \nWhich of the following statements is true with\nrespect to the given information?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight boxes namely i.e. P, B, R, G, W, Y,<br/>M and O. They are placed one above the other<br/>and contains different colour balls i.e. Black,<br/>White, Red, Lime, Blue, Yellow, Cyan, Magenta,<br/>Silver, Gray, Maroon, Olive, Green, Purple, Teal<br/>and Navy such that each box contains two balls<br/>but not necessarily in the same order.<br/>Black balls are in W and it cannot be in the same<br/>box with Teal colour balls and Navy colour<br/>balls. Lime colour balls and Purple colour balls<br/>are in the box R. There are exactly four boxes<br/>between box Y and box P such that box Y is<br/>above the box P and box P contains Gray colour<br/>balls and Green colour balls. Box O is<br/>immediately below the box B. Silver colour balls<br/>and Maroon colour balls are in the box which is<br/>third from the top. Box G contains White colour<br/>balls and Red colour balls. Cyan colour box and<br/>Magenta colour balls is immediately above the<br/>box which contains Yellow colour balls and<br/>Orange colour balls respectively and both these<br/>boxes are above the 5th box from the top. The<br/>box W is placed 4th from the top. The box M and<br/>box R are at the bottom most and fourth from<br/>the bottom respectively.<br/> <br/>Which of the following statements is true with<br/>respect to the given information?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Box Y contains orange colour balls",
+        "html": "Box Y contains orange colour balls"
+      },
+      {
+        "id": "B",
+        "text": "Box R is immediately above box G.",
+        "html": "Box R is immediately above box G."
+      },
+      {
+        "id": "C",
+        "text": "Box O has silver colour balls.",
+        "html": "Box O has silver colour balls."
+      },
+      {
+        "id": "D",
+        "text": "Box M and P has three boxes in between\nthem.",
+        "html": "Box M and P has three boxes in between\nthem."
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "We have,\n1. The box W is placed 4th from the top.\n2. The box M and box R are at the bottom most\nand fourth from the bottom respectively.\n3. Lime colour balls and Purple colour balls are in\nthe box R.\n4. Silver colour balls and Maroon colour balls are\nin the box which is third from the top.\n5. Cyan colour box and Magenta colour balls is\nimmediately above the box which contains\nYellow colour balls and Orange colour balls\nrespectively and both these boxes are above the\n5th box from the top. \n \n BOXES BALLS\n BALLS\n 8TH \n CYAN\n MAGENTA\n 7TH \n YELLOW ORANGE\n 6TH \n MAROON SILVER\n 5TH W\n \n \n 4TH R\n LIME\n PURPLE\n 3RD \n \n \n 2ND \n \n \n 1ST M\n \n \n6. There are exactly four boxes between box Y\nand box P such that box Y is above the box P and\nbox P contains Gray colour balls and Green\ncolour balls.\n7. Box O is immediately below the box B.\n8. Box G contains White colour balls and Red\ncolour balls. \n9. Black balls are in W and it cannot be in the\nsame box with Teal colour balls and Navy colour\nballs. \n \n BOXES BALLS\n BALLS\n 8TH Y\n CYAN\n MAGENTA\n 7TH B\n YELLOW ORANGE\n 6TH O\n MAROON SILVER\n 5TH W\n BLUE\n BLACK\n 4TH R\n LIME\n PURPLE\n 3RD P\n GRAY\n GREEN\n 2ND G\n WHITE\n RED\n 1ST M\n TEAL\n NAVY",
+    "explanationHtml": "We have,<br/>1. The box W is placed 4th from the top.<br/>2. The box M and box R are at the bottom most<br/>and fourth from the bottom respectively.<br/>3. Lime colour balls and Purple colour balls are in<br/>the box R.<br/>4. Silver colour balls and Maroon colour balls are<br/>in the box which is third from the top.<br/>5. Cyan colour box and Magenta colour balls is<br/>immediately above the box which contains<br/>Yellow colour balls and Orange colour balls<br/>respectively and both these boxes are above the<br/>5th box from the top. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH <br/> CYAN<br/> MAGENTA<br/> 7TH <br/> YELLOW ORANGE<br/> 6TH <br/> MAROON SILVER<br/> 5TH W<br/> <br/> <br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD <br/> <br/> <br/> 2ND <br/> <br/> <br/> 1ST M<br/> <br/> <br/>6. There are exactly four boxes between box Y<br/>and box P such that box Y is above the box P and<br/>box P contains Gray colour balls and Green<br/>colour balls.<br/>7. Box O is immediately below the box B.<br/>8. Box G contains White colour balls and Red<br/>colour balls. <br/>9. Black balls are in W and it cannot be in the<br/>same box with Teal colour balls and Navy colour<br/>balls. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH Y<br/> CYAN<br/> MAGENTA<br/> 7TH B<br/> YELLOW ORANGE<br/> 6TH O<br/> MAROON SILVER<br/> 5TH W<br/> BLUE<br/> BLACK<br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD P<br/> GRAY<br/> GREEN<br/> 2ND G<br/> WHITE<br/> RED<br/> 1ST M<br/> TEAL<br/> NAVY",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight boxes namely i.e. P, B, R, G, W, Y,\nM and O. They are placed one above the other\nand contains different colour balls i.e. Black,\nWhite, Red, Lime, Blue, Yellow, Cyan, Magenta,\nSilver, Gray, Maroon, Olive, Green, Purple, Teal\nand Navy such that each box contains two balls\nbut not necessarily in the same order.\nBlack balls are in W and it cannot be in the same\nbox with Teal colour balls and Navy colour\nballs. Lime colour balls and Purple colour balls\nare in the box R. There are exactly four boxes\nbetween box Y and box P such that box Y is\nabove the box P and box P contains Gray colour\nballs and Green colour balls. Box O is\nimmediately below the box B. Silver colour balls\nand Maroon colour balls are in the box which is\nthird from the top. Box G contains White colour\nballs and Red colour balls. Cyan colour box and\nMagenta colour balls is immediately above the\nbox which contains Yellow colour balls and\nOrange colour balls respectively and both these\nboxes are above the 5th box from the top. The\nbox W is placed 4th from the top. The box M and\n \nTabular Puzzle",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight boxes namely i.e. P, B, R, G, W, Y,<br/>M and O. They are placed one above the other<br/>and contains different colour balls i.e. Black,<br/>White, Red, Lime, Blue, Yellow, Cyan, Magenta,<br/>Silver, Gray, Maroon, Olive, Green, Purple, Teal<br/>and Navy such that each box contains two balls<br/>but not necessarily in the same order.<br/>Black balls are in W and it cannot be in the same<br/>box with Teal colour balls and Navy colour<br/>balls. Lime colour balls and Purple colour balls<br/>are in the box R. There are exactly four boxes<br/>between box Y and box P such that box Y is<br/>above the box P and box P contains Gray colour<br/>balls and Green colour balls. Box O is<br/>immediately below the box B. Silver colour balls<br/>and Maroon colour balls are in the box which is<br/>third from the top. Box G contains White colour<br/>balls and Red colour balls. Cyan colour box and<br/>Magenta colour balls is immediately above the<br/>box which contains Yellow colour balls and<br/>Orange colour balls respectively and both these<br/>boxes are above the 5th box from the top. The<br/>box W is placed 4th from the top. The box M and<br/> <br/>Tabular Puzzle",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "We have,\n1. The box W is placed 4th from the top.\n2. The box M and box R are at the bottom most\nand fourth from the bottom respectively.\n3. Lime colour balls and Purple colour balls are in\nthe box R.\n4. Silver colour balls and Maroon colour balls are\nin the box which is third from the top.\n5. Cyan colour box and Magenta colour balls is\nimmediately above the box which contains\nYellow colour balls and Orange colour balls\nrespectively and both these boxes are above the\n5th box from the top. \n \n BOXES BALLS\n BALLS\n 8TH \n CYAN\n MAGENTA\n 7TH \n YELLOW ORANGE\n 6TH \n MAROON SILVER\n 5TH W\n \n \n 4TH R\n LIME\n PURPLE\n 3RD \n \n \n 2ND \n \n \n 1ST M\n \n \n6. There are exactly four boxes between box Y\nand box P such that box Y is above the box P and\nbox P contains Gray colour balls and Green\ncolour balls.",
+    "explanationHtml": "We have,<br/>1. The box W is placed 4th from the top.<br/>2. The box M and box R are at the bottom most<br/>and fourth from the bottom respectively.<br/>3. Lime colour balls and Purple colour balls are in<br/>the box R.<br/>4. Silver colour balls and Maroon colour balls are<br/>in the box which is third from the top.<br/>5. Cyan colour box and Magenta colour balls is<br/>immediately above the box which contains<br/>Yellow colour balls and Orange colour balls<br/>respectively and both these boxes are above the<br/>5th box from the top. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH <br/> CYAN<br/> MAGENTA<br/> 7TH <br/> YELLOW ORANGE<br/> 6TH <br/> MAROON SILVER<br/> 5TH W<br/> <br/> <br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD <br/> <br/> <br/> 2ND <br/> <br/> <br/> 1ST M<br/> <br/> <br/>6. There are exactly four boxes between box Y<br/>and box P such that box Y is above the box P and<br/>box P contains Gray colour balls and Green<br/>colour balls.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight boxes namely i.e. P, B, R, G, W, Y,\nM and O. They are placed one above the other\nand contains different colour balls i.e. Black,\nWhite, Red, Lime, Blue, Yellow, Cyan, Magenta,\nSilver, Gray, Maroon, Olive, Green, Purple, Teal\nand Navy such that each box contains two balls\nbut not necessarily in the same order.\nBlack balls are in W and it cannot be in the same\nbox with Teal colour balls and Navy colour\nballs. Lime colour balls and Purple colour balls\nare in the box R. There are exactly four boxes\nbetween box Y and box P such that box Y is\nabove the box P and box P contains Gray colour\nballs and Green colour balls. Box O is\nimmediately below the box B. Silver colour balls\nand Maroon colour balls are in the box which is\nthird from the top. Box G contains White colour\nballs and Red colour balls. Cyan colour box and\nMagenta colour balls is immediately above the\nbox which contains Yellow colour balls and\nOrange colour balls respectively and both these\nboxes are above the 5th box from the top. The\nbox W is placed 4th from the top. The box M and\nbox R are at the bottom most and fourth from\nthe bottom respectively.\n \nWhich box is between the box B and the box\nthat contains Navy colour balls?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight boxes namely i.e. P, B, R, G, W, Y,<br/>M and O. They are placed one above the other<br/>and contains different colour balls i.e. Black,<br/>White, Red, Lime, Blue, Yellow, Cyan, Magenta,<br/>Silver, Gray, Maroon, Olive, Green, Purple, Teal<br/>and Navy such that each box contains two balls<br/>but not necessarily in the same order.<br/>Black balls are in W and it cannot be in the same<br/>box with Teal colour balls and Navy colour<br/>balls. Lime colour balls and Purple colour balls<br/>are in the box R. There are exactly four boxes<br/>between box Y and box P such that box Y is<br/>above the box P and box P contains Gray colour<br/>balls and Green colour balls. Box O is<br/>immediately below the box B. Silver colour balls<br/>and Maroon colour balls are in the box which is<br/>third from the top. Box G contains White colour<br/>balls and Red colour balls. Cyan colour box and<br/>Magenta colour balls is immediately above the<br/>box which contains Yellow colour balls and<br/>Orange colour balls respectively and both these<br/>boxes are above the 5th box from the top. The<br/>box W is placed 4th from the top. The box M and<br/>box R are at the bottom most and fourth from<br/>the bottom respectively.<br/> <br/>Which box is between the box B and the box<br/>that contains Navy colour balls?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "We have,\n1. The box W is placed 4th from the top.\n2. The box M and box R are at the bottom most\nand fourth from the bottom respectively.\n3. Lime colour balls and Purple colour balls are in\nthe box R.\n4. Silver colour balls and Maroon colour balls are\nin the box which is third from the top.\n5. Cyan colour box and Magenta colour balls is\nimmediately above the box which contains\nYellow colour balls and Orange colour balls\nrespectively and both these boxes are above the\n5th box from the top. \n \n BOXES BALLS\n BALLS\n 8TH \n CYAN\n MAGENTA\n 7TH \n YELLOW ORANGE\n 6TH \n MAROON SILVER\n 5TH W\n \n \n 4TH R\n LIME\n PURPLE\n 3RD \n \n \n 2ND \n \n \n 1ST M\n \n \n6. There are exactly four boxes between box Y\nand box P such that box Y is above the box P and\nbox P contains Gray colour balls and Green\ncolour balls.\n7. Box O is immediately below the box B.\n8. Box G contains White colour balls and Red\ncolour balls. \n9. Black balls are in W and it cannot be in the\nsame box with Teal colour balls and Navy colour\nballs. \n \n BOXES BALLS\n BALLS\n 8TH Y\n CYAN\n MAGENTA\n 7TH B\n YELLOW ORANGE\n 6TH O\n MAROON SILVER\n 5TH W\n BLUE\n BLACK\n 4TH R\n LIME\n PURPLE\n 3RD P\n GRAY\n GREEN\n 2ND G\n WHITE\n RED\n 1ST M\n TEAL\n NAVY",
+    "explanationHtml": "We have,<br/>1. The box W is placed 4th from the top.<br/>2. The box M and box R are at the bottom most<br/>and fourth from the bottom respectively.<br/>3. Lime colour balls and Purple colour balls are in<br/>the box R.<br/>4. Silver colour balls and Maroon colour balls are<br/>in the box which is third from the top.<br/>5. Cyan colour box and Magenta colour balls is<br/>immediately above the box which contains<br/>Yellow colour balls and Orange colour balls<br/>respectively and both these boxes are above the<br/>5th box from the top. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH <br/> CYAN<br/> MAGENTA<br/> 7TH <br/> YELLOW ORANGE<br/> 6TH <br/> MAROON SILVER<br/> 5TH W<br/> <br/> <br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD <br/> <br/> <br/> 2ND <br/> <br/> <br/> 1ST M<br/> <br/> <br/>6. There are exactly four boxes between box Y<br/>and box P such that box Y is above the box P and<br/>box P contains Gray colour balls and Green<br/>colour balls.<br/>7. Box O is immediately below the box B.<br/>8. Box G contains White colour balls and Red<br/>colour balls. <br/>9. Black balls are in W and it cannot be in the<br/>same box with Teal colour balls and Navy colour<br/>balls. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH Y<br/> CYAN<br/> MAGENTA<br/> 7TH B<br/> YELLOW ORANGE<br/> 6TH O<br/> MAROON SILVER<br/> 5TH W<br/> BLUE<br/> BLACK<br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD P<br/> GRAY<br/> GREEN<br/> 2ND G<br/> WHITE<br/> RED<br/> 1ST M<br/> TEAL<br/> NAVY",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight boxes namely i.e. P, B, R, G, W, Y,\nM and O. They are placed one above the other\nand contains different colour balls i.e. Black,\nWhite, Red, Lime, Blue, Yellow, Cyan, Magenta,\nSilver, Gray, Maroon, Olive, Green, Purple, Teal\nand Navy such that each box contains two balls\nbut not necessarily in the same order.\nBlack balls are in W and it cannot be in the same\nbox with Teal colour balls and Navy colour\nballs. Lime colour balls and Purple colour balls\nare in the box R. There are exactly four boxes\nbetween box Y and box P such that box Y is\nabove the box P and box P contains Gray colour\nballs and Green colour balls. Box O is\nimmediately below the box B. Silver colour balls\nand Maroon colour balls are in the box which is\nthird from the top. Box G contains White colour\nballs and Red colour balls. Cyan colour box and\nMagenta colour balls is immediately above the\nbox which contains Yellow colour balls and\nOrange colour balls respectively and both these\nboxes are above the 5th box from the top. The\nbox W is placed 4th from the top. The box M and\nbox R are at the bottom most and fourth from\nthe bottom respectively.\n \nWhich box is sixth from the top?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight boxes namely i.e. P, B, R, G, W, Y,<br/>M and O. They are placed one above the other<br/>and contains different colour balls i.e. Black,<br/>White, Red, Lime, Blue, Yellow, Cyan, Magenta,<br/>Silver, Gray, Maroon, Olive, Green, Purple, Teal<br/>and Navy such that each box contains two balls<br/>but not necessarily in the same order.<br/>Black balls are in W and it cannot be in the same<br/>box with Teal colour balls and Navy colour<br/>balls. Lime colour balls and Purple colour balls<br/>are in the box R. There are exactly four boxes<br/>between box Y and box P such that box Y is<br/>above the box P and box P contains Gray colour<br/>balls and Green colour balls. Box O is<br/>immediately below the box B. Silver colour balls<br/>and Maroon colour balls are in the box which is<br/>third from the top. Box G contains White colour<br/>balls and Red colour balls. Cyan colour box and<br/>Magenta colour balls is immediately above the<br/>box which contains Yellow colour balls and<br/>Orange colour balls respectively and both these<br/>boxes are above the 5th box from the top. The<br/>box W is placed 4th from the top. The box M and<br/>box R are at the bottom most and fourth from<br/>the bottom respectively.<br/> <br/>Which box is sixth from the top?",
+    "options": [
+      {
+        "id": "A",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "B",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "C",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "M",
+        "html": "M"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "We have,\n1. The box W is placed 4th from the top.\n2. The box M and box R are at the bottom most\nand fourth from the bottom respectively.\n3. Lime colour balls and Purple colour balls are in\nthe box R.\n4. Silver colour balls and Maroon colour balls are\nin the box which is third from the top.\n5. Cyan colour box and Magenta colour balls is\nimmediately above the box which contains\nYellow colour balls and Orange colour balls\nrespectively and both these boxes are above the\n5th box from the top. \n \n BOXES BALLS\n BALLS\n 8TH \n CYAN\n MAGENTA\n 7TH \n YELLOW ORANGE",
+    "explanationHtml": "We have,<br/>1. The box W is placed 4th from the top.<br/>2. The box M and box R are at the bottom most<br/>and fourth from the bottom respectively.<br/>3. Lime colour balls and Purple colour balls are in<br/>the box R.<br/>4. Silver colour balls and Maroon colour balls are<br/>in the box which is third from the top.<br/>5. Cyan colour box and Magenta colour balls is<br/>immediately above the box which contains<br/>Yellow colour balls and Orange colour balls<br/>respectively and both these boxes are above the<br/>5th box from the top. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH <br/> CYAN<br/> MAGENTA<br/> 7TH <br/> YELLOW ORANGE",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against one\nnumber) from bottom to top. Position of V is\nexactly between E and H. There are as many\nletters between V and P as between V and W. F is\nplaced exactly above R and Y is exactly between\nR and S. Position of P is not equal to 5.\n \nWho is in between O and R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against one<br/>number) from bottom to top. Position of V is<br/>exactly between E and H. There are as many<br/>letters between V and P as between V and W. F is<br/>placed exactly above R and Y is exactly between<br/>R and S. Position of P is not equal to 5.<br/> <br/>Who is in between O and R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against one\nnumber) from bottom to top.\n1\n \n2 E\n3 \n4 H\n5 \n6 O\n7 \n8 R\n9 \n10 S\nThere are 1 letter between E and H and that letter\nis V. There are as many letters between V and P\nas between V and W. There are 3 letters between\nE and O. V is against number 3. F is placed\nexactly above R and Y is exactly between R and\nS.\n(position of p is not equal to 5 is fixed by the\nstatement)\n1\nP\n2 E\n3 V\n4 H\n5 W\n6 O\n7 F\n8 R\n9 Y\n10 S\nF is sitting between O and R.",
+    "explanationHtml": "First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against one<br/>number) from bottom to top.<br/>1<br/> <br/>2 E<br/>3 <br/>4 H<br/>5 <br/>6 O<br/>7 <br/>8 R<br/>9 <br/>10 S<br/>There are 1 letter between E and H and that letter<br/>is V. There are as many letters between V and P<br/>as between V and W. There are 3 letters between<br/>E and O. V is against number 3. F is placed<br/>exactly above R and Y is exactly between R and<br/>S.<br/>(position of p is not equal to 5 is fixed by the<br/>statement)<br/>1<br/>P<br/>2 E<br/>3 V<br/>4 H<br/>5 W<br/>6 O<br/>7 F<br/>8 R<br/>9 Y<br/>10 S<br/>F is sitting between O and R.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against one\nnumber) from bottom to top. Position of V is\nexactly between E and H. There are as many\nletters between V and P as between V and W. F is\nplaced exactly above R and Y is exactly between\nR and S. Position of P is not equal to 5.\n \nWhich alphabet is written against number 9?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against one<br/>number) from bottom to top. Position of V is<br/>exactly between E and H. There are as many<br/>letters between V and P as between V and W. F is<br/>placed exactly above R and Y is exactly between<br/>R and S. Position of P is not equal to 5.<br/> <br/>Which alphabet is written against number 9?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against\none number) from bottom to top.\n1\n \n2 E\n3 \n4 H\n5 \n6 O\n7",
+    "explanationHtml": "First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against<br/>one number) from bottom to top.<br/>1<br/> <br/>2 E<br/>3 <br/>4 H<br/>5 <br/>6 O<br/>7",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against one\nnumber) from bottom to top. Position of V is\nexactly between E and H. There are as many\nletters between V and P as between V and W. F is\nplaced exactly above R and Y is exactly between\nR and S. Position of P is not equal to 5.\n \nWhich is the third letter in the word formed by\nthe letters against 10, 4, 6 and 2 in the same\norder?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against one<br/>number) from bottom to top. Position of V is<br/>exactly between E and H. There are as many<br/>letters between V and P as between V and W. F is<br/>placed exactly above R and Y is exactly between<br/>R and S. Position of P is not equal to 5.<br/> <br/>Which is the third letter in the word formed by<br/>the letters against 10, 4, 6 and 2 in the same<br/>order?",
+    "options": [
+      {
+        "id": "A",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 10 numbers are written from Top to Bottom.\nThe word 'HORSE' is written in alphabetical order\nagainst each multiple of 2 (One letter against\none number) from bottom to top.\n1\n \n2 E\n3 \n4 H\n5 \n6 O\n7 \n8 R\n9 \n10 S\nThere are 1 letter between E and H and that letter\nis V . There are as many letters between V and P\nas between V and W. There are 3 letters between\nE and O. V is against number 3. F is placed\nexactly above R and Y is exactly between R and\nS.\n(position of p is not equal to 5 is fixed by the\nstatement)\n1\nP\n2 E\n3 V\n4 H\n5 W\n6 O\n7 F\n8 R\n9 Y\n10 S\nThe word formed by the placed value 10,4,6,2 is\nSHOE and the third letter of the word SHOE is O.",
+    "explanationHtml": "First 10 numbers are written from Top to Bottom.<br/>The word 'HORSE' is written in alphabetical order<br/>against each multiple of 2 (One letter against<br/>one number) from bottom to top.<br/>1<br/> <br/>2 E<br/>3 <br/>4 H<br/>5 <br/>6 O<br/>7 <br/>8 R<br/>9 <br/>10 S<br/>There are 1 letter between E and H and that letter<br/>is V . There are as many letters between V and P<br/>as between V and W. There are 3 letters between<br/>E and O. V is against number 3. F is placed<br/>exactly above R and Y is exactly between R and<br/>S.<br/>(position of p is not equal to 5 is fixed by the<br/>statement)<br/>1<br/>P<br/>2 E<br/>3 V<br/>4 H<br/>5 W<br/>6 O<br/>7 F<br/>8 R<br/>9 Y<br/>10 S<br/>The word formed by the placed value 10,4,6,2 is<br/>SHOE and the third letter of the word SHOE is O.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 even numbers are written from top to\nbottom. The letter of word “ADVENT” are written\nin the same order against each multiple of 4 (one\nletter against one number) from top to bottom.\nThere are two even numbers between A and L.\nThere are three letters between W and L. No\nletters between Y and T. J is above L but below P.\nV is immediately above O. Y is not below T.\n \nFind odd one out ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 even numbers are written from top to<br/>bottom. The letter of word “ADVENT” are written<br/>in the same order against each multiple of 4 (one<br/>letter against one number) from top to bottom.<br/>There are two even numbers between A and L.<br/>There are three letters between W and L. No<br/>letters between Y and T. J is above L but below P.<br/>V is immediately above O. Y is not below T.<br/> <br/>Find odd one out ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "P, L",
+        "html": "P, L"
+      },
+      {
+        "id": "B",
+        "text": "D, E",
+        "html": "D, E"
+      },
+      {
+        "id": "C",
+        "text": "V, N",
+        "html": "V, N"
+      },
+      {
+        "id": "D",
+        "text": "O, W",
+        "html": "O, W"
+      },
+      {
+        "id": "E",
+        "text": "E,T",
+        "html": "E,T"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 even numbers are written from top to\nbottom. The letter of word “ADVENT” are written\nin the same order against each multiple of 4 (one\nletter against one number) from top to bottom.\nThere are two even numbers between A and L.\nThere are three letters between W and L. No",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 even numbers are written from top to<br/>bottom. The letter of word “ADVENT” are written<br/>in the same order against each multiple of 4 (one<br/>letter against one number) from top to bottom.<br/>There are two even numbers between A and L.<br/>There are three letters between W and L. No",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 even numbers are written from top to\nbottom. The letter of word “ADVENT” are written\nin the same order against each multiple of 4 (one\nletter against one number) from top to bottom.\nThere are two even numbers between A and L.\nThere are three letters between W and L. No\nletters between Y and T. J is above L but below P.\nV is immediately above O. Y is not below T.\n \nIf all the letters are arranged in reverse\nalphabetical order from top to bottom then how\nmany letters written between J and W ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 even numbers are written from top to<br/>bottom. The letter of word “ADVENT” are written<br/>in the same order against each multiple of 4 (one<br/>letter against one number) from top to bottom.<br/>There are two even numbers between A and L.<br/>There are three letters between W and L. No<br/>letters between Y and T. J is above L but below P.<br/>V is immediately above O. Y is not below T.<br/> <br/>If all the letters are arranged in reverse<br/>alphabetical order from top to bottom then how<br/>many letters written between J and W ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "B",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 even numbers are written from top to\nbottom. The letter of word “ADVENT” are written\nin the same order against each multiple of 4 (one\nletter against one number) from top to bottom.\nThere are two even numbers between A and L.\nThere are three letters between W and L. No\nletters between Y and T. J is above L but below P.\nV is immediately above O. Y is not below T.\n \nWho among the following letter is three places\nabove N?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 even numbers are written from top to<br/>bottom. The letter of word “ADVENT” are written<br/>in the same order against each multiple of 4 (one<br/>letter against one number) from top to bottom.<br/>There are two even numbers between A and L.<br/>There are three letters between W and L. No<br/>letters between Y and T. J is above L but below P.<br/>V is immediately above O. Y is not below T.<br/> <br/>Who among the following letter is three places<br/>above N?",
+    "options": [
+      {
+        "id": "A",
+        "text": "O",
+        "html": "O"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 numbers starting from 1 are written from\ntop to bottom. The word ''BRIDGES'' is written in\nalphabetical order against each odd number\nfrom top to bottom. Two letters are between D\nand M. The number of letters written between X\nand E is 0. The number of letters written between\nX and M is the same as M and U.The position\nvalue of Z is 10. There is no letter between B and\nK.\n \nHow many forward and backward pairs of\nletters are there in a word formed by the\npositions 1, 9, 11 and 3 respectively in that\norder and have as many letters between them\nin the word as in the alphabetical series?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 numbers starting from 1 are written from<br/>top to bottom. The word ''BRIDGES'' is written in<br/>alphabetical order against each odd number<br/>from top to bottom. Two letters are between D<br/>and M. The number of letters written between X<br/>and E is 0. The number of letters written between<br/>X and M is the same as M and U.The position<br/>value of Z is 10. There is no letter between B and<br/>K.<br/> <br/>How many forward and backward pairs of<br/>letters are there in a word formed by the<br/>positions 1, 9, 11 and 3 respectively in that<br/>order and have as many letters between them<br/>in the word as in the alphabetical series?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "0",
+        "html": "0"
+      },
+      {
+        "id": "D",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "E",
+        "text": "7",
+        "html": "7"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 13 numbers starting from 1 are written from\ntop to bottom. The word ''BRIDGES'' is written in\nalphabetical order against each odd number\nfrom top to bottom. \n1\nB\n2 \n3 D\n4 \n5 E\n6 \n7 G\n8 \n9 I\n10",
+    "explanationHtml": "First 13 numbers starting from 1 are written from<br/>top to bottom. The word ''BRIDGES'' is written in<br/>alphabetical order against each odd number<br/>from top to bottom. <br/>1<br/>B<br/>2 <br/>3 D<br/>4 <br/>5 E<br/>6 <br/>7 G<br/>8 <br/>9 I<br/>10",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 13 numbers starting from 1 are written from\ntop to bottom. The word ''BRIDGES'' is written in\nalphabetical order against each odd number\nfrom top to bottom. Two letters are between D\nand M. The number of letters written between X\nand E is 0. The number of letters written between\nX and M is the same as M and U.The position\nvalue of Z is 10. There is no letter between B and\nK.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 13 numbers starting from 1 are written from<br/>top to bottom. The word ''BRIDGES'' is written in<br/>alphabetical order against each odd number<br/>from top to bottom. Two letters are between D<br/>and M. The number of letters written between X<br/>and E is 0. The number of letters written between<br/>X and M is the same as M and U.The position<br/>value of Z is 10. There is no letter between B and<br/>K.",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "First 13 numbers starting from 1 are written from\ntop to bottom. The word ''BRIDGES'' is written in\nalphabetical order against each odd number\nfrom top to bottom. \n1\nB\n2 \n3 D\n4 \n5 E\n6 \n7 G\n8 \n9 I\n10 \n11 R\n12 \n13 S\nTwo letters are between D and M. \nThe number of letters written between X and E is\n0.\nThe number of letters written between X and M\nis the same as M and U.\nX is written above E and X is between D and E.\nThe placed value of Z is 10.\nThere is no letter between B and K.\n1\nB\n2 K\n3 D\n4 X\n5 E\n6 M\n7 G\n8 U\n9 I\n10 Z\n11 R\n12 \n13 S\nThe letters placed between 5 and 8 are G and M.",
+    "explanationHtml": "First 13 numbers starting from 1 are written from<br/>top to bottom. The word ''BRIDGES'' is written in<br/>alphabetical order against each odd number<br/>from top to bottom. <br/>1<br/>B<br/>2 <br/>3 D<br/>4 <br/>5 E<br/>6 <br/>7 G<br/>8 <br/>9 I<br/>10 <br/>11 R<br/>12 <br/>13 S<br/>Two letters are between D and M. <br/>The number of letters written between X and E is<br/>0.<br/>The number of letters written between X and M<br/>is the same as M and U.<br/>X is written above E and X is between D and E.<br/>The placed value of Z is 10.<br/>There is no letter between B and K.<br/>1<br/>B<br/>2 K<br/>3 D<br/>4 X<br/>5 E<br/>6 M<br/>7 G<br/>8 U<br/>9 I<br/>10 Z<br/>11 R<br/>12 <br/>13 S<br/>The letters placed between 5 and 8 are G and M.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 15 natural numbers are written from top to\nBottom. The letters of the word “LOBSTER” are\nwritten in the alphabetical order against each\nmultiple of 2 (one letter against one number)\nfrom top to bottom. M is placed exactly between\nT and S. H is placed exactly between L and O. No\nletters are between A and B. The number of\nletters between M and Q is the same as between\nL and O. Letter Y is Placed exactly above the\nletter R. The number of letters between Q and Y\nis the same as the number of letters between M\nand Q. Number of letters between A and H is the\nsame as the number of letters between H and M.\n \nHow many letters between L and R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 15 natural numbers are written from top to<br/>Bottom. The letters of the word “LOBSTER” are<br/>written in the alphabetical order against each<br/>multiple of 2 (one letter against one number)<br/>from top to bottom. M is placed exactly between<br/>T and S. H is placed exactly between L and O. No<br/>letters are between A and B. The number of<br/>letters between M and Q is the same as between<br/>L and O. Letter Y is Placed exactly above the<br/>letter R. The number of letters between Q and Y<br/>is the same as the number of letters between M<br/>and Q. Number of letters between A and H is the<br/>same as the number of letters between H and M.<br/> <br/>How many letters between L and R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 15 natural numbers are written from top to\nBottom. The letters of the word “LOBSTER” are\nwritten in the alphabetical order against each\nmultiple of 2 (one letter against one number)\nfrom top to bottom.",
+    "explanationHtml": "First 15 natural numbers are written from top to<br/>Bottom. The letters of the word “LOBSTER” are<br/>written in the alphabetical order against each<br/>multiple of 2 (one letter against one number)<br/>from top to bottom.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 15 natural numbers are written from top to\nBottom. The letters of the word “LOBSTER” are\nwritten in the alphabetical order against each\nmultiple of 2 (one letter against one number)\nfrom top to bottom. M is placed exactly between\nT and S. H is placed exactly between L and O. No\nletters are between A and B. The number of\nletters between M and Q is the same as between\nL and O. Letter Y is Placed exactly above the\nletter R. The number of letters between Q and Y\nis the same as the number of letters between M\nand Q. Number of letters between A and H is the\nsame as the number of letters between H and M.\n \nWhat is the total sum of the number against\nletter A, B and E according to the arrangement\nformed ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 15 natural numbers are written from top to<br/>Bottom. The letters of the word “LOBSTER” are<br/>written in the alphabetical order against each<br/>multiple of 2 (one letter against one number)<br/>from top to bottom. M is placed exactly between<br/>T and S. H is placed exactly between L and O. No<br/>letters are between A and B. The number of<br/>letters between M and Q is the same as between<br/>L and O. Letter Y is Placed exactly above the<br/>letter R. The number of letters between Q and Y<br/>is the same as the number of letters between M<br/>and Q. Number of letters between A and H is the<br/>same as the number of letters between H and M.<br/> <br/>What is the total sum of the number against<br/>letter A, B and E according to the arrangement<br/>formed ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "9",
+        "html": "9"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "First 15 natural numbers are written from top to\nBottom. The letters of the word “LOBSTER” are\nwritten in the alphabetical order against each\nmultiple of 2 (one letter against one number)\nfrom top to bottom.\n1\n \n2 B\n3 \n4 E\n5 \n6 L\n7 \n8 O\n9 \n1\n0\nR\n11 \n12 S\n13 \n14 T\n15 \nM is placed exactly between T and S.\nH is placed exactly between L and O.\nNo letters are between A and B. \nThe number of letters between M and Q is the\nsame as between L and O.\nLetter Y is placed exactly above the letter R.",
+    "explanationHtml": "First 15 natural numbers are written from top to<br/>Bottom. The letters of the word “LOBSTER” are<br/>written in the alphabetical order against each<br/>multiple of 2 (one letter against one number)<br/>from top to bottom.<br/>1<br/> <br/>2 B<br/>3 <br/>4 E<br/>5 <br/>6 L<br/>7 <br/>8 O<br/>9 <br/>1<br/>0<br/>R<br/>11 <br/>12 S<br/>13 <br/>14 T<br/>15 <br/>M is placed exactly between T and S.<br/>H is placed exactly between L and O.<br/>No letters are between A and B. <br/>The number of letters between M and Q is the<br/>same as between L and O.<br/>Letter Y is placed exactly above the letter R.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nFirst 17 prime numbers are written from top to\nbottom. The letter of the word “NOTCHING” are\nwritten in the same order against alternative\nprime numbers ( one letter against one number )\nfrom top to bottom starting from 3.\nM is placed against highest prime number.Only\nthree letters are placed between M and Q. Only\none letter is placed between V and Q. R is not\nplaced adjacent to C and H. Only five letters are\nplaced between R and P. Only three letters are\nplaced between X and W which is not placed\nbelow 5. Y is below X but above U. R neither\nplaced against 47 nor placed at the least prime\nnumber. U is not placed against third highest\nprime number. V is not adjacent to H.\nWhich \nof \nthe \nfollowing \nletter \nis \nplaced\nimmediately above G ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>First 17 prime numbers are written from top to<br/>bottom. The letter of the word “NOTCHING” are<br/>written in the same order against alternative<br/>prime numbers ( one letter against one number )<br/>from top to bottom starting from 3.<br/>M is placed against highest prime number.Only<br/>three letters are placed between M and Q. Only<br/>one letter is placed between V and Q. R is not<br/>placed adjacent to C and H. Only five letters are<br/>placed between R and P. Only three letters are<br/>placed between X and W which is not placed<br/>below 5. Y is below X but above U. R neither<br/>placed against 47 nor placed at the least prime<br/>number. U is not placed against third highest<br/>prime number. V is not adjacent to H.<br/>Which <br/>of <br/>the <br/>following <br/>letter <br/>is <br/>placed<br/>immediately above G ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "B",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ\nQ\n43\nN\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q<br/>Q<br/>43<br/>N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 17 prime numbers are written from top to\nbottom. The letter of the word “NOTCHING” are",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 17 prime numbers are written from top to<br/>bottom. The letter of the word “NOTCHING” are",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nFirst 17 prime numbers are written from top to\nbottom. The letter of the word “NOTCHING” are\nwritten in the same order against alternative\nprime numbers ( one letter against one number )\nfrom top to bottom starting from 3.\nM is placed against highest prime number.Only\nthree letters are placed between M and Q. Only\none letter is placed between V and Q. R is not\nplaced adjacent to C and H. Only five letters are\nplaced between R and P. Only three letters are\nplaced between X and W which is not placed\nbelow 5. Y is below X but above U. R neither\nplaced against 47 nor placed at the least prime\nnumber. U is not placed against third highest\nprime number. V is not adjacent to H.\nAs many letters are placed above Q is same as\nbelow _____?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>First 17 prime numbers are written from top to<br/>bottom. The letter of the word “NOTCHING” are<br/>written in the same order against alternative<br/>prime numbers ( one letter against one number )<br/>from top to bottom starting from 3.<br/>M is placed against highest prime number.Only<br/>three letters are placed between M and Q. Only<br/>one letter is placed between V and Q. R is not<br/>placed adjacent to C and H. Only five letters are<br/>placed between R and P. Only three letters are<br/>placed between X and W which is not placed<br/>below 5. Y is below X but above U. R neither<br/>placed against 47 nor placed at the least prime<br/>number. U is not placed against third highest<br/>prime number. V is not adjacent to H.<br/>As many letters are placed above Q is same as<br/>below _____?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "B",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "C",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ\nQ\n43\nN\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which\nis not placed below 5. Y is below X but above U.\nR neither placed against 47 nor placed at the\nleast prime number. \n \nNumbers Case-1 Case-2\n2\nW\nW\n3\nN\nN\n5\nR\nR\n7\nO\nO\n11\nX\nX\n13\nT\nT\n17\nY\nY\n19\nC\nC\n23\nP\nP",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q<br/>Q<br/>43<br/>N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which<br/>is not placed below 5. Y is below X but above U.<br/>R neither placed against 47 nor placed at the<br/>least prime number. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/>W<br/>W<br/>3<br/>N<br/>N<br/>5<br/>R<br/>R<br/>7<br/>O<br/>O<br/>11<br/>X<br/>X<br/>13<br/>T<br/>T<br/>17<br/>Y<br/>Y<br/>19<br/>C<br/>C<br/>23<br/>P<br/>P",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\nFirst 17 prime numbers are written from top to\nbottom. The letter of the word “NOTCHING” are\nwritten in the same order against alternative\nprime numbers ( one letter against one number )\nfrom top to bottom starting from 3.\nM is placed against highest prime number.Only\nthree letters are placed between M and Q. Only\none letter is placed between V and Q. R is not\nplaced adjacent to C and H. Only five letters are\nplaced between R and P. Only three letters are\nplaced between X and W which is not placed\nbelow 5. Y is below X but above U. R neither\nplaced against 47 nor placed at the least prime\nnumber. U is not placed against third highest\nprime number. V is not adjacent to H.\nWhich of the following letter is placed against\n5th highest prime number ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/>First 17 prime numbers are written from top to<br/>bottom. The letter of the word “NOTCHING” are<br/>written in the same order against alternative<br/>prime numbers ( one letter against one number )<br/>from top to bottom starting from 3.<br/>M is placed against highest prime number.Only<br/>three letters are placed between M and Q. Only<br/>one letter is placed between V and Q. R is not<br/>placed adjacent to C and H. Only five letters are<br/>placed between R and P. Only three letters are<br/>placed between X and W which is not placed<br/>below 5. Y is below X but above U. R neither<br/>placed against 47 nor placed at the least prime<br/>number. U is not placed against third highest<br/>prime number. V is not adjacent to H.<br/>Which of the following letter is placed against<br/>5th highest prime number ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "B",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 18 even numbers are written from top to\nbottom. The letter of the word “INCHOATE” are\nwritten in the same order against alternative\neven numbers ( one letter against one number )\nfrom top to bottom starting from 4.\nB is placed against at highest even number. Only\nfour letters are placed between B and D. Only\nthree letter are placed between M and D. Only\nfive letters are placed between P and Q which is\nnot placed below 18. P is not placed below Q. G is\nnot placed adjacent to H and T. M is not placed",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 18 even numbers are written from top to<br/>bottom. The letter of the word “INCHOATE” are<br/>written in the same order against alternative<br/>even numbers ( one letter against one number )<br/>from top to bottom starting from 4.<br/>B is placed against at highest even number. Only<br/>four letters are placed between B and D. Only<br/>three letter are placed between M and D. Only<br/>five letters are placed between P and Q which is<br/>not placed below 18. P is not placed below Q. G is<br/>not placed adjacent to H and T. M is not placed",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "From:- First 18 even numbers are written from\ntop to bottom. The letter of the word\n“INCHOATE” are written in the same order\nagainst alternative even numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 4.\nNumbers Letters\n2\n \n4\nI\n6",
+    "explanationHtml": "From:- First 18 even numbers are written from<br/>top to bottom. The letter of the word<br/>“INCHOATE” are written in the same order<br/>against alternative even numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 4.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>I<br/>6",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFirst 18 even numbers are written from top to\nbottom. The letter of the word “INCHOATE” are\nwritten in the same order against alternative\neven numbers ( one letter against one number )\nfrom top to bottom starting from 4.\nB is placed against at highest even number. Only\nfour letters are placed between B and D. Only\nthree letter are placed between M and D. Only\nfive letters are placed between P and Q which is\nnot placed below 18. P is not placed below Q. G is\nnot placed adjacent to H and T. M is not placed\nadjacent to T and A. G is placed above D but\nbelow Q. Only one letter are placed between G\nand J. Only three letters are placed between F\nand J. K is not placed below F and Q. One of the\nletter is L.\n \nHow many letters are placed below F ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>First 18 even numbers are written from top to<br/>bottom. The letter of the word “INCHOATE” are<br/>written in the same order against alternative<br/>even numbers ( one letter against one number )<br/>from top to bottom starting from 4.<br/>B is placed against at highest even number. Only<br/>four letters are placed between B and D. Only<br/>three letter are placed between M and D. Only<br/>five letters are placed between P and Q which is<br/>not placed below 18. P is not placed below Q. G is<br/>not placed adjacent to H and T. M is not placed<br/>adjacent to T and A. G is placed above D but<br/>below Q. Only one letter are placed between G<br/>and J. Only three letters are placed between F<br/>and J. K is not placed below F and Q. One of the<br/>letter is L.<br/> <br/>How many letters are placed below F ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "D",
+        "text": "17",
+        "html": "17"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "From:- First 18 even numbers are written from\ntop to bottom. The letter of the word\n“INCHOATE” are written in the same order\nagainst alternative even numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 4.\nNumbers Letters\n2\n \n4\nI\n6\n \n8\nN\n10\n \n12\nC\n14\n \n16\nH\n18\n \n20\nO\n22\n \n24\nA\n26\n \n28\nT\n30\n \n32\nE\n34\n \n36\n \nFrom:- B is placed against at highest even\nnumber. Only four letters are placed between B\nand D. Only three letter are placed between M\nand D. \nNumbers Case-1 Case-2\n2\n \n \n4\nI\nI\n6",
+    "explanationHtml": "From:- First 18 even numbers are written from<br/>top to bottom. The letter of the word<br/>“INCHOATE” are written in the same order<br/>against alternative even numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 4.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>I<br/>6<br/> <br/>8<br/>N<br/>10<br/> <br/>12<br/>C<br/>14<br/> <br/>16<br/>H<br/>18<br/> <br/>20<br/>O<br/>22<br/> <br/>24<br/>A<br/>26<br/> <br/>28<br/>T<br/>30<br/> <br/>32<br/>E<br/>34<br/> <br/>36<br/> <br/>From:- B is placed against at highest even<br/>number. Only four letters are placed between B<br/>and D. Only three letter are placed between M<br/>and D. <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>4<br/>I<br/>I<br/>6",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nThere are eight boxes namely i.e. P, B, R, G, W, Y,\nM and O. They are placed one above the other\nand contains different colour balls i.e. Black,\nWhite, Red, Lime, Blue, Yellow, Cyan, Magenta,\nSilver, Gray, Maroon, Olive, Green, Purple, Teal\nand Navy such that each box contains two balls\nbut not necessarily in the same order.\nBlack balls are in W and it cannot be in the same\nbox with Teal colour balls and Navy colour\nballs. Lime colour balls and Purple colour balls\nare in the box R. There are exactly four boxes\nbetween box Y and box P such that box Y is\nabove the box P and box P contains Gray colour\nballs and Green colour balls. Box O is\nimmediately below the box B. Silver colour balls\nand Maroon colour balls are in the box which is\nthird from the top. Box G contains White colour\nballs and Red colour balls. Cyan colour box and\nMagenta colour balls is immediately above the\nbox which contains Yellow colour balls and\nOrange colour balls respectively and both these\nboxes are above the 5th box from the top. The\nbox W is placed 4th from the top. The box M and\nbox R are at the bottom most and fourth from\nthe bottom respectively.\n \nHow many boxes are placed between the box\nO and the box that contains teal colour balls?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>There are eight boxes namely i.e. P, B, R, G, W, Y,<br/>M and O. They are placed one above the other<br/>and contains different colour balls i.e. Black,<br/>White, Red, Lime, Blue, Yellow, Cyan, Magenta,<br/>Silver, Gray, Maroon, Olive, Green, Purple, Teal<br/>and Navy such that each box contains two balls<br/>but not necessarily in the same order.<br/>Black balls are in W and it cannot be in the same<br/>box with Teal colour balls and Navy colour<br/>balls. Lime colour balls and Purple colour balls<br/>are in the box R. There are exactly four boxes<br/>between box Y and box P such that box Y is<br/>above the box P and box P contains Gray colour<br/>balls and Green colour balls. Box O is<br/>immediately below the box B. Silver colour balls<br/>and Maroon colour balls are in the box which is<br/>third from the top. Box G contains White colour<br/>balls and Red colour balls. Cyan colour box and<br/>Magenta colour balls is immediately above the<br/>box which contains Yellow colour balls and<br/>Orange colour balls respectively and both these<br/>boxes are above the 5th box from the top. The<br/>box W is placed 4th from the top. The box M and<br/>box R are at the bottom most and fourth from<br/>the bottom respectively.<br/> <br/>How many boxes are placed between the box<br/>O and the box that contains teal colour balls?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "C",
+        "text": "More than three",
+        "html": "More than three"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "We have,\n1. The box W is placed 4th from the top.\n2. The box M and box R are at the bottom most\nand fourth from the bottom respectively.\n3. Lime colour balls and Purple colour balls are in\nthe box R.\n4. Silver colour balls and Maroon colour balls are\nin the box which is third from the top.\n5. Cyan colour box and Magenta colour balls is\nimmediately above the box which contains\nYellow colour balls and Orange colour balls\nrespectively and both these boxes are above the\n5th box from the top. \n \n BOXES BALLS\n BALLS\n 8TH \n CYAN\n MAGENTA\n 7TH \n YELLOW ORANGE\n 6TH \n MAROON SILVER\n 5TH W\n \n \n 4TH R\n LIME\n PURPLE\n 3RD \n \n \n 2ND \n \n \n 1ST M\n \n \n6. There are exactly four boxes between box Y\nand box P such that box Y is above the box P and\nbox P contains Gray colour balls and Green\ncolour balls.\n7. Box O is immediately below the box B.\n8. Box G contains White colour balls and Red\ncolour balls. \n9. Black balls are in W and it cannot be in the\nsame box with Teal colour balls and Navy colour\nballs. \n \n BOXES BALLS\n BALLS\n 8TH Y\n CYAN\n MAGENTA\n 7TH B\n YELLOW ORANGE\n 6TH O\n MAROON SILVER\n 5TH W\n BLUE\n BLACK\n 4TH R\n LIME\n PURPLE\n 3RD P\n GRAY\n GREEN\n 2ND G\n WHITE\n RED\n 1ST M\n TEAL\n NAVY",
+    "explanationHtml": "We have,<br/>1. The box W is placed 4th from the top.<br/>2. The box M and box R are at the bottom most<br/>and fourth from the bottom respectively.<br/>3. Lime colour balls and Purple colour balls are in<br/>the box R.<br/>4. Silver colour balls and Maroon colour balls are<br/>in the box which is third from the top.<br/>5. Cyan colour box and Magenta colour balls is<br/>immediately above the box which contains<br/>Yellow colour balls and Orange colour balls<br/>respectively and both these boxes are above the<br/>5th box from the top. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH <br/> CYAN<br/> MAGENTA<br/> 7TH <br/> YELLOW ORANGE<br/> 6TH <br/> MAROON SILVER<br/> 5TH W<br/> <br/> <br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD <br/> <br/> <br/> 2ND <br/> <br/> <br/> 1ST M<br/> <br/> <br/>6. There are exactly four boxes between box Y<br/>and box P such that box Y is above the box P and<br/>box P contains Gray colour balls and Green<br/>colour balls.<br/>7. Box O is immediately below the box B.<br/>8. Box G contains White colour balls and Red<br/>colour balls. <br/>9. Black balls are in W and it cannot be in the<br/>same box with Teal colour balls and Navy colour<br/>balls. <br/> <br/> BOXES BALLS<br/> BALLS<br/> 8TH Y<br/> CYAN<br/> MAGENTA<br/> 7TH B<br/> YELLOW ORANGE<br/> 6TH O<br/> MAROON SILVER<br/> 5TH W<br/> BLUE<br/> BLACK<br/> 4TH R<br/> LIME<br/> PURPLE<br/> 3RD P<br/> GRAY<br/> GREEN<br/> 2ND G<br/> WHITE<br/> RED<br/> 1ST M<br/> TEAL<br/> NAVY",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "53",
+    "level": "",
+    "question": "G\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ",
+    "questionHtml": "G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [
+      {
+        "headers": [
+          "53",
+          "G"
+        ],
+        "rows": [
+          [
+            "59",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "5",
+          "R",
+          "R"
+        ],
+        "rows": [
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "X",
+            "X"
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "Y",
+            "Y"
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "P",
+            "P"
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "U",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            "U"
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "",
+            ""
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ],
+          [
+            "5",
+            "",
+            ""
+          ],
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "",
+            ""
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "",
+            ""
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "",
+            ""
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            ""
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "W"
+          ],
+          [
+            "3",
+            "N"
+          ],
+          [
+            "5",
+            "R"
+          ],
+          [
+            "7",
+            "O"
+          ],
+          [
+            "11",
+            "X"
+          ],
+          [
+            "13",
+            "T"
+          ],
+          [
+            "17",
+            "Y"
+          ],
+          [
+            "19",
+            "C"
+          ],
+          [
+            "23",
+            "P"
+          ],
+          [
+            "29",
+            "H"
+          ],
+          [
+            "31",
+            "U"
+          ],
+          [
+            "37",
+            "I"
+          ],
+          [
+            "41",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "W",
+            "W"
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "43",
+    "level": "",
+    "question": "N\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which\nis not placed below 5. Y is below X but above U.\nR neither placed against 47 nor placed at the\nleast prime number. \n \nNumbers Case-1 Case-2\n2\nW\nW\n3\nN\nN\n5\nR\nR\n7\nO\nO\n11\nX\nX\n13\nT\nT\n17\nY\nY\n19\nC\nC\n23\nP\nP\n29\nH\nH\n31\nU\nV\n37\nI\nI\n41\nQ",
+    "questionHtml": "N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which<br/>is not placed below 5. Y is below X but above U.<br/>R neither placed against 47 nor placed at the<br/>least prime number. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/>W<br/>W<br/>3<br/>N<br/>N<br/>5<br/>R<br/>R<br/>7<br/>O<br/>O<br/>11<br/>X<br/>X<br/>13<br/>T<br/>T<br/>17<br/>Y<br/>Y<br/>19<br/>C<br/>C<br/>23<br/>P<br/>P<br/>29<br/>H<br/>H<br/>31<br/>U<br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [
+      {
+        "headers": [
+          "53",
+          "G"
+        ],
+        "rows": [
+          [
+            "59",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "5",
+          "R",
+          "R"
+        ],
+        "rows": [
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "X",
+            "X"
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "Y",
+            "Y"
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "P",
+            "P"
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "U",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            "U"
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "",
+            ""
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ],
+          [
+            "5",
+            "",
+            ""
+          ],
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "",
+            ""
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "",
+            ""
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "",
+            ""
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            ""
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "W"
+          ],
+          [
+            "3",
+            "N"
+          ],
+          [
+            "5",
+            "R"
+          ],
+          [
+            "7",
+            "O"
+          ],
+          [
+            "11",
+            "X"
+          ],
+          [
+            "13",
+            "T"
+          ],
+          [
+            "17",
+            "Y"
+          ],
+          [
+            "19",
+            "C"
+          ],
+          [
+            "23",
+            "P"
+          ],
+          [
+            "29",
+            "H"
+          ],
+          [
+            "31",
+            "U"
+          ],
+          [
+            "37",
+            "I"
+          ],
+          [
+            "41",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "W",
+            "W"
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "43",
+    "level": "",
+    "question": "N\nN\n47\nV\nU\n53\nG\nG\n59\nM\nM\n \nFrom:- U is not placed against third highest prime\nnumber. V is not adjacent to H.\nFrom above the conditions Case-2 get eliminated\nand case-1 is the final arrangement.\n \nNumbers Letters\n2\nW\n3\nN\n5\nR\n7\nO\n11\nX\n13\nT\n17\nY\n19\nC\n23\nP\n29\nH\n31\nU\n37\nI\n41\nQ",
+    "questionHtml": "N<br/>N<br/>47<br/>V<br/>U<br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- U is not placed against third highest prime<br/>number. V is not adjacent to H.<br/>From above the conditions Case-2 get eliminated<br/>and case-1 is the final arrangement.<br/> <br/>Numbers Letters<br/>2<br/>W<br/>3<br/>N<br/>5<br/>R<br/>7<br/>O<br/>11<br/>X<br/>13<br/>T<br/>17<br/>Y<br/>19<br/>C<br/>23<br/>P<br/>29<br/>H<br/>31<br/>U<br/>37<br/>I<br/>41<br/>Q",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [
+      {
+        "headers": [
+          "53",
+          "G"
+        ],
+        "rows": [
+          [
+            "59",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "5",
+          "R",
+          "R"
+        ],
+        "rows": [
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "X",
+            "X"
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "Y",
+            "Y"
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "P",
+            "P"
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "U",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            "U"
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "",
+            ""
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ],
+          [
+            "5",
+            "",
+            ""
+          ],
+          [
+            "7",
+            "O",
+            "O"
+          ],
+          [
+            "11",
+            "",
+            ""
+          ],
+          [
+            "13",
+            "T",
+            "T"
+          ],
+          [
+            "17",
+            "",
+            ""
+          ],
+          [
+            "19",
+            "C",
+            "C"
+          ],
+          [
+            "23",
+            "",
+            ""
+          ],
+          [
+            "29",
+            "H",
+            "H"
+          ],
+          [
+            "31",
+            "",
+            "V"
+          ],
+          [
+            "37",
+            "I",
+            "I"
+          ],
+          [
+            "41",
+            "Q",
+            "Q"
+          ],
+          [
+            "43",
+            "N",
+            "N"
+          ],
+          [
+            "47",
+            "V",
+            ""
+          ],
+          [
+            "53",
+            "G",
+            "G"
+          ],
+          [
+            "59",
+            "M",
+            "M"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "W"
+          ],
+          [
+            "3",
+            "N"
+          ],
+          [
+            "5",
+            "R"
+          ],
+          [
+            "7",
+            "O"
+          ],
+          [
+            "11",
+            "X"
+          ],
+          [
+            "13",
+            "T"
+          ],
+          [
+            "17",
+            "Y"
+          ],
+          [
+            "19",
+            "C"
+          ],
+          [
+            "23",
+            "P"
+          ],
+          [
+            "29",
+            "H"
+          ],
+          [
+            "31",
+            "U"
+          ],
+          [
+            "37",
+            "I"
+          ],
+          [
+            "41",
+            "Q"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "W",
+            "W"
+          ],
+          [
+            "3",
+            "N",
+            "N"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "N\n10\n \n12\nC\n14\n \n16\nH\n18\n \n20\nO\n22\n \n24\nA\n26\n \n28\nT\n30\n \n32\nE\n34\n \n36\n \nFrom:- B is placed against at highest even\nnumber. Only four letters are placed between B\nand D. Only three letter are placed between M\nand D. \nNumbers Case-1 Case-2\n2\n \n \n4\nI\nI\n6\n \n \n8\nN\nN\n10\n \n \n12\nC\nC\n14\n \n \n16\nH\nH\n18\n \nM\n20\nO\nO\n22\n \n \n24\nA\nA\n26\nD\nD\n28\nT\nT\n30\n \n \n32\nE\nE\n34\nM\n \n36\nB\nB\nFrom:- Only five letters are placed between P and\nQ which is not placed below 18. P is not placed\nbelow Q.\nNumbers Case-1 Case 1(a) Case-2\n2\nP\n \nP\n4\nI\nI\nI\n6\n \nP\n \n8\nN\nN\nN\n10\n \n \n \n12\nC\nC\nC\n14\nQ",
+    "questionHtml": "N<br/>10<br/> <br/>12<br/>C<br/>14<br/> <br/>16<br/>H<br/>18<br/> <br/>20<br/>O<br/>22<br/> <br/>24<br/>A<br/>26<br/> <br/>28<br/>T<br/>30<br/> <br/>32<br/>E<br/>34<br/> <br/>36<br/> <br/>From:- B is placed against at highest even<br/>number. Only four letters are placed between B<br/>and D. Only three letter are placed between M<br/>and D. <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>4<br/>I<br/>I<br/>6<br/> <br/> <br/>8<br/>N<br/>N<br/>10<br/> <br/> <br/>12<br/>C<br/>C<br/>14<br/> <br/> <br/>16<br/>H<br/>H<br/>18<br/> <br/>M<br/>20<br/>O<br/>O<br/>22<br/> <br/> <br/>24<br/>A<br/>A<br/>26<br/>D<br/>D<br/>28<br/>T<br/>T<br/>30<br/> <br/> <br/>32<br/>E<br/>E<br/>34<br/>M<br/> <br/>36<br/>B<br/>B<br/>From:- Only five letters are placed between P and<br/>Q which is not placed below 18. P is not placed<br/>below Q.<br/>Numbers Case-1 Case 1(a) Case-2<br/>2<br/>P<br/> <br/>P<br/>4<br/>I<br/>I<br/>I<br/>6<br/> <br/>P<br/> <br/>8<br/>N<br/>N<br/>N<br/>10<br/> <br/> <br/> <br/>12<br/>C<br/>C<br/>C<br/>14<br/>Q",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [
+      {
+        "headers": [
+          "8",
+          "N"
+        ],
+        "rows": [
+          [
+            "10",
+            ""
+          ],
+          [
+            "12",
+            "C"
+          ],
+          [
+            "14",
+            ""
+          ],
+          [
+            "16",
+            "H"
+          ],
+          [
+            "18",
+            ""
+          ],
+          [
+            "20",
+            "O"
+          ],
+          [
+            "22",
+            ""
+          ],
+          [
+            "24",
+            "A"
+          ],
+          [
+            "26",
+            ""
+          ],
+          [
+            "28",
+            "T"
+          ],
+          [
+            "30",
+            ""
+          ],
+          [
+            "32",
+            "E"
+          ],
+          [
+            "34",
+            ""
+          ],
+          [
+            "36",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "32",
+          "E",
+          "E"
+        ],
+        "rows": [
+          [
+            "34",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "",
+            ""
+          ],
+          [
+            "16",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "H\nH\nH\n18\n \nQ\nM\n20\nO\nO\nO\n22\n \n \n \n24\nA\nA\nA\n26\nD\nD\nD\n28\nT\nT\nT\n30\n \n \n \n32\nE\nE\nE\n34\nM\nM\n \n36\nB\nB\nB\nFrom:- G is not placed adjacent to H and T. G is\nplaced above D but below Q. Only one letter are\nplaced between G and J.\nNumbers Case-1 Case 1(a) Case-2\n2\nP\n \nP\n4\nI\nI\nI\n6\n \nP\n \n8\nN\nN\nN\n10\n \n \n \n12\nC\nC\nC",
+    "questionHtml": "H<br/>H<br/>H<br/>18<br/> <br/>Q<br/>M<br/>20<br/>O<br/>O<br/>O<br/>22<br/> <br/> <br/> <br/>24<br/>A<br/>A<br/>A<br/>26<br/>D<br/>D<br/>D<br/>28<br/>T<br/>T<br/>T<br/>30<br/> <br/> <br/> <br/>32<br/>E<br/>E<br/>E<br/>34<br/>M<br/>M<br/> <br/>36<br/>B<br/>B<br/>B<br/>From:- G is not placed adjacent to H and T. G is<br/>placed above D but below Q. Only one letter are<br/>placed between G and J.<br/>Numbers Case-1 Case 1(a) Case-2<br/>2<br/>P<br/> <br/>P<br/>4<br/>I<br/>I<br/>I<br/>6<br/> <br/>P<br/> <br/>8<br/>N<br/>N<br/>N<br/>10<br/> <br/> <br/> <br/>12<br/>C<br/>C<br/>C",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ\nQ\n43\nN\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q<br/>Q<br/>43<br/>N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which",
+    "tables": [
+      {
+        "headers": [
+          "8",
+          "N"
+        ],
+        "rows": [
+          [
+            "10",
+            ""
+          ],
+          [
+            "12",
+            "C"
+          ],
+          [
+            "14",
+            ""
+          ],
+          [
+            "16",
+            "H"
+          ],
+          [
+            "18",
+            ""
+          ],
+          [
+            "20",
+            "O"
+          ],
+          [
+            "22",
+            ""
+          ],
+          [
+            "24",
+            "A"
+          ],
+          [
+            "26",
+            ""
+          ],
+          [
+            "28",
+            "T"
+          ],
+          [
+            "30",
+            ""
+          ],
+          [
+            "32",
+            "E"
+          ],
+          [
+            "34",
+            ""
+          ],
+          [
+            "36",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "32",
+          "E",
+          "E"
+        ],
+        "rows": [
+          [
+            "34",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "",
+            ""
+          ],
+          [
+            "16",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "N\nN\n10\n \n \n12\nC\nC\n14\n \n \n16\nH\nH\n18\n \nM\n20\nO\nO\n22\n \n \n24\nA\nA\n26\nD\nD\n28\nT\nT\n30\n \n \n32\nE\nE\n34\nM\n \n36\nB\nB\nFrom:- Only five letters are placed between P and\nQ which is not placed below 18. P is not placed\nbelow Q.\nNumbers Case-1 Case 1(a) Case-2\n2\nP\n \nP\n4\nI\nI\nI\n6\n \nP\n \n8\nN\nN\nN\n10\n \n \n \n12\nC\nC\nC\n14\nQ",
+    "questionHtml": "N<br/>N<br/>10<br/> <br/> <br/>12<br/>C<br/>C<br/>14<br/> <br/> <br/>16<br/>H<br/>H<br/>18<br/> <br/>M<br/>20<br/>O<br/>O<br/>22<br/> <br/> <br/>24<br/>A<br/>A<br/>26<br/>D<br/>D<br/>28<br/>T<br/>T<br/>30<br/> <br/> <br/>32<br/>E<br/>E<br/>34<br/>M<br/> <br/>36<br/>B<br/>B<br/>From:- Only five letters are placed between P and<br/>Q which is not placed below 18. P is not placed<br/>below Q.<br/>Numbers Case-1 Case 1(a) Case-2<br/>2<br/>P<br/> <br/>P<br/>4<br/>I<br/>I<br/>I<br/>6<br/> <br/>P<br/> <br/>8<br/>N<br/>N<br/>N<br/>10<br/> <br/> <br/> <br/>12<br/>C<br/>C<br/>C<br/>14<br/>Q",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "From:- First 13 even numbers are written from top\nto bottom. The letter of word “ADVENT” are\nwritten in the same order against each multiple\nof 4 (one letter against one number) from top to\nbottom.\nNumbers Letters\n2\n \n4\nA\n6\n \n8\nD\n10\n \n12\nV\n14\n \n16\nE",
+    "explanationHtml": "From:- First 13 even numbers are written from top<br/>to bottom. The letter of word “ADVENT” are<br/>written in the same order against each multiple<br/>of 4 (one letter against one number) from top to<br/>bottom.<br/>Numbers Letters<br/>2<br/> <br/>4<br/>A<br/>6<br/> <br/>8<br/>D<br/>10<br/> <br/>12<br/>V<br/>14<br/> <br/>16<br/>E",
+    "tables": [
+      {
+        "headers": [
+          "8",
+          "N",
+          "N"
+        ],
+        "rows": [
+          [
+            "10",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "",
+            ""
+          ],
+          [
+            "16",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "34",
+          "M",
+          "M",
+          ""
+        ],
+        "rows": [
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "J",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "G",
+            "G",
+            "G"
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "P"
+          ],
+          [
+            "4",
+            "I"
+          ],
+          [
+            "6",
+            "K"
+          ],
+          [
+            "8",
+            "N"
+          ],
+          [
+            "10",
+            "F"
+          ],
+          [
+            "12",
+            "C"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "H\nH\nH\n18\n \nQ\nM\n20\nO\nO\nO\n22\n \n \n \n24\nA\nA\nA\n26\nD\nD\nD\n28\nT\nT\nT\n30\n \n \n \n32\nE\nE\nE\n34\nM\nM\n \n36\nB\nB\nB\nFrom:- G is not placed adjacent to H and T. G is\nplaced above D but below Q. Only one letter are\nplaced between G and J.\nNumbers Case-1 Case 1(a) Case-2\n2\nP\n \nP\n4\nI\nI\nI\n6\n \nP\n \n8\nN\nN\nN\n10\n \n \n \n12\nC\nC\nC\n14\nQ",
+    "questionHtml": "H<br/>H<br/>H<br/>18<br/> <br/>Q<br/>M<br/>20<br/>O<br/>O<br/>O<br/>22<br/> <br/> <br/> <br/>24<br/>A<br/>A<br/>A<br/>26<br/>D<br/>D<br/>D<br/>28<br/>T<br/>T<br/>T<br/>30<br/> <br/> <br/> <br/>32<br/>E<br/>E<br/>E<br/>34<br/>M<br/>M<br/> <br/>36<br/>B<br/>B<br/>B<br/>From:- G is not placed adjacent to H and T. G is<br/>placed above D but below Q. Only one letter are<br/>placed between G and J.<br/>Numbers Case-1 Case 1(a) Case-2<br/>2<br/>P<br/> <br/>P<br/>4<br/>I<br/>I<br/>I<br/>6<br/> <br/>P<br/> <br/>8<br/>N<br/>N<br/>N<br/>10<br/> <br/> <br/> <br/>12<br/>C<br/>C<br/>C<br/>14<br/>Q",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ\nQ\n43\nN\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q<br/>Q<br/>43<br/>N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which",
+    "tables": [
+      {
+        "headers": [
+          "8",
+          "N",
+          "N"
+        ],
+        "rows": [
+          [
+            "10",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "",
+            ""
+          ],
+          [
+            "16",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "34",
+          "M",
+          "M",
+          ""
+        ],
+        "rows": [
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "J",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "G",
+            "G",
+            "G"
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "P"
+          ],
+          [
+            "4",
+            "I"
+          ],
+          [
+            "6",
+            "K"
+          ],
+          [
+            "8",
+            "N"
+          ],
+          [
+            "10",
+            "F"
+          ],
+          [
+            "12",
+            "C"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "H\nH\nH\n18\nJ\nQ\nM\n20\nO\nO\nO\n22\nG\nG\nG\n24\nA\nA\nA\n26\nD\nD\nD\n28\nT\nT\nT\n30\n \n \n \n32\nE\nE\nE\n34\nM\nM\n \n36\nB\nB\nB\nFrom above the conditions Case 1(a) and Case-2\nget eliminated so we consider the case-1\nFrom:- M is not placed adjacent to T and A. Only\nthree letters are placed between F and J. K is not\nplaced below F and Q. One of the letter is L. \nNumbers Letters\n2\nP\n4\nI\n6\nK\n8\nN\n10\nF\n12\nC",
+    "questionHtml": "H<br/>H<br/>H<br/>18<br/>J<br/>Q<br/>M<br/>20<br/>O<br/>O<br/>O<br/>22<br/>G<br/>G<br/>G<br/>24<br/>A<br/>A<br/>A<br/>26<br/>D<br/>D<br/>D<br/>28<br/>T<br/>T<br/>T<br/>30<br/> <br/> <br/> <br/>32<br/>E<br/>E<br/>E<br/>34<br/>M<br/>M<br/> <br/>36<br/>B<br/>B<br/>B<br/>From above the conditions Case 1(a) and Case-2<br/>get eliminated so we consider the case-1<br/>From:- M is not placed adjacent to T and A. Only<br/>three letters are placed between F and J. K is not<br/>placed below F and Q. One of the letter is L. <br/>Numbers Letters<br/>2<br/>P<br/>4<br/>I<br/>6<br/>K<br/>8<br/>N<br/>10<br/>F<br/>12<br/>C",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "From:- First 17 prime numbers are written from\ntop to bottom. The letter of the word\n“NOTCHING” are written in the same order\nagainst alternative prime numbers ( one letter\nagainst one number ) from top to bottom starting\nfrom 3.\n \nNumbers Letters\n2\n \n3\nN\n5\n \n7\nO\n11\n \n13\nT\n17\n \n19\nC\n23\n \n29\nH\n31\n \n37\nI\n41\n \n43\nN\n47\n \n53\nG\n59\n \n \nFrom:- M is placed against highest prime number.\nOnly three letters are placed between M and Q.\nOnly one letter is placed between V and Q. \n \nNumbers Case-1 Case-2\n2\n \n \n3\nN\nN\n5\n \n \n7\nO\nO\n11\n \n \n13\nT\nT\n17\n \n \n19\nC\nC\n23\n \n \n29\nH\nH\n31\n \nV\n37\nI\nI\n41\nQ\nQ\n43\nN\nN\n47\nV\n \n53\nG\nG\n59\nM\nM\n \nFrom:- R is not placed adjacent to C and H. Only\nfive letters are placed between R and P. Only\nthree letters are placed between X and W which",
+    "explanationHtml": "From:- First 17 prime numbers are written from<br/>top to bottom. The letter of the word<br/>“NOTCHING” are written in the same order<br/>against alternative prime numbers ( one letter<br/>against one number ) from top to bottom starting<br/>from 3.<br/> <br/>Numbers Letters<br/>2<br/> <br/>3<br/>N<br/>5<br/> <br/>7<br/>O<br/>11<br/> <br/>13<br/>T<br/>17<br/> <br/>19<br/>C<br/>23<br/> <br/>29<br/>H<br/>31<br/> <br/>37<br/>I<br/>41<br/> <br/>43<br/>N<br/>47<br/> <br/>53<br/>G<br/>59<br/> <br/> <br/>From:- M is placed against highest prime number.<br/>Only three letters are placed between M and Q.<br/>Only one letter is placed between V and Q. <br/> <br/>Numbers Case-1 Case-2<br/>2<br/> <br/> <br/>3<br/>N<br/>N<br/>5<br/> <br/> <br/>7<br/>O<br/>O<br/>11<br/> <br/> <br/>13<br/>T<br/>T<br/>17<br/> <br/> <br/>19<br/>C<br/>C<br/>23<br/> <br/> <br/>29<br/>H<br/>H<br/>31<br/> <br/>V<br/>37<br/>I<br/>I<br/>41<br/>Q<br/>Q<br/>43<br/>N<br/>N<br/>47<br/>V<br/> <br/>53<br/>G<br/>G<br/>59<br/>M<br/>M<br/> <br/>From:- R is not placed adjacent to C and H. Only<br/>five letters are placed between R and P. Only<br/>three letters are placed between X and W which",
+    "tables": [
+      {
+        "headers": [
+          "8",
+          "N",
+          "N"
+        ],
+        "rows": [
+          [
+            "10",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "",
+            ""
+          ],
+          [
+            "16",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "34",
+          "M",
+          "M",
+          ""
+        ],
+        "rows": [
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "J",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "G",
+            "G",
+            "G"
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ],
+          [
+            "34",
+            "M",
+            "M",
+            ""
+          ],
+          [
+            "36",
+            "B",
+            "B",
+            "B"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Case-1",
+          "Case 1(a)",
+          "Case-2"
+        ],
+        "rows": [
+          [
+            "2",
+            "P",
+            "",
+            "P"
+          ],
+          [
+            "4",
+            "I",
+            "I",
+            "I"
+          ],
+          [
+            "6",
+            "",
+            "P",
+            ""
+          ],
+          [
+            "8",
+            "N",
+            "N",
+            "N"
+          ],
+          [
+            "10",
+            "",
+            "",
+            ""
+          ],
+          [
+            "12",
+            "C",
+            "C",
+            "C"
+          ],
+          [
+            "14",
+            "Q",
+            "",
+            "Q"
+          ],
+          [
+            "16",
+            "H",
+            "H",
+            "H"
+          ],
+          [
+            "18",
+            "",
+            "Q",
+            "M"
+          ],
+          [
+            "20",
+            "O",
+            "O",
+            "O"
+          ],
+          [
+            "22",
+            "",
+            "",
+            ""
+          ],
+          [
+            "24",
+            "A",
+            "A",
+            "A"
+          ],
+          [
+            "26",
+            "D",
+            "D",
+            "D"
+          ],
+          [
+            "28",
+            "T",
+            "T",
+            "T"
+          ],
+          [
+            "30",
+            "",
+            "",
+            ""
+          ],
+          [
+            "32",
+            "E",
+            "E",
+            "E"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Numbers",
+          "Letters"
+        ],
+        "rows": [
+          [
+            "2",
+            "P"
+          ],
+          [
+            "4",
+            "I"
+          ],
+          [
+            "6",
+            "K"
+          ],
+          [
+            "8",
+            "N"
+          ],
+          [
+            "10",
+            "F"
+          ],
+          [
+            "12",
+            "C"
+          ]
+        ]
+      }
+    ],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "tabular",
+      "puzzle"
+    ],
+    "sourcePages": [
+      27
+    ]
+  }
+]

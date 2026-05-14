@@ -1,0 +1,1226 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju de\nlo”\n \nHow will \"build every\" be coded in the language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“every cities build nation” is coded as “bh ma ju<br/>lo”<br/>“build range part nation” is coded as “ ga bh nu<br/>ju”<br/>“try every making part” is coded as “ va de ma<br/>nu”<br/>“build cities peace making” is coded as “ bu ju de<br/>lo”<br/> <br/>How will \"build every\" be coded in the language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "nu ju",
+        "html": "nu ju"
+      },
+      {
+        "id": "B",
+        "text": "ju bh",
+        "html": "ju bh"
+      },
+      {
+        "id": "C",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      },
+      {
+        "id": "D",
+        "text": "ma bu",
+        "html": "ma bu"
+      },
+      {
+        "id": "E",
+        "text": "ju ma",
+        "html": "ju ma"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "build - ju\nnation - bh\nevery - ma\ncities - lo\npart - nu\nrange - ga\nmaking - de\ntry - va\npeace - bu",
+    "explanationHtml": "build - ju<br/>nation - bh<br/>every - ma<br/>cities - lo<br/>part - nu<br/>range - ga<br/>making - de<br/>try - va<br/>peace - bu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju de\nlo”\n \nIf \"peace ____ \" is coded as \"bu bh\" then which of\nthe following words should fill the blank?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“every cities build nation” is coded as “bh ma ju<br/>lo”<br/>“build range part nation” is coded as “ ga bh nu<br/>ju”<br/>“try every making part” is coded as “ va de ma<br/>nu”<br/>“build cities peace making” is coded as “ bu ju de<br/>lo”<br/> <br/>If \"peace ____ \" is coded as \"bu bh\" then which of<br/>the following words should fill the blank?",
+    "options": [
+      {
+        "id": "A",
+        "text": "try",
+        "html": "try"
+      },
+      {
+        "id": "B",
+        "text": "build",
+        "html": "build"
+      },
+      {
+        "id": "C",
+        "text": "every",
+        "html": "every"
+      },
+      {
+        "id": "D",
+        "text": "part",
+        "html": "part"
+      },
+      {
+        "id": "E",
+        "text": "Nation",
+        "html": "Nation"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "build - ju\nnation - bh\nevery - ma\ncities - lo\npart - nu\nrange - ga\nmaking - de\ntry - va\npeace - bu",
+    "explanationHtml": "build - ju<br/>nation - bh<br/>every - ma<br/>cities - lo<br/>part - nu<br/>range - ga<br/>making - de<br/>try - va<br/>peace - bu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“every cities build nation” is coded as “bh ma ju\nlo”\n“build range part nation” is coded as “ ga bh nu\nju”\n“try every making part” is coded as “ va de ma\nnu”\n“build cities peace making” is coded as “ bu ju de\nlo”\n \nWhat is the code for \"range cities\"?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“every cities build nation” is coded as “bh ma ju<br/>lo”<br/>“build range part nation” is coded as “ ga bh nu<br/>ju”<br/>“try every making part” is coded as “ va de ma<br/>nu”<br/>“build cities peace making” is coded as “ bu ju de<br/>lo”<br/> <br/>What is the code for \"range cities\"?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ga lo",
+        "html": "ga lo"
+      },
+      {
+        "id": "B",
+        "text": "nu ga",
+        "html": "nu ga"
+      },
+      {
+        "id": "C",
+        "text": "bu ga",
+        "html": "bu ga"
+      },
+      {
+        "id": "D",
+        "text": "lo bh",
+        "html": "lo bh"
+      },
+      {
+        "id": "E",
+        "text": "Can't be determined",
+        "html": "Can't be determined"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "build - ju\nnation - bh\nevery - ma\ncities - lo\npart - nu\nrange - ga\nmaking - de\ntry - va\npeace - bu",
+    "explanationHtml": "build - ju<br/>nation - bh<br/>every - ma<br/>cities - lo<br/>part - nu<br/>range - ga<br/>making - de<br/>try - va<br/>peace - bu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n \nCoding Decoding\nLevel-1",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“host will campaign side” is written as “rc gz ka<br/>qg”<br/> <br/>Coding Decoding<br/>Level-1",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "will - gz\ncampaign - ka\nhost - qg\nside - rc\nspeech - is\nbefore - ud\nnoise - ms\nseveral/area - ow/ej",
+    "explanationHtml": "will - gz<br/>campaign - ka<br/>host - qg<br/>side - rc<br/>speech - is<br/>before - ud<br/>noise - ms<br/>several/area - ow/ej",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as “ud\nqg ka is”\n“noise campaign side speech” is written as “ka ms\nis rc”\n“before several area will” is written as “ow ej gz\nud”\n \nWhat does the code ‘ms’ stand for in the given\ncode language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“host will campaign side” is written as “rc gz ka<br/>qg”<br/>“host campaign before speech” is written as “ud<br/>qg ka is”<br/>“noise campaign side speech” is written as “ka ms<br/>is rc”<br/>“before several area will” is written as “ow ej gz<br/>ud”<br/> <br/>What does the code ‘ms’ stand for in the given<br/>code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "noise",
+        "html": "noise"
+      },
+      {
+        "id": "B",
+        "text": "campaign",
+        "html": "campaign"
+      },
+      {
+        "id": "C",
+        "text": "side",
+        "html": "side"
+      },
+      {
+        "id": "D",
+        "text": "speech",
+        "html": "speech"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "will - gz\ncampaign - ka\nhost - qg\nside - rc\nspeech - is\nbefore - ud\nnoise - ms\nseveral/area - ow/ej",
+    "explanationHtml": "will - gz<br/>campaign - ka<br/>host - qg<br/>side - rc<br/>speech - is<br/>before - ud<br/>noise - ms<br/>several/area - ow/ej",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as “ud\nqg ka is”\n“noise campaign side speech” is written as “ka ms\nis rc”\n“before several area will” is written as “ow ej gz\nud”\n \nWhat does the code ‘qg’ stand for in the given\ncode language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“host will campaign side” is written as “rc gz ka<br/>qg”<br/>“host campaign before speech” is written as “ud<br/>qg ka is”<br/>“noise campaign side speech” is written as “ka ms<br/>is rc”<br/>“before several area will” is written as “ow ej gz<br/>ud”<br/> <br/>What does the code ‘qg’ stand for in the given<br/>code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "host",
+        "html": "host"
+      },
+      {
+        "id": "B",
+        "text": "campaign",
+        "html": "campaign"
+      },
+      {
+        "id": "C",
+        "text": "before",
+        "html": "before"
+      },
+      {
+        "id": "D",
+        "text": "speech",
+        "html": "speech"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "will - gz\ncampaign - ka\nhost - qg\nside - rc\nspeech - is\nbefore - ud\nnoise - ms\nseveral/area - ow/ej",
+    "explanationHtml": "will - gz<br/>campaign - ka<br/>host - qg<br/>side - rc<br/>speech - is<br/>before - ud<br/>noise - ms<br/>several/area - ow/ej",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“host will campaign side” is written as “rc gz ka\nqg”\n“host campaign before speech” is written as “ud\nqg ka is”\n“noise campaign side speech” is written as “ka ms\nis rc”\n“before several area will” is written as “ow ej gz\nud”\n \nWhich of the following is the code for “several\nspeech”in the given code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“host will campaign side” is written as “rc gz ka<br/>qg”<br/>“host campaign before speech” is written as “ud<br/>qg ka is”<br/>“noise campaign side speech” is written as “ka ms<br/>is rc”<br/>“before several area will” is written as “ow ej gz<br/>ud”<br/> <br/>Which of the following is the code for “several<br/>speech”in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ud gz",
+        "html": "ud gz"
+      },
+      {
+        "id": "B",
+        "text": "is ow",
+        "html": "is ow"
+      },
+      {
+        "id": "C",
+        "text": "is ej",
+        "html": "is ej"
+      },
+      {
+        "id": "D",
+        "text": "is ud",
+        "html": "is ud"
+      },
+      {
+        "id": "E",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "will - gz\ncampaign - ka\nhost - qg\nside - rc\nspeech - is\nbefore - ud\nnoise - ms\nseveral/area - ow/ej",
+    "explanationHtml": "will - gz<br/>campaign - ka<br/>host - qg<br/>side - rc<br/>speech - is<br/>before - ud<br/>noise - ms<br/>several/area - ow/ej",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "will - gz\ncampaign - ka\nhost - qg\nside - rc",
+    "explanationHtml": "will - gz<br/>campaign - ka<br/>host - qg<br/>side - rc",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq zg\nho”\n“order pending equality also” is coded as “yu bo\nzg ms”\nIf ‘equality center close’ is written as ‘cc yu ho’\nthen what would be the code of ‘close medical\norder’?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“now order from food” is coded as “oc ms na lq”<br/>“pending medical from also” is coded as “bo vm<br/>zg na”<br/>“center pending being now” is coded as “qe lq zg<br/>ho”<br/>“order pending equality also” is coded as “yu bo<br/>zg ms”<br/>If ‘equality center close’ is written as ‘cc yu ho’<br/>then what would be the code of ‘close medical<br/>order’?",
+    "options": [
+      {
+        "id": "A",
+        "text": "cc na lq",
+        "html": "cc na lq"
+      },
+      {
+        "id": "B",
+        "text": "yu bo ms",
+        "html": "yu bo ms"
+      },
+      {
+        "id": "C",
+        "text": "cc ms vm",
+        "html": "cc ms vm"
+      },
+      {
+        "id": "D",
+        "text": "qe zg lq",
+        "html": "qe zg lq"
+      },
+      {
+        "id": "E",
+        "text": "cc vm zg",
+        "html": "cc vm zg"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "from - na\nnow - lq\norder - ms\nfood - oc\npending - zg\nalso - bo\nmedical - vm\ncenter/being - ho/qe\nequality - yu",
+    "explanationHtml": "from - na<br/>now - lq<br/>order - ms<br/>food - oc<br/>pending - zg<br/>also - bo<br/>medical - vm<br/>center/being - ho/qe<br/>equality - yu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq zg\nho”\n“order pending equality also” is coded as “yu bo\nzg ms”\nWhat does the code ‘qe’ stand for in the given\ncode language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“now order from food” is coded as “oc ms na lq”<br/>“pending medical from also” is coded as “bo vm<br/>zg na”<br/>“center pending being now” is coded as “qe lq zg<br/>ho”<br/>“order pending equality also” is coded as “yu bo<br/>zg ms”<br/>What does the code ‘qe’ stand for in the given<br/>code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "also",
+        "html": "also"
+      },
+      {
+        "id": "B",
+        "text": "pending",
+        "html": "pending"
+      },
+      {
+        "id": "C",
+        "text": "Either ‘pending’ or ‘medical’",
+        "html": "Either ‘pending’ or ‘medical’"
+      },
+      {
+        "id": "D",
+        "text": "now",
+        "html": "now"
+      },
+      {
+        "id": "E",
+        "text": "Either 'Center' or 'being'",
+        "html": "Either 'Center' or 'being'"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "from - na\nnow - lq\norder - ms\nfood - oc\npending - zg\nalso - bo\nmedical - vm\ncenter/being - ho/qe\nequality - yu",
+    "explanationHtml": "from - na<br/>now - lq<br/>order - ms<br/>food - oc<br/>pending - zg<br/>also - bo<br/>medical - vm<br/>center/being - ho/qe<br/>equality - yu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq zg\nho”\n“order pending equality also” is coded as “yu bo\nzg ms”\nWhich of the following is the code for ‘also’ in the\ngiven code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“now order from food” is coded as “oc ms na lq”<br/>“pending medical from also” is coded as “bo vm<br/>zg na”<br/>“center pending being now” is coded as “qe lq zg<br/>ho”<br/>“order pending equality also” is coded as “yu bo<br/>zg ms”<br/>Which of the following is the code for ‘also’ in the<br/>given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "yu",
+        "html": "yu"
+      },
+      {
+        "id": "B",
+        "text": "zg",
+        "html": "zg"
+      },
+      {
+        "id": "C",
+        "text": "na",
+        "html": "na"
+      },
+      {
+        "id": "D",
+        "text": "bo",
+        "html": "bo"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "from - na\nnow - lq\norder - ms\nfood - oc\npending - zg\nalso - bo\nmedical - vm\ncenter/being - ho/qe\nequality - yu",
+    "explanationHtml": "from - na<br/>now - lq<br/>order - ms<br/>food - oc<br/>pending - zg<br/>also - bo<br/>medical - vm<br/>center/being - ho/qe<br/>equality - yu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“now order from food” is coded as “oc ms na lq”<br/>“pending medical from also” is coded as “bo vm<br/>zg na”",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "from - na\nnow - lq\norder - ms\nfood - oc\npending - zg\nalso - bo\nmedical - vm\ncenter/being - ho/qe\nequality - yu",
+    "explanationHtml": "from - na<br/>now - lq<br/>order - ms<br/>food - oc<br/>pending - zg<br/>also - bo<br/>medical - vm<br/>center/being - ho/qe<br/>equality - yu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“now order from food” is coded as “oc ms na lq”\n“pending medical from also” is coded as “bo vm\nzg na”\n“center pending being now” is coded as “qe lq zg\nho”\n“order pending equality also” is coded as “yu bo\nzg ms”\n \nWhich of the following is the code for ‘now\npending’ in the given code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“now order from food” is coded as “oc ms na lq”<br/>“pending medical from also” is coded as “bo vm<br/>zg na”<br/>“center pending being now” is coded as “qe lq zg<br/>ho”<br/>“order pending equality also” is coded as “yu bo<br/>zg ms”<br/> <br/>Which of the following is the code for ‘now<br/>pending’ in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "lq zg",
+        "html": "lq zg"
+      },
+      {
+        "id": "B",
+        "text": "vm na",
+        "html": "vm na"
+      },
+      {
+        "id": "C",
+        "text": "ho qe",
+        "html": "ho qe"
+      },
+      {
+        "id": "D",
+        "text": "lq ho",
+        "html": "lq ho"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "from - na\nnow - lq\norder - ms\nfood - oc\npending - zg\nalso - bo\nmedical - vm\ncenter/being - ho/qe\nequality - yu",
+    "explanationHtml": "from - na<br/>now - lq<br/>order - ms<br/>food - oc<br/>pending - zg<br/>also - bo<br/>medical - vm<br/>center/being - ho/qe<br/>equality - yu",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us uh\nkl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\n \nWhat does the code ‘og’ stand for in the given\ncode language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“sure past crime post” is written as “us dr om pl”<br/>“minor past work age sure” is written as “ak us uh<br/>kl pl”<br/>“crime course age step” is written as “kl om og<br/>am”<br/>“minor for step past” is written as “pl og uh en”<br/> <br/>What does the code ‘og’ stand for in the given<br/>code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "course",
+        "html": "course"
+      },
+      {
+        "id": "B",
+        "text": "crime",
+        "html": "crime"
+      },
+      {
+        "id": "C",
+        "text": "sure",
+        "html": "sure"
+      },
+      {
+        "id": "D",
+        "text": "step",
+        "html": "step"
+      },
+      {
+        "id": "E",
+        "text": "age",
+        "html": "age"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "crime - om\npast - pl\nsure - us\npost - dr\nage - kl\nminor - uh\nwork - ak\nstep - og\ncourse - am\nfor - en",
+    "explanationHtml": "crime - om<br/>past - pl<br/>sure - us<br/>post - dr<br/>age - kl<br/>minor - uh<br/>work - ak<br/>step - og<br/>course - am<br/>for - en",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us uh\nkl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\n \nWhat does the code ‘uh’ stand for in the given\ncode language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“sure past crime post” is written as “us dr om pl”<br/>“minor past work age sure” is written as “ak us uh<br/>kl pl”<br/>“crime course age step” is written as “kl om og<br/>am”<br/>“minor for step past” is written as “pl og uh en”<br/> <br/>What does the code ‘uh’ stand for in the given<br/>code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "minor",
+        "html": "minor"
+      },
+      {
+        "id": "B",
+        "text": "work",
+        "html": "work"
+      },
+      {
+        "id": "C",
+        "text": "course",
+        "html": "course"
+      },
+      {
+        "id": "D",
+        "text": "for",
+        "html": "for"
+      },
+      {
+        "id": "E",
+        "text": "step",
+        "html": "step"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "crime - om\npast - pl\nsure - us\npost - dr\nage - kl\nminor - uh\nwork - ak\nstep - og\ncourse - am\nfor - en",
+    "explanationHtml": "crime - om<br/>past - pl<br/>sure - us<br/>post - dr<br/>age - kl<br/>minor - uh<br/>work - ak<br/>step - og<br/>course - am<br/>for - en",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us uh\nkl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\n \nWhich of the following is the code for ‘for school’\nin the given code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“sure past crime post” is written as “us dr om pl”<br/>“minor past work age sure” is written as “ak us uh<br/>kl pl”<br/>“crime course age step” is written as “kl om og<br/>am”<br/>“minor for step past” is written as “pl og uh en”<br/> <br/>Which of the following is the code for ‘for school’<br/>in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "en ak",
+        "html": "en ak"
+      },
+      {
+        "id": "B",
+        "text": "uh en",
+        "html": "uh en"
+      },
+      {
+        "id": "C",
+        "text": "en om",
+        "html": "en om"
+      },
+      {
+        "id": "D",
+        "text": "vt en",
+        "html": "vt en"
+      },
+      {
+        "id": "E",
+        "text": "en us",
+        "html": "en us"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "crime - om\npast - pl\nsure - us\npost - dr\nage - kl\nminor - uh\nwork - ak\nstep - og\ncourse - am\nfor - en",
+    "explanationHtml": "crime - om<br/>past - pl<br/>sure - us<br/>post - dr<br/>age - kl<br/>minor - uh<br/>work - ak<br/>step - og<br/>course - am<br/>for - en",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us uh\nkl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\n \nWhich of the following is the code for “age” in\nthe given code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“sure past crime post” is written as “us dr om pl”<br/>“minor past work age sure” is written as “ak us uh<br/>kl pl”<br/>“crime course age step” is written as “kl om og<br/>am”<br/>“minor for step past” is written as “pl og uh en”<br/> <br/>Which of the following is the code for “age” in<br/>the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "dr",
+        "html": "dr"
+      },
+      {
+        "id": "B",
+        "text": "am",
+        "html": "am"
+      },
+      {
+        "id": "C",
+        "text": "pl",
+        "html": "pl"
+      },
+      {
+        "id": "D",
+        "text": "og",
+        "html": "og"
+      },
+      {
+        "id": "E",
+        "text": "kl",
+        "html": "kl"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "crime - om\npast - pl\nsure - us\npost - dr\nage - kl\nminor - uh\nwork - ak\nstep - og\ncourse - am\nfor - en",
+    "explanationHtml": "crime - om<br/>past - pl<br/>sure - us<br/>post - dr<br/>age - kl<br/>minor - uh<br/>work - ak<br/>step - og<br/>course - am<br/>for - en",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“sure past crime post” is written as “us dr om pl”\n“minor past work age sure” is written as “ak us uh\nkl pl”\n“crime course age step” is written as “kl om og\nam”\n“minor for step past” is written as “pl og uh en”\n \nWhich of the following is the code for “post age\ncourse” in the given code language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“sure past crime post” is written as “us dr om pl”<br/>“minor past work age sure” is written as “ak us uh<br/>kl pl”<br/>“crime course age step” is written as “kl om og<br/>am”<br/>“minor for step past” is written as “pl og uh en”<br/> <br/>Which of the following is the code for “post age<br/>course” in the given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "am kl pl",
+        "html": "am kl pl"
+      },
+      {
+        "id": "B",
+        "text": "pl dr am",
+        "html": "pl dr am"
+      },
+      {
+        "id": "C",
+        "text": "am dr kl",
+        "html": "am dr kl"
+      },
+      {
+        "id": "D",
+        "text": "pl dr kl",
+        "html": "pl dr kl"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "crime - om\npast - pl\nsure - us\npost - dr\nage - kl\nminor - uh\nwork - ak\nstep - og\ncourse - am\nfor - en",
+    "explanationHtml": "crime - om<br/>past - pl<br/>sure - us<br/>post - dr<br/>age - kl<br/>minor - uh<br/>work - ak<br/>step - og<br/>course - am<br/>for - en",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd nm\ntn”\n“high of sector people” is coded as “tb kj rd cl”\n \nHow can \"high range\" be coded in the\nlanguage?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“value of high tech” is coded as “ub nm kj cl”<br/>“high million world tech” is coded as “ ng ub tn<br/>kj”<br/>“scale value people world” is coded as “xv rd nm<br/>tn”<br/>“high of sector people” is coded as “tb kj rd cl”<br/> <br/>How can \"high range\" be coded in the<br/>language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "tn kj",
+        "html": "tn kj"
+      },
+      {
+        "id": "B",
+        "text": "kj ub",
+        "html": "kj ub"
+      },
+      {
+        "id": "C",
+        "text": "nm kj",
+        "html": "nm kj"
+      },
+      {
+        "id": "D",
+        "text": "nm tb",
+        "html": "nm tb"
+      },
+      {
+        "id": "E",
+        "text": "kj pl",
+        "html": "kj pl"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "high - kj\ntech - ub\nvalue - nm\nof - cl\nworld - tn\nmillion - ng\npeople - rd\nscale - xv\nsector - tb",
+    "explanationHtml": "high - kj<br/>tech - ub<br/>value - nm<br/>of - cl<br/>world - tn<br/>million - ng<br/>people - rd<br/>scale - xv<br/>sector - tb",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd nm\ntn”\n“high of sector people” is coded as “tb kj rd cl”\n \nHow is \"scale\" coded in the given language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“value of high tech” is coded as “ub nm kj cl”<br/>“high million world tech” is coded as “ ng ub tn<br/>kj”<br/>“scale value people world” is coded as “xv rd nm<br/>tn”<br/>“high of sector people” is coded as “tb kj rd cl”<br/> <br/>How is \"scale\" coded in the given language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "tn",
+        "html": "tn"
+      },
+      {
+        "id": "B",
+        "text": "rd",
+        "html": "rd"
+      },
+      {
+        "id": "C",
+        "text": "xv",
+        "html": "xv"
+      },
+      {
+        "id": "D",
+        "text": "nm",
+        "html": "nm"
+      },
+      {
+        "id": "E",
+        "text": "tb",
+        "html": "tb"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "high - kj\ntech - ub\nvalue - nm\nof - cl\nworld - tn\nmillion - ng\npeople - rd\nscale - xv\nsector - tb",
+    "explanationHtml": "high - kj<br/>tech - ub<br/>value - nm<br/>of - cl<br/>world - tn<br/>million - ng<br/>people - rd<br/>scale - xv<br/>sector - tb",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd nm\ntn”\n“high of sector people” is coded as “tb kj rd cl”\n \nHow is \"sector” coded in the given language?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“value of high tech” is coded as “ub nm kj cl”<br/>“high million world tech” is coded as “ ng ub tn<br/>kj”<br/>“scale value people world” is coded as “xv rd nm<br/>tn”<br/>“high of sector people” is coded as “tb kj rd cl”<br/> <br/>How is \"sector” coded in the given language?",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "high - kj\ntech - ub\nvalue - nm\nof - cl\nworld - tn\nmillion - ng\npeople - rd\nscale - xv\nsector - tb",
+    "explanationHtml": "high - kj<br/>tech - ub<br/>value - nm<br/>of - cl<br/>world - tn<br/>million - ng<br/>people - rd<br/>scale - xv<br/>sector - tb",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd nm\ntn”\n“high of sector people” is coded as “tb kj rd cl”\n \nIf \"sector ____ \" is coded as \"tb ub\" then which\nof the following words should fill the blank?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“value of high tech” is coded as “ub nm kj cl”<br/>“high million world tech” is coded as “ ng ub tn<br/>kj”<br/>“scale value people world” is coded as “xv rd nm<br/>tn”<br/>“high of sector people” is coded as “tb kj rd cl”<br/> <br/>If \"sector ____ \" is coded as \"tb ub\" then which<br/>of the following words should fill the blank?",
+    "options": [
+      {
+        "id": "A",
+        "text": "tech",
+        "html": "tech"
+      },
+      {
+        "id": "B",
+        "text": "high",
+        "html": "high"
+      },
+      {
+        "id": "C",
+        "text": "value",
+        "html": "value"
+      },
+      {
+        "id": "D",
+        "text": "world",
+        "html": "world"
+      },
+      {
+        "id": "E",
+        "text": "million",
+        "html": "million"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "high - kj\ntech - ub\nvalue - nm\nof - cl\nworld - tn\nmillion - ng\npeople - rd\nscale - xv\nsector - tb",
+    "explanationHtml": "high - kj<br/>tech - ub<br/>value - nm<br/>of - cl<br/>world - tn<br/>million - ng<br/>people - rd<br/>scale - xv<br/>sector - tb",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "Level-1",
+    "question": "Study the following information carefully and\nanswer the questions given beside:\n \nIn a certain code language,\n“value of high tech” is coded as “ub nm kj cl”\n“high million world tech” is coded as “ ng ub tn\nkj”\n“scale value people world” is coded as “xv rd nm\ntn”\n“high of sector people” is coded as “tb kj rd cl”\n \nWhat is the code for \"million of\" ?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions given beside:<br/> <br/>In a certain code language,<br/>“value of high tech” is coded as “ub nm kj cl”<br/>“high million world tech” is coded as “ ng ub tn<br/>kj”<br/>“scale value people world” is coded as “xv rd nm<br/>tn”<br/>“high of sector people” is coded as “tb kj rd cl”<br/> <br/>What is the code for \"million of\" ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "kj ng",
+        "html": "kj ng"
+      },
+      {
+        "id": "B",
+        "text": "tn ng",
+        "html": "tn ng"
+      },
+      {
+        "id": "C",
+        "text": "ng cl",
+        "html": "ng cl"
+      },
+      {
+        "id": "D",
+        "text": "cl ub",
+        "html": "cl ub"
+      },
+      {
+        "id": "E",
+        "text": "cl kj",
+        "html": "cl kj"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "high - kj\ntech - ub",
+    "explanationHtml": "high - kj<br/>tech - ub",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "Level-1",
+    "question": "Study the given information and answer the\nquestions below:\n \nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo io’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd mo\nsp’\n \nThe code ‘ip’ stands for which among the\nfollowing?",
+    "questionHtml": "Study the given information and answer the<br/>questions below:<br/> <br/>In a certain code language<br/>‘Apple peach pear fruit’ is coded as ‘va sp ip gf’<br/>‘Festival fruit online order’ is coded as ‘of gf vo io’<br/>‘Online order deliver apple’ is coded as ‘io vo id<br/>va’<br/>‘Festival discount on peach’ is coded as ‘of gd mo<br/>sp’<br/> <br/>The code ‘ip’ stands for which among the<br/>following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pear",
+        "html": "Pear"
+      },
+      {
+        "id": "B",
+        "text": "Peach",
+        "html": "Peach"
+      },
+      {
+        "id": "C",
+        "text": "Festival",
+        "html": "Festival"
+      },
+      {
+        "id": "D",
+        "text": "discount",
+        "html": "discount"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Code for ‘pear’ is ‘ip’",
+    "explanationHtml": "Code for ‘pear’ is ‘ip’",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "Level-1",
+    "question": "Study the given information and answer the\nquestions below:\n \nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo io’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd mo\nsp’\n \nThe code ‘mo io ip’ stands for which among the\nfollowing?",
+    "questionHtml": "Study the given information and answer the<br/>questions below:<br/> <br/>In a certain code language<br/>‘Apple peach pear fruit’ is coded as ‘va sp ip gf’<br/>‘Festival fruit online order’ is coded as ‘of gf vo io’<br/>‘Online order deliver apple’ is coded as ‘io vo id<br/>va’<br/>‘Festival discount on peach’ is coded as ‘of gd mo<br/>sp’<br/> <br/>The code ‘mo io ip’ stands for which among the<br/>following?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Discount Deliver Online",
+        "html": "Discount Deliver Online"
+      },
+      {
+        "id": "B",
+        "text": "Order Online Pear",
+        "html": "Order Online Pear"
+      },
+      {
+        "id": "C",
+        "text": "Pear Online On",
+        "html": "Pear Online On"
+      },
+      {
+        "id": "D",
+        "text": "Discount Pear Order",
+        "html": "Discount Pear Order"
+      },
+      {
+        "id": "E",
+        "text": "Either (c) or (d)",
+        "html": "Either (c) or (d)"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Either (c) or (d)",
+    "explanationHtml": "Either (c) or (d)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "Level-1",
+    "question": "Study the given information and answer the\nquestions below:\n \nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo io’",
+    "questionHtml": "Study the given information and answer the<br/>questions below:<br/> <br/>In a certain code language<br/>‘Apple peach pear fruit’ is coded as ‘va sp ip gf’<br/>‘Festival fruit online order’ is coded as ‘of gf vo io’",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Code for ‘deliver’ is ‘id’.",
+    "explanationHtml": "Code for ‘deliver’ is ‘id’.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "Level-1",
+    "question": "Study the given information and answer the\nquestions below:\n \nIn a certain code language\n‘Apple peach pear fruit’ is coded as ‘va sp ip gf’\n‘Festival fruit online order’ is coded as ‘of gf vo io’\n‘Online order deliver apple’ is coded as ‘io vo id\nva’\n‘Festival discount on peach’ is coded as ‘of gd mo\nsp’\n \nWhat will be the code for ‘online deliver’ in the\ngiven code language?",
+    "questionHtml": "Study the given information and answer the<br/>questions below:<br/> <br/>In a certain code language<br/>‘Apple peach pear fruit’ is coded as ‘va sp ip gf’<br/>‘Festival fruit online order’ is coded as ‘of gf vo io’<br/>‘Online order deliver apple’ is coded as ‘io vo id<br/>va’<br/>‘Festival discount on peach’ is coded as ‘of gd mo<br/>sp’<br/> <br/>What will be the code for ‘online deliver’ in the<br/>given code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "vo io",
+        "html": "vo io"
+      },
+      {
+        "id": "B",
+        "text": "va vo",
+        "html": "va vo"
+      },
+      {
+        "id": "C",
+        "text": "id ip",
+        "html": "id ip"
+      },
+      {
+        "id": "D",
+        "text": "vo id",
+        "html": "vo id"
+      },
+      {
+        "id": "E",
+        "text": "io gd",
+        "html": "io gd"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Code for ‘online deliver is ‘vo id’",
+    "explanationHtml": "Code for ‘online deliver is ‘vo id’",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "28",
+    "level": "Level-1",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\n \nTABLE CHAIR DESK BOX is coded as 719 448 517\n822\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822\n \nWhich among the following is the incorrect code\nin the underlined statement?",
+    "questionHtml": "Study the following arrangement carefully and<br/>answer the questions given below. One of the<br/>codes in the underlined statement is incorrect.<br/>In a certain coded language some statements<br/>are coded as follows:<br/> <br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822<br/>STAND BOX STOOL SOFA is coded as 198 590<br/>517 407<br/>CHAIR STOOL STAND BOARD COVER is coded<br/>as 407 591 ??? 822 667<br/>BOARD STAND TABLE CHAIR DECK is coded as<br/>591 719 ]]] 407 822<br/> <br/>Which among the following is the incorrect code<br/>in the underlined statement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "590",
+        "html": "590"
+      },
+      {
+        "id": "B",
+        "text": "517",
+        "html": "517"
+      },
+      {
+        "id": "C",
+        "text": "407",
+        "html": "407"
+      },
+      {
+        "id": "D",
+        "text": "198",
+        "html": "198"
+      },
+      {
+        "id": "E",
+        "text": "Either 590 or 198",
+        "html": "Either 590 or 198"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "It is given that,\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822 ..................................(I)\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407 ................................(II)\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667........(III)\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822.............(IV)\nFrom I and II, BOX == 517.\nFrom II, III and IV, STAND == 407.\nFrom I, III and IV, CHAIR == 822.\nFrom I and IV, TABLE == 719.\nFrom I, DESK == 448.\nFrom III and IV, BOARD == 591.\nFrom IV, DECK == ]]]\nFrom II, STOOL SOFA == 198 590 (Here, one of\nthe codes is incorrect.)\nFrom III, STOOL COVER == ??? 667\nHere, either 590 or 198 is the incorrect code.",
+    "explanationHtml": "It is given that,<br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822 ..................................(I)<br/>STAND BOX STOOL SOFA is coded as 198 590<br/>517 407 ................................(II)<br/>CHAIR STOOL STAND BOARD COVER is coded<br/>as 407 591 ??? 822 667........(III)<br/>BOARD STAND TABLE CHAIR DECK is coded as<br/>591 719 ]]] 407 822.............(IV)<br/>From I and II, BOX == 517.<br/>From II, III and IV, STAND == 407.<br/>From I, III and IV, CHAIR == 822.<br/>From I and IV, TABLE == 719.<br/>From I, DESK == 448.<br/>From III and IV, BOARD == 591.<br/>From IV, DECK == ]]]<br/>From II, STOOL SOFA == 198 590 (Here, one of<br/>the codes is incorrect.)<br/>From III, STOOL COVER == ??? 667<br/>Here, either 590 or 198 is the incorrect code.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "Level-1",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\n \nTABLE CHAIR DESK BOX is coded as 719 448 517\n822\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822\n \nWhich of the following codes can replace '???' ?",
+    "questionHtml": "Study the following arrangement carefully and<br/>answer the questions given below. One of the<br/>codes in the underlined statement is incorrect.<br/>In a certain coded language some statements<br/>are coded as follows:<br/> <br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822<br/>STAND BOX STOOL SOFA is coded as 198 590<br/>517 407<br/>CHAIR STOOL STAND BOARD COVER is coded<br/>as 407 591 ??? 822 667<br/>BOARD STAND TABLE CHAIR DECK is coded as<br/>591 719 ]]] 407 822<br/> <br/>Which of the following codes can replace '???' ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "512",
+        "html": "512"
+      },
+      {
+        "id": "B",
+        "text": "591",
+        "html": "591"
+      },
+      {
+        "id": "C",
+        "text": "822",
+        "html": "822"
+      },
+      {
+        "id": "D",
+        "text": "448",
+        "html": "448"
+      },
+      {
+        "id": "E",
+        "text": "517",
+        "html": "517"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "It is given that,\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822 ..................................(I)\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407 ................................(II)\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667........(III)\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822.............(IV)",
+    "explanationHtml": "It is given that,<br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822 ..................................(I)<br/>STAND BOX STOOL SOFA is coded as 198 590<br/>517 407 ................................(II)<br/>CHAIR STOOL STAND BOARD COVER is coded<br/>as 407 591 ??? 822 667........(III)<br/>BOARD STAND TABLE CHAIR DECK is coded as<br/>591 719 ]]] 407 822.............(IV)",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "Level-1",
+    "question": "Study the following arrangement carefully and\nanswer the questions given below. One of the\ncodes in the underlined statement is incorrect.\nIn a certain coded language some statements\nare coded as follows:\n \nTABLE CHAIR DESK BOX is coded as 719 448 517\n822",
+    "questionHtml": "Study the following arrangement carefully and<br/>answer the questions given below. One of the<br/>codes in the underlined statement is incorrect.<br/>In a certain coded language some statements<br/>are coded as follows:<br/> <br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "It is given that,\nTABLE CHAIR DESK BOX is coded as 719 448 517\n822 ..................................(I)\nSTAND BOX STOOL SOFA is coded as 198 590\n517 407 ................................(II)\nCHAIR STOOL STAND BOARD COVER is coded\nas 407 591 ??? 822 667........(III)\nBOARD STAND TABLE CHAIR DECK is coded as\n591 719 ]]] 407 822.............(IV)\nFrom I and II, BOX == 517.\nFrom II, III and IV, STAND == 407.\nFrom I, III and IV, CHAIR == 822.\nFrom I and IV, TABLE == 719.\nFrom I, DESK == 448.\nFrom III and IV, BOARD == 591.\nFrom IV, DECK == ]]]\nFrom II, STOOL SOFA == 198 590 (Here, one of\nthe codes is incorrect.)\nFrom III, STOOL COVER == ??? 667\nHere, '728' is the only code which can replace\n']]]''. As,\na) 407 == STAND\nb) 822 == CHAIR\nc) 448 == DESK\nd) 517 == BOX",
+    "explanationHtml": "It is given that,<br/>TABLE CHAIR DESK BOX is coded as 719 448 517<br/>822 ..................................(I)<br/>STAND BOX STOOL SOFA is coded as 198 590<br/>517 407 ................................(II)<br/>CHAIR STOOL STAND BOARD COVER is coded<br/>as 407 591 ??? 822 667........(III)<br/>BOARD STAND TABLE CHAIR DECK is coded as<br/>591 719 ]]] 407 822.............(IV)<br/>From I and II, BOX == 517.<br/>From II, III and IV, STAND == 407.<br/>From I, III and IV, CHAIR == 822.<br/>From I and IV, TABLE == 719.<br/>From I, DESK == 448.<br/>From III and IV, BOARD == 591.<br/>From IV, DECK == ]]]<br/>From II, STOOL SOFA == 198 590 (Here, one of<br/>the codes is incorrect.)<br/>From III, STOOL COVER == ??? 667<br/>Here, '728' is the only code which can replace<br/>']]]''. As,<br/>a) 407 == STAND<br/>b) 822 == CHAIR<br/>c) 448 == DESK<br/>d) 517 == BOX",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "coding",
+      "decoding"
+    ],
+    "sourcePages": [
+      7
+    ]
+  }
+]

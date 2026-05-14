@@ -1,0 +1,591 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Directions:In the given questions, assuming the\ngiven statements to be true. Find which of the\ngiven two conclusions number I and II is/are\ndefinitely \ntrue \nand \ngive \nyour \nanswer\naccordingly.\n \nStatement: D < B ≤ # = F < 9 < 0\nConclusions:\nI. # < 0\nII. B ≤ F",
+    "questionHtml": "Directions:In the given questions, assuming the<br/>given statements to be true. Find which of the<br/>given two conclusions number I and II is/are<br/>definitely <br/>true <br/>and <br/>give <br/>your <br/>answer<br/>accordingly.<br/> <br/>Statement: D < B ≤ # = F < 9 < 0<br/>Conclusions:<br/>I. # < 0<br/>II. B ≤ F",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both conclusions I and II follow",
+        "html": "Both conclusions I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor II follows",
+        "html": "Neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "Either conclusion I or II follows",
+        "html": "Either conclusion I or II follows"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given statement: D < B ≤ # = F < 9 < 0\nConclusions: I. # < 0 (True), (As, # = F < 9 < 0, so\nthe relationship between # and 0\nis # < 0)\nII. B ≤ F (True), (As, B ≤ # = F, so the relationship\nbetween B and F is B ≤ F)\nTherefore, both conclusion 1 and 2 follow\nHence, option c is the correct answer.",
+    "explanationHtml": "Given statement: D < B ≤ # = F < 9 < 0<br/>Conclusions: I. # < 0 (True), (As, # = F < 9 < 0, so<br/>the relationship between # and 0<br/>is # < 0)<br/>II. B ≤ F (True), (As, B ≤ # = F, so the relationship<br/>between B and F is B ≤ F)<br/>Therefore, both conclusion 1 and 2 follow<br/>Hence, option c is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions:In the given questions, assuming the\ngiven statements to be true. Find which of the\ngiven two conclusions number I and II is/are\ndefinitely \ntrue \nand \ngive \nyour \nanswer\naccordingly.\nStatement: @ ≤ & ≤ 7 = % > 1 < #\nConclusions:\nI. 7 ≥ @\nII. 7 > 1",
+    "questionHtml": "Directions:In the given questions, assuming the<br/>given statements to be true. Find which of the<br/>given two conclusions number I and II is/are<br/>definitely <br/>true <br/>and <br/>give <br/>your <br/>answer<br/>accordingly.<br/>Statement: @ ≤ & ≤ 7 = % > 1 < #<br/>Conclusions:<br/>I. 7 ≥ @<br/>II. 7 > 1",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both conclusion I and II follow",
+        "html": "Both conclusion I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor II follows",
+        "html": "Neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "Either conclusion I or II follows",
+        "html": "Either conclusion I or II follows"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given statement:@ ≤ & ≤ 7 = % > 1 < #\nConclusions: I. 7 ≥ @ (True), (As,@ ≤ & ≤ 7, so the\nrelationship between 7 and @ is 7 ≥ @)\nII. 7 > 1 (True), (As, 7 = % > 1, so the relationship\nbetween 7 and 1 is 7 > 1)\nTherefore, both conclusion I and II follow",
+    "explanationHtml": "Given statement:@ ≤ & ≤ 7 = % > 1 < #<br/>Conclusions: I. 7 ≥ @ (True), (As,@ ≤ & ≤ 7, so the<br/>relationship between 7 and @ is 7 ≥ @)<br/>II. 7 > 1 (True), (As, 7 = % > 1, so the relationship<br/>between 7 and 1 is 7 > 1)<br/>Therefore, both conclusion I and II follow",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions: Study the questions based on the\ninformation given below.\nStatement: E < S ≤ ∞ = % < Y < @\nConclusions:\nI. Y ≥ S\nII. Y > E",
+    "questionHtml": "Directions: Study the questions based on the<br/>information given below.<br/>Statement: E < S ≤ ∞ = % < Y < @<br/>Conclusions:<br/>I. Y ≥ S<br/>II. Y > E",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both conclusion I and II follow",
+        "html": "Both conclusion I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II follows",
+        "html": "Neither I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "None of the above",
+        "html": "None of the above"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Given statement: E< S ≤ ∞ = % < Y < @\nConclusions:\nI. Y ≥ S (False), (As, S ≤ ∞ = % < Y, so the\nrelationship between Y and S is Y > S).\nII. Y > E (True), (As, E < S ≤ ∞ = % < Y, so the\nrelationship between Y and E is Y > E)\nTherefore, only conclusion II is true.\nHence, Option B is the correct answer.",
+    "explanationHtml": "Given statement: E< S ≤ ∞ = % < Y < @<br/>Conclusions:<br/>I. Y ≥ S (False), (As, S ≤ ∞ = % < Y, so the<br/>relationship between Y and S is Y > S).<br/>II. Y > E (True), (As, E < S ≤ ∞ = % < Y, so the<br/>relationship between Y and E is Y > E)<br/>Therefore, only conclusion II is true.<br/>Hence, Option B is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Directions: Study the questions based on the\ninformation given below.\nStatement: P = G < Q, E < L ≥ U, K ≤ G = R > L\nConclusions:\nI. E < Q\nII.G ≥ E",
+    "questionHtml": "Directions: Study the questions based on the<br/>information given below.<br/>Statement: P = G < Q, E < L ≥ U, K ≤ G = R > L<br/>Conclusions:<br/>I. E < Q<br/>II.G ≥ E",
+    "options": [
+      {
+        "id": "A",
+        "text": "only conclusion I follows",
+        "html": "only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "only conclusion II follows",
+        "html": "only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Both conclusion I and II follow",
+        "html": "Both conclusion I and II follow"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor II follows",
+        "html": "Neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "either conclusion I or II follows",
+        "html": "either conclusion I or II follows"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given statement: P = G < Q, E < L ≥ U, K\n≤ G = R > L\nOn combining the given statements, we get\nK ≤ G = R > L ≥ U\nI. Conclusions: I. E < Q (True), (As Q >\nG = R > L > E, so the relationship between E and\nQ is E < Q)\nIII. II. G ≥ E (False), (As G = R > L> E, so\nthe relationship between G and E is G > E)\nTherefore, only conclusion I is true.\nHence, option a is the correct answer.",
+    "explanationHtml": "Given statement: P = G < Q, E < L ≥ U, K<br/>≤ G = R > L<br/>On combining the given statements, we get<br/>K ≤ G = R > L ≥ U<br/>I. Conclusions: I. E < Q (True), (As Q ><br/>G = R > L > E, so the relationship between E and<br/>Q is E < Q)<br/>III. II. G ≥ E (False), (As G = R > L> E, so<br/>the relationship between G and E is G > E)<br/>Therefore, only conclusion I is true.<br/>Hence, option a is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Directions: Study the questions based on the\ninformation given below.\nStatement: X = B < N, B < O ≥ A, K ≤ O = M > B\nConclusions:\nI. B < K\nII. M > B",
+    "questionHtml": "Directions: Study the questions based on the<br/>information given below.<br/>Statement: X = B < N, B < O ≥ A, K ≤ O = M > B<br/>Conclusions:<br/>I. B < K<br/>II. M > B",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Given statement: X = B < N, B < O ≥ A, K\n≤ O = M > B\nOn combining the given statements, we get:\nK ≤ O = M > B < O ≥ A\nConclusions:\nI. B < K (False), (As: K ≤ O = M > B < O ≥ A, so the\nrelationship \nbetween \nB \nand \nK \ncan’t \nbe\ndetermined) \n II. M > B (True), (As: K ≤ O = M > B < O ≥ A, so the\nrelationship between M and B is M > B)\nTherefore, only conclusion II is true.\nHence, option b is the correct answer.",
+    "explanationHtml": "Given statement: X = B < N, B < O ≥ A, K<br/>≤ O = M > B<br/>On combining the given statements, we get:<br/>K ≤ O = M > B < O ≥ A<br/>Conclusions:<br/>I. B < K (False), (As: K ≤ O = M > B < O ≥ A, so the<br/>relationship <br/>between <br/>B <br/>and <br/>K <br/>can’t <br/>be<br/>determined) <br/> II. M > B (True), (As: K ≤ O = M > B < O ≥ A, so the<br/>relationship between M and B is M > B)<br/>Therefore, only conclusion II is true.<br/>Hence, option b is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions: Study the questions based on the\ninformation given below.\nStatement: X = U < T, U < S ≥ I, K ≤ S = M > U\nConclusions:\nI.U < K\nII.M > K",
+    "questionHtml": "Directions: Study the questions based on the<br/>information given below.<br/>Statement: X = U < T, U < S ≥ I, K ≤ S = M > U<br/>Conclusions:<br/>I.U < K<br/>II.M > K",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion 1 follows",
+        "html": "Only conclusion 1 follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion 2 follows",
+        "html": "Only conclusion 2 follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion 1 nor 2 follows",
+        "html": "Either conclusion 1 nor 2 follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion 1 nor 2 follows",
+        "html": "Neither conclusion 1 nor 2 follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusion I and conclusion II follows",
+        "html": "If both conclusion I and conclusion II follows"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Given statement: X = U < T, U < S ≥ I, K ≤ S = M > U\nOn combining the given statements, we get:\nK ≤ S = M > U < S ≥ I\nConclusions:\nI. U < K (False), (As: K ≤ S = M > U, so the\nrelationship \nbetween \nU \nand \nK \ncan’t \nbe\ndetermined)\nI. II. M > K (False), (As: K ≤ S = M, so the\nrelationship between M and K is M > K)\nTherefore, Neither conclusion 1 nor 2 follows\nHence, Option D is the correct answer.",
+    "explanationHtml": "Given statement: X = U < T, U < S ≥ I, K ≤ S = M > U<br/>On combining the given statements, we get:<br/>K ≤ S = M > U < S ≥ I<br/>Conclusions:<br/>I. U < K (False), (As: K ≤ S = M > U, so the<br/>relationship <br/>between <br/>U <br/>and <br/>K <br/>can’t <br/>be<br/>determined)<br/>I. II. M > K (False), (As: K ≤ S = M, so the<br/>relationship between M and K is M > K)<br/>Therefore, Neither conclusion 1 nor 2 follows<br/>Hence, Option D is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions:Analyze the data carefully and\nanswer the questions accordingly.\nStatements: C < N < R > S, N< P\nConclusions:\nI. P > S\nII. R > C",
+    "questionHtml": "Directions:Analyze the data carefully and<br/>answer the questions accordingly.<br/>Statements: C < N < R > S, N< P<br/>Conclusions:<br/>I. P > S<br/>II. R > C",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows",
+        "html": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows",
+        "html": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows",
+        "html": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows",
+        "html": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow",
+        "html": "If both conclusions I and II follow"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "I. P > N < R > S it is false \nII. C < N < R it is true \nso option B is correct",
+    "explanationHtml": "I. P > N < R > S it is false <br/>II. C < N < R it is true <br/>so option B is correct",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions:Analyze the data carefully and\nanswer the questions accordingly.\nStatements: F < P >Q = W, F ≤ Y, P > U\nConclusions:\nI. Q > U\nII. Y > W",
+    "questionHtml": "Directions:Analyze the data carefully and<br/>answer the questions accordingly.<br/>Statements: F < P >Q = W, F ≤ Y, P > U<br/>Conclusions:<br/>I. Q > U<br/>II. Y > W",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows",
+        "html": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows",
+        "html": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows",
+        "html": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows",
+        "html": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow",
+        "html": "If both conclusions I and II follow"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "I. U < P > Q False \nII. Y ≥ F < P >Q = W False\nso option D is correct",
+    "explanationHtml": "I. U < P > Q False <br/>II. Y ≥ F < P >Q = W False<br/>so option D is correct",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Directions:In the given questions, assuming the\ngiven statements to be true. Find which of the\ngiven two conclusions number I and II is/are\ndefinitely \ntrue \nand \ngive \nyour \nanswer\naccordingly.\nStatements: G > I = J > K = L ≤ M\nConclusions:\nI. I > L\nII. M ≥ K",
+    "questionHtml": "Directions:In the given questions, assuming the<br/>given statements to be true. Find which of the<br/>given two conclusions number I and II is/are<br/>definitely <br/>true <br/>and <br/>give <br/>your <br/>answer<br/>accordingly.<br/>Statements: G > I = J > K = L ≤ M<br/>Conclusions:<br/>I. I > L<br/>II. M ≥ K",
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows",
+        "html": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows",
+        "html": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows",
+        "html": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows",
+        "html": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow",
+        "html": "If both conclusions I and II follow"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "I. I = J > K = L True\nII. K = L ≤ M True\nSo the option E is correct",
+    "explanationHtml": "I. I = J > K = L True<br/>II. K = L ≤ M True<br/>So the option E is correct",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions:In the following question assuming\nthe given statements to be true, find which of\nthe interpretation among given interpretation\nis/are definitely true and then give your\nreaction accordingly.\n \nStatements: M < N = O > P, Q > R < M, S ≤ P\nConclusions:\nI. Q > P\nII. N > S\nIII. R < O\nIV. R ≥ O",
+    "questionHtml": "Directions:In the following question assuming<br/>the given statements to be true, find which of<br/>the interpretation among given interpretation<br/>is/are definitely true and then give your<br/>reaction accordingly.<br/> <br/>Statements: M < N = O > P, Q > R < M, S ≤ P<br/>Conclusions:<br/>I. Q > P<br/>II. N > S<br/>III. R < O<br/>IV. R ≥ O",
+    "options": [
+      {
+        "id": "A",
+        "text": "None is true",
+        "html": "None is true"
+      },
+      {
+        "id": "B",
+        "text": "Only IV is true",
+        "html": "Only IV is true"
+      },
+      {
+        "id": "C",
+        "text": "Both II and III are true",
+        "html": "Both II and III are true"
+      },
+      {
+        "id": "D",
+        "text": "Either I or III and IV are true",
+        "html": "Either I or III and IV are true"
+      },
+      {
+        "id": "E",
+        "text": "All are true",
+        "html": "All are true"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given Statements: M < N = O > P, Q > R < M, S ≤ P\nOn combining: M < N = O > P ≥ S, Q > R < M < N =\nO > P\nConclusions:\nI. Q > P → False (as Q > R < M < N = O > P →\nRelation cannot be determined)\nII. N > S → True (as N = O > P ≥ S→N>S)\nIII. R < O → True (as R < M < N = O → R < O)\nIV. R ≥ O → False (as R < M < N = O → R < O)\nHence, the correct option is (C).",
+    "explanationHtml": "Given Statements: M < N = O > P, Q > R < M, S ≤ P<br/>On combining: M < N = O > P ≥ S, Q > R < M < N =<br/>O > P<br/>Conclusions:<br/>I. Q > P → False (as Q > R < M < N = O > P →<br/>Relation cannot be determined)<br/>II. N > S → True (as N = O > P ≥ S→N>S)<br/>III. R < O → True (as R < M < N = O → R < O)<br/>IV. R ≥ O → False (as R < M < N = O → R < O)<br/>Hence, the correct option is (C).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Directions:In the following question assuming\nthe given statements to be true, find which of\nthe interpretation among given interpretation\nis/are definitely true and then give your\nreaction accordingly.",
+    "questionHtml": "Directions:In the following question assuming<br/>the given statements to be true, find which of<br/>the interpretation among given interpretation<br/>is/are definitely true and then give your<br/>reaction accordingly.",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Given statements: E ≥ U = D; R < A < F; W ≤ D; W >\nF On combining: E ≥ U = D ≥ W > F > A > R\nConclusions:\nI. U < R → False (as U = D ≥ W > F > A > R → U ≥ W\n> R → U > R)\nII. E = W → False (as E ≥ U = D ≥ W → E ≥ D ≥ W → E\n≥ W)\nIII. E > W → False (as E ≥ U = D ≥ W → E ≥ D ≥ W →\nE ≥ W)\nSince, conclusion II and III form complementary\npair and E ≥ W.\nHence, the correct option is (E).",
+    "explanationHtml": "Given statements: E ≥ U = D; R < A < F; W ≤ D; W ><br/>F On combining: E ≥ U = D ≥ W > F > A > R<br/>Conclusions:<br/>I. U < R → False (as U = D ≥ W > F > A > R → U ≥ W<br/>> R → U > R)<br/>II. E = W → False (as E ≥ U = D ≥ W → E ≥ D ≥ W → E<br/>≥ W)<br/>III. E > W → False (as E ≥ U = D ≥ W → E ≥ D ≥ W →<br/>E ≥ W)<br/>Since, conclusion II and III form complementary<br/>pair and E ≥ W.<br/>Hence, the correct option is (E).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "DIrections:In the following question assuming\nthe given statements to be true, find which of\nthe interpretation among given interpretation\nis/are definitely true and then give your\nreaction accordingly.\n \nStatements: T ≥ C ≥ F; E = A < D; X > T; D < F = T\nConclusions:\nI. F < E\nII. C = F\nIII. A > T",
+    "questionHtml": "DIrections:In the following question assuming<br/>the given statements to be true, find which of<br/>the interpretation among given interpretation<br/>is/are definitely true and then give your<br/>reaction accordingly.<br/> <br/>Statements: T ≥ C ≥ F; E = A < D; X > T; D < F = T<br/>Conclusions:<br/>I. F < E<br/>II. C = F<br/>III. A > T",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I is True",
+        "html": "Only I is True"
+      },
+      {
+        "id": "B",
+        "text": "Only II is True",
+        "html": "Only II is True"
+      },
+      {
+        "id": "C",
+        "text": "Only III is True",
+        "html": "Only III is True"
+      },
+      {
+        "id": "D",
+        "text": "Only I and III are True",
+        "html": "Only I and III are True"
+      },
+      {
+        "id": "E",
+        "text": "None is true",
+        "html": "None is true"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Given statements: T ≥ C ≥ F; E = A < D; X > T; D < F\n= T\nOn combining: E = A < D < F ≤ C ≤ T < X; F = T\nConclusions:\nI. F < E → False (as E = A < D < F → E < F)\nII. C = F → False (as per the given information F =\nT & T ≥ C ≥ F)\nIII. A > T → False (as A < D < F ≤ C ≤ T → A < F ≤ C ≤\nT → A < C ≤ T → A < T)\nHence, the correct option is (E).",
+    "explanationHtml": "Given statements: T ≥ C ≥ F; E = A < D; X > T; D < F<br/>= T<br/>On combining: E = A < D < F ≤ C ≤ T < X; F = T<br/>Conclusions:<br/>I. F < E → False (as E = A < D < F → E < F)<br/>II. C = F → False (as per the given information F =<br/>T & T ≥ C ≥ F)<br/>III. A > T → False (as A < D < F ≤ C ≤ T → A < F ≤ C ≤<br/>T → A < C ≤ T → A < T)<br/>Hence, the correct option is (E).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Directions:In the following question assuming\nthe given statements to be true, find which of\nthe interpretation among given interpretation\nis/are definitely true and then give your\nreaction accordingly.\nStatements: Z > Y ≥ X ≥ K; K = L ≥ M; Which of the\nfollowing are definitely true?",
+    "questionHtml": "Directions:In the following question assuming<br/>the given statements to be true, find which of<br/>the interpretation among given interpretation<br/>is/are definitely true and then give your<br/>reaction accordingly.<br/>Statements: Z > Y ≥ X ≥ K; K = L ≥ M; Which of the<br/>following are definitely true?",
+    "options": [
+      {
+        "id": "A",
+        "text": "X > L",
+        "html": "X > L"
+      },
+      {
+        "id": "B",
+        "text": "Z > L",
+        "html": "Z > L"
+      },
+      {
+        "id": "C",
+        "text": "K = Z",
+        "html": "K = Z"
+      },
+      {
+        "id": "D",
+        "text": "K < Y",
+        "html": "K < Y"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Given statements: Z > Y ≥ X ≥ K; K = L ≥ M; On\ncombining: Z > Y ≥ X ≥ K = L ≥ M;\nConclusions:\nI. X > L → False (as X ≥ K and K = L implies X ≥ L,\nthus a clear relation cannot be determined)\nII. Z > L → True (as Z > Y ≥ X ≥ K; K = L implies Z >\nL)\nIII. K = Z → False (as Z > Y ≥ X ≥ K implies K < Z)\nIV. K < Y → False (as Z > Y ≥ X ≥ K implies Y ≥ K,\nthus a clear relation cannot be determined)\nHence, the correct option is (B).",
+    "explanationHtml": "Given statements: Z > Y ≥ X ≥ K; K = L ≥ M; On<br/>combining: Z > Y ≥ X ≥ K = L ≥ M;<br/>Conclusions:<br/>I. X > L → False (as X ≥ K and K = L implies X ≥ L,<br/>thus a clear relation cannot be determined)<br/>II. Z > L → True (as Z > Y ≥ X ≥ K; K = L implies Z ><br/>L)<br/>III. K = Z → False (as Z > Y ≥ X ≥ K implies K < Z)<br/>IV. K < Y → False (as Z > Y ≥ X ≥ K implies Y ≥ K,<br/>thus a clear relation cannot be determined)<br/>Hence, the correct option is (B).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Directions:In the following question assuming\nthe given statements to be True, find which of\nthe conclusion among given conclusions is/are\ndefinitely true and then give your answers\naccordingly.\nStatements: P < Q ≥ G; G ≥ I ≥ E; C ≤ P; C > U\nConclusions:\nI. U > I\nII. P ≤ E",
+    "questionHtml": "Directions:In the following question assuming<br/>the given statements to be True, find which of<br/>the conclusion among given conclusions is/are<br/>definitely true and then give your answers<br/>accordingly.<br/>Statements: P < Q ≥ G; G ≥ I ≥ E; C ≤ P; C > U<br/>Conclusions:<br/>I. U > I<br/>II. P ≤ E",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II follow",
+        "html": "Both I and II follow"
+      },
+      {
+        "id": "B",
+        "text": "Either I or II follows",
+        "html": "Either I or II follows"
+      },
+      {
+        "id": "C",
+        "text": "Only I follows",
+        "html": "Only I follows"
+      },
+      {
+        "id": "D",
+        "text": "Only II follows",
+        "html": "Only II follows"
+      },
+      {
+        "id": "E",
+        "text": "Neither I nor II follow",
+        "html": "Neither I nor II follow"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Given statements: P < Q ≥ G; G ≥ I ≥ E; C ≤ P; C > U\nOn combining: U < C ≤ P < Q ≥ G ≥ I ≥ E\nConclusions:\nI. U > I → False (as U < C ≤ P < Q ≥ G ≥ I → thus\nclear relation between U and I cannot be\ndetermined)\nII. P ≤ E → False (as P < Q ≥ G ≥ I ≥ E → thus clear\nrelation between P and E cannot be determined)\nHence, neither I nor II is True.",
+    "explanationHtml": "Given statements: P < Q ≥ G; G ≥ I ≥ E; C ≤ P; C > U<br/>On combining: U < C ≤ P < Q ≥ G ≥ I ≥ E<br/>Conclusions:<br/>I. U > I → False (as U < C ≤ P < Q ≥ G ≥ I → thus<br/>clear relation between U and I cannot be<br/>determined)<br/>II. P ≤ E → False (as P < Q ≥ G ≥ I ≥ E → thus clear<br/>relation between P and E cannot be determined)<br/>Hence, neither I nor II is True.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "inequality"
+    ],
+    "sourcePages": [
+      3
+    ]
+  }
+]

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import RichText from "../components/RichText";
 import { api } from "../lib/api";
 
 const EXAMS = ["SSC", "UPSC", "JEE", "GATE", "BANKING"];
@@ -421,7 +422,18 @@ export default function TestPage() {
                   </div>
                 </div>
 
-                <div className="test-runner__stem">{currentQuestion.question}</div>
+                <div className="test-runner__stem">
+                  <RichText
+                    value={currentQuestion.question}
+                    html={currentQuestion.questionHtml || currentQuestion.question_html}
+                    segments={currentQuestion.questionRich}
+                  />
+                  {getQuestionImageUrl(currentQuestion) ? (
+                    <div className="test-runner__questionImage">
+                      <img src={getQuestionImageUrl(currentQuestion)} alt={currentQuestion?.image?.alt || "Question visual aid"} loading="lazy" />
+                    </div>
+                  ) : null}
+                </div>
 
                 <div className="test-runner__options">
                   {currentQuestion.options.map((option, optionIndex) => {
@@ -435,7 +447,13 @@ export default function TestPage() {
                           onChange={() => updateAnswer(currentQuestionIndex, optionIndex)}
                         />
                         <span className="test-runner__optionIndex">{String.fromCharCode(65 + optionIndex)}</span>
-                        <span>{option}</span>
+                        <span>
+                          <RichText
+                            value={option}
+                            html={currentQuestion.optionsHtml?.[optionIndex] || currentQuestion.options_html?.[optionIndex]}
+                            segments={currentQuestion.optionsRich?.[optionIndex]}
+                          />
+                        </span>
                       </label>
                     );
                   })}
@@ -802,4 +820,22 @@ function deriveRunnerStatusCounts(questions = [], answers = {}, visitedQuestions
       answeredReview: 0
     }
   );
+}
+
+function getQuestionImageUrl(question) {
+  const raw = question?.image?.url || question?.imageUrl || question?.image_url || question?.imageRef || question?.image_ref || "";
+  if (!raw) {
+    return "";
+  }
+  const normalized = String(raw).replace(/\\/g, "/");
+  if (normalized.startsWith("output/images/")) {
+    return `/${normalized.replace(/^output\/images\//, "question-images/")}`;
+  }
+  if (normalized.startsWith("images/")) {
+    return `/${normalized.replace(/^images\//, "question-images/")}`;
+  }
+  if (normalized.startsWith("/")) {
+    return normalized;
+  }
+  return normalized;
 }

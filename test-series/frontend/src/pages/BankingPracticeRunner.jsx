@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import RichText from "../components/RichText";
 import { api } from "../lib/api";
 import "../styles/banking-practice-runner.css";
 
@@ -127,6 +128,9 @@ export default function BankingPracticeRunner() {
   const currentAnswerIsSelected = currentSelectedAnswer !== undefined && currentSelectedAnswer !== null;
   const currentAnswerIsCorrect = currentAnswerIsSelected && currentCorrectAnswer !== null && Number(currentSelectedAnswer) === Number(currentCorrectAnswer);
   const currentExplanation = extractExplanation(currentQuestion);
+  const currentQuestionHtml = getQuestionHtml(currentQuestion);
+  const currentExplanationHtml = getQuestionExplanationHtml(currentQuestion);
+  const currentQuestionImageUrl = resolveQuestionImageUrl(currentQuestion);
   const paletteCounts = useMemo(() => derivePaletteCounts(questions, answers, questionMeta), [questions, answers, questionMeta]);
   const filteredIndexes = useMemo(
     () => questions.reduce((acc, question, index) => {
@@ -579,13 +583,29 @@ export default function BankingPracticeRunner() {
 
                 <article className="banking-runner__question card">
                   <div className="banking-runner__direction">Directions: Choose the most appropriate answer from the options given below.</div>
-                  <div className="banking-runner__stem">{currentQuestion?.question}</div>
+                  <div className="banking-runner__stem">
+                    <RichText
+                      value={currentQuestion?.question}
+                      html={currentQuestionHtml}
+                      segments={currentQuestion?.questionRich}
+                    />
+                    {currentQuestionImageUrl ? (
+                      <div className="banking-runner__questionImage">
+                        <img 
+                          src={currentQuestionImageUrl} 
+                          alt={currentQuestion?.image?.alt || "Question visual aid"} 
+                          loading="lazy"
+                        />
+                      </div>
+                    ) : null}
+                  </div>
 
                   <div className="banking-runner__options">
                     {currentQuestion?.options?.map((option, optionIndex) => {
                       const selected = answers[currentIndex] === optionIndex;
                       const isCorrect = currentAnswerIsSelected && Number(currentCorrectAnswer) === optionIndex;
                       const isWrongSelection = selected && currentAnswerIsSelected && !currentAnswerIsCorrect;
+                      const optionSegments = currentQuestion?.optionsRich?.[optionIndex];
                       return (
                         <button
                           key={`${currentQuestion._id}-${optionIndex}`}
@@ -594,7 +614,13 @@ export default function BankingPracticeRunner() {
                           onClick={() => selectAnswer(optionIndex)}
                         >
                           <span className="banking-runner__optionIndex">{optionLabel(optionIndex)}</span>
-                          <span className="banking-runner__optionText">{option}</span>
+                          <span className="banking-runner__optionText">
+                            <RichText
+                              value={option}
+                              html={currentQuestion?.optionsHtml?.[optionIndex] || currentQuestion?.options_html?.[optionIndex]}
+                              segments={optionSegments}
+                            />
+                          </span>
                         </button>
                       );
                     })}
@@ -607,7 +633,11 @@ export default function BankingPracticeRunner() {
                         <span>{currentAnswerIsCorrect ? "Your choice matches the key." : "Review the solution below."}</span>
                       </div>
                       <div className="banking-runner__explanationBody">
-                        {currentExplanation || "Explanation not available for this question."}
+                        <RichText
+                          value={currentExplanation || "Explanation not available for this question."}
+                          html={currentExplanationHtml}
+                          segments={currentQuestion?.explanationRich}
+                        />
                       </div>
                     </div>
                   ) : null}
@@ -708,6 +738,32 @@ function normalizeText(value) {
 
 function optionLabel(index) {
   return String.fromCharCode(65 + Number(index));
+}
+
+function resolveQuestionImageUrl(question) {
+  const raw = question?.image?.url || question?.imageUrl || question?.image_url || question?.imageRef || question?.image_ref || "";
+  if (!raw) {
+    return "";
+  }
+  const normalized = String(raw).replace(/\\/g, "/");
+  if (normalized.startsWith("output/images/")) {
+    return `/${normalized.replace(/^output\/images\//, "question-images/")}`;
+  }
+  if (normalized.startsWith("images/")) {
+    return `/${normalized.replace(/^images\//, "question-images/")}`;
+  }
+  if (normalized.startsWith("/")) {
+    return normalized;
+  }
+  return normalized;
+}
+
+function getQuestionHtml(question) {
+  return question?.questionHtml || question?.question_html || "";
+}
+
+function getQuestionExplanationHtml(question) {
+  return question?.explanationHtml || question?.explanation_html || question?.explanation?.html || "";
 }
 
 function markVisited(meta, index) {

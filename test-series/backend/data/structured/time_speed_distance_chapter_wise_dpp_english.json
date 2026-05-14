@@ -1,0 +1,2528 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "A 400 m long train is running at the speed of\n90 km/hr. Find the time taken by it to pass a\nman standing near the railway line.",
+    "questionHtml": "A 400 m long train is running at the speed of<br/>90 km/hr. Find the time taken by it to pass a<br/>man standing near the railway line.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15 sec",
+        "html": "15 sec"
+      },
+      {
+        "id": "B",
+        "text": "12 sec",
+        "html": "12 sec"
+      },
+      {
+        "id": "C",
+        "text": "16 sec",
+        "html": "16 sec"
+      },
+      {
+        "id": "D",
+        "text": "18 sec",
+        "html": "18 sec"
+      },
+      {
+        "id": "E",
+        "text": "24 sec",
+        "html": "24 sec"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of car\nSpeed of bus \nSpeed of train =\nRequired \nratio",
+    "explanationHtml": "Speed of car<br/>Speed of bus <br/>Speed of train =<br/>Required <br/>ratio",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "A 200 m long train is running at the speed of 72\nkm/hr. Find the time taken by it to pass a man\nstanding near the railway line.",
+    "questionHtml": "A 200 m long train is running at the speed of 72<br/>km/hr. Find the time taken by it to pass a man<br/>standing near the railway line.",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 sec",
+        "html": "9 sec"
+      },
+      {
+        "id": "B",
+        "text": "10 sec",
+        "html": "10 sec"
+      },
+      {
+        "id": "C",
+        "text": "12 sec",
+        "html": "12 sec"
+      },
+      {
+        "id": "D",
+        "text": "15 sec",
+        "html": "15 sec"
+      },
+      {
+        "id": "E",
+        "text": "24 sec",
+        "html": "24 sec"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed of B \nDistance between P and Q \nSpeed of A = x kmph\nRelative \nspeed \nof \nA \nand \nB\nTime taken by B to meet A = 3 hours",
+    "explanationHtml": "Speed of B <br/>Distance between P and Q <br/>Speed of A = x kmph<br/>Relative <br/>speed <br/>of <br/>A <br/>and <br/>B<br/>Time taken by B to meet A = 3 hours",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "A man is moving with a speed of 20 km/hr.\nAfter every km, he takes a rest of 3 minutes. How\nmuch time will he take to cover a distance of 75\nkm?",
+    "questionHtml": "A man is moving with a speed of 20 km/hr.<br/>After every km, he takes a rest of 3 minutes. How<br/>much time will he take to cover a distance of 75<br/>km?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 hours 12 minutes",
+        "html": "5 hours 12 minutes"
+      },
+      {
+        "id": "B",
+        "text": "3 hours 22 minutes",
+        "html": "3 hours 22 minutes"
+      },
+      {
+        "id": "C",
+        "text": "7 hours 27 minutes",
+        "html": "7 hours 27 minutes"
+      },
+      {
+        "id": "D",
+        "text": "3 hours 12 minutes",
+        "html": "3 hours 12 minutes"
+      },
+      {
+        "id": "E",
+        "text": "2 hours 12 minutes",
+        "html": "2 hours 12 minutes"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of A\nSpeed of car B \nDistance between P and Q\nTime taken by car B to meet car A = 2 hr\n∴ Hence the answer is 80.",
+    "explanationHtml": "Speed of A<br/>Speed of car B <br/>Distance between P and Q<br/>Time taken by car B to meet car A = 2 hr<br/>∴ Hence the answer is 80.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "There are two points A and B. Distance\nbetween A and B is \n. Ram starts walking\nfrom A with a speed of \n and lakhan\nstarts from B with a speed of \n. Find\nthe time when both meet.",
+    "questionHtml": "There are two points A and B. Distance<br/>between A and B is <br/>. Ram starts walking<br/>from A with a speed of <br/> and lakhan<br/>starts from B with a speed of <br/>. Find<br/>the time when both meet.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B)"
+      },
+      {
+        "id": "C",
+        "text": "(D) \n(E)",
+        "html": "(D) \n(E)"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = x\n Speed of A = x + 15",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = x<br/> Speed of A = x + 15",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "A car travelling at a speed of 80 km/hour can\ncomplete a journey in 5 hours. How long will it\ntake to travel the same distance at 50\nkm/hour?",
+    "questionHtml": "A car travelling at a speed of 80 km/hour can<br/>complete a journey in 5 hours. How long will it<br/>take to travel the same distance at 50<br/>km/hour?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 hr",
+        "html": "7 hr"
+      },
+      {
+        "id": "B",
+        "text": "8 hr",
+        "html": "8 hr"
+      },
+      {
+        "id": "C",
+        "text": "12 hr",
+        "html": "12 hr"
+      },
+      {
+        "id": "D",
+        "text": "10 hr",
+        "html": "10 hr"
+      },
+      {
+        "id": "E",
+        "text": "18 hr",
+        "html": "18 hr"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = 3kmph\nSpeed of A = 4 kmph\n= \n 9x + 54 = 16x + 40",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = 3kmph<br/>Speed of A = 4 kmph<br/>= <br/> 9x + 54 = 16x + 40",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "A can cover a distance from P to Q in 5 hours\nand the distance between P and Q is 200 km. If\nB can cover the same distance but he goes\nfrom Q towards P and they meet after 2 hours\nof start, then find the speed of B.",
+    "questionHtml": "A can cover a distance from P to Q in 5 hours<br/>and the distance between P and Q is 200 km. If<br/>B can cover the same distance but he goes<br/>from Q towards P and they meet after 2 hours<br/>of start, then find the speed of B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "C",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "D",
+        "text": "22",
+        "html": "22"
+      },
+      {
+        "id": "E",
+        "text": "45",
+        "html": "45"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 3 \n \n = 390 km\nSpeed of boat in still water = 20 \n = 18\nkm/hr\nLet speed of current be V km/hr\nAccording to question,\n = 30\n13 = 18 – V\nV = 5 km/hr",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 3 <br/> <br/> = 390 km<br/>Speed of boat in still water = 20 <br/> = 18<br/>km/hr<br/>Let speed of current be V km/hr<br/>According to question,<br/> = 30<br/>13 = 18 – V<br/>V = 5 km/hr",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "A can cover a distance from P to Q in 10 hours\nand the distance between P and Q is 300 km.\nIf B can cover the same distance but he goes\nfrom Q towards P and they meet after 5 hours\nof start, then find the speed of B.",
+    "questionHtml": "A can cover a distance from P to Q in 10 hours<br/>and the distance between P and Q is 300 km.<br/>If B can cover the same distance but he goes<br/>from Q towards P and they meet after 5 hours<br/>of start, then find the speed of B.",
+    "options": [
+      {
+        "id": "A",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "C",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "D",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "E",
+        "text": "50",
+        "html": "50"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let speeds of bus P and bus Q are ‘3x’ km/h\nand ‘4x’ km/h respectively.\nSince, time taken by bus P to reach point B is\n2.5 hours more than that taken by bus Q to\nreach point B.\nSo,\n = 2.5\n = 2.5\n \n = \n = 70 kmph\n700\n10\n= ( )70 = 60 kmph\n6\n7\n ( )60 = 70 kmph\n7\n6\n= (20 × 70) : (70 × 10) = 2 : 1 \n= x −10 kmph.\n= 5x + 20 km.\n= x + x −10 = 2x −10 kmph\n= 3\n(5x+20)\n2x−10\n6x −30 = 5x + 20\nx = 50\n = x km/hr\n= (x −60) km/hr\n = x + 120 km\n= 2\n(x+120)\nx+x−60\n(x + 120) = 2[2x −60]\n+ 120 = 4x −120\nx\nx = 80\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n=\nx2\n(x+15)2\n1\nx+11\n+ 30x + 225 =\n+ 11\nx2\nx3\nx2\n+ 10\n−30x = 225\nx3\nx2\nx = 5\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n( )\n3\n4\n2\n=\n9\n16\nx+2.5\nx+6\n7x = 14\nx = 2 \nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n5\n×\n×\n18\n5\n25\n100\n390\n18−V\n(\n) – (\n)\n648\n3x\n648\n4x\n(\n) – (\n)\n216\nx\n162\nx",
+    "explanationHtml": "Let speeds of bus P and bus Q are ‘3x’ km/h<br/>and ‘4x’ km/h respectively.<br/>Since, time taken by bus P to reach point B is<br/>2.5 hours more than that taken by bus Q to<br/>reach point B.<br/>So,<br/> = 2.5<br/> = 2.5<br/> <br/> = <br/> = 70 kmph<br/>700<br/>10<br/>= ( )70 = 60 kmph<br/>6<br/>7<br/> ( )60 = 70 kmph<br/>7<br/>6<br/>= (20 × 70) : (70 × 10) = 2 : 1 <br/>= x −10 kmph.<br/>= 5x + 20 km.<br/>= x + x −10 = 2x −10 kmph<br/>= 3<br/>(5x+20)<br/>2x−10<br/>6x −30 = 5x + 20<br/>x = 50<br/> = x km/hr<br/>= (x −60) km/hr<br/> = x + 120 km<br/>= 2<br/>(x+120)<br/>x+x−60<br/>(x + 120) = 2[2x −60]<br/>+ 120 = 4x −120<br/>x<br/>x = 80<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>=<br/>x2<br/>(x+15)2<br/>1<br/>x+11<br/>+ 30x + 225 =<br/>+ 11<br/>x2<br/>x3<br/>x2<br/>+ 10<br/>−30x = 225<br/>x3<br/>x2<br/>x = 5<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>( )<br/>3<br/>4<br/>2<br/>=<br/>9<br/>16<br/>x+2.5<br/>x+6<br/>7x = 14<br/>x = 2 <br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>5<br/>×<br/>×<br/>18<br/>5<br/>25<br/>100<br/>390<br/>18−V<br/>(<br/>) – (<br/>)<br/>648<br/>3x<br/>648<br/>4x<br/>(<br/>) – (<br/>)<br/>216<br/>x<br/>162<br/>x",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "If a person walks at 14 km/hr instead of 10\nkm/hr, he would have walked 20 km more. The\nactual distance travelled by him is:",
+    "questionHtml": "If a person walks at 14 km/hr instead of 10<br/>km/hr, he would have walked 20 km more. The<br/>actual distance travelled by him is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 km",
+        "html": "50 km"
+      },
+      {
+        "id": "B",
+        "text": "40 km",
+        "html": "40 km"
+      },
+      {
+        "id": "C",
+        "text": "60 km",
+        "html": "60 km"
+      },
+      {
+        "id": "D",
+        "text": "90 km",
+        "html": "90 km"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to the question,\n25x – {(15 + 5x)(x – 4)} = 60\nOr, 30x – 5\n = 0\nOr, 5x(x – 6) = 0\nOr, x = 0, 6\nOr, x = 6 (since time cannot be zero)\nTherefore, distance covered by him with a\nspeed of 25 km/hr = 25x = 150 km\nFor I:\nDistance covered by him with a speed of 25\nkm/hr = (\n + 114) = (114 + 36) = 150 km\nTherefore, I can be the answer:\nFor II:\nDistance covered by him with a speed of 25\nkm/hr = (20x + 40) = (120 + 40) = 160 km\nTherefore, II cannot be the answer.\nFor III:\nDistance covered by him with a speed of 25\nkm/hr = (40x – 90) = (240 – 90) = 150 km\nTherefore, III can be the answer.\nHence, the correct option is E.",
+    "explanationHtml": "According to the question,<br/>25x – {(15 + 5x)(x – 4)} = 60<br/>Or, 30x – 5<br/> = 0<br/>Or, 5x(x – 6) = 0<br/>Or, x = 0, 6<br/>Or, x = 6 (since time cannot be zero)<br/>Therefore, distance covered by him with a<br/>speed of 25 km/hr = 25x = 150 km<br/>For I:<br/>Distance covered by him with a speed of 25<br/>km/hr = (<br/> + 114) = (114 + 36) = 150 km<br/>Therefore, I can be the answer:<br/>For II:<br/>Distance covered by him with a speed of 25<br/>km/hr = (20x + 40) = (120 + 40) = 160 km<br/>Therefore, II cannot be the answer.<br/>For III:<br/>Distance covered by him with a speed of 25<br/>km/hr = (40x – 90) = (240 – 90) = 150 km<br/>Therefore, III can be the answer.<br/>Hence, the correct option is E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "A 500 m long train is running with a speed of\n144 kmph. If it passes a man who is running at\n54 kmph in the same direction in which the\ntrain is going, then find the time in which it will\npass the man.",
+    "questionHtml": "A 500 m long train is running with a speed of<br/>144 kmph. If it passes a man who is running at<br/>54 kmph in the same direction in which the<br/>train is going, then find the time in which it will<br/>pass the man.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15 sec",
+        "html": "15 sec"
+      },
+      {
+        "id": "B",
+        "text": "18 sec",
+        "html": "18 sec"
+      },
+      {
+        "id": "C",
+        "text": "20 sec",
+        "html": "20 sec"
+      },
+      {
+        "id": "D",
+        "text": "10 sec",
+        "html": "10 sec"
+      },
+      {
+        "id": "E",
+        "text": "30 sec",
+        "html": "30 sec"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 2 \n \n = 100 km\nSpeed of train B = (Y+10) \n = 30 \n = 108\nkm/hr\nSpeed of current = 108 \n = 6 km/hr\nAccording to question,\n = \nU + 2 = 15\nU = 13",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 2 <br/> <br/> = 100 km<br/>Speed of train B = (Y+10) <br/> = 30 <br/> = 108<br/>km/hr<br/>Speed of current = 108 <br/> = 6 km/hr<br/>According to question,<br/> = <br/>U + 2 = 15<br/>U = 13",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "A and B are traveling towards each other from\nthe points P and Q respectively. After crossing\neach other, A and B take 4 and 9 hours\n \nSpeed Time & Distance\n245 km\n15 km / h\n20 km / h\n2 hours\n3 hours\n7 hours\n6 hours\n5 hours",
+    "questionHtml": "A and B are traveling towards each other from<br/>the points P and Q respectively. After crossing<br/>each other, A and B take 4 and 9 hours<br/> <br/>Speed Time & Distance<br/>245 km<br/>15 km / h<br/>20 km / h<br/>2 hours<br/>3 hours<br/>7 hours<br/>6 hours<br/>5 hours",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "According to question,\nDistance travelled by P = \n = 180 km\nDistance travelled by Q = 240 – 180 = 60 km\nNow,\n7Y + 50Y – 1200 = 0\nPossible value of Y = 10\nValue of Z = 30 + 10 = 40 km/h\n \n54\nx\n648\n64.8\n648\n86.4\n648\n55.08\n(\n)\n5\n18\nX2\nX2\nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n13\n× 18\n5\n× 18\n5\n× 1\n18\n100\nU − 4 + 6\n20\n3\n× 3\n240\n4\n+\n=\n180\nY + 30\n60\nY\n21\n2\n2",
+    "explanationHtml": "According to question,<br/>Distance travelled by P = <br/> = 180 km<br/>Distance travelled by Q = 240 – 180 = 60 km<br/>Now,<br/>7Y + 50Y – 1200 = 0<br/>Possible value of Y = 10<br/>Value of Z = 30 + 10 = 40 km/h<br/> <br/>54<br/>x<br/>648<br/>64.8<br/>648<br/>86.4<br/>648<br/>55.08<br/>(<br/>)<br/>5<br/>18<br/>X2<br/>X2<br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>13<br/>× 18<br/>5<br/>× 18<br/>5<br/>× 1<br/>18<br/>100<br/>U − 4 + 6<br/>20<br/>3<br/>× 3<br/>240<br/>4<br/>+<br/>=<br/>180<br/>Y + 30<br/>60<br/>Y<br/>21<br/>2<br/>2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "A boy goes to his school from his house at a\nspeed of 10 km/hr and returns at a speed of 5\nkm/hr. If he takes 6 hours in going and coming,\nfind the distance between his house and\nschool.",
+    "questionHtml": "A boy goes to his school from his house at a<br/>speed of 10 km/hr and returns at a speed of 5<br/>km/hr. If he takes 6 hours in going and coming,<br/>find the distance between his house and<br/>school.",
+    "options": [
+      {
+        "id": "A",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "D",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "E",
+        "text": "50",
+        "html": "50"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relative \nspeed \nof \nconstable \nand \nthief\nDistance between them \nTime taken to catch the thief",
+    "explanationHtml": "Relative <br/>speed <br/>of <br/>constable <br/>and <br/>thief<br/>Distance between them <br/>Time taken to catch the thief",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "A and B are traveling towards each other from\nthe points P and Q respectively. After crossing\neach other, A and B take 16 and 9 hours\nrespectively to reach their destination Q and P\nrespectively. If the speed of B is 8 kmph and\ndistance between P and Q is 216 km, then find\nthe time taken by A to reach Q.",
+    "questionHtml": "A and B are traveling towards each other from<br/>the points P and Q respectively. After crossing<br/>each other, A and B take 16 and 9 hours<br/>respectively to reach their destination Q and P<br/>respectively. If the speed of B is 8 kmph and<br/>distance between P and Q is 216 km, then find<br/>the time taken by A to reach Q.",
+    "options": [
+      {
+        "id": "A",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "C",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "D",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "E",
+        "text": "50",
+        "html": "50"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let the distance to reach his office be x km.\nAs per question;\nSo, final speed\nTime taken",
+    "explanationHtml": "Let the distance to reach his office be x km.<br/>As per question;<br/>So, final speed<br/>Time taken",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "A Truck can go 100 km in 5 hours but there was\nan accident midway. After the accident, the\nspeed of the truck reduces by 25%. If the\naccident occurs after covering 40 km, then\nfind the total time taken by Truck.",
+    "questionHtml": "A Truck can go 100 km in 5 hours but there was<br/>an accident midway. After the accident, the<br/>speed of the truck reduces by 25%. If the<br/>accident occurs after covering 40 km, then<br/>find the total time taken by Truck.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 hr",
+        "html": "5 hr"
+      },
+      {
+        "id": "B",
+        "text": "8 hr",
+        "html": "8 hr"
+      },
+      {
+        "id": "C",
+        "text": "6 hr",
+        "html": "6 hr"
+      },
+      {
+        "id": "D",
+        "text": "7 hr",
+        "html": "7 hr"
+      },
+      {
+        "id": "E",
+        "text": "11 hr",
+        "html": "11 hr"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Distance \ncovered \ntill \n11:30 \na.m\nSpeed \nof \nthe \ncar \ntill \n11: \n30 \na.m\nRemaining distance\nSpeed of car to reach Bangalore at time\nTherefore; \nspeed \nshould \nincrease \nby",
+    "explanationHtml": "Distance <br/>covered <br/>till <br/>11:30 <br/>a.m<br/>Speed <br/>of <br/>the <br/>car <br/>till <br/>11: <br/>30 <br/>a.m<br/>Remaining distance<br/>Speed of car to reach Bangalore at time<br/>Therefore; <br/>speed <br/>should <br/>increase <br/>by",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Two trucks ‘A’ and ‘C’ were moving towards\neach other which were 540 km away initially. If\nthe ratio of the speed of the trucks ‘A’ and ‘C’\nwas 5 : 4 and the speed of the truck ‘C’ was 60\nkm/h, what time will it take for the two trucks to\nmeet each other?",
+    "questionHtml": "Two trucks ‘A’ and ‘C’ were moving towards<br/>each other which were 540 km away initially. If<br/>the ratio of the speed of the trucks ‘A’ and ‘C’<br/>was 5 : 4 and the speed of the truck ‘C’ was 60<br/>km/h, what time will it take for the two trucks to<br/>meet each other?",
+    "options": [
+      {
+        "id": "A",
+        "text": "250 min.",
+        "html": "250 min."
+      },
+      {
+        "id": "B",
+        "text": "240 min.",
+        "html": "240 min."
+      },
+      {
+        "id": "C",
+        "text": "275 min.",
+        "html": "275 min."
+      },
+      {
+        "id": "D",
+        "text": "270 min.",
+        "html": "270 min."
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relative \nspeed \nof \nbuses\nDistance \ntravelled \nby \nP \ntill \n11 \nam\nRemaining distance\nTime taken by Q to meet P ,k\nTherefore; \n50% \nof \nk \n+ \n150% \nof \nk \n=",
+    "explanationHtml": "Relative <br/>speed <br/>of <br/>buses<br/>Distance <br/>travelled <br/>by <br/>P <br/>till <br/>11 <br/>am<br/>Remaining distance<br/>Time taken by Q to meet P ,k<br/>Therefore; <br/>50% <br/>of <br/>k <br/>+ <br/>150% <br/>of <br/>k <br/>=",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "In a 1500 m race, Chetna beats Vrutika by 100\nm and in 1200 m race, Vrutika beats Kripa by 75\nm. If Chetna and Kripa are compared, then for\nhow much m Chetna will beat Kripa in 900 m\nrace?",
+    "questionHtml": "In a 1500 m race, Chetna beats Vrutika by 100<br/>m and in 1200 m race, Vrutika beats Kripa by 75<br/>m. If Chetna and Kripa are compared, then for<br/>how much m Chetna will beat Kripa in 900 m<br/>race?",
+    "options": [
+      {
+        "id": "A",
+        "text": "115 m",
+        "html": "115 m"
+      },
+      {
+        "id": "B",
+        "text": "120 m",
+        "html": "120 m"
+      },
+      {
+        "id": "C",
+        "text": "135 m",
+        "html": "135 m"
+      },
+      {
+        "id": "D",
+        "text": "112.5 m",
+        "html": "112.5 m"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "= 5 : 4\n50 : 2nd day = 5 : 4\n = 40 km \n = 60 −50 = 10 km\n= \n= 2 hr\n10\n5\n=\n= 7 hours\n203\n29\n= 54 −18 = 36 kmph = 10 m/s\n= 250 m\n= \n = 25 sec\n250\n10\n+\n= 1\nx\n45\nx\n50\n50 x −45 x = 45 × 50\n5x = 45 × 50\nx = 450 km\n = 45 + 5 + 40 = 90 kmph\n= \n= 5 hr\n450\n90\n. = 30% of 300 = 90 km\n= \n= 45 km/hr\n90\n2\n = 300 −90 = 210 km\n= \n= 105 km/hr\n210\n2\n(105 −45) = 60 km/hr\n= 50 + 30 = 80 kmph\n= 50 × 2 = 100 km\n = 500 −100 = 400 km\n= \n= 5 hrs\n400\n80\n 2.5 + 7.5 = 10",
+    "explanationHtml": "= 5 : 4<br/>50 : 2nd day = 5 : 4<br/> = 40 km <br/> = 60 −50 = 10 km<br/>= <br/>= 2 hr<br/>10<br/>5<br/>=<br/>= 7 hours<br/>203<br/>29<br/>= 54 −18 = 36 kmph = 10 m/s<br/>= 250 m<br/>= <br/> = 25 sec<br/>250<br/>10<br/>+<br/>= 1<br/>x<br/>45<br/>x<br/>50<br/>50 x −45 x = 45 × 50<br/>5x = 45 × 50<br/>x = 450 km<br/> = 45 + 5 + 40 = 90 kmph<br/>= <br/>= 5 hr<br/>450<br/>90<br/>. = 30% of 300 = 90 km<br/>= <br/>= 45 km/hr<br/>90<br/>2<br/> = 300 −90 = 210 km<br/>= <br/>= 105 km/hr<br/>210<br/>2<br/>(105 −45) = 60 km/hr<br/>= 50 + 30 = 80 kmph<br/>= 50 × 2 = 100 km<br/> = 500 −100 = 400 km<br/>= <br/>= 5 hrs<br/>400<br/>80<br/> 2.5 + 7.5 = 10",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Krishna covered a distance of 400 km in 10 hrs.\nThe first part of his journey is covered by train,\nthen he hired a taxi. The speed of the train and\ntaxi is 30 km/hr and 45 km /hr respectively. Find\nthe ratio of distance covered by train and taxi.",
+    "questionHtml": "Krishna covered a distance of 400 km in 10 hrs.<br/>The first part of his journey is covered by train,<br/>then he hired a taxi. The speed of the train and<br/>taxi is 30 km/hr and 45 km /hr respectively. Find<br/>the ratio of distance covered by train and taxi.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "B",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "C",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "D",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "As the bus takes 0.5 hrs to travel from R to S\nand the motorcycle takes 3 hours to travel from\nR to S. So the ratio of time taken becomes 1:6\nand so the speeds are in the ratio of 6:1.",
+    "explanationHtml": "As the bus takes 0.5 hrs to travel from R to S<br/>and the motorcycle takes 3 hours to travel from<br/>R to S. So the ratio of time taken becomes 1:6<br/>and so the speeds are in the ratio of 6:1.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "A car is proceeding towards A at a uniform\nspeed of 30 km/hr. While the car is 150 kms\naway from A an insect starting from A flies\nagain and again between A and the car\nrelentlessly. The speed of the insect is 40km/hr.\nFind the distance covered by the insect till the\ncar reaches A.",
+    "questionHtml": "A car is proceeding towards A at a uniform<br/>speed of 30 km/hr. While the car is 150 kms<br/>away from A an insect starting from A flies<br/>again and again between A and the car<br/>relentlessly. The speed of the insect is 40km/hr.<br/>Find the distance covered by the insect till the<br/>car reaches A.",
+    "options": [
+      {
+        "id": "A",
+        "text": "150 km",
+        "html": "150 km"
+      },
+      {
+        "id": "B",
+        "text": "180 km",
+        "html": "180 km"
+      },
+      {
+        "id": "C",
+        "text": "200 km",
+        "html": "200 km"
+      },
+      {
+        "id": "D",
+        "text": "250 km",
+        "html": "250 km"
+      },
+      {
+        "id": "E",
+        "text": "300 km",
+        "html": "300 km"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let's check the option D,\nThe speed of the car is \n = 60 km/hr.\nThe speed of the train is 120 km/hr\n360 km covers by train in \n = 3 hours.\nSo, it is satisfied.",
+    "explanationHtml": "Let's check the option D,<br/>The speed of the car is <br/> = 60 km/hr.<br/>The speed of the train is 120 km/hr<br/>360 km covers by train in <br/> = 3 hours.<br/>So, it is satisfied.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "A car going from A to B and again returning\nfrom B to A and in this journey the total time\ntaken is 35 hours. If the distance between A\nand B is 210 km, then find the average speed\nof the car in this whole journey.",
+    "questionHtml": "A car going from A to B and again returning<br/>from B to A and in this journey the total time<br/>taken is 35 hours. If the distance between A<br/>and B is 210 km, then find the average speed<br/>of the car in this whole journey.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 kmph",
+        "html": "10 kmph"
+      },
+      {
+        "id": "B",
+        "text": "15 kmph",
+        "html": "15 kmph"
+      },
+      {
+        "id": "C",
+        "text": "12 kmph",
+        "html": "12 kmph"
+      },
+      {
+        "id": "D",
+        "text": "18 kmph",
+        "html": "18 kmph"
+      },
+      {
+        "id": "E",
+        "text": "25 kmph",
+        "html": "25 kmph"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let in 5 leaps dog covers d unit and in 3 leaps\ncat covers d units.\nDistance covered by the dog in 1 leap \nunits and distance covered by the cat in 1 leap\n units.\nAnd, in t second dog covers 8 leaps and the cat\ncovers 10 leaps.\nDistance covered by the dog in 8 leaps = \nunits and distance covered by the cat in 10\nleaps = \n units.\nSpeed of dog \n and speed of cat =\nRequired ratio \n 12: 25",
+    "explanationHtml": "Let in 5 leaps dog covers d unit and in 3 leaps<br/>cat covers d units.<br/>Distance covered by the dog in 1 leap <br/>units and distance covered by the cat in 1 leap<br/> units.<br/>And, in t second dog covers 8 leaps and the cat<br/>covers 10 leaps.<br/>Distance covered by the dog in 8 leaps = <br/>units and distance covered by the cat in 10<br/>leaps = <br/> units.<br/>Speed of dog <br/> and speed of cat =<br/>Required ratio <br/> 12: 25",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "A car going from A to B and again returning\nfrom B to A and in this journey the total time\ntaken is 48 hours. If the distance between A\nand B is 720 km, then find the average speed\nof the car in this whole journey.",
+    "questionHtml": "A car going from A to B and again returning<br/>from B to A and in this journey the total time<br/>taken is 48 hours. If the distance between A<br/>and B is 720 km, then find the average speed<br/>of the car in this whole journey.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 kmph",
+        "html": "10 kmph"
+      },
+      {
+        "id": "B",
+        "text": "30 kmph",
+        "html": "30 kmph"
+      },
+      {
+        "id": "C",
+        "text": "20 kmph",
+        "html": "20 kmph"
+      },
+      {
+        "id": "D",
+        "text": "25 kmph",
+        "html": "25 kmph"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "The relative speed of train P and Q = x + x + 9 =\n2x + 9 km/h\nWe know,\nDistance = Speed \n Time\n588 = (2x + 9) \n 12\nSpeed of the train Q = 20 + 9 = 29 km/h",
+    "explanationHtml": "The relative speed of train P and Q = x + x + 9 =<br/>2x + 9 km/h<br/>We know,<br/>Distance = Speed <br/> Time<br/>588 = (2x + 9) <br/> 12<br/>Speed of the train Q = 20 + 9 = 29 km/h",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Ananya drives the first 180 miles of her trip at a\nspeed of 80 km/hr and the rest of the trip at 110\nkm/hr. Her average speed for the entire trip is\n100 km/hr. Find the length of the trip. (1 mile ~\n1.6 km)",
+    "questionHtml": "Ananya drives the first 180 miles of her trip at a<br/>speed of 80 km/hr and the rest of the trip at 110<br/>km/hr. Her average speed for the entire trip is<br/>100 km/hr. Find the length of the trip. (1 mile ~<br/>1.6 km)",
+    "options": [
+      {
+        "id": "A",
+        "text": "625 miles",
+        "html": "625 miles"
+      },
+      {
+        "id": "B",
+        "text": "800 miles",
+        "html": "800 miles"
+      },
+      {
+        "id": "C",
+        "text": "775 miles",
+        "html": "775 miles"
+      },
+      {
+        "id": "D",
+        "text": "675 miles",
+        "html": "675 miles"
+      },
+      {
+        "id": "E",
+        "text": "575 miles",
+        "html": "575 miles"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Let, the time taken by Varun to pass the car = x\nhours\nSo, distance traveled by the car in x hours = 80x\nkm\nTherefore, \n⇒ \n[130 + 5x – 5] = 80\n⇒\n \n⇒ 125 + 5x = 160\n⇒ 5x = 35\n⇒ x = 7\nSo, after 7 hours, Varun would have passed the\ncar.\nThe speed of Varun when he passed the car =\n65 + (7 – 1) × 5 = 65 + 30 = 95 km/h\nRequired distance = (95 – 80) × 2 = 15 × 2 = 30\nkm\nHence, option B is answer.",
+    "explanationHtml": "Let, the time taken by Varun to pass the car = x<br/>hours<br/>So, distance traveled by the car in x hours = 80x<br/>km<br/>Therefore, <br/>⇒ <br/>[130 + 5x – 5] = 80<br/>⇒<br/> <br/>⇒ 125 + 5x = 160<br/>⇒ 5x = 35<br/>⇒ x = 7<br/>So, after 7 hours, Varun would have passed the<br/>car.<br/>The speed of Varun when he passed the car =<br/>65 + (7 – 1) × 5 = 65 + 30 = 95 km/h<br/>Required distance = (95 – 80) × 2 = 15 × 2 = 30<br/>km<br/>Hence, option B is answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "A fired a bullet and after (x+3) sec it was heard\nby B who was standing at a certain distance\nfrom the place where the bullet fired. If the\nspeed of air is x m/sec and the distance\nbetween A and B is 10 meters, then find the\nvalue of x.",
+    "questionHtml": "A fired a bullet and after (x+3) sec it was heard<br/>by B who was standing at a certain distance<br/>from the place where the bullet fired. If the<br/>speed of air is x m/sec and the distance<br/>between A and B is 10 meters, then find the<br/>value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "7",
+        "html": "7"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of car\nSpeed of bus \nSpeed of train =\nRequired \nratio",
+    "explanationHtml": "Speed of car<br/>Speed of bus <br/>Speed of train =<br/>Required <br/>ratio",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "A bus left town A for town B. Having traveled\n33.33% of the distance, it stopped for 5 hours\ndue to road blockage. It traveled 300 km of\nthe total distance by this time. After it started\nagain, the driver increased the speed by 25\nkm/h and reached town B at the scheduled\ntime. What was the original speed of the bus?",
+    "questionHtml": "A bus left town A for town B. Having traveled<br/>33.33% of the distance, it stopped for 5 hours<br/>due to road blockage. It traveled 300 km of<br/>the total distance by this time. After it started<br/>again, the driver increased the speed by 25<br/>km/h and reached town B at the scheduled<br/>time. What was the original speed of the bus?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "B",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "C",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "D",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "E",
+        "text": "28",
+        "html": "28"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed of B \nDistance between P and Q \nSpeed of A = x kmph\nRelative \nspeed \nof \nA \nand \nB\nTime taken by B to meet A = 3 hours",
+    "explanationHtml": "Speed of B <br/>Distance between P and Q <br/>Speed of A = x kmph<br/>Relative <br/>speed <br/>of <br/>A <br/>and <br/>B<br/>Time taken by B to meet A = 3 hours",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "A gun fired 2 bullets in an interval of 20 minutes\nat a place but a person running towards the\nplace heard it after 18 minutes from the first\nfiring. If the speed of the sound in 234 m/s, then\nfind the speed of the person.",
+    "questionHtml": "A gun fired 2 bullets in an interval of 20 minutes<br/>at a place but a person running towards the<br/>place heard it after 18 minutes from the first<br/>firing. If the speed of the sound in 234 m/s, then<br/>find the speed of the person.",
+    "options": [
+      {
+        "id": "A",
+        "text": "26 m/sec",
+        "html": "26 m/sec"
+      },
+      {
+        "id": "B",
+        "text": "32 m/sec",
+        "html": "32 m/sec"
+      },
+      {
+        "id": "C",
+        "text": "33 m/sec",
+        "html": "33 m/sec"
+      },
+      {
+        "id": "D",
+        "text": "51 m/sec",
+        "html": "51 m/sec"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of A\nSpeed of car B \nDistance between P and Q\nTime taken by car B to meet car A = 2 hr\n∴ Hence the answer is 80.",
+    "explanationHtml": "Speed of A<br/>Speed of car B <br/>Distance between P and Q<br/>Time taken by car B to meet car A = 2 hr<br/>∴ Hence the answer is 80.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A gun fired in an interval of 10 minutes at a\nplace but a person running towards the place\nheard it after 8 minutes from the first firing. If the\nspeed of the sound is 320 m/s, then find the\nspeed of the person.",
+    "questionHtml": "A gun fired in an interval of 10 minutes at a<br/>place but a person running towards the place<br/>heard it after 8 minutes from the first firing. If the<br/>speed of the sound is 320 m/s, then find the<br/>speed of the person.",
+    "options": [
+      {
+        "id": "A",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "B",
+        "text": "90",
+        "html": "90"
+      },
+      {
+        "id": "C",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "D",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = x\n Speed of A = x + 15",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = x<br/> Speed of A = x + 15",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "A gun fired in an interval of 25 minutes at a\nplace but a person running towards the place\nheard it after 20 minutes from the first firing. If\nthe speed of the sound is 300 m/s, then find\nthe speed of the person in kmph.",
+    "questionHtml": "A gun fired in an interval of 25 minutes at a<br/>place but a person running towards the place<br/>heard it after 20 minutes from the first firing. If<br/>the speed of the sound is 300 m/s, then find<br/>the speed of the person in kmph.",
+    "options": [
+      {
+        "id": "A",
+        "text": "250 kmph",
+        "html": "250 kmph"
+      },
+      {
+        "id": "B",
+        "text": "280 kmph",
+        "html": "280 kmph"
+      },
+      {
+        "id": "C",
+        "text": "220 kmph",
+        "html": "220 kmph"
+      },
+      {
+        "id": "D",
+        "text": "270 kmph",
+        "html": "270 kmph"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = 3kmph\nSpeed of A = 4 kmph\n= \n 9x + 54 = 16x + 40",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = 3kmph<br/>Speed of A = 4 kmph<br/>= <br/> 9x + 54 = 16x + 40",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "A gun fired two shots at an interval and the\nperson who was coming on the bike heard it\nafter 10 minutes. If the speed of the bike was\n180 kmph and the speed of sound is 300 m/sec,\nthen find the actual interval of the shots fired.",
+    "questionHtml": "A gun fired two shots at an interval and the<br/>person who was coming on the bike heard it<br/>after 10 minutes. If the speed of the bike was<br/>180 kmph and the speed of sound is 300 m/sec,<br/>then find the actual interval of the shots fired.",
+    "options": [
+      {
+        "id": "A",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "B",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "C",
+        "text": "46",
+        "html": "46"
+      },
+      {
+        "id": "D",
+        "text": "34",
+        "html": "34"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 3 \n \n = 390 km\nSpeed of boat in still water = 20 \n = 18\nkm/hr\nLet speed of current be V km/hr\nAccording to question,\n = 30\n13 = 18 – V\nV = 5 km/hr",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 3 <br/> <br/> = 390 km<br/>Speed of boat in still water = 20 <br/> = 18<br/>km/hr<br/>Let speed of current be V km/hr<br/>According to question,<br/> = 30<br/>13 = 18 – V<br/>V = 5 km/hr",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "A person starts from a point and walks at the\nspeed of 30km/h for 30minutes and then he\ngets the lift from a person on bike and then he\ntravels at a speed of60 km/hr for the next 30\nminutes. What is the total distance moved by\nthe person from the starting point?",
+    "questionHtml": "A person starts from a point and walks at the<br/>speed of 30km/h for 30minutes and then he<br/>gets the lift from a person on bike and then he<br/>travels at a speed of60 km/hr for the next 30<br/>minutes. What is the total distance moved by<br/>the person from the starting point?",
+    "options": [
+      {
+        "id": "A",
+        "text": "40 km",
+        "html": "40 km"
+      },
+      {
+        "id": "B",
+        "text": "50 km",
+        "html": "50 km"
+      },
+      {
+        "id": "C",
+        "text": "45 km",
+        "html": "45 km"
+      },
+      {
+        "id": "D",
+        "text": "30 km",
+        "html": "30 km"
+      },
+      {
+        "id": "E",
+        "text": "60 km",
+        "html": "60 km"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let speeds of bus P and bus Q are ‘3x’ km/h\nand ‘4x’ km/h respectively.\nSince, time taken by bus P to reach point B is\n2.5 hours more than that taken by bus Q to\nreach point B.\nSo,\n = 2.5\n = 2.5\n \n = \n = 70 kmph\n700\n10\n= ( )70 = 60 kmph\n6\n7\n ( )60 = 70 kmph\n7\n6\n= (20 × 70) : (70 × 10) = 2 : 1 \n= x −10 kmph.\n= 5x + 20 km.\n= x + x −10 = 2x −10 kmph\n= 3\n(5x+20)\n2x−10\n6x −30 = 5x + 20\nx = 50\n = x km/hr\n= (x −60) km/hr\n = x + 120 km\n= 2\n(x+120)\nx+x−60\n(x + 120) = 2[2x −60]\n+ 120 = 4x −120\nx\nx = 80\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n=\nx2\n(x+15)2\n1\nx+11\n+ 30x + 225 =\n+ 11\nx2\nx3\nx2\n+ 10\n−30x = 225\nx3\nx2\nx = 5\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n( )\n3\n4\n2\n=\n9\n16\nx+2.5\nx+6\n7x = 14\nx = 2 \nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n5\n×\n×\n18\n5\n25\n100\n390\n18−V\n(\n) – (\n)\n648\n3x\n648\n4x\n(\n) – (\n)\n216\nx\n162\nx",
+    "explanationHtml": "Let speeds of bus P and bus Q are ‘3x’ km/h<br/>and ‘4x’ km/h respectively.<br/>Since, time taken by bus P to reach point B is<br/>2.5 hours more than that taken by bus Q to<br/>reach point B.<br/>So,<br/> = 2.5<br/> = 2.5<br/> <br/> = <br/> = 70 kmph<br/>700<br/>10<br/>= ( )70 = 60 kmph<br/>6<br/>7<br/> ( )60 = 70 kmph<br/>7<br/>6<br/>= (20 × 70) : (70 × 10) = 2 : 1 <br/>= x −10 kmph.<br/>= 5x + 20 km.<br/>= x + x −10 = 2x −10 kmph<br/>= 3<br/>(5x+20)<br/>2x−10<br/>6x −30 = 5x + 20<br/>x = 50<br/> = x km/hr<br/>= (x −60) km/hr<br/> = x + 120 km<br/>= 2<br/>(x+120)<br/>x+x−60<br/>(x + 120) = 2[2x −60]<br/>+ 120 = 4x −120<br/>x<br/>x = 80<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>=<br/>x2<br/>(x+15)2<br/>1<br/>x+11<br/>+ 30x + 225 =<br/>+ 11<br/>x2<br/>x3<br/>x2<br/>+ 10<br/>−30x = 225<br/>x3<br/>x2<br/>x = 5<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>( )<br/>3<br/>4<br/>2<br/>=<br/>9<br/>16<br/>x+2.5<br/>x+6<br/>7x = 14<br/>x = 2 <br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>5<br/>×<br/>×<br/>18<br/>5<br/>25<br/>100<br/>390<br/>18−V<br/>(<br/>) – (<br/>)<br/>648<br/>3x<br/>648<br/>4x<br/>(<br/>) – (<br/>)<br/>216<br/>x<br/>162<br/>x",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "'A' and 'B' start running together from point 'X'\ntowards point 'Y'. At the same time, 'C' leaves\nfrom point 'Y' towards point 'X'. 'C' meets 'A' and\n'B' at points 'M' and 'N' respectively, which are\n150 metre and 75 metres away from point 'X'.\nFind the ratio of speed of 'A' to 'B', given that 'X'\nand 'Y' are 225 metres apart.",
+    "questionHtml": "'A' and 'B' start running together from point 'X'<br/>towards point 'Y'. At the same time, 'C' leaves<br/>from point 'Y' towards point 'X'. 'C' meets 'A' and<br/>'B' at points 'M' and 'N' respectively, which are<br/>150 metre and 75 metres away from point 'X'.<br/>Find the ratio of speed of 'A' to 'B', given that 'X'<br/>and 'Y' are 225 metres apart.",
+    "options": [
+      {
+        "id": "A",
+        "text": "4:1",
+        "html": "4:1"
+      },
+      {
+        "id": "B",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "C",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "D",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "E",
+        "text": "3:5",
+        "html": "3:5"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to the question,\n25x – {(15 + 5x)(x – 4)} = 60\nOr, 30x – 5\n = 0\nOr, 5x(x – 6) = 0\nOr, x = 0, 6\nOr, x = 6 (since time cannot be zero)\nTherefore, distance covered by him with a\nspeed of 25 km/hr = 25x = 150 km\nFor I:\nDistance covered by him with a speed of 25\nkm/hr = (\n + 114) = (114 + 36) = 150 km\nTherefore, I can be the answer:\nFor II:\nDistance covered by him with a speed of 25\nkm/hr = (20x + 40) = (120 + 40) = 160 km\nTherefore, II cannot be the answer.\nFor III:\nDistance covered by him with a speed of 25\nkm/hr = (40x – 90) = (240 – 90) = 150 km\nTherefore, III can be the answer.\nHence, the correct option is E.",
+    "explanationHtml": "According to the question,<br/>25x – {(15 + 5x)(x – 4)} = 60<br/>Or, 30x – 5<br/> = 0<br/>Or, 5x(x – 6) = 0<br/>Or, x = 0, 6<br/>Or, x = 6 (since time cannot be zero)<br/>Therefore, distance covered by him with a<br/>speed of 25 km/hr = 25x = 150 km<br/>For I:<br/>Distance covered by him with a speed of 25<br/>km/hr = (<br/> + 114) = (114 + 36) = 150 km<br/>Therefore, I can be the answer:<br/>For II:<br/>Distance covered by him with a speed of 25<br/>km/hr = (20x + 40) = (120 + 40) = 160 km<br/>Therefore, II cannot be the answer.<br/>For III:<br/>Distance covered by him with a speed of 25<br/>km/hr = (40x – 90) = (240 – 90) = 150 km<br/>Therefore, III can be the answer.<br/>Hence, the correct option is E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "A cyclist, after cycling a distance of 50 km on\nthe first day, finds that the ratio of distance\ncovered by him on the first two days is 5:4. If he\ntravels a distance of 60 km on the third day. If\nthe speed of the cyclist is 5 kmph, then find the\ntime taken to cover the distance equal to the",
+    "questionHtml": "A cyclist, after cycling a distance of 50 km on<br/>the first day, finds that the ratio of distance<br/>covered by him on the first two days is 5:4. If he<br/>travels a distance of 60 km on the third day. If<br/>the speed of the cyclist is 5 kmph, then find the<br/>time taken to cover the distance equal to the",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 2 \n \n = 100 km\nSpeed of train B = (Y+10) \n = 30 \n = 108\nkm/hr\nSpeed of current = 108 \n = 6 km/hr\nAccording to question,\n = \nU + 2 = 15\nU = 13",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 2 <br/> <br/> = 100 km<br/>Speed of train B = (Y+10) <br/> = 30 <br/> = 108<br/>km/hr<br/>Speed of current = 108 <br/> = 6 km/hr<br/>According to question,<br/> = <br/>U + 2 = 15<br/>U = 13",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions: \nStudy \nthe \nfollowing \nquestion\ncarefully and choose the right answer given\nbeside.\nAmardeep goes to park daily. His last week\naverage speed with which he completed one\nround of the park was 47Km/h, for the first four\ndays was 37Km/h, and that for the last four\ndays was 52.5Km/h. Find out the time taken by\nAmardeep to travel 203 Km if he travels with the\nspeed of the fourth day.",
+    "questionHtml": "Directions: <br/>Study <br/>the <br/>following <br/>question<br/>carefully and choose the right answer given<br/>beside.<br/>Amardeep goes to park daily. His last week<br/>average speed with which he completed one<br/>round of the park was 47Km/h, for the first four<br/>days was 37Km/h, and that for the last four<br/>days was 52.5Km/h. Find out the time taken by<br/>Amardeep to travel 203 Km if he travels with the<br/>speed of the fourth day.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 hours",
+        "html": "8 hours"
+      },
+      {
+        "id": "B",
+        "text": "5.5 hours",
+        "html": "5.5 hours"
+      },
+      {
+        "id": "C",
+        "text": "7 hours",
+        "html": "7 hours"
+      },
+      {
+        "id": "D",
+        "text": "6 hours",
+        "html": "6 hours"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to question,\nDistance travelled by P = \n = 180 km\nDistance travelled by Q = 240 – 180 = 60 km\nNow,\n7Y + 50Y – 1200 = 0\nPossible value of Y = 10\nValue of Z = 30 + 10 = 40 km/h\n \n54\nx\n648\n64.8\n648\n86.4\n648\n55.08\n(\n)\n5\n18\nX2\nX2\nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n13\n× 18\n5\n× 18\n5\n× 1\n18\n100\nU − 4 + 6\n20\n3\n× 3\n240\n4\n+\n=\n180\nY + 30\n60\nY\n21\n2\n2",
+    "explanationHtml": "According to question,<br/>Distance travelled by P = <br/> = 180 km<br/>Distance travelled by Q = 240 – 180 = 60 km<br/>Now,<br/>7Y + 50Y – 1200 = 0<br/>Possible value of Y = 10<br/>Value of Z = 30 + 10 = 40 km/h<br/> <br/>54<br/>x<br/>648<br/>64.8<br/>648<br/>86.4<br/>648<br/>55.08<br/>(<br/>)<br/>5<br/>18<br/>X2<br/>X2<br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>13<br/>× 18<br/>5<br/>× 18<br/>5<br/>× 1<br/>18<br/>100<br/>U − 4 + 6<br/>20<br/>3<br/>× 3<br/>240<br/>4<br/>+<br/>=<br/>180<br/>Y + 30<br/>60<br/>Y<br/>21<br/>2<br/>2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "A constable follows a thief who is 250 m ahead\nof the constable. If the constable and the thief\nrun at speeds of 54 km/hour and 18 km/hour\nrespectively, would the constable catch the\nthief in what time?",
+    "questionHtml": "A constable follows a thief who is 250 m ahead<br/>of the constable. If the constable and the thief<br/>run at speeds of 54 km/hour and 18 km/hour<br/>respectively, would the constable catch the<br/>thief in what time?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15 sec",
+        "html": "15 sec"
+      },
+      {
+        "id": "B",
+        "text": "12 sec",
+        "html": "12 sec"
+      },
+      {
+        "id": "C",
+        "text": "18 sec",
+        "html": "18 sec"
+      },
+      {
+        "id": "D",
+        "text": "25 sec",
+        "html": "25 sec"
+      },
+      {
+        "id": "E",
+        "text": "36 sec",
+        "html": "36 sec"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relative \nspeed \nof \nconstable \nand \nthief\nDistance between them \nTime taken to catch the thief",
+    "explanationHtml": "Relative <br/>speed <br/>of <br/>constable <br/>and <br/>thief<br/>Distance between them <br/>Time taken to catch the thief",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "A car travels from P to Q at a constant speed.\nIf its speed were increased by 5 km/h, it would\nhave taken one hour less to cover the distance.\nIt would have taken 4 hours less if the speed\nwas further increased by 40 km/h. If the speed\ninitially was 45 kmph, then find the distance\nbetween the two cities and time taken in the\nlast assumption in which speed increased by\n40 kmph..",
+    "questionHtml": "A car travels from P to Q at a constant speed.<br/>If its speed were increased by 5 km/h, it would<br/>have taken one hour less to cover the distance.<br/>It would have taken 4 hours less if the speed<br/>was further increased by 40 km/h. If the speed<br/>initially was 45 kmph, then find the distance<br/>between the two cities and time taken in the<br/>last assumption in which speed increased by<br/>40 kmph..",
+    "options": [
+      {
+        "id": "A",
+        "text": "420 km, 2 hr",
+        "html": "420 km, 2 hr"
+      },
+      {
+        "id": "B",
+        "text": "120 km, 8 hr",
+        "html": "120 km, 8 hr"
+      },
+      {
+        "id": "C",
+        "text": "100 km, 6 hr",
+        "html": "100 km, 6 hr"
+      },
+      {
+        "id": "D",
+        "text": "450 km, 5 hr",
+        "html": "450 km, 5 hr"
+      },
+      {
+        "id": "E",
+        "text": "220 km, 3 hr",
+        "html": "220 km, 3 hr"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let the distance to reach his office be x km.\nAs per question;\nSo, final speed\nTime taken",
+    "explanationHtml": "Let the distance to reach his office be x km.<br/>As per question;<br/>So, final speed<br/>Time taken",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "A car driver leaves Bangalore at 9.30 A.M. and\nexpects to reach a place 300 km from\nBangalore at 1.30 P.M. At 11.30 he finds that he\nhas covered only 30% of the distance. By how\nmuch does he has to increase the speed of the\ncar in order to keep up his schedule?",
+    "questionHtml": "A car driver leaves Bangalore at 9.30 A.M. and<br/>expects to reach a place 300 km from<br/>Bangalore at 1.30 P.M. At 11.30 he finds that he<br/>has covered only 30% of the distance. By how<br/>much does he has to increase the speed of the<br/>car in order to keep up his schedule?",
+    "options": [
+      {
+        "id": "A",
+        "text": "80 kmph",
+        "html": "80 kmph"
+      },
+      {
+        "id": "B",
+        "text": "60 kmph",
+        "html": "60 kmph"
+      },
+      {
+        "id": "C",
+        "text": "70 kmph",
+        "html": "70 kmph"
+      },
+      {
+        "id": "D",
+        "text": "90 kmph",
+        "html": "90 kmph"
+      },
+      {
+        "id": "E",
+        "text": "75 kmph",
+        "html": "75 kmph"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Distance \ncovered \ntill \n11:30 \na.m\nSpeed \nof \nthe \ncar \ntill \n11: \n30 \na.m\nRemaining distance\nSpeed of car to reach Bangalore at time\nTherefore; \nspeed \nshould \nincrease \nby",
+    "explanationHtml": "Distance <br/>covered <br/>till <br/>11:30 <br/>a.m<br/>Speed <br/>of <br/>the <br/>car <br/>till <br/>11: <br/>30 <br/>a.m<br/>Remaining distance<br/>Speed of car to reach Bangalore at time<br/>Therefore; <br/>speed <br/>should <br/>increase <br/>by",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Distance between two bus stations X and Y is\n500 km. Buses P and Q leave station X and Y at\n9 a.m. and 11 a.m. respectively at the speed of\n50 kmph and 30 kmph respectively for the\njourney towards Y and X respectively. If the time\ntaken by Q to meet bus P is k hrs. Then find =\n50% of k + 150% of k",
+    "questionHtml": "Distance between two bus stations X and Y is<br/>500 km. Buses P and Q leave station X and Y at<br/>9 a.m. and 11 a.m. respectively at the speed of<br/>50 kmph and 30 kmph respectively for the<br/>journey towards Y and X respectively. If the time<br/>taken by Q to meet bus P is k hrs. Then find =<br/>50% of k + 150% of k",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "C",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "D",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "E",
+        "text": "17",
+        "html": "17"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relative \nspeed \nof \nbuses\nDistance \ntravelled \nby \nP \ntill \n11 \nam\nRemaining distance\nTime taken by Q to meet P ,k\nTherefore; \n50% \nof \nk \n+ \n150% \nof \nk \n=",
+    "explanationHtml": "Relative <br/>speed <br/>of <br/>buses<br/>Distance <br/>travelled <br/>by <br/>P <br/>till <br/>11 <br/>am<br/>Remaining distance<br/>Time taken by Q to meet P ,k<br/>Therefore; <br/>50% <br/>of <br/>k <br/>+ <br/>150% <br/>of <br/>k <br/>=",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "45 pillars are standing in a line such that\ndistance between any two consecutive pillars is\nthe same. A car traveling with a uniform speed\nof 72 km/h takes 18 sec to reach the 1st pole to\nthe 10th pole. What is the distance between\nthe 10th and 31st poles?",
+    "questionHtml": "45 pillars are standing in a line such that<br/>distance between any two consecutive pillars is<br/>the same. A car traveling with a uniform speed<br/>of 72 km/h takes 18 sec to reach the 1st pole to<br/>the 10th pole. What is the distance between<br/>the 10th and 31st poles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B)"
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D)"
+      },
+      {
+        "id": "E",
+        "text": "960 m",
+        "html": "960 m"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "= 5 : 4\n50 : 2nd day = 5 : 4\n = 40 km \n = 60 −50 = 10 km\n= \n= 2 hr\n10\n5\n=\n= 7 hours\n203\n29\n= 54 −18 = 36 kmph = 10 m/s\n= 250 m\n= \n = 25 sec\n250\n10\n+\n= 1\nx\n45\nx\n50\n50 x −45 x = 45 × 50\n5x = 45 × 50\nx = 450 km\n = 45 + 5 + 40 = 90 kmph\n= \n= 5 hr\n450\n90\n. = 30% of 300 = 90 km\n= \n= 45 km/hr\n90\n2\n = 300 −90 = 210 km\n= \n= 105 km/hr\n210\n2\n(105 −45) = 60 km/hr\n= 50 + 30 = 80 kmph\n= 50 × 2 = 100 km\n = 500 −100 = 400 km\n= \n= 5 hrs\n400\n80\n 2.5 + 7.5 = 10",
+    "explanationHtml": "= 5 : 4<br/>50 : 2nd day = 5 : 4<br/> = 40 km <br/> = 60 −50 = 10 km<br/>= <br/>= 2 hr<br/>10<br/>5<br/>=<br/>= 7 hours<br/>203<br/>29<br/>= 54 −18 = 36 kmph = 10 m/s<br/>= 250 m<br/>= <br/> = 25 sec<br/>250<br/>10<br/>+<br/>= 1<br/>x<br/>45<br/>x<br/>50<br/>50 x −45 x = 45 × 50<br/>5x = 45 × 50<br/>x = 450 km<br/> = 45 + 5 + 40 = 90 kmph<br/>= <br/>= 5 hr<br/>450<br/>90<br/>. = 30% of 300 = 90 km<br/>= <br/>= 45 km/hr<br/>90<br/>2<br/> = 300 −90 = 210 km<br/>= <br/>= 105 km/hr<br/>210<br/>2<br/>(105 −45) = 60 km/hr<br/>= 50 + 30 = 80 kmph<br/>= 50 × 2 = 100 km<br/> = 500 −100 = 400 km<br/>= <br/>= 5 hrs<br/>400<br/>80<br/> 2.5 + 7.5 = 10",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "A bus leaves a city P at 8:00 A.M. On its way to\ncity Q, it overtakes a motorcycle at 10:00 A.M.\nand reaches Q at 11:30 A.M. It halts at Q for half\nan hour and starts moving towards P. It meets\nthe same motorcycle at 1:00 P.M. What is the\nratio of the speed of the bus to the speed of\nthe motorcycle?",
+    "questionHtml": "A bus leaves a city P at 8:00 A.M. On its way to<br/>city Q, it overtakes a motorcycle at 10:00 A.M.<br/>and reaches Q at 11:30 A.M. It halts at Q for half<br/>an hour and starts moving towards P. It meets<br/>the same motorcycle at 1:00 P.M. What is the<br/>ratio of the speed of the bus to the speed of<br/>the motorcycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6: 1",
+        "html": "6: 1"
+      },
+      {
+        "id": "B",
+        "text": "4: 1",
+        "html": "4: 1"
+      },
+      {
+        "id": "C",
+        "text": "5: 1",
+        "html": "5: 1"
+      },
+      {
+        "id": "D",
+        "text": "7: 2",
+        "html": "7: 2"
+      },
+      {
+        "id": "E",
+        "text": "7: 3",
+        "html": "7: 3"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "As the bus takes 0.5 hrs to travel from R to S\nand the motorcycle takes 3 hours to travel from\nR to S. So the ratio of time taken becomes 1:6\nand so the speeds are in the ratio of 6:1.",
+    "explanationHtml": "As the bus takes 0.5 hrs to travel from R to S<br/>and the motorcycle takes 3 hours to travel from<br/>R to S. So the ratio of time taken becomes 1:6<br/>and so the speeds are in the ratio of 6:1.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "A car covers ____ km in 9 hours. The speed of\nthe train is double of the speed of the car. The\ntrain covers 360 km in _____ hours.\nFind which of the given options fill the blank to\nmake the statement correct?",
+    "questionHtml": "A car covers ____ km in 9 hours. The speed of<br/>the train is double of the speed of the car. The<br/>train covers 360 km in _____ hours.<br/>Find which of the given options fill the blank to<br/>make the statement correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "450, 2",
+        "html": "450, 2"
+      },
+      {
+        "id": "B",
+        "text": "648, 3.5\n \n800 m\n900 m\n840 m\n940 m",
+        "html": "648, 3.5\n \n800 m\n900 m\n840 m\n940 m"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let's check the option D,\nThe speed of the car is \n = 60 km/hr.\nThe speed of the train is 120 km/hr\n360 km covers by train in \n = 3 hours.\nSo, it is satisfied.",
+    "explanationHtml": "Let's check the option D,<br/>The speed of the car is <br/> = 60 km/hr.<br/>The speed of the train is 120 km/hr<br/>360 km covers by train in <br/> = 3 hours.<br/>So, it is satisfied.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "A dog pursues a cat and takes 8 leaps for every\n10 leaps of the cat, but 5 leaps of the dog are\nequal to 3 leaps of the cat. What is ratio of the\nspeeds of the dog and the cat?",
+    "questionHtml": "A dog pursues a cat and takes 8 leaps for every<br/>10 leaps of the cat, but 5 leaps of the dog are<br/>equal to 3 leaps of the cat. What is ratio of the<br/>speeds of the dog and the cat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "14: 5",
+        "html": "14: 5"
+      },
+      {
+        "id": "B",
+        "text": "12: 25",
+        "html": "12: 25"
+      },
+      {
+        "id": "C",
+        "text": "13: 6",
+        "html": "13: 6"
+      },
+      {
+        "id": "D",
+        "text": "3: 2",
+        "html": "3: 2"
+      },
+      {
+        "id": "E",
+        "text": "5: 2",
+        "html": "5: 2"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let in 5 leaps dog covers d unit and in 3 leaps\ncat covers d units.\nDistance covered by the dog in 1 leap \nunits and distance covered by the cat in 1 leap\n units.\nAnd, in t second dog covers 8 leaps and the cat\ncovers 10 leaps.\nDistance covered by the dog in 8 leaps = \nunits and distance covered by the cat in 10\nleaps = \n units.\nSpeed of dog \n and speed of cat =\nRequired ratio \n 12: 25",
+    "explanationHtml": "Let in 5 leaps dog covers d unit and in 3 leaps<br/>cat covers d units.<br/>Distance covered by the dog in 1 leap <br/>units and distance covered by the cat in 1 leap<br/> units.<br/>And, in t second dog covers 8 leaps and the cat<br/>covers 10 leaps.<br/>Distance covered by the dog in 8 leaps = <br/>units and distance covered by the cat in 10<br/>leaps = <br/> units.<br/>Speed of dog <br/> and speed of cat =<br/>Required ratio <br/> 12: 25",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "The distance between Delhi and Patna is Y km.\nTrain P leaves from Delhi for Patna at a speed\nof x km/h and at the same time, Train Q leaves\nfrom Patna for Delhi at a speed of (x + 9) km/h.\nAt the end of 12 hours, they meet each other\nand then find the speed of the train Q? Where",
+    "questionHtml": "The distance between Delhi and Patna is Y km.<br/>Train P leaves from Delhi for Patna at a speed<br/>of x km/h and at the same time, Train Q leaves<br/>from Patna for Delhi at a speed of (x + 9) km/h.<br/>At the end of 12 hours, they meet each other<br/>and then find the speed of the train Q? Where",
+    "options": [
+      {
+        "id": "A",
+        "text": "29 km/h",
+        "html": "29 km/h"
+      },
+      {
+        "id": "B",
+        "text": "22 km/h",
+        "html": "22 km/h"
+      },
+      {
+        "id": "C",
+        "text": "25 km/h",
+        "html": "25 km/h"
+      },
+      {
+        "id": "D",
+        "text": "33 km/h",
+        "html": "33 km/h"
+      },
+      {
+        "id": "E",
+        "text": "36 km/h",
+        "html": "36 km/h"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "The relative speed of train P and Q = x + x + 9 =\n2x + 9 km/h\nWe know,\nDistance = Speed \n Time\n588 = (2x + 9) \n 12\nSpeed of the train Q = 20 + 9 = 29 km/h",
+    "explanationHtml": "The relative speed of train P and Q = x + x + 9 =<br/>2x + 9 km/h<br/>We know,<br/>Distance = Speed <br/> Time<br/>588 = (2x + 9) <br/> 12<br/>Speed of the train Q = 20 + 9 = 29 km/h",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Varun was traveling at the speed of 65 km/h. A\ncar with speed 80 km/h passed Varun and then\nVarun increased his speed by 5 km/h every\nhour. When Varun passed the car, he stopped\nincreasing his speed and continued at the\ncurrent speed. After passing the car, what was\nthe distance between Varun and the car, after\n2 hours?",
+    "questionHtml": "Varun was traveling at the speed of 65 km/h. A<br/>car with speed 80 km/h passed Varun and then<br/>Varun increased his speed by 5 km/h every<br/>hour. When Varun passed the car, he stopped<br/>increasing his speed and continued at the<br/>current speed. After passing the car, what was<br/>the distance between Varun and the car, after<br/>2 hours?",
+    "options": [
+      {
+        "id": "A",
+        "text": "25 km",
+        "html": "25 km"
+      },
+      {
+        "id": "B",
+        "text": "30 km",
+        "html": "30 km"
+      },
+      {
+        "id": "C",
+        "text": "40 km",
+        "html": "40 km"
+      },
+      {
+        "id": "D",
+        "text": "45 km",
+        "html": "45 km"
+      },
+      {
+        "id": "E",
+        "text": "60 km",
+        "html": "60 km"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Let, the time taken by Varun to pass the car = x\nhours\nSo, distance traveled by the car in x hours = 80x\nkm\nTherefore, \n⇒ \n[130 + 5x – 5] = 80\n⇒\n \n⇒ 125 + 5x = 160\n⇒ 5x = 35\n⇒ x = 7\nSo, after 7 hours, Varun would have passed the\ncar.\nThe speed of Varun when he passed the car =\n65 + (7 – 1) × 5 = 65 + 30 = 95 km/h\nRequired distance = (95 – 80) × 2 = 15 × 2 = 30\nkm\nHence, option B is answer.",
+    "explanationHtml": "Let, the time taken by Varun to pass the car = x<br/>hours<br/>So, distance traveled by the car in x hours = 80x<br/>km<br/>Therefore, <br/>⇒ <br/>[130 + 5x – 5] = 80<br/>⇒<br/> <br/>⇒ 125 + 5x = 160<br/>⇒ 5x = 35<br/>⇒ x = 7<br/>So, after 7 hours, Varun would have passed the<br/>car.<br/>The speed of Varun when he passed the car =<br/>65 + (7 – 1) × 5 = 65 + 30 = 95 km/h<br/>Required distance = (95 – 80) × 2 = 15 × 2 = 30<br/>km<br/>Hence, option B is answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Ranjeet drove from home to his office at 75\nmiles per hour and reached the office in 6 hours.\nWhile returning home he drove one-third way\nalong the same route at a speed of 30 miles\nper hour and the remaining distance he\ncovered in 2 hours. Find the average speed of\nreturning.",
+    "questionHtml": "Ranjeet drove from home to his office at 75<br/>miles per hour and reached the office in 6 hours.<br/>While returning home he drove one-third way<br/>along the same route at a speed of 30 miles<br/>per hour and the remaining distance he<br/>covered in 2 hours. Find the average speed of<br/>returning.",
+    "options": [
+      {
+        "id": "A",
+        "text": "108.56 miles/hr",
+        "html": "108.56 miles/hr"
+      },
+      {
+        "id": "B",
+        "text": "128.57 miles/hr",
+        "html": "128.57 miles/hr"
+      },
+      {
+        "id": "C",
+        "text": "124.27 miles/hr",
+        "html": "124.27 miles/hr"
+      },
+      {
+        "id": "D",
+        "text": "90.75 miles/hr",
+        "html": "90.75 miles/hr"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Distance between his house and his office\nmiles.\nOne-third of the distance \n miles.\nRequired average speed = total distance/ total\ntime \n miles/hour.",
+    "explanationHtml": "Distance between his house and his office<br/>miles.<br/>One-third of the distance <br/> miles.<br/>Required average speed = total distance/ total<br/>time <br/> miles/hour.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Rahul is going from Gurgaon to Agra from his\ncar at the speed of 80 kmph. After 120 km, he\nreduces his speed by 12.5% and completes the\nwhole journey in 5.5 hours. Find the total time\ntaken by him to cover the same distance, if he\nhad reduced the speed after 2 hours.",
+    "questionHtml": "Rahul is going from Gurgaon to Agra from his<br/>car at the speed of 80 kmph. After 120 km, he<br/>reduces his speed by 12.5% and completes the<br/>whole journey in 5.5 hours. Find the total time<br/>taken by him to cover the same distance, if he<br/>had reduced the speed after 2 hours.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 hours",
+        "html": "6 hours"
+      },
+      {
+        "id": "B",
+        "text": "5.2 hours",
+        "html": "5.2 hours"
+      },
+      {
+        "id": "C",
+        "text": "hours",
+        "html": "hours"
+      },
+      {
+        "id": "D",
+        "text": "hours",
+        "html": "hours"
+      },
+      {
+        "id": "E",
+        "text": "4.8 hours",
+        "html": "4.8 hours"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "=\n⇒2\n18\n9\n= 72 km/h\n= 72 ×\n⇒20 m/s\n5\n18\n= 1\nspeed = distance \ntime\n= 20 × 2 ⇒40 m\n31 −10 ⇒21\n21 × 40 m ⇒840 m\n540\n9\n360\n120\n= d\n5\n= d\n3\n 8d\n5\n10d\n3\n= 8d\n5t\n 10d\n3t\n=\n:\n=\n8d\n5t\n10d\n3t\nY = 1260 ÷ 6 × 3 −42\nY = 210 × 3 −42\nY = 630 − 42\nY = 588\n×\n×\n2x + 9 = 588\n12\n2x + 9 = 49\n2x = 40\nx = 20\n[2 × 65 + (x −1) × 5] = 80x\nx\n2\n1\n2\n+\n= 80\n125\n2\n5x\n2\n= 75 × 6 = 450 \n=\n= 150\n450\n3\n=\n=\n= 128. 57\n2×450\n+2\n150\n30\n900\n7",
+    "explanationHtml": "=<br/>⇒2<br/>18<br/>9<br/>= 72 km/h<br/>= 72 ×<br/>⇒20 m/s<br/>5<br/>18<br/>= 1<br/>speed = distance <br/>time<br/>= 20 × 2 ⇒40 m<br/>31 −10 ⇒21<br/>21 × 40 m ⇒840 m<br/>540<br/>9<br/>360<br/>120<br/>= d<br/>5<br/>= d<br/>3<br/> 8d<br/>5<br/>10d<br/>3<br/>= 8d<br/>5t<br/> 10d<br/>3t<br/>=<br/>:<br/>=<br/>8d<br/>5t<br/>10d<br/>3t<br/>Y = 1260 ÷ 6 × 3 −42<br/>Y = 210 × 3 −42<br/>Y = 630 − 42<br/>Y = 588<br/>×<br/>×<br/>2x + 9 = 588<br/>12<br/>2x + 9 = 49<br/>2x = 40<br/>x = 20<br/>[2 × 65 + (x −1) × 5] = 80x<br/>x<br/>2<br/>1<br/>2<br/>+<br/>= 80<br/>125<br/>2<br/>5x<br/>2<br/>= 75 × 6 = 450 <br/>=<br/>= 150<br/>450<br/>3<br/>=<br/>=<br/>= 128. 57<br/>2×450<br/>+2<br/>150<br/>30<br/>900<br/>7",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Aman, Beena and Chetan start running around\na circular field having circumference 180 metre\nat the same time from the same point. Speeds\nof Aman, Beena and Chetan are 2 m/minute,\n2.5 m/minute and 3 m/minute. Find after how\nmuch time, they will meet again at the same\npoint for the first time.",
+    "questionHtml": "Aman, Beena and Chetan start running around<br/>a circular field having circumference 180 metre<br/>at the same time from the same point. Speeds<br/>of Aman, Beena and Chetan are 2 m/minute,<br/>2.5 m/minute and 3 m/minute. Find after how<br/>much time, they will meet again at the same<br/>point for the first time.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 hours",
+        "html": "7 hours"
+      },
+      {
+        "id": "B",
+        "text": "9 hours",
+        "html": "9 hours"
+      },
+      {
+        "id": "C",
+        "text": "6 hours",
+        "html": "6 hours"
+      },
+      {
+        "id": "D",
+        "text": "5 hours",
+        "html": "5 hours"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n \nY = 1260 ÷ 6 × 3 −42\n5 3\n7\n4 3\n7",
+        "html": "None of these\n \nY = 1260 ÷ 6 × 3 −42\n5 3\n7\n4 3\n7"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Given:\nTime taken by Aman to complete one round of\nthe circular field,\nTime taken by Beena to complete one round of\nthe circular field,\nTime taken by Chetan to complete one round of\nthe circular field,\nL.C.M of 90, 72, 60=360 minutes=\n \n+\n= 5. 5\n120\n80\nx\n70\n= 5. 5 −1. 5\nx\n70\n= 4\nx\n70\nx = 280 km\n= 80 × 2 = 160 km\n2 +\n= 2 +\n= 2 + 3 +\n= 5\n400−160\n70\n240\n70\n3\n7\n3\n7\n=\n= 90 minutues\n180\n2\n=\n= 72 minutues\n180\n2.5\n=\n= 60 minutues\n180\n3\n= 6 hours\n360\n60",
+    "explanationHtml": "Given:<br/>Time taken by Aman to complete one round of<br/>the circular field,<br/>Time taken by Beena to complete one round of<br/>the circular field,<br/>Time taken by Chetan to complete one round of<br/>the circular field,<br/>L.C.M of 90, 72, 60=360 minutes=<br/> <br/>+<br/>= 5. 5<br/>120<br/>80<br/>x<br/>70<br/>= 5. 5 −1. 5<br/>x<br/>70<br/>= 4<br/>x<br/>70<br/>x = 280 km<br/>= 80 × 2 = 160 km<br/>2 +<br/>= 2 +<br/>= 2 + 3 +<br/>= 5<br/>400−160<br/>70<br/>240<br/>70<br/>3<br/>7<br/>3<br/>7<br/>=<br/>= 90 minutues<br/>180<br/>2<br/>=<br/>= 72 minutues<br/>180<br/>2.5<br/>=<br/>= 60 minutues<br/>180<br/>3<br/>= 6 hours<br/>360<br/>60",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "A car can cover a distance of 700 Km in 10\nhours. Speed of a bus is 14.28% less than the\nspeed of the car and the speed of a train is\n16.66% more than the speed of the bus. Find\nthe respective ratio of the distance covered by\nthe car in 20 hours and distance covered by\nthe train in 10 hours.",
+    "questionHtml": "A car can cover a distance of 700 Km in 10<br/>hours. Speed of a bus is 14.28% less than the<br/>speed of the car and the speed of a train is<br/>16.66% more than the speed of the bus. Find<br/>the respective ratio of the distance covered by<br/>the car in 20 hours and distance covered by<br/>the train in 10 hours.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "B",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "C",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "D",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "E",
+        "text": "1 : 1",
+        "html": "1 : 1"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of car\nSpeed of bus \nSpeed of train =\nRequired \nratio",
+    "explanationHtml": "Speed of car<br/>Speed of bus <br/>Speed of train =<br/>Required <br/>ratio",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "A can cover a distance from P to Q in x hours\nand the distance between P and Q is (5x+20)\nkm. If B can cover the same distance but he\ngoes from Q towards P and they meet after 3\nhours of start and the speed of B is (x-10)\nkmph, then find the value of x.",
+    "questionHtml": "A can cover a distance from P to Q in x hours<br/>and the distance between P and Q is (5x+20)<br/>km. If B can cover the same distance but he<br/>goes from Q towards P and they meet after 3<br/>hours of start and the speed of B is (x-10)<br/>kmph, then find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "B",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "E",
+        "text": "75",
+        "html": "75"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed of B \nDistance between P and Q \nSpeed of A = x kmph\nRelative \nspeed \nof \nA \nand \nB\nTime taken by B to meet A = 3 hours",
+    "explanationHtml": "Speed of B <br/>Distance between P and Q <br/>Speed of A = x kmph<br/>Relative <br/>speed <br/>of <br/>A <br/>and <br/>B<br/>Time taken by B to meet A = 3 hours",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "A can cover a distance from P to Q with the\nspeed of x km/hr and the distance between P\nand Q is (x+120) km. If B can cover the same\ndistance but he goes from Q towards P and\nthey meet after 2 hours of start and the speed\nof B is (x-60) kmph, then find the value of x.",
+    "questionHtml": "A can cover a distance from P to Q with the<br/>speed of x km/hr and the distance between P<br/>and Q is (x+120) km. If B can cover the same<br/>distance but he goes from Q towards P and<br/>they meet after 2 hours of start and the speed<br/>of B is (x-60) kmph, then find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "B",
+        "text": "70",
+        "html": "70"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "E",
+        "text": "55",
+        "html": "55"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed of A\nSpeed of car B \nDistance between P and Q\nTime taken by car B to meet car A = 2 hr\n∴ Hence the answer is 80.",
+    "explanationHtml": "Speed of A<br/>Speed of car B <br/>Distance between P and Q<br/>Time taken by car B to meet car A = 2 hr<br/>∴ Hence the answer is 80.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "A and B are traveling towards each other from\nthe points P and Q respectively. After crossing\neach other, A and B take 1 hour and (x+11)\nhours respectively to reach their destination Q\nand P respectively. If the speed of B is x kmph\nand the speed of A is (x+15) kmph, then find\nthe value of x.",
+    "questionHtml": "A and B are traveling towards each other from<br/>the points P and Q respectively. After crossing<br/>each other, A and B take 1 hour and (x+11)<br/>hours respectively to reach their destination Q<br/>and P respectively. If the speed of B is x kmph<br/>and the speed of A is (x+15) kmph, then find<br/>the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "B",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "C",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "9",
+        "html": "9"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = x\n Speed of A = x + 15",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = x<br/> Speed of A = x + 15",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "A and B are traveling towards each other from\nthe points P and Q respectively. After crossing\neach other, A and B take (x+2.5) hours and\n(x+6) \nhours \nrespectively \nto \nreach \ntheir\ndestination Q and P respectively. If the speed\nof B is 3 kmph and the speed of A is 4 kmph,\nthen find the value of x.",
+    "questionHtml": "A and B are traveling towards each other from<br/>the points P and Q respectively. After crossing<br/>each other, A and B take (x+2.5) hours and<br/>(x+6) <br/>hours <br/>respectively <br/>to <br/>reach <br/>their<br/>destination Q and P respectively. If the speed<br/>of B is 3 kmph and the speed of A is 4 kmph,<br/>then find the value of x.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "E",
+        "text": "11",
+        "html": "11"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the speed of A to reach Q after the meeting\nbe x hr.\nSpeed of B = 3kmph\nSpeed of A = 4 kmph\n= \n 9x + 54 = 16x + 40",
+    "explanationHtml": "Let the speed of A to reach Q after the meeting<br/>be x hr.<br/>Speed of B = 3kmph<br/>Speed of A = 4 kmph<br/>= <br/> 9x + 54 = 16x + 40",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Length of train A is X meters that crosses a 250\nmeters platform in 45 seconds. Length of train B\nis 500 meters that crosses a bridge in 65/3\nseconds and length of the platform is 100\nmeters more than that of bridge. Speed of train\nB is 10 m/sec more than train A.\nSpeed of a boat in still water is 25% speed of\ntrain A. If boat covers \n km upstream in 30\nhours, then find the speed of current.",
+    "questionHtml": "Length of train A is X meters that crosses a 250<br/>meters platform in 45 seconds. Length of train B<br/>is 500 meters that crosses a bridge in 65/3<br/>seconds and length of the platform is 100<br/>meters more than that of bridge. Speed of train<br/>B is 10 m/sec more than train A.<br/>Speed of a boat in still water is 25% speed of<br/>train A. If boat covers <br/> km upstream in 30<br/>hours, then find the speed of current.",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 km/hr",
+        "html": "7 km/hr"
+      },
+      {
+        "id": "B",
+        "text": "6 km/hr",
+        "html": "6 km/hr"
+      },
+      {
+        "id": "C",
+        "text": "5 km/hr",
+        "html": "5 km/hr"
+      },
+      {
+        "id": "D",
+        "text": "4 km/hr",
+        "html": "4 km/hr"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 3 \n \n = 390 km\nSpeed of boat in still water = 20 \n = 18\nkm/hr\nLet speed of current be V km/hr\nAccording to question,\n = 30\n13 = 18 – V\nV = 5 km/hr",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 3 <br/> <br/> = 390 km<br/>Speed of boat in still water = 20 <br/> = 18<br/>km/hr<br/>Let speed of current be V km/hr<br/>According to question,<br/> = 30<br/>13 = 18 – V<br/>V = 5 km/hr",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Direction: Study the following data carefully\nand answer the questions:\nBus P started running at 12:30 PM from point A\nto point B and bus Q started running at 2:30 PM\nfrom point A to point B. Time taken by bus P to\nreach point B is 2.5 hours more than that taken\nby bus Q to reach point B. Ratio of speed of bus\nP to that of bus Q is 3:4 and distance between\npoints A and B is 648 km.\nWhich of the following is/are true?\nM: If speed of bus P were 15% less than its\noriginal speed, then it would not reach point B\non the same day.\nN: Speed of bus P is 8 m/s less than that of bus\nQ.\nO: Bus Q will reach point B at 9:00 PM.",
+    "questionHtml": "Direction: Study the following data carefully<br/>and answer the questions:<br/>Bus P started running at 12:30 PM from point A<br/>to point B and bus Q started running at 2:30 PM<br/>from point A to point B. Time taken by bus P to<br/>reach point B is 2.5 hours more than that taken<br/>by bus Q to reach point B. Ratio of speed of bus<br/>P to that of bus Q is 3:4 and distance between<br/>points A and B is 648 km.<br/>Which of the following is/are true?<br/>M: If speed of bus P were 15% less than its<br/>original speed, then it would not reach point B<br/>on the same day.<br/>N: Speed of bus P is 8 m/s less than that of bus<br/>Q.<br/>O: Bus Q will reach point B at 9:00 PM.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only M",
+        "html": "Only M"
+      },
+      {
+        "id": "B",
+        "text": "Only O\n \n3X\n5",
+        "html": "Only O\n \n3X\n5"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let speeds of bus P and bus Q are ‘3x’ km/h\nand ‘4x’ km/h respectively.\nSince, time taken by bus P to reach point B is\n2.5 hours more than that taken by bus Q to\nreach point B.\nSo,\n = 2.5\n = 2.5\n \n = \n = 70 kmph\n700\n10\n= ( )70 = 60 kmph\n6\n7\n ( )60 = 70 kmph\n7\n6\n= (20 × 70) : (70 × 10) = 2 : 1 \n= x −10 kmph.\n= 5x + 20 km.\n= x + x −10 = 2x −10 kmph\n= 3\n(5x+20)\n2x−10\n6x −30 = 5x + 20\nx = 50\n = x km/hr\n= (x −60) km/hr\n = x + 120 km\n= 2\n(x+120)\nx+x−60\n(x + 120) = 2[2x −60]\n+ 120 = 4x −120\nx\nx = 80\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n=\nx2\n(x+15)2\n1\nx+11\n+ 30x + 225 =\n+ 11\nx2\nx3\nx2\n+ 10\n−30x = 225\nx3\nx2\nx = 5\n=\nSB\nSA\nTA\nTB\n−−\n−\n√\n( )\n3\n4\n2\n=\n9\n16\nx+2.5\nx+6\n7x = 14\nx = 2 \nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n5\n×\n×\n18\n5\n25\n100\n390\n18−V\n(\n) – (\n)\n648\n3x\n648\n4x\n(\n) – (\n)\n216\nx\n162\nx",
+    "explanationHtml": "Let speeds of bus P and bus Q are ‘3x’ km/h<br/>and ‘4x’ km/h respectively.<br/>Since, time taken by bus P to reach point B is<br/>2.5 hours more than that taken by bus Q to<br/>reach point B.<br/>So,<br/> = 2.5<br/> = 2.5<br/> <br/> = <br/> = 70 kmph<br/>700<br/>10<br/>= ( )70 = 60 kmph<br/>6<br/>7<br/> ( )60 = 70 kmph<br/>7<br/>6<br/>= (20 × 70) : (70 × 10) = 2 : 1 <br/>= x −10 kmph.<br/>= 5x + 20 km.<br/>= x + x −10 = 2x −10 kmph<br/>= 3<br/>(5x+20)<br/>2x−10<br/>6x −30 = 5x + 20<br/>x = 50<br/> = x km/hr<br/>= (x −60) km/hr<br/> = x + 120 km<br/>= 2<br/>(x+120)<br/>x+x−60<br/>(x + 120) = 2[2x −60]<br/>+ 120 = 4x −120<br/>x<br/>x = 80<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>=<br/>x2<br/>(x+15)2<br/>1<br/>x+11<br/>+ 30x + 225 =<br/>+ 11<br/>x2<br/>x3<br/>x2<br/>+ 10<br/>−30x = 225<br/>x3<br/>x2<br/>x = 5<br/>=<br/>SB<br/>SA<br/>TA<br/>TB<br/>−−<br/>−<br/>√<br/>( )<br/>3<br/>4<br/>2<br/>=<br/>9<br/>16<br/>x+2.5<br/>x+6<br/>7x = 14<br/>x = 2 <br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>5<br/>×<br/>×<br/>18<br/>5<br/>25<br/>100<br/>390<br/>18−V<br/>(<br/>) – (<br/>)<br/>648<br/>3x<br/>648<br/>4x<br/>(<br/>) – (<br/>)<br/>216<br/>x<br/>162<br/>x",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "A man covered a certain distance with a speed\nof 25 km/hr in ‘x’ hours. If he had traveled with a\nspeed of (15 + 5x) km/hr for (x – 4) hours then he\nwould have covered 60 km less distance. The\ndistance traveled by him with the speed of 25\nkm/hr can be:\nI. (x + 114) km\nII. (20x + 40) km\nIII. (40x – 90) km",
+    "questionHtml": "A man covered a certain distance with a speed<br/>of 25 km/hr in ‘x’ hours. If he had traveled with a<br/>speed of (15 + 5x) km/hr for (x – 4) hours then he<br/>would have covered 60 km less distance. The<br/>distance traveled by him with the speed of 25<br/>km/hr can be:<br/>I. (x + 114) km<br/>II. (20x + 40) km<br/>III. (40x – 90) km",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only II and III",
+        "html": "Only II and III"
+      },
+      {
+        "id": "B",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "C",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "D",
+        "text": "Only II and I",
+        "html": "Only II and I"
+      },
+      {
+        "id": "E",
+        "text": "Only I and III",
+        "html": "Only I and III"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to the question,\n25x – {(15 + 5x)(x – 4)} = 60\nOr, 30x – 5\n = 0\nOr, 5x(x – 6) = 0\nOr, x = 0, 6\nOr, x = 6 (since time cannot be zero)\nTherefore, distance covered by him with a\nspeed of 25 km/hr = 25x = 150 km\nFor I:\nDistance covered by him with a speed of 25\nkm/hr = (\n + 114) = (114 + 36) = 150 km\nTherefore, I can be the answer:\nFor II:\nDistance covered by him with a speed of 25\nkm/hr = (20x + 40) = (120 + 40) = 160 km\nTherefore, II cannot be the answer.\nFor III:\nDistance covered by him with a speed of 25\nkm/hr = (40x – 90) = (240 – 90) = 150 km\nTherefore, III can be the answer.\nHence, the correct option is E.",
+    "explanationHtml": "According to the question,<br/>25x – {(15 + 5x)(x – 4)} = 60<br/>Or, 30x – 5<br/> = 0<br/>Or, 5x(x – 6) = 0<br/>Or, x = 0, 6<br/>Or, x = 6 (since time cannot be zero)<br/>Therefore, distance covered by him with a<br/>speed of 25 km/hr = 25x = 150 km<br/>For I:<br/>Distance covered by him with a speed of 25<br/>km/hr = (<br/> + 114) = (114 + 36) = 150 km<br/>Therefore, I can be the answer:<br/>For II:<br/>Distance covered by him with a speed of 25<br/>km/hr = (20x + 40) = (120 + 40) = 160 km<br/>Therefore, II cannot be the answer.<br/>For III:<br/>Distance covered by him with a speed of 25<br/>km/hr = (40x – 90) = (240 – 90) = 150 km<br/>Therefore, III can be the answer.<br/>Hence, the correct option is E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Length of train A is X meters that crosses a 250\nmeters platform in 45 seconds. Length of train B\nis 500 meters that crosses a bridge in \nseconds and length of the platform is 100\nmeters more than that of the bridge. Speed of\ntrain B is 10 m/sec more than train A.\nA boat covers \n km downstream in 6 \n hours\nand speed of current is \n th of the speed of\ntrain B. If speed of the boat in still water is (U-4)\nkm/h, then find the value of U.",
+    "questionHtml": "Length of train A is X meters that crosses a 250<br/>meters platform in 45 seconds. Length of train B<br/>is 500 meters that crosses a bridge in <br/>seconds and length of the platform is 100<br/>meters more than that of the bridge. Speed of<br/>train B is 10 m/sec more than train A.<br/>A boat covers <br/> km downstream in 6 <br/> hours<br/>and speed of current is <br/> th of the speed of<br/>train B. If speed of the boat in still water is (U-4)<br/>km/h, then find the value of U.",
+    "options": [
+      {
+        "id": "A",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "D",
+        "text": "14",
+        "html": "14"
+      },
+      {
+        "id": "E",
+        "text": "15",
+        "html": "15"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let speed of train A be ‘Y’ m/sec.\nAnd speed of train B be ‘Y+10’ m/sec.\nAccording to question,\n = 45………..(i)\nAnd\n = \n30 – 10 = Y\nY = 20\nPutting value of Y in (i)\n = 45\n900 – 250 = X\nX = 650\nBoat cover total distance = 2 \n \n = 100 km\nSpeed of train B = (Y+10) \n = 30 \n = 108\nkm/hr\nSpeed of current = 108 \n = 6 km/hr\nAccording to question,\n = \nU + 2 = 15\nU = 13",
+    "explanationHtml": "Let speed of train A be ‘Y’ m/sec.<br/>And speed of train B be ‘Y+10’ m/sec.<br/>According to question,<br/> = 45………..(i)<br/>And<br/> = <br/>30 – 10 = Y<br/>Y = 20<br/>Putting value of Y in (i)<br/> = 45<br/>900 – 250 = X<br/>X = 650<br/>Boat cover total distance = 2 <br/> <br/> = 100 km<br/>Speed of train B = (Y+10) <br/> = 30 <br/> = 108<br/>km/hr<br/>Speed of current = 108 <br/> = 6 km/hr<br/>According to question,<br/> = <br/>U + 2 = 15<br/>U = 13",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "P and Q started from point A and point B and\nrunning towards each other at speed of Z km/h\nand Y km/h respectively. Speed of P is 30 km/h\nmore than that of Q while distance covered by\nP is thrice as that of Q. Distance between A and\nB is 240 km, sum of travelling time of P (M) and\nQ (N) is \n hours. Find which of the following\nstatement is true?\nI. (2Z + 3Y) = 110\nII. Distance travelled by a person running at (Y +",
+    "questionHtml": "P and Q started from point A and point B and<br/>running towards each other at speed of Z km/h<br/>and Y km/h respectively. Speed of P is 30 km/h<br/>more than that of Q while distance covered by<br/>P is thrice as that of Q. Distance between A and<br/>B is 240 km, sum of travelling time of P (M) and<br/>Q (N) is <br/> hours. Find which of the following<br/>statement is true?<br/>I. (2Z + 3Y) = 110<br/>II. Distance travelled by a person running at (Y +",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "According to question,\nDistance travelled by P = \n = 180 km\nDistance travelled by Q = 240 – 180 = 60 km\nNow,\n7Y + 50Y – 1200 = 0\nPossible value of Y = 10\nValue of Z = 30 + 10 = 40 km/h\n \n54\nx\n648\n64.8\n648\n86.4\n648\n55.08\n(\n)\n5\n18\nX2\nX2\nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n13\n× 18\n5\n× 18\n5\n× 1\n18\n100\nU − 4 + 6\n20\n3\n× 3\n240\n4\n+\n=\n180\nY + 30\n60\nY\n21\n2\n2",
+    "explanationHtml": "According to question,<br/>Distance travelled by P = <br/> = 180 km<br/>Distance travelled by Q = 240 – 180 = 60 km<br/>Now,<br/>7Y + 50Y – 1200 = 0<br/>Possible value of Y = 10<br/>Value of Z = 30 + 10 = 40 km/h<br/> <br/>54<br/>x<br/>648<br/>64.8<br/>648<br/>86.4<br/>648<br/>55.08<br/>(<br/>)<br/>5<br/>18<br/>X2<br/>X2<br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>13<br/>× 18<br/>5<br/>× 18<br/>5<br/>× 1<br/>18<br/>100<br/>U − 4 + 6<br/>20<br/>3<br/>× 3<br/>240<br/>4<br/>+<br/>=<br/>180<br/>Y + 30<br/>60<br/>Y<br/>21<br/>2<br/>2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "km in M hours is 90 km\nIII.",
+    "questionHtml": "km in M hours is 90 km<br/>III.",
+    "options": [
+      {
+        "id": "A",
+        "text": "I and III only",
+        "html": "I and III only"
+      },
+      {
+        "id": "B",
+        "text": "II and III only",
+        "html": "II and III only"
+      },
+      {
+        "id": "C",
+        "text": "I, II, and III",
+        "html": "I, II, and III"
+      },
+      {
+        "id": "D",
+        "text": "I and II only",
+        "html": "I and II only"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n \n2\n65\n3\n2X\n13\n2\n3\n1\n18\n21\n2\n=\nZ\nY\n3\n1",
+        "html": "None of these\n \n2\n65\n3\n2X\n13\n2\n3\n1\n18\n21\n2\n=\nZ\nY\n3\n1"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to question,\nDistance travelled by P = \n = 180 km\nDistance travelled by Q = 240 – 180 = 60 km\nNow,\n7Y + 50Y – 1200 = 0\nPossible value of Y = 10\nValue of Z = 30 + 10 = 40 km/h\n \n54\nx\n648\n64.8\n648\n86.4\n648\n55.08\n(\n)\n5\n18\nX2\nX2\nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n13\n× 18\n5\n× 18\n5\n× 1\n18\n100\nU − 4 + 6\n20\n3\n× 3\n240\n4\n+\n=\n180\nY + 30\n60\nY\n21\n2\n2",
+    "explanationHtml": "According to question,<br/>Distance travelled by P = <br/> = 180 km<br/>Distance travelled by Q = 240 – 180 = 60 km<br/>Now,<br/>7Y + 50Y – 1200 = 0<br/>Possible value of Y = 10<br/>Value of Z = 30 + 10 = 40 km/h<br/> <br/>54<br/>x<br/>648<br/>64.8<br/>648<br/>86.4<br/>648<br/>55.08<br/>(<br/>)<br/>5<br/>18<br/>X2<br/>X2<br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>13<br/>× 18<br/>5<br/>× 18<br/>5<br/>× 1<br/>18<br/>100<br/>U − 4 + 6<br/>20<br/>3<br/>× 3<br/>240<br/>4<br/>+<br/>=<br/>180<br/>Y + 30<br/>60<br/>Y<br/>21<br/>2<br/>2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "(D)",
+    "questionHtml": "(D)",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Speed of car\nSpeed of bus \nSpeed of train =\nRequired \nratio",
+    "explanationHtml": "Speed of car<br/>Speed of bus <br/>Speed of train =<br/>Required <br/>ratio",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "(C)",
+    "questionHtml": "(C)",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Speed of B \nDistance between P and Q \nSpeed of A = x kmph\nRelative \nspeed \nof \nA \nand \nB\nTime taken by B to meet A = 3 hours",
+    "explanationHtml": "Speed of B <br/>Distance between P and Q <br/>Speed of A = x kmph<br/>Relative <br/>speed <br/>of <br/>A <br/>and <br/>B<br/>Time taken by B to meet A = 3 hours",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "(A)",
+    "questionHtml": "(A)",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Speed of A\nSpeed of car B \nDistance between P and Q\nTime taken by car B to meet car A = 2 hr\n∴ Hence the answer is 80.",
+    "explanationHtml": "Speed of A<br/>Speed of car B <br/>Distance between P and Q<br/>Time taken by car B to meet car A = 2 hr<br/>∴ Hence the answer is 80.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "(B)",
+    "questionHtml": "(B)",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Distance \ncovered \ntill \n11:30 \na.m\nSpeed \nof \nthe \ncar \ntill \n11: \n30 \na.m\nRemaining distance\nSpeed of car to reach Bangalore at time\nTherefore; \nspeed \nshould \nincrease \nby",
+    "explanationHtml": "Distance <br/>covered <br/>till <br/>11:30 <br/>a.m<br/>Speed <br/>of <br/>the <br/>car <br/>till <br/>11: <br/>30 <br/>a.m<br/>Remaining distance<br/>Speed of car to reach Bangalore at time<br/>Therefore; <br/>speed <br/>should <br/>increase <br/>by",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "(E)",
+    "questionHtml": "(E)",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "According to the question,\n25x – {(15 + 5x)(x – 4)} = 60\nOr, 30x – 5\n = 0\nOr, 5x(x – 6) = 0\nOr, x = 0, 6\nOr, x = 6 (since time cannot be zero)\nTherefore, distance covered by him with a\nspeed of 25 km/hr = 25x = 150 km\nFor I:\nDistance covered by him with a speed of 25\nkm/hr = (\n + 114) = (114 + 36) = 150 km\nTherefore, I can be the answer:\nFor II:\nDistance covered by him with a speed of 25\nkm/hr = (20x + 40) = (120 + 40) = 160 km\nTherefore, II cannot be the answer.\nFor III:\nDistance covered by him with a speed of 25\nkm/hr = (40x – 90) = (240 – 90) = 150 km\nTherefore, III can be the answer.\nHence, the correct option is E.",
+    "explanationHtml": "According to the question,<br/>25x – {(15 + 5x)(x – 4)} = 60<br/>Or, 30x – 5<br/> = 0<br/>Or, 5x(x – 6) = 0<br/>Or, x = 0, 6<br/>Or, x = 6 (since time cannot be zero)<br/>Therefore, distance covered by him with a<br/>speed of 25 km/hr = 25x = 150 km<br/>For I:<br/>Distance covered by him with a speed of 25<br/>km/hr = (<br/> + 114) = (114 + 36) = 150 km<br/>Therefore, I can be the answer:<br/>For II:<br/>Distance covered by him with a speed of 25<br/>km/hr = (20x + 40) = (120 + 40) = 160 km<br/>Therefore, II cannot be the answer.<br/>For III:<br/>Distance covered by him with a speed of 25<br/>km/hr = (40x – 90) = (240 – 90) = 150 km<br/>Therefore, III can be the answer.<br/>Hence, the correct option is E.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "km in M hours is 90 km\nRequired distance = 20 × 4.5 = 90 km\nThis statement is true.\nIII. \nThis statement is false\nSo, only I and II is true\nHence answer is option D\n \n180\n40\n=\nZ\nY\n3\n1\n=\n=\nZ\nY\n40\n10\n4\n1",
+    "questionHtml": "km in M hours is 90 km<br/>Required distance = 20 × 4.5 = 90 km<br/>This statement is true.<br/>III. <br/>This statement is false<br/>So, only I and II is true<br/>Hence answer is option D<br/> <br/>180<br/>40<br/>=<br/>Z<br/>Y<br/>3<br/>1<br/>=<br/>=<br/>Z<br/>Y<br/>40<br/>10<br/>4<br/>1",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "According to question,\nDistance travelled by P = \n = 180 km\nDistance travelled by Q = 240 – 180 = 60 km\nNow,\n7Y + 50Y – 1200 = 0\nPossible value of Y = 10\nValue of Z = 30 + 10 = 40 km/h\n \n54\nx\n648\n64.8\n648\n86.4\n648\n55.08\n(\n)\n5\n18\nX2\nX2\nX + 250\nY\n500 + 150\nY + 10 \n65\n3\nX + 250\n20\n× 650\n13\n× 18\n5\n× 18\n5\n× 1\n18\n100\nU − 4 + 6\n20\n3\n× 3\n240\n4\n+\n=\n180\nY + 30\n60\nY\n21\n2\n2",
+    "explanationHtml": "According to question,<br/>Distance travelled by P = <br/> = 180 km<br/>Distance travelled by Q = 240 – 180 = 60 km<br/>Now,<br/>7Y + 50Y – 1200 = 0<br/>Possible value of Y = 10<br/>Value of Z = 30 + 10 = 40 km/h<br/> <br/>54<br/>x<br/>648<br/>64.8<br/>648<br/>86.4<br/>648<br/>55.08<br/>(<br/>)<br/>5<br/>18<br/>X2<br/>X2<br/>X + 250<br/>Y<br/>500 + 150<br/>Y + 10 <br/>65<br/>3<br/>X + 250<br/>20<br/>× 650<br/>13<br/>× 18<br/>5<br/>× 18<br/>5<br/>× 1<br/>18<br/>100<br/>U − 4 + 6<br/>20<br/>3<br/>× 3<br/>240<br/>4<br/>+<br/>=<br/>180<br/>Y + 30<br/>60<br/>Y<br/>21<br/>2<br/>2",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "time",
+      "speed",
+      "distance"
+    ],
+    "sourcePages": [
+      20
+    ]
+  }
+]

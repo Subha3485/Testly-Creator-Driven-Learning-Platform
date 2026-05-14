@@ -8,9 +8,10 @@ const Question = require("../models/Question");
 const Test = require("../models/Test");
 
 const MONGO_URI = process.env.MONGO_URI || "mongodb://127.0.0.1:27017/testseries";
-const ROOT_DIR = process.env.REASONING_STRUCTURED_DIR
-  ? path.resolve(process.env.REASONING_STRUCTURED_DIR)
-  : path.resolve(__dirname, "..", "..", "..", "Reasoning", "structured");
+const DATA_ROOT_DIR = process.env.BACKEND_DATA_DIR
+  ? path.resolve(process.env.BACKEND_DATA_DIR)
+  : path.resolve(__dirname, "..", "data");
+const ROOT_DIR = path.resolve(DATA_ROOT_DIR, "structured");
 
 const LEVEL_MAP = {
   "Level-1": "EASY",
@@ -99,6 +100,9 @@ function mapQuestion(item, topicName, fileName, index) {
         .map((option) => String(option || "").trim())
         .filter(Boolean)
     : [];
+  const optionsRich = Array.isArray(item.options)
+    ? item.options.map((option) => pickRichSegments(option, ["rich_text", "text_rich", "segments"]))
+    : [];
 
   if (options.length < 2) {
     return null;
@@ -109,26 +113,70 @@ function mapQuestion(item, topicName, fileName, index) {
     return null;
   }
 
-  const correctAnswer = answerToIndex(item.correct_answer, options.length);
+  const correctAnswer = answerToIndex(item.correctAnswer ?? item.correct_answer, options.length);
 
   return {
     question: questionText || `Imported Banking question ${index + 1}`,
+    questionRich: pickRichSegments(item, ["question_rich", "question_segments", "rich_text", "segments"]),
     options,
+    optionsRich,
     correctAnswer,
     marks: Number(item.marks || 1),
     negativeMarks: Number(item.negative_marks || 0.25),
     source: "PYQ",
     examTarget: "BANKING",
     year: item.year || undefined,
-    topicTags: buildTags(item.tags, topicName),
+    topicTags: buildTags(item.tags || item.topicTags, topicName),
     difficulty: LEVEL_MAP[item.level] || "MEDIUM",
     explanation: {
-      text: item.explanation || ""
+      text: item.explanation?.text || item.explanation || ""
     },
+    explanationRich: pickRichSegments(item, ["explanation_rich", "explanation_segments", "explanationRich"]),
     qualityScore: 0,
     isVerified: true,
     createdBy: fileName
   };
+}
+
+function normalizeRichSegments(value) {
+  if (!Array.isArray(value)) {
+    return [];
+  }
+
+  return value
+    .map((segment) => {
+      if (typeof segment === "string") {
+        return { text: segment };
+      }
+
+      if (!segment || typeof segment !== "object") {
+        return null;
+      }
+
+      const text = String(segment.text || "").trim();
+      if (!text) {
+        return null;
+      }
+
+      return {
+        text,
+        bold: Boolean(segment.bold),
+        italic: Boolean(segment.italic),
+        underline: Boolean(segment.underline)
+      };
+    })
+    .filter(Boolean);
+}
+
+function pickRichSegments(source, keys) {
+  for (const key of keys) {
+    const segments = normalizeRichSegments(source?.[key]);
+    if (segments.length) {
+      return segments;
+    }
+  }
+
+  return [];
 }
 
 function buildTags(tags, topicName) {

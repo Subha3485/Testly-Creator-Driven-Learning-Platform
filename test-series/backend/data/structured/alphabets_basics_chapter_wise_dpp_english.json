@@ -1,0 +1,907 @@
+[
+  {
+    "question_number": "1",
+    "level": "Level-1",
+    "question": "From the given alternatives select the word which\ncan be formed using the letters of the given words:\nFORBEARANCE",
+    "questionHtml": "From the given alternatives select the word which<br/>can be formed using the letters of the given words:<br/>FORBEARANCE",
+    "options": [
+      {
+        "id": "A",
+        "text": "Appearance",
+        "html": "Appearance"
+      },
+      {
+        "id": "B",
+        "text": "Format",
+        "html": "Format"
+      },
+      {
+        "id": "C",
+        "text": "Rare",
+        "html": "Rare"
+      },
+      {
+        "id": "D",
+        "text": "Forbidden",
+        "html": "Forbidden"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "All words in ‘Rare’ belongs to the letters of the word\nFORBEARANCE.",
+    "explanationHtml": "All words in ‘Rare’ belongs to the letters of the word<br/>FORBEARANCE.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "Level-1",
+    "question": "Directions:Read the information given below\ncarefully and answer the following question.\nIf in the word “TRANSFORM” all consonants are\nreplaced with their opposite letter according to\nalphabetical order then how many vowels are there in\nthe new arrangement?",
+    "questionHtml": "Directions:Read the information given below<br/>carefully and answer the following question.<br/>If in the word “TRANSFORM” all consonants are<br/>replaced with their opposite letter according to<br/>alphabetical order then how many vowels are there in<br/>the new arrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "More than four",
+        "html": "More than four"
+      },
+      {
+        "id": "E",
+        "text": "Four",
+        "html": "Four"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "After \nfulfill \nthe \nabove \ncondition, \nwe \nget:-\nGIAMHUOIN\nSo, final answer is:- 5",
+    "explanationHtml": "After <br/>fulfill <br/>the <br/>above <br/>condition, <br/>we <br/>get:-<br/>GIAMHUOIN<br/>So, final answer is:- 5",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“AFRICA” which has as many letters between them\nas there are in the English alphabetical series (both\nforward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“AFRICA” which has as many letters between them<br/>as there are in the English alphabetical series (both<br/>forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "One such pair is there in forward and backward.",
+    "explanationHtml": "One such pair is there in forward and backward.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“COUNTER” which has as many letters between\nthem as there are in the English alphabetical series\n(both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“COUNTER” which has as many letters between<br/>them as there are in the English alphabetical series<br/>(both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "One such pair is there forward and backward.",
+    "explanationHtml": "One such pair is there forward and backward.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“CRICKET” which has as many letters between\nthem as there are in the English alphabetical series\n(both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“CRICKET” which has as many letters between<br/>them as there are in the English alphabetical series<br/>(both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "1",
+        "html": "1"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two such pairs are there forward and backward.",
+    "explanationHtml": "Two such pairs are there forward and backward.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“FLIPKART” which has as many letters between\nthem as there are in the English alphabetical series\n(both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“FLIPKART” which has as many letters between<br/>them as there are in the English alphabetical series<br/>(both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "F L I P K A R T (backward from A)\nF L I P K A R T (forward from I)\nF L I P K A R T (forward from P)\nHere, three pairs formed i.e, AF, IK, and PT",
+    "explanationHtml": "F L I P K A R T (backward from A)<br/>F L I P K A R T (forward from I)<br/>F L I P K A R T (forward from P)<br/>Here, three pairs formed i.e, AF, IK, and PT",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“INSPIRATION” which has as many letters between\nthem as there are in the English alphabetical series\n(both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“INSPIRATION” which has as many letters between<br/>them as there are in the English alphabetical series<br/>(both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "More than 6",
+        "html": "More than 6"
+      },
+      {
+        "id": "D",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "E",
+        "text": "3",
+        "html": "3"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "I N S P I R A T I O N (Forward from N)\nI N S P I R A T I O N (Forward from N)\nI N S P I R A T I O N (Forward from N)\nI N S P I R A T I O N (Forward from P)\nI N S P I R A T I O N (Forward from P)\nI N S P I R A T I O N (Forward from R)\nI N S P I R A T I O N (Backward from N)\nHere, seven pairs formed i.e, NP, NR, NT, PR, PT, RT,\nand NO",
+    "explanationHtml": "I N S P I R A T I O N (Forward from N)<br/>I N S P I R A T I O N (Forward from N)<br/>I N S P I R A T I O N (Forward from N)<br/>I N S P I R A T I O N (Forward from P)<br/>I N S P I R A T I O N (Forward from P)<br/>I N S P I R A T I O N (Forward from R)<br/>I N S P I R A T I O N (Backward from N)<br/>Here, seven pairs formed i.e, NP, NR, NT, PR, PT, RT,<br/>and NO",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“MASTERMIND” which has as many letters\nbetween them as there are in the English alphabetical\nseries (both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“MASTERMIND” which has as many letters<br/>between them as there are in the English alphabetical<br/>series (both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Three such pairs are there forward and backward.",
+    "explanationHtml": "Three such pairs are there forward and backward.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are in the word\n“ROCKSTAR” which has as many letters between\nthem as there are in the English alphabetical series\n(both forward and backward)?",
+    "questionHtml": "How many such pairs of letters are in the word<br/>“ROCKSTAR” which has as many letters between<br/>them as there are in the English alphabetical series<br/>(both forward and backward)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "5",
+        "html": "5"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "R O C K S T A R (Forward from S)\nR O C K S T A R (Backward from R)\nHere, two pairs formed i.e, ST, and RT",
+    "explanationHtml": "R O C K S T A R (Forward from S)<br/>R O C K S T A R (Backward from R)<br/>Here, two pairs formed i.e, ST, and RT",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are there in the word\n\"ANIKET\" each of which has as many letters\nbetween them in the word as in the English alphabet?",
+    "questionHtml": "How many such pairs of letters are there in the word<br/>\"ANIKET\" each of which has as many letters<br/>between them in the word as in the English alphabet?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "B",
+        "text": "One\n \nAlphabets - Basics \nLevel-1",
+        "html": "One\n \nAlphabets - Basics \nLevel-1"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "There is only one pair.",
+    "explanationHtml": "There is only one pair.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "Level-1",
+    "question": "How many pairs of letters are there in the word\n“ANACHRONISM” which has as many letters\nbetween them as we have in the English alphabetical\nseries (from both forward and backward direction)?",
+    "questionHtml": "How many pairs of letters are there in the word<br/>“ANACHRONISM” which has as many letters<br/>between them as we have in the English alphabetical<br/>series (from both forward and backward direction)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "D",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "E",
+        "text": "Six",
+        "html": "Six"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Therefore, there are four pairs of letters that has as\nmany letters between them as we have in the English\nalphabetical series (from both forward and backward\ndirection).",
+    "explanationHtml": "Therefore, there are four pairs of letters that has as<br/>many letters between them as we have in the English<br/>alphabetical series (from both forward and backward<br/>direction).",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "Level-1",
+    "question": "How many such pairs of letters are there in the\n‘SEQUENTIAL’ each of which has as many letters\nbetween them in the word as in the English Alphabet ?",
+    "questionHtml": "How many such pairs of letters are there in the<br/>‘SEQUENTIAL’ each of which has as many letters<br/>between them in the word as in the English Alphabet ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "E",
+        "text": "Four",
+        "html": "Four"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "There is no forward pair but the backward pairs are\nAE, NQ, NS, and QS.",
+    "explanationHtml": "There is no forward pair but the backward pairs are<br/>AE, NQ, NS, and QS.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "Level-1",
+    "question": "How many such pair of letters are there in the\n‘ENTHUSIASTIC’ each of which has as many\nletters between them in the word as in the English\nAlphabet ?",
+    "questionHtml": "How many such pair of letters are there in the<br/>‘ENTHUSIASTIC’ each of which has as many<br/>letters between them in the word as in the English<br/>Alphabet ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "E",
+        "text": "More than three",
+        "html": "More than three"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "The forward pair are ST, EH and the backward pair is\nIN.\nClearly, 3 pairs are in the word.",
+    "explanationHtml": "The forward pair are ST, EH and the backward pair is<br/>IN.<br/>Clearly, 3 pairs are in the word.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "Level-1",
+    "question": "If it is possible to make a meaningful word with the\nsecond, fourth, fifth, and eighth letters of the word\n‘ACHIEVED’, then which of the following will be\nthe third letter from the right end of that meaningful\nword? If no meaningful word can be made, give ‘X’\nas the answer. If more than one meaningful word can\nbe made, give ‘Y’ as the answer.",
+    "questionHtml": "If it is possible to make a meaningful word with the<br/>second, fourth, fifth, and eighth letters of the word<br/>‘ACHIEVED’, then which of the following will be<br/>the third letter from the right end of that meaningful<br/>word? If no meaningful word can be made, give ‘X’<br/>as the answer. If more than one meaningful word can<br/>be made, give ‘Y’ as the answer.",
+    "options": [
+      {
+        "id": "A",
+        "text": "X",
+        "html": "X"
+      },
+      {
+        "id": "B",
+        "text": "I",
+        "html": "I"
+      },
+      {
+        "id": "C",
+        "text": "Y",
+        "html": "Y"
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "E",
+        "text": "C",
+        "html": "C"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "Level-1",
+    "question": "Find the most appropriate option:\nCAX, EBV, GCT, ? , KEP",
+    "questionHtml": "Find the most appropriate option:<br/>CAX, EBV, GCT, ? , KEP",
+    "options": [
+      {
+        "id": "A",
+        "text": "IER",
+        "html": "IER"
+      },
+      {
+        "id": "B",
+        "text": "HDR",
+        "html": "HDR"
+      },
+      {
+        "id": "C",
+        "text": "IDR",
+        "html": "IDR"
+      },
+      {
+        "id": "D",
+        "text": "HER",
+        "html": "HER"
+      },
+      {
+        "id": "E",
+        "text": "JDR",
+        "html": "JDR"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Q16\nText Solution:\nGiven number – 8715427243\nAfter arranged in ascending order – 1223445778\nSo, the required sum – 13",
+    "explanationHtml": "Q16<br/>Text Solution:<br/>Given number – 8715427243<br/>After arranged in ascending order – 1223445778<br/>So, the required sum – 13",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "Level-1",
+    "question": "If all the digits of the given number “8715427243” are\narranged in ascending order from left to right, then\nwhat will be the sum of 3rd, 6th and 9th digits (from\nthe left end) of the number so formed after\nrearrangement?",
+    "questionHtml": "If all the digits of the given number “8715427243” are<br/>arranged in ascending order from left to right, then<br/>what will be the sum of 3rd, 6th and 9th digits (from<br/>the left end) of the number so formed after<br/>rearrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "",
+    "explanationHtml": "",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "Level-1",
+    "question": "If in the given number “3852364718” 1 is added to\nthe odd digits and 1 is subtracted from the even digits\nthen what will be the sum of the digits which are 3rd\nfrom the right end and 5th from the left end in the\nnumber thus formed after rearrangement?",
+    "questionHtml": "If in the given number “3852364718” 1 is added to<br/>the odd digits and 1 is subtracted from the even digits<br/>then what will be the sum of the digits which are 3rd<br/>from the right end and 5th from the left end in the<br/>number thus formed after rearrangement?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "B",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "E",
+        "text": "11",
+        "html": "11"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Number-3852364718\nAfter rearrangement- 4761453827\nSum= 8+4=12",
+    "explanationHtml": "Number-3852364718<br/>After rearrangement- 4761453827<br/>Sum= 8+4=12",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "Level-1",
+    "question": "If all the consonants of the word ‘HAIRSTYLE’ are\nreplaced by succeeding letters in the alphabetical\nseries then how many vowels in new words?",
+    "questionHtml": "If all the consonants of the word ‘HAIRSTYLE’ are<br/>replaced by succeeding letters in the alphabetical<br/>series then how many vowels in new words?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "H A I R S T Y L E\nConsonant replaced by succeeding letter: I A I S T U\nZ M E\nNo of Vowels in new word is - A I I U E",
+    "explanationHtml": "H A I R S T Y L E<br/>Consonant replaced by succeeding letter: I A I S T U<br/>Z M E<br/>No of Vowels in new word is - A I I U E",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "Level-1",
+    "question": "If all the even numbered place value letters of the\nword \" LANDSCAPE \" are replaced by the\nimmediately next alphabet according to English\nalphabet, then all letters are arranged in reverse\nalphabetical order from left to right then find which\nalphabet will appear exactly in the middle of the\nword?",
+    "questionHtml": "If all the even numbered place value letters of the<br/>word \" LANDSCAPE \" are replaced by the<br/>immediately next alphabet according to English<br/>alphabet, then all letters are arranged in reverse<br/>alphabetical order from left to right then find which<br/>alphabet will appear exactly in the middle of the<br/>word?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "B",
+        "text": "N",
+        "html": "N"
+      },
+      {
+        "id": "C",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "E",
+        "text": "Q",
+        "html": "Q"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 2 3 4 5 6 7 8 9\nL A N D S C A P E\nEven numbered place value letters are replaced\nimmediately next alphabet: L B O E S D A Q E\nAll letters are arranged in reverse alphabetical order:\nQ S N L E E D B A\nLetter that appear exactly in the middle-\nQ S N L E E D B A",
+    "explanationHtml": "1 2 3 4 5 6 7 8 9<br/>L A N D S C A P E<br/>Even numbered place value letters are replaced<br/>immediately next alphabet: L B O E S D A Q E<br/>All letters are arranged in reverse alphabetical order:<br/>Q S N L E E D B A<br/>Letter that appear exactly in the middle-<br/>Q S N L E E D B A",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "Level-1",
+    "question": "If all the letters INFLUENCE are replaced by their\nopposite letter according to the English alphabet then\nwhat is the difference between the number of\nconsonants and vowels?",
+    "questionHtml": "If all the letters INFLUENCE are replaced by their<br/>opposite letter according to the English alphabet then<br/>what is the difference between the number of<br/>consonants and vowels?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "I N F L U E N C E\nLetters are replaced by their opposite: R M U O F V\nM X V\nLetter according to english alphabet\nNo. of consonants are 7 = R M F V M X V\nNo.of vowels are 2 = U O\nTherefore, difference between number of consonants\nare vowels\n7-2=5",
+    "explanationHtml": "I N F L U E N C E<br/>Letters are replaced by their opposite: R M U O F V<br/>M X V<br/>Letter according to english alphabet<br/>No. of consonants are 7 = R M F V M X V<br/>No.of vowels are 2 = U O<br/>Therefore, difference between number of consonants<br/>are vowels<br/>7-2=5",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "alphabets",
+      "basics"
+    ],
+    "sourcePages": [
+      2
+    ]
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges numbers, is\ngiven a set of numbers to arrange, it rearranges\nthem in a particular way. The following set is a\nmanifestation of the arrangement made by the\nmachine.\nInput : 243 357 1296 876 1359 2271\nStep 1 : 82 120 433 293 454 758\nStep 2 : 652 22 176 512 179 5013\nStep 3 : 60 04 42 10 63 00\nStep 4 : 06 04 06 01 09 00\nStep 5 : 00 01 04 06 06 09\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 543 1971 2235 231 894 3234\nWhat will be the outcome if we subtract the\nsecond number from the left end of step 1 from\nthe third number from the right end of step 2?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges numbers, is<br/>given a set of numbers to arrange, it rearranges<br/>them in a particular way. The following set is a<br/>manifestation of the arrangement made by the<br/>machine.<br/>Input : 243 357 1296 876 1359 2271<br/>Step 1 : 82 120 433 293 454 758<br/>Step 2 : 652 22 176 512 179 5013<br/>Step 3 : 60 04 42 10 63 00<br/>Step 4 : 06 04 06 01 09 00<br/>Step 5 : 00 01 04 06 06 09<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 543 1971 2235 231 894 3234<br/>What will be the outcome if we subtract the<br/>second number from the left end of step 1 from<br/>the third number from the right end of step 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "B",
+        "text": "-150",
+        "html": "-150"
+      },
+      {
+        "id": "C",
+        "text": "151",
+        "html": "151"
+      },
+      {
+        "id": "D",
+        "text": "160",
+        "html": "160"
+      },
+      {
+        "id": "E",
+        "text": "-160",
+        "html": "-160"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arrangement Logic :\n1. In step one, each number is divided by 3 and 1\nis added to the resultant.\n2. In step two, the first digit from left of each\nnumber is squared and 1 is added to the\nresultant. And then the rest of the digits of\neach number are added within the number.\n3. In step three, all the digits of each number are\nmultiplied within the number.\n4. In step four, all the digits of each number are\nadded within the number.\n5. In step five, all the numbers are arranged in\nincreasing order from left to right.\nInput : 543 1971 2235 231 894 3234\nStep 1 : 182 658 746 78 299 1079\nStep 2 : 210 3713 5010 508 518 216\nStep 3 : 00 63 00 00 40 12\nStep 4 : 00 09 00 00 04 03\nStep 5 : 00 00 00 03 04 09\nThe second number from the left end of step 1 is\n658.\nThe third number from the right end of step 2 is\n508.\nSubtraction : 508 - 658 = -150.",
+    "explanationHtml": "Arrangement Logic :<br/>1. In step one, each number is divided by 3 and 1<br/>is added to the resultant.<br/>2. In step two, the first digit from left of each<br/>number is squared and 1 is added to the<br/>resultant. And then the rest of the digits of<br/>each number are added within the number.<br/>3. In step three, all the digits of each number are<br/>multiplied within the number.<br/>4. In step four, all the digits of each number are<br/>added within the number.<br/>5. In step five, all the numbers are arranged in<br/>increasing order from left to right.<br/>Input : 543 1971 2235 231 894 3234<br/>Step 1 : 182 658 746 78 299 1079<br/>Step 2 : 210 3713 5010 508 518 216<br/>Step 3 : 00 63 00 00 40 12<br/>Step 4 : 00 09 00 00 04 03<br/>Step 5 : 00 00 00 03 04 09<br/>The second number from the left end of step 1 is<br/>658.<br/>The third number from the right end of step 2 is<br/>508.<br/>Subtraction : 508 - 658 = -150.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges numbers, is\ngiven a set of numbers to arrange, it rearranges\nthem in a particular way. The following set is a\nmanifestation of the arrangement made by the\nmachine.\nInput : 243 357 1296 876 1359 2271\nStep 1 : 82 120 433 293 454 758\nStep 2 : 652 22 176 512 179 5013\nStep 3 : 60 04 42 10 63 00\nStep 4 : 06 04 06 01 09 00\nStep 5 : 00 01 04 06 06 09\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 543 1971 2235 231 894 3234\nWhat will be the sum of the second number\nfrom the left end of step 2 and the third\nnumber from the right end of step 1?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges numbers, is<br/>given a set of numbers to arrange, it rearranges<br/>them in a particular way. The following set is a<br/>manifestation of the arrangement made by the<br/>machine.<br/>Input : 243 357 1296 876 1359 2271<br/>Step 1 : 82 120 433 293 454 758<br/>Step 2 : 652 22 176 512 179 5013<br/>Step 3 : 60 04 42 10 63 00<br/>Step 4 : 06 04 06 01 09 00<br/>Step 5 : 00 01 04 06 06 09<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 543 1971 2235 231 894 3234<br/>What will be the sum of the second number<br/>from the left end of step 2 and the third<br/>number from the right end of step 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3793",
+        "html": "3793"
+      },
+      {
+        "id": "B",
+        "text": "3791",
+        "html": "3791"
+      },
+      {
+        "id": "C",
+        "text": "3795",
+        "html": "3795"
+      },
+      {
+        "id": "D",
+        "text": "3797",
+        "html": "3797"
+      },
+      {
+        "id": "E",
+        "text": "3799",
+        "html": "3799"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arrangement Logic :\n1. In step one, each number is divided by 3 and 1\nis added to the resultant.\n2. In step two, the first digit from left of each\nnumber is squared and 1 is added to the\nresultant. And then the rest of the digits of\neach number are added within the number.\n3. In step three, all the digits of each number are\nmultiplied within the number.\n4. In step four, all the digits of each number are\nadded within the number.\n5. In step five, all the numbers are arranged in\nincreasing order from left to right.\nInput : 543 1971 2235 231 894 3234\nStep 1 : 182 658 746 78 299 1079\nStep 2 : 210 3713 5010 508 518 216\nStep 3 : 00 63 00 00 40 12\nStep 4 : 00 09 00 00 04 03\nStep 5 : 00 00 00 03 04 09\nThe second number from the left end of step 2 is\n3713.\nThe third number from the right end of step 1 is\n78.\nAddition : 3713 + 78 = 3791.",
+    "explanationHtml": "Arrangement Logic :<br/>1. In step one, each number is divided by 3 and 1<br/>is added to the resultant.<br/>2. In step two, the first digit from left of each<br/>number is squared and 1 is added to the<br/>resultant. And then the rest of the digits of<br/>each number are added within the number.<br/>3. In step three, all the digits of each number are<br/>multiplied within the number.<br/>4. In step four, all the digits of each number are<br/>added within the number.<br/>5. In step five, all the numbers are arranged in<br/>increasing order from left to right.<br/>Input : 543 1971 2235 231 894 3234<br/>Step 1 : 182 658 746 78 299 1079<br/>Step 2 : 210 3713 5010 508 518 216<br/>Step 3 : 00 63 00 00 40 12<br/>Step 4 : 00 09 00 00 04 03<br/>Step 5 : 00 00 00 03 04 09<br/>The second number from the left end of step 2 is<br/>3713.<br/>The third number from the right end of step 1 is<br/>78.<br/>Addition : 3713 + 78 = 3791.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges numbers, is\ngiven a set of numbers to arrange, it rearranges\nthem in a particular way. The following set is a\nmanifestation of the arrangement made by the\nmachine.\nInput : 243 357 1296 876 1359 2271\nStep 1 : 82 120 433 293 454 758\nStep 2 : 652 22 176 512 179 5013\nStep 3 : 60 04 42 10 63 00\nStep 4 : 06 04 06 01 09 00\nStep 5 : 00 01 04 06 06 09\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 543 1971 2235 231 894 3234\n \nInput Output",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges numbers, is<br/>given a set of numbers to arrange, it rearranges<br/>them in a particular way. The following set is a<br/>manifestation of the arrangement made by the<br/>machine.<br/>Input : 243 357 1296 876 1359 2271<br/>Step 1 : 82 120 433 293 454 758<br/>Step 2 : 652 22 176 512 179 5013<br/>Step 3 : 60 04 42 10 63 00<br/>Step 4 : 06 04 06 01 09 00<br/>Step 5 : 00 01 04 06 06 09<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 543 1971 2235 231 894 3234<br/> <br/>Input Output",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "Arrangement Logic :\n1. In step one, each number is divided by 3 and 1\nis added to the resultant.\n2. In step two, the first digit from left of each\nnumber is squared and 1 is added to the\nresultant. And then the rest of the digits of\neach number are added within the number.\n3. In step three, all the digits of each number are\nmultiplied within the number.\n4. In step four, all the digits of each number are\nadded within the number.\n5. In step five, all the numbers are arranged in\nincreasing order from left to right.\nInput : 543 1971 2235 231 894 3234\nStep 1 : 182 658 746 78 299 1079\nStep 2 : 210 3713 5010 508 518 216\nStep 3 : 00 63 00 00 40 12\nStep 4 : 00 09 00 00 04 03\nStep 5 : 00 00 00 03 04 09",
+    "explanationHtml": "Arrangement Logic :<br/>1. In step one, each number is divided by 3 and 1<br/>is added to the resultant.<br/>2. In step two, the first digit from left of each<br/>number is squared and 1 is added to the<br/>resultant. And then the rest of the digits of<br/>each number are added within the number.<br/>3. In step three, all the digits of each number are<br/>multiplied within the number.<br/>4. In step four, all the digits of each number are<br/>added within the number.<br/>5. In step five, all the numbers are arranged in<br/>increasing order from left to right.<br/>Input : 543 1971 2235 231 894 3234<br/>Step 1 : 182 658 746 78 299 1079<br/>Step 2 : 210 3713 5010 508 518 216<br/>Step 3 : 00 63 00 00 40 12<br/>Step 4 : 00 09 00 00 04 03<br/>Step 5 : 00 00 00 03 04 09",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges numbers, is\ngiven a set of numbers to arrange, it rearranges\nthem in a particular way. The following set is a\nmanifestation of the arrangement made by the\nmachine.\nInput : 243 357 1296 876 1359 2271\nStep 1 : 82 120 433 293 454 758\nStep 2 : 652 22 176 512 179 5013\nStep 3 : 60 04 42 10 63 00\nStep 4 : 06 04 06 01 09 00\nStep 5 : 00 01 04 06 06 09\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 543 1971 2235 231 894 3234\nWhich of the following is the penultimate step?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges numbers, is<br/>given a set of numbers to arrange, it rearranges<br/>them in a particular way. The following set is a<br/>manifestation of the arrangement made by the<br/>machine.<br/>Input : 243 357 1296 876 1359 2271<br/>Step 1 : 82 120 433 293 454 758<br/>Step 2 : 652 22 176 512 179 5013<br/>Step 3 : 60 04 42 10 63 00<br/>Step 4 : 06 04 06 01 09 00<br/>Step 5 : 00 01 04 06 06 09<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 543 1971 2235 231 894 3234<br/>Which of the following is the penultimate step?",
+    "options": [
+      {
+        "id": "A",
+        "text": "00 09 00 04 00 03",
+        "html": "00 09 00 04 00 03"
+      },
+      {
+        "id": "B",
+        "text": "09 00 00 00 04 03",
+        "html": "09 00 00 00 04 03"
+      },
+      {
+        "id": "C",
+        "text": "00 00 09 00 04 03",
+        "html": "00 00 09 00 04 03"
+      },
+      {
+        "id": "D",
+        "text": "00 09 00 00 04 03",
+        "html": "00 09 00 00 04 03"
+      },
+      {
+        "id": "E",
+        "text": "00 09 00 00 04 04",
+        "html": "00 09 00 00 04 04"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Arrangement Logic :\n1. In step one, each number is divided by 3 and 1\nis added to the resultant.\n2. In step two, the first digit from left of each\nnumber is squared and 1 is added to the\nresultant. And then the rest of the digits of\neach number are added within the number.\n3. In step three, all the digits of each number are\nmultiplied within the number.\n4. In step four, all the digits of each number are\nadded within the number.\n5. In step five, all the numbers are arranged in\nincreasing order from left to right.\nInput : 543 1971 2235 231 894 3234\nStep 1 : 182 658 746 78 299 1079\nStep 2 : 210 3713 5010 508 518 216\nStep 3 : 00 63 00 00 40 12\nStep 4 : 00 09 00 00 04 03\nStep 5 : 00 00 00 03 04 09\nThe penultimate step is the step before the last\nstep. The last step is step 5. \nTherefore, the penultimate step is Step 4,\nwhich is 00 09 00 00 04 03\nHence, 00 09 00 00 04 03 is the correct answer.",
+    "explanationHtml": "Arrangement Logic :<br/>1. In step one, each number is divided by 3 and 1<br/>is added to the resultant.<br/>2. In step two, the first digit from left of each<br/>number is squared and 1 is added to the<br/>resultant. And then the rest of the digits of<br/>each number are added within the number.<br/>3. In step three, all the digits of each number are<br/>multiplied within the number.<br/>4. In step four, all the digits of each number are<br/>added within the number.<br/>5. In step five, all the numbers are arranged in<br/>increasing order from left to right.<br/>Input : 543 1971 2235 231 894 3234<br/>Step 1 : 182 658 746 78 299 1079<br/>Step 2 : 210 3713 5010 508 518 216<br/>Step 3 : 00 63 00 00 40 12<br/>Step 4 : 00 09 00 00 04 03<br/>Step 5 : 00 00 00 03 04 09<br/>The penultimate step is the step before the last<br/>step. The last step is step 5. <br/>Therefore, the penultimate step is Step 4,<br/>which is 00 09 00 00 04 03<br/>Hence, 00 09 00 00 04 03 is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : come 95 alone 23 75 shame tops 86 wild\n15 hound 34\nStep 1 : alone come 95 23 75 shame tops 86 wild\nhound 34 15\nStep 2 : come alone 95 75 shame tops 86 wild\nhound 34 15 23\nStep 3 : hound come alone 95 75 shame tops 86\nwild 15 23 34\nStep 4 : shame hound come alone 95 tops 86\nwild 15 23 34 75\nStep 5 : tops shame hound come alone 95 wild\n15 23 34 75 86\nStep 6 : wild tops shame hound come alone 15\n23 34 75 86 95\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nHow many numbers are there in between broke\nand behold in step 2?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : come 95 alone 23 75 shame tops 86 wild<br/>15 hound 34<br/>Step 1 : alone come 95 23 75 shame tops 86 wild<br/>hound 34 15<br/>Step 2 : come alone 95 75 shame tops 86 wild<br/>hound 34 15 23<br/>Step 3 : hound come alone 95 75 shame tops 86<br/>wild 15 23 34<br/>Step 4 : shame hound come alone 95 tops 86<br/>wild 15 23 34 75<br/>Step 5 : tops shame hound come alone 95 wild<br/>15 23 34 75 86<br/>Step 6 : wild tops shame hound come alone 15<br/>23 34 75 86 95<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>How many numbers are there in between broke<br/>and behold in step 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and\nthe lowest number is immediately to its left.\nRest of the numbers will follow the same order\nin the remaining steps.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nStep 1 : bask broke 85 blame 82 bloke 83 89\nbecome 87 behold 81\nStep 2 : become bask broke 85 blame bloke 83\n89 87 behold 81 82\nStep 3 : behold become bask broke 85 blame\nbloke 89 87 81 82 83\nStep 4 : blame behold become bask broke bloke\n89 87 81 82 83 85\nStep 5 : bloke blame behold become bask broke\n89 81 82 83 85 87\nStep 6 : broke bloke blame behold become bask\n81 82 83 85 87 89\nSo, there are 4 numbers in between broke\nand behold in step 2.\nHence, 4 is the correct answer.",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and<br/>the lowest number is immediately to its left.<br/>Rest of the numbers will follow the same order<br/>in the remaining steps.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>Step 1 : bask broke 85 blame 82 bloke 83 89<br/>become 87 behold 81<br/>Step 2 : become bask broke 85 blame bloke 83<br/>89 87 behold 81 82<br/>Step 3 : behold become bask broke 85 blame<br/>bloke 89 87 81 82 83<br/>Step 4 : blame behold become bask broke bloke<br/>89 87 81 82 83 85<br/>Step 5 : bloke blame behold become bask broke<br/>89 81 82 83 85 87<br/>Step 6 : broke bloke blame behold become bask<br/>81 82 83 85 87 89<br/>So, there are 4 numbers in between broke<br/>and behold in step 2.<br/>Hence, 4 is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : come 95 alone 23 75 shame tops 86 wild\n15 hound 34\nStep 1 : alone come 95 23 75 shame tops 86 wild\nhound 34 15\nStep 2 : come alone 95 75 shame tops 86 wild\nhound 34 15 23\nStep 3 : hound come alone 95 75 shame tops 86\nwild 15 23 34",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : come 95 alone 23 75 shame tops 86 wild<br/>15 hound 34<br/>Step 1 : alone come 95 23 75 shame tops 86 wild<br/>hound 34 15<br/>Step 2 : come alone 95 75 shame tops 86 wild<br/>hound 34 15 23<br/>Step 3 : hound come alone 95 75 shame tops 86<br/>wild 15 23 34",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : come 95 alone 23 75 shame tops 86 wild\n15 hound 34\nStep 1 : alone come 95 23 75 shame tops 86 wild\nhound 34 15\nStep 2 : come alone 95 75 shame tops 86 wild\nhound 34 15 23\nStep 3 : hound come alone 95 75 shame tops 86\nwild 15 23 34\nStep 4 : shame hound come alone 95 tops 86\nwild 15 23 34 75\nStep 5 : tops shame hound come alone 95 wild\n15 23 34 75 86\nStep 6 : wild tops shame hound come alone 15\n23 34 75 86 95\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nWhich element is fourth to the left of the\nelement which is second to the right of behold\nin the ultimate step?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : come 95 alone 23 75 shame tops 86 wild<br/>15 hound 34<br/>Step 1 : alone come 95 23 75 shame tops 86 wild<br/>hound 34 15<br/>Step 2 : come alone 95 75 shame tops 86 wild<br/>hound 34 15 23<br/>Step 3 : hound come alone 95 75 shame tops 86<br/>wild 15 23 34<br/>Step 4 : shame hound come alone 95 tops 86<br/>wild 15 23 34 75<br/>Step 5 : tops shame hound come alone 95 wild<br/>15 23 34 75 86<br/>Step 6 : wild tops shame hound come alone 15<br/>23 34 75 86 95<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>Which element is fourth to the left of the<br/>element which is second to the right of behold<br/>in the ultimate step?",
+    "options": [
+      {
+        "id": "A",
+        "text": "blame",
+        "html": "blame"
+      },
+      {
+        "id": "B",
+        "text": "bask",
+        "html": "bask"
+      },
+      {
+        "id": "C",
+        "text": "become",
+        "html": "become"
+      },
+      {
+        "id": "D",
+        "text": "behold",
+        "html": "behold"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step.\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and\nthe lowest number is immediately to its left.\nRest of the numbers will follow the same order\nin the remaining steps.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nStep 1 : bask broke 85 blame 82 bloke 83 89\nbecome 87 behold 81\nStep 2 : become bask broke 85 blame bloke 83\n89 87 behold 81 82\nStep 3 : behold become bask broke 85 blame\nbloke 89 87 81 82 83\nStep 4 : blame behold become bask broke bloke\n89 87 81 82 83 85\nStep 5 : bloke blame behold become bask broke\n89 81 82 83 85 87\nStep 6 : broke bloke blame behold become bask\n81 82 83 85 87 89\nThe ultimate step is step 6, which is\nbroke bloke blame behold become bask 81 82\n83 85 87 89\nBask is second to the right of Behold.\nBloke is fourth to the left of Bask.",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step.<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and<br/>the lowest number is immediately to its left.<br/>Rest of the numbers will follow the same order<br/>in the remaining steps.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>Step 1 : bask broke 85 blame 82 bloke 83 89<br/>become 87 behold 81<br/>Step 2 : become bask broke 85 blame bloke 83<br/>89 87 behold 81 82<br/>Step 3 : behold become bask broke 85 blame<br/>bloke 89 87 81 82 83<br/>Step 4 : blame behold become bask broke bloke<br/>89 87 81 82 83 85<br/>Step 5 : bloke blame behold become bask broke<br/>89 81 82 83 85 87<br/>Step 6 : broke bloke blame behold become bask<br/>81 82 83 85 87 89<br/>The ultimate step is step 6, which is<br/>broke bloke blame behold become bask 81 82<br/>83 85 87 89<br/>Bask is second to the right of Behold.<br/>Bloke is fourth to the left of Bask.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : come 95 alone 23 75 shame tops 86 wild\n15 hound 34\nStep 1 : alone come 95 23 75 shame tops 86 wild\nhound 34 15\nStep 2 : come alone 95 75 shame tops 86 wild\nhound 34 15 23\nStep 3 : hound come alone 95 75 shame tops 86\nwild 15 23 34\nStep 4 : shame hound come alone 95 tops 86\nwild 15 23 34 75\nStep 5 : tops shame hound come alone 95 wild\n15 23 34 75 86\nStep 6 : wild tops shame hound come alone 15\n23 34 75 86 95\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : come 95 alone 23 75 shame tops 86 wild<br/>15 hound 34<br/>Step 1 : alone come 95 23 75 shame tops 86 wild<br/>hound 34 15<br/>Step 2 : come alone 95 75 shame tops 86 wild<br/>hound 34 15 23<br/>Step 3 : hound come alone 95 75 shame tops 86<br/>wild 15 23 34<br/>Step 4 : shame hound come alone 95 tops 86<br/>wild 15 23 34 75<br/>Step 5 : tops shame hound come alone 95 wild<br/>15 23 34 75 86<br/>Step 6 : wild tops shame hound come alone 15<br/>23 34 75 86 95<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : come 95 alone 23 75 shame tops 86 wild\n15 hound 34\nStep 1 : alone come 95 23 75 shame tops 86 wild\nhound 34 15\nStep 2 : come alone 95 75 shame tops 86 wild\nhound 34 15 23\nStep 3 : hound come alone 95 75 shame tops 86\nwild 15 23 34\nStep 4 : shame hound come alone 95 tops 86\nwild 15 23 34 75\nStep 5 : tops shame hound come alone 95 wild\n15 23 34 75 86\nStep 6 : wild tops shame hound come alone 15\n23 34 75 86 95\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nWhich word is second to the left of 87 in step\n4?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : come 95 alone 23 75 shame tops 86 wild<br/>15 hound 34<br/>Step 1 : alone come 95 23 75 shame tops 86 wild<br/>hound 34 15<br/>Step 2 : come alone 95 75 shame tops 86 wild<br/>hound 34 15 23<br/>Step 3 : hound come alone 95 75 shame tops 86<br/>wild 15 23 34<br/>Step 4 : shame hound come alone 95 tops 86<br/>wild 15 23 34 75<br/>Step 5 : tops shame hound come alone 95 wild<br/>15 23 34 75 86<br/>Step 6 : wild tops shame hound come alone 15<br/>23 34 75 86 95<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>Which word is second to the left of 87 in step<br/>4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "blame",
+        "html": "blame"
+      },
+      {
+        "id": "B",
+        "text": "bloke",
+        "html": "bloke"
+      },
+      {
+        "id": "C",
+        "text": "broke",
+        "html": "broke"
+      },
+      {
+        "id": "D",
+        "text": "behold",
+        "html": "behold"
+      },
+      {
+        "id": "E",
+        "text": "bask",
+        "html": "bask"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and\nthe lowest number is immediately to its left.\nRest of the numbers will follow the same order\nin the remaining steps.\nInput : broke 85 blame 82 bloke 83 bask 81 89\nbecome 87 behold.\nStep 1 : bask broke 85 blame 82 bloke 83 89\nbecome 87 behold 81\nStep 2 : become bask broke 85 blame bloke 83\n89 87 behold 81 82\nStep 3 : behold become bask broke 85 blame\nbloke 89 87 81 82 83\nStep 4 : blame behold become bask broke bloke\n89 87 81 82 83 85\nStep 5 : bloke blame behold become bask broke\n89 81 82 83 85 87\nStep 6 : broke bloke blame behold become bask\n81 82 83 85 87 89\nStep 4 : blame behold become bask broke\nbloke 89 87 81 82 83 85\nThe word Bloke is second to the left of 87 in\nstep 4.\nHence, \"Bloke\" is the correct answer.",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and<br/>the lowest number is immediately to its left.<br/>Rest of the numbers will follow the same order<br/>in the remaining steps.<br/>Input : broke 85 blame 82 bloke 83 bask 81 89<br/>become 87 behold.<br/>Step 1 : bask broke 85 blame 82 bloke 83 89<br/>become 87 behold 81<br/>Step 2 : become bask broke 85 blame bloke 83<br/>89 87 behold 81 82<br/>Step 3 : behold become bask broke 85 blame<br/>bloke 89 87 81 82 83<br/>Step 4 : blame behold become bask broke bloke<br/>89 87 81 82 83 85<br/>Step 5 : bloke blame behold become bask broke<br/>89 81 82 83 85 87<br/>Step 6 : broke bloke blame behold become bask<br/>81 82 83 85 87 89<br/>Step 4 : blame behold become bask broke<br/>bloke 89 87 81 82 83 85<br/>The word Bloke is second to the left of 87 in<br/>step 4.<br/>Hence, \"Bloke\" is the correct answer.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : shade 29 52 white 98 blue color 45 33\nzebra\nStep 1 : blue shade 52 white 98 color 45 33\nzebra 29\nStep 2 : color blue shade 52 white 98 45 zebra\n29 33\nStep 3 : shade color blue 52 white 98 zebra 29\n33 45\nStep 4 : white shade color blue 98 zebra 29 33\n45 52\nStep 5 : zebra white shade color blue 29 33 45\n52 98\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 25 night 88 jump prank 66 34 glue alone\n28\nHow many elements are there in between 88 and\n25 in step 1?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : shade 29 52 white 98 blue color 45 33<br/>zebra<br/>Step 1 : blue shade 52 white 98 color 45 33<br/>zebra 29<br/>Step 2 : color blue shade 52 white 98 45 zebra<br/>29 33<br/>Step 3 : shade color blue 52 white 98 zebra 29<br/>33 45<br/>Step 4 : white shade color blue 98 zebra 29 33<br/>45 52<br/>Step 5 : zebra white shade color blue 29 33 45<br/>52 98<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 25 night 88 jump prank 66 34 glue alone<br/>28<br/>How many elements are there in between 88 and<br/>25 in step 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "2",
+        "html": "2"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and\nthe lowest number is immediately to its left.",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and<br/>the lowest number is immediately to its left.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n3. In the second step, the word which comes\nsecond in the dictionary is placed at the\nbeginning of the arrangement and the word\nwhich comes first in the dictionary is\nimmediately to its right. Rest of the words will\nfollow the same order in the remaining steps.\n4. In the second step, the second lowest number\nis placed at the end of the arrangement and\nthe lowest number is immediately to its left.\nRest of the numbers will follow the same order\nin the remaining steps.\nInput : 25 night 88 jump prank 66 34 glue alone\n28\nStep 1 : alone night 88 jump prank 66 34 glue 28\n25\nStep 2 : glue alone night 88 jump prank 66 34 25\n28\nStep 3: jump glue alone night 88 prank 66 25 28\n34\nStep 4 : night jump glue alone 88 prank 25 28 34\n66\nStep 5 : prank night jump glue alone 2528 34 66\n88",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/>3. In the second step, the word which comes<br/>second in the dictionary is placed at the<br/>beginning of the arrangement and the word<br/>which comes first in the dictionary is<br/>immediately to its right. Rest of the words will<br/>follow the same order in the remaining steps.<br/>4. In the second step, the second lowest number<br/>is placed at the end of the arrangement and<br/>the lowest number is immediately to its left.<br/>Rest of the numbers will follow the same order<br/>in the remaining steps.<br/>Input : 25 night 88 jump prank 66 34 glue alone<br/>28<br/>Step 1 : alone night 88 jump prank 66 34 glue 28<br/>25<br/>Step 2 : glue alone night 88 jump prank 66 34 25<br/>28<br/>Step 3: jump glue alone night 88 prank 66 25 28<br/>34<br/>Step 4 : night jump glue alone 88 prank 25 28 34<br/>66<br/>Step 5 : prank night jump glue alone 2528 34 66<br/>88",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Directions: A machine rearrangement given an\ninput line having numbers in a particular set of\nrules in step by step. The following is an\nillustration of input and its rearrangement:\nINPUT: 5496 2893 1798 2384 7631 4825\nSTEP I: 4569 2389 1789 2348 1367 2458\nSTEP II: 5946 3928 1798 3248 1376 5248\nSTEP III: 54 32 19 34 17 54\nSTEP IV: 20 6 9 12 7 20\nStep IV is the last step of the above input. As per\nrules \nfollowed \nin \nthe \ngiven \nsteps, \nfind\nappropriate step for given Input.\nINPUT: 1523 4139 9871 6329 8514 2793\nHow many even numbers are there in step III?",
+    "questionHtml": "Directions: A machine rearrangement given an<br/>input line having numbers in a particular set of<br/>rules in step by step. The following is an<br/>illustration of input and its rearrangement:<br/>INPUT: 5496 2893 1798 2384 7631 4825<br/>STEP I: 4569 2389 1789 2348 1367 2458<br/>STEP II: 5946 3928 1798 3248 1376 5248<br/>STEP III: 54 32 19 34 17 54<br/>STEP IV: 20 6 9 12 7 20<br/>Step IV is the last step of the above input. As per<br/>rules <br/>followed <br/>in <br/>the <br/>given <br/>steps, <br/>find<br/>appropriate step for given Input.<br/>INPUT: 1523 4139 9871 6329 8514 2793<br/>How many even numbers are there in step III?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0",
+        "html": "0"
+      },
+      {
+        "id": "B",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "4",
+        "html": "4"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "INPUT: 1523 4139 9871 6329 8514 2793\nIn the first step, the digits in each number are\narranged in increasing order.\nSTEP I: 1235 1349 1789 2369 1458 2379\nIn the second step, the odd digits in each number\nare arranged in increasing order followed by the\neven number in increasing order. e.g. 1523= 1352.\nSTEP II: 1352 1394 1798 3926 1548 3792\nIn the third step, the 1 and the 3 digit of the\nnumber are taken, and rest are omitted.\nSTEP III: 15 19 19 32 14 39\nIn the final step, the digit product of each\nnumber is taken.\nSTEP IV: 5 9 9 6 4 27\n2 even numbers are there in step III.",
+    "explanationHtml": "INPUT: 1523 4139 9871 6329 8514 2793<br/>In the first step, the digits in each number are<br/>arranged in increasing order.<br/>STEP I: 1235 1349 1789 2369 1458 2379<br/>In the second step, the odd digits in each number<br/>are arranged in increasing order followed by the<br/>even number in increasing order. e.g. 1523= 1352.<br/>STEP II: 1352 1394 1798 3926 1548 3792<br/>In the third step, the 1 and the 3 digit of the<br/>number are taken, and rest are omitted.<br/>STEP III: 15 19 19 32 14 39<br/>In the final step, the digit product of each<br/>number is taken.<br/>STEP IV: 5 9 9 6 4 27<br/>2 even numbers are there in step III.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nWhen a machine, which arranges words and\nnumbers, is given a set of words and numbers to\narrange, it rearranges them in a particular way.\nThe following set is a manifestation of the\narrangement made by the machine.\nInput : shade 29 52 white 98 blue color 45 33\nzebra\nStep 1 : blue shade 52 white 98 color 45 33\nzebra 29\nStep 2 : color blue shade 52 white 98 45 zebra\n29 33\nStep 3 : shade color blue 52 white 98 zebra 29\n33 45\nStep 4 : white shade color blue 98 zebra 29 33\n45 52\nStep 5 : zebra white shade color blue 29 33 45\n52 98\nThe \nfollowing \nset \nwill \nfollow \nthe \nsame\narrangement pattern. Find out the steps and\nanswer the following questions accordingly.\nInput : 25 night 88 jump prank 66 34 glue alone\n28\nWhat will be the outcome if we add the second\nnumber from the left end of step 2 and the\nthird number from the right end of step 4?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>When a machine, which arranges words and<br/>numbers, is given a set of words and numbers to<br/>arrange, it rearranges them in a particular way.<br/>The following set is a manifestation of the<br/>arrangement made by the machine.<br/>Input : shade 29 52 white 98 blue color 45 33<br/>zebra<br/>Step 1 : blue shade 52 white 98 color 45 33<br/>zebra 29<br/>Step 2 : color blue shade 52 white 98 45 zebra<br/>29 33<br/>Step 3 : shade color blue 52 white 98 zebra 29<br/>33 45<br/>Step 4 : white shade color blue 98 zebra 29 33<br/>45 52<br/>Step 5 : zebra white shade color blue 29 33 45<br/>52 98<br/>The <br/>following <br/>set <br/>will <br/>follow <br/>the <br/>same<br/>arrangement pattern. Find out the steps and<br/>answer the following questions accordingly.<br/>Input : 25 night 88 jump prank 66 34 glue alone<br/>28<br/>What will be the outcome if we add the second<br/>number from the left end of step 2 and the<br/>third number from the right end of step 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "96",
+        "html": "96"
+      },
+      {
+        "id": "B",
+        "text": "94",
+        "html": "94"
+      },
+      {
+        "id": "C",
+        "text": "92",
+        "html": "92"
+      },
+      {
+        "id": "D",
+        "text": "88",
+        "html": "88"
+      },
+      {
+        "id": "E",
+        "text": "86",
+        "html": "86"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arrangement Logic :\n1. One word and one number change their\npositions in each step\n2. In the first step, the word which comes first in\nthe dictionary is placed at the beginning of\nthe arrangement and the lowest number is\nplaced at the end of the arrangement.\n \nst\nrd",
+    "explanationHtml": "Arrangement Logic :<br/>1. One word and one number change their<br/>positions in each step<br/>2. In the first step, the word which comes first in<br/>the dictionary is placed at the beginning of<br/>the arrangement and the lowest number is<br/>placed at the end of the arrangement.<br/> <br/>st<br/>rd",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Directions: A machine rearrangement given an\ninput line having numbers in a particular set of\nrules in step by step. The following is an\nillustration of input and its rearrangement:\nINPUT: 5496 2893 1798 2384 7631 4825\nSTEP I: 4569 2389 1789 2348 1367 2458\nSTEP II: 5946 3928 1798 3248 1376 5248\nSTEP III: 54 32 19 34 17 54\nSTEP IV: 20 6 9 12 7 20\nStep IV is the last step of the above input. As per\nrules \nfollowed \nin \nthe \ngiven \nsteps, \nfind\nappropriate step for given Input.\nINPUT:1523 4139 9871 6329 8514 2793\nWhat is the difference of the fourth number from\nleft end in step I and 1 number from left end in\nstep II?",
+    "questionHtml": "Directions: A machine rearrangement given an<br/>input line having numbers in a particular set of<br/>rules in step by step. The following is an<br/>illustration of input and its rearrangement:<br/>INPUT: 5496 2893 1798 2384 7631 4825<br/>STEP I: 4569 2389 1789 2348 1367 2458<br/>STEP II: 5946 3928 1798 3248 1376 5248<br/>STEP III: 54 32 19 34 17 54<br/>STEP IV: 20 6 9 12 7 20<br/>Step IV is the last step of the above input. As per<br/>rules <br/>followed <br/>in <br/>the <br/>given <br/>steps, <br/>find<br/>appropriate step for given Input.<br/>INPUT:1523 4139 9871 6329 8514 2793<br/>What is the difference of the fourth number from<br/>left end in step I and 1 number from left end in<br/>step II?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1893",
+        "html": "1893"
+      },
+      {
+        "id": "B",
+        "text": "1017",
+        "html": "1017"
+      },
+      {
+        "id": "C",
+        "text": "987",
+        "html": "987"
+      },
+      {
+        "id": "D",
+        "text": "3413",
+        "html": "3413"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "INPUT: 1523 4139 9871 6329 8514 2793\nIn the first step, the digits in each number are\narranged in increasing order.\nSTEP I: 1235 1349 1789 2369 1458 2379\nIn the second step, the odd digits in each number\nare arranged in increasing order followed by the\neven number in increasing order. e.g. 1523= 1352.\nSTEP II: 1352 1394 1798 3926 1548 3792\nIn the third step, the 1 and the 3 digit of the\nnumber are taken, and rest are omitted.\nSTEP III: 15 19 19 32 14 39\nIn the final step, the digit product of each\nnumber is taken.\nSTEP IV: 5 9 9 6 4 27\n \nst\nrd",
+    "explanationHtml": "INPUT: 1523 4139 9871 6329 8514 2793<br/>In the first step, the digits in each number are<br/>arranged in increasing order.<br/>STEP I: 1235 1349 1789 2369 1458 2379<br/>In the second step, the odd digits in each number<br/>are arranged in increasing order followed by the<br/>even number in increasing order. e.g. 1523= 1352.<br/>STEP II: 1352 1394 1798 3926 1548 3792<br/>In the third step, the 1 and the 3 digit of the<br/>number are taken, and rest are omitted.<br/>STEP III: 15 19 19 32 14 39<br/>In the final step, the digit product of each<br/>number is taken.<br/>STEP IV: 5 9 9 6 4 27<br/> <br/>st<br/>rd",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Directions: A machine rearrangement given an\ninput line having numbers in a particular set of\nrules in step by step. The following is an\nillustration of input and its rearrangement:\nINPUT: 5496 2893 1798 2384 7631 4825\nSTEP I: 4569 2389 1789 2348 1367 2458\nSTEP II: 5946 3928 1798 3248 1376 5248\nSTEP III: 54 32 19 34 17 54\nSTEP IV: 20 6 9 12 7 20\nStep IV is the last step of the above input. As per\nrules \nfollowed \nin \nthe \ngiven \nsteps, \nfind\nappropriate step for given Input.\nINPUT:1523 4139 9871 6329 8514 2793\nWhat is the digit sum of the number which is\nsecond from the right end in step II?",
+    "questionHtml": "Directions: A machine rearrangement given an<br/>input line having numbers in a particular set of<br/>rules in step by step. The following is an<br/>illustration of input and its rearrangement:<br/>INPUT: 5496 2893 1798 2384 7631 4825<br/>STEP I: 4569 2389 1789 2348 1367 2458<br/>STEP II: 5946 3928 1798 3248 1376 5248<br/>STEP III: 54 32 19 34 17 54<br/>STEP IV: 20 6 9 12 7 20<br/>Step IV is the last step of the above input. As per<br/>rules <br/>followed <br/>in <br/>the <br/>given <br/>steps, <br/>find<br/>appropriate step for given Input.<br/>INPUT:1523 4139 9871 6329 8514 2793<br/>What is the digit sum of the number which is<br/>second from the right end in step II?",
+    "options": [
+      {
+        "id": "A",
+        "text": "17",
+        "html": "17"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "INPUT: 1523 4139 9871 6329 8514 2793\nIn the first step, the digits in each number are\narranged in increasing order.\nSTEP I: 1235 1349 1789 2369 1458 2379\nIn the second step, the odd digits in each number\nare arranged in increasing order followed by the\neven number in increasing order. e.g. 1523= 1352.\nSTEP II: 1352 1394 1798 3926 1548 3792\nIn the third step, the 1 and the 3 digit of the\nnumber are taken, and rest are omitted.\nSTEP III: 15 19 19 32 14 39\nIn the final step, the digit product of each\nnumber is taken.\nSTEP IV: 5 9 9 6 4 27\nThe number which is second from the right end\nin step II = 1548. digit sum = 18.",
+    "explanationHtml": "INPUT: 1523 4139 9871 6329 8514 2793<br/>In the first step, the digits in each number are<br/>arranged in increasing order.<br/>STEP I: 1235 1349 1789 2369 1458 2379<br/>In the second step, the odd digits in each number<br/>are arranged in increasing order followed by the<br/>even number in increasing order. e.g. 1523= 1352.<br/>STEP II: 1352 1394 1798 3926 1548 3792<br/>In the third step, the 1 and the 3 digit of the<br/>number are taken, and rest are omitted.<br/>STEP III: 15 19 19 32 14 39<br/>In the final step, the digit product of each<br/>number is taken.<br/>STEP IV: 5 9 9 6 4 27<br/>The number which is second from the right end<br/>in step II = 1548. digit sum = 18.",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Directions: A machine rearrangement given an\ninput line having numbers in a particular set of\nrules in step by step. The following is an\nillustration of input and its rearrangement:\nINPUT: 5496 2893 1798 2384 7631 4825\nSTEP I: 4569 2389 1789 2348 1367 2458\nSTEP II: 5946 3928 1798 3248 1376 5248\nSTEP III: 54 32 19 34 17 54\nSTEP IV: 20 6 9 12 7 20\nStep IV is the last step of the above input. As per\nrules \nfollowed \nin \nthe \ngiven \nsteps, \nfind\nappropriate step for given Input.\nINPUT:1523 4139 9871 6329 8514 2793\n \nst",
+    "questionHtml": "Directions: A machine rearrangement given an<br/>input line having numbers in a particular set of<br/>rules in step by step. The following is an<br/>illustration of input and its rearrangement:<br/>INPUT: 5496 2893 1798 2384 7631 4825<br/>STEP I: 4569 2389 1789 2348 1367 2458<br/>STEP II: 5946 3928 1798 3248 1376 5248<br/>STEP III: 54 32 19 34 17 54<br/>STEP IV: 20 6 9 12 7 20<br/>Step IV is the last step of the above input. As per<br/>rules <br/>followed <br/>in <br/>the <br/>given <br/>steps, <br/>find<br/>appropriate step for given Input.<br/>INPUT:1523 4139 9871 6329 8514 2793<br/> <br/>st",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "INPUT: 1523 4139 9871 6329 8514 2793\nIn the first step, the digits in each number are\narranged in increasing order.\nSTEP I: 1235 1349 1789 2369 1458 2379\nIn the second step, the odd digits in each number\nare arranged in increasing order followed by the\neven number in increasing order. e.g. 1523= 1352.\nSTEP II: 1352 1394 1798 3926 1548 3792\nIn the third step, the 1 and the 3 digit of the\nnumber are taken, and rest are omitted.\nSTEP III: 15 19 19 32 14 39\nIn the final step, the digit product of each\nnumber is taken.\nSTEP IV: 5 9 9 6 4 27\n2\n number = 9\n4 number = 6\n6 number= 27\nsum= 42",
+    "explanationHtml": "INPUT: 1523 4139 9871 6329 8514 2793<br/>In the first step, the digits in each number are<br/>arranged in increasing order.<br/>STEP I: 1235 1349 1789 2369 1458 2379<br/>In the second step, the odd digits in each number<br/>are arranged in increasing order followed by the<br/>even number in increasing order. e.g. 1523= 1352.<br/>STEP II: 1352 1394 1798 3926 1548 3792<br/>In the third step, the 1 and the 3 digit of the<br/>number are taken, and rest are omitted.<br/>STEP III: 15 19 19 32 14 39<br/>In the final step, the digit product of each<br/>number is taken.<br/>STEP IV: 5 9 9 6 4 27<br/>2<br/> number = 9<br/>4 number = 6<br/>6 number= 27<br/>sum= 42",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "A number arrangement machine when given an\ninput \nline \nof \nnumbers \nrearranges \nthem\nfollowing a particular pattern in each step. The\nfollowing is an illustration of an input and\nrearrangement.\nInput: 725824 399423 885341 537642 718354\n414792 492543\nStep I: 399423 414792 492543 537642 718354\n725824 885341\nStep II: 9 4 9 4 16 16 1\nStep III: 399432 414796 492552 537646 718370\n725840 885342\nStep IV: 399438 414820 492560 537676 718370\n725840 885358\nStep V: 834993 012484 025694 636775 013787\n024587 835588\nStep VI: 36 19 26 34 26 26 37\nAs per the pattern followed in the above steps,\nfind the output for the given input:\nInput: 294435 576493 978876 252349 747962\n918125 453264\nHow many number(s) which is/are divisible by 10\nin the fourth step?",
+    "questionHtml": "A number arrangement machine when given an<br/>input <br/>line <br/>of <br/>numbers <br/>rearranges <br/>them<br/>following a particular pattern in each step. The<br/>following is an illustration of an input and<br/>rearrangement.<br/>Input: 725824 399423 885341 537642 718354<br/>414792 492543<br/>Step I: 399423 414792 492543 537642 718354<br/>725824 885341<br/>Step II: 9 4 9 4 16 16 1<br/>Step III: 399432 414796 492552 537646 718370<br/>725840 885342<br/>Step IV: 399438 414820 492560 537676 718370<br/>725840 885358<br/>Step V: 834993 012484 025694 636775 013787<br/>024587 835588<br/>Step VI: 36 19 26 34 26 26 37<br/>As per the pattern followed in the above steps,<br/>find the output for the given input:<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/>How many number(s) which is/are divisible by 10<br/>in the fourth step?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "D",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "E",
+        "text": "4",
+        "html": "4"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "By observing the given input and the steps, we\ncan say that:\nIn step I:\nThe numbers are arranged in increasing order.\nIn step II:\nThe numbers are replaced by the square of the\nlast digit of the numbers.\nIn step III:\nNumbers in step I and II are added.\nIn step IV:\nThe numbers increased by the multiplication of\nthe first and the last digits of the numbers.\nIn step V:\nThe first and the last digits of the numbers are\nexchanged and the rest of the digits are\narranged in the increasing order.\nIn step VI:\nThe numbers are replaced by their digital sums.\nBy following the same logical pattern we get,\nInput: 294435 576493 978876 252349 747962\n918125 453264\nStep I: 252349 294435 453264 576493 747962\n918125 978876\nStep II: 81 25 16 9 4 25 36\nStep III: 252430 294460 453280 576502 747966\n918150 978912\nStep IV: 252430 294460 453280 576512\n748008 918150 978930\nStep V: 023452 044692 023584 215675 800487\n011589 037899\nStep VI: 16 25 22 26 27 24 36\nStep IV: 252430 294460 453280 576512\n748008 918150 978930\n5 numbers are divisible by 10 in the fourth\nstep.\nHence, \"5\" is the correct answer.\n \nst\nst\nrd\nst\nrd\nnd\nth\nth",
+    "explanationHtml": "By observing the given input and the steps, we<br/>can say that:<br/>In step I:<br/>The numbers are arranged in increasing order.<br/>In step II:<br/>The numbers are replaced by the square of the<br/>last digit of the numbers.<br/>In step III:<br/>Numbers in step I and II are added.<br/>In step IV:<br/>The numbers increased by the multiplication of<br/>the first and the last digits of the numbers.<br/>In step V:<br/>The first and the last digits of the numbers are<br/>exchanged and the rest of the digits are<br/>arranged in the increasing order.<br/>In step VI:<br/>The numbers are replaced by their digital sums.<br/>By following the same logical pattern we get,<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/>Step I: 252349 294435 453264 576493 747962<br/>918125 978876<br/>Step II: 81 25 16 9 4 25 36<br/>Step III: 252430 294460 453280 576502 747966<br/>918150 978912<br/>Step IV: 252430 294460 453280 576512<br/>748008 918150 978930<br/>Step V: 023452 044692 023584 215675 800487<br/>011589 037899<br/>Step VI: 16 25 22 26 27 24 36<br/>Step IV: 252430 294460 453280 576512<br/>748008 918150 978930<br/>5 numbers are divisible by 10 in the fourth<br/>step.<br/>Hence, \"5\" is the correct answer.<br/> <br/>st<br/>st<br/>rd<br/>st<br/>rd<br/>nd<br/>th<br/>th",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "A number arrangement machine when given an\ninput \nline \nof \nnumbers \nrearranges \nthem\nfollowing a particular pattern in each step. The\nfollowing is an illustration of an input and\nrearrangement.\n \nInput: 725824 399423 885341 537642 718354\n414792 492543\nStep I: 399423 414792 492543 537642 718354\n725824 885341\nStep II: 9 4 9 4 16 16 1\nStep III: 399432 414796 492552 537646 718370\n725840 885342\nStep IV: 399438 414820 492560 537676 718370\n725840 885358\nStep V: 834993 012484 025694 636775 013787\n024587 835588\nStep VI: 36 19 26 34 26 26 37\nAs per the pattern followed in the above steps,\nfind the output for the given input:\nInput: 294435 576493 978876 252349 747962\n918125 453264\n \nWhat is the square of sum of the numbers at the\nleftmost end and the rightmost end in Step VI?",
+    "questionHtml": "A number arrangement machine when given an<br/>input <br/>line <br/>of <br/>numbers <br/>rearranges <br/>them<br/>following a particular pattern in each step. The<br/>following is an illustration of an input and<br/>rearrangement.<br/> <br/>Input: 725824 399423 885341 537642 718354<br/>414792 492543<br/>Step I: 399423 414792 492543 537642 718354<br/>725824 885341<br/>Step II: 9 4 9 4 16 16 1<br/>Step III: 399432 414796 492552 537646 718370<br/>725840 885342<br/>Step IV: 399438 414820 492560 537676 718370<br/>725840 885358<br/>Step V: 834993 012484 025694 636775 013787<br/>024587 835588<br/>Step VI: 36 19 26 34 26 26 37<br/>As per the pattern followed in the above steps,<br/>find the output for the given input:<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/> <br/>What is the square of sum of the numbers at the<br/>leftmost end and the rightmost end in Step VI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2401",
+        "html": "2401"
+      },
+      {
+        "id": "B",
+        "text": "4225",
+        "html": "4225"
+      },
+      {
+        "id": "C",
+        "text": "3249",
+        "html": "3249"
+      },
+      {
+        "id": "D",
+        "text": "2704",
+        "html": "2704"
+      },
+      {
+        "id": "E",
+        "text": "4761",
+        "html": "4761"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "By observing the given input and the steps, we\ncan say that:\nIn step I:\nThe numbers are arranged in increasing order.\nIn step II:\nThe numbers are replaced by the square of the\nlast digit of the numbers.\nIn step III:\nNumbers in step I and II are added.\nIn step IV:\nThe numbers increased by the multiplication of\nthe first and the last digits of the numbers.\nIn step V:\nThe first and the last digits of the numbers are\nexchanged and the rest of the digits are\narranged in the increasing order.\nIn step VI:\nThe numbers are replaced by their digital sums.\nBy following the same logical pattern we get,\nInput: 294435 576493 978876 252349 747962\n918125 453264\nStep I: 252349 294435 453264 576493 747962\n918125 978876\nStep II: 81 25 16 9 4 25 36\nStep III: 252430 294460 453280 576502 747966\n918150 978912\nStep IV: 252430 294460 453280 576512\n748008 918150 978930\nStep V: 023452 044692 023584 215675 800487\n011589 037899\nStep VI: 16 25 22 26 27 24 36\n16 + 36 = 52; 52 x 52 = 2704",
+    "explanationHtml": "By observing the given input and the steps, we<br/>can say that:<br/>In step I:<br/>The numbers are arranged in increasing order.<br/>In step II:<br/>The numbers are replaced by the square of the<br/>last digit of the numbers.<br/>In step III:<br/>Numbers in step I and II are added.<br/>In step IV:<br/>The numbers increased by the multiplication of<br/>the first and the last digits of the numbers.<br/>In step V:<br/>The first and the last digits of the numbers are<br/>exchanged and the rest of the digits are<br/>arranged in the increasing order.<br/>In step VI:<br/>The numbers are replaced by their digital sums.<br/>By following the same logical pattern we get,<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/>Step I: 252349 294435 453264 576493 747962<br/>918125 978876<br/>Step II: 81 25 16 9 4 25 36<br/>Step III: 252430 294460 453280 576502 747966<br/>918150 978912<br/>Step IV: 252430 294460 453280 576512<br/>748008 918150 978930<br/>Step V: 023452 044692 023584 215675 800487<br/>011589 037899<br/>Step VI: 16 25 22 26 27 24 36<br/>16 + 36 = 52; 52 x 52 = 2704",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "A number arrangement machine when given an\ninput \nline \nof \nnumbers \nrearranges \nthem\nfollowing a particular pattern in each step. The\nfollowing is an illustration of an input and\nrearrangement.\n \nInput: 725824 399423 885341 537642 718354\n414792 492543\nStep I: 399423 414792 492543 537642 718354\n725824 885341\nStep II: 9 4 9 4 16 16 1\nStep III: 399432 414796 492552 537646 718370\n725840 885342\nStep IV: 399438 414820 492560 537676 718370\n725840 885358",
+    "questionHtml": "A number arrangement machine when given an<br/>input <br/>line <br/>of <br/>numbers <br/>rearranges <br/>them<br/>following a particular pattern in each step. The<br/>following is an illustration of an input and<br/>rearrangement.<br/> <br/>Input: 725824 399423 885341 537642 718354<br/>414792 492543<br/>Step I: 399423 414792 492543 537642 718354<br/>725824 885341<br/>Step II: 9 4 9 4 16 16 1<br/>Step III: 399432 414796 492552 537646 718370<br/>725840 885342<br/>Step IV: 399438 414820 492560 537676 718370<br/>725840 885358",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "By observing the given input and the steps, we\ncan say that:\nIn step I:\nThe numbers are arranged in increasing order.\nIn step II:\nThe numbers are replaced by the square of the\nlast digit of the numbers.\nIn step III:\nNumbers in step I and II are added.\nIn step IV:\nThe numbers increased by the multiplication of\nthe first and the last digits of the numbers.\nIn step V:\nThe first and the last digits of the numbers are\nexchanged and the rest of the digits are\narranged in the increasing order.\nIn step VI:\nThe numbers are replaced by their digital sums.\nBy following the same logical pattern we get,\nInput: 294435 576493 978876 252349 747962\n918125 453264\nStep I: 252349 294435 453264 576493 747962\n918125 978876\nStep II: 81 25 16 9 4 25 36\nStep III: 252430 294460 453280 576502 747966\n918150 978912\nStep IV: 252430 294460 453280 576512\n748008 918150 978930\nStep V: 023452 044692 023584 215675 800487\n011589 037899\nStep VI: 16 25 22 26 27 24 36\nStep II: 81 25 16 9 4 25 36\n81 + 25 + 16 + 9 + 4 + 25 + 36 = 196",
+    "explanationHtml": "By observing the given input and the steps, we<br/>can say that:<br/>In step I:<br/>The numbers are arranged in increasing order.<br/>In step II:<br/>The numbers are replaced by the square of the<br/>last digit of the numbers.<br/>In step III:<br/>Numbers in step I and II are added.<br/>In step IV:<br/>The numbers increased by the multiplication of<br/>the first and the last digits of the numbers.<br/>In step V:<br/>The first and the last digits of the numbers are<br/>exchanged and the rest of the digits are<br/>arranged in the increasing order.<br/>In step VI:<br/>The numbers are replaced by their digital sums.<br/>By following the same logical pattern we get,<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/>Step I: 252349 294435 453264 576493 747962<br/>918125 978876<br/>Step II: 81 25 16 9 4 25 36<br/>Step III: 252430 294460 453280 576502 747966<br/>918150 978912<br/>Step IV: 252430 294460 453280 576512<br/>748008 918150 978930<br/>Step V: 023452 044692 023584 215675 800487<br/>011589 037899<br/>Step VI: 16 25 22 26 27 24 36<br/>Step II: 81 25 16 9 4 25 36<br/>81 + 25 + 16 + 9 + 4 + 25 + 36 = 196",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "A number arrangement machine when given an\ninput \nline \nof \nnumbers \nrearranges \nthem\nfollowing a particular pattern in each step. The\nfollowing is an illustration of an input and\nrearrangement.\n \nInput: 725824 399423 885341 537642 718354\n414792 492543\nStep I: 399423 414792 492543 537642 718354\n725824 885341\nStep II: 9 4 9 4 16 16 1\nStep III: 399432 414796 492552 537646 718370\n725840 885342\nStep IV: 399438 414820 492560 537676 718370\n725840 885358\nStep V: 834993 012484 025694 636775 013787\n024587 835588\nStep VI: 36 19 26 34 26 26 37\nAs per the pattern followed in the above steps,\nfind the output for the given input:\n \nInput: 294435 576493 978876 252349 747962\n918125 453264\n \nWhat is the sum of first number from right of\nstep IV and third element from the left of the\nstep III?",
+    "questionHtml": "A number arrangement machine when given an<br/>input <br/>line <br/>of <br/>numbers <br/>rearranges <br/>them<br/>following a particular pattern in each step. The<br/>following is an illustration of an input and<br/>rearrangement.<br/> <br/>Input: 725824 399423 885341 537642 718354<br/>414792 492543<br/>Step I: 399423 414792 492543 537642 718354<br/>725824 885341<br/>Step II: 9 4 9 4 16 16 1<br/>Step III: 399432 414796 492552 537646 718370<br/>725840 885342<br/>Step IV: 399438 414820 492560 537676 718370<br/>725840 885358<br/>Step V: 834993 012484 025694 636775 013787<br/>024587 835588<br/>Step VI: 36 19 26 34 26 26 37<br/>As per the pattern followed in the above steps,<br/>find the output for the given input:<br/> <br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/> <br/>What is the sum of first number from right of<br/>step IV and third element from the left of the<br/>step III?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1432210",
+        "html": "1432210"
+      },
+      {
+        "id": "B",
+        "text": "1432164",
+        "html": "1432164"
+      },
+      {
+        "id": "C",
+        "text": "1437135",
+        "html": "1437135"
+      },
+      {
+        "id": "D",
+        "text": "1632135",
+        "html": "1632135"
+      },
+      {
+        "id": "E",
+        "text": "1432538",
+        "html": "1432538"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "By observing the given input and the steps, we\ncan say that:\nIn step I:\nThe numbers are arranged in increasing order.\nIn step II:\nThe numbers are replaced by the square of the\nlast digit of the numbers.\nIn step III:\nNumbers in step I and II are added.\nIn step IV:",
+    "explanationHtml": "By observing the given input and the steps, we<br/>can say that:<br/>In step I:<br/>The numbers are arranged in increasing order.<br/>In step II:<br/>The numbers are replaced by the square of the<br/>last digit of the numbers.<br/>In step III:<br/>Numbers in step I and II are added.<br/>In step IV:",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "A number arrangement machine when given an\ninput \nline \nof \nnumbers \nrearranges \nthem\nfollowing a particular pattern in each step. The\nfollowing is an illustration of an input and\nrearrangement.\n \nInput: 725824 399423 885341 537642 718354\n414792 492543\nStep I: 399423 414792 492543 537642 718354\n725824 885341\nStep II: 9 4 9 4 16 16 1\nStep III: 399432 414796 492552 537646 718370\n725840 885342\nStep IV: 399438 414820 492560 537676 718370\n725840 885358\nStep V: 834993 012484 025694 636775 013787\n024587 835588\nStep VI: 36 19 26 34 26 26 37\nAs per the pattern followed in the above steps,\nfind the output for the given input:\n \nInput: 294435 576493 978876 252349 747962\n918125 453264\n \nWhich of the following steps has the smallest\nnumber?",
+    "questionHtml": "A number arrangement machine when given an<br/>input <br/>line <br/>of <br/>numbers <br/>rearranges <br/>them<br/>following a particular pattern in each step. The<br/>following is an illustration of an input and<br/>rearrangement.<br/> <br/>Input: 725824 399423 885341 537642 718354<br/>414792 492543<br/>Step I: 399423 414792 492543 537642 718354<br/>725824 885341<br/>Step II: 9 4 9 4 16 16 1<br/>Step III: 399432 414796 492552 537646 718370<br/>725840 885342<br/>Step IV: 399438 414820 492560 537676 718370<br/>725840 885358<br/>Step V: 834993 012484 025694 636775 013787<br/>024587 835588<br/>Step VI: 36 19 26 34 26 26 37<br/>As per the pattern followed in the above steps,<br/>find the output for the given input:<br/> <br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/> <br/>Which of the following steps has the smallest<br/>number?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Step IV",
+        "html": "Step IV"
+      },
+      {
+        "id": "B",
+        "text": "Step V",
+        "html": "Step V"
+      },
+      {
+        "id": "C",
+        "text": "Step I",
+        "html": "Step I"
+      },
+      {
+        "id": "D",
+        "text": "Step III",
+        "html": "Step III"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "By observing the given input and the steps, we\ncan say that:\nIn step I:\nThe numbers are arranged in increasing order.\nIn step II:\nThe numbers are replaced by the square of the\nlast digit of the numbers.\nIn step III:\nNumbers in step I and II are added.\nIn step IV:\nThe numbers increased by the multiplication of\nthe first and the last digits of the numbers.\nIn step V:\nThe first and the last digits of the numbers are\nexchanged and the rest of the digits are\narranged in the increasing order.\nIn step VI:\nThe numbers are replaced by their digital sums.\nBy following the same logical pattern we get,\nInput: 294435 576493 978876 252349 747962\n918125 453264\nStep I: 252349 294435 453264 576493 747962\n918125 978876\nStep II: 81 25 16 9 4 25 36\nStep III: 252430 294460 453280 576502 747966\n918150 978912\nStep IV: 252430 294460 453280 576512\n748008 918150 978930\nStep V: 023452 044692 023584 215675 800487\n011589 037899\nStep VI: 16 25 22 26 27 24 36",
+    "explanationHtml": "By observing the given input and the steps, we<br/>can say that:<br/>In step I:<br/>The numbers are arranged in increasing order.<br/>In step II:<br/>The numbers are replaced by the square of the<br/>last digit of the numbers.<br/>In step III:<br/>Numbers in step I and II are added.<br/>In step IV:<br/>The numbers increased by the multiplication of<br/>the first and the last digits of the numbers.<br/>In step V:<br/>The first and the last digits of the numbers are<br/>exchanged and the rest of the digits are<br/>arranged in the increasing order.<br/>In step VI:<br/>The numbers are replaced by their digital sums.<br/>By following the same logical pattern we get,<br/>Input: 294435 576493 978876 252349 747962<br/>918125 453264<br/>Step I: 252349 294435 453264 576493 747962<br/>918125 978876<br/>Step II: 81 25 16 9 4 25 36<br/>Step III: 252430 294460 453280 576502 747966<br/>918150 978912<br/>Step IV: 252430 294460 453280 576512<br/>748008 918150 978930<br/>Step V: 023452 044692 023584 215675 800487<br/>011589 037899<br/>Step VI: 16 25 22 26 27 24 36",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Directions: A number arrangement machine\nwhen given an input line of numbers rearranges\nthem following a particular rule in each step.\nThe following is an illustration of an input & its\nrearrangement.",
+    "questionHtml": "Directions: A number arrangement machine<br/>when given an input line of numbers rearranges<br/>them following a particular rule in each step.<br/>The following is an illustration of an input & its<br/>rearrangement.",
+    "options": [],
+    "correctAnswer": 1,
+    "explanation": "Input : 529 317 111 815 314\nStep 1 : 111 314 317 529 815\nArranged in Increasing order\nStep 2 : 111 134 137 259 158\nEvery number is rearranged according to\nincreasing order of figures.\nStep 3 : 111 134 137 158 259\nArranged in Increasing order\nStep 4 : 123 136 148 209\n(First number + Second Number + 1)/2\n(111+134+1)/2 = 123\n(134+137+1)/2 = 136\n(137+158+1)/2 =148\n(158+259+1)/2 = 209\nStep 5 : 6 10 13 11\nAdded sum to figures in a number.\n1+2+3 = 6\n1+3+6 = 10\n1+4+8 = 13",
+    "explanationHtml": "Input : 529 317 111 815 314<br/>Step 1 : 111 314 317 529 815<br/>Arranged in Increasing order<br/>Step 2 : 111 134 137 259 158<br/>Every number is rearranged according to<br/>increasing order of figures.<br/>Step 3 : 111 134 137 158 259<br/>Arranged in Increasing order<br/>Step 4 : 123 136 148 209<br/>(First number + Second Number + 1)/2<br/>(111+134+1)/2 = 123<br/>(134+137+1)/2 = 136<br/>(137+158+1)/2 =148<br/>(158+259+1)/2 = 209<br/>Step 5 : 6 10 13 11<br/>Added sum to figures in a number.<br/>1+2+3 = 6<br/>1+3+6 = 10<br/>1+4+8 = 13",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "",
+    "question": "Directions: A number arrangement machine\nwhen given an input line of numbers rearranges\nthem following a particular rule in each step.\nThe following is an illustration of an input & its\nrearrangement.\nInput : 168 787 231 425 528 359\nStep 1 : 168 231 359 425 528 787\nStep 2 : 168 123 359 245 258 778\nStep 3 : 123 168 245 258 359 778\nStep 4 : 146 207 252 309 569\nStep 5 : 11 9 9 12 20\nStep 5 is the last step of the rearrangements,\nBased on the following logic rearrange the given\ninput.\nInput : 529 317 111 815 314\nHow many numbers are there to right of 134 in\nStep 2 ?",
+    "questionHtml": "Directions: A number arrangement machine<br/>when given an input line of numbers rearranges<br/>them following a particular rule in each step.<br/>The following is an illustration of an input & its<br/>rearrangement.<br/>Input : 168 787 231 425 528 359<br/>Step 1 : 168 231 359 425 528 787<br/>Step 2 : 168 123 359 245 258 778<br/>Step 3 : 123 168 245 258 359 778<br/>Step 4 : 146 207 252 309 569<br/>Step 5 : 11 9 9 12 20<br/>Step 5 is the last step of the rearrangements,<br/>Based on the following logic rearrange the given<br/>input.<br/>Input : 529 317 111 815 314<br/>How many numbers are there to right of 134 in<br/>Step 2 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0",
+        "html": "0"
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "Input : 529 317 111 815 314\nStep 1 : 111 314 317 529 815\nArranged in Increasing order\nStep 2 : 111 134 137 259 158\nEvery number is rearranged according to\nincreasing order of figures.\nStep 3 : 111 134 137 158 259\nArranged in Increasing order\nStep 4 : 123 136 148 209\n(First number + Second Number + 1)/2\n(111+134+1)/2 = 123\n(134+137+1)/2 = 136\n(137+158+1)/2 =148\n(158+259+1)/2 = 209\nStep 5 : 6 10 13 11\nAdded sum to figures in a number.\n1+2+3 = 6\n1+3+6 = 10\n1+4+8 = 13\n2+0+9 = 11",
+    "explanationHtml": "Input : 529 317 111 815 314<br/>Step 1 : 111 314 317 529 815<br/>Arranged in Increasing order<br/>Step 2 : 111 134 137 259 158<br/>Every number is rearranged according to<br/>increasing order of figures.<br/>Step 3 : 111 134 137 158 259<br/>Arranged in Increasing order<br/>Step 4 : 123 136 148 209<br/>(First number + Second Number + 1)/2<br/>(111+134+1)/2 = 123<br/>(134+137+1)/2 = 136<br/>(137+158+1)/2 =148<br/>(158+259+1)/2 = 209<br/>Step 5 : 6 10 13 11<br/>Added sum to figures in a number.<br/>1+2+3 = 6<br/>1+3+6 = 10<br/>1+4+8 = 13<br/>2+0+9 = 11",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "",
+    "question": "Directions: A number arrangement machine\nwhen given an input line of numbers rearranges\nthem following a particular rule in each step.\nThe following is an illustration of an input & its\nrearrangement.\nInput : 168 787 231 425 528 359\nStep 1 : 168 231 359 425 528 787\nStep 2 : 168 123 359 245 258 778\nStep 3 : 123 168 245 258 359 778\nStep 4 : 146 207 252 309 569\nStep 5 : 11 9 9 12 20\nStep 5 is the last step of the rearrangements,\nBased on the following logic rearrange the given\ninput.\nInput : 529 317 111 815 314\nWhat is the result if the first number from the left\nend is multiplied with the second number from\nthe right end from Step5 ?",
+    "questionHtml": "Directions: A number arrangement machine<br/>when given an input line of numbers rearranges<br/>them following a particular rule in each step.<br/>The following is an illustration of an input & its<br/>rearrangement.<br/>Input : 168 787 231 425 528 359<br/>Step 1 : 168 231 359 425 528 787<br/>Step 2 : 168 123 359 245 258 778<br/>Step 3 : 123 168 245 258 359 778<br/>Step 4 : 146 207 252 309 569<br/>Step 5 : 11 9 9 12 20<br/>Step 5 is the last step of the rearrangements,<br/>Based on the following logic rearrange the given<br/>input.<br/>Input : 529 317 111 815 314<br/>What is the result if the first number from the left<br/>end is multiplied with the second number from<br/>the right end from Step5 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "110",
+        "html": "110"
+      },
+      {
+        "id": "B",
+        "text": "66",
+        "html": "66"
+      },
+      {
+        "id": "C",
+        "text": "78",
+        "html": "78"
+      },
+      {
+        "id": "D",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Input : 529 317 111 815 314\nStep 1 : 111 314 317 529 815\nArranged in Increasing order\nStep 2 : 111 134 137 259 158\nEvery number is rearranged according to\nincreasing order of figures.\nStep 3 : 111 134 137 158 259\nArranged in Increasing order\nStep 4 : 123 136 148 209\n(First number + Second Number + 1)/2\n(111+134+1)/2 = 123\n(134+137+1)/2 = 136\n(137+158+1)/2 =148\n(158+259+1)/2 = 209\nStep 5 : 6 10 13 11\nAdded sum to figures in a number.\n1+2+3 = 6\n1+3+6 = 10\n1+4+8 = 13\n2+0+9 = 11",
+    "explanationHtml": "Input : 529 317 111 815 314<br/>Step 1 : 111 314 317 529 815<br/>Arranged in Increasing order<br/>Step 2 : 111 134 137 259 158<br/>Every number is rearranged according to<br/>increasing order of figures.<br/>Step 3 : 111 134 137 158 259<br/>Arranged in Increasing order<br/>Step 4 : 123 136 148 209<br/>(First number + Second Number + 1)/2<br/>(111+134+1)/2 = 123<br/>(134+137+1)/2 = 136<br/>(137+158+1)/2 =148<br/>(158+259+1)/2 = 209<br/>Step 5 : 6 10 13 11<br/>Added sum to figures in a number.<br/>1+2+3 = 6<br/>1+3+6 = 10<br/>1+4+8 = 13<br/>2+0+9 = 11",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "",
+    "question": "Directions: A number arrangement machine\nwhen given an input line of numbers rearranges\nthem following a particular rule in each step.\nThe following is an illustration of an input & its\nrearrangement.\nInput : 168 787 231 425 528 359\nStep 1 : 168 231 359 425 528 787\nStep 2 : 168 123 359 245 258 778\nStep 3 : 123 168 245 258 359 778\nStep 4 : 146 207 252 309 569\nStep 5 : 11 9 9 12 20\nStep 5 is the last step of the rearrangements,\nBased on the following logic rearrange the given\ninput.\nInput : 529 317 111 815 314\nWhat is the sum of all the numbers in Step 5 ?",
+    "questionHtml": "Directions: A number arrangement machine<br/>when given an input line of numbers rearranges<br/>them following a particular rule in each step.<br/>The following is an illustration of an input & its<br/>rearrangement.<br/>Input : 168 787 231 425 528 359<br/>Step 1 : 168 231 359 425 528 787<br/>Step 2 : 168 123 359 245 258 778<br/>Step 3 : 123 168 245 258 359 778<br/>Step 4 : 146 207 252 309 569<br/>Step 5 : 11 9 9 12 20<br/>Step 5 is the last step of the rearrangements,<br/>Based on the following logic rearrange the given<br/>input.<br/>Input : 529 317 111 815 314<br/>What is the sum of all the numbers in Step 5 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "29",
+        "html": "29"
+      },
+      {
+        "id": "B",
+        "text": "39",
+        "html": "39"
+      },
+      {
+        "id": "C",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "D",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "E",
+        "text": "None of these\nQ27",
+        "html": "None of these\nQ27"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Input : 529 317 111 815 314\nStep 1 : 111 314 317 529 815\nArranged in Increasing order\nStep 2 : 111 134 137 259 158\nEvery number is rearranged according to\nincreasing order of figures.\nStep 3 : 111 134 137 158 259\nArranged in Increasing order\nStep 4 : 123 136 148 209\n(First number + Second Number + 1)/2\n(111+134+1)/2 = 123\n(134+137+1)/2 = 136\n(137+158+1)/2 =148\n(158+259+1)/2 = 209\nStep 5 : 6 10 13 11\nAdded sum to figures in a number.\n1+2+3 = 6\n1+3+6 = 10\n1+4+8 = 13\n2+0+9 = 11",
+    "explanationHtml": "Input : 529 317 111 815 314<br/>Step 1 : 111 314 317 529 815<br/>Arranged in Increasing order<br/>Step 2 : 111 134 137 259 158<br/>Every number is rearranged according to<br/>increasing order of figures.<br/>Step 3 : 111 134 137 158 259<br/>Arranged in Increasing order<br/>Step 4 : 123 136 148 209<br/>(First number + Second Number + 1)/2<br/>(111+134+1)/2 = 123<br/>(134+137+1)/2 = 136<br/>(137+158+1)/2 =148<br/>(158+259+1)/2 = 209<br/>Step 5 : 6 10 13 11<br/>Added sum to figures in a number.<br/>1+2+3 = 6<br/>1+3+6 = 10<br/>1+4+8 = 13<br/>2+0+9 = 11",
+    "tables": [],
+    "imageRef": "",
+    "image": null,
+    "tags": [
+      "input",
+      "output"
+    ],
+    "sourcePages": [
+      9
+    ]
+  }
+]

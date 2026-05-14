@@ -9,7 +9,8 @@
     "dev": "nodemon server.js",
     "seed:ssc": "node scripts/seed.ssc.js",
     "import:reasoning": "node scripts/import.reasoning.js",
-    "check": "node --check server.js && node --check routes/test.routes.js && node --check routes/admin.routes.js && node --check routes/auth.routes.js && node --check routes/ai.routes.js"
+    "compact:data": "node scripts/compact.data.js",
+    "check": "node --check server.js && node --check routes/test.routes.js && node --check routes/admin.routes.js && node --check routes/auth.routes.js && node --check routes/ai.routes.js && node --check scripts/import.reasoning.js && node --check scripts/compact.data.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

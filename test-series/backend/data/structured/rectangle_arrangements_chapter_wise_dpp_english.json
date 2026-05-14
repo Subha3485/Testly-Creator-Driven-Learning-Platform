@@ -1,0 +1,1981 @@
+[
+  {
+    "question_number": "1",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nFour of the following five are alike in a certain\nway and so form a group. Which one does not\nbelong to that group?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table in such a way three<br/>persons are sitting on the each longer side of the<br/>table and one person is sitting on the each<br/>shorter side of the table. All of them are facing<br/>outside the table. All the information is not<br/>necessarily in the same order.<br/>D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other. C does not sit on<br/>the shorter side of the table. There are two<br/>people sitting between C and G. The number of<br/>people sitting between G and H is the same<br/>number of people sitting between G and B. F sits<br/>third to the left of E.<br/>Four of the following five are alike in a certain<br/>way and so form a group. Which one does not<br/>belong to that group?",
+    "options": [
+      {
+        "id": "A",
+        "text": "D-B",
+        "html": "D-B"
+      },
+      {
+        "id": "B",
+        "text": "H-F",
+        "html": "H-F"
+      },
+      {
+        "id": "C",
+        "text": "E-D",
+        "html": "E-D"
+      },
+      {
+        "id": "D",
+        "text": "G-F",
+        "html": "G-F"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "D sits third to the left of H and sits opposite to A.\nA and C sit near to each other.\nC does not sit on the shorter side of the table.\nThere are two people sitting between C and G.\nThe number of people sitting between G and H is\nthe same number of people sitting between G\nand B.\nF sits third to the left of E.\nCase 1: is eliminated.",
+    "explanationHtml": "D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other.<br/>C does not sit on the shorter side of the table.<br/>There are two people sitting between C and G.<br/>The number of people sitting between G and H is<br/>the same number of people sitting between G<br/>and B.<br/>F sits third to the left of E.<br/>Case 1: is eliminated.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nFour of the following five are alike in a certain\nway and so form a group. Which one does not\nbelong to that group?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "2",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nHow many people sit between F and E ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table in such a way three<br/>persons are sitting on the each longer side of the<br/>table and one person is sitting on the each<br/>shorter side of the table. All of them are facing<br/>outside the table. All the information is not<br/>necessarily in the same order.<br/>D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other. C does not sit on<br/>the shorter side of the table. There are two<br/>people sitting between C and G. The number of<br/>people sitting between G and H is the same<br/>number of people sitting between G and B. F sits<br/>third to the left of E.<br/>How many people sit between F and E ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Five",
+        "html": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Either (a) or (c)",
+        "html": "Either (a) or (c)"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "D sits third to the left of H and sits opposite to A.\nA and C sit near to each other.\nC does not sit on the shorter side of the table.\nThere are two people sitting between C and G.\nThe number of people sitting between G and H is\nthe same number of people sitting between G\nand B.",
+    "explanationHtml": "D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other.<br/>C does not sit on the shorter side of the table.<br/>There are two people sitting between C and G.<br/>The number of people sitting between G and H is<br/>the same number of people sitting between G<br/>and B.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nHow many people sit between F and E ?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "3",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nWhat is the position of D with respect to E ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table in such a way three<br/>persons are sitting on the each longer side of the<br/>table and one person is sitting on the each<br/>shorter side of the table. All of them are facing<br/>outside the table. All the information is not<br/>necessarily in the same order.<br/>D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other. C does not sit on<br/>the shorter side of the table. There are two<br/>people sitting between C and G. The number of<br/>people sitting between G and H is the same<br/>number of people sitting between G and B. F sits<br/>third to the left of E.<br/>What is the position of D with respect to E ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Third right",
+        "html": "Third right"
+      },
+      {
+        "id": "B",
+        "text": "Second left",
+        "html": "Second left"
+      },
+      {
+        "id": "C",
+        "text": "Second right",
+        "html": "Second right"
+      },
+      {
+        "id": "D",
+        "text": "Five to the right",
+        "html": "Five to the right"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 4,
+    "explanation": "D sits third to the left of H and sits opposite to A.\nA and C sit near to each other.\nC does not sit on the shorter side of the table.\nThere are two people sitting between C and G.\nThe number of people sitting between G and H is\nthe same number of people sitting between G\nand B.\nF sits third to the left of E.\nCase 1: is eliminated.",
+    "explanationHtml": "D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other.<br/>C does not sit on the shorter side of the table.<br/>There are two people sitting between C and G.<br/>The number of people sitting between G and H is<br/>the same number of people sitting between G<br/>and B.<br/>F sits third to the left of E.<br/>Case 1: is eliminated.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nWhat is the position of D with respect to E ?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "4",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\n \nRectangle Arrangements",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table in such a way three<br/>persons are sitting on the each longer side of the<br/>table and one person is sitting on the each<br/> <br/>Rectangle Arrangements",
+    "options": [],
+    "correctAnswer": 0,
+    "explanation": "D sits third to the left of H and sits opposite to A.\nA and C sit near to each other.\nC does not sit on the shorter side of the table.\nThere are two people sitting between C and G.\nThe number of people sitting between G and H is\nthe same number of people sitting between G\nand B.",
+    "explanationHtml": "D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other.<br/>C does not sit on the shorter side of the table.<br/>There are two people sitting between C and G.<br/>The number of people sitting between G and H is<br/>the same number of people sitting between G<br/>and B.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p001_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\n \nRectangle Arrangements"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "question_number": "5",
+    "level": "",
+    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nWhich of the following statements is true ?",
+    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight people A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table in such a way three<br/>persons are sitting on the each longer side of the<br/>table and one person is sitting on the each<br/>shorter side of the table. All of them are facing<br/>outside the table. All the information is not<br/>necessarily in the same order.<br/>D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other. C does not sit on<br/>the shorter side of the table. There are two<br/>people sitting between C and G. The number of<br/>people sitting between G and H is the same<br/>number of people sitting between G and B. F sits<br/>third to the left of E.<br/>Which of the following statements is true ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E sits second to the right of C",
+        "html": "E sits second to the right of C"
+      },
+      {
+        "id": "B",
+        "text": "F sit near to D",
+        "html": "F sit near to D"
+      },
+      {
+        "id": "C",
+        "text": "One person sit between E and F",
+        "html": "One person sit between E and F"
+      },
+      {
+        "id": "D",
+        "text": "G sits on shorter side of the rectangular table",
+        "html": "G sits on shorter side of the rectangular table"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "D sits third to the left of H and sits opposite to A.\nA and C sit near to each other.\nC does not sit on the shorter side of the table.\nThere are two people sitting between C and G.\nThe number of people sitting between G and H is\nthe same number of people sitting between G\nand B.\nF sits third to the left of E.\nCase 1: is eliminated.",
+    "explanationHtml": "D sits third to the left of H and sits opposite to A.<br/>A and C sit near to each other.<br/>C does not sit on the shorter side of the table.<br/>There are two people sitting between C and G.<br/>The number of people sitting between G and H is<br/>the same number of people sitting between G<br/>and B.<br/>F sits third to the left of E.<br/>Case 1: is eliminated.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight people A, B, C, D, E, F, G and H are sitting\naround a rectangular table in such a way three\npersons are sitting on the each longer side of the\ntable and one person is sitting on the each\nshorter side of the table. All of them are facing\noutside the table. All the information is not\nnecessarily in the same order.\nD sits third to the left of H and sits opposite to A.\nA and C sit near to each other. C does not sit on\nthe shorter side of the table. There are two\npeople sitting between C and G. The number of\npeople sitting between G and H is the same\nnumber of people sitting between G and B. F sits\nthird to the left of E.\nWhich of the following statements is true ?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "6",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nHow many persons sit between E and G if starts\ncounting from the left of E?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table and facing the centre.<br/>They are sitting like that four of them on corners<br/>and four of them middle on the edges. B is facing<br/>G.G is on the middle of the edge. E is 3 to the<br/>right of A. The number of person between A and<br/>B (if starts counting from the left of A) is same as<br/>F and G (if starts counting from the left of F). E is<br/>not neighbor of G or B. D is immediate right of H.<br/>C is not neighbor of B.<br/>How many persons sit between E and G if starts<br/>counting from the left of E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "B",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "4",
+        "html": "4"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "1. B is facing G. E is 3 to the right of A. E is not\nneighbor of G or B.G is on the middle of the\nedge.\n2. The number of person between A and B (if\nstarts counting from the left of A) is same as F\nand G (if starts counting from the left of F). In\ncase 1, 6 persons are between A and B and in\nCase 2, 2 persons are sitting between A and B.\n3. D is immediate right of H. C is not neighbor of\nB so case 1 is rejected.\nHere is the final arrangement:\n \nrd",
+    "explanationHtml": "1. B is facing G. E is 3 to the right of A. E is not<br/>neighbor of G or B.G is on the middle of the<br/>edge.<br/>2. The number of person between A and B (if<br/>starts counting from the left of A) is same as F<br/>and G (if starts counting from the left of F). In<br/>case 1, 6 persons are between A and B and in<br/>Case 2, 2 persons are sitting between A and B.<br/>3. D is immediate right of H. C is not neighbor of<br/>B so case 1 is rejected.<br/>Here is the final arrangement:<br/> <br/>rd",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nHow many persons sit between E and G if starts\ncounting from the left of E?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "7",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWhich of the following pair is sitting opposite to\neach other?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table and facing the centre.<br/>They are sitting like that four of them on corners<br/>and four of them middle on the edges. B is facing<br/>G.G is on the middle of the edge. E is 3 to the<br/>right of A. The number of person between A and<br/>B (if starts counting from the left of A) is same as<br/>F and G (if starts counting from the left of F). E is<br/>not neighbor of G or B. D is immediate right of H.<br/>C is not neighbor of B.<br/>Which of the following pair is sitting opposite to<br/>each other?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E-A",
+        "html": "E-A"
+      },
+      {
+        "id": "B",
+        "text": "F-C",
+        "html": "F-C"
+      },
+      {
+        "id": "C",
+        "text": "A-F",
+        "html": "A-F"
+      },
+      {
+        "id": "D",
+        "text": "H-B",
+        "html": "H-B"
+      },
+      {
+        "id": "E",
+        "text": "B-D",
+        "html": "B-D"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "1. B is facing G. E is 3 to the right of A. E is not\nneighbor of G or B.G is on the middle of the\nedge.\n2. The number of person between A and B (if\nstarts counting from the left of A) is same as F\nand G (if starts counting from the left of F). In\ncase 1, 6 persons are between A and B and in\nCase 2, 2 persons are sitting between A and B.\n3. D is immediate right of H. C is not neighbor of\nB so case 1 is rejected.\nHere is the final arrangement:\nA and F is the only pair which is sitting opposite\nto each other\nso the option C is correct",
+    "explanationHtml": "1. B is facing G. E is 3 to the right of A. E is not<br/>neighbor of G or B.G is on the middle of the<br/>edge.<br/>2. The number of person between A and B (if<br/>starts counting from the left of A) is same as F<br/>and G (if starts counting from the left of F). In<br/>case 1, 6 persons are between A and B and in<br/>Case 2, 2 persons are sitting between A and B.<br/>3. D is immediate right of H. C is not neighbor of<br/>B so case 1 is rejected.<br/>Here is the final arrangement:<br/>A and F is the only pair which is sitting opposite<br/>to each other<br/>so the option C is correct",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWhich of the following pair is sitting opposite to\neach other?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "8",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\n \nrd\nrd\nrd",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table and facing the centre.<br/>They are sitting like that four of them on corners<br/>and four of them middle on the edges. B is facing<br/>G.G is on the middle of the edge. E is 3 to the<br/>right of A. The number of person between A and<br/>B (if starts counting from the left of A) is same as<br/>F and G (if starts counting from the left of F). E is<br/> <br/>rd<br/>rd<br/>rd",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "1. B is facing G. E is 3 to the right of A. E is not\nneighbor of G or B.G is on the middle of the\nedge.\n2. The number of person between A and B (if\nstarts counting from the left of A) is same as F\nand G (if starts counting from the left of F). In\ncase 1, 6 persons are between A and B and in\nCase 2, 2 persons are sitting between A and B.\n \nrd\nrd",
+    "explanationHtml": "1. B is facing G. E is 3 to the right of A. E is not<br/>neighbor of G or B.G is on the middle of the<br/>edge.<br/>2. The number of person between A and B (if<br/>starts counting from the left of A) is same as F<br/>and G (if starts counting from the left of F). In<br/>case 1, 6 persons are between A and B and in<br/>Case 2, 2 persons are sitting between A and B.<br/> <br/>rd<br/>rd",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p002_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\n \nrd\nrd\nrd"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "question_number": "9",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWho among the following is 3 to the right of B?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table and facing the centre.<br/>They are sitting like that four of them on corners<br/>and four of them middle on the edges. B is facing<br/>G.G is on the middle of the edge. E is 3 to the<br/>right of A. The number of person between A and<br/>B (if starts counting from the left of A) is same as<br/>F and G (if starts counting from the left of F). E is<br/>not neighbor of G or B. D is immediate right of H.<br/>C is not neighbor of B.<br/>Who among the following is 3 to the right of B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "D",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "E",
+        "text": "G",
+        "html": "G"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. B is facing G. E is 3 to the right of A. E is not\nneighbor of G or B.G is on the middle of the\nedge\n2. The number of person between A and B (if\nstarts counting from the left of A) is same as F\nand G (if starts counting from the left of F). In\ncase 1, 6 persons are between A and B and in\nCase 2, 2 persons are sitting between A and B.\n3. D is immediate right of H. C is not neighbor of\nB so case 1 is rejected.\nHere is the final arrangement:\nA is sitting 3rd to the right of B so\nOption A is correct",
+    "explanationHtml": "1. B is facing G. E is 3 to the right of A. E is not<br/>neighbor of G or B.G is on the middle of the<br/>edge<br/>2. The number of person between A and B (if<br/>starts counting from the left of A) is same as F<br/>and G (if starts counting from the left of F). In<br/>case 1, 6 persons are between A and B and in<br/>Case 2, 2 persons are sitting between A and B.<br/>3. D is immediate right of H. C is not neighbor of<br/>B so case 1 is rejected.<br/>Here is the final arrangement:<br/>A is sitting 3rd to the right of B so<br/>Option A is correct",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWho among the following is 3 to the right of B?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "10",
+    "level": "",
+    "question": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWho among the following is one of the neighbors\nof G?",
+    "questionHtml": "Directions : Study the following information<br/>carefully and answer the questions given<br/>below:<br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>around a rectangular table and facing the centre.<br/>They are sitting like that four of them on corners<br/>and four of them middle on the edges. B is facing<br/>G.G is on the middle of the edge. E is 3 to the<br/>right of A. The number of person between A and<br/>B (if starts counting from the left of A) is same as<br/>F and G (if starts counting from the left of F). E is<br/>not neighbor of G or B. D is immediate right of H.<br/>C is not neighbor of B.<br/>Who among the following is one of the neighbors<br/>of G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "D",
+        "text": "B",
+        "html": "B"
+      },
+      {
+        "id": "E",
+        "text": "H",
+        "html": "H"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. B is facing G. E is 3 to the right of A. E is not\nneighbor of G or B.G is on the middle of the\nedge\n \nrd\nrd",
+    "explanationHtml": "1. B is facing G. E is 3 to the right of A. E is not<br/>neighbor of G or B.G is on the middle of the<br/>edge<br/> <br/>rd<br/>rd",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Directions : Study the following information\ncarefully and answer the questions given\nbelow:\nEight persons A, B, C, D, E, F, G and H are sitting\naround a rectangular table and facing the centre.\nThey are sitting like that four of them on corners\nand four of them middle on the edges. B is facing\nG.G is on the middle of the edge. E is 3 to the\nright of A. The number of person between A and\nB (if starts counting from the left of A) is same as\nF and G (if starts counting from the left of F). E is\nnot neighbor of G or B. D is immediate right of H.\nC is not neighbor of B.\nWho among the following is one of the neighbors\nof G?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "11",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nHow many persons, counting from the right of\nU, are there between R and U?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons P, Q, R, S, T, U, V, and W are<br/>arranged in a rectangular field so that two<br/>persons sit on each side of the table, but not<br/>necessarily in the same sequence. They are all<br/>facing the inside. W sits third to the left of U, who<br/>is sitting on the longer side. S is at W's immediate<br/>right. R sitting immediate left of P, who is not<br/>facing Q. T sitting second to the left of S and<br/>third to the right of V, who is not opposite T.<br/> <br/>How many persons, counting from the right of<br/>U, are there between R and U?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final answer:\nW sits third to the left of U, who is standing on\nthe longer side. S is at W's immediate right. From\nthese conditions, we get,\nT sitting second to the left of S and third to the\nright of V, who is not opposite T. From this\ncondition Case 1a gets rejected, and we get",
+    "explanationHtml": "Final answer:<br/>W sits third to the left of U, who is standing on<br/>the longer side. S is at W's immediate right. From<br/>these conditions, we get,<br/>T sitting second to the left of S and third to the<br/>right of V, who is not opposite T. From this<br/>condition Case 1a gets rejected, and we get",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nHow many persons, counting from the right of\nU, are there between R and U?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "12",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWhat is the position of V with respect to Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons P, Q, R, S, T, U, V, and W are<br/>arranged in a rectangular field so that two<br/>persons sit on each side of the table, but not<br/>necessarily in the same sequence. They are all<br/>facing the inside. W sits third to the left of U, who<br/>is sitting on the longer side. S is at W's immediate<br/>right. R sitting immediate left of P, who is not<br/>facing Q. T sitting second to the left of S and<br/>third to the right of V, who is not opposite T.<br/> <br/>What is the position of V with respect to Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the right",
+        "html": "Third to the right"
+      },
+      {
+        "id": "C",
+        "text": "Immediate right",
+        "html": "Immediate right"
+      },
+      {
+        "id": "D",
+        "text": "Fourth to the left",
+        "html": "Fourth to the left"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final answer:\nW sits third to the left of U, who is standing on\nthe longer side. S is at W's immediate right. From\nthese conditions, we get,\nT sitting second to the left of S and third to the\nright of V, who is not opposite T. From this\ncondition Case 1a gets rejected, and we get\nR sitting immediate left of P, who is not facing Q.\nHence, the position of V with respect to Q is\nsecond to the right.",
+    "explanationHtml": "Final answer:<br/>W sits third to the left of U, who is standing on<br/>the longer side. S is at W's immediate right. From<br/>these conditions, we get,<br/>T sitting second to the left of S and third to the<br/>right of V, who is not opposite T. From this<br/>condition Case 1a gets rejected, and we get<br/>R sitting immediate left of P, who is not facing Q.<br/>Hence, the position of V with respect to Q is<br/>second to the right.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWhat is the position of V with respect to Q?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "13",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\n \nnd\nrd\nrd\nrd",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons P, Q, R, S, T, U, V, and W are<br/>arranged in a rectangular field so that two<br/> <br/>nd<br/>rd<br/>rd<br/>rd",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nW sits third to the left of U, who is standing on\nthe longer side. S is at W's immediate right. From\nthese conditions, we get,\nT sitting second to the left of S and third to the\nright of V, who is not opposite T. From this\ncondition Case 1a gets rejected, and we get\nR sitting immediate left of P, who is not facing Q.\nHence, Q is facing T.",
+    "explanationHtml": "Final answer:<br/>W sits third to the left of U, who is standing on<br/>the longer side. S is at W's immediate right. From<br/>these conditions, we get,<br/>T sitting second to the left of S and third to the<br/>right of V, who is not opposite T. From this<br/>condition Case 1a gets rejected, and we get<br/>R sitting immediate left of P, who is not facing Q.<br/>Hence, Q is facing T.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p003_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\n \nnd\nrd\nrd\nrd"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "question_number": "14",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWho among the following is sitting immediately\nto the U's left?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons P, Q, R, S, T, U, V, and W are<br/>arranged in a rectangular field so that two<br/>persons sit on each side of the table, but not<br/>necessarily in the same sequence. They are all<br/>facing the inside. W sits third to the left of U, who<br/>is sitting on the longer side. S is at W's immediate<br/>right. R sitting immediate left of P, who is not<br/>facing Q. T sitting second to the left of S and<br/>third to the right of V, who is not opposite T.<br/> <br/>Who among the following is sitting immediately<br/>to the U's left?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "E",
+        "text": "P",
+        "html": "P"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nW sits third to the left of U, who is standing on\nthe longer side. S is at W's immediate right. From\nthese conditions, we get,",
+    "explanationHtml": "Final answer:<br/>W sits third to the left of U, who is standing on<br/>the longer side. S is at W's immediate right. From<br/>these conditions, we get,",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWho among the following is sitting immediately\nto the U's left?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "15",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWho among the following person seated on the\nlonger side of the table?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons P, Q, R, S, T, U, V, and W are<br/>arranged in a rectangular field so that two<br/>persons sit on each side of the table, but not<br/>necessarily in the same sequence. They are all<br/>facing the inside. W sits third to the left of U, who<br/>is sitting on the longer side. S is at W's immediate<br/>right. R sitting immediate left of P, who is not<br/>facing Q. T sitting second to the left of S and<br/>third to the right of V, who is not opposite T.<br/> <br/>Who among the following person seated on the<br/>longer side of the table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "D",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nW sits third to the left of U, who is standing on\nthe longer side. S is at W's immediate right. From\nthese conditions, we get,\nT sitting second to the left of S and third to the\nright of V, who is not opposite T. From this\ncondition Case 1a gets rejected, and we get",
+    "explanationHtml": "Final answer:<br/>W sits third to the left of U, who is standing on<br/>the longer side. S is at W's immediate right. From<br/>these conditions, we get,<br/>T sitting second to the left of S and third to the<br/>right of V, who is not opposite T. From this<br/>condition Case 1a gets rejected, and we get",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons P, Q, R, S, T, U, V, and W are\narranged in a rectangular field so that two\npersons sit on each side of the table, but not\nnecessarily in the same sequence. They are all\nfacing the inside. W sits third to the left of U, who\nis sitting on the longer side. S is at W's immediate\nright. R sitting immediate left of P, who is not\nfacing Q. T sitting second to the left of S and\nthird to the right of V, who is not opposite T.\n \nWho among the following person seated on the\nlonger side of the table?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "16",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nHow many persons sit between S and R when\ncounted to the right of R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. Only three persons sit<br/>between V and R. W sits immediate left of S. S<br/>sits second to the left of V, who is not sitting at<br/>the corner of the table. The number of persons<br/>sitting between S and Q is the same as the<br/>number of persons sitting between T and S. The<br/>one who sits opposite V is immediate right of Q.<br/>P sits second to the right of W. U sits immediate<br/>right of T but do not sit on the longer side of the<br/>table.<br/> <br/>How many persons sit between S and R when<br/>counted to the right of R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "html": "Four"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final answer:\nS sits second to the left of V, who is not sitting at\nthe corner of the table. The one who sits\nopposite V is immediate right of Q.\nFrom these conditions, we get,\nThe number of persons sitting between S and Q\nis the same as the number of persons sitting\nbetween T and S. Only three persons sit between\nV and R. W sits immediate left of S.\nP sits second to the right of W.\nU sits immediate right of T but do not sit on the\nlonger side of the table. From this condition Case\n2 gets rejected, and we get\nHence, One person sit between S and R when\ncounted to the right of R.",
+    "explanationHtml": "Final answer:<br/>S sits second to the left of V, who is not sitting at<br/>the corner of the table. The one who sits<br/>opposite V is immediate right of Q.<br/>From these conditions, we get,<br/>The number of persons sitting between S and Q<br/>is the same as the number of persons sitting<br/>between T and S. Only three persons sit between<br/>V and R. W sits immediate left of S.<br/>P sits second to the right of W.<br/>U sits immediate right of T but do not sit on the<br/>longer side of the table. From this condition Case<br/>2 gets rejected, and we get<br/>Hence, One person sit between S and R when<br/>counted to the right of R.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nHow many persons sit between S and R when\ncounted to the right of R?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "17",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. Only three persons sit<br/>between V and R. W sits immediate left of S. S<br/>sits second to the left of V, who is not sitting at<br/>the corner of the table. The number of persons",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nS sits second to the left of V, who is not sitting at\nthe corner of the table. The one who sits\nopposite V is immediate right of Q.\nFrom these conditions, we get,\nThe number of persons sitting between S and Q\nis the same as the number of persons sitting",
+    "explanationHtml": "Final answer:<br/>S sits second to the left of V, who is not sitting at<br/>the corner of the table. The one who sits<br/>opposite V is immediate right of Q.<br/>From these conditions, we get,<br/>The number of persons sitting between S and Q<br/>is the same as the number of persons sitting",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p004_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "question_number": "18",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person seated at the\ncorner of the table?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. Only three persons sit<br/>between V and R. W sits immediate left of S. S<br/>sits second to the left of V, who is not sitting at<br/>the corner of the table. The number of persons<br/>sitting between S and Q is the same as the<br/>number of persons sitting between T and S. The<br/>one who sits opposite V is immediate right of Q.<br/>P sits second to the right of W. U sits immediate<br/>right of T but do not sit on the longer side of the<br/>table.<br/> <br/>Who among the following person seated at the<br/>corner of the table?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "C",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "D",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nS sits second to the left of V, who is not sitting at\nthe corner of the table. The one who sits\nopposite V is immediate right of Q.\nFrom these conditions, we get,\nThe number of persons sitting between S and Q\nis the same as the number of persons sitting\nbetween T and S. Only three persons sit between\nV and R. W sits immediate left of S.\nP sits second to the right of W.\nU sits immediate right of T but do not sit on the\nlonger side of the table. From this condition Case\n2 gets rejected, and we get\nHence, W seated at the corner of the table.",
+    "explanationHtml": "Final answer:<br/>S sits second to the left of V, who is not sitting at<br/>the corner of the table. The one who sits<br/>opposite V is immediate right of Q.<br/>From these conditions, we get,<br/>The number of persons sitting between S and Q<br/>is the same as the number of persons sitting<br/>between T and S. Only three persons sit between<br/>V and R. W sits immediate left of S.<br/>P sits second to the right of W.<br/>U sits immediate right of T but do not sit on the<br/>longer side of the table. From this condition Case<br/>2 gets rejected, and we get<br/>Hence, W seated at the corner of the table.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person seated at the\ncorner of the table?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "19",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person seated\nsecond to the right of the one who is\nimmediate left of Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. Only three persons sit<br/>between V and R. W sits immediate left of S. S<br/>sits second to the left of V, who is not sitting at<br/>the corner of the table. The number of persons<br/>sitting between S and Q is the same as the<br/>number of persons sitting between T and S. The<br/>one who sits opposite V is immediate right of Q.<br/>P sits second to the right of W. U sits immediate<br/>right of T but do not sit on the longer side of the<br/>table.<br/> <br/>Who among the following person seated<br/>second to the right of the one who is<br/>immediate left of Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nS sits second to the left of V, who is not sitting at\nthe corner of the table. The one who sits\nopposite V is immediate right of Q.\nFrom these conditions, we get,\nThe number of persons sitting between S and Q\nis the same as the number of persons sitting",
+    "explanationHtml": "Final answer:<br/>S sits second to the left of V, who is not sitting at<br/>the corner of the table. The one who sits<br/>opposite V is immediate right of Q.<br/>From these conditions, we get,<br/>The number of persons sitting between S and Q<br/>is the same as the number of persons sitting",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person seated\nsecond to the right of the one who is\nimmediate left of Q?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "20",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person sits opposite\nto P?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. Only three persons sit<br/>between V and R. W sits immediate left of S. S<br/>sits second to the left of V, who is not sitting at<br/>the corner of the table. The number of persons<br/>sitting between S and Q is the same as the<br/>number of persons sitting between T and S. The<br/>one who sits opposite V is immediate right of Q.<br/>P sits second to the right of W. U sits immediate<br/>right of T but do not sit on the longer side of the<br/>table.<br/> <br/>Who among the following person sits opposite<br/>to P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "U",
+        "html": "U"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nS sits second to the left of V, who is not sitting at\nthe corner of the table. The one who sits\nopposite V is immediate right of Q.\nFrom these conditions, we get,\nThe number of persons sitting between S and Q\nis the same as the number of persons sitting\nbetween T and S. Only three persons sit between\nV and R. W sits immediate left of S.\nP sits second to the right of W.\nU sits immediate right of T but do not sit on the\nlonger side of the table. From this condition Case\n2 gets rejected, and we get\nHence, Q sits opposite to P.",
+    "explanationHtml": "Final answer:<br/>S sits second to the left of V, who is not sitting at<br/>the corner of the table. The one who sits<br/>opposite V is immediate right of Q.<br/>From these conditions, we get,<br/>The number of persons sitting between S and Q<br/>is the same as the number of persons sitting<br/>between T and S. Only three persons sit between<br/>V and R. W sits immediate left of S.<br/>P sits second to the right of W.<br/>U sits immediate right of T but do not sit on the<br/>longer side of the table. From this condition Case<br/>2 gets rejected, and we get<br/>Hence, Q sits opposite to P.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p005_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. Only three persons sit\nbetween V and R. W sits immediate left of S. S\nsits second to the left of V, who is not sitting at\nthe corner of the table. The number of persons\nsitting between S and Q is the same as the\nnumber of persons sitting between T and S. The\none who sits opposite V is immediate right of Q.\nP sits second to the right of W. U sits immediate\nright of T but do not sit on the longer side of the\ntable.\n \nWho among the following person sits opposite\nto P?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "question_number": "21",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nFour of the next five are similar in some way\nand thus form a group. Find the student who\ndoes not belong to that group.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. T sits three places away from<br/>W, who sits in the corner of the table. Only one<br/>person sits between W and P, who is an<br/>immediate neighbour of T. The number of<br/>persons sitting between P and U is the same as<br/>the number of persons sitting between W and S,<br/>who sit adjacent to T. R sits second to the left of<br/>V, who is not an immediate neighbour of S. T is<br/>not sitting second to the right of V. Q sits<br/>immediate right of W.<br/> <br/>Four of the next five are similar in some way<br/>and thus form a group. Find the student who<br/>does not belong to that group.",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "U",
+        "html": "U"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits three places away from W, who sits in\ncorner of the table. Only one person sits\nbetween W and P, who is an immediate\nneighbour of T.\nFrom these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits three places away from W, who sits in<br/>corner of the table. Only one person sits<br/>between W and P, who is an immediate<br/>neighbour of T.<br/>From these conditions, we get,",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nFour of the next five are similar in some way\nand thus form a group. Find the student who\ndoes not belong to that group."
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "22",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nHow many persons sit between V and S, when\ncounted from right of S?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. T sits three places away from<br/>W, who sits in the corner of the table. Only one<br/>person sits between W and P, who is an<br/>immediate neighbour of T. The number of<br/>persons sitting between P and U is the same as<br/>the number of persons sitting between W and S,<br/>who sit adjacent to T. R sits second to the left of<br/>V, who is not an immediate neighbour of S. T is<br/>not sitting second to the right of V. Q sits<br/>immediate right of W.<br/> <br/>How many persons sit between V and S, when<br/>counted from right of S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "5",
+        "html": "5"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits three places away from W, who sits in\ncorner of the table. Only one person sits\nbetween W and P, who is an immediate\nneighbour of T.\nFrom these conditions, we get,\nThe number of persons sit between P and U is\nthe same as the number of persons sit between\nW and S, who sit adjacent to T. R sits second to\nthe left of V, who is not an immediate neighbour\nof S. T does not sit second to the right of V.",
+    "explanationHtml": "Final answer:<br/>T sits three places away from W, who sits in<br/>corner of the table. Only one person sits<br/>between W and P, who is an immediate<br/>neighbour of T.<br/>From these conditions, we get,<br/>The number of persons sit between P and U is<br/>the same as the number of persons sit between<br/>W and S, who sit adjacent to T. R sits second to<br/>the left of V, who is not an immediate neighbour<br/>of S. T does not sit second to the right of V.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nHow many persons sit between V and S, when\ncounted from right of S?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "23",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nWho \namong \nthe \nfollowing \nfriends \nsits\nimmediately left of P?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. T sits three places away from<br/>W, who sits in the corner of the table. Only one<br/>person sits between W and P, who is an<br/>immediate neighbour of T. The number of<br/>persons sitting between P and U is the same as<br/>the number of persons sitting between W and S,<br/>who sit adjacent to T. R sits second to the left of<br/>V, who is not an immediate neighbour of S. T is<br/>not sitting second to the right of V. Q sits<br/>immediate right of W.<br/> <br/>Who <br/>among <br/>the <br/>following <br/>friends <br/>sits<br/>immediately left of P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "V",
+        "html": "V"
+      },
+      {
+        "id": "E",
+        "text": "T",
+        "html": "T"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits three places away from W, who sits in\ncorner of the table. Only one person sits\nbetween W and P, who is an immediate\nneighbour of T.\nFrom these conditions, we get,\nThe number of persons sit between P and U is\nthe same as the number of persons sit between\nW and S, who sit adjacent to T. R sits second to\nthe left of V, who is not an immediate neighbour\nof S. T does not sit second to the right of V.\nQ sits immediate right of W. From this condition\nCase, 2 gets rejected, and we get",
+    "explanationHtml": "Final answer:<br/>T sits three places away from W, who sits in<br/>corner of the table. Only one person sits<br/>between W and P, who is an immediate<br/>neighbour of T.<br/>From these conditions, we get,<br/>The number of persons sit between P and U is<br/>the same as the number of persons sit between<br/>W and S, who sit adjacent to T. R sits second to<br/>the left of V, who is not an immediate neighbour<br/>of S. T does not sit second to the right of V.<br/>Q sits immediate right of W. From this condition<br/>Case, 2 gets rejected, and we get",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nWho \namong \nthe \nfollowing \nfriends \nsits\nimmediately left of P?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "24",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. T sits three places away from<br/>W, who sits in the corner of the table. Only one",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits three places away from W, who sits in\ncorner of the table. Only one person sits\nbetween W and P, who is an immediate\nneighbour of T.\nFrom these conditions, we get,\nThe number of persons sit between P and U is\nthe same as the number of persons sit between\nW and S, who sit adjacent to T. R sits second to\nthe left of V, who is not an immediate neighbour\nof S. T does not sit second to the right of V.\nQ sits immediate right of W. From this condition\nCase, 2 gets rejected, and we get\nHence, P is adjacent to T",
+    "explanationHtml": "Final answer:<br/>T sits three places away from W, who sits in<br/>corner of the table. Only one person sits<br/>between W and P, who is an immediate<br/>neighbour of T.<br/>From these conditions, we get,<br/>The number of persons sit between P and U is<br/>the same as the number of persons sit between<br/>W and S, who sit adjacent to T. R sits second to<br/>the left of V, who is not an immediate neighbour<br/>of S. T does not sit second to the right of V.<br/>Q sits immediate right of W. From this condition<br/>Case, 2 gets rejected, and we get<br/>Hence, P is adjacent to T",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p006_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "question_number": "25",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nWho among the following sits opposite to R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle of the side<br/>of the table. All the information is not necessarily<br/>in the same order. T sits three places away from<br/>W, who sits in the corner of the table. Only one<br/>person sits between W and P, who is an<br/>immediate neighbour of T. The number of<br/>persons sitting between P and U is the same as<br/>the number of persons sitting between W and S,<br/>who sit adjacent to T. R sits second to the left of<br/>V, who is not an immediate neighbour of S. T is<br/>not sitting second to the right of V. Q sits<br/>immediate right of W.<br/> <br/>Who among the following sits opposite to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "S",
+        "html": "S"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "T",
+        "html": "T"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nT sits three places away from W, who sits in\ncorner of the table. Only one person sits\nbetween W and P, who is an immediate\nneighbour of T.\nFrom these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>T sits three places away from W, who sits in<br/>corner of the table. Only one person sits<br/>between W and P, who is an immediate<br/>neighbour of T.<br/>From these conditions, we get,",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle of the side\nof the table. All the information is not necessarily\nin the same order. T sits three places away from\nW, who sits in the corner of the table. Only one\nperson sits between W and P, who is an\nimmediate neighbour of T. The number of\npersons sitting between P and U is the same as\nthe number of persons sitting between W and S,\nwho sit adjacent to T. R sits second to the left of\nV, who is not an immediate neighbour of S. T is\nnot sitting second to the right of V. Q sits\nimmediate right of W.\n \nWho among the following sits opposite to R?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "26",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nHow many persons sit between P and Q when\ncounted to the right of Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle side of the<br/>table. All the information is not necessarily in the<br/>same order. Two persons sit between T and U,<br/>who sits on the shorter side of the table. P sits<br/>second to the left of T. Q is not an immediate<br/>neighbour of T. R sits opposite U. S sits second to<br/>the left of P. The number of persons sitting<br/>between U and Q is the same as the number of<br/>persons sitting between Q and R. W sits second<br/>to the right of T. V is not an immediate neighbour<br/>of W.<br/> <br/>How many persons sit between P and Q when<br/>counted to the right of Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "5",
+        "html": "5"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final answer:\nTwo persons sit between T and U, who sits on the\nshorter side of the table. P sits second to the left\nof T. From these conditions, we get,\nThe number of persons sitting between U and Q\nis the same as the number of persons sitting\nbetween Q and R. Q is not an immediate\nneighbour of T. R sits opposite U.\nS sits second to the left of P. W sits second to the\nright of T.\nV is not an immediate neighbour of W. From this\ncondition Case 2 gets rejected, and we get\nHence, two persons sit between P and Q when\ncounted to the right of Q.",
+    "explanationHtml": "Final answer:<br/>Two persons sit between T and U, who sits on the<br/>shorter side of the table. P sits second to the left<br/>of T. From these conditions, we get,<br/>The number of persons sitting between U and Q<br/>is the same as the number of persons sitting<br/>between Q and R. Q is not an immediate<br/>neighbour of T. R sits opposite U.<br/>S sits second to the left of P. W sits second to the<br/>right of T.<br/>V is not an immediate neighbour of W. From this<br/>condition Case 2 gets rejected, and we get<br/>Hence, two persons sit between P and Q when<br/>counted to the right of Q.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nHow many persons sit between P and Q when\ncounted to the right of Q?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "27",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWhat is the position of V with respect to Q?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle side of the<br/>table. All the information is not necessarily in the<br/>same order. Two persons sit between T and U,<br/>who sits on the shorter side of the table. P sits<br/>second to the left of T. Q is not an immediate<br/>neighbour of T. R sits opposite U. S sits second to<br/>the left of P. The number of persons sitting<br/>between U and Q is the same as the number of<br/>persons sitting between Q and R. W sits second<br/>to the right of T. V is not an immediate neighbour<br/>of W.<br/> <br/>What is the position of V with respect to Q?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Third to the right",
+        "html": "Third to the right"
+      },
+      {
+        "id": "C",
+        "text": "Immediate right",
+        "html": "Immediate right"
+      },
+      {
+        "id": "D",
+        "text": "Fourth to the left",
+        "html": "Fourth to the left"
+      },
+      {
+        "id": "E",
+        "text": "Fourth to the right\nQ28",
+        "html": "Fourth to the right\nQ28"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:\nTwo persons sit between T and U, who sits on the\nshorter side of the table. P sits second to the left",
+    "explanationHtml": "Final answer:<br/>Two persons sit between T and U, who sits on the<br/>shorter side of the table. P sits second to the left",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p007_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWhat is the position of V with respect to Q?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "question_number": "29",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWho among the following person seated\nsecond to the right of the one who is\nimmediate left of R?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle side of the<br/>table. All the information is not necessarily in the<br/>same order. Two persons sit between T and U,<br/>who sits on the shorter side of the table. P sits<br/>second to the left of T. Q is not an immediate<br/>neighbour of T. R sits opposite U. S sits second to<br/>the left of P. The number of persons sitting<br/>between U and Q is the same as the number of<br/>persons sitting between Q and R. W sits second<br/>to the right of T. V is not an immediate neighbour<br/>of W.<br/> <br/>Who among the following person seated<br/>second to the right of the one who is<br/>immediate left of R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "html": "P"
+      },
+      {
+        "id": "C",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "D",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "E",
+        "text": "T",
+        "html": "T"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final answer:\nTwo persons sit between T and U, who sits on the\nshorter side of the table. P sits second to the left\nof T. From these conditions, we get,",
+    "explanationHtml": "Final answer:<br/>Two persons sit between T and U, who sits on the<br/>shorter side of the table. P sits second to the left<br/>of T. From these conditions, we get,",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWho among the following person seated\nsecond to the right of the one who is\nimmediate left of R?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "30",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWhich of the following statements is correct?",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Twelve people are sitting around a rectangular-<br/>shaped table facing inwards. One person is<br/>sitting at one corner each and two people are<br/>sitting along each side. No one among Q, U, or Z<br/>is sitting at the corner of the table. Only one<br/>person is sitting between P and S. O is sitting<br/>third to the right of N and is sitting second to the<br/>left of V. The number of people sitting between<br/>U and Q when counted from the left of Q is not<br/>more than three. Only three people are sitting<br/>between P and Y, who is not sitting along the<br/>longer side of the table. Five people are sitting<br/>between S and R, who is sitting third to the right<br/>of T. Only one person is sitting between Y and N,<br/>who is not sitting along the longer side of the<br/>table. X is sitting in one of the corners of the<br/>table and is sitting immediately to the left of R.<br/>The number of people sitting between Z and Q is<br/>one more than the number of people sitting<br/>between X and O.<br/> <br/>Which of the following statements is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Five people are sitting between T and Q.",
+        "html": "Five people are sitting between T and Q."
+      },
+      {
+        "id": "B",
+        "text": "Z and R are sitting adjacent to each other.",
+        "html": "Z and R are sitting adjacent to each other."
+      },
+      {
+        "id": "C",
+        "text": "S is sitting third to the left of Q.",
+        "html": "S is sitting third to the left of Q."
+      },
+      {
+        "id": "D",
+        "text": "Four people are sitting between P and O.",
+        "html": "Four people are sitting between P and O."
+      },
+      {
+        "id": "E",
+        "text": "Both (a) and (d)",
+        "html": "Both (a) and (d)"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "It is given that,\nThe twelve people are O, P, Q, R, S, T, U, V, W, X, Y\nand Z.\nX is sitting in one of the corners of the table and\nis sitting immediately to the left of R.\nFive people are sitting between S and R, who is\nsitting third to the right of T.\nOnly one person is sitting between P and S.\nOnly three people are sitting between P and Y,\nwho is not sitting along the longer side of the\ntable.\nHere, case 2 is invalid.\nOnly one person is sitting between Y and N, who\nis not sitting along the longer side of the table.\nHere, case 2.1 is invalid.\nWe get,\nO is sitting third to the right of N and is sitting\nsecond to the left of V.\nNo one among Q, U, or Z is sitting at the corner\nof the table.\nHere, case 1.1 is invalid.\nWe get,\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\nHence, six people are sitting between Z and Q.\nThe number of people sitting between U and Q\nwhen counted from the left of Q is not more than",
+    "explanationHtml": "It is given that,<br/>The twelve people are O, P, Q, R, S, T, U, V, W, X, Y<br/>and Z.<br/>X is sitting in one of the corners of the table and<br/>is sitting immediately to the left of R.<br/>Five people are sitting between S and R, who is<br/>sitting third to the right of T.<br/>Only one person is sitting between P and S.<br/>Only three people are sitting between P and Y,<br/>who is not sitting along the longer side of the<br/>table.<br/>Here, case 2 is invalid.<br/>Only one person is sitting between Y and N, who<br/>is not sitting along the longer side of the table.<br/>Here, case 2.1 is invalid.<br/>We get,<br/>O is sitting third to the right of N and is sitting<br/>second to the left of V.<br/>No one among Q, U, or Z is sitting at the corner<br/>of the table.<br/>Here, case 1.1 is invalid.<br/>We get,<br/>The number of people sitting between Z and Q is<br/>one more than the number of people sitting<br/>between X and O.<br/>Hence, six people are sitting between Z and Q.<br/>The number of people sitting between U and Q<br/>when counted from the left of Q is not more than",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWhich of the following statements is correct?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "31",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Twelve people are sitting around a rectangular-<br/>shaped table facing inwards. One person is<br/>sitting at one corner each and two people are<br/>sitting along each side. No one among Q, U, or Z<br/>is sitting at the corner of the table. Only one",
+    "options": [],
+    "correctAnswer": 4,
+    "explanation": "It is given that,\nThe twelve people are O, P, Q, R, S, T, U, V, W, X, Y\nand Z.\nX is sitting in one of the corners of the table and\nis sitting immediately to the left of R.\nFive people are sitting between S and R, who is\nsitting third to the right of T.\nOnly one person is sitting between P and S.\nOnly three people are sitting between P and Y,\nwho is not sitting along the longer side of the\ntable.\nHere, case 2 is invalid.\nOnly one person is sitting between Y and N, who\nis not sitting along the longer side of the table.\nHere, case 2.1 is invalid.\nWe get,\nO is sitting third to the right of N and is sitting\nsecond to the left of V.\nNo one among Q, U, or Z is sitting at the corner\nof the table.\nHere, case 1.1 is invalid.\nWe get,\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\nHence, six people are sitting between Z and Q.\nThe number of people sitting between U and Q\nwhen counted from the left of Q is not more than\nthree.\nHence, U is sitting second to the left of Q.\nThe final arrangement is,\nHere, T is not sitting in the corner of the table.",
+    "explanationHtml": "It is given that,<br/>The twelve people are O, P, Q, R, S, T, U, V, W, X, Y<br/>and Z.<br/>X is sitting in one of the corners of the table and<br/>is sitting immediately to the left of R.<br/>Five people are sitting between S and R, who is<br/>sitting third to the right of T.<br/>Only one person is sitting between P and S.<br/>Only three people are sitting between P and Y,<br/>who is not sitting along the longer side of the<br/>table.<br/>Here, case 2 is invalid.<br/>Only one person is sitting between Y and N, who<br/>is not sitting along the longer side of the table.<br/>Here, case 2.1 is invalid.<br/>We get,<br/>O is sitting third to the right of N and is sitting<br/>second to the left of V.<br/>No one among Q, U, or Z is sitting at the corner<br/>of the table.<br/>Here, case 1.1 is invalid.<br/>We get,<br/>The number of people sitting between Z and Q is<br/>one more than the number of people sitting<br/>between X and O.<br/>Hence, six people are sitting between Z and Q.<br/>The number of people sitting between U and Q<br/>when counted from the left of Q is not more than<br/>three.<br/>Hence, U is sitting second to the left of Q.<br/>The final arrangement is,<br/>Here, T is not sitting in the corner of the table.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p008_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "question_number": "32",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWho among the following is related to N in the\nsame way as P is related to R?",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Twelve people are sitting around a rectangular-<br/>shaped table facing inwards. One person is<br/>sitting at one corner each and two people are<br/>sitting along each side. No one among Q, U, or Z<br/>is sitting at the corner of the table. Only one<br/>person is sitting between P and S. O is sitting<br/>third to the right of N and is sitting second to the<br/>left of V. The number of people sitting between<br/>U and Q when counted from the left of Q is not<br/>more than three. Only three people are sitting<br/>between P and Y, who is not sitting along the<br/>longer side of the table. Five people are sitting<br/>between S and R, who is sitting third to the right<br/>of T. Only one person is sitting between Y and N,<br/>who is not sitting along the longer side of the<br/>table. X is sitting in one of the corners of the<br/>table and is sitting immediately to the left of R.<br/>The number of people sitting between Z and Q is<br/>one more than the number of people sitting<br/>between X and O.<br/> <br/>Who among the following is related to N in the<br/>same way as P is related to R?",
+    "options": [
+      {
+        "id": "A",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "B",
+        "text": "Z",
+        "html": "Z"
+      },
+      {
+        "id": "C",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "D",
+        "text": "U",
+        "html": "U"
+      },
+      {
+        "id": "E",
+        "text": "X",
+        "html": "X"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "It is given that,\nThe twelve people are O, P, Q, R, S, T, U, V, W, X, Y\nand Z.",
+    "explanationHtml": "It is given that,<br/>The twelve people are O, P, Q, R, S, T, U, V, W, X, Y<br/>and Z.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWho among the following is related to N in the\nsame way as P is related to R?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "33",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWho among the following is/are sitting along\nthe longer side of the table?\nI. U\nII. Q\nIII. P",
+    "questionHtml": "Study the following information and answer<br/>the given questions.<br/> <br/>Twelve people are sitting around a rectangular-<br/>shaped table facing inwards. One person is<br/>sitting at one corner each and two people are<br/>sitting along each side. No one among Q, U, or Z<br/>is sitting at the corner of the table. Only one<br/>person is sitting between P and S. O is sitting<br/>third to the right of N and is sitting second to the<br/>left of V. The number of people sitting between<br/>U and Q when counted from the left of Q is not<br/>more than three. Only three people are sitting<br/>between P and Y, who is not sitting along the<br/>longer side of the table. Five people are sitting<br/>between S and R, who is sitting third to the right<br/>of T. Only one person is sitting between Y and N,<br/>who is not sitting along the longer side of the<br/>table. X is sitting in one of the corners of the<br/>table and is sitting immediately to the left of R.<br/>The number of people sitting between Z and Q is<br/>one more than the number of people sitting<br/>between X and O.<br/> <br/>Who among the following is/are sitting along<br/>the longer side of the table?<br/>I. U<br/>II. Q<br/>III. P",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Only III",
+        "html": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Only I and III",
+        "html": "Only I and III"
+      },
+      {
+        "id": "E",
+        "text": "Only I and II",
+        "html": "Only I and II"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "It is given that,\nThe twelve people are O, P, Q, R, S, T, U, V, W, X, Y\nand Z.\nX is sitting in one of the corners of the table and\nis sitting immediately to the left of R.\nFive people are sitting between S and R, who is\nsitting third to the right of T.\nOnly one person is sitting between P and S.\nOnly three people are sitting between P and Y,\nwho is not sitting along the longer side of the\ntable.\nHere, case 2 is invalid.",
+    "explanationHtml": "It is given that,<br/>The twelve people are O, P, Q, R, S, T, U, V, W, X, Y<br/>and Z.<br/>X is sitting in one of the corners of the table and<br/>is sitting immediately to the left of R.<br/>Five people are sitting between S and R, who is<br/>sitting third to the right of T.<br/>Only one person is sitting between P and S.<br/>Only three people are sitting between P and Y,<br/>who is not sitting along the longer side of the<br/>table.<br/>Here, case 2 is invalid.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information and answer\nthe given questions.\n \nTwelve people are sitting around a rectangular-\nshaped table facing inwards. One person is\nsitting at one corner each and two people are\nsitting along each side. No one among Q, U, or Z\nis sitting at the corner of the table. Only one\nperson is sitting between P and S. O is sitting\nthird to the right of N and is sitting second to the\nleft of V. The number of people sitting between\nU and Q when counted from the left of Q is not\nmore than three. Only three people are sitting\nbetween P and Y, who is not sitting along the\nlonger side of the table. Five people are sitting\nbetween S and R, who is sitting third to the right\nof T. Only one person is sitting between Y and N,\nwho is not sitting along the longer side of the\ntable. X is sitting in one of the corners of the\ntable and is sitting immediately to the left of R.\nThe number of people sitting between Z and Q is\none more than the number of people sitting\nbetween X and O.\n \nWho among the following is/are sitting along\nthe longer side of the table?\nI. U\nII. Q\nIII. P"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "34",
+    "level": "",
+    "question": "Study the following information and answer\nthe given questions.",
+    "questionHtml": "Study the following information and answer<br/>the given questions.",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "It is given that,\nThe twelve people are O, P, Q, R, S, T, U, V, W, X, Y\nand Z.\nX is sitting in one of the corners of the table and\nis sitting immediately to the left of R.\nFive people are sitting between S and R, who is\nsitting third to the right of T.\nOnly one person is sitting between P and S.\nOnly three people are sitting between P and Y,\nwho is not sitting along the longer side of the\ntable.\nHere, case 2 is invalid.\nOnly one person is sitting between Y and N, who\nis not sitting along the longer side of the table.\nHere, case 2.1 is invalid.\nWe get,\nO is sitting third to the right of N and is sitting\nsecond to the left of V.\nNo one among Q, U, or Z is sitting at the corner\nof the table.\nHere, case 1.1 is invalid.\nWe get,",
+    "explanationHtml": "It is given that,<br/>The twelve people are O, P, Q, R, S, T, U, V, W, X, Y<br/>and Z.<br/>X is sitting in one of the corners of the table and<br/>is sitting immediately to the left of R.<br/>Five people are sitting between S and R, who is<br/>sitting third to the right of T.<br/>Only one person is sitting between P and S.<br/>Only three people are sitting between P and Y,<br/>who is not sitting along the longer side of the<br/>table.<br/>Here, case 2 is invalid.<br/>Only one person is sitting between Y and N, who<br/>is not sitting along the longer side of the table.<br/>Here, case 2.1 is invalid.<br/>We get,<br/>O is sitting third to the right of N and is sitting<br/>second to the left of V.<br/>No one among Q, U, or Z is sitting at the corner<br/>of the table.<br/>Here, case 1.1 is invalid.<br/>We get,",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p009_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information and answer\nthe given questions."
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "question_number": "35",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWho among the following person sits opposite\nP?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons- P, Q, R, S, T, U, V, and W are sitting<br/>at the rectangular table facing the center. Four of<br/>them are seated at the corner of the table and<br/>four of them are seated in the middle side of the<br/>table. All the information is not necessarily in the<br/>same order. Two persons sit between T and U,<br/>who sits on the shorter side of the table. P sits<br/>second to the left of T. Q is not an immediate<br/>neighbour of T. R sits opposite U. S sits second to<br/>the left of P. The number of persons sitting<br/>between U and Q is the same as the number of<br/>persons sitting between Q and R. W sits second<br/>to the right of T. V is not an immediate neighbour<br/>of W.<br/> <br/>Who among the following person sits opposite<br/>P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "R",
+        "html": "R"
+      },
+      {
+        "id": "B",
+        "text": "T",
+        "html": "T"
+      },
+      {
+        "id": "C",
+        "text": "W",
+        "html": "W"
+      },
+      {
+        "id": "D",
+        "text": "Q",
+        "html": "Q"
+      },
+      {
+        "id": "E",
+        "text": "S",
+        "html": "S"
+      }
+    ],
+    "correctAnswer": 2,
+    "explanation": "Final answer:\nTwo persons sit between T and U, who sits on the\nshorter side of the table. P sits second to the left\nof T. From these conditions, we get,\nThe number of persons sitting between U and Q\nis the same as the number of persons sitting\nbetween Q and R. Q is not an immediate\nneighbour of T. R sits opposite U.\nS sits second to the left of P. W sits second to the\nright of T.\nV is not an immediate neighbour of W. From this\ncondition Case 2 gets rejected, and we get\nHence, W sits opposite P.",
+    "explanationHtml": "Final answer:<br/>Two persons sit between T and U, who sits on the<br/>shorter side of the table. P sits second to the left<br/>of T. From these conditions, we get,<br/>The number of persons sitting between U and Q<br/>is the same as the number of persons sitting<br/>between Q and R. Q is not an immediate<br/>neighbour of T. R sits opposite U.<br/>S sits second to the left of P. W sits second to the<br/>right of T.<br/>V is not an immediate neighbour of W. From this<br/>condition Case 2 gets rejected, and we get<br/>Hence, W sits opposite P.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons- P, Q, R, S, T, U, V, and W are sitting\nat the rectangular table facing the center. Four of\nthem are seated at the corner of the table and\nfour of them are seated in the middle side of the\ntable. All the information is not necessarily in the\nsame order. Two persons sit between T and U,\nwho sits on the shorter side of the table. P sits\nsecond to the left of T. Q is not an immediate\nneighbour of T. R sits opposite U. S sits second to\nthe left of P. The number of persons sitting\nbetween U and Q is the same as the number of\npersons sitting between Q and R. W sits second\nto the right of T. V is not an immediate neighbour\nof W.\n \nWho among the following person sits opposite\nP?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "36",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nHow many persons sit between A and G, when\ncounted from the right of G?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides of<br/>the table. D is neither adjacent to B nor C. A sits<br/>on one of the sides of the table. One person sits<br/>between A and C. B sits third to the left of C. D<br/>sits second to the right of E. G sits third to the<br/>right of F. H neither sits adjacent to D nor E.<br/> <br/>How many persons sit between A and G, when<br/>counted from the right of G?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "None",
+        "html": "None"
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "E",
+        "text": "Four",
+        "html": "Four"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final Answer:\nWe have,\nB sits third to the left of C. One person sits\nbetween A and C. A sits on one of the sides of\nthe table.",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>B sits third to the left of C. One person sits<br/>between A and C. A sits on one of the sides of<br/>the table.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nHow many persons sit between A and G, when\ncounted from the right of G?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "37",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWhat is the position of B with respect to D?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides of<br/>the table. D is neither adjacent to B nor C. A sits<br/>on one of the sides of the table. One person sits<br/>between A and C. B sits third to the left of C. D<br/>sits second to the right of E. G sits third to the<br/>right of F. H neither sits adjacent to D nor E.<br/> <br/>What is the position of B with respect to D?",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final Answer:\nWe have,\nB sits third to the left of C. One person sits\nbetween A and C. A sits on one of the sides of\nthe table.\nFrom the above condition, there are two\npossibilities.\nAgain we have,\nD sits second to the right of E but neither\nadjacent to B nor C. G sits third to the right of F.\nH neither sits adjacent to D nor E.\nFrom \nthe \nabove \ncondition, \nCase-2 \ngets\neliminated. Case-1 shows the final Arrangement.",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>B sits third to the left of C. One person sits<br/>between A and C. A sits on one of the sides of<br/>the table.<br/>From the above condition, there are two<br/>possibilities.<br/>Again we have,<br/>D sits second to the right of E but neither<br/>adjacent to B nor C. G sits third to the right of F.<br/>H neither sits adjacent to D nor E.<br/>From <br/>the <br/>above <br/>condition, <br/>Case-2 <br/>gets<br/>eliminated. Case-1 shows the final Arrangement.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p010_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWhat is the position of B with respect to D?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "question_number": "38",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits exactly\nopposite to C?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides of<br/>the table. D is neither adjacent to B nor C. A sits<br/>on one of the sides of the table. One person sits<br/>between A and C. B sits third to the left of C. D<br/>sits second to the right of E. G sits third to the<br/>right of F. H neither sits adjacent to D nor E.<br/> <br/>Who among the following person sits exactly<br/>opposite to C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "B",
+        "text": "D",
+        "html": "D"
+      },
+      {
+        "id": "C",
+        "text": "H",
+        "html": "H"
+      },
+      {
+        "id": "D",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "E",
+        "text": "A",
+        "html": "A"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final Answer:\nWe have,\nB sits third to the left of C. One person sits\nbetween A and C. A sits on one of the sides of\nthe table.\nFrom the above condition, there are two\npossibilities.",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>B sits third to the left of C. One person sits<br/>between A and C. A sits on one of the sides of<br/>the table.<br/>From the above condition, there are two<br/>possibilities.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits exactly\nopposite to C?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "39",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits on the\ncorner of the table?\nI) The one who sits to the immediate left of F\nII) B\nIII) H",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides of<br/>the table. D is neither adjacent to B nor C. A sits<br/>on one of the sides of the table. One person sits<br/>between A and C. B sits third to the left of C. D<br/>sits second to the right of E. G sits third to the<br/>right of F. H neither sits adjacent to D nor E.<br/> <br/>Who among the following person sits on the<br/>corner of the table?<br/>I) The one who sits to the immediate left of F<br/>II) B<br/>III) H",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only (I) and (II)",
+        "html": "Only (I) and (II)"
+      },
+      {
+        "id": "B",
+        "text": "Only (I)",
+        "html": "Only (I)"
+      },
+      {
+        "id": "C",
+        "text": "Only (I) and (III)",
+        "html": "Only (I) and (III)"
+      },
+      {
+        "id": "D",
+        "text": "Only (II)",
+        "html": "Only (II)"
+      },
+      {
+        "id": "E",
+        "text": "Only (III)",
+        "html": "Only (III)"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final Answer:\nWe have,\nB sits third to the left of C. One person sits\nbetween A and C. A sits on one of the sides of\nthe table.\nFrom the above condition, there are two\npossibilities.\nAgain we have,\nD sits second to the right of E but neither\nadjacent to B nor C. G sits third to the right of F.\nH neither sits adjacent to D nor E.\nFrom \nthe \nabove \ncondition, \nCase-2 \ngets\neliminated. Case-1 shows the final Arrangement.",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>B sits third to the left of C. One person sits<br/>between A and C. A sits on one of the sides of<br/>the table.<br/>From the above condition, there are two<br/>possibilities.<br/>Again we have,<br/>D sits second to the right of E but neither<br/>adjacent to B nor C. G sits third to the right of F.<br/>H neither sits adjacent to D nor E.<br/>From <br/>the <br/>above <br/>condition, <br/>Case-2 <br/>gets<br/>eliminated. Case-1 shows the final Arrangement.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits on the\ncorner of the table?\nI) The one who sits to the immediate left of F\nII) B\nIII) H"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "40",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits third to the\nright of H?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides of<br/>the table. D is neither adjacent to B nor C. A sits<br/>on one of the sides of the table. One person sits<br/>between A and C. B sits third to the left of C. D<br/>sits second to the right of E. G sits third to the<br/>right of F. H neither sits adjacent to D nor E.<br/> <br/>Who among the following person sits third to the<br/>right of H?",
+    "options": [
+      {
+        "id": "A",
+        "text": "C",
+        "html": "C"
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "html": "A"
+      },
+      {
+        "id": "C",
+        "text": "F",
+        "html": "F"
+      },
+      {
+        "id": "D",
+        "text": "E",
+        "html": "E"
+      },
+      {
+        "id": "E",
+        "text": "B",
+        "html": "B"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final Answer:\nWe have,\nB sits third to the left of C. One person sits\nbetween A and C. A sits on one of the sides of\nthe table.\nFrom the above condition, there are two\npossibilities.",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>B sits third to the left of C. One person sits<br/>between A and C. A sits on one of the sides of<br/>the table.<br/>From the above condition, there are two<br/>possibilities.",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - A, B, C, D, E, F, G and H are sitting\non a rectangular table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides of\nthe table. D is neither adjacent to B nor C. A sits\non one of the sides of the table. One person sits\nbetween A and C. B sits third to the left of C. D\nsits second to the right of E. G sits third to the\nright of F. H neither sits adjacent to D nor E.\n \nWho among the following person sits third to the\nright of H?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "41",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nFour of the following five are alike in a certain\nway and thus form a group. Find the one that",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table and all facing the centre<br/>such that two persons are sitting on each side of<br/>the rectangular table. The persons on opposite<br/>sides sit exactly opposite to each other. Only<br/>three persons sit between E and F. E sits adjacent<br/>to C who sits third to the left of H. C is not an<br/>immediate neighbor of B. Both G and B sit<br/>neither on the same side nor opposite sides of<br/>the table. F sits immediate right of D. Only two<br/>persons sit between G and A.<br/> <br/>Four of the following five are alike in a certain<br/>way and thus form a group. Find the one that",
+    "options": [],
+    "correctAnswer": 2,
+    "explanation": "Final Answer:\nLogic is used here, F is not the immediate\nneighbor of C.\nWe have,\nF sits immediate right of D. Only three persons sit\nbetween E and F.\nAgain we have,\nE sits adjacent to C who sits third to the left of H.\nC is not an immediate neighbor of B\n.\nAgain we have,\nBoth G and B sit neither on the same side nor\nopposite sides of the table. Only two persons sit",
+    "explanationHtml": "Final Answer:<br/>Logic is used here, F is not the immediate<br/>neighbor of C.<br/>We have,<br/>F sits immediate right of D. Only three persons sit<br/>between E and F.<br/>Again we have,<br/>E sits adjacent to C who sits third to the left of H.<br/>C is not an immediate neighbor of B<br/>.<br/>Again we have,<br/>Both G and B sit neither on the same side nor<br/>opposite sides of the table. Only two persons sit",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p011_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nFour of the following five are alike in a certain\nway and thus form a group. Find the one that"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "question_number": "42",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nHow many persons sit between E and D when\ncounted from the left of E?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table and all facing the centre<br/>such that two persons are sitting on each side of<br/>the rectangular table. The persons on opposite<br/>sides sit exactly opposite to each other. Only<br/>three persons sit between E and F. E sits adjacent<br/>to C who sits third to the left of H. C is not an<br/>immediate neighbor of B. Both G and B sit<br/>neither on the same side nor opposite sides of<br/>the table. F sits immediate right of D. Only two<br/>persons sit between G and A.<br/> <br/>How many persons sit between E and D when<br/>counted from the left of E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "html": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "html": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "html": "Three"
+      },
+      {
+        "id": "D",
+        "text": "More than three",
+        "html": "More than three"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 3,
+    "explanation": "Final Answer:\nWe have,\nF sits immediate right of D. Only three persons sit\nbetween E and F.\nAgain we have,\nE sits adjacent to C, who sits third to the left of H.\nC is not an immediate neighbor of B\n.\nAgain we have,\nBoth G and B sit neither on the same side nor\nopposite sides of the table. Only two persons sit",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>F sits immediate right of D. Only three persons sit<br/>between E and F.<br/>Again we have,<br/>E sits adjacent to C, who sits third to the left of H.<br/>C is not an immediate neighbor of B<br/>.<br/>Again we have,<br/>Both G and B sit neither on the same side nor<br/>opposite sides of the table. Only two persons sit",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nHow many persons sit between E and D when\ncounted from the left of E?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "43",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nIn which of the following option, first person sits\nsecond to the right of the second person?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table and all facing the centre<br/>such that two persons are sitting on each side of<br/>the rectangular table. The persons on opposite<br/>sides sit exactly opposite to each other. Only<br/>three persons sit between E and F. E sits adjacent<br/>to C who sits third to the left of H. C is not an<br/>immediate neighbor of B. Both G and B sit<br/>neither on the same side nor opposite sides of<br/>the table. F sits immediate right of D. Only two<br/>persons sit between G and A.<br/> <br/>In which of the following option, first person sits<br/>second to the right of the second person?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FA",
+        "html": "FA"
+      },
+      {
+        "id": "B",
+        "text": "BD",
+        "html": "BD"
+      },
+      {
+        "id": "C",
+        "text": "GA",
+        "html": "GA"
+      },
+      {
+        "id": "D",
+        "text": "EC",
+        "html": "EC"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "Final Answer:\nWe have,\nF sits immediate right of D. Only three persons sit\nbetween E and F.\nAgain we have,\nE sits adjacent to C, who sits third to the left of H.\nC is not an immediate neighbor of B\n.\nAgain we have,\nBoth G and B sit neither on the same side nor\nopposite sides of the table. Only two persons sit",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>F sits immediate right of D. Only three persons sit<br/>between E and F.<br/>Again we have,<br/>E sits adjacent to C, who sits third to the left of H.<br/>C is not an immediate neighbor of B<br/>.<br/>Again we have,<br/>Both G and B sit neither on the same side nor<br/>opposite sides of the table. Only two persons sit",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nIn which of the following option, first person sits\nsecond to the right of the second person?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "44",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nWhat is the position of C with respect to B?",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table and all facing the centre<br/>such that two persons are sitting on each side of<br/>the rectangular table. The persons on opposite<br/>sides sit exactly opposite to each other. Only<br/>three persons sit between E and F. E sits adjacent<br/>to C who sits third to the left of H. C is not an<br/>immediate neighbor of B. Both G and B sit<br/>neither on the same side nor opposite sides of<br/>the table. F sits immediate right of D. Only two<br/>persons sit between G and A.<br/> <br/>What is the position of C with respect to B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Second to the right",
+        "html": "Second to the right"
+      },
+      {
+        "id": "B",
+        "text": "Second to the left",
+        "html": "Second to the left"
+      },
+      {
+        "id": "C",
+        "text": "Third to the left",
+        "html": "Third to the left"
+      },
+      {
+        "id": "D",
+        "text": "Immediate right",
+        "html": "Immediate right"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "correctAnswer": 0,
+    "explanation": "Final Answer:\nWe have,\nF sits immediate right of D. Only three persons sit\nbetween E and F.\nAgain we have,\nE sits adjacent to C, who sits third to the left of H.\nC is not an immediate neighbor of B\n.\nAgain we have,\nBoth G and B sit neither on the same side nor\nopposite sides of the table. Only two persons sit",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>F sits immediate right of D. Only three persons sit<br/>between E and F.<br/>Again we have,<br/>E sits adjacent to C, who sits third to the left of H.<br/>C is not an immediate neighbor of B<br/>.<br/>Again we have,<br/>Both G and B sit neither on the same side nor<br/>opposite sides of the table. Only two persons sit",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.\n \nWhat is the position of C with respect to B?"
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "question_number": "45",
+    "level": "",
+    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A.",
+    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons A, B, C, D, E, F, G and H are sitting<br/>on a rectangular table and all facing the centre<br/>such that two persons are sitting on each side of<br/>the rectangular table. The persons on opposite<br/>sides sit exactly opposite to each other. Only<br/>three persons sit between E and F. E sits adjacent<br/>to C who sits third to the left of H. C is not an<br/>immediate neighbor of B. Both G and B sit<br/>neither on the same side nor opposite sides of<br/>the table. F sits immediate right of D. Only two<br/>persons sit between G and A.",
+    "options": [],
+    "correctAnswer": 3,
+    "explanation": "Final Answer:\nWe have,\nF sits immediate right of D. Only three persons sit\nbetween E and F.\nAgain we have,\nE sits adjacent to C, who sits third to the left of H.\nC is not an immediate neighbor of B\n.\nAgain we have,\nBoth G and B sit neither on the same side nor\nopposite sides of the table. Only two persons sit",
+    "explanationHtml": "Final Answer:<br/>We have,<br/>F sits immediate right of D. Only three persons sit<br/>between E and F.<br/>Again we have,<br/>E sits adjacent to C, who sits third to the left of H.<br/>C is not an immediate neighbor of B<br/>.<br/>Again we have,<br/>Both G and B sit neither on the same side nor<br/>opposite sides of the table. Only two persons sit",
+    "tables": [],
+    "imageRef": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+    "image": {
+      "url": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "key": "output/images/rectangle_arrangements_chapter_wise_dpp_english/rectangle_arrangements_chapter_wise_dpp_english_p012_img01.jpeg",
+      "sourceType": "local",
+      "alt": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons A, B, C, D, E, F, G and H are sitting\non a rectangular table and all facing the centre\nsuch that two persons are sitting on each side of\nthe rectangular table. The persons on opposite\nsides sit exactly opposite to each other. Only\nthree persons sit between E and F. E sits adjacent\nto C who sits third to the left of H. C is not an\nimmediate neighbor of B. Both G and B sit\nneither on the same side nor opposite sides of\nthe table. F sits immediate right of D. Only two\npersons sit between G and A."
+    },
+    "tags": [
+      "rectangle",
+      "arrangements"
+    ],
+    "sourcePages": [
+      12
+    ]
+  }
+]

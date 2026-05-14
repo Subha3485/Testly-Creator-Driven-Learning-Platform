@@ -9,10 +9,18 @@ require("dotenv").config();
 const MONGO_URI = process.env.MONGO_URI || "mongodb://127.0.0.1:27017/testseries";
 const PORT = Number(process.env.PORT || 4000);
 const FRONTEND_DIST_DIR = path.resolve(__dirname, "..", "frontend", "dist");
+const BACKEND_DATA_DIR = process.env.BACKEND_DATA_DIR
+	? path.resolve(process.env.BACKEND_DATA_DIR)
+	: path.resolve(__dirname, "data");
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+
+app.use(
+	"/question-images",
+	express.static(path.resolve(BACKEND_DATA_DIR, "images"))
+);
 
 app.get("/health", (_req, res) => {
 	res.json({ status: "ok", service: "test-series-backend" });
