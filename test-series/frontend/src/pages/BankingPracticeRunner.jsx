@@ -395,7 +395,7 @@ export default function BankingPracticeRunner() {
 
   if (sessionResult) {
     return (
-      <div className="banking-runner banking-runner--analysis">
+      <>
         <section className="banking-runner__analysis card">
           <div className="banking-runner__analysisHead">
             <div>
@@ -450,56 +450,12 @@ export default function BankingPracticeRunner() {
             ))}
           </div>
         </section>
-      </div>
+      </>
     );
   }
 
   return (
-    <div className="banking-runner">
-      {!isTestPage ? (
-        <section className="banking-runner__catalog card">
-          <div className="banking-runner__catalogHead">
-            <div>
-              <div className="label">Banking Mock Test</div>
-              <h2>Select a practice set</h2>
-              <p>Launch the imported reasoning set in a Testbook-style live test environment with instructions, timer, palette, and review actions.</p>
-            </div>
-
-            <div className="banking-runner__catalogTabs">
-              {topicList.map((item) => (
-                <button
-                  key={item}
-                  type="button"
-                  className={`banking-runner__catalogTab ${activeTopic === item ? "active" : ""}`}
-                  onClick={() => setActiveTopic(item)}
-                >
-                  {item}
-                </button>
-              ))}
-            </div>
-          </div>
-
-          <div className="banking-runner__setList">
-            {visibleSets.map((setItem, index) => (
-              <article key={setItem.id} className="banking-runner__setCard">
-                <div>
-                  <div className="banking-runner__setTitle">{setItem.title || `Practice Set ${index + 1}`}</div>
-                  <div className="banking-runner__setMeta">
-                    <span>{setItem.questionCount} Questions</span>
-                    <span>Topic: {setItem.topic}</span>
-                    <span>Mode: Live Test Environment</span>
-                  </div>
-                </div>
-
-                <button className="banking-runner__setBtn" type="button" onClick={() => openTest(setItem)}>
-                  Start Test
-                </button>
-              </article>
-            ))}
-          </div>
-        </section>
-      ) : null}
-
+    <>
       {isTestPage && activeTest ? (
         !attemptStarted ? (
           <section className="banking-runner__instructions card">
@@ -710,7 +666,7 @@ export default function BankingPracticeRunner() {
           </section>
         )
       ) : null}
-    </div>
+    </>
   );
 }
 

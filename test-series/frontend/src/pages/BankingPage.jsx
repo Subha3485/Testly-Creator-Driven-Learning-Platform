@@ -16,7 +16,7 @@ const MOCK_MODES = [
     key: "practice",
     title: "Practice Mode",
     description: "Topic-wise Banking Reasoning practice with a per-question stopwatch and local analysis.",
-    href: "/"
+    href: "/banking/practice"
   },
   {
     key: "sectional",

@@ -42,9 +42,21 @@ const PRACTICE_TOPICS = [
 ];
 
 export default function HomePage() {
+  const [selectedSubject, setSelectedSubject] = useState("Reasoning");
+
+  const SUBJECTS = [
+    { key: "english", label: "English", img: "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='200'><rect width='100%' height='100%' fill='%23F3F7FB'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='%231B2C40'>ENG</text></svg>" },
+    { key: "reasoning", label: "Reasoning", img: "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='200'><rect width='100%' height='100%' fill='%23FDF7E6'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='%231B2C40'>REAS</text></svg>" },
+    { key: "quant", label: "Quant", img: "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='200'><rect width='100%' height='100%' fill='%23EEF8FF'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='%231B2C40'>QUANT</text></svg>" }
+  ];
+
   const handleTopicClick = (topic) => {
-    // Navigate to practice runner with selected topic
-    window.location.assign(`/banking/practice/run/test?topic=${topic.name}&mode=practice`);
+    // Open the actual practice page for the selected topic
+    window.location.assign(`/banking/practice/run/test?topic=${encodeURIComponent(topic.name)}&mode=practice`);
+  };
+
+  const handleSelectSubject = (key) => {
+    setSelectedSubject(key === "reasoning" ? "Reasoning" : key === "english" ? "English" : "Quant");
   };
 
   return (
@@ -58,22 +70,45 @@ export default function HomePage() {
           <span className="badge">PRACTICE MODE</span>
         </div>
 
-        <div className="grid cards" style={{ marginTop: 16, gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))' }}>
-          {PRACTICE_TOPICS.map((topic) => (
-            <article key={topic.id} className="card" style={{ cursor: 'pointer', transition: 'all 0.2s' }}>
-              <div className="label" style={{ fontSize: '0.9em' }}>{topic.name}</div>
-              <p style={{ marginTop: 8, fontSize: '0.85em', color: '#666' }}>{topic.questions} questions</p>
-              <button 
-                className="primary" 
-                type="button" 
-                onClick={() => handleTopicClick(topic)}
-                style={{ marginTop: 'auto' }}
-              >
-                Start Practice
-              </button>
-            </article>
+        <div className="subject-selector">
+          {SUBJECTS.map((s) => (
+            <button
+              key={s.key}
+              type="button"
+              className={`subject-btn ${selectedSubject.toLowerCase() === s.label.toLowerCase() ? "active" : ""}`}
+              onClick={() => handleSelectSubject(s.key)}
+            >
+              <img src={s.img} alt={s.label} />
+              <div className="subject-label">{s.label}</div>
+            </button>
           ))}
         </div>
+
+        {selectedSubject === "Reasoning" ? (
+          <div className="grid cards" style={{ marginTop: 16, gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))' }}>
+            {PRACTICE_TOPICS.map((topic) => (
+              <article key={topic.id} className="card" style={{ cursor: 'pointer', transition: 'all 0.2s' }}>
+                <div className="label" style={{ fontSize: '0.9em' }}>{topic.name}</div>
+                <p style={{ marginTop: 8, fontSize: '0.85em', color: '#666' }}>{topic.questions} questions</p>
+                <button 
+                  className="primary" 
+                  type="button" 
+                  onClick={() => handleTopicClick(topic)}
+                  style={{ marginTop: 'auto' }}
+                >
+                  Start Practice
+                </button>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className="banking-runner__empty" style={{ marginTop: 16 }}>
+            <div className="card" style={{ padding: 24 }}>
+              <h3>{selectedSubject} sets are not available yet</h3>
+              <p>You're viewing the {selectedSubject} subject. No practice sets have been added for this subject yet. You can continue to use Reasoning practice sets while we add English and Quant content.</p>
+            </div>
+          </div>
+        )}
       </section>
     </div>
   );

@@ -1,5 +1,6 @@
 
 import TestPage from "./pages/TestPage";
+import HomeDesign from "./pages/HomeDesign";
 import HomePage from "./pages/HomePage";
 import SolutionPage from "./pages/SolutionPage";
 import AdminDashboard from "./admin/AdminDashboard";
@@ -12,8 +13,9 @@ export default function App(){
   const search = window.location.search;
   const isAdmin = path.startsWith("/admin");
   const isSolution = path.startsWith("/solution");
-  const isBankingPracticeRunner = path.startsWith("/banking/practice/run");
-  const isBankingPractice = path.startsWith("/banking/practice") && !isBankingPracticeRunner;
+  const isBankingPracticeRunner = path.startsWith("/banking/practice/run/test");
+  const isBankingPracticeLanding = path === "/banking/practice/run";
+  const isBankingPractice = path.startsWith("/banking/practice") && !isBankingPracticeRunner && !isBankingPracticeLanding;
   const isBanking = path.startsWith("/banking") && !isBankingPractice && !isBankingPracticeRunner;
   const isTest = search.includes("testId");
 
@@ -56,7 +58,8 @@ export default function App(){
       {isBankingPracticeRunner ? <BankingPracticeRunner /> : null}
       {isBankingPractice ? <BankingPracticePage /> : null}
       {isBanking ? <BankingPage /> : null}
-      {!isAdmin && !isSolution && !isBanking && !isBankingPracticeRunner && !isTest ? <HomePage /> : null}
+      {!isAdmin && !isSolution && !isBanking && !isBankingPracticeRunner && path === "/" && !isTest ? <HomeDesign /> : null}
+      {isBankingPracticeLanding ? <HomePage /> : null}
       {!isAdmin && !isSolution && !isBanking && !isBankingPracticeRunner && isTest ? <TestPage /> : null}
     </div>
   );
