@@ -1,0 +1,4573 @@
+[
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_1",
+    "question": "If \n and \n ,then p:q:r, is equal to ?",
+    "question_html": "If <br/> and <br/> ,then p:q:r, is equal to ?<br/>",
+    "questionHtml": "If <br/> and <br/> ,then p:q:r, is equal to ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1:3:1",
+        "html": "1:3:1"
+      },
+      {
+        "id": "B",
+        "text": "1:3:6",
+        "html": "1:3:6"
+      },
+      {
+        "id": "C",
+        "text": "3:1:2",
+        "html": "3:1:2"
+      },
+      {
+        "id": "D",
+        "text": "2:1:3",
+        "html": "2:1:3"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1:3:1",
+      "1:3:6",
+      "3:1:2",
+      "2:1:3",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given, \n … (1)\n\nAnd, \n(multiply by\n\n3 to make q equal) … (2)\n\nSo, Comparing (1) & (2) p:q:r = 1:3:6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If \n and \n ,then p:q:r, is equal to ?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_2",
+    "question": "If 30% of (a + b) = 40% of (a – b), then find a : b",
+    "question_html": "If 30% of (a + b) = 40% of (a – b), then find a : b<br/>",
+    "questionHtml": "If 30% of (a + b) = 40% of (a – b), then find a : b<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7:1",
+        "html": "7:1"
+      },
+      {
+        "id": "B",
+        "text": "1:7",
+        "html": "1:7"
+      },
+      {
+        "id": "C",
+        "text": "3:7",
+        "html": "3:7"
+      },
+      {
+        "id": "D",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7:1",
+      "1:7",
+      "3:7",
+      "1:2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "30% of (a + b) = 40% of (a – b)\n\n3\n 4\n\n3a \n 3b \n 4a \n 4b\n\na \n 7b\n\n a:b \n 7:1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If 30% of (a + b) = 40% of (a – b), then find a : b",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_3",
+    "question": "Find the fourth Proportion of 36, 48, and 72.",
+    "question_html": "Find the fourth Proportion of 36, 48, and 72.<br/>",
+    "questionHtml": "Find the fourth Proportion of 36, 48, and 72.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "84",
+        "html": "84"
+      },
+      {
+        "id": "B",
+        "text": "96",
+        "html": "96"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "84",
+      "96",
+      "18",
+      "24",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the fourth Proportional of 36, 48 and 72 is x\n\nNow, \n\nSo the fourth Proportional of 36, 48 and 72 is 96",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the fourth Proportion of 36, 48, and 72.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_4",
+    "question": "If A is twice of B and C is twice of B then the ratio\n\nof A:B: C is ?",
+    "question_html": "If A is twice of B and C is twice of B then the ratio<br/><br/>of A:B: C is ?<br/>",
+    "questionHtml": "If A is twice of B and C is twice of B then the ratio<br/><br/>of A:B: C is ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 : 2 : 2",
+        "html": "1 : 2 : 2"
+      },
+      {
+        "id": "B",
+        "text": "1 : 1: 2",
+        "html": "1 : 1: 2"
+      },
+      {
+        "id": "C",
+        "text": "2 : 3 : 4",
+        "html": "2 : 3 : 4"
+      },
+      {
+        "id": "D",
+        "text": "1: 2 : 3",
+        "html": "1: 2 : 3"
+      },
+      {
+        "id": "E",
+        "text": "2 : 1 : 2",
+        "html": "2 : 1 : 2<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1 : 2 : 2",
+      "1 : 1: 2",
+      "2 : 3 : 4",
+      "1: 2 : 3",
+      "2 : 1 : 2<br/><br/>"
+    ],
+    "explanation": "A = 2B\n\nA : B = 2 : 1\n\nC = 2B\n\nC : B = 2 : 1\n\nB : C = 1 : 2\n\nA : B : C = 2 : 1 : 2\n\nHence the correct answer is “E”",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If A is twice of B and C is twice of B then the ratio\n\nof A:B: C is ?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_5",
+    "question": "If 4A = 5B = 6C then find the ratio of A : B : C.",
+    "question_html": "If 4A = 5B = 6C then find the ratio of A : B : C.<br/>",
+    "questionHtml": "If 4A = 5B = 6C then find the ratio of A : B : C.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 : 15 : 10",
+        "html": "12 : 15 : 10"
+      },
+      {
+        "id": "B",
+        "text": "10 : 12 : 15",
+        "html": "10 : 12 : 15"
+      },
+      {
+        "id": "C",
+        "text": "15 : 10 : 12",
+        "html": "15 : 10 : 12"
+      },
+      {
+        "id": "D",
+        "text": "15 : 12 : 10",
+        "html": "15 : 12 : 10"
+      },
+      {
+        "id": "E",
+        "text": "16 : 10 : 11",
+        "html": "16 : 10 : 11<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12 : 15 : 10",
+      "10 : 12 : 15",
+      "15 : 10 : 12",
+      "15 : 12 : 10",
+      "16 : 10 : 11<br/><br/>"
+    ],
+    "explanation": "Consider 4A = 5B = 6C = k\n\nA = \n, B = \n, C = \n\nA : B : C = \n : \n : \n\nLCM of 4, 5 and 6 is 60. Consider this as k A : B :\n\nC = \n : \n : \n = 15 : 12 : 10\n\nHence the correct answer is “D”",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If 4A = 5B = 6C then find the ratio of A : B : C.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_6",
+    "question": "If \nWhat is\n\nthe value of x : y ?",
+    "question_html": "If <br/>What is<br/><br/>the value of x : y ?<br/>",
+    "questionHtml": "If <br/>What is<br/><br/>the value of x : y ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "19:163",
+        "html": "19:163"
+      },
+      {
+        "id": "B",
+        "text": "163:19",
+        "html": "163:19"
+      },
+      {
+        "id": "C",
+        "text": "19:63",
+        "html": "19:63"
+      },
+      {
+        "id": "D",
+        "text": "19:47",
+        "html": "19:47"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "19:163",
+      "163:19",
+      "19:63",
+      "19:47",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "65x \n 26y \n 84x \n 189y\n\n19x \n 163y\n\nx:y \n 163:19",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If \nWhat is\n\nthe value of x : y ?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_7",
+    "question": "The ratio of the number of red balls to blue balls\n\nin a bag is 3:5. If there are total 24 balls in the\n\nbag, how many red balls are there?",
+    "question_html": "The ratio of the number of red balls to blue balls<br/><br/>in a bag is 3:5. If there are total 24 balls in the<br/><br/>bag, how many red balls are there?<br/>",
+    "questionHtml": "The ratio of the number of red balls to blue balls<br/><br/>in a bag is 3:5. If there are total 24 balls in the<br/><br/>bag, how many red balls are there?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "15 balls",
+        "html": "15 balls"
+      },
+      {
+        "id": "B",
+        "text": "13 balls",
+        "html": "13 balls"
+      },
+      {
+        "id": "C",
+        "text": "9 balls",
+        "html": "9 balls"
+      },
+      {
+        "id": "D",
+        "text": "10 balls",
+        "html": "10 balls"
+      },
+      {
+        "id": "E",
+        "text": "12 balls",
+        "html": "12 balls<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "15 balls",
+      "13 balls",
+      "9 balls",
+      "10 balls",
+      "12 balls<br/><br/>"
+    ],
+    "explanation": "Let the number of red balls and blue balls in the\n\nbag is 3x and 5x respectively.\n\nThen, according to question\n\n3x + 5x = 24\n\n8x = 24\n\nx = 3\n\nNumber of red balls in the bag = 3x = 3\n 3 = 9\n\nballs",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of the number of red balls to blue balls\n\nin a bag is 3:5. If there are total 24 balls in the\n\nbag, how many red balls are there?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_8",
+    "question": "If a particular number is subtracted from each of\n\n17, 23, 27, and 38, the results of numbers are in\n\nproportion. Find the number to be subtracted.",
+    "question_html": "If a particular number is subtracted from each of<br/><br/>17, 23, 27, and 38, the results of numbers are in<br/><br/>proportion. Find the number to be subtracted.<br/>",
+    "questionHtml": "If a particular number is subtracted from each of<br/><br/>17, 23, 27, and 38, the results of numbers are in<br/><br/>proportion. Find the number to be subtracted.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "5",
+        "html": "5<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5<br/><br/>"
+    ],
+    "explanation": "Let the number to be subtracted is ‘x’\n\nThen, \n\nnumber to be subtracted is 5 and it makes the\n\nnumbers in proportion",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If a particular number is subtracted from each of\n\n17, 23, 27, and 38, the results of numbers are in\n\nproportion. Find the number to be subtracted.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_9",
+    "question": "The salary of Suchi, Anita and Roshni are in ratio\n\n5:7:9, respectively. If the salary of Roshni is Rs.\n\n6,300, then find the sum (in Rs.) of salaries of\n\nSuchi, Anita and Roshni together.",
+    "question_html": "The salary of Suchi, Anita and Roshni are in ratio<br/><br/>5:7:9, respectively. If the salary of Roshni is Rs.<br/><br/>6,300, then find the sum (in Rs.) of salaries of<br/><br/>Suchi, Anita and Roshni together.<br/>",
+    "questionHtml": "The salary of Suchi, Anita and Roshni are in ratio<br/><br/>5:7:9, respectively. If the salary of Roshni is Rs.<br/><br/>6,300, then find the sum (in Rs.) of salaries of<br/><br/>Suchi, Anita and Roshni together.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "14700",
+        "html": "14700"
+      },
+      {
+        "id": "B",
+        "text": "15700",
+        "html": "15700"
+      },
+      {
+        "id": "C",
+        "text": "16700",
+        "html": "16700"
+      },
+      {
+        "id": "D",
+        "text": "13700",
+        "html": "13700"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "14700",
+      "15700",
+      "16700",
+      "13700",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\nRequired sum = \n 6300\n\n= Rs. 14,700\n\nHence, option a.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The salary of Suchi, Anita and Roshni are in ratio\n\n5:7:9, respectively. If the salary of Roshni is Rs.\n\n6,300, then find the sum (in Rs.) of salaries of\n\nSuchi, Anita and Roshni together.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_10",
+    "question": "The ratio of first to second number is 2:3 and\n\nratio of second to third number is 5:8. Sum of all\n\nthree numbers is 1176. Find the third number.",
+    "question_html": "The ratio of first to second number is 2:3 and<br/><br/>ratio of second to third number is 5:8. Sum of all<br/><br/>three numbers is 1176. Find the third number.<br/>",
+    "questionHtml": "The ratio of first to second number is 2:3 and<br/><br/>ratio of second to third number is 5:8. Sum of all<br/><br/>three numbers is 1176. Find the third number.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "434",
+        "html": "434"
+      },
+      {
+        "id": "B",
+        "text": "322",
+        "html": "322"
+      },
+      {
+        "id": "C",
+        "text": "576",
+        "html": "576"
+      },
+      {
+        "id": "D",
+        "text": "400",
+        "html": "400"
+      },
+      {
+        "id": "E",
+        "text": "350",
+        "html": "350<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "434",
+      "322",
+      "576",
+      "400",
+      "350<br/><br/>"
+    ],
+    "explanation": "Let the three numbers be A,B and C.\n\nThen according to question,\n\nA : B = 2:3………(i)\n\nB : C = 5:8……….(ii)\n\nTo make ratio of B equal in both equations\n\nmultiply (i) by 5 and (ii) by 3\n\nA : B = 10 : 15\n\np =\nq =>\n=\n1\n3\n\np\nq\n\n1\n3\n\nq =\nr =>\n=\nor\n=\n1\n2\n\nq\nr\n\n1\n2\n\nq\nr\n\n3\n6\n\n⇒30\n100 (a + b) = 40\n100 (a − b)\n⇒(a + b) = (a − b)\n⇒\n+\n=\n−\n⇒=\n⇒a\nb = 7\n1\n\n⇒\n=\n\n=\n36\n48\n\n72\nx\n\n⇒x × 36 = 72 × 48\n⇒x = 96\n\nk\n4\n\nk\n5\n\nk\n6\n\nk\n4\n\nk\n5\n\nk\n6\n\n60\n4\n\n60\n5\n\n60\n6\n\n⇒\n5x + 2y\n4x + 9y = 21\n13\n\n⇒\n+\n=\n+\n⇒\n=\n\n⇒x\ny = 163\n19\n\n⇒\n=\n\n×\n\n=\n17−x\n23−x\n\n27−x\n38−x\n\n⇒(17 −x) (38 −x) = (27 −x) (23 −x)\n⇒646 −17x −38x +\n= 621 −27x\nx2\n\n−23x + x2\n⇒646 −55x = 621 −50x\n⇒25 = 5x\n⇒5 = x\n\n⇒\n=\n17−x\n23−x\n\n27−x\n38−x\n\n⇒\n=\n17−5\n23−5\n\n27−5\n38−5\n\n⇒\n=\n12\n18\n\n22\n33\n\n⇒\n=\n2\n3\n\n2\n3\n\n(5 + 7 + 9)\n9\n×\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of first to second number is 2:3 and\n\nratio of second to third number is 5:8. Sum of all\n\nthree numbers is 1176. Find the third number.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_11",
+    "question": "The flight fare between two cities is increased in\n\nthe ratio 9:11. What is the increase (in Rs) in the\n\nfare, if the original fare was Rs.18,000?",
+    "question_html": "<b>T</b>he flight fare between two cities is increased in<br/><br/>the ratio 9:11. What is the increase (in Rs) in the<br/><br/>fare, if the original fare was Rs.18,000<b>?</b><br/>",
+    "questionHtml": "<b>T</b>he flight fare between two cities is increased in<br/><br/>the ratio 9:11. What is the increase (in Rs) in the<br/><br/>fare, if the original fare was Rs.18,000<b>?</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8800",
+        "html": "8800"
+      },
+      {
+        "id": "B",
+        "text": "5600",
+        "html": "5600"
+      },
+      {
+        "id": "C",
+        "text": "4000",
+        "html": "4000"
+      },
+      {
+        "id": "D",
+        "text": "9900",
+        "html": "9900"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "8800",
+      "5600",
+      "4000",
+      "9900",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Original price/price after increase = \n\n18000/price after increase = \n\nprice after increase = 22,000\n\nPrice increase = 22000 – 18000 = 4000",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The flight fare between two cities is increased in\n\nthe ratio 9:11. What is the increase (in Rs) in the\n\nfare, if the original fare was Rs.18,000?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_12",
+    "question": "The ratio of monthly income of Riya and Supriya\n\nis 5:7 and that of their monthly expenditure is\n\n7:10. If the income of Riya is equal to expenditure\n\nof Supriya then what is the ratio of saving of Riya\n\nand Supriya?",
+    "question_html": "The ratio of monthly income of Riya and Supriya<br/><br/>is 5:7 and that of their monthly expenditure is<br/><br/>7:10. If the income of Riya is equal to expenditure<br/><br/>of Supriya then what is the ratio of saving of Riya<br/><br/>and Supriya?<br/>",
+    "questionHtml": "The ratio of monthly income of Riya and Supriya<br/><br/>is 5:7 and that of their monthly expenditure is<br/><br/>7:10. If the income of Riya is equal to expenditure<br/><br/>of Supriya then what is the ratio of saving of Riya<br/><br/>and Supriya?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "B",
+        "text": "4:3",
+        "html": "4:3"
+      },
+      {
+        "id": "C",
+        "text": "3:4",
+        "html": "3:4"
+      },
+      {
+        "id": "D",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "E",
+        "text": "5:3",
+        "html": "5:3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2:3",
+      "4:3",
+      "3:4",
+      "3:2",
+      "5:3<br/><br/>"
+    ],
+    "explanation": "Let the income of Riya and Supriya be 5x and 7x\n\nlet the expenditure of Riya and Supriya be 7y\n\nand 10y\n\nAccording to the question,\n\n5x = 10y \n x = 2y.\n\nRatio \nof \nsaving \nof \nRiya \nand \nSupriya",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of monthly income of Riya and Supriya\n\nis 5:7 and that of their monthly expenditure is\n\n7:10. If the income of Riya is equal to expenditure\n\nof Supriya then what is the ratio of saving of Riya\n\nand Supriya?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_13",
+    "question": "Ratio & Proportions\n\nLevel-1\n\np =\nq\n1\n3\nq =\nr\n1\n2\n\n(5x + 2y) : (4x + 9y) = 21 : 13,",
+    "question_html": "<b>Ratio &amp; Proportions</b><br/><br/><b>Level-1</b><br/><br/>p =<br/>q<br/>1<br/>3<br/>q =<br/>r<br/>1<br/>2<br/><br/>(5x + 2y) : (4x + 9y) = 21  : 13,  ",
+    "questionHtml": "<b>Ratio &amp; Proportions</b><br/><br/><b>Level-1</b><br/><br/>p =<br/>q<br/>1<br/>3<br/>q =<br/>r<br/>1<br/>2<br/><br/>(5x + 2y) : (4x + 9y) = 21  : 13,  ",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let the price of a bed and a table be Rs. 9M and\n\nRs. 7M respectively.\n\nAccording to the question,\n\nThe average price of two beds and a table is Rs.\n\n60,000\n\n = 60,000\n\n 18M + 7M = 1,80,000\n\n M = 7,200\n\n Price of a bed = 9\n7,200 = Rs. 64,800\n\n Price of a table = 7\n7,200 = Rs.50,400\n\n∴ Required sum = 64,800 + 50,400 = Rs. 1,15,200\n\nHence, “Rs. 1,15,200” is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Ratio & Proportions\n\nLevel-1\n\np =\nq\n1\n3\nq =\nr\n1\n2\n\n(5x + 2y) : (4x + 9y) = 21 : 13,",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_14",
+    "question": "The ratio of three numbers is 3:5:9 and sum of\n\ntheir squares is 4140. Find the sum of the\n\nnumbers.",
+    "question_html": "The ratio of three numbers is 3:5:9 and sum of<br/><br/>their squares is 4140. Find the sum of the<br/><br/>numbers.<br/>",
+    "questionHtml": "The ratio of three numbers is 3:5:9 and sum of<br/><br/>their squares is 4140. Find the sum of the<br/><br/>numbers.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "112",
+        "html": "112"
+      },
+      {
+        "id": "B",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "C",
+        "text": "102",
+        "html": "102"
+      },
+      {
+        "id": "D",
+        "text": "92",
+        "html": "92"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "112",
+      "100",
+      "102",
+      "92",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The ratio of three numbers is 3:5:9\n\nLet the numbers be 3x, 5x and 9x\n\nTheir squares will be 9\n, 25\n and 81\n\nSum \nof \ntheir \nsquares \nis\n\nSum of the numbers is",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of three numbers is 3:5:9 and sum of\n\ntheir squares is 4140. Find the sum of the\n\nnumbers.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_15",
+    "question": "The total number of students in a school is 1680\n\nin which the number of girls is 360 less than the\n\nnumber of boys. Find the respective ratio\n\nbetween the number of boys and the number of\n\ngirls.",
+    "question_html": "The total number of students in a school is 1680<br/><br/>in which the number of girls is 360 less than the<br/><br/>number of boys. Find the respective ratio<br/><br/>between the number of boys and the number of<br/><br/>girls.<br/>",
+    "questionHtml": "The total number of students in a school is 1680<br/><br/>in which the number of girls is 360 less than the<br/><br/>number of boys. Find the respective ratio<br/><br/>between the number of boys and the number of<br/><br/>girls.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the total number of boys in the school be \n\nTotal number of girls in the school \n\nAccording to the question,\n\nNumber of girls \n\nRequired ratio = 1020 : 660\n\nOption ‘17:11’ is the correct answer",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The total number of students in a school is 1680\n\nin which the number of girls is 360 less than the\n\nnumber of boys. Find the respective ratio\n\nbetween the number of boys and the number of\n\ngirls.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_16",
+    "question": "The ratio of three numbers A, B and C is 13:17:23\n\nand their sum is 265. Find the ratio between the\n\nsum of A and B to the difference of C and B?",
+    "question_html": "The ratio of three numbers A, B and C is 13:17:23<br/><br/>and their sum is 265. Find the ratio between the<br/><br/>sum of A and B to the difference of C and B?<br/>",
+    "questionHtml": "The ratio of three numbers A, B and C is 13:17:23<br/><br/>and their sum is 265. Find the ratio between the<br/><br/>sum of A and B to the difference of C and B?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:1",
+        "html": "5:1"
+      },
+      {
+        "id": "B",
+        "text": "1:5",
+        "html": "1:5"
+      },
+      {
+        "id": "C",
+        "text": "2:5",
+        "html": "2:5"
+      },
+      {
+        "id": "D",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5:1",
+      "1:5",
+      "2:5",
+      "3:2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The ratio of three numbers A, B and C is 13:17:23\n\nand their sum is 265\n\nLet A \n 13x\n\nB \n 17x\n\nC \n 23x\n\nAnd \n\nSo A\n 13x \n 65\n\nB \n 17x \n 85\n\nC \n 23x \n 115\n\nratio between the sum of A and B to the\n\ndifference of C and B",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of three numbers A, B and C is 13:17:23\n\nand their sum is 265. Find the ratio between the\n\nsum of A and B to the difference of C and B?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_17",
+    "question": "The ratio of the incomes of M to N is 8:11. If each\n\nsaves Rs. 6000, the ratio of expenditure of M to\n\nN becomes 5:8. Find the income of M.",
+    "question_html": "The ratio of the incomes of M to N is 8:11. If each<br/><br/>saves Rs. 6000, the ratio of expenditure of M to<br/><br/>N becomes 5:8. Find the income of M.<br/>",
+    "questionHtml": "The ratio of the incomes of M to N is 8:11. If each<br/><br/>saves Rs. 6000, the ratio of expenditure of M to<br/><br/>N becomes 5:8. Find the income of M.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 16000",
+        "html": "Rs. 16000"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 18000",
+        "html": "Rs. 18000"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 10000",
+        "html": "Rs. 10000"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 12000",
+        "html": "Rs. 12000"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 16000",
+      "Rs. 18000",
+      "Rs. 10000",
+      "Rs. 12000",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1176\n\n49\n\n×\n\n9\n\n11\n\n9\n\n11\n\n⇒\n\n= (5x −7y) : (7x −10y)\n= (10y −7y) : (14y −10y)\n= 3 : 4\n\n sum of all the observations\n\ntotal number of observations\n\n2 × 9M + 7M\n\n3\n\n×\n\n×\n\nx2\nx2\nx2\n\n9\n+ 25\n+ 81\n= 4140\nx2\nx2\nx2\n\n⇒115\n= 4140\nx2\n\n⇒\n= 36\nx2\n\n⇒\n= 6\nx\n\n3x + 5x + 9x = 17x\n\n⇒17x = 17 × 6\n⇒ 102\n\nx.\n\n= x – 360\n\nx + (x – 360) = 1680\n2x = 1680 + 360\nx =\n = 1020\n2040\n\n2\n\n= 1020 – 360 = 660\n\n=\n = 17 : 11\n1020\n\n660\n\n=\n\n=\n\n=\n\n13x + 17x + 23x = 265\n\n53x = 265\nx = 5\n\n=\n⇒\n\n=\n⇒\n\n=\n⇒\n\n⇒A+B\n\nC−B\n\n⇒65+85\n\n115−85\n\n⇒5\n\n1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of the incomes of M to N is 8:11. If each\n\nsaves Rs. 6000, the ratio of expenditure of M to\n\nN becomes 5:8. Find the income of M.",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_18",
+    "question": "The ratio of the income of Utkarsh and Radhika is\n\n4:3 and the ratio of their expenditures is 3:2. If at\n\nthe end of the year, each saves Rs 2500, then the\n\nrespective income of each will be:",
+    "question_html": "The ratio of the income of Utkarsh and Radhika is<br/><br/>4:3 and the ratio of their expenditures is 3:2. If at<br/><br/>the end of the year, each saves Rs 2500, then the<br/><br/>respective income of each will be:<br/>",
+    "questionHtml": "The ratio of the income of Utkarsh and Radhika is<br/><br/>4:3 and the ratio of their expenditures is 3:2. If at<br/><br/>the end of the year, each saves Rs 2500, then the<br/><br/>respective income of each will be:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 10000 , Rs 7500",
+        "html": "Rs 10000 , Rs 7500"
+      },
+      {
+        "id": "B",
+        "text": "Rs 9500, Rs 7000",
+        "html": "Rs 9500, Rs 7000"
+      },
+      {
+        "id": "C",
+        "text": "Rs 7500, Rs 10000",
+        "html": "Rs 7500, Rs 10000"
+      },
+      {
+        "id": "D",
+        "text": "Rs 7000, Rs 9500",
+        "html": "Rs 7000, Rs 9500"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 10000 , Rs 7500",
+      "Rs 9500, Rs 7000",
+      "Rs 7500, Rs 10000",
+      "Rs 7000, Rs 9500",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\n1 unit = 2500.\n\nSo, \nthe \nincome \nof \nUtkarsh\n\nAnd \nthe \nincome \nof \nRadhika",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of the income of Utkarsh and Radhika is\n\n4:3 and the ratio of their expenditures is 3:2. If at\n\nthe end of the year, each saves Rs 2500, then the\n\nrespective income of each will be:",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_19",
+    "question": "The income of A, B, and C are in the ratio of 3:5:7\n\nand their expenditures are in the ratio of 5:7:9. If\n\nA saves 66.66% of his income. Find the ratio of C\n\nsavings to that of B savings.",
+    "question_html": "The income of A, B, and C are in the ratio of 3:5:7<br/><br/>and their expenditures are in the ratio of 5:7:9. If<br/><br/>A saves 66.66% of his income. Find the ratio of C<br/><br/>savings to that of B savings.<br/>",
+    "questionHtml": "The income of A, B, and C are in the ratio of 3:5:7<br/><br/>and their expenditures are in the ratio of 5:7:9. If<br/><br/>A saves 66.66% of his income. Find the ratio of C<br/><br/>savings to that of B savings.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "26:19",
+        "html": "26:19"
+      },
+      {
+        "id": "B",
+        "text": "17:24",
+        "html": "17:24"
+      },
+      {
+        "id": "C",
+        "text": "13:9",
+        "html": "13:9"
+      },
+      {
+        "id": "D",
+        "text": "24:17",
+        "html": "24:17"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "26:19",
+      "17:24",
+      "13:9",
+      "24:17",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the incomes of A, B and C are 3x , 5x ,7x.\n\nAnd \ntheir \nexpenditures \nare \n5y, \n7y \n,9y\n\nrespectively.\n\nATQ, A saving's = 66.66% of A's income\n\nSo, the ratio of C saving’s to that of B saving’s",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The income of A, B, and C are in the ratio of 3:5:7\n\nand their expenditures are in the ratio of 5:7:9. If\n\nA saves 66.66% of his income. Find the ratio of C\n\nsavings to that of B savings.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_20",
+    "question": "The students in 3 classes are in the ratio 3:4:5. If\n\n20 students are added in each class, the ratio\n\nbecomes 5:6:7. Find the total number of students\n\nin all the 3 classes now.",
+    "question_html": "The students in 3 classes are in the ratio 3:4:5. If<br/><br/>20 students are added in each class, the ratio<br/><br/>becomes 5:6:7. Find the total number of students<br/><br/>in all the 3 classes now.<br/>",
+    "questionHtml": "The students in 3 classes are in the ratio 3:4:5. If<br/><br/>20 students are added in each class, the ratio<br/><br/>becomes 5:6:7. Find the total number of students<br/><br/>in all the 3 classes now.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "200",
+        "html": "200"
+      },
+      {
+        "id": "B",
+        "text": "180",
+        "html": "180"
+      },
+      {
+        "id": "C",
+        "text": "160",
+        "html": "160"
+      },
+      {
+        "id": "D",
+        "text": "175",
+        "html": "175"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\n 17 : 21\n\n 17 : 12\n 17 : 11\n 13 : 11",
+        "html": "None of these<br/><br/> 17  :  21<br/><br/> 17  :  12<br/> 17  :  11<br/> 13  :  11"
+      }
+    ],
+    "optionsHtml": [
+      "200",
+      "180",
+      "160",
+      "175",
+      "None of these<br/><br/> 17  :  21<br/><br/> 17  :  12<br/> 17  :  11<br/> 13  :  11"
+    ],
+    "explanation": "According to the question,\n\n = \n\n18x + 120 = 20x + 100\n\n2x = 20\n\nX = 10\n\nRequired total number of students = (5 + 6 + 7) \n\n10 = 180\n\n= Rs 4 × 2500 = Rs 10000\n\n= Rs 3 × 2500 = Rs 7500\n\n⇒(3x −5y) =\n× 3x\n2\n3\n\n⇒(3x −5y) = 2x\n⇒(3x −2x) = 5y\n⇒x = 5y\n\n= (7x −9y) : (5x −7y)\n= (35y −9y) : (25y −7y) := 26y : 18y\n= 13 : 9.\n\n3x+20\n4x+20\n\n5\n6\n\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The students in 3 classes are in the ratio 3:4:5. If\n\n20 students are added in each class, the ratio\n\nbecomes 5:6:7. Find the total number of students\n\nin all the 3 classes now.",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_21",
+    "question": "Salaries of akash, bablu and chintu are in the\n\nratio of 2:3:5 . If their salaries were increased by\n\n15% , 10% and 20% respectively, then what\n\nwould be the new ratio of their salaries?",
+    "question_html": "Salaries of akash, bablu and chintu are in the<br/><br/>ratio of 2:3:5 . If their salaries were increased by<br/><br/>15% , 10% and 20% respectively, then what<br/><br/>would be the new ratio of their salaries?<br/>",
+    "questionHtml": "Salaries of akash, bablu and chintu are in the<br/><br/>ratio of 2:3:5 . If their salaries were increased by<br/><br/>15% , 10% and 20% respectively, then what<br/><br/>would be the new ratio of their salaries?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:3:10",
+        "html": "3:3:10"
+      },
+      {
+        "id": "B",
+        "text": "23:33:60",
+        "html": "23:33:60"
+      },
+      {
+        "id": "C",
+        "text": "20:22:40",
+        "html": "20:22:40"
+      },
+      {
+        "id": "D",
+        "text": "1:2:3",
+        "html": "1:2:3"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3:3:10",
+      "23:33:60",
+      "20:22:40",
+      "1:2:3",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the salaries of Akash, Bablu, and Chintu will\n\nbe 2x, 3x, and 5x respectively.\n\nAfter 15% increase in Akash's salary = 15 \n =\n\n0.3x\n\nNew salary = 2x + 0.3x = 2.3x\n\nNew salary of Bablu = 3x + 10 \n = 3.3x\n\nNew salary of Chintu = 5x + 20\n = 6x\n\nNew ratio = 2.3x : 3.3x : 6x = 23:33:60",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Salaries of akash, bablu and chintu are in the\n\nratio of 2:3:5 . If their salaries were increased by\n\n15% , 10% and 20% respectively, then what\n\nwould be the new ratio of their salaries?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_22",
+    "question": "Two numbers are 40% and 60% more than the\n\nthird number respectively. Find the ratio of\n\ndifference between the two numbers and the\n\nthird number.",
+    "question_html": "Two numbers are 40% and 60% more than the<br/><br/>third number respectively. Find the ratio of<br/><br/>difference between the two numbers and the<br/><br/>third number.<br/>",
+    "questionHtml": "Two numbers are 40% and 60% more than the<br/><br/>third number respectively. Find the ratio of<br/><br/>difference between the two numbers and the<br/><br/>third number.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 : 5",
+        "html": "1 : 5"
+      },
+      {
+        "id": "B",
+        "text": "2 : 3",
+        "html": "2 : 3"
+      },
+      {
+        "id": "C",
+        "text": "3 : 7",
+        "html": "3 : 7"
+      },
+      {
+        "id": "D",
+        "text": "7 : 2",
+        "html": "7 : 2"
+      },
+      {
+        "id": "E",
+        "text": "1 : 2",
+        "html": "1 : 2<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1 : 5",
+      "2 : 3",
+      "3 : 7",
+      "7 : 2",
+      "1 : 2<br/><br/>"
+    ],
+    "explanation": "Let the third number be x\n\nThen first number will be \n = \n\nAnd second number will be \n = \n\nDifference of two numbers = \n – \n = \n\nRequired ratio = \n = \n\n= 1 : 5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Two numbers are 40% and 60% more than the\n\nthird number respectively. Find the ratio of\n\ndifference between the two numbers and the\n\nthird number.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_23",
+    "question": "If the price of a diamond, which costs Rs. 15000\n\nand weighs 70 grams, is determined by the\n\nsquare of its weight and it is cut into two pieces\n\nin the ratio of 3 : 7, what is the loss incurred?",
+    "question_html": "If the price of a diamond, which costs Rs. 15000<br/><br/>and weighs 70 grams, is determined by the<br/><br/>square of its weight and it is cut into two pieces<br/><br/>in the ratio of 3 : 7, what is the loss incurred?<br/>",
+    "questionHtml": "If the price of a diamond, which costs Rs. 15000<br/><br/>and weighs 70 grams, is determined by the<br/><br/>square of its weight and it is cut into two pieces<br/><br/>in the ratio of 3 : 7, what is the loss incurred?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs.6600",
+        "html": "Rs.6600"
+      },
+      {
+        "id": "B",
+        "text": "Rs.6500",
+        "html": "Rs.6500"
+      },
+      {
+        "id": "C",
+        "text": "Rs.6400",
+        "html": "Rs.6400"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 6300",
+        "html": "Rs. 6300"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs.6600",
+      "Rs.6500",
+      "Rs.6400",
+      "Rs. 6300",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "New ratio is 3 ∶ 7.\n\nThe price of the diamond before broken is Rs.\n\n15000.\n\nLet the weight of each piece of diamond be 3x\n\nand 7x.\n\nTotal weight of diamond = 3x + 7x = 10x\n\nCost of the diamond = (10x) = 100x\n\nCost of first piece = (3x) = 9x\n\nCost of second piece = (7x) = 49x\n\nTotal cost of diamond after weight = 9x + 49x =\n\n58x\n\n⇒New cost = 58x\n\nAccording to the question,\n\n100x = 15000\n\n⇒x = 150\n\nThe loss in the price of diamond after broken =\n\n100x – 58x\n\n⇒The required loss = 42x\n\n⇒150\n42\n\n⇒Rs.6300\n\n∴ The loss in the price of the diamond after\n\nbreaking is Rs.6300.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "If the price of a diamond, which costs Rs. 15000\n\nand weighs 70 grams, is determined by the\n\nsquare of its weight and it is cut into two pieces\n\nin the ratio of 3 : 7, what is the loss incurred?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_24",
+    "question": "The ratio of the first and second-class fares\n\nbetween the two stations is 7 : 3 and the number\n\nof passengers travelling by first and second-class\n\nis 4 : 6. If Rs. 46000 is collected as fare, what is\n\nthe amount collected from first class passengers?",
+    "question_html": "The ratio of the first and second-class fares<br/><br/>between the two stations is 7 : 3 and the number<br/><br/>of passengers travelling by first and second-class<br/><br/>is 4 : 6. If Rs. 46000 is collected as fare, what is<br/><br/>the amount collected from first class passengers?<br/>",
+    "questionHtml": "The ratio of the first and second-class fares<br/><br/>between the two stations is 7 : 3 and the number<br/><br/>of passengers travelling by first and second-class<br/><br/>is 4 : 6. If Rs. 46000 is collected as fare, what is<br/><br/>the amount collected from first class passengers?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs.27600",
+        "html": "Rs.27600"
+      },
+      {
+        "id": "B",
+        "text": "Rs.29900",
+        "html": "Rs.29900"
+      },
+      {
+        "id": "C",
+        "text": "Rs.28000",
+        "html": "Rs.28000"
+      },
+      {
+        "id": "D",
+        "text": "Rs.29000",
+        "html": "Rs.29000"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs.27600",
+      "Rs.29900",
+      "Rs.28000",
+      "Rs.29000",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Ratio of amount collected from first and second\n\nclass = 7\n4 : 3\n6\n\n=> 28 : 18 = 14 : 9\n\nLet amount collected from first and second class\n\nbe 14x and 9x respectively,\n\nAccording to question,\n\n14x + 9x = 46000\n\n23x = 46000\n\nx = 2000\n\nAmount collected from first class passengers = 14\n\n 2000\n\n=> Rs.28000",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The ratio of the first and second-class fares\n\nbetween the two stations is 7 : 3 and the number\n\nof passengers travelling by first and second-class\n\nis 4 : 6. If Rs. 46000 is collected as fare, what is\n\nthe amount collected from first class passengers?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_25",
+    "question": "The expenditure ratio of A, B and C is 16: 12: 9. If\n\nthey save 20%, 25% and 40% of their income\n\nrespectively. If the total income of A, B and C is\n\nRs. 10200. Then find the income of A.",
+    "question_html": "The expenditure ratio of A, B and C is 16: 12: 9. If<br/><br/>they save 20%, 25% and 40% of their income<br/><br/>respectively. If the total income of A, B and C is<br/><br/>Rs. 10200. Then find the income of A.<br/>",
+    "questionHtml": "The expenditure ratio of A, B and C is 16: 12: 9. If<br/><br/>they save 20%, 25% and 40% of their income<br/><br/>respectively. If the total income of A, B and C is<br/><br/>Rs. 10200. Then find the income of A.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2000",
+        "html": "2000"
+      },
+      {
+        "id": "B",
+        "text": "3000",
+        "html": "3000"
+      },
+      {
+        "id": "C",
+        "text": "4000",
+        "html": "4000"
+      },
+      {
+        "id": "D",
+        "text": "5000",
+        "html": "5000"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2000",
+      "3000",
+      "4000",
+      "5000",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let income of A, B and C be x, y and z\n\nrespectively.\n\n20% = \n, 25% =\n and 40% =\n\nHence, savings of A, B and C will be \n, \n and\n.\n\nNow, expenditure of \n\nExpenditure of \n\nExpenditure of \n\nAccording to question\n\n= 16: 12\n\n=16:12\n\n⇒x : y= 5 : 4 ----(1)\n\nAnd, \n\ny:z=16:15----(2)\n\nCombining (1) and (2), we get\n\nx : y : z = 20 : 16: 15\n\nGiven That total income of A ,B and C are =10200\n\n∴ Income of A =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The expenditure ratio of A, B and C is 16: 12: 9. If\n\nthey save 20%, 25% and 40% of their income\n\nrespectively. If the total income of A, B and C is\n\nRs. 10200. Then find the income of A.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_26",
+    "question": "In the income statement of Ashu and Ravi, the\n\nratio of their income in the year 2019 was 5: 4.\n\nThe proportion of Ashu’s income in the year\n\n2020 to that in 2019 is 3: 5 and the ratio of Ravi’s\n\nincome in the year 2019 to that in 2020 is 2: 3. If\n\nthe sum of the payment of Ashu and Ravi in the\n\nyear 2020 is Rs. 10242, then find the income of\n\nRavi in the year 2019.",
+    "question_html": "In the income statement of Ashu and Ravi, the<br/><br/>ratio of their income in the year 2019 was 5: 4.<br/><br/>The proportion of Ashu’s income in the year<br/><br/>2020 to that in 2019 is 3: 5 and the ratio of Ravi’s<br/><br/>income in the year 2019 to that in 2020 is 2: 3. If<br/><br/>the sum of the payment of Ashu and Ravi in the<br/><br/>year 2020 is Rs. 10242, then find the income of<br/><br/>Ravi in the year 2019.<br/>",
+    "questionHtml": "In the income statement of Ashu and Ravi, the<br/><br/>ratio of their income in the year 2019 was 5: 4.<br/><br/>The proportion of Ashu’s income in the year<br/><br/>2020 to that in 2019 is 3: 5 and the ratio of Ravi’s<br/><br/>income in the year 2019 to that in 2020 is 2: 3. If<br/><br/>the sum of the payment of Ashu and Ravi in the<br/><br/>year 2020 is Rs. 10242, then find the income of<br/><br/>Ravi in the year 2019.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 1024",
+        "html": "Rs. 1024"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 1138",
+        "html": "Rs. 1138"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 2776",
+        "html": "Rs. 2776"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 2420",
+        "html": "Rs. 2420"
+      },
+      {
+        "id": "E",
+        "text": "Rs. 4552",
+        "html": "Rs. 4552<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 1024",
+      "Rs. 1138",
+      "Rs. 2776",
+      "Rs. 2420",
+      "Rs. 4552<br/><br/>"
+    ],
+    "explanation": "Let the income of Ashu in 2020 and 2019 be 3x\n\nand 5x respectively.\n\nLet the income of Ravi in 2020 and 2019 be 3y\n\nand 2y respectively\n\nSince, the ratio of their income in the year 2019\n\nwas 5 : 4\n\n×\n2x\n\n100\n\n× 3x\n\n100\n\n× 5x\n\n100\n\n140x\n\n100\n\n7x\n\n5\n\n160x\n\n100\n\n8x\n\n5\n\n8x\n\n5\n\n7x\n\n5\n\nx\n\n5\nx\n\n5\n\nx\n\n1\n\n×\nx\n\n5\n\n1\n\nx\n\n2\n2\n\n2\n2\n\n2\n2\n\n2\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n2\n\n2\n\n×\n\n×\n×\n\n×\n\n1\n5\n\n1\n4\n\n2\n5\n\nx\n\n5\n\ny\n4\n\n2z\n\n5\n\nA = x − \n=\nx\n\n5\n\n4x\n\n5\n\nB = y − \n=\n\ny\n4\n\n3y\n\n4\n\nC = z − \n=\n2z\n\n5\n\n3z\n\n5\n\n:\n4x\n\n5\n\n3y\n\n4\n\n16x\n\n15y\n\n :\n= 12 : 9\n\n3y\n\n4\n\n3z\n\n5\n\n:\n= 4 : 3\n\n3y\n\n4\n\n3z\n\n5\n\n (\n) × 10200 = Rs. 4000.\n20\n51\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In the income statement of Ashu and Ravi, the\n\nratio of their income in the year 2019 was 5: 4.\n\nThe proportion of Ashu’s income in the year\n\n2020 to that in 2019 is 3: 5 and the ratio of Ravi’s\n\nincome in the year 2019 to that in 2020 is 2: 3. If\n\nthe sum of the payment of Ashu and Ravi in the\n\nyear 2020 is Rs. 10242, then find the income of\n\nRavi in the year 2019.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_27",
+    "question": "Meesha went to an ice cream parlor and ordered\n\n2 Cornetto double chocolate frozen desserts for\n\nRs 40 each. She gave the owner a 200 Rs note.\n\nThe owner gave the balance money in coins of Rs\n\n1, Rs 2, and Rs 5 in the ratio 3:6:5. Find the\n\nnumber of 2 Rs coins she got.",
+    "question_html": "Meesha went to an ice cream parlor and ordered<br/><br/>2 Cornetto double chocolate frozen desserts for<br/><br/>Rs 40 each. She gave the owner a 200 Rs note.<br/><br/>The owner gave the balance money in coins of Rs<br/><br/>1, Rs 2, and Rs 5 in the ratio 3:6:5. Find the<br/><br/>number of 2 Rs coins she got.<br/>",
+    "questionHtml": "Meesha went to an ice cream parlor and ordered<br/><br/>2 Cornetto double chocolate frozen desserts for<br/><br/>Rs 40 each. She gave the owner a 200 Rs note.<br/><br/>The owner gave the balance money in coins of Rs<br/><br/>1, Rs 2, and Rs 5 in the ratio 3:6:5. Find the<br/><br/>number of 2 Rs coins she got.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24",
+      "12",
+      "18",
+      "30",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total \namount \nof \n2 \nCornetto\n\nAmount \nleft \nwith \nMeesha\n\nRatio of Rs1, Rs2 and Rs5\n\nRatio of amount of coins\n\nATQ, \n\nSo, the number of Rs 2 coins",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Meesha went to an ice cream parlor and ordered\n\n2 Cornetto double chocolate frozen desserts for\n\nRs 40 each. She gave the owner a 200 Rs note.\n\nThe owner gave the balance money in coins of Rs\n\n1, Rs 2, and Rs 5 in the ratio 3:6:5. Find the\n\nnumber of 2 Rs coins she got.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_28",
+    "question": "The ratio of income of P to that of Q is 1:3. If P\n\nand Q saves Rs 2400 and Rs 6400 respectively\n\nand the expenditure of P is equal to 42.85% of\n\nthe expenditure of Q then the two-third of the\n\ntotal income of P and Q is?",
+    "question_html": "The ratio of income of P to that of Q is 1:3. If P<br/><br/>and Q saves Rs 2400 and Rs 6400 respectively<br/><br/>and the expenditure of P is equal to 42.85% of<br/><br/>the expenditure of Q then the two-third of the<br/><br/>total income of P and Q is?<br/>",
+    "questionHtml": "The ratio of income of P to that of Q is 1:3. If P<br/><br/>and Q saves Rs 2400 and Rs 6400 respectively<br/><br/>and the expenditure of P is equal to 42.85% of<br/><br/>the expenditure of Q then the two-third of the<br/><br/>total income of P and Q is?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4200",
+        "html": "4200"
+      },
+      {
+        "id": "B",
+        "text": "2400",
+        "html": "2400"
+      },
+      {
+        "id": "C",
+        "text": "4800",
+        "html": "4800"
+      },
+      {
+        "id": "D",
+        "text": "3200",
+        "html": "3200"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4200",
+      "2400",
+      "4800",
+      "3200",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the income of P and Q be x and 3x\n\nrespectively.\n\nATQ, \n\nSo, \nthe \ntotal \nincome \nof \nP \nand \nQ \nis\n\nSo, \ntwo-third \nof \ntotal \nincome",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The ratio of income of P to that of Q is 1:3. If P\n\nand Q saves Rs 2400 and Rs 6400 respectively\n\nand the expenditure of P is equal to 42.85% of\n\nthe expenditure of Q then the two-third of the\n\ntotal income of P and Q is?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_29",
+    "question": "The ratio of expenditure of A, B and C is 18:20:28\n\nand their total income is Rs 1309. Find the total\n\nincome of A if they save 14.28%, 16.66% and\n\n12.5% of their incomes?",
+    "question_html": "The ratio of expenditure of A, B and C is 18:20:28<br/><br/>and their total income is Rs 1309. Find the total<br/><br/>income of A if they save 14.28%, 16.66% and<br/><br/>12.5% of their incomes?<br/>",
+    "questionHtml": "The ratio of expenditure of A, B and C is 18:20:28<br/><br/>and their total income is Rs 1309. Find the total<br/><br/>income of A if they save 14.28%, 16.66% and<br/><br/>12.5% of their incomes?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 578",
+        "html": "Rs 578"
+      },
+      {
+        "id": "B",
+        "text": "Rs 595",
+        "html": "Rs 595"
+      },
+      {
+        "id": "C",
+        "text": "Rs 357",
+        "html": "Rs 357"
+      },
+      {
+        "id": "D",
+        "text": "Rs 408",
+        "html": "Rs 408"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 578",
+      "Rs 595",
+      "Rs 357",
+      "Rs 408",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the income of A, B and C be x, y, z.\n\nUsing 14.28% \n\n16.66%\n\n12.5%\n\nThen the expenditure of A , B and C are in the\n\nratio\n\n …………………..(1)\n\nATQ, Ratio of expenditure of A, B and C is\n\n18:20:28…(2)\n\nOn comparing 1 and 2 , x = 21, y = 24, z = 32.\n\nAlso, total income = 1309.\n\nSo Income of A",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The ratio of expenditure of A, B and C is 18:20:28\n\nand their total income is Rs 1309. Find the total\n\nincome of A if they save 14.28%, 16.66% and\n\n12.5% of their incomes?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_30",
+    "question": "Marks obtained by Mohit in History(H) and\n\nGeography(G) are in the ratio of 4 : 5,\n\nrespectively, while the ratio of marks obtained by\n\nMohit in Polity(P) and Economics(E) is 5 : 6,\n\nrespectively. He scored 72 marks more in\n\nLevel-2",
+    "question_html": "Marks obtained by Mohit in History(H) and<br/><br/>Geography(G) are in the ratio of 4 : 5,<br/><br/>respectively, while the ratio of marks obtained by<br/><br/>Mohit in Polity(P) and Economics(E) is 5 : 6,<br/><br/>respectively. He scored 72 marks more in<br/><br/><b>Level-2</b>",
+    "questionHtml": "Marks obtained by Mohit in History(H) and<br/><br/>Geography(G) are in the ratio of 4 : 5,<br/><br/>respectively, while the ratio of marks obtained by<br/><br/>Mohit in Polity(P) and Economics(E) is 5 : 6,<br/><br/>respectively. He scored 72 marks more in<br/><br/><b>Level-2</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Given, H:G = 4:5 , P:E = 5:6\n\nTo find, H:E\n\nLet, Mohit’s marks in H be 4x & in G be 5x\n\nAnd, Mohit’s marks in P be 5y & in E be 6y\n\nAccording to question, E – G = 6y – 5x = 72 & P-H\n\n= 5y-4x = 64\n\nSo, 6y – 5x = 72 : 5y-4x = 64\n\nThus, X = 32 ; Y = 24\n\nSo, H = 4x = 4(32) = 128 & E = 6y = 144\n\nHence, H:E = 128:144 = 8:9",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Marks obtained by Mohit in History(H) and\n\nGeography(G) are in the ratio of 4 : 5,\n\nrespectively, while the ratio of marks obtained by\n\nMohit in Polity(P) and Economics(E) is 5 : 6,\n\nrespectively. He scored 72 marks more in\n\nLevel-2",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_31",
+    "question": "The number of audience in a Cinema Hall falls in\n\nthe ratio 4:3 , when the ticket prices in a cinema\n\nhall increases in the ratio 7:8. Find the total\n\nmoney collected by cinema hall at present, if\n\nbefore price increase the collection was Rs",
+    "question_html": "The number of audience in a Cinema Hall falls in<br/><br/>the ratio 4:3 , when the ticket prices in a cinema<br/><br/>hall increases in the ratio 7:8. Find the total<br/><br/>money collected by cinema hall at present, if<br/><br/>before price increase the collection was Rs<br/><br/>",
+    "questionHtml": "The number of audience in a Cinema Hall falls in<br/><br/>the ratio 4:3 , when the ticket prices in a cinema<br/><br/>hall increases in the ratio 7:8. Find the total<br/><br/>money collected by cinema hall at present, if<br/><br/>before price increase the collection was Rs<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let the initial number of audience be 4x\n\nThen the number of audience after the price\n\nincrease = 3x\n\nAlso, let the initial ticket price = 7y\n\nAnd ticket price after increase = 8y\n\nTotal amount collected = Ticket price \n Number\n\nof audience\n\nATQ, \n\nHence total amount collection after price\n\nincrease",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The number of audience in a Cinema Hall falls in\n\nthe ratio 4:3 , when the ticket prices in a cinema\n\nhall increases in the ratio 7:8. Find the total\n\nmoney collected by cinema hall at present, if\n\nbefore price increase the collection was Rs",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_32",
+    "question": "In a train, the ratio of male to female in general\n\ncoaches is 6: 5, ratio of male to female in sleeper\n\ncoaches is 2: 3 and ratio of male to female in AC\n\ncoaches is 4: 3. Number of males in general\n\ncoaches is equal to those in sleeper coaches and\n\nalso 20 less than those in AC coaches. If the total\n\nnumber of males in the train is 200, then find the\n\nratio of total males to total females in the train?",
+    "question_html": "In a train, the ratio of male to female in general<br/><br/>coaches is 6: 5, ratio of male to female in sleeper<br/><br/>coaches is 2: 3 and ratio of male to female in AC<br/><br/>coaches is 4: 3. Number of males in general<br/><br/>coaches is equal to those in sleeper coaches and<br/><br/>also 20 less than those in AC coaches. If the total<br/><br/>number of males in the train is 200, then find the<br/><br/>ratio of total males to total females in the train?<br/>",
+    "questionHtml": "In a train, the ratio of male to female in general<br/><br/>coaches is 6: 5, ratio of male to female in sleeper<br/><br/>coaches is 2: 3 and ratio of male to female in AC<br/><br/>coaches is 4: 3. Number of males in general<br/><br/>coaches is equal to those in sleeper coaches and<br/><br/>also 20 less than those in AC coaches. If the total<br/><br/>number of males in the train is 200, then find the<br/><br/>ratio of total males to total females in the train?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10: 9",
+        "html": "10: 9"
+      },
+      {
+        "id": "B",
+        "text": "1: 1",
+        "html": "1: 1"
+      },
+      {
+        "id": "C",
+        "text": "5: 4",
+        "html": "5: 4"
+      },
+      {
+        "id": "D",
+        "text": "20: 19",
+        "html": "20: 19"
+      },
+      {
+        "id": "E",
+        "text": "4: 3",
+        "html": "4: 3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10: 9",
+      "1: 1",
+      "5: 4",
+      "20: 19",
+      "4: 3<br/><br/>"
+    ],
+    "explanation": "Let the number of males in general coaches is 6x.\n\nSo, the number of males in sleeper coaches = 6x\n\nAnd the number of males in AC coaches = (6x +\n\n20)\n\nFrom the question:\n\n6x + 6x + 6x + 20 = 200\n\nx = 10\n\nNumber of males in general coaches = 6 × 10 =\n\n60\n\nNumber of males in sleeper coaches = 60\n\nNumber of males in AC coaches = 60 + 20 = 80\n\nNumber of females in general coaches =\n\n = 50\n\n⇒\n⇒\n\n ⇒\n ⇒\n⇒\n\n= Rs(2 × 40) = Rs80\n\n= Rs(200 −80) = Rs 120.\n\n= 3 : 6 : 5\n\n=3 × 1 : 6 × 2 : 5 × 5\n\n= 3 : 12 : 25\n\n(3 + 12 + 25)units = 120\n\n(40)units = 120 ⇒1 unit = 3\n\n= 6 × 3 = 18\n\n=\nx−2400\n\n3x−6400\n\n3\n7 use (42.85% =\n)\n3\n7\n\n7 × (x −2400) = 3 × (3x −6400)\n7x −16800 = 9x −19200\n19200 −16800 = 9x −7x\n2400 = 2x ⇒x = 1200.\n\n= (x + 3x) = 4x = 4 × 1200 = 4800.\n\n=\n× 4800 = 3200.\n2\n3\n\n= 1\n\n7\n\n= 1\n\n6\n\n= 1\n\n8\n\n= (1 −\n)x : (1 −\n)y : (1 −\n)z\n1\n7\n\n1\n6\n\n1\n8\n\n= ( )x : ( )y : ( )z\n6\n7\n\n5\n6\n\n7\n8\n\n=\n× 1309 = 357\n21\n\n(21+24+32)\n\n×\n\n(4x × 7y) = 93800 ⇒xy = 3350.\n\n= (3x × 8y)\n\n= (24xy)\n= (24 × 3350)\n= 80400\n\n60 × 5\n\n6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In a train, the ratio of male to female in general\n\ncoaches is 6: 5, ratio of male to female in sleeper\n\ncoaches is 2: 3 and ratio of male to female in AC\n\ncoaches is 4: 3. Number of males in general\n\ncoaches is equal to those in sleeper coaches and\n\nalso 20 less than those in AC coaches. If the total\n\nnumber of males in the train is 200, then find the\n\nratio of total males to total females in the train?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_33",
+    "question": "Salaries of two friends P and Q are 8:7 in ratio. If\n\nthe salary of Q increases by 20% and the salary\n\nof P increases by 10% the new ratio becomes\n\n96:77 respectively. What was P’s salary?",
+    "question_html": "Salaries of two friends P and Q are 8:7 in ratio. If<br/><br/>the salary of Q increases by 20% and the salary<br/><br/>of P increases by 10% the new ratio becomes<br/><br/>96:77 respectively. What was P’s salary?<br/>",
+    "questionHtml": "Salaries of two friends P and Q are 8:7 in ratio. If<br/><br/>the salary of Q increases by 20% and the salary<br/><br/>of P increases by 10% the new ratio becomes<br/><br/>96:77 respectively. What was P’s salary?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "9600",
+        "html": "9600"
+      },
+      {
+        "id": "B",
+        "text": "7700",
+        "html": "7700"
+      },
+      {
+        "id": "C",
+        "text": "800",
+        "html": "800"
+      },
+      {
+        "id": "D",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "9600",
+      "7700",
+      "800",
+      "Can’t be determined",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let, Salary of P be 80, and Q be 70\n\n20% \nincrease \nin \nP \n= \n120% \nof \n80 \n=\n\n10% \nincrease \nin \nQ \n= \n110% \nof \n70 \n=\n\nHence, Can’t be determined, as no value is\n\nprovided for the ratio.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Salaries of two friends P and Q are 8:7 in ratio. If\n\nthe salary of Q increases by 20% and the salary\n\nof P increases by 10% the new ratio becomes\n\n96:77 respectively. What was P’s salary?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_34",
+    "question": "Ratio between salaries of A, B and C is\n\n respectively. A spends 50% of his\n\nsalary, B spends 25% of his salary and the\n\ndifference between their savings is ₹12000. If C\n\nspends ₹5000, then find the ratio between\n\nsavings of A, B and C respectively.",
+    "question_html": "Ratio between salaries of A, B and C is<br/><br/> respectively. A spends 50% of his<br/><br/>salary, B spends 25% of his salary and the<br/><br/>difference between their savings is ₹12000. If C<br/><br/>spends ₹5000, then find the ratio between<br/><br/>savings of A, B and C respectively.<br/>",
+    "questionHtml": "Ratio between salaries of A, B and C is<br/><br/> respectively. A spends 50% of his<br/><br/>salary, B spends 25% of his salary and the<br/><br/>difference between their savings is ₹12000. If C<br/><br/>spends ₹5000, then find the ratio between<br/><br/>savings of A, B and C respectively.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3: 8: 6",
+        "html": "3: 8: 6"
+      },
+      {
+        "id": "B",
+        "text": "6: 18: 7",
+        "html": "6: 18: 7"
+      },
+      {
+        "id": "C",
+        "text": "2: 7: 5",
+        "html": "2: 7: 5"
+      },
+      {
+        "id": "D",
+        "text": "3: 9: 5",
+        "html": "3: 9: 5"
+      },
+      {
+        "id": "E",
+        "text": "6: 5: 7",
+        "html": "6: 5: 7<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3: 8: 6",
+      "6: 18: 7",
+      "2: 7: 5",
+      "3: 9: 5",
+      "6: 5: 7<br/><br/>"
+    ],
+    "explanation": "Ratio between salaries of A, B and C =\n\n = 4: 8: 5\n\nLet the salaries of A, B, and C be ₹4x, ₹8x and\n\n₹5x respectively.\n\nSo, A’s savings = 50% of 4x = ₹2x\n\nAnd B’s savings = 75% of 8x = ₹6x\n\nFrom the question:\n\n6x - 2x = 12000\n\nx = 3000\n\nA’s salary = 4 \n 3000 = ₹12000\n\nA’s savings = 50% of 12000 = ₹6000\n\nB’s salary = 8 \n 3000 = ₹24000\n\nB’s savings = 75% of 24000 = ₹18000\n\nC’s salary = 5 \n 3000 = ₹15000\n\nC’s savings = 15000 - 5000 = ₹10000\n\nRequired ratio = 6000: 18000: 10000 = 3: 9: 5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Ratio between salaries of A, B and C is\n\n respectively. A spends 50% of his\n\nsalary, B spends 25% of his salary and the\n\ndifference between their savings is ₹12000. If C\n\nspends ₹5000, then find the ratio between\n\nsavings of A, B and C respectively.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_35",
+    "question": "Rs 20790 is divided among Nobita, Zian and\n\nSunio in such a way such that Nobita gets 80% of\n\nwhat Zian gets and Zian gets 66.66% of what\n\nSunio gets. How much more or less does Sunio\n\ngets from Zian?",
+    "question_html": "Rs 20790 is divided among Nobita, Zian and<br/><br/>Sunio in such a way such that Nobita gets 80% of<br/><br/>what Zian gets and Zian gets 66.66% of what<br/><br/>Sunio gets. How much more or less does Sunio<br/><br/>gets from Zian?<br/>",
+    "questionHtml": "Rs 20790 is divided among Nobita, Zian and<br/><br/>Sunio in such a way such that Nobita gets 80% of<br/><br/>what Zian gets and Zian gets 66.66% of what<br/><br/>Sunio gets. How much more or less does Sunio<br/><br/>gets from Zian?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 4410",
+        "html": "Rs 4410"
+      },
+      {
+        "id": "B",
+        "text": "Rs 3780",
+        "html": "Rs 3780"
+      },
+      {
+        "id": "C",
+        "text": "Rs 3150",
+        "html": "Rs 3150"
+      },
+      {
+        "id": "D",
+        "text": "Rs 3465",
+        "html": "Rs 3465"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 4410",
+      "Rs 3780",
+      "Rs 3150",
+      "Rs 3465",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Nobita gets 80% of what Zian gets\n\nNobita : Zian \n\nZian gets 66.66% of what Sunio gets\n\nZian : Sunio\n\nEquivalent ratio of Nobita, Zian and Sunio\n\nThe \namount \nSunio \ngets \nmore \nof \nZian",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Rs 20790 is divided among Nobita, Zian and\n\nSunio in such a way such that Nobita gets 80% of\n\nwhat Zian gets and Zian gets 66.66% of what\n\nSunio gets. How much more or less does Sunio\n\ngets from Zian?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_36",
+    "question": "In an olympiad the ratio of the number of\n\nstudents who scored 99 percentile to that of 90\n\npercentile is 4:25. If 30 more students appeared\n\nfor the olympiad the number of students scoring\n\n99 percentile increases by 1. If at present the\n\nratio of 99 percentiles to that of 90 percentiles is\n\n22:3. Find the number of students who appeared\n\ninitially.",
+    "question_html": "In an olympiad the ratio of the number of<br/><br/>students who scored 99 percentile to that of 90<br/><br/>percentile is 4:25. If 30 more students appeared<br/><br/>for the olympiad the number of students scoring<br/><br/>99 percentile increases by 1. If at present the<br/><br/>ratio of 99 percentiles to that of 90 percentiles is<br/><br/>22:3. Find the number of students who appeared<br/><br/>initially.<br/>",
+    "questionHtml": "In an olympiad the ratio of the number of<br/><br/>students who scored 99 percentile to that of 90<br/><br/>percentile is 4:25. If 30 more students appeared<br/><br/>for the olympiad the number of students scoring<br/><br/>99 percentile increases by 1. If at present the<br/><br/>ratio of 99 percentiles to that of 90 percentiles is<br/><br/>22:3. Find the number of students who appeared<br/><br/>initially.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "116",
+        "html": "116"
+      },
+      {
+        "id": "B",
+        "text": "174",
+        "html": "174"
+      },
+      {
+        "id": "C",
+        "text": "145",
+        "html": "145"
+      },
+      {
+        "id": "D",
+        "text": "203",
+        "html": "203"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "116",
+      "174",
+      "145",
+      "203",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the number of 99 percentilers = 4x\n\nand the number of 90 percentilers = 25x\n\nTotal students initially = 29x\n\nATQ, \n\nTotal \nnumber \nof \nstudents \ninitially",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In an olympiad the ratio of the number of\n\nstudents who scored 99 percentile to that of 90\n\npercentile is 4:25. If 30 more students appeared\n\nfor the olympiad the number of students scoring\n\n99 percentile increases by 1. If at present the\n\nratio of 99 percentiles to that of 90 percentiles is\n\n22:3. Find the number of students who appeared\n\ninitially.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_37",
+    "question": "Salaries of Nitin, Prem are in the ratio of 5 : 7 and\n\nthat of Prem and Rahul are in the ratio of 3 : 5.\n\nSalary of Nitin is Rs. 82500 and Rahul spends\n\ntwo-seventh of his salary on ration. How much\n\nmoney is left with Rahul after his expenditure on\n\nration?",
+    "question_html": "Salaries of Nitin, Prem are in the ratio of 5 : 7 and<br/><br/>that of Prem and Rahul are in the ratio of 3 : 5.<br/><br/>Salary of Nitin is Rs. 82500 and Rahul spends<br/><br/>two-seventh of his salary on ration. How much<br/><br/>money is left with Rahul after his expenditure on<br/><br/>ration?<br/>",
+    "questionHtml": "Salaries of Nitin, Prem are in the ratio of 5 : 7 and<br/><br/>that of Prem and Rahul are in the ratio of 3 : 5.<br/><br/>Salary of Nitin is Rs. 82500 and Rahul spends<br/><br/>two-seventh of his salary on ration. How much<br/><br/>money is left with Rahul after his expenditure on<br/><br/>ration?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "225000",
+        "html": "225000"
+      },
+      {
+        "id": "B",
+        "text": "125000",
+        "html": "125000"
+      },
+      {
+        "id": "C",
+        "text": "137500",
+        "html": "137500"
+      },
+      {
+        "id": "D",
+        "text": "121500",
+        "html": "121500"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "225000",
+      "125000",
+      "137500",
+      "121500",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Nitin's Salary :Prem’s salary \nand Prem’s\n\nsalary : Rahul’s salary \n\nNitin’ssalary :Prem’s salary : Rahul’s salary\n\nSalary of Rahul \n\nRahul’s \nexpenditure \non \nration\n\nMoney \nleft \nwith \nRahul\n\nHence Option ‘\n’ is the correct\n\nanswer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Salaries of Nitin, Prem are in the ratio of 5 : 7 and\n\nthat of Prem and Rahul are in the ratio of 3 : 5.\n\nSalary of Nitin is Rs. 82500 and Rahul spends\n\ntwo-seventh of his salary on ration. How much\n\nmoney is left with Rahul after his expenditure on\n\nration?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_38",
+    "question": "Ratio of income of Ahem to that of Vehem is 4:7.\n\nIf the expenditure of Ahem is 66.66% of his\n\nincome and that of Vehem is 28.56% of his\n\nincome and their total savings is Rs 1520. Find\n\nthe 27.27% of total income of Ahem and Vehem?",
+    "question_html": "Ratio of income of Ahem to that of Vehem is 4:7.<br/><br/>If the expenditure of Ahem is 66.66% of his<br/><br/>income and that of Vehem is 28.56% of his<br/><br/>income and their total savings is Rs 1520. Find<br/><br/>the 27.27% of total income of Ahem and Vehem?<br/>",
+    "questionHtml": "Ratio of income of Ahem to that of Vehem is 4:7.<br/><br/>If the expenditure of Ahem is 66.66% of his<br/><br/>income and that of Vehem is 28.56% of his<br/><br/>income and their total savings is Rs 1520. Find<br/><br/>the 27.27% of total income of Ahem and Vehem?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 1173",
+        "html": "Rs 1173"
+      },
+      {
+        "id": "B",
+        "text": "Rs 1760",
+        "html": "Rs 1760"
+      },
+      {
+        "id": "C",
+        "text": "Rs 720",
+        "html": "Rs 720"
+      },
+      {
+        "id": "D",
+        "text": "Rs 978",
+        "html": "Rs 978"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\n : : \n2\n5\n\n4\n5\n\n1\n2",
+        "html": "None of these<br/><br/>  :     :  <br/>2<br/>5<br/><br/>4<br/>5<br/><br/>1<br/>2"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 1173",
+      "Rs 1760",
+      "Rs 720",
+      "Rs 978",
+      "None of these<br/><br/>  :     :  <br/>2<br/>5<br/><br/>4<br/>5<br/><br/>1<br/>2"
+    ],
+    "explanation": "Let income of Ahem = 4x\n\nSo, \nExpenditure \nof \nAhem\n\nAnd savings of Ahem \n\nLet income of Vehem = 7x\n\nSo, \nExpenditure \nof \nVehem\n\nAnd savings of Vehem\n\nTotal Savings\n\nATQ, \n\nTotal \nincome \nof \nAhem \nand \nVehem\n\nHence",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Ratio of income of Ahem to that of Vehem is 4:7.\n\nIf the expenditure of Ahem is 66.66% of his\n\nincome and that of Vehem is 28.56% of his\n\nincome and their total savings is Rs 1520. Find\n\nthe 27.27% of total income of Ahem and Vehem?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_39",
+    "question": "A sum of ₹(x + 4500) is distributed among A, B\n\nand C such that, A got ₹9y, B got ₹8y and C got\n\n₹12y. If the total amount is 625% more than the\n\ndifference between the amounts received by B\n\nand C, then find the ratio of ‘x’ to ‘y’?",
+    "question_html": "A sum of ₹(x + 4500) is distributed among A, B<br/><br/>and C such that, A got ₹9y, B got ₹8y and C got<br/><br/>₹12y. If the total amount is 625% more than the<br/><br/>difference between the amounts received by B<br/><br/>and C, then find the ratio of ‘x’ to ‘y’?<br/>",
+    "questionHtml": "A sum of ₹(x + 4500) is distributed among A, B<br/><br/>and C such that, A got ₹9y, B got ₹8y and C got<br/><br/>₹12y. If the total amount is 625% more than the<br/><br/>difference between the amounts received by B<br/><br/>and C, then find the ratio of ‘x’ to ‘y’?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "20: 1",
+        "html": "20: 1"
+      },
+      {
+        "id": "B",
+        "text": "Can’t be determined",
+        "html": "Can’t be determined"
+      },
+      {
+        "id": "C",
+        "text": "15: 1",
+        "html": "15: 1"
+      },
+      {
+        "id": "D",
+        "text": "40: 1",
+        "html": "40: 1"
+      },
+      {
+        "id": "E",
+        "text": "17:1",
+        "html": "17:1<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "20: 1",
+      "Can’t be determined",
+      "15: 1",
+      "40: 1",
+      "17:1<br/><br/>"
+    ],
+    "explanation": "Since, the amounts received by A, B and C are\n\n₹9y, ₹8y and ₹12y respectively.\n\nSo,\n\n9y + 8y + 12y = x + 4500\n\n29y = x + 4500 --------------(1)\n\n60 × 3\n\n2\n\n80 × 3\n\n4\n\n × 80 = 96\n120\n100\n\n× 70 = 77\n110\n\n100 \n\n : : \n2\n5\n\n4\n5\n\n1\n2\n\n×\n\n×\n\n×\n\n⇒\n= 4 : 5\n\n⇒\n= 2 : 3\n\n= 8 : 10 : 15\n\n=\n× 20790 = 3150\n(15−10)\n\n33\n\n=\n29x+30\n\n4x+1\n\n(22+3)\n\n3\n\n(29x + 30) × 3 = (4x + 1) × 25\n87x + 90 = 100x + 25 ⇒x = 5\n\n= 29 × 5 = 145\n\n= 5 : 7\n\n= 3 : 5\n\n= 15 : 21 : 35\n\n=\n × 82500 = 192500\n35\n15\n\n =\n× 192500 = Rs. 55000\n2\n7\n\n= 192500 – 55000 = Rs. 137500\n\n Rs. 137500\n\n= 66.66% of income =\n× 4x =\n2\n3\n\n8x\n\n3\n\n= 4x −\nx =\nx\n8\n3\n\n4\n3\n\n= 28.56% of income =\n× 7x = 2x\n2\n7\n\n= 7x −2x = 5x\n\n=\nx + 5x =\nx\n4\n3\n\n19\n\n3\n\nx = 1520 ⇒x = 240\n19\n\n3\n\n= (4 + 7)x = 11 × 240 = 2640\n\n27.27% of total income =\n× 2640\n3\n\n11\n\n= Rs 720",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A sum of ₹(x + 4500) is distributed among A, B\n\nand C such that, A got ₹9y, B got ₹8y and C got\n\n₹12y. If the total amount is 625% more than the\n\ndifference between the amounts received by B\n\nand C, then find the ratio of ‘x’ to ‘y’?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_40",
+    "question": "The ratio of income of Rahul for two consecutive\n\nyears is 2:3 and the ratio of his expenditures is\n\n5:9. If Rahul’s income for the second year is Rs\n\n45,000 and the expenditure of the first year is Rs\n\n25,000. Then his savings of two years is ?",
+    "question_html": "The ratio of income of Rahul for two consecutive<br/><br/>years is 2:3 and the ratio of his expenditures is<br/><br/>5:9. If Rahul’s income for the second year is Rs<br/><br/>45,000 and the expenditure of the first year is Rs<br/><br/>25,000. Then his savings of two years is ?<br/>",
+    "questionHtml": "The ratio of income of Rahul for two consecutive<br/><br/>years is 2:3 and the ratio of his expenditures is<br/><br/>5:9. If Rahul’s income for the second year is Rs<br/><br/>45,000 and the expenditure of the first year is Rs<br/><br/>25,000. Then his savings of two years is ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 6000",
+        "html": "Rs 6000"
+      },
+      {
+        "id": "B",
+        "text": "Rs 5000",
+        "html": "Rs 5000"
+      },
+      {
+        "id": "C",
+        "text": "Rs 5500",
+        "html": "Rs 5500"
+      },
+      {
+        "id": "D",
+        "text": "Rs 4500",
+        "html": "Rs 4500"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 6000",
+      "Rs 5000",
+      "Rs 5500",
+      "Rs 4500",
+      "None of these"
+    ],
+    "explanation": "Let the income of Rahul for the first and second\n\nyear be 2x and 3x respectively.\n\nAnd the expenditures are 5y and 9y respectively.\n\nATQ, \n\nTotal \nincome \nof \nRahul\n\nAlso, \n\nTotal \nexpenditure \nof \nRahul\n\nTotal \nsavings \nof \nRahul\n\nx + 4500 = \n × (12y − 8y)\n725\n100\n\n3x = 45000 ⇒x = 15000.\n\n= (2x + 3x) = 5 × 15000 = 75000\n\n5y = 25000 ⇒y = 5000\n\n= (5y + 9y) = 14 × 5000 = 70000\n\n= 75000 −70000 = 5000.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "The ratio of income of Rahul for two consecutive\n\nyears is 2:3 and the ratio of his expenditures is\n\n5:9. If Rahul’s income for the second year is Rs\n\n45,000 and the expenditure of the first year is Rs\n\n25,000. Then his savings of two years is ?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_41",
+    "question": "Three friends P, Q and R collected an amount of\n\nRs 9600 by saving each day. Each one of them\n\nhas contributed different amount each day as\n\nper they received from their parents. They\n\ndistributed among themselves in the ratio 7:8:9. If\n\nthey spend in the ratio 3:2:4 and R spends Rs",
+    "question_html": "Three friends P, Q and R collected an amount of<br/><br/>Rs 9600 by saving each day. Each one of them<br/><br/>has contributed different amount each day as<br/><br/>per they received from their parents. They<br/><br/>distributed among themselves in the ratio 7:8:9. If<br/><br/>they spend in the ratio 3:2:4 and R spends Rs<br/><br/>",
+    "questionHtml": "Three friends P, Q and R collected an amount of<br/><br/>Rs 9600 by saving each day. Each one of them<br/><br/>has contributed different amount each day as<br/><br/>per they received from their parents. They<br/><br/>distributed among themselves in the ratio 7:8:9. If<br/><br/>they spend in the ratio 3:2:4 and R spends Rs<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let the distribution of amounts among P, Q, and\n\nR be 7x, 8x, and 9x respectively.\n\nATQ, (7 + 8 + 9)x = 9600\n\n24x = 9600\n\ni.e. x = 400.\n\nSo the respective amounts of P, Q, and R are\n\n2800, 3200, and 3600.\n\nLet the expenditures be in the ratio 3y, 2y, and 4y\n\nATQ, 4y = 400.\n\ny = 100.\n\nSo the respective expenditures are 300, 200 and\n\n400.\n\nHence the savings of P, Q, and R are 2500, 3000,\n\n3200.\n\nSo the ratio is 25:30:32.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Three friends P, Q and R collected an amount of\n\nRs 9600 by saving each day. Each one of them\n\nhas contributed different amount each day as\n\nper they received from their parents. They\n\ndistributed among themselves in the ratio 7:8:9. If\n\nthey spend in the ratio 3:2:4 and R spends Rs",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_42",
+    "question": "Find the ratio of savings of P, Q and R?",
+    "question_html": "Find the ratio of savings of P, Q and R?<br/>",
+    "questionHtml": "Find the ratio of savings of P, Q and R?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24:31:33",
+        "html": "24:31:33"
+      },
+      {
+        "id": "B",
+        "text": "7:8:9",
+        "html": "7:8:9"
+      },
+      {
+        "id": "C",
+        "text": "25:30:32",
+        "html": "25:30:32"
+      },
+      {
+        "id": "D",
+        "text": "4:5:6",
+        "html": "4:5:6"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24:31:33",
+      "7:8:9",
+      "25:30:32",
+      "4:5:6",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "400",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Find the ratio of savings of P, Q and R?",
+    "metadata": {
+      "questionNumber": "400",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q400.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_43",
+    "question": "Ratio of total people of an area who read\n\nnewspaper A to newspaper B is 2: 3. Ratio of\n\ntotal people who read Hindi newspaper A to\n\nEnglish newspaper A is 4: 1 and ratio of total\n\npeople who read Hindi newspaper B to English\n\nnewspaper B is 1: 2. Find the ratio of total people\n\nwho read Hindi newspaper (both A and B) to who\n\nread English newspaper (both A and B).",
+    "question_html": "Ratio of total people of an area who read<br/><br/>newspaper A to newspaper B is 2: 3. Ratio of<br/><br/>total people who read Hindi newspaper A to<br/><br/>English newspaper A is 4: 1 and ratio of total<br/><br/>people who read Hindi newspaper B to English<br/><br/>newspaper B is 1: 2. Find the ratio of total people<br/><br/>who read Hindi newspaper (both A and B) to who<br/><br/>read English newspaper (both A and B).<br/>",
+    "questionHtml": "Ratio of total people of an area who read<br/><br/>newspaper A to newspaper B is 2: 3. Ratio of<br/><br/>total people who read Hindi newspaper A to<br/><br/>English newspaper A is 4: 1 and ratio of total<br/><br/>people who read Hindi newspaper B to English<br/><br/>newspaper B is 1: 2. Find the ratio of total people<br/><br/>who read Hindi newspaper (both A and B) to who<br/><br/>read English newspaper (both A and B).<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "13: 12",
+        "html": "13: 12"
+      },
+      {
+        "id": "B",
+        "text": "7: 6",
+        "html": "7: 6"
+      },
+      {
+        "id": "C",
+        "text": "9: 8",
+        "html": "9: 8"
+      },
+      {
+        "id": "D",
+        "text": "4: 3",
+        "html": "4: 3"
+      },
+      {
+        "id": "E",
+        "text": "7:9",
+        "html": "7:9<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "13: 12",
+      "7: 6",
+      "9: 8",
+      "4: 3",
+      "7:9<br/><br/>"
+    ],
+    "explanation": "Let total people who read newspaper A and B is\n\n‘2x’ and ‘3x’ respectively.\n\nPeople who read Hindi newspaper A =\n\nPeople who read English newspaper A =\n\nPeople \nwho \nread \nHindi \nnewspaper \nB \n=\n\nPeople who read English newspaper B =\n\nTotal people who read Hindi newspaper (both A\n\nand B) = 1.6x + x = 2.6x\n\nTotal people who read English newspaper (both\n\nA and B) = 0.4x + 2x = 2.4x\n\nRequired ratio = 2.6x: 2.4x = 13: 12",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Ratio of total people of an area who read\n\nnewspaper A to newspaper B is 2: 3. Ratio of\n\ntotal people who read Hindi newspaper A to\n\nEnglish newspaper A is 4: 1 and ratio of total\n\npeople who read Hindi newspaper B to English\n\nnewspaper B is 1: 2. Find the ratio of total people\n\nwho read Hindi newspaper (both A and B) to who\n\nread English newspaper (both A and B).",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_44",
+    "question": "Some 2 rupee coins and 5 rupee coins are\n\ndistributed between A and B such that, A and B\n\nreceived 2 rupee coins in the ratio of 5: 4 and 5\n\nrupee coins in the ratio of 2: 3 respectively. If A\n\nreceived a total ₹80 and the amount received by\n\nB in the form of 5 rupee coins is ₹51 more than\n\nthat received in the form of 2 rupee coins, then\n\nfind the total amount received by B.",
+    "question_html": "Some 2 rupee coins and 5 rupee coins are<br/><br/>distributed between A and B such that, A and B<br/><br/>received 2 rupee coins in the ratio of 5: 4 and 5<br/><br/>rupee coins in the ratio of 2: 3 respectively. If A<br/><br/>received a total ₹80 and the amount received by<br/><br/>B in the form of 5 rupee coins is ₹51 more than<br/><br/>that received in the form of 2 rupee coins, then<br/><br/>find the total amount received by B.<br/>",
+    "questionHtml": "Some 2 rupee coins and 5 rupee coins are<br/><br/>distributed between A and B such that, A and B<br/><br/>received 2 rupee coins in the ratio of 5: 4 and 5<br/><br/>rupee coins in the ratio of 2: 3 respectively. If A<br/><br/>received a total ₹80 and the amount received by<br/><br/>B in the form of 5 rupee coins is ₹51 more than<br/><br/>that received in the form of 2 rupee coins, then<br/><br/>find the total amount received by B.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹90",
+        "html": "₹90"
+      },
+      {
+        "id": "B",
+        "text": "₹105",
+        "html": "₹105"
+      },
+      {
+        "id": "C",
+        "text": "₹99",
+        "html": "₹99"
+      },
+      {
+        "id": "D",
+        "text": "₹93",
+        "html": "₹93"
+      },
+      {
+        "id": "E",
+        "text": "₹102",
+        "html": "₹102<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "₹90",
+      "₹105",
+      "₹99",
+      "₹93",
+      "₹102<br/><br/>"
+    ],
+    "explanation": "Let the number of 2 rupees coins received by A\n\nand B be 5x and 4x respectively.\n\nAlso, let the number of 5 rupee coins received by\n\nA and B be 2y and 3y respectively.\n\nSo,\n\n5x \n 2 + 2y \n 5 = 80\n\nx + y = 8 —---------(1)\n\nAnd,\n\n3y \n 5 - 4x \n 2 = 51\n\n15y - 8x = 51 —---------(2)\n\nFrom equations (1) and (2):\n\n15y - 8(8 - y) = 51\n\n15y - 64 + 8y = 51\n\ny = 5\n\nFrom equation (1):\n\nx = 3\n\nSo, the total amount received by B = (4 \n 3 \n 2)\n\n+ (3 \n 5 \n 5)\n\n= ₹99",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Some 2 rupee coins and 5 rupee coins are\n\ndistributed between A and B such that, A and B\n\nreceived 2 rupee coins in the ratio of 5: 4 and 5\n\nrupee coins in the ratio of 2: 3 respectively. If A\n\nreceived a total ₹80 and the amount received by\n\nB in the form of 5 rupee coins is ₹51 more than\n\nthat received in the form of 2 rupee coins, then\n\nfind the total amount received by B.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_45",
+    "question": "The total number of coins in a box is 500 and the\n\nnumber of coins made of steel are mixed with\n\nthe number of coins made of iron in the box and\n\ntheir ratio is 3:2. If 33.33% of Steel made coins\n\nare converted into iron coins, then find the total\n\nnumber of iron made coins.",
+    "question_html": "The total number of coins in a box is 500 and the<br/><br/>number of coins made of steel are mixed with<br/><br/>the number of coins made of iron in the box and<br/><br/>their ratio is 3:2. If 33.33% of Steel made coins<br/><br/>are converted into iron coins, then find the total<br/><br/>number of iron made coins.<br/>",
+    "questionHtml": "The total number of coins in a box is 500 and the<br/><br/>number of coins made of steel are mixed with<br/><br/>the number of coins made of iron in the box and<br/><br/>their ratio is 3:2. If 33.33% of Steel made coins<br/><br/>are converted into iron coins, then find the total<br/><br/>number of iron made coins.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "300",
+        "html": "300"
+      },
+      {
+        "id": "B",
+        "text": "200",
+        "html": "200"
+      },
+      {
+        "id": "C",
+        "text": "500",
+        "html": "500"
+      },
+      {
+        "id": "D",
+        "text": "600",
+        "html": "600"
+      },
+      {
+        "id": "E",
+        "text": "700",
+        "html": "700<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "300",
+      "200",
+      "500",
+      "600",
+      "700<br/><br/>"
+    ],
+    "explanation": "Number of Steel coins\n\nNumber of iron coins \n\nSo; after converting steel coins into iron coins;\n\nNumber of steel coins left = \n 300 = 200\n\nThus,\n\nNumber of iron coins",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The total number of coins in a box is 500 and the\n\nnumber of coins made of steel are mixed with\n\nthe number of coins made of iron in the box and\n\ntheir ratio is 3:2. If 33.33% of Steel made coins\n\nare converted into iron coins, then find the total\n\nnumber of iron made coins.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_46",
+    "question": "The ratio of weight of soaked gram seeds to that\n\nof soaked kidney beans is 8:9 and the total\n\nweight of both is 170gm. The seeds are dried in\n\nthe sunlight to make fried dals. The weight of\n\ngram seeds is reduced by 8gm and the new ratio\n\nof weight becomes 6:5. Find the amount by\n\nwhich the weight of kidney beans is reduced.",
+    "question_html": "The ratio of weight of soaked gram seeds to that<br/><br/>of soaked kidney beans is 8:9 and the total<br/><br/>weight of both is 170gm. The seeds are dried in<br/><br/>the sunlight to make fried dals. The weight of<br/><br/>gram seeds is reduced by 8gm and the new ratio<br/><br/>of weight becomes 6:5. Find the amount by<br/><br/>which the weight of kidney beans is reduced.<br/>",
+    "questionHtml": "The ratio of weight of soaked gram seeds to that<br/><br/>of soaked kidney beans is 8:9 and the total<br/><br/>weight of both is 170gm. The seeds are dried in<br/><br/>the sunlight to make fried dals. The weight of<br/><br/>gram seeds is reduced by 8gm and the new ratio<br/><br/>of weight becomes 6:5. Find the amount by<br/><br/>which the weight of kidney beans is reduced.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12gm",
+        "html": "12gm"
+      },
+      {
+        "id": "B",
+        "text": "24gm",
+        "html": "24gm"
+      },
+      {
+        "id": "C",
+        "text": "30gm",
+        "html": "30gm"
+      },
+      {
+        "id": "D",
+        "text": "18gm",
+        "html": "18gm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12gm",
+      "24gm",
+      "30gm",
+      "18gm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the weight of soaked gram seeds = 8x\n\nAnd the weight of soaked kidney beans = 9x\n\nATQ (8x + 9x) = 170 i.e. x=10\n\nSo the weight of soaked gram seeds = 80\n\nthe weight of soaked kidney beans = 90\n\nLet the weight of kidney beans be reduced by x\n\ngm\n\nATQ",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio of weight of soaked gram seeds to that\n\nof soaked kidney beans is 8:9 and the total\n\nweight of both is 170gm. The seeds are dried in\n\nthe sunlight to make fried dals. The weight of\n\ngram seeds is reduced by 8gm and the new ratio\n\nof weight becomes 6:5. Find the amount by\n\nwhich the weight of kidney beans is reduced.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_47",
+    "question": "The ratio of last year income of P ,Q and R is\n\n3:4:5 and the ratio of their last year income to\n\ncurrent year income is 4:5 , 2:3 , and 3:4\n\nrespectively. If their total income is Rs 88,650,\n\nFind the value of x if P saves Rs 12960 after\n\nspending x% of her total income.",
+    "question_html": "The ratio of last year income of P ,Q and R is<br/><br/>3:4:5 and the ratio of their last year income to<br/><br/>current year income is 4:5 , 2:3 , and 3:4<br/><br/>respectively. If their total income is Rs 88,650,<br/><br/>Find the value of x if P saves Rs 12960 after<br/><br/>spending x% of her total income.<br/>",
+    "questionHtml": "The ratio of last year income of P ,Q and R is<br/><br/>3:4:5 and the ratio of their last year income to<br/><br/>current year income is 4:5 , 2:3 , and 3:4<br/><br/>respectively. If their total income is Rs 88,650,<br/><br/>Find the value of x if P saves Rs 12960 after<br/><br/>spending x% of her total income.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "B",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "C",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "D",
+        "text": "42",
+        "html": "42"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "64",
+      "72",
+      "36",
+      "42",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given the ratio of last year income of P, Q, and R\n\nis 3:4:5\n\nThe ratio of their last year income to the current\n\nyear's income is 4:5, 2:3, and 3:4\n\nSo, the ratio of their current year income is :\n\nI.e. 45: 72 : 80.\n\nATQ, Total income of P,Q, and R = Rs 88,650\n\ni.e. (45 + 72 + 80) units = 88650\n\n2x ×\n= 1.6x\n4\n5\n\n2x ×\n= 0.4x\n1\n5\n\n3x ×\n= x\n1\n3\n\n3x ×\n= 2x\n2\n3\n\n×\n×\n\n×\n×\n\n×\n×\n\n×\n×\n\n = \n× 500 = 300\n3\n5\n\n= 500 −300 = 200\n\n1\n3 ×\n\n= 200 + 100 = 300\n\n=\n\n(80−8)\n(90−x)\n\n6\n5\n\n72 × 5 = 6 × (90 −x) ⇒x = 30.\n\n× 5 :\n× 3 :\n× 4.\n3\n4\n\n4\n2\n\n5\n3\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio of last year income of P ,Q and R is\n\n3:4:5 and the ratio of their last year income to\n\ncurrent year income is 4:5 , 2:3 , and 3:4\n\nrespectively. If their total income is Rs 88,650,\n\nFind the value of x if P saves Rs 12960 after\n\nspending x% of her total income.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_48",
+    "question": "The ratio of the cement, rock and sand in making\n\na house is 2:3:4 and the total quantity of material\n\nused in the making of the house is 180 kg. If the\n\namount of cement used is (x+20) kg and the\n\namount of rock used in making another house is\n\nx% more than the previous quantity of rock used,\n\nthen find the quantity of rock used in making the\n\nnew house.",
+    "question_html": "The ratio of the cement, rock and sand in making<br/><br/>a house is 2:3:4 and the total quantity of material<br/><br/>used in the making of the house is 180 kg. If the<br/><br/>amount of cement used is (x+20) kg and the<br/><br/>amount of rock used in making another house is<br/><br/>x% more than the previous quantity of rock used,<br/><br/>then find the quantity of rock used in making the<br/><br/>new house.<br/>",
+    "questionHtml": "The ratio of the cement, rock and sand in making<br/><br/>a house is 2:3:4 and the total quantity of material<br/><br/>used in the making of the house is 180 kg. If the<br/><br/>amount of cement used is (x+20) kg and the<br/><br/>amount of rock used in making another house is<br/><br/>x% more than the previous quantity of rock used,<br/><br/>then find the quantity of rock used in making the<br/><br/>new house.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "70",
+        "html": "70"
+      },
+      {
+        "id": "B",
+        "text": "75",
+        "html": "75"
+      },
+      {
+        "id": "C",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "D",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "E",
+        "text": "90",
+        "html": "90<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "70",
+      "75",
+      "72",
+      "80",
+      "90<br/><br/>"
+    ],
+    "explanation": "Let the quantity of cement, rock and sand used in\n\nmaking the house is 2x, 3x and 4x kg respectively\n\nAccording to the problem,\n\ntotal quantity of material used in the making of\n\nthe \nhouse \nis \n180 \nkg. \nTherefore,\n\nSo, the quantity of cement, rock and sand used in\n\nmaking the house is 40 kg, 60 kg and 80 kg\n\nrespectively.\n\nNow, the amount of cement used in making\n\nanother house is (x+20) kg, which means:\n\nAmount of cement used in the new house\n\nLet's assume that the quantity of rock used in\n\nmaking the new house is y kg.\n\nAccording to the problem,\n\namount of rock used in making the new house is\n\nx% more than the previous quantity of rock used,\n\nwhich means:\n\nTherefore, the quantity of rock used in making\n\nthe new house is",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio of the cement, rock and sand in making\n\na house is 2:3:4 and the total quantity of material\n\nused in the making of the house is 180 kg. If the\n\namount of cement used is (x+20) kg and the\n\namount of rock used in making another house is\n\nx% more than the previous quantity of rock used,\n\nthen find the quantity of rock used in making the\n\nnew house.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_49",
+    "question": "The sum of the monthly incomes of six friends\n\n(Amit, Chandan, Divakar, Ganesh, Hitesh and\n\nRohit) is Rs 306000. The income of Chandan,\n\nDivakar, and Hitesh are in the ratio of 2: 3: 1. The\n\naverage of monthly income of Amit and Rohit is\n\nRs 45000. The monthly income of Divakar and\n\nLevel-3",
+    "question_html": "The sum of the monthly incomes of six friends<br/><br/>(Amit, Chandan, Divakar, Ganesh, Hitesh and<br/><br/>Rohit) is Rs 306000. The income of Chandan,<br/><br/>Divakar, and Hitesh are in the ratio of 2: 3: 1. The<br/><br/>average of monthly income of Amit and Rohit is<br/><br/>Rs 45000. The monthly income of Divakar and<br/><br/><b>Level-3</b>",
+    "questionHtml": "The sum of the monthly incomes of six friends<br/><br/>(Amit, Chandan, Divakar, Ganesh, Hitesh and<br/><br/>Rohit) is Rs 306000. The income of Chandan,<br/><br/>Divakar, and Hitesh are in the ratio of 2: 3: 1. The<br/><br/>average of monthly income of Amit and Rohit is<br/><br/>Rs 45000. The monthly income of Divakar and<br/><br/><b>Level-3</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Sum of the monthly incomes of six friends = Rs\n\n306000\n\nLet the monthly income of Chandan, Divakar, and\n\nHitesh be Rs 10x, Rs 15x, and Rs 5x respectively.\n\nSum of monthly income of Amit and Rohit =\n\nMonthly \nincome \nof \nGanesh \n=\n\nThe ratio of monthly income of Chandan, Divakar,\n\nGanesh and Hitesh = 10x : 15x : 6x : 5x\n\nThe sum of monthly incomes of Chandan,\n\nDivakar, Ganesh, and Hitesh = 306000 – 90000\n\n= Rs 216000\n\n10x + 15x + 6x + 5x = 216000\n\nx = \n = 6000\n\nMonthly income of Chandan = 10x = Rs 60000\n\nMonthly income of Divakar = 15x = Rs 90000\n\nMonthly income of Ganesh = 6x = Rs 36000\n\nMonthly income of Hitesh = 5x = Rs 30000\n\nMonthly income of Amit = Monthly income of\n\nChandan – 45000 = 60000 – 45000 = Rs 15000\n\nMonthly income of Rohit = 90000 – 15000 = Rs\n\n75000\n\nTotal monthly income of Chandan and Hitesh =\n\n60000 + 30000 = Rs 90000\n\nTotal monthly income of Divakar and Rohit =\n\n90000 + 75000 = Rs 165000\n\nRequired ratio = 90000 : 165000 = 6 : 11",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The sum of the monthly incomes of six friends\n\n(Amit, Chandan, Divakar, Ganesh, Hitesh and\n\nRohit) is Rs 306000. The income of Chandan,\n\nDivakar, and Hitesh are in the ratio of 2: 3: 1. The\n\naverage of monthly income of Amit and Rohit is\n\nRs 45000. The monthly income of Divakar and\n\nLevel-3",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_50",
+    "question": "The ratio of cost of economy class to that of\n\nbusiness class flight ticket between Delhi to\n\nVaranasi is 11:9. During the festival season the\n\ncost of both types of flight tickets increases in\n\nthe ratio 4:5 and 6:7 respectively. If the number\n\nof passengers travelling during the festive\n\nseason in both types is 5:7 and the total revenue\n\nobtained is Rs 1,13,800. Find the total revenue\n\ngenerated by business class tickets?",
+    "question_html": "The ratio of cost of economy class to that of<br/><br/>business class flight ticket between Delhi to<br/><br/>Varanasi is 11:9. During the festival season the<br/><br/>cost of both types of flight tickets increases in<br/><br/>the ratio 4:5 and 6:7 respectively. If the number<br/><br/>of passengers travelling during the festive<br/><br/>season in both types is 5:7 and the total revenue<br/><br/>obtained is Rs 1,13,800. Find the total revenue<br/><br/>generated by business class tickets?<br/>",
+    "questionHtml": "The ratio of cost of economy class to that of<br/><br/>business class flight ticket between Delhi to<br/><br/>Varanasi is 11:9. During the festival season the<br/><br/>cost of both types of flight tickets increases in<br/><br/>the ratio 4:5 and 6:7 respectively. If the number<br/><br/>of passengers travelling during the festive<br/><br/>season in both types is 5:7 and the total revenue<br/><br/>obtained is Rs 1,13,800. Find the total revenue<br/><br/>generated by business class tickets?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 57,800",
+        "html": "Rs 57,800"
+      },
+      {
+        "id": "B",
+        "text": "Rs 53,000",
+        "html": "Rs 53,000"
+      },
+      {
+        "id": "C",
+        "text": "Rs 58,800",
+        "html": "Rs 58,800"
+      },
+      {
+        "id": "D",
+        "text": "Rs 55,000",
+        "html": "Rs 55,000"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 57,800",
+      "Rs 53,000",
+      "Rs 58,800",
+      "Rs 55,000",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The Ratio of the cost of an economy class flight\n\nticket to that of a business class flight ticket =\n\n11:9\n\nAfter the increase in the ticket price\n\nThe \nnew \nratio \nbecomes\n\nThe number of passengers travelling are in ratio =\n\n5 : 7.\n\nRatio of revenue generated = (55\n5):(42\n7) =\n\n275: 294.\n\nATQ, (275 + 294) units = 113800\n\n1 unit = 200.\n\nSo, revenue generated by business class flight\n\ntickets = (200\n294)\n\n= 58,800.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "The ratio of cost of economy class to that of\n\nbusiness class flight ticket between Delhi to\n\nVaranasi is 11:9. During the festival season the\n\ncost of both types of flight tickets increases in\n\nthe ratio 4:5 and 6:7 respectively. If the number\n\nof passengers travelling during the festive\n\nseason in both types is 5:7 and the total revenue\n\nobtained is Rs 1,13,800. Find the total revenue\n\ngenerated by business class tickets?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ratio_proportion_chapter_wise_dpp_english_51",
+    "question": "A company manager distributed bonus of Rs\n\n121,000 to her employees A, B and C for their\n\nextraordinary work dedication for the company\n\nin the ratio \n The employee\n\nwho got the highest bonus spent 35% of his\n\nbonus for buying a new bike, 25% for his\n\ndaughter's coaching, 15% for his wife’s saree and\n\nthe rest he invested in a scheme at a compound\n\ninterest of 20% p.a . Find the amount he got after\n\n2 years from his investment?",
+    "question_html": "A company manager distributed bonus of Rs<br/><br/>121,000 to her employees A, B and C for their<br/><br/>extraordinary work dedication for the company<br/><br/>in the ratio <br/> The employee<br/><br/>who got the highest bonus spent 35% of his<br/><br/>bonus for buying a new bike, 25% for his<br/><br/>daughter&#x27;s coaching, 15% for his wife’s saree and<br/><br/>the rest he invested in a scheme at a compound<br/><br/>interest of 20% p.a . Find the amount he got after<br/><br/>2 years from his investment?<br/>",
+    "questionHtml": "A company manager distributed bonus of Rs<br/><br/>121,000 to her employees A, B and C for their<br/><br/>extraordinary work dedication for the company<br/><br/>in the ratio <br/> The employee<br/><br/>who got the highest bonus spent 35% of his<br/><br/>bonus for buying a new bike, 25% for his<br/><br/>daughter&#x27;s coaching, 15% for his wife’s saree and<br/><br/>the rest he invested in a scheme at a compound<br/><br/>interest of 20% p.a . Find the amount he got after<br/><br/>2 years from his investment?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs 44,550",
+        "html": "Rs 44,550"
+      },
+      {
+        "id": "B",
+        "text": "Rs 35,640",
+        "html": "Rs 35,640"
+      },
+      {
+        "id": "C",
+        "text": "Rs 24,750",
+        "html": "Rs 24,750"
+      },
+      {
+        "id": "D",
+        "text": "Rs 34,650",
+        "html": "Rs 34,650"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\n:\n:\n.\n36 1\n\n3\n94 1\n\n6\n272 1\n\n9",
+        "html": "None of these<br/><br/>:<br/>:<br/>.<br/>36 1<br/><br/>3<br/>94 1<br/><br/>6<br/>272 1<br/><br/>9"
+      }
+    ],
+    "optionsHtml": [
+      "Rs 44,550",
+      "Rs 35,640",
+      "Rs 24,750",
+      "Rs 34,650",
+      "None of these<br/><br/>:<br/>:<br/>.<br/>36 1<br/><br/>3<br/>94 1<br/><br/>6<br/>272 1<br/><br/>9"
+    ],
+    "explanation": "Ratio of bonus distribution among A, B and C\n\nTotal Bonus amount = 121000\n\n×\n\n(100 −x)% of 20, 250 = 12960\n\n=\n⇒x = 36.\n\n(100−x)\n\n100\n\n12960\n20250\n\n2x + 3x + 4x = 180\n=> 9x = 180\n=> x = 20\n\n= 2(x + 20) = 2x + 40 kg\n\n=> y = \n\n(100 + x)\n\n100 ×3x\n\n=> y =\n\n(100 + x)\n\n100 ×60\n\n=> y =\n= 72 kg\n\n (100+20)\n\n100 × 60\n\n72 kg.\n\n45000 × 2 = Rs 90000\n\n45000 × 2 = Rs 90000\n\n216000\n\n36\n\n=\n× 5 :\n× 7 = 55 : 42\n11\n\n4\n\n9\n6\n\n×\n×\n\n×\n\n:\n:\n= 36 1\n\n3\n94 1\n\n6\n272 1\n\n9\n\n:\n:\n= 36 1\n\n3\n38 1\n\n3\n36 1\n\n3\n\n= 1 : 9 : 1.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "ratio",
+      "proportion",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ratio & Proportion  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "A company manager distributed bonus of Rs\n\n121,000 to her employees A, B and C for their\n\nextraordinary work dedication for the company\n\nin the ratio \n The employee\n\nwho got the highest bonus spent 35% of his\n\nbonus for buying a new bike, 25% for his\n\ndaughter's coaching, 15% for his wife’s saree and\n\nthe rest he invested in a scheme at a compound\n\ninterest of 20% p.a . Find the amount he got after\n\n2 years from his investment?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "ratio",
+        "proportion",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ratio & Proportion  Chapter wise DPP (English)\\Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ratio_proportion_chapter_wise_dpp_english/Ratio & Proportion  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "number_series_chapter_wise_dpp_english_1",
+    "question": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nEach of the digits of the given numbers are\n\narranged in increasing order from left to right\n\nthen what is the sum of the unit digit and tenth\n\ndigit of the lowest number obtained after\n\nrearrangement?",
+    "question_html": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>Each of the digits of the given numbers are<br/><br/>arranged in increasing order from left to right<br/><br/>then what is the sum of the unit digit and tenth<br/><br/>digit of the lowest number obtained after<br/><br/>rearrangement?<br/>",
+    "questionHtml": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>Each of the digits of the given numbers are<br/><br/>arranged in increasing order from left to right<br/><br/>then what is the sum of the unit digit and tenth<br/><br/>digit of the lowest number obtained after<br/><br/>rearrangement?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12",
+      "15",
+      "16",
+      "13",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given numbers: 749 438 817 637 295\n\nDigits of the given numbers are arranged in\n\nincreasing order, so 479 348 178 367 259 Lowest\n\nnumber after rearrangement is 178.\n\nSum of the unit digit and tenth digits of 178 is 15.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q001.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nEach of the digits of the given numbers are\n\narranged in increasing order from left to right\n\nthen what is the sum of the unit digit and tenth\n\ndigit of the lowest number obtained after\n\nrearrangement?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q001.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q001.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q001.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_2",
+    "question": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nIf all the even digits in all the numbers are added\n\nof each of the given numbers then what is the\n\n3rd highest value obtained?",
+    "question_html": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>If all the even digits in all the numbers are added<br/><br/>of each of the given numbers then what is the<br/><br/>3rd highest value obtained?<br/>",
+    "questionHtml": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>If all the even digits in all the numbers are added<br/><br/>of each of the given numbers then what is the<br/><br/>3rd highest value obtained?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6",
+      "8",
+      "7",
+      "12",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given numbers: 749 438 817 637 295 If all the\n\neven digits in all the numbers are added for each\n\nof the given numbers,\n\nwe get 4 12 8 6 2\n\n3rd highest value is 6.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q002.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nIf all the even digits in all the numbers are added\n\nof each of the given numbers then what is the\n\n3rd highest value obtained?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q002.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q002.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q002.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_3",
+    "question": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nWhich among the following numbers (given in\n\nthe arrangement) obtains the highest number if\n\nthe sum of the highest and the lowest digits in\n\neach of the given numbers is considered?",
+    "question_html": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>Which among the following numbers (given in<br/><br/>the arrangement) obtains the highest number if<br/><br/>the sum of the highest and the lowest digits in<br/><br/>each of the given numbers is considered?<br/>",
+    "questionHtml": "<b>Directions: Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>749 438 817 637 295<br/><br/>Which among the following numbers (given in<br/><br/>the arrangement) obtains the highest number if<br/><br/>the sum of the highest and the lowest digits in<br/><br/>each of the given numbers is considered?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "749",
+        "html": "749"
+      },
+      {
+        "id": "B",
+        "text": "438",
+        "html": "438"
+      },
+      {
+        "id": "C",
+        "text": "637",
+        "html": "637"
+      },
+      {
+        "id": "D",
+        "text": "295",
+        "html": "295"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "749",
+      "438",
+      "637",
+      "295",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given numbers: 749 438 817 637\n\n295\n\nSum of the highest and the lowest digits in each\n\nof the given numbers, 13 11 9 10 11",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q003.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Answer the questions based on the\n\ninformation given below.\n\n749 438 817 637 295\n\nWhich among the following numbers (given in\n\nthe arrangement) obtains the highest number if\n\nthe sum of the highest and the lowest digits in\n\neach of the given numbers is considered?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q003.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q003.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q003.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_4",
+    "question": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\nWhich of the following numbers is the second\n\nhighest if we sum all the digits within each\n\nnumber?",
+    "question_html": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/>Which of the following numbers is the second<br/><br/>highest if we sum all the digits within each<br/><br/>number?<br/>",
+    "questionHtml": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/>Which of the following numbers is the second<br/><br/>highest if we sum all the digits within each<br/><br/>number?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "235",
+        "html": "235"
+      },
+      {
+        "id": "B",
+        "text": "126",
+        "html": "126"
+      },
+      {
+        "id": "C",
+        "text": "484",
+        "html": "484"
+      },
+      {
+        "id": "D",
+        "text": "365",
+        "html": "365"
+      },
+      {
+        "id": "E",
+        "text": "728",
+        "html": "728<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "235",
+      "126",
+      "484",
+      "365",
+      "728<br/><br/>"
+    ],
+    "explanation": "We have,\n\n126 235 365 484 728\n\nIf we sum all digits within each number. then we\n\nget,\n\n9 10 14 16 17\n\nHence, 16 is the second highest number which\n\nbelongs to 484.\n\nHence, the correct answer is option C.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q004.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\nWhich of the following numbers is the second\n\nhighest if we sum all the digits within each\n\nnumber?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q004.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q004.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q004.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_5",
+    "question": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\nWhich of the following numbers is the second\n\nlowest if the first and third digits of each number\n\nare interchanged?",
+    "question_html": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/>Which of the following numbers is the second<br/><br/>lowest if the first and third digits of each number<br/><br/>are interchanged?<br/>",
+    "questionHtml": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/>Which of the following numbers is the second<br/><br/>lowest if the first and third digits of each number<br/><br/>are interchanged?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "484",
+        "html": "484"
+      },
+      {
+        "id": "B",
+        "text": "126",
+        "html": "126"
+      },
+      {
+        "id": "C",
+        "text": "728",
+        "html": "728"
+      },
+      {
+        "id": "D",
+        "text": "235",
+        "html": "235"
+      },
+      {
+        "id": "E",
+        "text": "365",
+        "html": "365<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "484",
+      "126",
+      "728",
+      "235",
+      "365<br/><br/>"
+    ],
+    "explanation": "We have,\n\n126 235 365 484 728\n\nWhen the first and third digits are interchanged:\n\n621 532 563 484 827\n\nHence, 532 is the second lowest which belongs\n\nto 235.\n\nHence, the correct answer is option D.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q005.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\nWhich of the following numbers is the second\n\nlowest if the first and third digits of each number\n\nare interchanged?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q005.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q005.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q005.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_6",
+    "question": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\n Number Series \n\nLevel-1",
+    "question_html": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/><b> </b>Number <b>Series</b><b> </b><b> </b><b> </b><br/><br/><b>Level-1</b>",
+    "questionHtml": "<b>As given below, there are five 3-digit numbers.</b><br/><br/><b>Using these numbers as a basis, answer the</b><br/><br/><b>following questions.</b><br/><br/>126 235 365 484 728<br/><br/><b> </b>Number <b>Series</b><b> </b><b> </b><b> </b><br/><br/><b>Level-1</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "We have,\n\n126 235 365 484 728\n\nAfter multiplying\n\n12 30 90 128 112\n\nThus, 90 is the third-lowest number which\n\nbelongs to 365.\n\nHence, the correct answer is option A.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q006.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "As given below, there are five 3-digit numbers.\n\nUsing these numbers as a basis, answer the\n\nfollowing questions.\n\n126 235 365 484 728\n\n Number Series \n\nLevel-1",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q006.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q006.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q006.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_7",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 12 to the left of the\n\n18th from your left?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 12&nbsp; to the left of the<br/><br/>18th from your left?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 12&nbsp; to the left of the<br/><br/>18th from your left?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "3",
+      "7",
+      "5",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "In this question,\n\nWe have,\n\n12th letter from the left = 5\n\nL (18) - L (12) = L (6) { L = left and R = right }\n\n6 letter to the left = 3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q007.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 12 to the left of the\n\n18th from your left?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q007.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q007.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q007.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_8",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 5 to the right of the\n\n10 from your left?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 5&nbsp; to the right of the<br/><br/>10&nbsp; from your left?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 5&nbsp; to the right of the<br/><br/>10&nbsp; from your left?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "3",
+      "7",
+      "5",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "In this question,\n\nWe have,\n\n10 letter from the left = 3\n\nR (5) + L (10) = L (15) { L = left and R = right }\n\n15 letter to the left = 3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q008.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 5 to the right of the\n\n10 from your left?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q008.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q008.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q008.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_9",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 6 to the right of the\n\n18th from your right?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 6&nbsp; to the right of the<br/><br/>18th from your right?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 6&nbsp; to the right of the<br/><br/>18th from your right?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "8",
+      "7",
+      "5",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "In this question,\n\nWe have,\n\n12th letter from the left = 5\n\nR (6) - R (18) = R (12) { L = left and R = right }\n\n12 letter to the right = 8",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q009.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 6 to the right of the\n\n18th from your right?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q009.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q009.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q009.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_10",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 7 to the left of the\n\n15th from your left?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 7&nbsp; to the left of the<br/><br/>15th from your left?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5<br/><br/>Which number will be the 7&nbsp; to the left of the<br/><br/>15th from your left?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "0",
+        "html": "0"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "0",
+      "7",
+      "5",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "In this question,\n\nWe have,\n\n15 letter from the left = 3\n\nL (7) - L (15) = L (8) { L = left and R = right }\n\n8 letter to the left = 0\n\nth\n\nth\n\nth\n\nth\n\nth\n\nth",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q010.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 3 2 0 4 3 8 5 9 5 3 4 9 2 1 0 3 5\n\nWhich number will be the 7 to the left of the\n\n15th from your left?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q010.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q010.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q010.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_11",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 ^ 3 2 0 4 # 3 8 5 * 9 5 3 4 & 9 2 ! 1 0 3 5\n\nWhich element will be the 5 to the right of the\n\n10 from your right?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 ^ 3 2 0 4 # 3 8 5 * 9 5 3 4 &amp; 9 2 ! 1 0 3 5<br/><br/>Which element will be the 5&nbsp; to the right of the<br/><br/>10&nbsp; from your right?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>8 5 7 3 5 ^ 3 2 0 4 # 3 8 5 * 9 5 3 4 &amp; 9 2 ! 1 0 3 5<br/><br/>Which element will be the 5&nbsp; to the right of the<br/><br/>10&nbsp; from your right?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "B",
+        "text": "!",
+        "html": "!"
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "D",
+        "text": "&",
+        "html": "&amp;"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1",
+      "!",
+      "7",
+      "&amp;",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "In this question,\n\nWe have,\n\n10 letter from the right = 5\n\nR (5) - R (10) = R (5) { L = left and R = right }\n\n5 letter to the right = !",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q011.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n8 5 7 3 5 ^ 3 2 0 4 # 3 8 5 * 9 5 3 4 & 9 2 ! 1 0 3 5\n\nWhich element will be the 5 to the right of the\n\n10 from your right?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q011.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q011.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q011.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "number_series_chapter_wise_dpp_english_12",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n958 245 876 386 494\n\nIf all the digits are arranged continuously in the\n\nsame order, to form a single series, then which of\n\nthe following digit is third to the left of the sixth\n\nfrom the right end?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>958 245 876 386 494<br/><br/>If all the digits are arranged continuously in the<br/><br/>same order, to form a single series, then which of<br/><br/>the following digit is third to the left of the sixth<br/><br/>from the right end?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>958 245 876 386 494<br/><br/>If all the digits are arranged continuously in the<br/><br/>same order, to form a single series, then which of<br/><br/>the following digit is third to the left of the sixth<br/><br/>from the right end?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "B",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "4\n\nth\n\nth\n\nth\n\nth\n\nth\n\nth\n\nth",
+        "html": "4<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th"
+      }
+    ],
+    "optionsHtml": [
+      "8",
+      "7",
+      "6",
+      "5",
+      "4<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th"
+    ],
+    "explanation": "Given series 958 245 876 386 494 - 9 5 8 2 4 5 8\n\n7 6 3 8 6 4 9 4\n\nth\n\nth",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "number",
+      "series",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q012.png",
+        "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Number Series  Chapter Wise DPP(English).pdf",
+      "url": "/reasoning-pdfs/Number Series  Chapter Wise DPP(English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\n958 245 876 386 494\n\nIf all the digits are arranged continuously in the\n\nsame order, to form a single series, then which of\n\nthe following digit is third to the left of the sixth\n\nfrom the right end?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "number",
+        "series",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q012.png",
+    "imageRef": "question-images\\Number Series  Chapter Wise DPP(English)\\Number Series  Chapter Wise DPP(English)_q012.png",
+    "image": {
+      "key": "number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q012.png",
+      "url": "/question-images/number_series_chapter_wise_dpp_english/Number Series  Chapter Wise DPP(English)_q012.png",
+      "alt": ""
+    }
+  }
+]

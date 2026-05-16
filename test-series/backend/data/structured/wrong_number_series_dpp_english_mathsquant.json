@@ -1,0 +1,4588 @@
+[
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_1",
+    "question": "Find the wrong term\n\n6 , 12 , 21 , 32 , 45 , 60",
+    "question_html": "Find the wrong term<br/><br/>6 , 12 , 21 , 32 , 45 , 60<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>6 , 12 , 21 , 32 , 45 , 60<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "B",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "C",
+        "text": "21",
+        "html": "21"
+      },
+      {
+        "id": "D",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "E",
+        "text": "6",
+        "html": "6<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "45",
+      "32",
+      "21",
+      "12",
+      "6<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n5(\n6) + 7 = 12\n\n12 + 9 = 21\n\n21 + 11 = 32\n\n32 + 13 = 45\n\n45 + 15 = 60\n\nWrong term = 6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n6 , 12 , 21 , 32 , 45 , 60",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_2",
+    "question": "Find the wrong term\n\n6 , 7 , 9 , 13 , 26 , 37 , 69",
+    "question_html": "Find the wrong term<br/><br/>6 , 7 , 9 , 13 , 26 , 37 , 69<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>6 , 7 , 9 , 13 , 26 , 37 , 69<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "9",
+        "html": "9"
+      },
+      {
+        "id": "B",
+        "text": "37",
+        "html": "37"
+      },
+      {
+        "id": "C",
+        "text": "69",
+        "html": "69"
+      },
+      {
+        "id": "D",
+        "text": "26",
+        "html": "26"
+      },
+      {
+        "id": "E",
+        "text": "7",
+        "html": "7<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "9",
+      "37",
+      "69",
+      "26",
+      "7<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n6 + 1 = 7 \n\n7 + 2 = 9 \n\n9 + 4 = 13 \n\n13 + 8 = 21\n 26\n\n21 + 16 = 37 \n\n37 + 32 = 69 \n\nWrong term = 26",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n6 , 7 , 9 , 13 , 26 , 37 , 69",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_3",
+    "question": "Find the wrong term\n\n29 , 37 , 21 , 43 , 13 , 53 , 5",
+    "question_html": "Find the wrong term<br/><br/>29 , 37 , 21 , 43 , 13 , 53 , 5<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>29 , 37 , 21 , 43 , 13 , 53 , 5<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "43",
+        "html": "43"
+      },
+      {
+        "id": "B",
+        "text": "21",
+        "html": "21"
+      },
+      {
+        "id": "C",
+        "text": "13",
+        "html": "13"
+      },
+      {
+        "id": "D",
+        "text": "53",
+        "html": "53"
+      },
+      {
+        "id": "E",
+        "text": "37",
+        "html": "37<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "43",
+      "21",
+      "13",
+      "53",
+      "37<br/><br/>"
+    ],
+    "explanation": "There are two series,\n\n29 - 8 = 21\n\n21 - 8 = 13\n\n13 - 8 = 5\n\nAnd 37 + 8 = 45 \n 43\n\n45 + 8 = 53\n\nWrong term = 43",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n29 , 37 , 21 , 43 , 13 , 53 , 5",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_4",
+    "question": "Find the wrong term\n\n644 , 328 , 164 , 84 , 44 , 24 , 14",
+    "question_html": "Find the wrong term<br/><br/>644 , 328 , 164 , 84 , 44 , 24 , 14<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>644 , 328 , 164 , 84 , 44 , 24 , 14<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "644",
+        "html": "644"
+      },
+      {
+        "id": "B",
+        "text": "44",
+        "html": "44"
+      },
+      {
+        "id": "C",
+        "text": "84",
+        "html": "84"
+      },
+      {
+        "id": "D",
+        "text": "164",
+        "html": "164"
+      },
+      {
+        "id": "E",
+        "text": "328",
+        "html": "328<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "644",
+      "44",
+      "84",
+      "164",
+      "328<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows:\n\n644 - 320 = 324 \n 328\n\n324 - 160 = 164\n\n164 - 80 = 84\n\n84 - 40 = 44\n\n44 - 20 = 24\n\n24 - 10 = 14\n\nHere, 320 ÷ 2 = 160 ÷ 2 = 80 ÷ 2 = 40 ÷ 2 = 20 ÷ 2\n\n= 10\n\nWrong term = 328",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n644 , 328 , 164 , 84 , 44 , 24 , 14",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_5",
+    "question": "Find the wrong term\n\n7.5 , 47.5 , 87.5 , 157.5 , 247.5 , 357.5 , 487.5",
+    "question_html": "Find the wrong term<br/><br/>7.5 , 47.5 , 87.5 , 157.5 , 247.5 , 357.5 , 487.5<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>7.5 , 47.5 , 87.5 , 157.5 , 247.5 , 357.5 , 487.5<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "47.5",
+        "html": "47.5"
+      },
+      {
+        "id": "B",
+        "text": "7.5",
+        "html": "7.5"
+      },
+      {
+        "id": "C",
+        "text": "157.5",
+        "html": "157.5"
+      },
+      {
+        "id": "D",
+        "text": "87.5",
+        "html": "87.5"
+      },
+      {
+        "id": "E",
+        "text": "357.5",
+        "html": "357.5<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "47.5",
+      "7.5",
+      "157.5",
+      "87.5",
+      "357.5<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n7.5 + 30 = 37.5 \n 47.5\n\n37.5 + 50 = 87.5\n\n87.5 + 70 = 157.5\n\n157.5 + 90 = 247.5\n\nWrong term = 47.5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n7.5 , 47.5 , 87.5 , 157.5 , 247.5 , 357.5 , 487.5",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_6",
+    "question": "Find the wrong term\n\n4 , 5.1 , 7.3 , 10.6 , 15 , 20 , 27.1",
+    "question_html": "Find the wrong term<br/><br/>4 , 5.1 , 7.3 , 10.6 , 15 , 20 , 27.1<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>4 , 5.1 , 7.3 , 10.6 , 15 , 20 , 27.1<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "27.1",
+        "html": "27.1"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "7.3",
+        "html": "7.3"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "5.1",
+        "html": "5.1<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "27.1",
+      "20",
+      "7.3",
+      "4",
+      "5.1<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n4 + 1.1 = 5.1\n\n5.1 + 2.2 = 7.3\n\n7.3 + 3.3 = 10.6\n\n10.6 + 4.4 = 15\n\n15 + 5.5 = 20.5 \n 20\n\n20.5 + 6.6 = 27.1\n\nWrong term = 20",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n4 , 5.1 , 7.3 , 10.6 , 15 , 20 , 27.1",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_7",
+    "question": "Find the wrong term\n\n4 , 10 , 40 , 190 , 940 , 4680 , 23440",
+    "question_html": "Find the wrong term<br/><br/>4 , 10 , 40 , 190 , 940 , 4680 , 23440<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>4 , 10 , 40 , 190 , 940 , 4680 , 23440<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "940",
+        "html": "940"
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "D",
+        "text": "23440",
+        "html": "23440"
+      },
+      {
+        "id": "E",
+        "text": "4680",
+        "html": "4680<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "940",
+      "10",
+      "23440",
+      "4680<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n4 10 40 190 940 4690\n4680 23440\n\n+6 +30 +150 +750 +3750 +18750 \n\n5 x5 x5 x5 x5\n\nWrong term = 4680",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n4 , 10 , 40 , 190 , 940 , 4680 , 23440",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_8",
+    "question": "Find the wrong term\n\n38 , 39 , 43 , 52 , 70 , 93 , 129",
+    "question_html": "Find the wrong term<br/><br/>38 , 39 , 43 , 52 , 70 , 93 , 129<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>38 , 39 , 43 , 52 , 70 , 93 , 129<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "39",
+        "html": "39"
+      },
+      {
+        "id": "B",
+        "text": "129",
+        "html": "129"
+      },
+      {
+        "id": "C",
+        "text": "93",
+        "html": "93"
+      },
+      {
+        "id": "D",
+        "text": "52",
+        "html": "52"
+      },
+      {
+        "id": "E",
+        "text": "70",
+        "html": "70<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "39",
+      "129",
+      "93",
+      "52",
+      "70<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n38 + 1 = 39\n\n39 + 2 = 43\n\n43 + 3 = 52\n\n52 + 4 = 68 \n 70\n\n68 + 5 = 93\n\n93 + \n= 129\n\nWrong term = 70",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n38 , 39 , 43 , 52 , 70 , 93 , 129",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_9",
+    "question": "Find wrong term,\n\n61 , 82 , 124 , 187 , 270 , 376",
+    "question_html": "Find wrong term,<br/><br/>61 , 82 , 124 , 187 , 270 , 376<br/>",
+    "questionHtml": "Find wrong term,<br/><br/>61 , 82 , 124 , 187 , 270 , 376<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "61",
+        "html": "61"
+      },
+      {
+        "id": "B",
+        "text": "82",
+        "html": "82"
+      },
+      {
+        "id": "C",
+        "text": "124",
+        "html": "124"
+      },
+      {
+        "id": "D",
+        "text": "270",
+        "html": "270"
+      },
+      {
+        "id": "E",
+        "text": "187",
+        "html": "187<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "61",
+      "82",
+      "124",
+      "270",
+      "187<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n61 + 21 \n1 = 82\n\n82 + 21 \n2 = 124\n\n124 + 21 \n 3 = 187\n\n187 + 21\n 4 = 271 \n 270\n\n271 + 21 \n 5 = 376\n\nWrong term = 270",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find wrong term,\n\n61 , 82 , 124 , 187 , 270 , 376",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_10",
+    "question": "Find the wrong term\n\n13 , 16 , 21 , 27 , 39 , 52 , 69",
+    "question_html": "Find the wrong term<br/><br/>13 , 16 , 21 , 27 , 39 , 52 , 69<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>13 , 16 , 21 , 27 , 39 , 52 , 69<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "B",
+        "text": "52",
+        "html": "52"
+      },
+      {
+        "id": "C",
+        "text": "27",
+        "html": "27"
+      },
+      {
+        "id": "D",
+        "text": "39",
+        "html": "39"
+      },
+      {
+        "id": "E",
+        "text": "21",
+        "html": "21<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "16",
+      "52",
+      "27",
+      "39",
+      "21<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n≠\n\n≠\n\n≠\n\n≠\n\n≠\n\n≠\n\n≠\n\n×\n\n2\n\n2\n\n2\n\n2\n≠\n\n2\n\n62\n\n×\n\n×\n\n×\n\n×\n≠\n\n×\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n13 , 16 , 21 , 27 , 39 , 52 , 69",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_11",
+    "question": "Find wrong term,\n\n289 , 306 , 340 , 389 , 459 , 544",
+    "question_html": "Find wrong term,<br/><br/>289 , 306 , 340 , 389 , 459 , 544<br/>",
+    "questionHtml": "Find wrong term,<br/><br/>289 , 306 , 340 , 389 , 459 , 544<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "306",
+        "html": "306"
+      },
+      {
+        "id": "C",
+        "text": "389",
+        "html": "389"
+      },
+      {
+        "id": "D",
+        "text": "459",
+        "html": "459"
+      },
+      {
+        "id": "E",
+        "text": "289",
+        "html": "289<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "306",
+      "389",
+      "459",
+      "289<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n289 + 17 \n 1 = 306\n\n306 + 17 \n 2 = 340\n\n340 + 17\n 3 = 391\n389\n\n391 + 17 \n 4 = 459\n\n459 + 17 \n 5 = 544\n\nWrong term = 389",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find wrong term,\n\n289 , 306 , 340 , 389 , 459 , 544",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_12",
+    "question": "Find the wrong term\n\n141 , 156 , 147 , 162 , 153 , 165 , 159",
+    "question_html": "Find the wrong term<br/><br/>141 , 156 , 147 , 162 , 153 , 165 , 159<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>141 , 156 , 147 , 162 , 153 , 165 , 159<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "159",
+        "html": "159"
+      },
+      {
+        "id": "B",
+        "text": "165",
+        "html": "165"
+      },
+      {
+        "id": "C",
+        "text": "147",
+        "html": "147"
+      },
+      {
+        "id": "D",
+        "text": "153",
+        "html": "153"
+      },
+      {
+        "id": "E",
+        "text": "156",
+        "html": "156<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "159",
+      "165",
+      "147",
+      "153",
+      "156<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:141 + 15 = 156\n\n156 - 9 = 147\n\n147 + 15 = 162\n\n162 - 9 = 153\n\n153 + 15 = 168 \n 165\n\n168 - 9 = 159\n\nWrong term = 165",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n141 , 156 , 147 , 162 , 153 , 165 , 159",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_13",
+    "question": "Find the wrong term\n\n14 , 19 , 29 , 40 , 44 , 51 , 59 , 82",
+    "question_html": "Find the wrong term<br/><br/>14 , 19 , 29 , 40 , 44 , 51 , 59 , 82<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>14 , 19 , 29 , 40 , 44 , 51 , 59 , 82<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "82",
+        "html": "82"
+      },
+      {
+        "id": "B",
+        "text": "29",
+        "html": "29"
+      },
+      {
+        "id": "C",
+        "text": "44",
+        "html": "44"
+      },
+      {
+        "id": "D",
+        "text": "51",
+        "html": "51"
+      },
+      {
+        "id": "E",
+        "text": "59",
+        "html": "59<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "82",
+      "29",
+      "44",
+      "51",
+      "59<br/><br/>"
+    ],
+    "explanation": "There are two series,\n\n14 + 15 = 29\n\n29 + 15 = 44\n\n44 + 15 = 59\n\nAnd 19 + 21 = 40\n\n40 + 21 = 61 \n 51\n\n61 + 21 = 82\n\nWrong term = 51",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n14 , 19 , 29 , 40 , 44 , 51 , 59 , 82",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_14",
+    "question": "Find the wrong term in the series\n\nWrong Number Series\n\nLevel-1",
+    "question_html": "Find the wrong term in the series<br/><br/><b>Wrong Number Series</b><br/><br/><b>Level-1</b>",
+    "questionHtml": "Find the wrong term in the series<br/><br/><b>Wrong Number Series</b><br/><br/><b>Level-1</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n11\n\n11 + 7 = 18\n\n18 + 11 = 29\n\n29 + 13 = 42\n\n42 + 17 = 59\n\n59 + 19 = 78\n\n78 + 23 = 101\n\nWrong term = 80",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the wrong term in the series\n\nWrong Number Series\n\nLevel-1",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_15",
+    "question": "Find the wrong term in the given series.\n\n201 196 181 146 121 76 21",
+    "question_html": "Find the wrong term in the given series.<br/><br/>201 196 181 146 121 76 21<br/>",
+    "questionHtml": "Find the wrong term in the given series.<br/><br/>201 196 181 146 121 76 21<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "201",
+        "html": "201"
+      },
+      {
+        "id": "B",
+        "text": "196",
+        "html": "196"
+      },
+      {
+        "id": "C",
+        "text": "181",
+        "html": "181"
+      },
+      {
+        "id": "D",
+        "text": "146",
+        "html": "146"
+      },
+      {
+        "id": "E",
+        "text": "121",
+        "html": "121<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "201",
+      "196",
+      "181",
+      "146",
+      "121<br/><br/>"
+    ],
+    "explanation": "201 – (5×1) = 196\n\n196 – (5×3) = 181\n\n181 – (5×5) = 156\n\n156 – (5×7) = 121\n\n121 – (5×9) = 76\n\n76 – (5×11) = 21",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term in the given series.\n\n201 196 181 146 121 76 21",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_16",
+    "question": "Find the wrong term\n\n0.5 , 2 , 1 , 4 , 32 , 512 , 16384",
+    "question_html": "Find the wrong term<br/><br/>0.5 , 2 , 1 , 4 , 32 , 512 , 16384<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>0.5 , 2 , 1 , 4 , 32 , 512 , 16384<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "512",
+        "html": "512"
+      },
+      {
+        "id": "B",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "1",
+        "html": "1<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "512",
+      "32",
+      "4",
+      "2",
+      "1<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows:\n\n0.5 \n 1 = 0.5 \n 2\n\n0.5 \n 2 = 1\n\n1 \n 4 = 4\n\n4 \n 8 = 32\n\n32 \n 16 = 512\n\n512 \n 32 = 16384\n\nWrong term = 2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n0.5 , 2 , 1 , 4 , 32 , 512 , 16384",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_17",
+    "question": "Find the wrong term\n\n16 , 24 , 37 , 54 , 81 , 121.5",
+    "question_html": "Find the wrong term<br/><br/>16 , 24 , 37 , 54 , 81 , 121.5<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>16 , 24 , 37 , 54 , 81 , 121.5<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "81",
+        "html": "81"
+      },
+      {
+        "id": "B",
+        "text": "121.5",
+        "html": "121.5"
+      },
+      {
+        "id": "C",
+        "text": "37",
+        "html": "37"
+      },
+      {
+        "id": "D",
+        "text": "54",
+        "html": "54"
+      },
+      {
+        "id": "E",
+        "text": "24",
+        "html": "24<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "81",
+      "121.5",
+      "37",
+      "54",
+      "24<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows:\n\nPattern Given\n\n16\n\n16 \n = 24\n\n24\n = 36 not 37\n\n36 \n = 54 \n\n54 \n = 81 \n\n81 \n = 121.5\n\nHence, Wrong number = 37",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n16 , 24 , 37 , 54 , 81 , 121.5",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_18",
+    "question": "Find the wrong term in the following number\n\nseries.\n\n2 , 3 , 6 , 15 , 45 , 156.5 , 630",
+    "question_html": "Find the wrong term in the following number<br/><br/>series.<br/><br/>2 , 3 , 6 , 15 , 45 , 156.5 , 630<br/>",
+    "questionHtml": "Find the wrong term in the following number<br/><br/>series.<br/><br/>2 , 3 , 6 , 15 , 45 , 156.5 , 630<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "156.5",
+        "html": "156.5"
+      },
+      {
+        "id": "B",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "C",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "D",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "E",
+        "text": "3",
+        "html": "3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "156.5",
+      "6",
+      "15",
+      "45",
+      "3<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n2 \n\n2 \n 1.5 = 3 \n\n3 \n 2 = 6 \n\n6\n2.5 = 15 \n\n15 \n 3 = 45 \n\n45 \n 3.5 = 157.5 \n\n157.5 \n4 = 630 \n\nWrong term = 156.5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term in the following number\n\nseries.\n\n2 , 3 , 6 , 15 , 45 , 156.5 , 630",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_19",
+    "question": "Find the wrong term\n\n4 , 5 , 12 , 38 , 160 , 805 , 4836",
+    "question_html": "Find the wrong term<br/><br/>4 , 5 , 12 , 38 , 160 , 805 , 4836<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>4 , 5 , 12 , 38 , 160 , 805 , 4836<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4836",
+        "html": "4836"
+      },
+      {
+        "id": "B",
+        "text": "805",
+        "html": "805"
+      },
+      {
+        "id": "C",
+        "text": "38",
+        "html": "38"
+      },
+      {
+        "id": "D",
+        "text": "160",
+        "html": "160"
+      },
+      {
+        "id": "E",
+        "text": "12",
+        "html": "12<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4836",
+      "805",
+      "38",
+      "160",
+      "12<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n4\n1 + 1 = 5\n\n5\n 2 + 2 = 12\n\n×\n\n×\n\n×\n≠\n\n×\n\n×\n\n≠\n\n≠\n\n×\n≠\n\n×\n\n×\n\n×\n\n×\n\n×\n\n× 3\n\n2\n\n× 3\n\n2\n\n× 3\n\n2\n\n× 3\n\n2\n\n× 3\n\n2\n\n×\n×\n\n×\n\n×\n\n×\n\n×\n\n×\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n4 , 5 , 12 , 38 , 160 , 805 , 4836",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_20",
+    "question": "Find the wrong term in the following series.\n\n14.2 , 16.3 , 12.1 , 18.4 , 10.6 , 20.5",
+    "question_html": "Find the wrong term in the following series.<br/><br/>14.2 , 16.3 , 12.1 , 18.4 , 10.6 , 20.5<br/>",
+    "questionHtml": "Find the wrong term in the following series.<br/><br/>14.2 , 16.3 , 12.1 , 18.4 , 10.6 , 20.5<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "20.5",
+        "html": "20.5"
+      },
+      {
+        "id": "B",
+        "text": "10.6",
+        "html": "10.6"
+      },
+      {
+        "id": "C",
+        "text": "18.4",
+        "html": "18.4 "
+      },
+      {
+        "id": "D",
+        "text": "12.1",
+        "html": "12.1"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "optionsHtml": [
+      "20.5",
+      "10.6",
+      "18.4 ",
+      "12.1",
+      "None of these"
+    ],
+    "explanation": "The order of the series is as follows,\n\n×\n≠38\n\n×\n\n×\n\n×\n\n 14. 2 + 2. 1 = 16. 3\n 16. 3 −4. 2 = 12. 1\n 12. 1 + 6. 3 = 18. 4\n 18. 4 −8. 4 = 10 ≠10. 6\n 10 + 10. 5 = 20. 5\n गलत कम = 10. 6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong term in the following series.\n\n14.2 , 16.3 , 12.1 , 18.4 , 10.6 , 20.5",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_21",
+    "question": "Find the wrong number in the given series.\n\n80 , 42 , 24 , 13.5 , 8.75 , 6.375 , 5.1875",
+    "question_html": "Find the wrong number in the given series.<br/><br/>80 , 42 , 24 , 13.5 , 8.75 , 6.375 , 5.1875<br/>",
+    "questionHtml": "Find the wrong number in the given series.<br/><br/>80 , 42 , 24 , 13.5 , 8.75 , 6.375 , 5.1875<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "42",
+        "html": "42"
+      },
+      {
+        "id": "B",
+        "text": "6.375",
+        "html": "6.375"
+      },
+      {
+        "id": "C",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "D",
+        "text": "13.5",
+        "html": "13.5"
+      },
+      {
+        "id": "E",
+        "text": "8.75",
+        "html": "8.75<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "42",
+      "6.375",
+      "24",
+      "13.5",
+      "8.75<br/><br/>"
+    ],
+    "explanation": "Pattern is given below:\n\n80 \n 2 + 2 = 42\n\n42 \n 2 + 2 = 23 \n 24\n\n23 \n 2 + 2 = 13.5\n\n13.5\n 2 + 2 = 8.75\n\n8.75 \n 2 + 2 = 6.375\n\nWrong number = 24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong number in the given series.\n\n80 , 42 , 24 , 13.5 , 8.75 , 6.375 , 5.1875",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_22",
+    "question": "Find the wrong term in the series\n\n7 , 8 , 18 , 57 , 230 , 1165",
+    "question_html": "Find the wrong term in the series<br/><br/>7 , 8 , 18 , 57 , 230 , 1165<br/>",
+    "questionHtml": "Find the wrong term in the series<br/><br/>7 , 8 , 18 , 57 , 230 , 1165<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "57",
+        "html": "57"
+      },
+      {
+        "id": "E",
+        "text": "230",
+        "html": "230<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7",
+      "8",
+      "18",
+      "57",
+      "230<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n7 \n 1 + 1 = 8\n\n8 \n 2 + 2 = 18\n\n18 \n 3 + 3 = 57\n\n57 \n 4 + 4 = 232 \n 230\n\n232 \n 5 + 5 = 1165\n\nWrong term = 230",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term in the series\n\n7 , 8 , 18 , 57 , 230 , 1165",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_23",
+    "question": "Find wrong term,\n\n20 , 38 , 74 , 148 , 290 , 578",
+    "question_html": "Find wrong term,<br/><br/>20 , 38 , 74 , 148 , 290 , 578<br/>",
+    "questionHtml": "Find wrong term,<br/><br/>20 , 38 , 74 , 148 , 290 , 578<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "148",
+        "html": "148"
+      },
+      {
+        "id": "B",
+        "text": "38",
+        "html": "38"
+      },
+      {
+        "id": "C",
+        "text": "74",
+        "html": "74"
+      },
+      {
+        "id": "D",
+        "text": "290",
+        "html": "290"
+      },
+      {
+        "id": "E",
+        "text": "578",
+        "html": "578<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "148",
+      "38",
+      "74",
+      "290",
+      "578<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n20 \n 2 - 2 = 38\n\n38 \n 2 - 2 = 74\n\n74 \n 2 - 2 = 146 \n 148\n\n146 \n 2 - 2 = 290\n\n290 \n 2 - 2 = 578\n\nWrong term = 148",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find wrong term,\n\n20 , 38 , 74 , 148 , 290 , 578",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_24",
+    "question": "Find the wrong term\n\n3 , 7.5 , 15 , 37.5 , 76 , 167.5 , 375",
+    "question_html": "Find the wrong term<br/><br/>3 , 7.5 , 15 , 37.5 , 76 , 167.5 , 375<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>3 , 7.5 , 15 , 37.5 , 76 , 167.5 , 375<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7.5",
+        "html": "7.5"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "37",
+        "html": "37"
+      },
+      {
+        "id": "D",
+        "text": "76",
+        "html": "76"
+      },
+      {
+        "id": "E",
+        "text": "167.5",
+        "html": "167.5<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7.5",
+      "15",
+      "37",
+      "76",
+      "167.5<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n3 \n\n3 \n 2.5 = 7.5 \n\n7.5\n 2 = 15 \n\n15 \n 2.5 = 37.5 \n\n37.5\n 2 = 75\n\n75 \n 2.5 = 187.5 \n\n187.5 \n 2 = 375 \n\nWrong term = 76",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n3 , 7.5 , 15 , 37.5 , 76 , 167.5 , 375",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_25",
+    "question": "Find the wrong term in the series.\n\n3 , 7 , 16 , 32 , 56 , 93 , 142",
+    "question_html": "Find the wrong term in the series.<br/><br/>3 , 7 , 16 , 32 , 56 , 93 , 142<br/>",
+    "questionHtml": "Find the wrong term in the series.<br/><br/>3 , 7 , 16 , 32 , 56 , 93 , 142<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "142",
+        "html": "142"
+      },
+      {
+        "id": "B",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "C",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "D",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "E",
+        "text": "56",
+        "html": "56<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "142",
+      "7",
+      "32",
+      "16",
+      "56<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n3\n\n3 + \n = 7\n\n7 + \n = 16\n\n16 + \n= 32\n\n32 +\n= 57\n\n57 + \n= 93\n\n93 +\n= 142\n\nWrong number = 56",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term in the series.\n\n3 , 7 , 16 , 32 , 56 , 93 , 142",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_26",
+    "question": "Find the wrong term\n\n251 , 252 , 254 , 227 , 243 , 118 , 154",
+    "question_html": "Find the wrong term<br/><br/>251 , 252 , 254 , 227 , 243 , 118 , 154<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>251 , 252 , 254 , 227 , 243 , 118 , 154<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "154",
+        "html": "154"
+      },
+      {
+        "id": "B",
+        "text": "243",
+        "html": "243"
+      },
+      {
+        "id": "C",
+        "text": "227",
+        "html": "227"
+      },
+      {
+        "id": "D",
+        "text": "252",
+        "html": "252"
+      },
+      {
+        "id": "E",
+        "text": "251",
+        "html": "251<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "154",
+      "243",
+      "227",
+      "252",
+      "251<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n251 - \n= 250 \n 252\n\n250 + \n= 254\n\n254 - \n = 227\n\n227 + \n = 243\n\nWrong term = 252",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n251 , 252 , 254 , 227 , 243 , 118 , 154",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_27",
+    "question": "Find the wrong term\n\n2 , 6 , 10 , 19 , 36 , 69 , 134",
+    "question_html": "Find the wrong term<br/><br/>2 , 6 , 10 , 19 , 36 , 69 , 134<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>2 , 6 , 10 , 19 , 36 , 69 , 134<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "69",
+        "html": "69"
+      },
+      {
+        "id": "E",
+        "text": "134",
+        "html": "134<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "2",
+      "6",
+      "69",
+      "134<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows:\n\n2 + 3 = 5 \n 6\n\n5 + 5 = 10\n\n10 + 9 = 19\n\n19 + 17 = 36\n\n36 + 33 = 69\n\n69 + 65 = 134\n\nHere, 3 \n 2 - 1 = 5\n\n5 \n 2 - 1 = 9\n\n9 \n 2 - 1 = 17\n\n17 \n2 - 1 = 33\n\n33 \n 2 - 1 = 65\n\nWrong term = 6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n2 , 6 , 10 , 19 , 36 , 69 , 134",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_28",
+    "question": "Find the wrong term\n\n2 , 3 , 8 , 31 , 154 , 924 , 6460",
+    "question_html": "Find the wrong term<br/><br/>2 , 3 , 8 , 31 , 154 , 924 , 6460<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>2 , 3 , 8 , 31 , 154 , 924 , 6460<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "31",
+        "html": "31"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "154",
+        "html": "154"
+      },
+      {
+        "id": "D",
+        "text": "6460",
+        "html": "6460"
+      },
+      {
+        "id": "E",
+        "text": "924",
+        "html": "924<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "31",
+      "8",
+      "154",
+      "6460",
+      "924<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n2 \n2 - 1 = 3\n\n3 \n3 - 1 = 8\n\n8 \n4 - 1 = 31\n\n31 \n 5 - 1 = 154\n\n154 \n 6 - 1 = 923 \n 924\n\n923\n\nWrong number = 924",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n2 , 3 , 8 , 31 , 154 , 924 , 6460",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_29",
+    "question": "Find the wrong term\n\n2 , 11 , 38 , 197 , 1172 , 8227 , 65806",
+    "question_html": "Find the wrong term<br/><br/>2 , 11 , 38 , 197 , 1172 , 8227 , 65806<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>2 , 11 , 38 , 197 , 1172 , 8227 , 65806<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "1172",
+        "html": "1172"
+      },
+      {
+        "id": "C",
+        "text": "197",
+        "html": "197"
+      },
+      {
+        "id": "D",
+        "text": "38",
+        "html": "38"
+      },
+      {
+        "id": "E",
+        "text": "11",
+        "html": "11<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "1172",
+      "197",
+      "38",
+      "11<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n2 \n 3 + 5 = 11\n\n11 \n 4 - 6 = 38\n\n÷\n\n÷\n≠\n\n÷\n\n÷\n\n÷\n\n×\n\n×\n\n×\n\n×\n≠\n\n×\n\n×\n\n×\n\n×\n≠\n\n×\n\n×\n\n×\n\n×\n×\n\n×\n≠76\n\n×\n\n×\n\n22\n\n32\n\n42\n\n52\n\n62\n\n72\n\n13\n≠\n\n22\n\n33\n\n42\n\n≠\n\n×\n\n×\n×\n\n×\n\n×\n\n×\n×\n×\n\n×\n\n×\n≠\n\n×7 −1 = 6460\n\n×\n\n×\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n2 , 11 , 38 , 197 , 1172 , 8227 , 65806",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_30",
+    "question": "Find the wrong term\n\n1 , 3 , 9 , 31 , 128 , 651 , 3913",
+    "question_html": "Find the wrong term<br/><br/>1 , 3 , 9 , 31 , 128 , 651 , 3913<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>1 , 3 , 9 , 31 , 128 , 651 , 3913<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "128",
+        "html": "128"
+      },
+      {
+        "id": "B",
+        "text": "3913",
+        "html": "3913"
+      },
+      {
+        "id": "C",
+        "text": "1",
+        "html": "1"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "31",
+        "html": "31<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "128",
+      "3913",
+      "1",
+      "3",
+      "31<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows:\n\nPattern Given\n\n1 \n 1 + 2 = 3 \n\n3 \n 2 + 3 = 9 \n\n9 \n 3 + 4 = 31 \n\n31 \n 4 + 5 = 129 \n\n129 \n 5 + 6 = 651 \n\n651 \n 6 + 7 = 3913 \n\nWrong term = 128",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n1 , 3 , 9 , 31 , 128 , 651 , 3913",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_31",
+    "question": "Find the wrong term in the given series\n\n7 27 93 301 915 2775 8361",
+    "question_html": "Find the wrong term in the given series<br/><br/>7  27   93   301   915   2775   8361<br/>",
+    "questionHtml": "Find the wrong term in the given series<br/><br/>7  27   93   301   915   2775   8361<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "93",
+        "html": "93"
+      },
+      {
+        "id": "B",
+        "text": "301",
+        "html": "301"
+      },
+      {
+        "id": "C",
+        "text": "915",
+        "html": "915"
+      },
+      {
+        "id": "D",
+        "text": "2775",
+        "html": "2775"
+      },
+      {
+        "id": "E",
+        "text": "All terms are correct",
+        "html": "All terms are correct<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "93",
+      "301",
+      "915",
+      "2775",
+      "All terms are correct<br/><br/>"
+    ],
+    "explanation": "7 × 3 + 6 = 27 27\n\n27 × 3 + 12 = 93\n\n93 × 3 + 18 = 297\n\n297 × 3 + 24 = 915\n\n915 × 3 + 30 = 2775\n\n2775 × 3 + 36 = 8361",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term in the given series\n\n7 27 93 301 915 2775 8361",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_32",
+    "question": "Find the wrong term\n\n1331 , 2197 , 3375 , 4914 , 6859 , 9261 , 12167",
+    "question_html": "Find the wrong term<br/><br/>1331 , 2197 , 3375 , 4914 , 6859 , 9261 , 12167<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>1331 , 2197 , 3375 , 4914 , 6859 , 9261 , 12167<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12167",
+        "html": "12167"
+      },
+      {
+        "id": "B",
+        "text": "2197",
+        "html": "2197"
+      },
+      {
+        "id": "C",
+        "text": "9261",
+        "html": "9261"
+      },
+      {
+        "id": "D",
+        "text": "6859",
+        "html": "6859"
+      },
+      {
+        "id": "E",
+        "text": "4914",
+        "html": "4914<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12167",
+      "2197",
+      "9261",
+      "6859",
+      "4914<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n= 1331\n\n= 2197\n\n= 3375\n\n = 4913\n\n = 6859\n\n = 9261\n\n = 12167\n\nWrong term = 4914",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n1331 , 2197 , 3375 , 4914 , 6859 , 9261 , 12167",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_33",
+    "question": "Find the wrong term in the series\n\n1 , 3 , 10 , 36 , 152 , 760 , 4632",
+    "question_html": "Find the wrong term in the series<br/><br/>1 , 3 , 10 , 36 , 152 , 760 , 4632<br/>",
+    "questionHtml": "Find the wrong term in the series<br/><br/>1 , 3 , 10 , 36 , 152 , 760 , 4632<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "152",
+        "html": "152"
+      },
+      {
+        "id": "B",
+        "text": "760",
+        "html": "760"
+      },
+      {
+        "id": "C",
+        "text": "4632",
+        "html": "4632"
+      },
+      {
+        "id": "D",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "E",
+        "text": "3",
+        "html": "3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "152",
+      "760",
+      "4632",
+      "36",
+      "3<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n1\n 1 + 2 = 3\n\n3 \n 2 + 4 = 10\n\n10 \n 3 + 6 = 36\n\n36\n 4 + 8 = 152\n\n152 \n 5 + 10 = 770\n\n770 \n 6 + 12 = 4632\n\nWrong term = 760",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term in the series\n\n1 , 3 , 10 , 36 , 152 , 760 , 4632",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_34",
+    "question": "Find the wrong term\n\n2 , 9 , 28 , 65 , 126 , 216 , 344",
+    "question_html": "Find the wrong term<br/><br/>2 , 9 , 28 , 65 , 126 , 216 , 344<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>2 , 9 , 28 , 65 , 126 , 216 , 344<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "344",
+        "html": "344"
+      },
+      {
+        "id": "B",
+        "text": "28",
+        "html": "28"
+      },
+      {
+        "id": "C",
+        "text": "216",
+        "html": "216"
+      },
+      {
+        "id": "D",
+        "text": "65",
+        "html": "65"
+      },
+      {
+        "id": "E",
+        "text": "9\n\nLevel-2",
+        "html": "9<br/><br/><b>Level-2</b>"
+      }
+    ],
+    "optionsHtml": [
+      "344",
+      "28",
+      "216",
+      "65",
+      "9<br/><br/><b>Level-2</b>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n + 1 = 2\n\n + 1 = 9\n\n + 1 = 28\n\n + 1 = 65\n\n + 1 = 126\n\n + 1 = 217 \n\n + 1 = 344\n\nWrong term = 216",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n2 , 9 , 28 , 65 , 126 , 216 , 344",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_35",
+    "question": "A series is 5, 5, 10, 65, 395, 3165. Find the odd\n\none out.\n\nIf another series follows the same pattern and\n\nstarts with the wrong term of the above series,\n\nthen find the wrong term and 4 term of the\n\nseries.",
+    "question_html": "<b>A series is 5, 5, 10, 65, 395, 3165. Find the odd</b><br/><br/><b>one out.</b><br/><br/>If another series follows the same pattern and<br/><br/>starts with the wrong term of the above series,<br/><br/>then find the wrong term and 4&nbsp; term of the<br/><br/>series.<br/>",
+    "questionHtml": "<b>A series is 5, 5, 10, 65, 395, 3165. Find the odd</b><br/><br/><b>one out.</b><br/><br/>If another series follows the same pattern and<br/><br/>starts with the wrong term of the above series,<br/><br/>then find the wrong term and 4&nbsp; term of the<br/><br/>series.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "65, 45",
+        "html": "65, 45"
+      },
+      {
+        "id": "B",
+        "text": "395, 40",
+        "html": "395, 40"
+      },
+      {
+        "id": "C",
+        "text": "10, 65",
+        "html": "10, 65"
+      },
+      {
+        "id": "D",
+        "text": "395, 80",
+        "html": "395, 80"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "65, 45",
+      "395, 40",
+      "10, 65",
+      "395, 80",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "5 × 0 + 5 = 5\n\n5 × 2 + 5 = 15\n\n15 × 4 + 5 = 65\n\n65 × 6 + 5 = 395\n\n395 × 8 + 5 = 3165\n\nTherefore, 15 should come in place of 10\n\nTherefore,\n\n10 × 0 + 5 = 5\n\n5 × 2 + 5 = 15\n\n15 × 4 + 5 = 65\n\nHence, option C.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A series is 5, 5, 10, 65, 395, 3165. Find the odd\n\none out.\n\nIf another series follows the same pattern and\n\nstarts with the wrong term of the above series,\n\nthen find the wrong term and 4 term of the\n\nseries.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_36",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P in\n\nit?\n\n168, 108, 48, 24, 8, 3\n\nP is what percent of the number, which will\n\ncome in place of P?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P in<br/><br/>it?<br/><br/>168, 108, 48, 24, 8, 3<br/><br/>P is what percent of the number, which will<br/><br/>come in place of P?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P in<br/><br/>it?<br/><br/>168, 108, 48, 24, 8, 3<br/><br/>P is what percent of the number, which will<br/><br/>come in place of P?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "60%",
+        "html": "60%"
+      },
+      {
+        "id": "B",
+        "text": "96%",
+        "html": "96%"
+      },
+      {
+        "id": "C",
+        "text": "80%",
+        "html": "80%"
+      },
+      {
+        "id": "D",
+        "text": "90%",
+        "html": "90%"
+      },
+      {
+        "id": "E",
+        "text": "70%",
+        "html": "70%<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "60%",
+      "96%",
+      "80%",
+      "90%",
+      "70%<br/><br/>"
+    ],
+    "explanation": "Logic in the series:\n\n - 1 = 168\n\n - 1 = 120(108)\n\n - 1 = 48\n\n - 1 = 24\n\n - 1 = 8\n\n - 1 = 3\n\nSo, the value of P = 108\n\nAnd the number, which will come in place of P =\n\n120\n\nRequired percentage = \n = 90%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P in\n\nit?\n\n168, 108, 48, 24, 8, 3\n\nP is what percent of the number, which will\n\ncome in place of P?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_37",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P.\n\n3, 10, 34, 99, 301, 908\n\nFind the difference between 50% and 80% of\n\nthe number, which will come in place of P?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P.<br/><br/>3, 10, 34, 99, 301, 908<br/><br/>Find the difference between 50% and 80% of<br/><br/>the number, which will come in place of P?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P.<br/><br/>3, 10, 34, 99, 301, 908<br/><br/>Find the difference between 50% and 80% of<br/><br/>the number, which will come in place of P?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "28.8",
+        "html": "28.8"
+      },
+      {
+        "id": "B",
+        "text": "88.8",
+        "html": "88.8"
+      },
+      {
+        "id": "C",
+        "text": "9.6",
+        "html": "9.6"
+      },
+      {
+        "id": "D",
+        "text": "270",
+        "html": "270"
+      },
+      {
+        "id": "E",
+        "text": "96",
+        "html": "96<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "28.8",
+      "88.8",
+      "9.6",
+      "270",
+      "96<br/><br/>"
+    ],
+    "explanation": "Logic in the series:\n\n3 × 3 + 1 = 10\n\n10 × 3 + 2 = 32(34)\n\n32 × 3 + 3 = 99\n\n99 × 3 + 4 = 301\n\n301 × 3 + 5 = 908\n\n×\n\n×\n ≠1172\n\n×\n\n×\n\n×\n\n×\n×\n\n×\n\n×\n×\n\n113\n\n133\n\n153\n\n173\n\n193\n\n213\n\n233\n\n×\n\n×\n\n×\n\n×\n\n×\n\n×\n\n13\n\n23\n\n33\n\n43\n\n53\n\n63\n≠216\n\n73\n\n132\n\n112\n\n72\n\n52\n\n32\n\n22\n\n × 100\n108\n120",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P.\n\n3, 10, 34, 99, 301, 908\n\nFind the difference between 50% and 80% of\n\nthe number, which will come in place of P?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_38",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nTwo series (I) and (II) are given below, with\n\nwrong term P is series (I) and wrong term Q in\n\nseries (II).\n\n(I): 6, 20, 47, 83, 132, 196\n\n(II): 11, 15, 20, 31, 45, 67\n\nFind that P is what percent of Q?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>Two series (I) and (II) are given below, with<br/><br/>wrong term P is series (I) and wrong term Q in<br/><br/>series (II).<br/><br/>(I): 6, 20, 47, 83, 132, 196<br/><br/>(II): 11, 15, 20, 31, 45, 67<br/><br/>Find that P is what percent of Q?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>Two series (I) and (II) are given below, with<br/><br/>wrong term P is series (I) and wrong term Q in<br/><br/>series (II).<br/><br/>(I): 6, 20, 47, 83, 132, 196<br/><br/>(II): 11, 15, 20, 31, 45, 67<br/><br/>Find that P is what percent of Q?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "133.33%",
+        "html": "133.33%"
+      },
+      {
+        "id": "B",
+        "text": "66.67%",
+        "html": "66.67%"
+      },
+      {
+        "id": "C",
+        "text": "44.44%",
+        "html": "44.44%"
+      },
+      {
+        "id": "D",
+        "text": "29.85%",
+        "html": "29.85%"
+      },
+      {
+        "id": "E",
+        "text": "100%",
+        "html": "100%<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "133.33%",
+      "66.67%",
+      "44.44%",
+      "29.85%",
+      "100%<br/><br/>"
+    ],
+    "explanation": "Logic in series (I):\n\n6 + \n = 22(20)\n\n22 + \n = 47\n\n47 + \n = 83\n\n83 + \n = 132\n\n132 + \n = 196\n\nSo, wrong term in the series = P = 20\n\nLogic in series (II):\n\n11 + 2 × 2 = 15\n\n15 + 3 × 2 = 21(20)\n\n21 + 5 × 2 = 31\n\n31 + 7 × 2 = 45\n\n45 + 11 × 2 = 67\n\nSo, wrong term in the series = Q = 20\n\nRequired percentage = \n = 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nTwo series (I) and (II) are given below, with\n\nwrong term P is series (I) and wrong term Q in\n\nseries (II).\n\n(I): 6, 20, 47, 83, 132, 196\n\n(II): 11, 15, 20, 31, 45, 67\n\nFind that P is what percent of Q?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_39",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given with one wrong term in it.\n\n25, 35, 20, 40, 15, 55\n\nIf a new series is formed, whose 1st term is the\n\nwrong term of the given series and follows the\n\nsame pattern as in the given series, then find\n\nthat the 5th term of the new series will be equal\n\nto the which term of the given series?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given with one wrong term in it.<br/><br/>25, 35, 20, 40, 15, 55<br/><br/>If a new series is formed, whose 1st term is the<br/><br/>wrong term of the given series and follows the<br/><br/>same pattern as in the given series, then find<br/><br/>that the 5th term of the new series will be equal<br/><br/>to the which term of the given series?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given with one wrong term in it.<br/><br/>25, 35, 20, 40, 15, 55<br/><br/>If a new series is formed, whose 1st term is the<br/><br/>wrong term of the given series and follows the<br/><br/>same pattern as in the given series, then find<br/><br/>that the 5th term of the new series will be equal<br/><br/>to the which term of the given series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2nd term",
+        "html": "2nd term"
+      },
+      {
+        "id": "B",
+        "text": "5th term",
+        "html": "5th term"
+      },
+      {
+        "id": "C",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "D",
+        "text": "3rd term",
+        "html": "3rd term"
+      },
+      {
+        "id": "E",
+        "text": "4th term",
+        "html": "4th term<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2nd term",
+      "5th term",
+      "None of these",
+      "3rd term",
+      "4th term<br/><br/>"
+    ],
+    "explanation": "Logic in the given series:\n\n25 + 10 = 35\n\n35 - 15 = 20\n\n20 + 20 = 40\n\n40 - 25 = 15\n\n15 + 30 = 45(55)\n\nSo, the wrong term in the given series = 55\n\nNow,\n\n1st term of the new series = 55\n\n2nd term of the new series = 55 + 10 = 65\n\n3rd term of the new series = 65 - 15 = 50\n\n4th term of the new series = 50 + 20 = 70\n\n5th term of the new series = 70 - 25 = 45\n\nSo, the 5th term of the new series will be equal\n\nto the 6th term of the given series, which will\n\ncome in place of the wrong term.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given with one wrong term in it.\n\n25, 35, 20, 40, 15, 55\n\nIf a new series is formed, whose 1st term is the\n\nwrong term of the given series and follows the\n\nsame pattern as in the given series, then find\n\nthat the 5th term of the new series will be equal\n\nto the which term of the given series?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_40",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P.\n\n30, 55, 104, 250, 394, 683\n\nFind that the number, which will come in place\n\nof P is what percent of P?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P.<br/><br/>30, 55, 104, 250, 394, 683<br/><br/>Find that the number, which will come in place<br/><br/>of P is what percent of P?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P.<br/><br/>30, 55, 104, 250, 394, 683<br/><br/>Find that the number, which will come in place<br/><br/>of P is what percent of P?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "98.5%",
+        "html": "98.5%"
+      },
+      {
+        "id": "B",
+        "text": "86.67%",
+        "html": "86.67%"
+      },
+      {
+        "id": "C",
+        "text": "90%",
+        "html": "90%"
+      },
+      {
+        "id": "D",
+        "text": "73.33%",
+        "html": "73.33%"
+      },
+      {
+        "id": "E",
+        "text": "80%\n\nth",
+        "html": "80%<br/><br/>th"
+      }
+    ],
+    "optionsHtml": [
+      "98.5%",
+      "86.67%",
+      "90%",
+      "73.33%",
+      "80%<br/><br/>th"
+    ],
+    "explanation": "Logic in the series:\n\n30 + \n =55\n\n55 + \n = 104\n\n104 + \n = 225(250)\n\n225 + \n = 394\n\n394 + \n = 683\n\nThe value of P = 250\n\nAnd the number, which will come in place of P =\n\n225\n\nRequired percentage = \n = 90%\n\n42\n\n52\n\n62\n\n72\n\n82\n\n × 100\n20\n20\n\n52\n\n72\n\n112\n\n132\n\n172\n\n × 100\n225\n250",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P.\n\n30, 55, 104, 250, 394, 683\n\nFind that the number, which will come in place\n\nof P is what percent of P?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_41",
+    "question": "Directions : Find out the wrong number in the\n\nfollowing number series.\n\n325, 546, 754, 936, 1078, 1170",
+    "question_html": "<b>Directions : Find out the wrong number in the</b><br/><br/><b>following number series.</b><br/><br/>325, 546, 754, 936, 1078, 1170<br/>",
+    "questionHtml": "<b>Directions : Find out the wrong number in the</b><br/><br/><b>following number series.</b><br/><br/>325, 546, 754, 936, 1078, 1170<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "936",
+        "html": "936"
+      },
+      {
+        "id": "B",
+        "text": "546",
+        "html": "546"
+      },
+      {
+        "id": "C",
+        "text": "325",
+        "html": "325"
+      },
+      {
+        "id": "D",
+        "text": "1078",
+        "html": "1078"
+      },
+      {
+        "id": "E",
+        "text": "1170",
+        "html": "1170<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "936",
+      "546",
+      "325",
+      "1078",
+      "1170<br/><br/>"
+    ],
+    "explanation": "325 546 \n 754 \n 936 1079 1170 \n\n+221 +208 \n+182 +143 +91 \n\n-13 \n-26 \n-39 \n-52\n\nAns. 1078",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions : Find out the wrong number in the\n\nfollowing number series.\n\n325, 546, 754, 936, 1078, 1170",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_42",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P in\n\nit.\n\n4, 6, 15, 30, 84, 246\n\nIf a new series is formed whose 1st term is P, 2nd\n\nterm is (P + 1), 3rd term is (2nd term + 3), 4th term\n\nis (3rd term + 9), 5th term is (4th term + 27) and\n\nso on, then find the 6th term of the new series?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P in<br/><br/>it.<br/><br/>4, 6, 15, 30, 84, 246<br/><br/>If a new series is formed whose 1st term is P, 2nd<br/><br/>term is (P + 1), 3rd term is (2nd term + 3), 4th term<br/><br/>is (3rd term + 9), 5th term is (4th term + 27) and<br/><br/>so on, then find the 6th term of the new series?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with the wrong term P in<br/><br/>it.<br/><br/>4, 6, 15, 30, 84, 246<br/><br/>If a new series is formed whose 1st term is P, 2nd<br/><br/>term is (P + 1), 3rd term is (2nd term + 3), 4th term<br/><br/>is (3rd term + 9), 5th term is (4th term + 27) and<br/><br/>so on, then find the 6th term of the new series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "151",
+        "html": "151"
+      },
+      {
+        "id": "B",
+        "text": "367",
+        "html": "367"
+      },
+      {
+        "id": "C",
+        "text": "136",
+        "html": "136"
+      },
+      {
+        "id": "D",
+        "text": "205",
+        "html": "205"
+      },
+      {
+        "id": "E",
+        "text": "100",
+        "html": "100<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "151",
+      "367",
+      "136",
+      "205",
+      "100<br/><br/>"
+    ],
+    "explanation": "Logic in the given series:\n\n4 + 2 = 6\n\n6 + 6 = 12(15)\n\n12 + 18 = 30\n\n30 + 54 = 84\n\n84 + 162 = 246\n\nSo, the wrong term of the series = P = 15\n\nNow,\n\n1st term of the new series = 15\n\n2nd term of the new series = 15 + 1 = 16\n\n3rd term of the new series = 16 + 3 = 19\n\n4th term of the new series = 19 + 9 = 28\n\n5th term of the new series = 28 + 27 = 55\n\n6th term of the new series = 55 + 81 = 136",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with the wrong term P in\n\nit.\n\n4, 6, 15, 30, 84, 246\n\nIf a new series is formed whose 1st term is P, 2nd\n\nterm is (P + 1), 3rd term is (2nd term + 3), 4th term\n\nis (3rd term + 9), 5th term is (4th term + 27) and\n\nso on, then find the 6th term of the new series?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_43",
+    "question": "Find the wrong term\n\n12 , 6 , 7.5 , 12.75 , 27.5 , 71.25",
+    "question_html": "Find the wrong term<br/><br/>12 , 6 , 7.5 , 12.75 , 27.5 , 71.25<br/>",
+    "questionHtml": "Find the wrong term<br/><br/>12 , 6 , 7.5 , 12.75 , 27.5 , 71.25<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "27.5",
+        "html": "27.5"
+      },
+      {
+        "id": "D",
+        "text": "7.5",
+        "html": "7.5"
+      },
+      {
+        "id": "E",
+        "text": "6",
+        "html": "6<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "12",
+      "27.5",
+      "7.5",
+      "6<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\nPattern Given\n\n12 \n\n12 \n 0.5 + 0.5 = 6.5 not \n\n6.5 \n 1 + 1 = 7.5 \n\n7.5 \n 1.5 + 1.5 = 12.75 \n\n12.75 \n 2 + 2 = 27.5\n\n27.5 \n2.5 + 2.5 = 71.25 \n\nWrong term = 6",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Find the wrong term\n\n12 , 6 , 7.5 , 12.75 , 27.5 , 71.25",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_44",
+    "question": "Directions : Find out the wrong number in the\n\nfollowing number series.\n\n115, 59, 33, 22, 18.5, 16, 20.875",
+    "question_html": "<b>Directions : Find out the wrong number in the</b><br/><br/><b>following number series.</b><br/><br/>115, 59, 33, 22, 18.5, 16, 20.875<br/>",
+    "questionHtml": "<b>Directions : Find out the wrong number in the</b><br/><br/><b>following number series.</b><br/><br/>115, 59, 33, 22, 18.5, 16, 20.875<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "20.875",
+        "html": "20.875"
+      },
+      {
+        "id": "B",
+        "text": "115",
+        "html": "115"
+      },
+      {
+        "id": "C",
+        "text": "18.5",
+        "html": "18.5"
+      },
+      {
+        "id": "D",
+        "text": "22",
+        "html": "22"
+      },
+      {
+        "id": "E",
+        "text": "16\n\nDirections (5-7) Read the following passage\n\nand answer the given questions.\n\nDirections: Based on the following number\n\nseries give the answer to the questions.\n\nI.1999, 1787, 1582, 1391, 1228, 1079\n\nII. 212, 213, 230, 365, 608, 1939\n\nIII. 128, 192, 480, R, 7560",
+        "html": "16<br/><br/><b>Directions (5-7) Read the following passage</b><br/><br/><b>and answer the given questions.</b><br/><br/>Directions: Based on the following number<br/><br/>series give the answer to the questions.<br/><br/>I.1999, 1787, 1582, 1391, 1228, 1079<br/><br/>II. 212, 213, 230, 365, 608, 1939<br/><br/>III. 128, 192, 480, R, 7560<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "20.875",
+      "115",
+      "18.5",
+      "22",
+      "16<br/><br/><b>Directions (5-7) Read the following passage</b><br/><br/><b>and answer the given questions.</b><br/><br/>Directions: Based on the following number<br/><br/>series give the answer to the questions.<br/><br/>I.1999, 1787, 1582, 1391, 1228, 1079<br/><br/>II. 212, 213, 230, 365, 608, 1939<br/><br/>III. 128, 192, 480, R, 7560<br/><br/>"
+    ],
+    "explanation": "+ 1.5 = 59\n\n+ 3.5 = 33\n\n+ 5.5 = 22\n\n+ 7.5 = 18.5\n\n+ 9.5 = 18.75\n\n+ 11.5 = 20.875\n\nTherefore, 18.75 should be in place of 16.\n\nQ5.\nText Solution:\n\nI. 1999, 1787, 1582, 1391, 1228, 1079\n\n1999 - 212 = 1787\n\n1787 - 205 = 1582\n\n1582 -191 = 1391\n\n1391 - 170 = 1221\n\n1221 - 142= 1079\n\nWhere, 212 - 7 =205, 205 - 14 = 191, 191 - 21 =\n\n170, 170 - 28 = 142\n\nThe correct series is 1221 in place of 1228.\n\nII. 212, 213, 230, 365, 608, 1939\n\nThe correct series is 240 instead of 230.\n\nIII. 128, 192, 480, R, 7560\n\nRequired ratio = P: Q = 1228: 230 = 614: 115\n\nQ6.\nText Solution:\n\nI. 1999, 1787, 1582, 1391, 1228, 1079\n\n1999 - 212 = 1787\n\n1787 - 205 = 1582\n\n1582 -191 = 1391\n\n1391 - 170 = 1221\n\n1221 - 142= 1079\n\nWhere, 212 - 7 =205, 205 - 14 = 191, 191 - 21 =\n\n170, 170 - 28 = 142\n\nThe correct series is 1221 in place of 1228.\n\nII. 212, 213, 230, 365, 608, 1939\n\nThe correct series is 240 instead of 230.\n\nIII. 128, 192, 480, R, 7560\n\n×\n6\n\n×\n\n×\n\n×\n\n×\n\n115\n\n2 \n\n59\n\n2 \n\n33\n\n2\n\n22\n\n2 \n\n18.5\n\n2\n\n18.75\n\n2\n\n212 + \n = 213\n13\n\n213 + \n = 240\n33\n\n240 + \n = 365\n53\n\n365 + \n = 608\n73\n\n608 + \n= 1939 \n113\n\n128 × 1. 5 = 192\n192 × 2. 5 = 480\n480 × 3. 5 = 1680\n1680 × 4. 5 = 7560\n\n212 + \n = 213\n13\n\n213 + \n = 240\n33\n\n240 + \n = 365\n53\n\n365 + \n = 608\n73\n\n608 + \n= 1939 \n113\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions : Find out the wrong number in the\n\nfollowing number series.\n\n115, 59, 33, 22, 18.5, 16, 20.875",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_45",
+    "question": "If P is the wrong term of series I, and Q is\n\nthe wrong term of series II. Then what is\n\nthe ratio of P: Q?",
+    "question_html": "If P is the wrong term of series I, and Q is<br/><br/>the wrong term of series II. Then what is<br/><br/>the ratio of P: Q?<br/>",
+    "questionHtml": "If P is the wrong term of series I, and Q is<br/><br/>the wrong term of series II. Then what is<br/><br/>the ratio of P: Q?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "314: 115",
+        "html": "314: 115"
+      },
+      {
+        "id": "B",
+        "text": "614: 115",
+        "html": "614: 115"
+      },
+      {
+        "id": "C",
+        "text": "641:151",
+        "html": "641:151"
+      },
+      {
+        "id": "D",
+        "text": "214: 57",
+        "html": "214: 57"
+      },
+      {
+        "id": "E",
+        "text": "217: 29",
+        "html": "217: 29<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "314: 115",
+      "614: 115",
+      "641:151",
+      "214: 57",
+      "217: 29<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "If P is the wrong term of series I, and Q is\n\nthe wrong term of series II. Then what is\n\nthe ratio of P: Q?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_46",
+    "question": "If R is the correct term for Series III and Q is\n\nthe wrong term for Series I, then what is\n\nthe value of Q + R?",
+    "question_html": "If R is the correct term for Series III and Q is<br/><br/>the wrong term for Series I, then what is<br/><br/>the value of Q + R?<br/>",
+    "questionHtml": "If R is the correct term for Series III and Q is<br/><br/>the wrong term for Series I, then what is<br/><br/>the value of Q + R?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3640",
+        "html": "3640"
+      },
+      {
+        "id": "B",
+        "text": "3208",
+        "html": "3208"
+      },
+      {
+        "id": "C",
+        "text": "2908",
+        "html": "2908"
+      },
+      {
+        "id": "D",
+        "text": "3840",
+        "html": "3840"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3640",
+      "3208",
+      "2908",
+      "3840",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "If R is the correct term for Series III and Q is\n\nthe wrong term for Series I, then what is\n\nthe value of Q + R?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_47",
+    "question": "If another IVth series follows the pattern of\n\nIIIrd series and the first term of the IVth\n\nseries is 24, then what is the sum of the\n\nthird term of the series III and series IVth?",
+    "question_html": "If another IVth series follows the pattern of<br/><br/>IIIrd series and the first term of the IVth<br/><br/>series is 24, then what is the sum of the<br/><br/>third term of the series III and series IVth?<br/>",
+    "questionHtml": "If another IVth series follows the pattern of<br/><br/>IIIrd series and the first term of the IVth<br/><br/>series is 24, then what is the sum of the<br/><br/>third term of the series III and series IVth?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "990",
+        "html": "990"
+      },
+      {
+        "id": "B",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "C",
+        "text": "480",
+        "html": "480"
+      },
+      {
+        "id": "D",
+        "text": "570",
+        "html": "570"
+      },
+      {
+        "id": "E",
+        "text": "530",
+        "html": "530<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "990",
+      "360",
+      "480",
+      "570",
+      "530<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "If another IVth series follows the pattern of\n\nIIIrd series and the first term of the IVth\n\nseries is 24, then what is the sum of the\n\nthird term of the series III and series IVth?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_48",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with one wrong term in it.\n\n53, 68, 98, 143, 201, 278\n\nFind the difference between the wrong term of\n\nthe series and the next term of the series?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with one wrong term in it.<br/><br/>53, 68, 98, 143, 201, 278<br/><br/>Find the difference between the wrong term of<br/><br/>the series and the next term of the series?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with one wrong term in it.<br/><br/>53, 68, 98, 143, 201, 278<br/><br/>Find the difference between the wrong term of<br/><br/>the series and the next term of the series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "167",
+        "html": "167"
+      },
+      {
+        "id": "B",
+        "text": "271",
+        "html": "271"
+      },
+      {
+        "id": "C",
+        "text": "299",
+        "html": "299"
+      },
+      {
+        "id": "D",
+        "text": "224",
+        "html": "224"
+      },
+      {
+        "id": "E",
+        "text": "147",
+        "html": "147<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "167",
+      "271",
+      "299",
+      "224",
+      "147<br/><br/>"
+    ],
+    "explanation": "Logic in the series:\n\n53 + 15 = 68\n\n68 + 30 = 98\n\n98 + 45 = 143\n\n143 + 60 = 203(201)\n\n203 + 75 = 278\n\nSo, the wrong term of the series = 201\n\nAnd the next term of the series = 278 + 90 = 368\n\nRequired difference = 368 - 201 = 167",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with one wrong term in it.\n\n53, 68, 98, 143, 201, 278\n\nFind the difference between the wrong term of\n\nthe series and the next term of the series?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_49",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with wrong term P in it.\n\n48, 44, 53, 35, 62, 26\n\nIf a new series is formed, whose 1st term is P and\n\nfollows the same pattern as in the given series.\n\nFind the 4th term of the new series?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with wrong term P in it.<br/><br/>48, 44, 53, 35, 62, 26<br/><br/>If a new series is formed, whose 1st term is P and<br/><br/>follows the same pattern as in the given series.<br/><br/>Find the 4th term of the new series?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with wrong term P in it.<br/><br/>48, 44, 53, 35, 62, 26<br/><br/>If a new series is formed, whose 1st term is P and<br/><br/>follows the same pattern as in the given series.<br/><br/>Find the 4th term of the new series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "B",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "C",
+        "text": "22",
+        "html": "22"
+      },
+      {
+        "id": "D",
+        "text": "28",
+        "html": "28"
+      },
+      {
+        "id": "E",
+        "text": "30",
+        "html": "30<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24",
+      "40",
+      "22",
+      "28",
+      "30<br/><br/>"
+    ],
+    "explanation": "Logic in the given series:\n\n48 - \n = 44\n\n44 + \n = 53\n\n53 - \n = 37(35)\n\n37 + \n = 62\n\n62 - \n = 26\n\nSo, the wrong term of the given series = P = 35\n\nNow,\n\n1st term of the new series = 35\n\n2nd term of the new series = 35 - \n = 31\n\n3rd term of the new series = 31 + \n = 40\n\n4th term of the new series = 40 - \n = 24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with wrong term P in it.\n\n48, 44, 53, 35, 62, 26\n\nIf a new series is formed, whose 1st term is P and\n\nfollows the same pattern as in the given series.\n\nFind the 4th term of the new series?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "wrong_number_series_dpp_english_mathsquant_50",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nLevel-3",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/><b>Level-3</b>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/><b>Level-3</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Logic in the series:\n\n12 + 12 = 24\n\n24 + 20 = 44\n\n44 + 28 = 72\n\n72 + 36 = 108\n\n108 + 44 = 152\n\nSo, the wrong term in the series = P = 80\n\nAnd the number, which will come in place of P =\n\n72\n\nRequired percentage = \n = 90%\n\n128 × 1. 5 = 192\n192 × 2. 5 = 480\n480 × 3. 5 = 1680\n1680 × 4. 5 = 7560\n\n212 + \n = 213\n13\n\n213 + \n = 240\n33\n\n240 + \n = 365\n53\n\n365 + \n = 608\n73\n\n608 + \n= 1939 \n113\n\n128 × 1. 5 = 192\n192 × 2. 5 = 480\n480 × 3. 5 = 1680\n1680 × 4. 5 = 7560\n\n24 × 1. 5 = 36\n36 × 2. 5 = 90\n90 × 3. 5 = 315\n\n22\n\n32\n\n42\n\n52\n\n62\n\n22\n\n32\n\n42\n\n × 100\n72\n80",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "wrong",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Wrong Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nLevel-3",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "wrong",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Wrong Number Series  DPP (English) ~ (MathsQuant)\\Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/wrong_number_series_dpp_english_mathsquant/Wrong Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  }
+]

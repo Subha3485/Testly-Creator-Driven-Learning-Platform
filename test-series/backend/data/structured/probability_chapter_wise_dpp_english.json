@@ -1,0 +1,4443 @@
+[
+  {
+    "id": "probability_chapter_wise_dpp_english_1",
+    "question": "A card is drawn from a well shuffled pack of 52\n\ncards. What is the probability of getting queen or\n\nclub card?",
+    "question_html": "A card is drawn from a well shuffled pack of 52<br/><br/>cards. What is the probability of getting queen or<br/><br/>club card?<br/>",
+    "questionHtml": "A card is drawn from a well shuffled pack of 52<br/><br/>cards. What is the probability of getting queen or<br/><br/>club card?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The probability of getting queen card = \n\nThe probability of getting club card = \n\nThe club card contains already a queen card,\n\ntherefore required probabilityis, \n\n+\n– \n = \n =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A card is drawn from a well shuffled pack of 52\n\ncards. What is the probability of getting queen or\n\nclub card?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_2",
+    "question": "A bag contains 2 red, 3 green and 2 yellow balls.\n\nTwo balls are drawn at random. What is the\n\nprobability that none of the balls drawn is\n\nyellow?",
+    "question_html": "A bag contains 2 red, 3 green and 2 yellow balls.<br/><br/>Two balls are drawn at random. What is the<br/><br/>probability that none of the balls drawn is<br/><br/>yellow?<br/>",
+    "questionHtml": "A bag contains 2 red, 3 green and 2 yellow balls.<br/><br/>Two balls are drawn at random. What is the<br/><br/>probability that none of the balls drawn is<br/><br/>yellow?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10/21",
+        "html": "10/21"
+      },
+      {
+        "id": "B",
+        "text": "13/21",
+        "html": "13/21"
+      },
+      {
+        "id": "C",
+        "text": "17/19",
+        "html": "17/19"
+      },
+      {
+        "id": "D",
+        "text": "13/15",
+        "html": "13/15"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10/21",
+      "13/21",
+      "17/19",
+      "13/15",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "Total number of balls = (2 + 3 + 2) = 7.\n\nLet S be the sample space.\n\n n(S)=Number of ways of drawing 2 balls out of 7\n\n=\n\n=21\n\nLet E = Event of drawing 2 balls, none of which is\n\nyellow.\n\n n(E)=Number of ways of drawing 2 balls out of\n\n(2 + 3) balls\n\n=\n\n=10\n\nP(E)=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A bag contains 2 red, 3 green and 2 yellow balls.\n\nTwo balls are drawn at random. What is the\n\nprobability that none of the balls drawn is\n\nyellow?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_3",
+    "question": "Two cards are drawn from pack of 52 cards. What\n\nis the probability that both are kings, when first\n\ndrawn card is replaced?",
+    "question_html": "Two cards are drawn from pack of 52 cards. What<br/><br/>is the probability that both are kings, when first<br/><br/>drawn card is replaced?<br/>",
+    "questionHtml": "Two cards are drawn from pack of 52 cards. What<br/><br/>is the probability that both are kings, when first<br/><br/>drawn card is replaced?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/169",
+        "html": "1/169"
+      },
+      {
+        "id": "B",
+        "text": "3/13",
+        "html": "3/13"
+      },
+      {
+        "id": "C",
+        "text": "3/676",
+        "html": "3/676"
+      },
+      {
+        "id": "D",
+        "text": "4/676",
+        "html": "4/676"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1/169",
+      "3/13",
+      "3/676",
+      "4/676",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The probability of getting king card = 4/52\n\nThe first card is replaced so that, it doesn’t affect\n\nthe second drawn card.\n\nHence, probability of getting 2nd king card =\n\n4/52\n\n∴ Required Probability = 4/52 \n 4/52 = 1/169",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Two cards are drawn from pack of 52 cards. What\n\nis the probability that both are kings, when first\n\ndrawn card is replaced?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_4",
+    "question": "2 dice are thrown simultaneously. What is the\n\nprobability that the sum of the numbers on the\n\nfaces is divisible by either 2 or 7?",
+    "question_html": "2 dice are thrown simultaneously. What is the<br/><br/>probability that the sum of the numbers on the<br/><br/>faces is divisible by either 2 or 7?<br/>",
+    "questionHtml": "2 dice are thrown simultaneously. What is the<br/><br/>probability that the sum of the numbers on the<br/><br/>faces is divisible by either 2 or 7?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Clearly, Total number of outcomes n(S) = 6 \n 6 =\n\n36\n\nLet E be the event that the sum of the numbers\n\non the 2\n\nfaces are divisible by either 2 or 7. Then\n\nE = {(1,1), (1,3), (1,5), (1,6), (2,2), (2,4), (2,5), (2,6),\n\n(3,1), (3,3), (3,4), (3,5),(4,2),(4,3),(4,4),(4,6),(5,1),\n\n(5,2),(5,3),(5,5),(6,1),(6,2),(6,4),(6,6}\n\nSo, the number of favorable events n(E) = 24\n\n[Probability = \n]\n\nHence P(E) = \n = \n =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "2 dice are thrown simultaneously. What is the\n\nprobability that the sum of the numbers on the\n\nfaces is divisible by either 2 or 7?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_5",
+    "question": "Rahul tells the truth 8 times out of 12 times while\n\nManoj tells the truth 12 out of 15 times. If they\n\nsay a statement, then what is the probability that\n\nthe given statement is true?",
+    "question_html": "Rahul tells the truth 8 times out of 12 times while<br/><br/>Manoj tells the truth 12 out of 15 times. If they<br/><br/>say a statement, then what is the probability that<br/><br/>the given statement is true?<br/>",
+    "questionHtml": "Rahul tells the truth 8 times out of 12 times while<br/><br/>Manoj tells the truth 12 out of 15 times. If they<br/><br/>say a statement, then what is the probability that<br/><br/>the given statement is true?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Probability of Rahul speaking truth = \n\nProbability of Manoj speaking truth = \n\nProbability that the truth is said = Rahul speaks\n\nthe truth and Manoj tells a lie or Rahul tells a lie\n\nand Manoj speaks the truth or both Rahul and\n\nManoj speak the truth\n\n=\n\n=\n\n=\n\n=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Rahul tells the truth 8 times out of 12 times while\n\nManoj tells the truth 12 out of 15 times. If they\n\nsay a statement, then what is the probability that\n\nthe given statement is true?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_6",
+    "question": "A number is randomly chosen from 1 to 100(both\n\ninclusive). What is the probability that it is\n\ndivisible by 4 or 9?",
+    "question_html": "A number is randomly chosen from 1 to 100(both<br/><br/>inclusive). What is the probability that it is<br/><br/>divisible by 4 or 9?<br/>",
+    "questionHtml": "A number is randomly chosen from 1 to 100(both<br/><br/>inclusive). What is the probability that it is<br/><br/>divisible by 4 or 9?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "825",
+        "html": "825<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "825<br/><br/>"
+    ],
+    "explanation": "We have 25 multiples of 4 between 1 to 100\n\nWe have 14 multiples of 9 between 1 to 100\n\nWe now need to subtract multiples of 36 as they\n\nwould have been counted twice (once as multiple\n\nof 4, and once as multiple of 9)\n\nWe have 2 multiples of 36 below 100.\n\nSo total numbers divisible by 4 or 9= 25 + 14 – 2\n\n= 37\n\nRequired Probability=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A number is randomly chosen from 1 to 100(both\n\ninclusive). What is the probability that it is\n\ndivisible by 4 or 9?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_7",
+    "question": "When two dice are thrown, what is the\n\nprobability that the sum of numbers appears\n\n?",
+    "question_html": "When two dice are thrown, what is the<br/><br/>probability that the sum of numbers appears<br/><br/>?<br/>",
+    "questionHtml": "When two dice are thrown, what is the<br/><br/>probability that the sum of numbers appears<br/><br/>?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The desired sum of the numbers is 2, 3, 4, 5, 6, 7\n\nThe possibility of sum 2 is (1, 1)\n\nPossibility of sum 3 is (1, 2), (2, 1)\n\nPossibility of sum 4 is (1, 3), (3, 1), (2, 2)\n\nPossibility of sum 5 is (1, 4), (4, 1), (3, 2), (2, 3)\n\nPossibility of sum 6 is (1, 5), (5, 1), (2, 4), (4, 2), (3,\n\n3)\n\n4\n\n52\n\n13\n52\n\n4\n\n52\n\n13\n52\n\n1\n\n52\n\n16\n52\n\n4\n\n13\n\nC 2\n\n7\n\nC 2\n\n5\n\n=\n\nn(E)\n\nn(S)\n\n10\n21\n\n×\n\n×\n\nTotal number of favorable outcomes\n\nTotal number of outcomes\n\nn(E)\n\nn(S)\n\n24\n36\n\n2\n3\n\n=\n8\n\n12\n\n2\n3\n\n=\n12\n15\n\n4\n5\n\n× (1 −\n) + (1 −\n) ×\n+\n×\n2\n3\n\n4\n5\n\n2\n3\n\n4\n5\n\n2\n3\n\n4\n5\n\n×\n+\n×\n+\n2\n3\n\n1\n5\n\n1\n3\n\n4\n5\n\n8\n\n15\n\n+\n+\n2\n\n15\n\n4\n\n15\n\n8\n\n15\n\n14\n15\n\n 37\n\n100\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "When two dice are thrown, what is the\n\nprobability that the sum of numbers appears\n\n?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_8",
+    "question": "A single card is chosen at random from a\n\nstandard deck of 52 playing cards. What is the\n\nprobability of a queen or a club?",
+    "question_html": "A single card is chosen at random from a<br/><br/>standard deck of 52 playing cards. What is the<br/><br/>probability of a queen or a club?<br/>",
+    "questionHtml": "A single card is chosen at random from a<br/><br/>standard deck of 52 playing cards. What is the<br/><br/>probability of a queen or a club?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "There are 4 queens in the deck and 13 club cards.\n\nfavourable outcomes=16(13 club card which\n\ninclude one queen and remaining 3 queen cards)\n\ntotal number of outcomes 52\n\nprobability of choosing a queen or a club =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A single card is chosen at random from a\n\nstandard deck of 52 playing cards. What is the\n\nprobability of a queen or a club?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_9",
+    "question": "A bag contains 3 red balls, 5 white balls and 2\n\nblue balls. In how many ways can 7 balls be\n\nselected from the bag, so that there are at least 2\n\nballs of each color?",
+    "question_html": "A bag contains 3 red balls, 5 white balls and 2<br/><br/>blue balls. In how many ways can 7 balls be<br/><br/>selected from the bag, so that there are at least 2<br/><br/>balls of each color?<br/>",
+    "questionHtml": "A bag contains 3 red balls, 5 white balls and 2<br/><br/>blue balls. In how many ways can 7 balls be<br/><br/>selected from the bag, so that there are at least 2<br/><br/>balls of each color?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "B",
+        "text": "30\n\nProbability\n\nLevel-1\n\n17\n52\n\n15\n52\n\n4\n\n13\n\n3\n\n13\n\n1\n3\n\n5\n\n36\n\n2\n3\n11\n36\n\n13\n30\n\n14\n15\n\n1\n\n10\n\n1\n\n15\n\n3\n\n50\n\n7\n\n25\n\n37\n\n100\n17\n25\n\n≤7\n\n1\n2\n\n7\n9\n\n7\n\n12\n\n8\n\n11\n\n4\n\n13\n\n5\n\n13\n\n3\n\n13\n\n7\n\n13",
+        "html": "30<br/><br/><b>Probability</b><br/><br/><b>Level-1</b><br/><br/>17<br/>52<br/><br/>15<br/>52<br/><br/>4<br/><br/>13<br/><br/>3<br/><br/>13<br/><br/>1<br/>3<br/><br/>5<br/><br/>36<br/><br/>2<br/>3<br/>11<br/>36<br/><br/>13<br/>30<br/><br/>14<br/>15<br/><br/>1<br/><br/>10<br/><br/>1<br/><br/>15<br/><br/>3<br/><br/>50<br/><br/>7<br/><br/>25<br/><br/>37<br/><br/>100<br/>17<br/>25<br/><br/>≤7<br/><br/>1<br/>2<br/><br/>7<br/>9<br/><br/>7<br/><br/>12<br/><br/>8<br/><br/>11<br/><br/>4<br/><br/>13<br/><br/>5<br/><br/>13<br/><br/>3<br/><br/>13<br/><br/>7<br/><br/>13"
+      }
+    ],
+    "optionsHtml": [
+      "80",
+      "30<br/><br/><b>Probability</b><br/><br/><b>Level-1</b><br/><br/>17<br/>52<br/><br/>15<br/>52<br/><br/>4<br/><br/>13<br/><br/>3<br/><br/>13<br/><br/>1<br/>3<br/><br/>5<br/><br/>36<br/><br/>2<br/>3<br/>11<br/>36<br/><br/>13<br/>30<br/><br/>14<br/>15<br/><br/>1<br/><br/>10<br/><br/>1<br/><br/>15<br/><br/>3<br/><br/>50<br/><br/>7<br/><br/>25<br/><br/>37<br/><br/>100<br/>17<br/>25<br/><br/>≤7<br/><br/>1<br/>2<br/><br/>7<br/>9<br/><br/>7<br/><br/>12<br/><br/>8<br/><br/>11<br/><br/>4<br/><br/>13<br/><br/>5<br/><br/>13<br/><br/>3<br/><br/>13<br/><br/>7<br/><br/>13"
+    ],
+    "explanation": "Number of ways to select 3 red balls, 2 white\n\nballs and 2 blue balls:\n\nNumber of ways to select 2 red balls, 3 white\n\nballs and 2 blue balls:\n\nRequired number of ways = 10 + 30 = 40",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A bag contains 3 red balls, 5 white balls and 2\n\nblue balls. In how many ways can 7 balls be\n\nselected from the bag, so that there are at least 2\n\nballs of each color?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_10",
+    "question": "A bag contains 4 black balls, 3 red balls and 3\n\nwhite balls. In how many ways can 3 balls be\n\nselected such that there are at least 2 colored\n\nballs with the majority of black balls?",
+    "question_html": "A bag contains 4 black balls, 3 red balls and 3<br/><br/>white balls. In how many ways can 3 balls be<br/><br/>selected such that there are at least 2 colored<br/><br/>balls with the majority of black balls?<br/>",
+    "questionHtml": "A bag contains 4 black balls, 3 red balls and 3<br/><br/>white balls. In how many ways can 3 balls be<br/><br/>selected such that there are at least 2 colored<br/><br/>balls with the majority of black balls?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "B",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "C",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "D",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "30",
+      "60",
+      "36",
+      "48",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Since, there should be at least 2 colored balls\n\nwith the majority of black balls.\n\nSo, number of ways to select 2 black balls and 1\n\nred ball = \n\nAnd number of ways to select 2 black balls and 1\n\nwhite ball = \n\nRequired number of ways = 18 + 18\n\n= 36",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 4 black balls, 3 red balls and 3\n\nwhite balls. In how many ways can 3 balls be\n\nselected such that there are at least 2 colored\n\nballs with the majority of black balls?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_11",
+    "question": "A bag contains 4 red balls and three green balls.\n\nIf two balls are selected, in how many different\n\nways the balls selected such that at least one red\n\nball should be there?",
+    "question_html": "A bag contains 4 red balls and three green balls.<br/><br/>If two balls are selected, in how many different<br/><br/>ways the balls selected such that at least one red<br/><br/>ball should be there?<br/>",
+    "questionHtml": "A bag contains 4 red balls and three green balls.<br/><br/>If two balls are selected, in how many different<br/><br/>ways the balls selected such that at least one red<br/><br/>ball should be there?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "D",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "E",
+        "text": "54",
+        "html": "54<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "18",
+      "20",
+      "36",
+      "48",
+      "54<br/><br/>"
+    ],
+    "explanation": "Total number of balls = 4+3=7\n\nTotal number of ways to select 2 balls = C(7,2)\n\n=7!/(5!\n2!)= 21\n\nNumber of ways to select 2 green balls =\n\nC(3,2)=3!/(2!1!) = 3\n\nNumber of ways to select 2 balls with at least 1\n\nred ball = Total number of ways to select 2 balls -\n\nNumber of ways to select 2 green balls = 21 - 3 =\n\n18\n\nTherefore, there are 18 different ways to select 2\n\nballs from the bag such that at least one red ball\n\nis selected.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 4 red balls and three green balls.\n\nIf two balls are selected, in how many different\n\nways the balls selected such that at least one red\n\nball should be there?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_12",
+    "question": "A bag contains 51 balls numbered 1 to 51. A ball is\n\ndrawn and then another ball is drawn without\n\nreplacement. What is the probability that both\n\nballs are even numbered?",
+    "question_html": "A bag contains 51 balls numbered 1 to 51. A ball is<br/><br/>drawn and then another ball is drawn without<br/><br/>replacement. What is the probability that both<br/><br/>balls are even numbered?<br/>",
+    "questionHtml": "A bag contains 51 balls numbered 1 to 51. A ball is<br/><br/>drawn and then another ball is drawn without<br/><br/>replacement. What is the probability that both<br/><br/>balls are even numbered?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "There are 25 even numbers in the group 1 - 51.\n\nSo, Total number of balls = 51\n\nAs, Probability = \n\n∴ The probability that the first ball is even\n\nnumbered = \n\nSince the ball is not replaced there are now 50\n\nballs left, of which 24 are even-numbered\n\n∴ The probability that the second ball is even\n\nnumbered = \n\n∴ Required probability = \n =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 51 balls numbered 1 to 51. A ball is\n\ndrawn and then another ball is drawn without\n\nreplacement. What is the probability that both\n\nballs are even numbered?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_13",
+    "question": "A bag contains 4 red, 5 blue and 6 black colors\n\nsarees. 2 sarees are drawn at random after one\n\nanother without replacement then what is the\n\nprobability that at least one saree is blue.",
+    "question_html": "A bag contains 4 red, 5 blue and 6 black colors<br/><br/>sarees. 2 sarees are drawn at random after one<br/><br/>another without replacement then what is the<br/><br/>probability that at least one saree is blue.<br/>",
+    "questionHtml": "A bag contains 4 red, 5 blue and 6 black colors<br/><br/>sarees. 2 sarees are drawn at random after one<br/><br/>another without replacement then what is the<br/><br/>probability that at least one saree is blue.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total sarees = 15\n\nProbability that no saree is blue = \n\nRequired probability = 1 -\n =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 4 red, 5 blue and 6 black colors\n\nsarees. 2 sarees are drawn at random after one\n\nanother without replacement then what is the\n\nprobability that at least one saree is blue.",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_14",
+    "question": "A bag contains 31 cards numbered 1, 2, 3, ……., 31.\n\nTwo cards are picked at random (one after\n\nanother and without replacement). Find the\n\nprobability that the sum of numbers of both\n\ncards is odd.",
+    "question_html": "A bag contains 31 cards numbered 1, 2, 3, ……., 31.<br/><br/>Two cards are picked at random (one after<br/><br/>another and without replacement). Find the<br/><br/>probability that the sum of numbers of both<br/><br/>cards is odd.<br/>",
+    "questionHtml": "A bag contains 31 cards numbered 1, 2, 3, ……., 31.<br/><br/>Two cards are picked at random (one after<br/><br/>another and without replacement). Find the<br/><br/>probability that the sum of numbers of both<br/><br/>cards is odd.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Conditions for odd sum\n\n1. First card is odd numbered and the second one\n\nis even numbered\n\n2. First card is even numbered and second is odd\n\nnumbered \n\nHence required probability =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 31 cards numbered 1, 2, 3, ……., 31.\n\nTwo cards are picked at random (one after\n\nanother and without replacement). Find the\n\nprobability that the sum of numbers of both\n\ncards is odd.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_15",
+    "question": "A bag contains ‘n’ yellow balls and ‘2n + 3’ black\n\nballs and probability of drawing one black ball\n\nfrom the bag is \n, then find the total number of\n\nblack balls in the bag.",
+    "question_html": "A bag contains ‘n’ yellow balls and ‘2n + 3’ black<br/><br/>balls and probability of drawing one black ball<br/><br/>from the bag is <br/>, then find the total number of<br/><br/>black balls in the bag.<br/>",
+    "questionHtml": "A bag contains ‘n’ yellow balls and ‘2n + 3’ black<br/><br/>balls and probability of drawing one black ball<br/><br/>from the bag is <br/>, then find the total number of<br/><br/>black balls in the bag.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "9",
+        "html": "9"
+      },
+      {
+        "id": "C",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "D",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "E",
+        "text": "3",
+        "html": "3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6",
+      "9",
+      "12",
+      "15",
+      "3<br/><br/>"
+    ],
+    "explanation": "Yellow balls = ‘n’\n\nTotal balls = 2n + 3\n\nBlack balls = (2n + 3) - n = (n + 3)\n\nProbability of drawing one black ball =\n\n5n + 15 = 6n + 9\n\nn = 6\n\n=\n21\n36\n\n7\n\n12\n\n=\n16\n52\n\n4\n\n13\n\n × \n × \n = 1 × 10 × 1 = 10\nC 3\n\n3\nC 5\n\n2\nC 2\n\n2\n\n × \n × \n = 3 × 10 × 1 = 30\nC 3\n\n2\nC 5\n\n3\nC 2\n\n2\n\n × \n = 6 × 3 = 18\nC 4\n\n2\nC 3\n\n1\n\n × \n = 6 × 3 = 18\nC 4\n\n2\nC 3\n\n1\n\n×\n\nPossible Outcomes\n\nTotal Sample−space\n\n25\n51\n\n24\n50\n\n×\n25\n51\n\n24\n50\n\n4\n\n17\n\n10c1×9c1\n\n15×14\n\n 3\n\n7\n\n4\n7\n\n⇒\n×\n=\n16\n31\n\n15\n30\n\n8\n\n31\n\n⇒\n×\n=\n15\n31\n\n16\n30\n\n8\n\n31\n\n+\n=\n8\n\n31\n\n8\n\n31\n\n16\n31\n\n=\n\nCn+3\n\n1\n\nC2n+3\n\n1\n\n3\n5\n\n=\nn+3\n\n2n+3\n\n3\n5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains ‘n’ yellow balls and ‘2n + 3’ black\n\nballs and probability of drawing one black ball\n\nfrom the bag is \n, then find the total number of\n\nblack balls in the bag.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_16",
+    "question": "A bag contains ‘x’ number of balls out of which\n\nthere are 5 blue balls in it. If probability of\n\ndrawing two blue balls from the bag is \n, find\n\nthe value of ‘x’.",
+    "question_html": "A bag contains ‘x’ number of balls out of which<br/><br/>there are 5 blue balls in it. If probability of<br/><br/>drawing two blue balls from the bag is <br/>, find<br/><br/>the value of ‘x’.<br/>",
+    "questionHtml": "A bag contains ‘x’ number of balls out of which<br/><br/>there are 5 blue balls in it. If probability of<br/><br/>drawing two blue balls from the bag is <br/>, find<br/><br/>the value of ‘x’.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "12",
+      "18",
+      "15",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total balls = ‘x’\n\nTotal blue balls = 5\n\nProbability of drawing two blue balls from the\n\nbag = \n\nAfter comparing:\n\nx = 15",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains ‘x’ number of balls out of which\n\nthere are 5 blue balls in it. If probability of\n\ndrawing two blue balls from the bag is \n, find\n\nthe value of ‘x’.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_17",
+    "question": "A bag contains 8 red balls, 5 blue balls, and 2\n\ngreen balls. Four balls are drawn from the bag\n\nwithout replacement. If the probability of\n\ndrawing exactly two blue balls, one green ball,\n\nand one red ball is \n, then find the value of ‘x’?",
+    "question_html": "A bag contains 8 red balls, 5 blue balls, and 2<br/><br/>green balls. Four balls are drawn from the bag<br/><br/>without replacement. If the probability of<br/><br/>drawing exactly two blue balls, one green ball,<br/><br/>and one red ball is <br/>, then find the value of ‘x’?<br/>",
+    "questionHtml": "A bag contains 8 red balls, 5 blue balls, and 2<br/><br/>green balls. Four balls are drawn from the bag<br/><br/>without replacement. If the probability of<br/><br/>drawing exactly two blue balls, one green ball,<br/><br/>and one red ball is <br/>, then find the value of ‘x’?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "E",
+        "text": "12",
+        "html": "12<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "16",
+      "20",
+      "10",
+      "18",
+      "12<br/><br/>"
+    ],
+    "explanation": "Total balls in the bag = 8 + 5 + 2 = 20\n\nRequired probability = \n\nx = 12\n\nHence, value of ‘x’ = 12",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 8 red balls, 5 blue balls, and 2\n\ngreen balls. Four balls are drawn from the bag\n\nwithout replacement. If the probability of\n\ndrawing exactly two blue balls, one green ball,\n\nand one red ball is \n, then find the value of ‘x’?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_18",
+    "question": "A bag contains 12 red balls and 8 green balls\n\nwhile a box contains 8 red balls, 10 green balls\n\nand 7 white balls. A ball from bag is transferred in\n\nthe box then three balls are randomly drawn\n\n1\n\n50\n\n4\n\n17\n\n1\n2\n\n2\n\n51\n\n2\n7\n\n3\n7\n4\n7\n1\n7\n\n15\n31\n\n13\n31\n16\n31\n19\n31\n\n3\n5\n\n2\n\n21\n\nx\n\n819",
+    "question_html": "A bag contains 12 red balls and 8 green balls<br/><br/>while a box contains 8 red balls, 10 green balls<br/><br/>and 7 white balls. A ball from bag is transferred in<br/><br/>the box then three balls are randomly drawn<br/><br/>1<br/><br/>50<br/><br/>4<br/><br/>17<br/><br/>1<br/>2<br/><br/>2<br/><br/>51<br/><br/>2<br/>7<br/><br/>3<br/>7<br/>4<br/>7<br/>1<br/>7<br/><br/>15<br/>31<br/><br/>13<br/>31<br/>16<br/>31<br/>19<br/>31<br/><br/>3<br/>5<br/><br/>2<br/><br/>21<br/><br/>x<br/><br/>819",
+    "questionHtml": "A bag contains 12 red balls and 8 green balls<br/><br/>while a box contains 8 red balls, 10 green balls<br/><br/>and 7 white balls. A ball from bag is transferred in<br/><br/>the box then three balls are randomly drawn<br/><br/>1<br/><br/>50<br/><br/>4<br/><br/>17<br/><br/>1<br/>2<br/><br/>2<br/><br/>51<br/><br/>2<br/>7<br/><br/>3<br/>7<br/>4<br/>7<br/>1<br/>7<br/><br/>15<br/>31<br/><br/>13<br/>31<br/>16<br/>31<br/>19<br/>31<br/><br/>3<br/>5<br/><br/>2<br/><br/>21<br/><br/>x<br/><br/>819",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Case I: A red ball is transferred from bag to box.\n\nProbability = \nC\nC \n ( C \nC )\nC =\n\n (36 \n 17)\n2600 = \n\nCase II: A green ball is transferred from bag to\n\nbox.\n\nProbability = C\nC \n ( C \nC )\nC =\n\n (28 \n 18)\n2600 = \n\nRequired probability = \n + \n = \n\nHence, option D.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A bag contains 12 red balls and 8 green balls\n\nwhile a box contains 8 red balls, 10 green balls\n\nand 7 white balls. A ball from bag is transferred in\n\nthe box then three balls are randomly drawn\n\n1\n\n50\n\n4\n\n17\n\n1\n2\n\n2\n\n51\n\n2\n7\n\n3\n7\n4\n7\n1\n7\n\n15\n31\n\n13\n31\n16\n31\n19\n31\n\n3\n5\n\n2\n\n21\n\nx\n\n819",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_19",
+    "question": "A box contains 5 red stones, 3 blue stones and 4\n\ngreen stones. If 2 stones are drawn at random,\n\nwhat is the probability that both the stones are\n\nof the same color?",
+    "question_html": "A box contains 5 red stones, 3 blue stones and 4<br/><br/>green stones. If 2 stones are drawn at random,<br/><br/>what is the probability that both the stones are<br/><br/>of the same color?<br/>",
+    "questionHtml": "A box contains 5 red stones, 3 blue stones and 4<br/><br/>green stones. If 2 stones are drawn at random,<br/><br/>what is the probability that both the stones are<br/><br/>of the same color?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of stones = 5+3+4 = 12\n\nExhaustive number of cases = 12C = \n=66\n\nFavorable number of ways = 5C + 3C + 4C \n\n= 10 +3 + 6 = 19\n\nRequired Probability =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "A box contains 5 red stones, 3 blue stones and 4\n\ngreen stones. If 2 stones are drawn at random,\n\nwhat is the probability that both the stones are\n\nof the same color?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_20",
+    "question": "A box contains 4 blue pens, and 5 green pens,\n\nand 6 red pens. Two pens are drawn at random\n\nfrom the box. What is the probability that the ball\n\ndrawn is either red or green?",
+    "question_html": "A box contains 4 blue pens, and 5 green pens,<br/><br/>and 6 red pens. Two pens are drawn at random<br/><br/>from the box. What is the probability that the ball<br/><br/>drawn is either red or green?<br/>",
+    "questionHtml": "A box contains 4 blue pens, and 5 green pens,<br/><br/>and 6 red pens. Two pens are drawn at random<br/><br/>from the box. What is the probability that the ball<br/><br/>drawn is either red or green?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "734\n\n3289\n\n719\n\n3244\n\n701\n\n3258\n\n711\n\n3250\n\n17\n66\n\n15\n66\n19\n66\n21\n66\n\n5\n9\n\n3\n\n11\n\n4\n9\n\n5\n\n21\n\n7\n\n11",
+        "html": "734<br/><br/>3289<br/><br/>719<br/><br/>3244<br/><br/>701<br/><br/>3258<br/><br/>711<br/><br/>3250<br/><br/>17<br/>66<br/><br/>15<br/>66<br/>19<br/>66<br/>21<br/>66<br/><br/>5<br/>9<br/><br/>3<br/><br/>11<br/><br/>4<br/>9<br/><br/>5<br/><br/>21<br/><br/>7<br/><br/>11"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "734<br/><br/>3289<br/><br/>719<br/><br/>3244<br/><br/>701<br/><br/>3258<br/><br/>711<br/><br/>3250<br/><br/>17<br/>66<br/><br/>15<br/>66<br/>19<br/>66<br/>21<br/>66<br/><br/>5<br/>9<br/><br/>3<br/><br/>11<br/><br/>4<br/>9<br/><br/>5<br/><br/>21<br/><br/>7<br/><br/>11"
+    ],
+    "explanation": "Required \nprobability \n\n=\n\nC2\n\n5\n\nC2\n\nx\n\n2\n\n21\n\n=\n5×2\n\nx(x−1)\n\n2\n\n2\n\n21\n\nx(x −1) = 210\nx(x −1) = 15(15 −1)\n\n=\n\n + \n + \nC1\n\n8\nC2\n\n5\nC2\n\n1\n\nC4\n\n20\n\nx\n\n819\n\n=\n8 + 10 + 2\n\n15 × 14 × 13 × 12\n\n4 × 3 × 2\n\nx\n\n819\n\n=\n20\n\n1365\n\nx\n\n819\n\nx = 16380\n\n1365\n\n12\n1÷20\n1 ×\n9\n2 × 17\n1 ÷26\n3\n\n12\n\n120 ×\n×\n÷\n459\n\n3250\n\n8\n1÷20\n1 ×\n8\n2 × 18\n1 ÷26\n3\n\n8\n\n20 ×\n×\n÷\n252\n\n3250\n\n459\n\n3250\n\n252\n\n3250\n\n711\n\n3250\n\n2\n\n12×11\n\n2×1\n\n2\n2\n2\n\n19\n66\n\n=\n=\n=\n\n×\n5C2\n6C2\n\n15C2\n\n10+15\n\n105\n\n25\n\n105\n\n5\n\n21",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "A box contains 4 blue pens, and 5 green pens,\n\nand 6 red pens. Two pens are drawn at random\n\nfrom the box. What is the probability that the ball\n\ndrawn is either red or green?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_21",
+    "question": "Bag A contains 3 green and 7 blue balls. While\n\nbag B contains 10 green and 5 blue balls. If one\n\nball is drawn from each bag, what is the\n\nprobability that both are green?",
+    "question_html": "Bag A contains 3 green and 7 blue balls. While<br/><br/>bag B contains 10 green and 5 blue balls. If one<br/><br/>ball is drawn from each bag, what is the<br/><br/>probability that both are green?<br/>",
+    "questionHtml": "Bag A contains 3 green and 7 blue balls. While<br/><br/>bag B contains 10 green and 5 blue balls. If one<br/><br/>ball is drawn from each bag, what is the<br/><br/>probability that both are green?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "29/30",
+        "html": "29/30"
+      },
+      {
+        "id": "B",
+        "text": "1/5",
+        "html": "1/5"
+      },
+      {
+        "id": "C",
+        "text": "1/3",
+        "html": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "1/30",
+        "html": "1/30"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "29/30",
+      "1/5",
+      "1/3",
+      "1/30",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The required probability = 3C1/10C1 \n×\n\n10C1/15C1\n\n= 3/10 \n× 10/15 = 1/5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Bag A contains 3 green and 7 blue balls. While\n\nbag B contains 10 green and 5 blue balls. If one\n\nball is drawn from each bag, what is the\n\nprobability that both are green?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_22",
+    "question": "In a box containing ten toys, two are defective.\n\nWhat is the probability that among 5 toys chosen\n\nat random none is defective?",
+    "question_html": "In a box containing ten toys, two are defective.<br/><br/>What is the probability that among 5 toys chosen<br/><br/>at random none is defective?<br/>",
+    "questionHtml": "In a box containing ten toys, two are defective.<br/><br/>What is the probability that among 5 toys chosen<br/><br/>at random none is defective?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/3",
+        "html": "1/3"
+      },
+      {
+        "id": "B",
+        "text": "2/9",
+        "html": "2/9"
+      },
+      {
+        "id": "C",
+        "text": "2/3",
+        "html": "2/3"
+      },
+      {
+        "id": "D",
+        "text": "5/84",
+        "html": "5/84"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1/3",
+      "2/9",
+      "2/3",
+      "5/84",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The required probability = 8C5 / 10C5 = 8C3 /\n\n10C5 = 2/9",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In a box containing ten toys, two are defective.\n\nWhat is the probability that among 5 toys chosen\n\nat random none is defective?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_23",
+    "question": "An integer is chosen at random from the first\n\nfifty integers. What is the probability that the\n\ninteger chosen is a prime or multiple of 4?",
+    "question_html": "An integer is chosen at random from the first<br/><br/>fifty integers. What is the probability that the<br/><br/>integer chosen is a prime or multiple of 4?<br/>",
+    "questionHtml": "An integer is chosen at random from the first<br/><br/>fifty integers. What is the probability that the<br/><br/>integer chosen is a prime or multiple of 4?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "14/25",
+        "html": "14/25"
+      },
+      {
+        "id": "B",
+        "text": "3/5",
+        "html": "3/5"
+      },
+      {
+        "id": "C",
+        "text": "7/50",
+        "html": "7/50"
+      },
+      {
+        "id": "D",
+        "text": "27/50",
+        "html": "27/50"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "14/25",
+      "3/5",
+      "7/50",
+      "27/50",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "There are 15 prime numbers in the first 50\n\nintegers i.e. 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41,\n\n43 and 47.\n\nThere are 12 integers are multiples of 4 i.e 4, 8,\n\n12, 16, 20, 24, 28, 32, 36, 40, 44 and 48\n\n∴ required probability= 15/50 + 12/50 = 27/50",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "An integer is chosen at random from the first\n\nfifty integers. What is the probability that the\n\ninteger chosen is a prime or multiple of 4?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_24",
+    "question": "A bag contains 30 balls out of which 6 are white\n\nballs and rests are black and red balls. If two balls\n\nare withdrawn one after another without\n\nsubstitution, then the probability of being the\n\nfirst ball is black and the second ball being white\n\nis \n\n3\n\n29 . Find the difference between the number\n\nof red balls and black balls",
+    "question_html": "A bag contains 30 balls out of which 6 are white<br/><br/>balls and rests are black and red balls. If two balls<br/><br/>are withdrawn one after another without<br/><br/>substitution, then the probability of being the<br/><br/>first ball is black and the second ball being white<br/><br/>is <br/><br/>3<br/><br/>29 . Find the difference between the number<br/><br/>of red balls and black balls<br/>",
+    "questionHtml": "A bag contains 30 balls out of which 6 are white<br/><br/>balls and rests are black and red balls. If two balls<br/><br/>are withdrawn one after another without<br/><br/>substitution, then the probability of being the<br/><br/>first ball is black and the second ball being white<br/><br/>is <br/><br/>3<br/><br/>29 . Find the difference between the number<br/><br/>of red balls and black balls<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "12",
+        "html": "12<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5",
+      "3",
+      "6",
+      "4",
+      "12<br/><br/>"
+    ],
+    "explanation": "Number of black balls + red balls = 30 – 6 = 24\n\nLet the number of black balls be x, then the\n\nnumber of red balls = 24 – x.\n\nRequired \nprobability \n= \n\nC1x\n\nC130 × \n\nC16\n\nC129 = \n\n6x\n\n30×29 = \n\nx\n\n145\n\nAccording to the question,\n\nx\n\n145 = \n\n3\n\n29\n\nx = 15\n\nNumber of red balls = 24 – 15 = 9\n\nRequired difference = 15 – 9 = 6\n\n‘6’ is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A bag contains 30 balls out of which 6 are white\n\nballs and rests are black and red balls. If two balls\n\nare withdrawn one after another without\n\nsubstitution, then the probability of being the\n\nfirst ball is black and the second ball being white\n\nis \n\n3\n\n29 . Find the difference between the number\n\nof red balls and black balls",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_25",
+    "question": "A bag contains 7 red balls, some blue balls and 3\n\nblack balls. Probability of picking two balls from\n\nthe bag is \n\n1\n\n3 such that one is exactly red and\n\none is exactly blue. The probability of picking two\n\nblue balls from the bag is ______.\n\nI. \n\n2\n\n21\n\nII. \n\n17\n\n42\n\nIII. \n\n2\n\n7",
+    "question_html": "A bag contains 7 red balls, some blue balls and 3<br/><br/>black balls. Probability of picking two balls from<br/><br/>the bag is <br/><br/>1<br/><br/>3 such that one is exactly red and<br/><br/>one is exactly blue. The probability of picking two<br/><br/>blue balls from the bag is ______.<br/><br/>I. <br/><br/>2<br/><br/>21<br/><br/>II. <br/><br/>17<br/><br/>42<br/><br/>III. <br/><br/>2<br/><br/>7<br/>",
+    "questionHtml": "A bag contains 7 red balls, some blue balls and 3<br/><br/>black balls. Probability of picking two balls from<br/><br/>the bag is <br/><br/>1<br/><br/>3 such that one is exactly red and<br/><br/>one is exactly blue. The probability of picking two<br/><br/>blue balls from the bag is ______.<br/><br/>I. <br/><br/>2<br/><br/>21<br/><br/>II. <br/><br/>17<br/><br/>42<br/><br/>III. <br/><br/>2<br/><br/>7<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "I only",
+        "html": "I only"
+      },
+      {
+        "id": "B",
+        "text": "III only",
+        "html": "III only"
+      },
+      {
+        "id": "C",
+        "text": "II and III only",
+        "html": "II and III only"
+      },
+      {
+        "id": "D",
+        "text": "I and II only",
+        "html": "I and II only"
+      },
+      {
+        "id": "E",
+        "text": "I, II, and III",
+        "html": "I, II, and III<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "I only",
+      "III only",
+      "II and III only",
+      "I and II only",
+      "I, II, and III<br/><br/>"
+    ],
+    "explanation": "Let number of blue balls in bag = a\n\nNow,\n\nC × C / \n C = \n\n1\n\n3\n\n2 × 7 × a\n\n(10 + a) (9 + a) =\n\n1\n\n3\n\n42a = 90 + 19a + a\n\na – 23a + 90 = 0\n\nValue of a = 18, 5\n\nSo, total balls in bag = (7 + 5 + 3) OR (7 + 18 + 3) =\n\n15 OR 28\n\nRequired \nprobability \n= \n\nValue of a ×4\n\n total balls in bag×14\nOR \n\nValue of a ×17\n\ntotal balls in bag ×27\n\nRequired probability = \n\n5 × 4\n\n15 × 14 OR \n\n18 × 17\n\n28 × 27\n\n= \n\n2\n\n21 OR \n\n17\n\n42\n\nOnly I and II follows",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A bag contains 7 red balls, some blue balls and 3\n\nblack balls. Probability of picking two balls from\n\nthe bag is \n\n1\n\n3 such that one is exactly red and\n\none is exactly blue. The probability of picking two\n\nblue balls from the bag is ______.\n\nI. \n\n2\n\n21\n\nII. \n\n17\n\n42\n\nIII. \n\n2\n\n7",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_26",
+    "question": "There are 18 males and 12 females and the\n\nnumber of the children is 50% of the average\n\nnumber of males, females and children in a party.\n\nIf two persons selected at randomly with any\n\nrepetition then find the probability that 1 male\n\nand 1 child selected.",
+    "question_html": "There are 18 males and 12 females and the<br/><br/>number of the children is 50% of the average<br/><br/>number of males, females and children in a party.<br/><br/>If two persons selected at randomly with any<br/><br/>repetition then find the probability that 1 male<br/><br/>and 1 child selected.<br/>",
+    "questionHtml": "There are 18 males and 12 females and the<br/><br/>number of the children is 50% of the average<br/><br/>number of males, females and children in a party.<br/><br/>If two persons selected at randomly with any<br/><br/>repetition then find the probability that 1 male<br/><br/>and 1 child selected.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6\n\n35",
+        "html": "6<br/><br/>35"
+      },
+      {
+        "id": "B",
+        "text": "6\n\n31",
+        "html": "6<br/><br/>31"
+      },
+      {
+        "id": "C",
+        "text": "8\n\n35",
+        "html": "8<br/><br/>35"
+      },
+      {
+        "id": "D",
+        "text": "9\n\n35",
+        "html": "9<br/><br/>35"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6<br/><br/>35",
+      "6<br/><br/>31",
+      "8<br/><br/>35",
+      "9<br/><br/>35",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the number of children be x.\n\nAccording to the question,\n\nx = 0. 5 ×\n\n18+12+x\n\n3\n6x = 30 + x x = 6 \n\nTotal person = 16 + 12 + 6 = 36\n\nRequired \nprobability\n\n= \n\nC118×C16\n\nC236\n = \n\n18×6\n\n630 = \n\n6\n\n35",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "There are 18 males and 12 females and the\n\nnumber of the children is 50% of the average\n\nnumber of males, females and children in a party.\n\nIf two persons selected at randomly with any\n\nrepetition then find the probability that 1 male\n\nand 1 child selected.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_27",
+    "question": "A bag has balls of three colours. It has 16 blue\n\nballs, m green balls and n red balls. If the\n\nprobability of picking one green ball and that\n\nof picking one red ball out of the bag is equal,\n\nthen find the number of red balls. Probability\n\nof picking one blue ball is 0.5.",
+    "question_html": "<b>A bag has balls of three colours. It has 16 blue</b><br/><br/><b>balls, m green balls and n red balls. If the</b><br/><br/><b>probability of picking one green ball and that</b><br/><br/><b>of picking one red ball out of the bag is equal,</b><br/><br/><b>then find the number of red balls. Probability</b><br/><br/><b>of picking one blue ball is 0.5.</b><br/>",
+    "questionHtml": "<b>A bag has balls of three colours. It has 16 blue</b><br/><br/><b>balls, m green balls and n red balls. If the</b><br/><br/><b>probability of picking one green ball and that</b><br/><br/><b>of picking one red ball out of the bag is equal,</b><br/><br/><b>then find the number of red balls. Probability</b><br/><br/><b>of picking one blue ball is 0.5.</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 balls",
+        "html": "9 balls"
+      },
+      {
+        "id": "B",
+        "text": "8 balls",
+        "html": "8 balls"
+      },
+      {
+        "id": "C",
+        "text": "12 balls",
+        "html": "12 balls"
+      },
+      {
+        "id": "D",
+        "text": "13 balls",
+        "html": "13 balls"
+      },
+      {
+        "id": "E",
+        "text": "16 balls",
+        "html": "16 balls<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "9 balls",
+      "8 balls",
+      "12 balls",
+      "13 balls",
+      "16 balls<br/><br/>"
+    ],
+    "explanation": "Probability of picking one blue ball = \n\n16\n\n16+m+n = 0.5\n\n16\n\n16+m+n =\n\n5\n\n10\n\n160 = 80 + 5m + 5n\n\n32 = 16 + m + n \n\n×\n\n×\n\n×\nC1\n\nx\n\nC1\n\n30\n\nC1\n\n6\n\nC1\n\n29\n\n= \n=\n6x\n\n30×29\n\nx\n\n145\n\n=\nx\n\n145\n\n3\n\n29\n\n7\n1\na\n1\n(7 + a + 3)\n2\n\n1\n3\n\n=\n2 × 7 × a\n\n(10 + a)(9 + a)\n\n1\n3\n2\n\n2\n\nValue of a ×4\n\n total balls in bag×14\n\nValue of a ×17\n\ntotal balls in bag ×27\n\n5 × 4\n\n15 × 14\n\n18 × 17\n28 × 27\n\n2\n\n21\n\n17\n42\n\nx = 0. 5 × 18+12+x\n\n3\n\n6x = 30 + x \n x = 6 \n\n=\n=\n=\n\n×\nC1\n\n18\nC1\n\n6\n\nC2\n\n36\n\n18×6\n\n630\n\n6\n\n35\n\n16\n\n16+m+n\n\n=\n16\n\n16+m+n\n\n5\n\n10\n\nProcessing math: 100%\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A bag has balls of three colours. It has 16 blue\n\nballs, m green balls and n red balls. If the\n\nprobability of picking one green ball and that\n\nof picking one red ball out of the bag is equal,\n\nthen find the number of red balls. Probability\n\nof picking one blue ball is 0.5.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_28",
+    "question": "A cricket team has 15 members, of whom only 5\n\nbowlers. What is the probability that a select of 11\n\nmembers with at least 3 bowlers selected?",
+    "question_html": "A cricket team has 15 members, of whom only 5<br/><br/>bowlers. What is the probability that a select of 11<br/><br/>members with at least 3 bowlers selected?<br/>",
+    "questionHtml": "A cricket team has 15 members, of whom only 5<br/><br/>bowlers. What is the probability that a select of 11<br/><br/>members with at least 3 bowlers selected?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12\n\n13",
+        "html": "12<br/><br/>13"
+      },
+      {
+        "id": "B",
+        "text": "13\n\n15\n\nLevel-2\n\n3\n\n29\n\n1\n3\n\n2\n\n21\n\n17\n42\n\n2\n7\n\n6\n\n35\n\n6\n\n31\n\n8\n\n35\n\n9\n\n35\n\n12\n13\n\n13\n15\n\nProcessing math: 100%",
+        "html": "13<br/><br/>15<br/><br/><b>Level-2</b><br/><br/>3<br/><br/>29<br/><br/>1<br/>3<br/><br/>2<br/><br/>21<br/><br/>17<br/>42<br/><br/>2<br/>7<br/><br/>6<br/><br/>35<br/><br/>6<br/><br/>31<br/><br/>8<br/><br/>35<br/><br/>9<br/><br/>35<br/><br/>12<br/>13<br/><br/>13<br/>15<br/><br/>Processing math: 100%"
+      }
+    ],
+    "optionsHtml": [
+      "12<br/><br/>13",
+      "13<br/><br/>15<br/><br/><b>Level-2</b><br/><br/>3<br/><br/>29<br/><br/>1<br/>3<br/><br/>2<br/><br/>21<br/><br/>17<br/>42<br/><br/>2<br/>7<br/><br/>6<br/><br/>35<br/><br/>6<br/><br/>31<br/><br/>8<br/><br/>35<br/><br/>9<br/><br/>35<br/><br/>12<br/>13<br/><br/>13<br/>15<br/><br/>Processing math: 100%"
+    ],
+    "explanation": "Total number of ways of forming the\n\nteam =15C11=15C4\n\nOf these, number of ways of forming a team\n\n(i)with one bowler =\n\n5c1 ×10c10 =\n\n5!\n\n4! × 1! ×\n\n10!\n\n10! = 5 × 1 = 5 \n\n(ii) with two bowlers \n\n=\n\n5c2 ×10c9 =\n\n5!\n\n3! ×2! ×\n\n10!\n\n9! ×2! =\n\n5×4×3!\n\n3! ×2\n×\n\n10×9!\n\n9!\n\n= 5 × 2 × 10 = 100\n\nThe probability that at least 3 bowlers are in the\n\nteam =\n\n1 -\n\n105\n\n15c4\n\n= 1 -\n\n105\n\n15 !\n\n11 ! × 4 !\n\n= 1 -\n\n1\n\n13 =\n\n13-1\n\n13\n=\n\n12\n\n13",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A cricket team has 15 members, of whom only 5\n\nbowlers. What is the probability that a select of 11\n\nmembers with at least 3 bowlers selected?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_29",
+    "question": "The probability that a bullet fired from a point\n\nwill strike the target is 1/4. 2 such bullets are fired\n\nsimultaneously toward the target from that very\n\npoint. What is the probability that the target will\n\nbe hit?",
+    "question_html": "The probability that a bullet fired from a point<br/><br/>will strike the target is 1/4. 2 such bullets are fired<br/><br/>simultaneously toward the target from that very<br/><br/>point. What is the probability that the target will<br/><br/>be hit?<br/>",
+    "questionHtml": "The probability that a bullet fired from a point<br/><br/>will strike the target is 1/4. 2 such bullets are fired<br/><br/>simultaneously toward the target from that very<br/><br/>point. What is the probability that the target will<br/><br/>be hit?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7\n\n19",
+        "html": "7<br/><br/>19"
+      },
+      {
+        "id": "B",
+        "text": "5\n\n19",
+        "html": "5<br/><br/>19"
+      },
+      {
+        "id": "C",
+        "text": "4\n\n13",
+        "html": "4<br/><br/>13"
+      },
+      {
+        "id": "D",
+        "text": "5\n\n16",
+        "html": "5<br/><br/>16"
+      },
+      {
+        "id": "E",
+        "text": "9\n\n20",
+        "html": "9<br/><br/>20<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7<br/><br/>19",
+      "5<br/><br/>19",
+      "4<br/><br/>13",
+      "5<br/><br/>16",
+      "9<br/><br/>20<br/><br/>"
+    ],
+    "explanation": "P(A) = 3/5 , P(B) = 2/5 and P(C) = 3/4\n\nThat means P(A') = 2/5 P(B') = 3/5 and P(C') = 1/4\n\nA and B hit but not C= 3/5 \n× 2/5 \n× 1/4 =\n\n3/50 = 6/100\n\nA and C hit but not B = 3/5 \n× 3/4 \n× 3/5 =\n\n27/100\n\nB and C hit but not A = 2/5 \n× 3/4 \n× 2/5 =\n\n3/25= 12/100\n\nSo total probability is all 3 added = (6+27+12)\n\n/100 = 45/100 = 9/20",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "The probability that a bullet fired from a point\n\nwill strike the target is 1/4. 2 such bullets are fired\n\nsimultaneously toward the target from that very\n\npoint. What is the probability that the target will\n\nbe hit?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_30",
+    "question": "Two friends A and B appear in an interview for\n\ntwo vacancies in the same post. The probability\n\nof A’s selection is 1/6 and that of B’s selection is\n\n1/5. What is the probability that both of them will\n\nbe selected and one of them will be selected?",
+    "question_html": "Two friends A and B appear in an interview for<br/><br/>two vacancies in the same post. The probability<br/><br/>of A’s selection is 1/6 and that of B’s selection is<br/><br/>1/5. What is the probability that both of them will<br/><br/>be selected and one of them will be selected?<br/>",
+    "questionHtml": "Two friends A and B appear in an interview for<br/><br/>two vacancies in the same post. The probability<br/><br/>of A’s selection is 1/6 and that of B’s selection is<br/><br/>1/5. What is the probability that both of them will<br/><br/>be selected and one of them will be selected?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "11/30, 3/10",
+        "html": "11/30, 3/10"
+      },
+      {
+        "id": "B",
+        "text": "11/30, 2/3",
+        "html": "11/30, 2/3"
+      },
+      {
+        "id": "C",
+        "text": "1/30, 3/10",
+        "html": "1/30, 3/10"
+      },
+      {
+        "id": "D",
+        "text": "1/30, 2/3",
+        "html": "1/30, 2/3"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "11/30, 3/10",
+      "11/30, 2/3",
+      "1/30, 3/10",
+      "1/30, 2/3",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "i) . The probability of both of them being\n\nselected = 1/6 \n× 1/5 = 1/30\n\nii). The probability of A is not selected = 1-1/6 =\n\n5/6\n\nThe probability of B is not selected = 1-1/5 = 4/5\n\n∴ The probability of one of them selected = (1/6 \n\n× 4/5) + (1/5 \n× 5/6)\n\n= 4/30 + 5/30 = 9/30 = 3/10",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Two friends A and B appear in an interview for\n\ntwo vacancies in the same post. The probability\n\nof A’s selection is 1/6 and that of B’s selection is\n\n1/5. What is the probability that both of them will\n\nbe selected and one of them will be selected?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_31",
+    "question": "A pot contains 5 white and 3 red balls while\n\nanother pot contains 4 white and 6 red balls. One\n\npot is chosen at random and a ball is drawn from\n\nit. If the ball is white, what is the probability that\n\nit is from the first pot?",
+    "question_html": "A pot contains 5 white and 3 red balls while<br/><br/>another pot contains 4 white and 6 red balls. One<br/><br/>pot is chosen at random and a ball is drawn from<br/><br/>it. If the ball is white, what is the probability that<br/><br/>it is from the first pot?<br/>",
+    "questionHtml": "A pot contains 5 white and 3 red balls while<br/><br/>another pot contains 4 white and 6 red balls. One<br/><br/>pot is chosen at random and a ball is drawn from<br/><br/>it. If the ball is white, what is the probability that<br/><br/>it is from the first pot?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5/16",
+        "html": "5/16"
+      },
+      {
+        "id": "B",
+        "text": "41/80",
+        "html": "41/80"
+      },
+      {
+        "id": "C",
+        "text": "25/41",
+        "html": "25/41"
+      },
+      {
+        "id": "D",
+        "text": "1/5",
+        "html": "1/5"
+      },
+      {
+        "id": "E",
+        "text": "None of the above",
+        "html": "None of the above<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5/16",
+      "41/80",
+      "25/41",
+      "1/5",
+      "None of the above<br/><br/>"
+    ],
+    "explanation": "The probability of choosing one pot = 1/2\n\nThe probability of choosing white ball in first pot\n\n= 1/2 \n× [ 5C1 / 8C1] = 5/16\n\nThe probability of choosing white ball\n\n= 1/2 \n× [5C1 / 8C1] + 1/2 \n× [4C1 / 10C1] =\n\n1/2 \n× [5/8] + 1/2 \n× [4/10] = 5/16 + 1/5 =\n\n41/80\n\n∴ The probability that it is from the first pot =\n\n(5/16) / (41/80)\n\n= 5/16 \n× 80/41 = 25/41",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A pot contains 5 white and 3 red balls while\n\nanother pot contains 4 white and 6 red balls. One\n\npot is chosen at random and a ball is drawn from\n\nit. If the ball is white, what is the probability that\n\nit is from the first pot?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_32",
+    "question": "A committee has 15 members, of whom only 5\n\nwoman. What is the probability that a committee\n\nof 11 members with at least 3 women is selected?",
+    "question_html": "A committee has 15 members, of whom only 5<br/><br/>woman. What is the probability that a committee<br/><br/>of 11 members with at least 3 women is selected?<br/>",
+    "questionHtml": "A committee has 15 members, of whom only 5<br/><br/>woman. What is the probability that a committee<br/><br/>of 11 members with at least 3 women is selected?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "11/13",
+        "html": "11/13"
+      },
+      {
+        "id": "B",
+        "text": "14/13",
+        "html": "14/13"
+      },
+      {
+        "id": "C",
+        "text": "12/13",
+        "html": "12/13"
+      },
+      {
+        "id": "D",
+        "text": "6/13",
+        "html": "6/13"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "11/13",
+      "14/13",
+      "12/13",
+      "6/13",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "There are 5 women and 10 men in the committee,\n\nout of these 11 members are selected. So, n(S) =\n\n15C11\n\nThe probability of atleast 3 women in the\n\ncommittee is,\n\n= (5C3 \n× 10C8)/ 15C11 + (5C4 \n× 10C7)/\n\n15C11 + (5C5 \n× 10C6)/ 15C11\n\n= 1/15C11 \n× [5C2 \n× 10C2 + 5C1 \n× 10C3 +\n\n5C5 \n× 10C4)] = 1/1365 [450 + 600 + 210] =\n\n1260/1365\n\n= 12/13",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A committee has 15 members, of whom only 5\n\nwoman. What is the probability that a committee\n\nof 11 members with at least 3 women is selected?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_33",
+    "question": "Directions: A Bag contains 3 blue marbles, 2\n\ngreen marbles & 5 red marbles.\n\nIf four Marbles are picked at random, what would\n\nbe the probability that two of them are green\n\nmarbles and two are blue marbles?",
+    "question_html": "<b>Directions: A Bag contains 3 blue marbles, 2</b><br/><br/><b>green marbles &amp; 5 red marbles.</b><br/><br/>If four Marbles are picked at random, what would<br/><br/>be the probability that two of them are green<br/><br/>marbles and two are blue marbles?<br/>",
+    "questionHtml": "<b>Directions: A Bag contains 3 blue marbles, 2</b><br/><br/><b>green marbles &amp; 5 red marbles.</b><br/><br/>If four Marbles are picked at random, what would<br/><br/>be the probability that two of them are green<br/><br/>marbles and two are blue marbles?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3\n\n5",
+        "html": "3<br/><br/>5"
+      },
+      {
+        "id": "B",
+        "text": "1\n\n2",
+        "html": "1<br/><br/>2"
+      },
+      {
+        "id": "C",
+        "text": "1\n\n18",
+        "html": "1<br/><br/>18"
+      },
+      {
+        "id": "D",
+        "text": "1\n\n70",
+        "html": "1<br/><br/>70"
+      },
+      {
+        "id": "E",
+        "text": "11\n\n12",
+        "html": "11<br/><br/>12<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3<br/><br/>5",
+      "1<br/><br/>2",
+      "1<br/><br/>18",
+      "1<br/><br/>70",
+      "11<br/><br/>12<br/><br/>"
+    ],
+    "explanation": "Picked P (2 green + 2 blue)\n\n =\nm\n\n16+m+n\n\nn\n\n16+m+n\n\n=\n×\n= 5 × 1 = 5\n5c1 ×10 c10\n\n5!\n\n4! × 1!\n\n10!\n10!\n\n=\n×\n=\n×\n5c2 ×10 c9\n\n5!\n\n3!×2!\n\n10!\n\n9!×2!\n\n5×4×3!\n\n3!×2\n\n10×9!\n\n9!\n\n1 −\n= 1 −\n= 1 −\n=\n=\n105\n\n15c4\n\n105\n\n15!\n\n11!×4!\n\n1\n\n13\n\n13−1\n\n13\n\n12\n13\n\n×\n×\n\n×\n×\n\n×\n×\n\n×\n\n×\n×\n\n×\n\n×\n×\n\n×\n×\n\n×\n\n×\n×\n\n×\n\n×\n×\n×\n\n×\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions: A Bag contains 3 blue marbles, 2\n\ngreen marbles & 5 red marbles.\n\nIf four Marbles are picked at random, what would\n\nbe the probability that two of them are green\n\nmarbles and two are blue marbles?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_34",
+    "question": "Directions: A Bag contains 3 blue marbles, 2\n\ngreen marbles & 5 red marbles.\n\nIf three Marbles are picked at random, what\n\nwould be the probability that at least one of\n\nthem is red marble?",
+    "question_html": "<b>Directions: A Bag contains 3 blue marbles, 2</b><br/><br/><b>green marbles &amp; 5 red marbles.</b><br/><br/>If three Marbles are picked at random, what<br/><br/>would be the probability that at least one of<br/><br/>them is red marble?<br/>",
+    "questionHtml": "<b>Directions: A Bag contains 3 blue marbles, 2</b><br/><br/><b>green marbles &amp; 5 red marbles.</b><br/><br/>If three Marbles are picked at random, what<br/><br/>would be the probability that at least one of<br/><br/>them is red marble?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1\n\n5",
+        "html": "1<br/><br/>5"
+      },
+      {
+        "id": "B",
+        "text": "7\n\n12",
+        "html": "7<br/><br/>12"
+      },
+      {
+        "id": "C",
+        "text": "1\n\n2",
+        "html": "1<br/><br/>2"
+      },
+      {
+        "id": "D",
+        "text": "11\n\n12",
+        "html": "11<br/><br/>12"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1<br/><br/>5",
+      "7<br/><br/>12",
+      "1<br/><br/>2",
+      "11<br/><br/>12",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total No. of Marbles = 3 + 2 + 5 = 10\n\n So, n(S) = C\n\n Now, P(at least one red) = 1- P(No red)\n\n1 – ( C\nC )\n\n 1 - \n\n10\n\n120 = \n\n11\n\n12",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions: A Bag contains 3 blue marbles, 2\n\ngreen marbles & 5 red marbles.\n\nIf three Marbles are picked at random, what\n\nwould be the probability that at least one of\n\nthem is red marble?",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_35",
+    "question": "The Noida office of Physics Wallah has 1200\n\nexecutives. Out of these, 880 subscribe to The\n\nHindu and 650 subscribe to the Hindustan Times.\n\nEach executive may subscribe to either The\n\nHindu or the Hindustan time or both. If an\n\nexecutive is picked \nat \nrandom, find \nthe\n\nprobability that he has subscribed to Hindustan\n\ntimes",
+    "question_html": "The Noida office of Physics Wallah has 1200<br/><br/>executives. Out of these, 880 subscribe to The<br/><br/>Hindu and 650 subscribe to the Hindustan Times.<br/><br/>Each executive may subscribe to either The<br/><br/>Hindu or the Hindustan time or both. If an<br/><br/>executive is picked <br/>at <br/>random, find <br/>the<br/><br/>probability that he has subscribed to Hindustan<br/><br/>times<br/>",
+    "questionHtml": "The Noida office of Physics Wallah has 1200<br/><br/>executives. Out of these, 880 subscribe to The<br/><br/>Hindu and 650 subscribe to the Hindustan Times.<br/><br/>Each executive may subscribe to either The<br/><br/>Hindu or the Hindustan time or both. If an<br/><br/>executive is picked <br/>at <br/>random, find <br/>the<br/><br/>probability that he has subscribed to Hindustan<br/><br/>times<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7\n\n15",
+        "html": "7<br/><br/>15"
+      },
+      {
+        "id": "B",
+        "text": "1\n\n15",
+        "html": "1<br/><br/>15"
+      },
+      {
+        "id": "C",
+        "text": "13\n\n24",
+        "html": "13<br/><br/>24"
+      },
+      {
+        "id": "D",
+        "text": "11\n\n15\n\n7\n\n15\n\n9\n\n17\n\n7\n\n19\n\n7\n\n19\n\n5\n\n19\n\n4\n\n13\n\n5\n\n16\n\n9\n\n20\n\n3\n5\n\n1\n2\n\n1\n\n18\n\n1\n\n70\n\n11\n12\n\n1\n5\n\n7\n\n12\n\n1\n2\n11\n12\n\n7\n\n15\n\n1\n\n15\n\n13\n24\n11\n15\n\nProcessing math: 100%",
+        "html": "11<br/><br/>15<br/><br/>7<br/><br/>15<br/><br/>9<br/><br/>17<br/><br/>7<br/><br/>19<br/><br/>7<br/><br/>19<br/><br/>5<br/><br/>19<br/><br/>4<br/><br/>13<br/><br/>5<br/><br/>16<br/><br/>9<br/><br/>20<br/><br/>3<br/>5<br/><br/>1<br/>2<br/><br/>1<br/><br/>18<br/><br/>1<br/><br/>70<br/><br/>11<br/>12<br/><br/>1<br/>5<br/><br/>7<br/><br/>12<br/><br/>1<br/>2<br/>11<br/>12<br/><br/>7<br/><br/>15<br/><br/>1<br/><br/>15<br/><br/>13<br/>24<br/>11<br/>15<br/><br/>Processing math: 100%"
+      }
+    ],
+    "optionsHtml": [
+      "7<br/><br/>15",
+      "1<br/><br/>15",
+      "13<br/><br/>24",
+      "11<br/><br/>15<br/><br/>7<br/><br/>15<br/><br/>9<br/><br/>17<br/><br/>7<br/><br/>19<br/><br/>7<br/><br/>19<br/><br/>5<br/><br/>19<br/><br/>4<br/><br/>13<br/><br/>5<br/><br/>16<br/><br/>9<br/><br/>20<br/><br/>3<br/>5<br/><br/>1<br/>2<br/><br/>1<br/><br/>18<br/><br/>1<br/><br/>70<br/><br/>11<br/>12<br/><br/>1<br/>5<br/><br/>7<br/><br/>12<br/><br/>1<br/>2<br/>11<br/>12<br/><br/>7<br/><br/>15<br/><br/>1<br/><br/>15<br/><br/>13<br/>24<br/>11<br/>15<br/><br/>Processing math: 100%"
+    ],
+    "explanation": "Total executives = 1200\n\nSubscribed for The Hindu = 880\n\nSubscribed for Hindustan Times = 650\n\nNo. of executives subscribed for both = (880 +\n\n650) – 1200 = 330\n\nRequired probability = \n\n650\n\n1200=\n\n13\n\n24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "The Noida office of Physics Wallah has 1200\n\nexecutives. Out of these, 880 subscribe to The\n\nHindu and 650 subscribe to the Hindustan Times.\n\nEach executive may subscribe to either The\n\nHindu or the Hindustan time or both. If an\n\nexecutive is picked \nat \nrandom, find \nthe\n\nprobability that he has subscribed to Hindustan\n\ntimes",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_36",
+    "question": "A box contains ‘y’ blue, 8 pink and 10 yellow\n\ncolour balls. One ball is taken randomly and the\n\nprobability of getting a yellow colour ball is \n\n1\n\n3,\n\nthen finds the number of balls in the box",
+    "question_html": "A box contains ‘y’ blue, 8 pink and 10 yellow<br/><br/>colour balls. One ball is taken randomly and the<br/><br/>probability of getting a yellow colour ball is <br/><br/>1<br/><br/>3,<br/><br/>then finds the number of balls in the box<br/>",
+    "questionHtml": "A box contains ‘y’ blue, 8 pink and 10 yellow<br/><br/>colour balls. One ball is taken randomly and the<br/><br/>probability of getting a yellow colour ball is <br/><br/>1<br/><br/>3,<br/><br/>then finds the number of balls in the box<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "30",
+      "12",
+      "18",
+      "3",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Given, total number of yellow balls = 10\n\nAnd, total number of balls = y + 8 + 10 = 18 + y\n\nAlso, One ball is taken randomly and the\n\nprobability of getting a yellow colour ball is \n\n1\n\n3\n\nAs, [Probability = \n\nTotal number of favourable outcomes\n\nTotal number of outcomes\n]\n\nSo, probability of getting a yellow colour ball is =\n\n10\n\n18+y\n\nComparing both conditions, we get\n\n=> \n\n10\n\n18+y = \n\n1\n\n3\n\n=> 3(10) = 18 + y\n\n=> 30 = 18 + y\n\n=> 30 - 18 = y\n\n=> 12 = y\n\nHence, total number of balls = 18 + y = 18 + 12 =\n\n30",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "A box contains ‘y’ blue, 8 pink and 10 yellow\n\ncolour balls. One ball is taken randomly and the\n\nprobability of getting a yellow colour ball is \n\n1\n\n3,\n\nthen finds the number of balls in the box",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_37",
+    "question": "40 balls numbered 1 to 40 are mixed up and then\n\na ball is drawn at random. What is the probability\n\nthat the ball drawn has a number which is a\n\nmultiple of 5 or 7?",
+    "question_html": "40 balls numbered 1 to 40 are mixed up and then<br/><br/>a ball is drawn at random. What is the probability<br/><br/>that the ball drawn has a number which is a<br/><br/>multiple of 5 or 7?<br/>",
+    "questionHtml": "40 balls numbered 1 to 40 are mixed up and then<br/><br/>a ball is drawn at random. What is the probability<br/><br/>that the ball drawn has a number which is a<br/><br/>multiple of 5 or 7?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3\n\n10",
+        "html": "3<br/><br/>10"
+      },
+      {
+        "id": "B",
+        "text": "2\n\n5",
+        "html": "2<br/><br/>5"
+      },
+      {
+        "id": "C",
+        "text": "7\n\n10",
+        "html": "7<br/><br/>10"
+      },
+      {
+        "id": "D",
+        "text": "3\n\n5",
+        "html": "3<br/><br/>5"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3<br/><br/>10",
+      "2<br/><br/>5",
+      "7<br/><br/>10",
+      "3<br/><br/>5",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number = 40.\n\nEvent of getting a multiple of 5 or 7 = {5, 7, 10, 14,\n\n15, 20, 21,25,28, 30, 35, 40,}\n\nProbability \n= \n\n12\n\n40 =\n\n3\n\n10",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "40 balls numbered 1 to 40 are mixed up and then\n\na ball is drawn at random. What is the probability\n\nthat the ball drawn has a number which is a\n\nmultiple of 5 or 7?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_38",
+    "question": "A box contains 3 red, 8 blue and 5 green pens. If\n\n2 pens are drawn at random from the pack, not\n\nreplaced and then another pen is drawn. What is\n\nthe probability of drawing 2 blue pens and 1 red\n\npen.",
+    "question_html": "A box contains 3 red, 8 blue and 5 green pens. If<br/><br/>2 pens are drawn at random from the pack, not<br/><br/>replaced and then another pen is drawn. What is<br/><br/>the probability of drawing 2 blue pens and 1 red<br/><br/>pen.<br/>",
+    "questionHtml": "A box contains 3 red, 8 blue and 5 green pens. If<br/><br/>2 pens are drawn at random from the pack, not<br/><br/>replaced and then another pen is drawn. What is<br/><br/>the probability of drawing 2 blue pens and 1 red<br/><br/>pen.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1\n\n18",
+        "html": "1<br/><br/>18"
+      },
+      {
+        "id": "B",
+        "text": "1\n\n19",
+        "html": "1<br/><br/>19"
+      },
+      {
+        "id": "C",
+        "text": "1\n\n20",
+        "html": "1<br/><br/>20"
+      },
+      {
+        "id": "D",
+        "text": "1\n\n28",
+        "html": "1<br/><br/>28"
+      },
+      {
+        "id": "E",
+        "text": "1\n\n25",
+        "html": "1<br/><br/>25<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1<br/><br/>18",
+      "1<br/><br/>19",
+      "1<br/><br/>20",
+      "1<br/><br/>28",
+      "1<br/><br/>25<br/><br/>"
+    ],
+    "explanation": "Probability of drawing 1 blue pen =\n\n8\n\n16\n\nProbability of drawing another blue pen = \n\n7\n\n15\n\nProbability of drawing 1 red pen = \n\n3\n\n14\n\nProbability of drawing 2 blue pens and 1 red pen\n\n= \n\n8\n\n16 \n× \n\n7\n\n15\n×\n\n3\n\n14=\n\n1\n\n20",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "A box contains 3 red, 8 blue and 5 green pens. If\n\n2 pens are drawn at random from the pack, not\n\nreplaced and then another pen is drawn. What is\n\nthe probability of drawing 2 blue pens and 1 red\n\npen.",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_39",
+    "question": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\n12 marbles are selected at random from a large\n\ncollection of black, yellow, white and orange\n\nmarbles. The number of marbles of each colour is\n\nunlimited. Find the probability that the selection\n\ncontains atleast one marble of each colour?",
+    "question_html": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>12 marbles are selected at random from a large<br/><br/>collection of black, yellow, white and orange<br/><br/>marbles. The number of marbles of each colour is<br/><br/>unlimited. Find the probability that the selection<br/><br/>contains atleast one marble of each colour?<br/>",
+    "questionHtml": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>12 marbles are selected at random from a large<br/><br/>collection of black, yellow, white and orange<br/><br/>marbles. The number of marbles of each colour is<br/><br/>unlimited. Find the probability that the selection<br/><br/>contains atleast one marble of each colour?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "33\n\n91",
+        "html": "33<br/><br/>91"
+      },
+      {
+        "id": "B",
+        "text": "23\n\n91",
+        "html": "23<br/><br/>91"
+      },
+      {
+        "id": "C",
+        "text": "34\n\n91",
+        "html": "34<br/><br/>91"
+      },
+      {
+        "id": "D",
+        "text": "36\n\n91",
+        "html": "36<br/><br/>91"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "33<br/><br/>91",
+      "23<br/><br/>91",
+      "34<br/><br/>91",
+      "36<br/><br/>91",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "From the given information,\n\nLet B, Y, W, O represent no. of black, yellow,\n\nwhite and orange coloured marbles contained in\n\nthe selection of 12 marbles.\n\nNo. of ways of selecting 12 marbles is equal to\n\nthe no. of non-negative integral solutions of\n\nB + Y + W + O = 12\n\nTotal no. of ways = \nC\n = C\n\nThe no. of selections that contain at least one\n\nmarble of each colour is equal to the number of\n\npositive integral solutions of B + Y + W +O = 12\n\n= \nC\n = C\n\nRequired \nprobability \n\n=\n\nC(11, 3)\n\nC(15, 3) =\n\n33\n\n91\n\nTherefore, the probability that the selection\n\ncontains at least one marble of each colour is \n\n33\n\n91.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\n12 marbles are selected at random from a large\n\ncollection of black, yellow, white and orange\n\nmarbles. The number of marbles of each colour is\n\nunlimited. Find the probability that the selection\n\ncontains atleast one marble of each colour?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_40",
+    "question": "A bag contained some green stones, some blue\n\nstones, and seven red stones. The probability of\n\npicking one green stone is \n\n1\n\n7more than that of\n\npicking one red stone from the bag and the\n\nprobability of picking one blue stone is \n\n9\n\n35\n\nmore than that of picking one red stone from the\n\nbag. Find the total number of stones in the bag.",
+    "question_html": "A bag contained some green stones, some blue<br/><br/>stones, and seven red stones. The probability of<br/><br/>picking one green stone is <br/><br/>1<br/><br/>7more than that of<br/><br/>picking one red stone from the bag and the<br/><br/>probability of picking one blue stone is <br/><br/>9<br/><br/>35<br/><br/>more than that of picking one red stone from the<br/><br/>bag. Find the total number of stones in the bag.<br/>",
+    "questionHtml": "A bag contained some green stones, some blue<br/><br/>stones, and seven red stones. The probability of<br/><br/>picking one green stone is <br/><br/>1<br/><br/>7more than that of<br/><br/>picking one red stone from the bag and the<br/><br/>probability of picking one blue stone is <br/><br/>9<br/><br/>35<br/><br/>more than that of picking one red stone from the<br/><br/>bag. Find the total number of stones in the bag.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "B",
+        "text": "14",
+        "html": "14"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\n1\n3\n\n3\n\n10\n\n2\n5\n\n7\n\n10\n\n3\n5\n\n1\n\n18\n\n1\n\n19\n\n1\n\n20\n\n1\n\n28\n\n1\n\n25\n\n33\n91\n\n23\n91\n34\n91\n\n36\n91\n\n1\n7\n\n9\n\n35\n\nProcessing math: 100%",
+        "html": "None of these<br/><br/>1<br/>3<br/><br/>3<br/><br/>10<br/><br/>2<br/>5<br/><br/>7<br/><br/>10<br/><br/>3<br/>5<br/><br/>1<br/><br/>18<br/><br/>1<br/><br/>19<br/><br/>1<br/><br/>20<br/><br/>1<br/><br/>28<br/><br/>1<br/><br/>25<br/><br/>33<br/>91<br/><br/>23<br/>91<br/>34<br/>91<br/><br/>36<br/>91<br/><br/>1<br/>7<br/><br/>9<br/><br/>35<br/><br/>Processing math: 100%"
+      }
+    ],
+    "optionsHtml": [
+      "12",
+      "14",
+      "16",
+      "18",
+      "None of these<br/><br/>1<br/>3<br/><br/>3<br/><br/>10<br/><br/>2<br/>5<br/><br/>7<br/><br/>10<br/><br/>3<br/>5<br/><br/>1<br/><br/>18<br/><br/>1<br/><br/>19<br/><br/>1<br/><br/>20<br/><br/>1<br/><br/>28<br/><br/>1<br/><br/>25<br/><br/>33<br/>91<br/><br/>23<br/>91<br/>34<br/>91<br/><br/>36<br/>91<br/><br/>1<br/>7<br/><br/>9<br/><br/>35<br/><br/>Processing math: 100%"
+    ],
+    "explanation": "Let total number of stones in bag = x\n\nAnd, total number of green stones in bag = a\n\nWhile total blue stones in bag = b\n\nAccording to the question,\n\na\n\nx −\n\n7\n\nx=\n\n1\n\n7…..(i)\n\nAnd \n\nb\n\nx −\n\n7\n\nx =\n\n9\n\n35…..(ii)\n\n2\n2\n3\n2 ÷ 10\n4\n\n=\n\n(1 ×3)\n\n210\n\n1\n\n70\n\n10\n3\n\n5\n3 ÷10\n3\n\n10\n\n120\n\n11\n12\n\n650\n\n1200\n\n13\n24\n\n1\n3\n\nTotal number of favourable outcomes\n\nTotal number of outcomes\n\n10\n\n18+y\n\n10\n\n18+y\n\n1\n3\n\n= \n=\n12\n40\n\n3\n\n10\n\n8\n\n16\n\n7\n\n15\n\n3\n\n14\n\n8\n\n16\n×\n7\n\n15\n×\n3\n\n14\n\n1\n\n20\n\n12+4-1\n4-1\n15\n3\n\n12-1\n4-1\n11\n3\n\n=\n=\n\nC(11, 3)\nC(15, 3)\n\n33\n91\n\n33\n91\n\n−\na\nx\n\n7\n\nx\n\n1\n7\n\n−\n=\nb\n\nx\n\n7\n\nx\n\n9\n\n35\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "A bag contained some green stones, some blue\n\nstones, and seven red stones. The probability of\n\npicking one green stone is \n\n1\n\n7more than that of\n\npicking one red stone from the bag and the\n\nprobability of picking one blue stone is \n\n9\n\n35\n\nmore than that of picking one red stone from the\n\nbag. Find the total number of stones in the bag.",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_41",
+    "question": "In a bag, there are some red and a total of 9\n\nblack and yellow balls. The probability of\n\nselecting two red balls from that bag is 1/7 which\n\nis 250% of the probability of selecting two black\n\nballs. Find the number of yellow balls in that bag\n\nif the number of black balls is even.",
+    "question_html": "In a bag, there are some red and a total of 9<br/><br/>black and yellow balls. The probability of<br/><br/>selecting two red balls from that bag is 1/7 which<br/><br/>is 250% of the probability of selecting two black<br/><br/>balls. Find the number of yellow balls in that bag<br/><br/>if the number of black balls is even. <br/>",
+    "questionHtml": "In a bag, there are some red and a total of 9<br/><br/>black and yellow balls. The probability of<br/><br/>selecting two red balls from that bag is 1/7 which<br/><br/>is 250% of the probability of selecting two black<br/><br/>balls. Find the number of yellow balls in that bag<br/><br/>if the number of black balls is even. <br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3",
+      "5",
+      "6",
+      "4",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the number of red and black colored balls be\n\nx and y respectively. \n\nxC2\n\n(9+x) C2\n\n=\n\n1\n\n7\n\nx(x+1)\n\n(9+x) (8+x) =\n\n1\n\n7 ⇒x = 6\n\nTotal number of balls=15\n\n⇒\n\nyC2\n\n15C2\n\n=\n\n1\n\n7 ×\n\n100\n\n250\n\n⇒y = 4\n\nNumber of yellow colored ball=15-(6+4) = 5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "In a bag, there are some red and a total of 9\n\nblack and yellow balls. The probability of\n\nselecting two red balls from that bag is 1/7 which\n\nis 250% of the probability of selecting two black\n\nballs. Find the number of yellow balls in that bag\n\nif the number of black balls is even.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_42",
+    "question": "In Abhishek’s wardrobe there are four different\n\ncolor i.e. blue, red, green and yellow flags. He\n\nselects one flag out of them. The probability of\n\nthis flag being blue is \n33\n\n1\n\n3% , the\n\nprobability of selecting one red flag by him out\n\nof the total flags is 28\n\n4\n\n7% and the probability of\n\nselecting one yellow flag out of the total flag is\n\n25% The number of green flags in the wardrobe\n\nis 33.\n\nIf all the flag are numbered as 1,2,3,….and so on\n\nand Abhishek picked up one flag at random then\n\nfind the probability that the picked flag has a\n\nnumber which is the multiple of 19 or 15.",
+    "question_html": "In Abhishek’s wardrobe there are four different<br/><br/>color i.e. blue, red, green and yellow flags. He<br/><br/>selects one flag out of them. The probability of<br/><br/>this flag being blue is <br/>33<br/><br/>1<br/><br/>3% ,&nbsp; the<br/><br/>probability of selecting one red flag by him out<br/><br/>of the total flags is 28<br/><br/>4<br/><br/>7% and the probability of<br/><br/>selecting one yellow flag out of the total flag is<br/><br/>25% The number of green flags in the wardrobe<br/><br/>is 33.<br/><br/>If all the flag are numbered as 1,2,3,….and so on<br/><br/>and Abhishek picked up one flag at random then<br/><br/>find the probability that the picked flag has a<br/><br/>number which is the multiple of 19 or 15.<br/>",
+    "questionHtml": "In Abhishek’s wardrobe there are four different<br/><br/>color i.e. blue, red, green and yellow flags. He<br/><br/>selects one flag out of them. The probability of<br/><br/>this flag being blue is <br/>33<br/><br/>1<br/><br/>3% ,&nbsp; the<br/><br/>probability of selecting one red flag by him out<br/><br/>of the total flags is 28<br/><br/>4<br/><br/>7% and the probability of<br/><br/>selecting one yellow flag out of the total flag is<br/><br/>25% The number of green flags in the wardrobe<br/><br/>is 33.<br/><br/>If all the flag are numbered as 1,2,3,….and so on<br/><br/>and Abhishek picked up one flag at random then<br/><br/>find the probability that the picked flag has a<br/><br/>number which is the multiple of 19 or 15.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "61\n\n252",
+        "html": "61<br/><br/>252"
+      },
+      {
+        "id": "B",
+        "text": "31\n\n252",
+        "html": "31<br/><br/>252"
+      },
+      {
+        "id": "C",
+        "text": "29\n\n252",
+        "html": "29<br/><br/>252"
+      },
+      {
+        "id": "D",
+        "text": "101\n\n252",
+        "html": "101<br/><br/>252"
+      },
+      {
+        "id": "E",
+        "text": "21\n\n252",
+        "html": "21<br/><br/>252<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "61<br/><br/>252",
+      "31<br/><br/>252",
+      "29<br/><br/>252",
+      "101<br/><br/>252",
+      "21<br/><br/>252<br/><br/>"
+    ],
+    "explanation": "Let, total no. of flags be \n168a,\n\nThen no. of blue flags \n\n=\n\n100\n\n300 × 168a = 56a\n\nno. \nof \nred \nflags \n= \n\n200\n\n700 × 168a = 48a \n\nno. of yellow flags = \n\n25\n\n100 × 168a = 42a \n\nNow,\n\n56a + 48a + 42a + 33 = 168a\n\nor, \n168a −146a = 33\n\nor, \n22a = 33\n\na = \n\n33\n\n22 =\n\n3\n\n2\n\nTotal no. of flags = \n\n168a = 168 ×\n\n3\n\n2 = 252\n\nMultiples of 19 = 19 × 13 = 247 < 252\n\nMultiple of 15 = 15 × 16 = 240\n\nThere are 13 multiples of 19 and 16 multiples of 15\n\nfrom 1 to 252.\n\nBut, there is not a multiple of 15 \n× 19\n\n= 285 in 1 to 252.\n\nSo, total multiple of 15 and 19 = 13 + 16 = 29\n\nHence, required probability= \n\n29\n\n252",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "In Abhishek’s wardrobe there are four different\n\ncolor i.e. blue, red, green and yellow flags. He\n\nselects one flag out of them. The probability of\n\nthis flag being blue is \n33\n\n1\n\n3% , the\n\nprobability of selecting one red flag by him out\n\nof the total flags is 28\n\n4\n\n7% and the probability of\n\nselecting one yellow flag out of the total flag is\n\n25% The number of green flags in the wardrobe\n\nis 33.\n\nIf all the flag are numbered as 1,2,3,….and so on\n\nand Abhishek picked up one flag at random then\n\nfind the probability that the picked flag has a\n\nnumber which is the multiple of 19 or 15.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_43",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nThere are three sections X,Y and Z in a class.\n\nEvery section has some boy and some girl\n\nstudents in it . Probability of a girl being selected\n\nwhen one student is selected randomly from\n\nsection X is ⅖ , that from section Y is 4/9 and that\n\nfrom section Z is 5/9.\n\nIf the number of girls in sections X is same as the\n\nnumber of boys in section Z, then what is the\n\nratio of number of boys in section X to number\n\nof boys in section Z?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>There are three sections X,Y and Z in a class.<br/><br/>Every section has some boy and some girl<br/><br/>students in it . Probability of a girl being selected<br/><br/>when one student is selected randomly from<br/><br/>section X is ⅖ , that from section Y is 4/9 and that<br/><br/>from section Z is 5/9.<br/><br/>If the number of girls in sections X is same as the<br/><br/>number of boys in section Z, then what is the<br/><br/>ratio of number of boys in section X to number<br/><br/>of boys in section Z?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>There are three sections X,Y and Z in a class.<br/><br/>Every section has some boy and some girl<br/><br/>students in it . Probability of a girl being selected<br/><br/>when one student is selected randomly from<br/><br/>section X is ⅖ , that from section Y is 4/9 and that<br/><br/>from section Z is 5/9.<br/><br/>If the number of girls in sections X is same as the<br/><br/>number of boys in section Z, then what is the<br/><br/>ratio of number of boys in section X to number<br/><br/>of boys in section Z?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "4:3",
+        "html": "4:3"
+      },
+      {
+        "id": "C",
+        "text": "3:2",
+        "html": "3:2"
+      },
+      {
+        "id": "D",
+        "text": "3:4",
+        "html": "3:4"
+      },
+      {
+        "id": "E",
+        "text": "5 : 7",
+        "html": "5 : 7<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "4:3",
+      "3:2",
+      "3:4",
+      "5 : 7<br/><br/>"
+    ],
+    "explanation": "let number of girls, number of boys and total\n\nnumber of students be\n\nFor section X, 2a,3a and 5a\n\nFor section Y , 4b,5b and 9b\n\nFor section Z , 5c,4c and 9c\n\nx y z\n\ngirls 2 a 4b 5c\n\ntotal 5a 9 b 9c\n\nboys 5-2=3a\n9-4=5b 9-5=4c\n\nnumber of girls in section X= number of boys in\n\nsection Z\n\n2a=4c\n\na=2c\n\nNumber of boys in section X: number of boys in\n\nsection Z= 3a:4c = 6c:4c = 3:2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nThere are three sections X,Y and Z in a class.\n\nEvery section has some boy and some girl\n\nstudents in it . Probability of a girl being selected\n\nwhen one student is selected randomly from\n\nsection X is ⅖ , that from section Y is 4/9 and that\n\nfrom section Z is 5/9.\n\nIf the number of girls in sections X is same as the\n\nnumber of boys in section Z, then what is the\n\nratio of number of boys in section X to number\n\nof boys in section Z?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_44",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nThere are three sections X,Y and Z in a class.\n\nEvery section has some boy and some girl\n\nstudents in it . Probability of a girl being selected\n\nwhen one student is selected randomly from\n\nsection X is ⅖ , that from section Y is 4/9 and that\n\nfrom section Z is 5/9.\n\nIf the ratio of total number of students in\n\nsections X,Y and Z is 10:12:9 , than what is the\n\nprobability of a girl being selected when one\n\nstudent is selected randomly from the students\n\nfrom all the three sections together?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>There are three sections X,Y and Z in a class.<br/><br/>Every section has some boy and some girl<br/><br/>students in it . Probability of a girl being selected<br/><br/>when one student is selected randomly from<br/><br/>section X is ⅖ , that from section Y is 4/9 and that<br/><br/>from section Z is 5/9.<br/><br/>If the ratio of total number of students in<br/><br/>sections X,Y and Z is 10:12:9 , than what is the<br/><br/>probability of a girl being selected when one<br/><br/>student is selected randomly from the students<br/><br/>from all the three sections together?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>There are three sections X,Y and Z in a class.<br/><br/>Every section has some boy and some girl<br/><br/>students in it . Probability of a girl being selected<br/><br/>when one student is selected randomly from<br/><br/>section X is ⅖ , that from section Y is 4/9 and that<br/><br/>from section Z is 5/9.<br/><br/>If the ratio of total number of students in<br/><br/>sections X,Y and Z is 10:12:9 , than what is the<br/><br/>probability of a girl being selected when one<br/><br/>student is selected randomly from the students<br/><br/>from all the three sections together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Can't be determined",
+        "html": "Can&#x27;t be determined"
+      },
+      {
+        "id": "B",
+        "text": "43/93",
+        "html": "43/93"
+      },
+      {
+        "id": "C",
+        "text": "13/31",
+        "html": "13/31"
+      },
+      {
+        "id": "D",
+        "text": "11/23",
+        "html": "11/23"
+      },
+      {
+        "id": "E",
+        "text": "27/41",
+        "html": "27/41<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Can&#x27;t be determined",
+      "43/93",
+      "13/31",
+      "11/23",
+      "27/41<br/><br/>"
+    ],
+    "explanation": "let number of girls, number of boys and total\n\nnumber of students be\n\nFor section X, 2a,3a and 5a\n\nFor section Y , 4b,5b and 9b\n\nFor section Z , 5c,4c and 9c\n\nRatio of total number of students in the three\n\nsections, 5a:9b:9c = 10:12:9\n\na:b:c = 6:4:3\n\nLet the values of a,b and c be the 6k , 4k and 3k\n\nrespectively.\n\nTotal number of girls in all the three sections\n\n=\n\nxC2\n\n(9+x)C2\n\n1\n7\n\n=\n\nx(x+1)\n\n(9+x)(8+x)\n\n1\n7\n\n⇒x = 6\n\n⇒\n=\n×\n\nyC2\n\n15C2\n\n1\n7\n\n100\n250\n\n⇒y = 4\n\n168a,\n\n=\n× 168a = 56a\n100\n300\n\n× 168a = 48a \n200\n700\n\n× 168a = 42a \n25\n\n100\n\n56a + 48a + 42a + 33 = 168a\n\n168a −146a = 33\n22a = 33\n\n=\n33\n22\n\n3\n2\n\n168a = 168 ×\n= 252\n3\n2\n\n×\n\n29\n\n252\n\nProcessing math: 100%\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nThere are three sections X,Y and Z in a class.\n\nEvery section has some boy and some girl\n\nstudents in it . Probability of a girl being selected\n\nwhen one student is selected randomly from\n\nsection X is ⅖ , that from section Y is 4/9 and that\n\nfrom section Z is 5/9.\n\nIf the ratio of total number of students in\n\nsections X,Y and Z is 10:12:9 , than what is the\n\nprobability of a girl being selected when one\n\nstudent is selected randomly from the students\n\nfrom all the three sections together?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_45",
+    "question": "A bag contains (X+3) red balls, X white balls and\n\nfive silver balls. If one ball taken out from the bag\n\nthe probability of taken out white balls is \n\n3",
+    "question_html": "A bag contains (X+3) red balls, X white balls and<br/><br/>five silver balls. If one ball taken out from the bag<br/><br/>the probability of taken out white balls is <br/><br/>3<br/><br/>",
+    "questionHtml": "A bag contains (X+3) red balls, X white balls and<br/><br/>five silver balls. If one ball taken out from the bag<br/><br/>the probability of taken out white balls is <br/><br/>3<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "According to question,\n\nX\n\nX + 3 + X + 5 =\n\n3\n\n10\n\n10X = 6X + 24\n\n4X = 24\n\nX = 6\n\nPipe P can fill the tank = 9 min\n\nPipe Q can fill the tank = 12 min\n\nTotal capacity of the tank ( L.C.M. of 9 & 12 ) = 36\n\nliters\n\nEfficiency of pipe p and Pipe Q is 4 liters/min and\n\n3 liters/min respectively.\n\nEfficiency of pipe R = 4 \n× \n\n125\n\n100 = 5 liters/min\n\nTotal amount of liters filled by pipe R & Q\n\ntogether in 3 mins = ( 5 + 3)\n× 3 = 24 liters\n\nTotal amount of liters filled by pipe R in another 2\n\nmore mins = 5 \n× 2 = 10 liters\n\nReq. \nmin \n= \n\n36 − 24 − 10\n\n4 + 5\n+ 3 + 2 = 5 + \n\n2\n\n9 = 5\n\n2\n\n9 min.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "A bag contains (X+3) red balls, X white balls and\n\nfive silver balls. If one ball taken out from the bag\n\nthe probability of taken out white balls is \n\n3",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_46",
+    "question": "Pipe P can fill the tank in (X+3) minutes and pipe\n\nQ can fill the same tank in (X+6) minutes.\n\nEfficiency of pipe R is 25% more than that of pipe\n\nP.\n\nLevel-3\n\n33 % ,\n1\n3\n\n4\n7\n\n61\n\n252\n\n31\n\n252\n\n29\n\n252\n\n101\n252\n\n21\n\n252\n\n3\n\n10\n\nProcessing math: 100%",
+    "question_html": "Pipe P can fill the tank in (X+3) minutes and pipe<br/><br/>Q can fill the same tank in (X+6) minutes.<br/><br/>Efficiency of pipe R is 25% more than that of pipe<br/><br/>P.<br/><br/><b>Level-3</b><br/><br/>33 % ,<br/>1<br/>3<br/><br/>4<br/>7<br/><br/>61<br/><br/>252<br/><br/>31<br/><br/>252<br/><br/>29<br/><br/>252<br/><br/>101<br/>252<br/><br/>21<br/><br/>252<br/><br/>3<br/><br/>10<br/><br/>Processing math: 100%",
+    "questionHtml": "Pipe P can fill the tank in (X+3) minutes and pipe<br/><br/>Q can fill the same tank in (X+6) minutes.<br/><br/>Efficiency of pipe R is 25% more than that of pipe<br/><br/>P.<br/><br/><b>Level-3</b><br/><br/>33 % ,<br/>1<br/>3<br/><br/>4<br/>7<br/><br/>61<br/><br/>252<br/><br/>31<br/><br/>252<br/><br/>29<br/><br/>252<br/><br/>101<br/>252<br/><br/>21<br/><br/>252<br/><br/>3<br/><br/>10<br/><br/>Processing math: 100%",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let, the number of Rs. 2 coins, Rs. 5 coins, and Rs.\n\n10 coins are 8x, 6x, and 9x, respectively.\n\nSo 8x + 6x + 9x + 7 =30\n\n⇒ 23x = 23\n\n⇒ x = 1\n\nSo the number of Rs. 2 coins = 8x = 8\n\nNumber of Rs. 5 coin = 6x = 6\n\nNumber of Rs. 10 coin = 9x = 9\n\nFavourable number of ways = ( C \n× C \n×\n\n C ) + ( C \n× C \n× C ) = 840 + 1080 =\n\n1920\n\nTotal number of ways of selecting 4 coins = \nC\n\n= 27405\n\nProbability =\n\n1920\n\n27405 =\n\n128\n\n1827 \n\nHence, option B is the answer.\n\n 60% of 10k = 6k\n\n= 23 : 1\n\n = 10k −6k = 4k\n\n = \n = 10%\nk\n\n10k\n\n6\n2 ×\n8\n1 ×\n\n7\n1\n6\n2 ×\n8\n1 ×\n9\n1\n\n30\n4\n\n=\n1920\n\n27405\n\n128\n\n1827\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Pipe P can fill the tank in (X+3) minutes and pipe\n\nQ can fill the same tank in (X+6) minutes.\n\nEfficiency of pipe R is 25% more than that of pipe\n\nP.\n\nLevel-3\n\n33 % ,\n1\n3\n\n4\n7\n\n61\n\n252\n\n31\n\n252\n\n29\n\n252\n\n101\n252\n\n21\n\n252\n\n3\n\n10\n\nProcessing math: 100%",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_47",
+    "question": "Pipe P can fill the tank in (X+3) minutes and pipe\n\nQ can fill the same tank in (X+6) minutes. The\n\nefficiency of pipe R is 25% more than that of pipe\n\nP.\n\nIf two balls are taken from the bag, then find the\n\nprobability of taken at most one ball is silver\n\ncolor.",
+    "question_html": "Pipe P can fill the tank in (X+3) minutes and pipe<br/><br/>Q can fill the same tank in (X+6) minutes. The<br/><br/>efficiency of pipe R is 25% more than that of pipe<br/><br/>P.<br/><br/>If two balls are taken from the bag, then find the<br/><br/>probability of taken at most one ball is silver<br/><br/>color.<br/>",
+    "questionHtml": "Pipe P can fill the tank in (X+3) minutes and pipe<br/><br/>Q can fill the same tank in (X+6) minutes. The<br/><br/>efficiency of pipe R is 25% more than that of pipe<br/><br/>P.<br/><br/>If two balls are taken from the bag, then find the<br/><br/>probability of taken at most one ball is silver<br/><br/>color.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18\n\n19",
+        "html": "18<br/><br/>19"
+      },
+      {
+        "id": "B",
+        "text": "11\n\n19",
+        "html": "11<br/><br/>19"
+      },
+      {
+        "id": "C",
+        "text": "7\n\n19",
+        "html": "7<br/><br/>19"
+      },
+      {
+        "id": "D",
+        "text": "9\n\n19",
+        "html": "9<br/><br/>19"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "18<br/><br/>19",
+      "11<br/><br/>19",
+      "7<br/><br/>19",
+      "9<br/><br/>19",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let, the number of Rs. 2 coins, Rs. 5 coins, and Rs.\n\n10 coins are 8x, 6x, and 9x, respectively.\n\nSo 8x + 6x + 9x + 7 =30\n\n⇒ 23x = 23\n\n⇒ x = 1\n\nSo the number of Rs. 2 coins = 8x = 8\n\nNumber of Rs. 5 coin = 6x = 6\n\nNumber of Rs. 10 coin = 9x = 9\n\nFavourable number of ways = ( C \n× C \n×\n\n C ) + ( C \n× C \n× C ) = 840 + 1080 =\n\n1920\n\nTotal number of ways of selecting 4 coins = \nC\n\n= 27405\n\nProbability =\n\n1920\n\n27405 =\n\n128\n\n1827 \n\nHence, option B is the answer.\n\n 60% of 10k = 6k\n\n= 23 : 1\n\n = 10k −6k = 4k\n\n = \n = 10%\nk\n\n10k\n\n6\n2 ×\n8\n1 ×\n\n7\n1\n6\n2 ×\n8\n1 ×\n9\n1\n\n30\n4\n\n=\n1920\n\n27405\n\n128\n\n1827\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "Pipe P can fill the tank in (X+3) minutes and pipe\n\nQ can fill the same tank in (X+6) minutes. The\n\nefficiency of pipe R is 25% more than that of pipe\n\nP.\n\nIf two balls are taken from the bag, then find the\n\nprobability of taken at most one ball is silver\n\ncolor.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_48",
+    "question": "A bag contains (x + 1) red balls, (2x – 1) blue balls\n\nand ‘z’ green balls. The probability of drawing a\n\nblue ball from the bag is 3/10. The probability of\n\ndrawing a red ball from the bag is 1/5.\n\n5 balls are to be drawn from the bag. In how\n\nmany ways the balls are drawn so that at least 3\n\nred balls are drawn?",
+    "question_html": "A bag contains (x + 1) red balls, (2x – 1) blue balls<br/><br/>and ‘z’ green balls. The probability of drawing a<br/><br/>blue ball from the bag is 3/10. The probability of<br/><br/>drawing a red ball from the bag is 1/5.<br/><br/>5 balls are to be drawn from the bag. In how<br/><br/>many ways the balls are drawn so that at least 3<br/><br/>red balls are drawn?<br/>",
+    "questionHtml": "A bag contains (x + 1) red balls, (2x – 1) blue balls<br/><br/>and ‘z’ green balls. The probability of drawing a<br/><br/>blue ball from the bag is 3/10. The probability of<br/><br/>drawing a red ball from the bag is 1/5.<br/><br/>5 balls are to be drawn from the bag. In how<br/><br/>many ways the balls are drawn so that at least 3<br/><br/>red balls are drawn?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5364",
+        "html": "5364"
+      },
+      {
+        "id": "B",
+        "text": "5520",
+        "html": "5520"
+      },
+      {
+        "id": "C",
+        "text": "5698",
+        "html": "5698"
+      },
+      {
+        "id": "D",
+        "text": "5886",
+        "html": "5886"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5364",
+      "5520",
+      "5698",
+      "5886",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of balls in the bag = x + 1 + 2x – 1 + z\n\n= 3x + z\n\nProbability of drawing a red ball from the bag =\n\nC /\nC = 1/5\n\n(x + 1)/(3x + z) = 1/5\n\n5x + 5 = 3x + z\n\nz – 2x = 5 ---------(i)\n\nProbability of drawing a blue ball from the bag =\n\nC /\nC = 3/10\n\n(2x – 1)/(3x + z) = 3/10\n\n20x – 10 = 9x + 3z\n\n11x – 3z = 10 ----------(i)\n\nSolving (i) and (ii), we get x = 5 and z = 15\n\nSo, the bag contains 6 red, 9 blue and 15 green\n\nballs.\n\nCase I: 3 red balls are drawn\n\nNumber of ways = C \n× \nC = 20 \n× 276 =\n\n5520\n\nCase II: 4 red balls are drawn\n\nNumber of ways = C \n× \nC = 15 \n× 24 =\n\n360\n\nCase III: 5 red balls are drawn\n\nNumber of ways = C = 6\n\nSo, the total number of ways = 5520 + 360 + 6 =\n\n5886\n\nHence, option d.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "A bag contains (x + 1) red balls, (2x – 1) blue balls\n\nand ‘z’ green balls. The probability of drawing a\n\nblue ball from the bag is 3/10. The probability of\n\ndrawing a red ball from the bag is 1/5.\n\n5 balls are to be drawn from the bag. In how\n\nmany ways the balls are drawn so that at least 3\n\nred balls are drawn?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_49",
+    "question": "A bag contains three colours Red, green, and\n\nblue of balls. Two balls are drawn at random.\n\nWhat is the probability that none of the balls\n\ndrawn is blue?\n\nStatement I: The total number of all balls (Red,\n\ngreen, and blue) in the bag is 7.\n\nStatement II: The sum of red balls and blue balls\n\nis 4.\n\nStatement III: The number of green balls is 3.",
+    "question_html": "A bag contains three colours Red, green, and<br/><br/>blue of balls. Two balls are drawn at random.<br/><br/>What is the probability that none of the balls<br/><br/>drawn is blue?<br/><br/>Statement I: The total number of all balls (Red,<br/><br/>green, and blue) in the bag is 7.<br/><br/>Statement II:  The sum of red balls and blue balls<br/><br/>is 4.<br/><br/>Statement III: The number of green balls is 3.<br/>",
+    "questionHtml": "A bag contains three colours Red, green, and<br/><br/>blue of balls. Two balls are drawn at random.<br/><br/>What is the probability that none of the balls<br/><br/>drawn is blue?<br/><br/>Statement I: The total number of all balls (Red,<br/><br/>green, and blue) in the bag is 7.<br/><br/>Statement II:  The sum of red balls and blue balls<br/><br/>is 4.<br/><br/>Statement III: The number of green balls is 3.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only I and II",
+        "html": "Only I and II"
+      },
+      {
+        "id": "C",
+        "text": "Only II and III",
+        "html": "Only II and III"
+      },
+      {
+        "id": "D",
+        "text": "All together",
+        "html": "All together"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only I",
+      "Only I and II",
+      "Only II and III",
+      "All together",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "From statements I, II and III\n\nWe can find\n\nRed + blue =4 and Green =3\n\nFrom these data, we cannot find the required\n\nanswer. Because the number of blue balls not\n\ngiven.\n\n=\nX\n\nX + 3 + X + 5\n\n3\n\n10\n\n×\n125\n100\n\n×\n\n×\n\n+ 3 + 2\n36 − 24 − 10\n\n4 + 5\n\n2\n9\n\n2\n9\n\n=\nX\n\nX + 3 + X + 5\n\n3\n\n10\n\n×\n125\n100\n\n(\n ×\n)+\n5c1\n15c1\n15c2\n\n20c2\n\n75 + 105\n\n190\n\n18\n19\n\nx+1\n1 3x+z\n1\n\n2x-1\n1 3x+z\n1\n\n6\n3 ×\n24\n2\n×\n\n6\n4 ×\n24\n1\n×\n\n6\n5\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "A bag contains three colours Red, green, and\n\nblue of balls. Two balls are drawn at random.\n\nWhat is the probability that none of the balls\n\ndrawn is blue?\n\nStatement I: The total number of all balls (Red,\n\ngreen, and blue) in the bag is 7.\n\nStatement II: The sum of red balls and blue balls\n\nis 4.\n\nStatement III: The number of green balls is 3.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_50",
+    "question": "Following question consists of two statements\n\nnumbered (1) and (2). You have to decide\n\nwhether the data provided in the statements is\n\nsufficient to answer the question.\n\nA box contains Red, Black and Blue marbles.\n\nWhat is the percentage of Blue marbles in the\n\nbox?\n\nStatement 1: Percentage of Red marbles is 60%\n\nof the total marbles.\n\nStatement 2: Black marbles are 300% of the Blue\n\nmarbles.",
+    "question_html": "Following question consists of two statements<br/><br/>numbered (1) and (2). You have to decide<br/><br/>whether the data provided in the statements is<br/><br/>sufficient to answer the question.<br/><br/>A box contains Red, Black and Blue marbles.<br/><br/>What is the percentage of Blue marbles in the<br/><br/>box?<br/><br/>Statement 1: Percentage of Red marbles is 60%<br/><br/>of the total marbles.<br/><br/>Statement 2: Black marbles are 300% of the Blue<br/><br/>marbles.<br/>",
+    "questionHtml": "Following question consists of two statements<br/><br/>numbered (1) and (2). You have to decide<br/><br/>whether the data provided in the statements is<br/><br/>sufficient to answer the question.<br/><br/>A box contains Red, Black and Blue marbles.<br/><br/>What is the percentage of Blue marbles in the<br/><br/>box?<br/><br/>Statement 1: Percentage of Red marbles is 60%<br/><br/>of the total marbles.<br/><br/>Statement 2: Black marbles are 300% of the Blue<br/><br/>marbles.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II together are sufficient",
+        "html": "Both I and II together are sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Either I or II alone are sufficient",
+        "html": "Either I or II alone are sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Only I is sufficient",
+        "html": "Only I is sufficient"
+      },
+      {
+        "id": "D",
+        "text": "Only II is sufficient",
+        "html": "Only II is sufficient"
+      },
+      {
+        "id": "E",
+        "text": "Neither I nor II is sufficient.",
+        "html": "Neither I nor II is sufficient.<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Both I and II together are sufficient",
+      "Either I or II alone are sufficient",
+      "Only I is sufficient",
+      "Only II is sufficient",
+      "Neither I nor II is sufficient.<br/><br/>"
+    ],
+    "explanation": "Statement 1:\n\nLet the total number of balls be 10k.\n\nRed balls =\n 60% of 10k = 6k\n\nStatement 2:\n\nThe ratio of black: blue marbles \n= 23: 1\n\nFrom both the statement,\n\nBalls left\n = 10k −6k = 4k\n\nSo, black balls = 3k and blue balls = k.\n\n% blue balls\n = \n\nk\n\n10k = 10%\n\nBoth statements are together necessary",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "Following question consists of two statements\n\nnumbered (1) and (2). You have to decide\n\nwhether the data provided in the statements is\n\nsufficient to answer the question.\n\nA box contains Red, Black and Blue marbles.\n\nWhat is the percentage of Blue marbles in the\n\nbox?\n\nStatement 1: Percentage of Red marbles is 60%\n\nof the total marbles.\n\nStatement 2: Black marbles are 300% of the Blue\n\nmarbles.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "probability_chapter_wise_dpp_english_51",
+    "question": "In a bag, there are 4 types of coins i.e. Rs. 1, Rs. 2,\n\nRs. 5, and Rs. 10. The ratio of the number of Rs. 5\n\nto the number of Rs. 10 coins in the bag is 2:3\n\nand the ratio of the number of Rs. 2 to number of\n\nRs. 5 coin is 4:3. Total number of coin in the bag is\n\n30 and number of Rs. 1 coin is 7. A man randomly\n\ndraws 4 coins from the bag. What is the\n\n2\n9\n\n2\n9\n2\n9\n\n2\n9\n\n3\n\n10\n\n18\n19\n\n11\n19\n\n7\n\n19\n\n9\n\n19\n\nProcessing math: 100%",
+    "question_html": "In a bag, there are 4 types of coins i.e. Rs. 1, Rs. 2,<br/><br/>Rs. 5, and Rs. 10. The ratio of the number of Rs. 5<br/><br/>to the number of Rs. 10 coins in the bag is 2:3<br/><br/>and the ratio of the number of Rs. 2 to number of<br/><br/>Rs. 5 coin is 4:3. Total number of coin in the bag is<br/><br/>30 and number of Rs. 1 coin is 7. A man randomly<br/><br/>draws 4 coins from the bag. What is the<br/><br/>2<br/>9<br/><br/>2<br/>9<br/>2<br/>9<br/><br/>2<br/>9<br/><br/>3<br/><br/>10<br/><br/>18<br/>19<br/><br/>11<br/>19<br/><br/>7<br/><br/>19<br/><br/>9<br/><br/>19<br/><br/>Processing math: 100%",
+    "questionHtml": "In a bag, there are 4 types of coins i.e. Rs. 1, Rs. 2,<br/><br/>Rs. 5, and Rs. 10. The ratio of the number of Rs. 5<br/><br/>to the number of Rs. 10 coins in the bag is 2:3<br/><br/>and the ratio of the number of Rs. 2 to number of<br/><br/>Rs. 5 coin is 4:3. Total number of coin in the bag is<br/><br/>30 and number of Rs. 1 coin is 7. A man randomly<br/><br/>draws 4 coins from the bag. What is the<br/><br/>2<br/>9<br/><br/>2<br/>9<br/>2<br/>9<br/><br/>2<br/>9<br/><br/>3<br/><br/>10<br/><br/>18<br/>19<br/><br/>11<br/>19<br/><br/>7<br/><br/>19<br/><br/>9<br/><br/>19<br/><br/>Processing math: 100%",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let, the number of Rs. 2 coins, Rs. 5 coins, and Rs.\n\n10 coins are 8x, 6x, and 9x, respectively.\n\nSo 8x + 6x + 9x + 7 =30\n\n⇒ 23x = 23\n\n⇒ x = 1\n\nSo the number of Rs. 2 coins = 8x = 8\n\nNumber of Rs. 5 coin = 6x = 6\n\nNumber of Rs. 10 coin = 9x = 9\n\nFavourable number of ways = ( C \n× C \n×\n\n C ) + ( C \n× C \n× C ) = 840 + 1080 =\n\n1920\n\nTotal number of ways of selecting 4 coins = \nC\n\n= 27405\n\nProbability =\n\n1920\n\n27405 =\n\n128\n\n1827 \n\nHence, option B is the answer.\n\n 60% of 10k = 6k\n\n= 23 : 1\n\n = 10k −6k = 4k\n\n = \n = 10%\nk\n\n10k\n\n6\n2 ×\n8\n1 ×\n\n7\n1\n6\n2 ×\n8\n1 ×\n9\n1\n\n30\n4\n\n=\n1920\n\n27405\n\n128\n\n1827\n\nProcessing math: 100%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "probability",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Probability  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Probability  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "In a bag, there are 4 types of coins i.e. Rs. 1, Rs. 2,\n\nRs. 5, and Rs. 10. The ratio of the number of Rs. 5\n\nto the number of Rs. 10 coins in the bag is 2:3\n\nand the ratio of the number of Rs. 2 to number of\n\nRs. 5 coin is 4:3. Total number of coin in the bag is\n\n30 and number of Rs. 1 coin is 7. A man randomly\n\ndraws 4 coins from the bag. What is the\n\n2\n9\n\n2\n9\n2\n9\n\n2\n9\n\n3\n\n10\n\n18\n19\n\n11\n19\n\n7\n\n19\n\n9\n\n19\n\nProcessing math: 100%",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "probability",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Probability  Chapter wise DPP (English)\\Probability  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/probability_chapter_wise_dpp_english/Probability  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

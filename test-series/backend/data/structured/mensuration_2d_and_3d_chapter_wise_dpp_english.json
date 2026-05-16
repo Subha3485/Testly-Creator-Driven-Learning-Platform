@@ -1,0 +1,4828 @@
+[
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_1",
+    "question": "The ratio of length to breadth of a rectangular\n\nplot is 9 : 4 respectively. If the breadth is 200\n\nmetre less than the length, what is the\n\nperimeter of the rectangular plot?",
+    "question_html": "The ratio of length to breadth of a rectangular<br/><br/>plot is 9 : 4 respectively. If the breadth is 200<br/><br/>metre less than the length, what is the<br/><br/>perimeter of the rectangular plot?<br/>",
+    "questionHtml": "The ratio of length to breadth of a rectangular<br/><br/>plot is 9 : 4 respectively. If the breadth is 200<br/><br/>metre less than the length, what is the<br/><br/>perimeter of the rectangular plot?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1030 metres",
+        "html": "1030 metres"
+      },
+      {
+        "id": "B",
+        "text": "2080 metres",
+        "html": "2080 metres"
+      },
+      {
+        "id": "C",
+        "text": "1040 metres",
+        "html": "1040 metres"
+      },
+      {
+        "id": "D",
+        "text": "1200 metres",
+        "html": "1200 metres"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1030 metres",
+      "2080 metres",
+      "1040 metres",
+      "1200 metres",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the length of rectangular plot = 9x\n\nAnd breadth of the plot = 4x\n\nAccording to question, 9x – 4x = 200 metres\n\n5x = 200 metres\n\nx = 40 metres\n\nLength = 360 m, breadth = 160 m\n\nPerimeter of rectangle = 2 (l+b)\n\n= 2 (360+160)\n\n= 2 \n520\n\n= 1040 metres",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of length to breadth of a rectangular\n\nplot is 9 : 4 respectively. If the breadth is 200\n\nmetre less than the length, what is the\n\nperimeter of the rectangular plot?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_2",
+    "question": "The radius of the wheel is 14 cm. If the speed of\n\nthe wheel is 22 cm per second, then, find the\n\nnumber of revolutions by the wheel in 10\n\nminutes.",
+    "question_html": "The radius of the wheel is 14 cm. If the speed of<br/><br/>the wheel is 22 cm per second, then, find the<br/><br/>number of revolutions by the wheel in 10<br/><br/>minutes.<br/>",
+    "questionHtml": "The radius of the wheel is 14 cm. If the speed of<br/><br/>the wheel is 22 cm per second, then, find the<br/><br/>number of revolutions by the wheel in 10<br/><br/>minutes.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "00",
+        "html": "00"
+      },
+      {
+        "id": "B",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "C",
+        "text": "00",
+        "html": "00"
+      },
+      {
+        "id": "D",
+        "text": "350",
+        "html": "350"
+      },
+      {
+        "id": "E",
+        "text": "00",
+        "html": "00<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "00",
+      "150",
+      "00",
+      "350",
+      "00<br/><br/>"
+    ],
+    "explanation": "Distance cover by wheel in 1 revolution =\n\nCircumference of the wheel\n\nDistance cover by wheel in 1 revolution\n\nDistance cover by wheel in 10 minutes\n\nNumber of revolution",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The radius of the wheel is 14 cm. If the speed of\n\nthe wheel is 22 cm per second, then, find the\n\nnumber of revolutions by the wheel in 10\n\nminutes.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_3",
+    "question": "The length, breadth and height of a room is 7m,\n\n8m and 5m respectively. Find the length of the\n\nlargest bamboo that can be kept inside the\n\nroom.",
+    "question_html": "The length, breadth and height of a room is 7m,<br/><br/>8m and 5m respectively. Find the length of the<br/><br/>largest bamboo that can be kept inside the<br/><br/>room.<br/>",
+    "questionHtml": "The length, breadth and height of a room is 7m,<br/><br/>8m and 5m respectively. Find the length of the<br/><br/>largest bamboo that can be kept inside the<br/><br/>room.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "m",
+        "html": "m"
+      },
+      {
+        "id": "B",
+        "text": "m",
+        "html": "m"
+      },
+      {
+        "id": "C",
+        "text": "m",
+        "html": "m"
+      },
+      {
+        "id": "D",
+        "text": "m",
+        "html": "m"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "m",
+      "m",
+      "m",
+      "m",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "room is a cuboidal shape\n\nDiagonal of cuboid = \n\n= \n\n=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The length, breadth and height of a room is 7m,\n\n8m and 5m respectively. Find the length of the\n\nlargest bamboo that can be kept inside the\n\nroom.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_4",
+    "question": "The perimeter of a rectangle is 24 meters more\n\nthan the perimeter of a square whose sides are\n\n10 meters. If the ratio of breadth to length of a\n\nrectangle is 3:5, then find the area of the\n\nrectangle.",
+    "question_html": "The perimeter of a rectangle is 24 meters more<br/><br/>than the perimeter of a square whose sides are<br/><br/>10 meters. If the ratio of breadth to length of a<br/><br/>rectangle is 3:5, then find the area of the<br/><br/>rectangle.<br/>",
+    "questionHtml": "The perimeter of a rectangle is 24 meters more<br/><br/>than the perimeter of a square whose sides are<br/><br/>10 meters. If the ratio of breadth to length of a<br/><br/>rectangle is 3:5, then find the area of the<br/><br/>rectangle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "250",
+        "html": "250"
+      },
+      {
+        "id": "B",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "C",
+        "text": "224",
+        "html": "224"
+      },
+      {
+        "id": "D",
+        "text": "240",
+        "html": "240"
+      },
+      {
+        "id": "E",
+        "text": "320",
+        "html": "320<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "250",
+      "150",
+      "224",
+      "240",
+      "320<br/><br/>"
+    ],
+    "explanation": "Perimeter of square = 10\n4 = 40 m\n\nPerimeter of rectangle = 40 + 24 = 64 m\n\nLet the length and breadth of the rectangle be\n\n5x and 3x respectively.\n\nAccording to the question,\n\n2\n(5x + 3x) = 64\n\nx = 4\n\nRequired area = 5\n4\n3\n4 = 240",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The perimeter of a rectangle is 24 meters more\n\nthan the perimeter of a square whose sides are\n\n10 meters. If the ratio of breadth to length of a\n\nrectangle is 3:5, then find the area of the\n\nrectangle.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_5",
+    "question": "The perimeter of a rectangle is 100 m and the\n\ndifference between the length and breadth of\n\nthe rectangle is 10m. Find the perimeter of a\n\nsquare whose area is 300 m more than the\n\narea of a rectangle.",
+    "question_html": "The perimeter of a rectangle is 100 m and the<br/><br/>difference between the length and breadth of<br/><br/>the rectangle is 10m. Find the perimeter of a<br/><br/>square whose area is 300 m&nbsp; more than the<br/><br/>area of a rectangle.<br/>",
+    "questionHtml": "The perimeter of a rectangle is 100 m and the<br/><br/>difference between the length and breadth of<br/><br/>the rectangle is 10m. Find the perimeter of a<br/><br/>square whose area is 300 m&nbsp; more than the<br/><br/>area of a rectangle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "110 m",
+        "html": "110 m"
+      },
+      {
+        "id": "B",
+        "text": "120 m",
+        "html": "120 m"
+      },
+      {
+        "id": "C",
+        "text": "130 m",
+        "html": "130 m"
+      },
+      {
+        "id": "D",
+        "text": "140 m",
+        "html": "140 m"
+      },
+      {
+        "id": "E",
+        "text": "150 m",
+        "html": "150 m<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "110 m",
+      "120 m",
+      "130 m",
+      "140 m",
+      "150 m<br/><br/>"
+    ],
+    "explanation": "Let length and breadth of the rectangle are 'l'\n\nand 'b', respectively.\n\nThe perimeter of the rectangle is 100 m.\n\nTherefore,\n\nalso ;\n\nAdding the above two equations, we get:\n\nSubstituting this value of l in\n we\n\nget:\n\nArea of rectangle \n\nArea of rectangle\n\nLet the side of the square be x m.\n\nthe area of the square is\nmore than the\n\narea of the rectangle. Therefore;\n\nArea of square\n\nPerimeter of square \n\nPerimeter of square \n\nTherefore, the perimeter of the square whose\n\narea is \nmore than the area of the\n\nrectangle is 120 m.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The perimeter of a rectangle is 100 m and the\n\ndifference between the length and breadth of\n\nthe rectangle is 10m. Find the perimeter of a\n\nsquare whose area is 300 m more than the\n\narea of a rectangle.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_6",
+    "question": "The perimeter of a rectangle and the perimeter\n\nof a square are in the ratio of 7 : 2. The area of\n\nthe square is 196 sq. cm and the length and\n\nbreadth of the rectangle are in the ratio of 4 : 3.\n\nWhat is the area of the rectangle?",
+    "question_html": "The perimeter of a rectangle and the perimeter<br/><br/>of a square are in the ratio of 7 : 2. The area of<br/><br/>the square is 196 sq. cm and the length and<br/><br/>breadth of the rectangle are in the ratio of 4 : 3.<br/><br/>What is the area of the rectangle?<br/>",
+    "questionHtml": "The perimeter of a rectangle and the perimeter<br/><br/>of a square are in the ratio of 7 : 2. The area of<br/><br/>the square is 196 sq. cm and the length and<br/><br/>breadth of the rectangle are in the ratio of 4 : 3.<br/><br/>What is the area of the rectangle?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2124 sq. cm",
+        "html": "2124 sq. cm"
+      },
+      {
+        "id": "B",
+        "text": "2428 sq. cm",
+        "html": "2428 sq. cm"
+      },
+      {
+        "id": "C",
+        "text": "2276 sq. cm",
+        "html": "2276 sq. cm"
+      },
+      {
+        "id": "D",
+        "text": "2352 sq. cm",
+        "html": "2352 sq. cm"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2124 sq. cm",
+      "2428 sq. cm",
+      "2276 sq. cm",
+      "2352 sq. cm",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "Side of the square = \n = 14cm.\n\nPerimeter of the square = \n\nPerimeter of the rectangle =\n\nLet the length and breadth of the rectangle be\n\n4x cm and 3x cm respectively.\n\nArea of the rectangle = \n\n×\n\n= 2 π r = 2 ×\n × 14 = 88 cm\n22\n\n7\n\n= 22 × 10 × 60 = 13200 cm (D = s × t)\n\n=\n= 150\n13200\n\n88\n\n+\n+\nl2\nb2\nh2\n−\n−\n−−−−−−−\n√\n\n+\n+\n72\n82\n52\n−\n−\n−−−−−−−−\n√\n\n138\n−−\n−\n√\n\n×\n\n×\n\n× × ×\n\n2(l + b) = 100\nl + b = 50\n\nl − b = 10\n\n2l = 60\nl = 30\n\n l + b = 50,\n\nb = 20\n\n= l × b = 30 × 20\n\n = 600 m2\n\n 300 m2\n\n = 900 m2\n\n=>\n= 900\nx2\n\n=> x = 30 m\n\n= 4 × x\n= 4 × 30 = 120 m\n\n300 m2\n\n196\n−−\n−\n√\n\n4 × 14 = 56 cm\n\n7\n2 × 56 = 196 cm\n\n2 × (4x + 3x) = 196\nx = \n= 14\n196\n\n14\n\n4x × 3x\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The perimeter of a rectangle and the perimeter\n\nof a square are in the ratio of 7 : 2. The area of\n\nthe square is 196 sq. cm and the length and\n\nbreadth of the rectangle are in the ratio of 4 : 3.\n\nWhat is the area of the rectangle?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_7",
+    "question": "The perimeter of the top of a rectangular table\n\nis 24 m. Whereas its area is 22 m . What is the\n\nlength of its diagonal?",
+    "question_html": "The perimeter of the top of a rectangular table<br/><br/>is 24 m. Whereas its area is 22 m . What is the<br/><br/>length of its diagonal?<br/>",
+    "questionHtml": "The perimeter of the top of a rectangular table<br/><br/>is 24 m. Whereas its area is 22 m . What is the<br/><br/>length of its diagonal?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 m",
+        "html": "12 m"
+      },
+      {
+        "id": "B",
+        "text": "8 m",
+        "html": "8 m"
+      },
+      {
+        "id": "C",
+        "text": "10 m",
+        "html": "10 m"
+      },
+      {
+        "id": "D",
+        "text": "5 m",
+        "html": "5 m"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12 m",
+      "8 m",
+      "10 m",
+      "5 m",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "Let length be l m & breadth be b m.\n\nPerimeter \n\nl + b = 12\n\nArea\n\nNow;\n\nDiagonal of rectangle = \n = 10",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The perimeter of the top of a rectangular table\n\nis 24 m. Whereas its area is 22 m . What is the\n\nlength of its diagonal?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_8",
+    "question": "The total surface area of a sphere is 616 cm\n\nFind the volume of the sphere.",
+    "question_html": "The total surface area of a sphere is 616 cm<br/><br/>Find the volume of the sphere.<br/>",
+    "questionHtml": "The total surface area of a sphere is 616 cm<br/><br/>Find the volume of the sphere.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1347.8 cm",
+        "html": "1347.8 cm"
+      },
+      {
+        "id": "B",
+        "text": "1564.5 cm",
+        "html": "1564.5 cm"
+      },
+      {
+        "id": "C",
+        "text": "1437.3 cm",
+        "html": "1437.3 cm"
+      },
+      {
+        "id": "D",
+        "text": "1562.7 cm",
+        "html": "1562.7 cm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1347.8 cm",
+      "1564.5 cm",
+      "1437.3 cm",
+      "1562.7 cm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "TSA \n\nTherefore; Volume",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The total surface area of a sphere is 616 cm\n\nFind the volume of the sphere.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_9",
+    "question": "What is the volume of a cylinder with radius 5\n\ncm and height 28 cm? (Take π = 22/7)",
+    "question_html": "What is the volume of a cylinder with radius 5<br/><br/>cm and height 28 cm? (Take π = 22/7)<br/>",
+    "questionHtml": "What is the volume of a cylinder with radius 5<br/><br/>cm and height 28 cm? (Take π = 22/7)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8750",
+        "html": "8750"
+      },
+      {
+        "id": "B",
+        "text": "2200\n\nMensurations 2D and 3D\n\nLevel-1\n\n2\n\n3\n\n 4\n\n137\n−−\n−\n√\n139\n−−\n−\n√\n\n138\n−−\n−\n√\n136\n−−\n−\n√\n\n2\n\n2",
+        "html": "2200<br/><br/><b>Mensurations 2D and 3D</b><br/><br/><b>Level-1</b><br/><br/>2<br/><br/>3<br/><br/> 4<br/><br/>137<br/>−−<br/>−<br/>√<br/>139<br/>−−<br/>−<br/>√<br/><br/>138<br/>−−<br/>−<br/>√<br/>136<br/>−−<br/>−<br/>√<br/><br/>2<br/><br/>2<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "8750",
+      "2200<br/><br/><b>Mensurations 2D and 3D</b><br/><br/><b>Level-1</b><br/><br/>2<br/><br/>3<br/><br/> 4<br/><br/>137<br/>−−<br/>−<br/>√<br/>139<br/>−−<br/>−<br/>√<br/><br/>138<br/>−−<br/>−<br/>√<br/>136<br/>−−<br/>−<br/>√<br/><br/>2<br/><br/>2<br/><br/>"
+    ],
+    "explanation": "The volume of Cylinder = π\nh\n\nCalculation:\n\nAccording to the question \n\nVolume of cylinder \n\n⇒ π\nh\n\n⇒ \n\n⇒ 2200\n\n∴ The volume of the cylinder is 2200",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "What is the volume of a cylinder with radius 5\n\ncm and height 28 cm? (Take π = 22/7)",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_10",
+    "question": "3\n3\n\n3\n3",
+    "question_html": "3<br/>3<br/><br/>3<br/>3",
+    "questionHtml": "3<br/>3<br/><br/>3<br/>3",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Distance cover by wheel in 1 revolution =\n\nCircumference of the wheel\n\nDistance cover by wheel in 1 revolution\n\nDistance cover by wheel in 10 minutes\n\nNumber of revolution",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "3\n3\n\n3\n3",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_11",
+    "question": "The length and breadth of a rectangle is in ratio",
+    "question_html": "The length and breadth of a rectangle is in ratio<br/><br/>",
+    "questionHtml": "The length and breadth of a rectangle is in ratio<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let the length and breadth of the rectangle be\n\n4x and 7x.\n\nWe know perimeter of rectangle = 2 (l + b)\n\nAccording to the question :\n\n2(4x + 7x) = 286\n\n22x = 286\n\nx = 13 cm\n\nTherefore, area of rectangle (l x b) = 4x \n\n= (4 \n\n= 52 \n\n= 4732 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The length and breadth of a rectangle is in ratio",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_12",
+    "question": "7. If the Perimeter is 286 cm. Find the area of\n\nthe rectangle.",
+    "question_html": "7. If the Perimeter is 286 cm. Find the area of<br/><br/>the rectangle.<br/>",
+    "questionHtml": "7. If the Perimeter is 286 cm. Find the area of<br/><br/>the rectangle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4532 sq cm",
+        "html": "4532 sq cm"
+      },
+      {
+        "id": "B",
+        "text": "4632 sq cm",
+        "html": "4632 sq cm"
+      },
+      {
+        "id": "C",
+        "text": "4732 sq cm",
+        "html": "4732 sq cm"
+      },
+      {
+        "id": "D",
+        "text": "4832 sq cm",
+        "html": "4832 sq cm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4532 sq cm",
+      "4632 sq cm",
+      "4732 sq cm",
+      "4832 sq cm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Perimeter of square = 10\n4 = 40 m\n\nPerimeter of rectangle = 40 + 24 = 64 m\n\nLet the length and breadth of the rectangle be\n\n5x and 3x respectively.\n\nAccording to the question,\n\n2\n(5x + 3x) = 64\n\nx = 4\n\nRequired area = 5\n4\n3\n4 = 240",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "7. If the Perimeter is 286 cm. Find the area of\n\nthe rectangle.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_13",
+    "question": "The circumference of two circles is 484 m and\n\n1012 m respectively. What is the difference\n\nbetween the area of the larger circle and\n\nsmaller circle?",
+    "question_html": "The circumference of two circles is 484 m and<br/><br/>1012 m respectively. What is the difference<br/><br/>between the area of the larger circle and<br/><br/>smaller circle?<br/>",
+    "questionHtml": "The circumference of two circles is 484 m and<br/><br/>1012 m respectively. What is the difference<br/><br/>between the area of the larger circle and<br/><br/>smaller circle?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "52832 m",
+        "html": "52832 m"
+      },
+      {
+        "id": "B",
+        "text": "45232 m",
+        "html": "45232 m"
+      },
+      {
+        "id": "C",
+        "text": "62832 m",
+        "html": "62832 m"
+      },
+      {
+        "id": "D",
+        "text": "78232 m",
+        "html": "78232 m"
+      },
+      {
+        "id": "E",
+        "text": "61812 m",
+        "html": "61812 m<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "52832 m",
+      "45232 m",
+      "62832 m",
+      "78232 m",
+      "61812 m<br/><br/>"
+    ],
+    "explanation": "Let the radius of the 1st circle be x & 2nd circle\n\nby y cm.\n\nATP:\n\nCircumference of 1st circle\n\nSimilarly y\n\nTherefore; \ndifference \nbetween \nthe \ncircle",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The circumference of two circles is 484 m and\n\n1012 m respectively. What is the difference\n\nbetween the area of the larger circle and\n\nsmaller circle?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_14",
+    "question": "if the side of a square is increased by 28 % then\n\nwhat will be the ratio of new area to old area ?",
+    "question_html": "if the side of a square is increased by 28 % then<br/><br/>what will be the ratio of new area to old area ?<br/>",
+    "questionHtml": "if the side of a square is increased by 28 % then<br/><br/>what will be the ratio of new area to old area ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5:8",
+        "html": "5:8"
+      },
+      {
+        "id": "B",
+        "text": "1024 :625",
+        "html": "1024 :625"
+      },
+      {
+        "id": "C",
+        "text": "625 : 1024",
+        "html": "625 : 1024"
+      },
+      {
+        "id": "D",
+        "text": "8: 5",
+        "html": "8: 5"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5:8",
+      "1024 :625",
+      "625 : 1024",
+      "8: 5",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "28 % can be written as \n\nMeans initially if the side was 25 it will become\n\n32 after increment .\n\nSo the ratio of new area to old area = \n :\n\n= 1024 :625",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "if the side of a square is increased by 28 % then\n\nwhat will be the ratio of new area to old area ?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_15",
+    "question": "What would be the cost of building a fence\n\naround a square plot with area equal to 361\n\nsq.ft, if the price per foot of a building the fence\n\nis Rs.65?",
+    "question_html": "What would be the cost of building a fence<br/><br/>around a square plot with area equal to 361<br/><br/>sq.ft, if the price per foot of a building the fence<br/><br/>is Rs.65?<br/>",
+    "questionHtml": "What would be the cost of building a fence<br/><br/>around a square plot with area equal to 361<br/><br/>sq.ft, if the price per foot of a building the fence<br/><br/>is Rs.65?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs.5000",
+        "html": "Rs.5000"
+      },
+      {
+        "id": "B",
+        "text": "Rs.4940",
+        "html": "Rs.4940"
+      },
+      {
+        "id": "C",
+        "text": "Rs.5200",
+        "html": "Rs.5200"
+      },
+      {
+        "id": "D",
+        "text": "Rs.5300",
+        "html": "Rs.5300"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs.5000",
+      "Rs.4940",
+      "Rs.5200",
+      "Rs.5300",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the side of the square plot be 'a' ft.\n\nGiven area of the plot (a \n a) = 361\n\n=> a = 19\n\nLength of the fence = Perimeter of the plot = 4a\n\n= 76 ft.\n\nCost of building the fence = 76 \n65 = Rs.4940",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "What would be the cost of building a fence\n\naround a square plot with area equal to 361\n\nsq.ft, if the price per foot of a building the fence\n\nis Rs.65?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_16",
+    "question": "The volume of a hemisphere is 3888π cm , find\n\nthe total surface area of the same hemisphere.",
+    "question_html": "The volume of a hemisphere is 3888π cm , find<br/><br/>the total surface area of the same hemisphere.<br/>",
+    "questionHtml": "The volume of a hemisphere is 3888π cm , find<br/><br/>the total surface area of the same hemisphere.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "996π cm",
+        "html": "996π cm"
+      },
+      {
+        "id": "B",
+        "text": "972π cm",
+        "html": "972π cm"
+      },
+      {
+        "id": "C",
+        "text": "864π cm",
+        "html": "864π cm"
+      },
+      {
+        "id": "D",
+        "text": "728π cm",
+        "html": "728π cm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "996π cm",
+      "972π cm",
+      "864π cm",
+      "728π cm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the radius of the hemisphere be 'r' cm.\n\nVolume of hemisphere = (\n) \n π \n r\n\n3888π = (\n) \n π \n r\n\nOr, 5832 = r\n\nSo, r = 18\n\nThe total surface area of hemisphere = 3πr \n\nSo, required area = 3 \n π \n 18 = 972π cm\n\n= 56 × 42 = 2352 sq. cm\n\n= 2(l + b)\n\n = lb\n\n=> lb = 22\n\n(l + b\n = \n+\n+ 2lb\n)2\nl2\nb2\n\n=>\n= \n+\n+ 44\n122\nl2\nb2\n\n=> 100 = \n+\nl2\nb2\n\n(\n+\n)\nl2\nb2\n−\n−\n−−−−−\n√\n\n= 616 cm2\n\n=> 4 ×\n×\n= 616\n22\n\n7\nr2\n\n=>\n= 7 × 7\nr2\n\n=> r = 7cm\n\n= \n×\n×\n4\n3\n\n22\n\n7\nr3\n\n=\n×\n×\n4\n3\n\n22\n\n7\n73\n\n= 1437.3 cm3\n\nr2\n\nr2\n\n×\n× 28\n22\n\n7\n52\n\n×7x\n\n×13) × (7 × 13)\n\n×91\n\n2\n\n = 2 ×\n× x\n22\n\n7\n\n=> \n× x = 484\n44\n\n7\n\n=> x = 77 cm\n\n = 161 cm\n\n= π(\n−\n)\ny2\nx2\n\n=\n(\n−\n) = 62832 c\n22\n\n7 1612\n772\nm2\n\n7\n\n25\n\n32 × 32\n\n25 × 25 \n\n×\n\n×\n\n2\n3 ×\n× 3\n\n2\n3 ×\n× 3\n\n3\n\n2\n\n×\n×\n2\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The volume of a hemisphere is 3888π cm , find\n\nthe total surface area of the same hemisphere.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_17",
+    "question": "The curved surface area of a cylindrical object\n\nis 990 m and its volume is 4455 m . Then what\n\nis the ratio of the height and diameter of this\n\nobject?",
+    "question_html": "The curved surface area of a cylindrical object<br/><br/>is 990 m&nbsp; and its volume is 4455 m . Then what<br/><br/>is the ratio of the height and diameter of this<br/><br/>object?<br/>",
+    "questionHtml": "The curved surface area of a cylindrical object<br/><br/>is 990 m&nbsp; and its volume is 4455 m . Then what<br/><br/>is the ratio of the height and diameter of this<br/><br/>object?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "35:36",
+        "html": "35:36"
+      },
+      {
+        "id": "B",
+        "text": "18:35",
+        "html": "18:35"
+      },
+      {
+        "id": "C",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "D",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "35:36",
+      "18:35",
+      "2:1",
+      "1:2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Curved surface area = 2πrh = 990\n\nVolume = πr h = 4455\n\nπrh = 495\n\nSo r = \n= 9\n\nh = \n\nSo required ratio = 35:36\n\nHence, option a.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The curved surface area of a cylindrical object\n\nis 990 m and its volume is 4455 m . Then what\n\nis the ratio of the height and diameter of this\n\nobject?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_18",
+    "question": "The diagonal of a square is 45√2 cm, whose\n\narea is 13375 cm less than the area of a circle.\n\nFind the circumference of the circle.",
+    "question_html": "The diagonal of a square is 45√2 cm, whose<br/><br/>area is 13375 cm&nbsp; less than the area of a circle.<br/><br/>Find the circumference of the circle.<br/>",
+    "questionHtml": "The diagonal of a square is 45√2 cm, whose<br/><br/>area is 13375 cm&nbsp; less than the area of a circle.<br/><br/>Find the circumference of the circle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "440 cm",
+        "html": "440 cm"
+      },
+      {
+        "id": "B",
+        "text": "441 cm",
+        "html": "441 cm"
+      },
+      {
+        "id": "C",
+        "text": "442 cm",
+        "html": "442 cm"
+      },
+      {
+        "id": "D",
+        "text": "443 cm",
+        "html": "443 cm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "440 cm",
+      "441 cm",
+      "442 cm",
+      "443 cm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the side of the square be s.\n\nDiagonal = \n\nTherefore,the side of the square is 45 cm.\n\nLet the area of the square be x .\n\nLet's denote the radius of the circle by r & area\n\nbe y. Then;\n\nAlso; area of the circle is \n more than\n\nthe area of the square, so we have:\n\nThe circumference of the circle ;",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The diagonal of a square is 45√2 cm, whose\n\narea is 13375 cm less than the area of a circle.\n\nFind the circumference of the circle.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_19",
+    "question": "The height of an equilateral triangle is 9 cm.\n\nFind the perimeter of the triangle.",
+    "question_html": "The height of an equilateral triangle is 9 cm.<br/><br/>Find the perimeter of the triangle.<br/>",
+    "questionHtml": "The height of an equilateral triangle is 9 cm.<br/><br/>Find the perimeter of the triangle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24\n cm",
+        "html": "24<br/> cm"
+      },
+      {
+        "id": "B",
+        "text": "12\n cm",
+        "html": "12<br/> cm"
+      },
+      {
+        "id": "C",
+        "text": "18\ncm",
+        "html": "18<br/>cm"
+      },
+      {
+        "id": "D",
+        "text": "12\ncm",
+        "html": "12<br/>cm"
+      },
+      {
+        "id": "E",
+        "text": "8\n cm",
+        "html": "8<br/> cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24<br/> cm",
+      "12<br/> cm",
+      "18<br/>cm",
+      "12<br/>cm",
+      "8<br/> cm<br/><br/>"
+    ],
+    "explanation": "Let the length of each side of the triangle be ‘a’\n\ncm\n\nHeight of equilateral triangle = \n a\n\nSo, 9 = \n a\n\nOr, a = 6√3\n\nRequired perimeter = 6\n 3 = 18\n cm\n\nHence, option C.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The height of an equilateral triangle is 9 cm.\n\nFind the perimeter of the triangle.",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_20",
+    "question": "The volume of a cuboid is twice the volume of a\n\ncube. If the dimensions of the cuboid are 32 cm,\n\n8 cm, 4 cm then the total surface area of the\n\ncube is?",
+    "question_html": "The volume of a cuboid is twice the volume of a<br/><br/>cube. If the dimensions of the cuboid are 32 cm,<br/><br/>8 cm, 4 cm then the total surface area of the<br/><br/>cube is?<br/>",
+    "questionHtml": "The volume of a cuboid is twice the volume of a<br/><br/>cube. If the dimensions of the cuboid are 32 cm,<br/><br/>8 cm, 4 cm then the total surface area of the<br/><br/>cube is?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "364 cm",
+        "html": "364 cm"
+      },
+      {
+        "id": "B",
+        "text": "384 cm",
+        "html": "384 cm"
+      },
+      {
+        "id": "C",
+        "text": "374 cm",
+        "html": "374 cm"
+      },
+      {
+        "id": "D",
+        "text": "394 cm",
+        "html": "394 cm"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "364 cm",
+      "384 cm",
+      "374 cm",
+      "394 cm",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "Here length of cuboid = 32cm,\n\nbreadth of cuboid = 8cm and height of\n\ncuboid = 4cm\n\n∴ volume of cuboid = length \n breadth \n\n height\n\n= 32 cm \n 8 cm\n4 cm = 1024\n .\n\nAccording to the question:\n\nvolume of cuboid = 2\nvolume of cube\n\n1024\n= 2\n\n⇒ 512\n=\n\n⇒ \n\n∴ Side of cube = 8 cm.\n\nSince, the total surface area of the cube = 6\n\n= 6\n = 384",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The volume of a cuboid is twice the volume of a\n\ncube. If the dimensions of the cuboid are 32 cm,\n\n8 cm, 4 cm then the total surface area of the\n\ncube is?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_21",
+    "question": "The surface area of a sphere is \n less\n\nthan the total surface area of a hemisphere. If\n\nthe ratio between the radius of the hemisphere\n\nand sphere is \n, then find the radius of\n\nhemisphere.",
+    "question_html": "The surface area of a sphere is <br/> less<br/><br/>than the total surface area of a hemisphere. If<br/><br/>the ratio between the radius of the hemisphere<br/><br/>and sphere is <br/>, then find the radius of<br/><br/>hemisphere.<br/>",
+    "questionHtml": "The surface area of a sphere is <br/> less<br/><br/>than the total surface area of a hemisphere. If<br/><br/>the ratio between the radius of the hemisphere<br/><br/>and sphere is <br/>, then find the radius of<br/><br/>hemisphere.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "",
+        "html": ""
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      ""
+    ],
+    "explanation": "T. Surface Area of hemisphere = 3\n\nT. Surface Area of sphere = 4\n\nlet the radius of the sphere = 2x\n\nlet the radius of the hemisphere = 3x\n\n3\n- 4\n= 423.5\n\n3\n- 4\n= 423.5\n\nx = 3.5\n\nradius of hemisphere = 3x\n\n= 10.5 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The surface area of a sphere is \n less\n\nthan the total surface area of a hemisphere. If\n\nthe ratio between the radius of the hemisphere\n\nand sphere is \n, then find the radius of\n\nhemisphere.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_22",
+    "question": "The height of cylinder is increased by 50% and\n\nits radius is increased by 100%. Then its volume\n\nwill increased by how much percent?",
+    "question_html": "The height of cylinder is increased by 50% and<br/><br/>its radius is increased by 100%. Then its volume<br/><br/>will increased by how much percent?<br/>",
+    "questionHtml": "The height of cylinder is increased by 50% and<br/><br/>its radius is increased by 100%. Then its volume<br/><br/>will increased by how much percent?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "350",
+        "html": "350"
+      },
+      {
+        "id": "B",
+        "text": "250",
+        "html": "250"
+      },
+      {
+        "id": "C",
+        "text": "500",
+        "html": "500"
+      },
+      {
+        "id": "D",
+        "text": "400\n\n2\n2\n\n2\n2\n\n2\n\n3\n\n2\n2\n\n2\n2\n\n2\n3\n\n2\n\n3–\n√\n3–\n√\n\n3–\n√\n3–\n√\n\n3–\n√\n\n2\n2\n\n2\n2\n\n423.5cm2\n\n3 : 2\n\n10.5cm\n7cm\n\n1cm\n5cm\n\n5.5cm",
+        "html": "400<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/><br/>3<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/>3<br/><br/>2<br/><br/>3–<br/>√<br/>3–<br/>√<br/><br/>3–<br/>√<br/>3–<br/>√<br/><br/>3–<br/>√<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>423.5cm2<br/><br/>3 : 2<br/><br/>10.5cm<br/>7cm<br/><br/>1cm<br/>5cm<br/><br/>5.5cm"
+      },
+      {
+        "id": "E",
+        "text": "600",
+        "html": "600"
+      }
+    ],
+    "optionsHtml": [
+      "350",
+      "250",
+      "500",
+      "400<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/><br/>3<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/>3<br/><br/>2<br/><br/>3–<br/>√<br/>3–<br/>√<br/><br/>3–<br/>√<br/>3–<br/>√<br/><br/>3–<br/>√<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>423.5cm2<br/><br/>3 : 2<br/><br/>10.5cm<br/>7cm<br/><br/>1cm<br/>5cm<br/><br/>5.5cm",
+      "600"
+    ],
+    "explanation": "Let the height of the cylinder be 2 unit\n\nAfter \nincrement \nheight \n=\n\n(increased by 50%)\n\nAlso, let the radius be 1 unit\n\nAfter increament New radius = \n\n(increased by 100%)\n\nThe \nvolume \nbefore \nincrement \n=\n\nVolume after increment =\n\n2\n\n4455\n\n495\n\n990 ×\n×\n×\n=\n7\n\n22\n\n1\n9\n\n1\n2\n\n35\n\n2\n\n45\n2–\n√\n\nx = \n = (45\n = 2025 c\ns2\n)2\nm2\n\ny =\n×\n22\n\n7\nr2\n\n13375 cm2\n\ny = x + 13375\ny = 2025 + 13375\ny = 15400\n\n×\n= 15400\n22\n\n7\nr2\n\nr = 70 cm\n\nC = 2 × \n × r = 2 × \n× 70 \n22\n\n7\n\n22\n\n7\n\n= 440 cm\n\n3\n√\n\n2 ×\n\n×\n3\n√\n\n2\n\n3–\n√×\n3–\n√\n\n×\n\n×\n\n×\n×\ncm3\n\n×\n\ncm3\n×side3\n\ncm3 side3\n\n= sid\n(8 cm)3\ne3\n\n×side2\n\n×82\ncm2\n\nπr2\n\nπr2\n\nπr2\nπr2\n\n×\n× 9\n22\n\n7\nx2\n×\n× 4 ×\n22\n\n7\nx2\n\n(27\n−16\n) = 423. 5\n22\n\n7\nx2\nx2\n\n= 12. 25\nx2\n\n× 2 = 3unit \n3\n2\n\n× 1 = 2 unit \n2\n1\n\nπ × 1 × 2 = 2π\n\nπ × 4 × 3 = 12π",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The height of cylinder is increased by 50% and\n\nits radius is increased by 100%. Then its volume\n\nwill increased by how much percent?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_23",
+    "question": "The sum of the side of a square and the length\n\nof a rectangle is 108 cm. The perimeter of the\n\nrectangle is 126 cm and its breadth is 27 cm.\n\nFind is the side of the square.",
+    "question_html": "The sum of the side of a square and the length<br/><br/>of a rectangle is 108 cm. The perimeter of the<br/><br/>rectangle is 126 cm and its breadth is 27 cm.<br/><br/>Find is the side of the square.<br/>",
+    "questionHtml": "The sum of the side of a square and the length<br/><br/>of a rectangle is 108 cm. The perimeter of the<br/><br/>rectangle is 126 cm and its breadth is 27 cm.<br/><br/>Find is the side of the square.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "87",
+        "html": "87"
+      },
+      {
+        "id": "B",
+        "text": "89",
+        "html": "89"
+      },
+      {
+        "id": "C",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "D",
+        "text": "76",
+        "html": "76"
+      },
+      {
+        "id": "E",
+        "text": "64",
+        "html": "64<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "87",
+      "89",
+      "72",
+      "76",
+      "64<br/><br/>"
+    ],
+    "explanation": "Let the length of the square is ‘L’ cm and the\n\nside of the square be ‘a’ cm.\n\nAccording to the question,\n\n2 \n (L + 27) = 126\n\nL = 63 – 27 = 36 cm\n\n36 + a = 108\n\na = 108 – 36 = 72 cm\n\nOption ‘72’ is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The sum of the side of a square and the length\n\nof a rectangle is 108 cm. The perimeter of the\n\nrectangle is 126 cm and its breadth is 27 cm.\n\nFind is the side of the square.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_24",
+    "question": "The sum of the circumference of a circle and\n\nthe perimeter of a square is equal to \n.\n\nThe diameter of the circle is \n. What is the\n\nsum of the area of the circle and the area of\n\nthe square?",
+    "question_html": "The sum of the circumference of a circle and<br/><br/>the perimeter of a square is equal to <br/>.<br/><br/>The diameter of the circle is <br/>. What is the<br/><br/>sum of the area of the circle and the area of<br/><br/>the square?<br/>",
+    "questionHtml": "The sum of the circumference of a circle and<br/><br/>the perimeter of a square is equal to <br/>.<br/><br/>The diameter of the circle is <br/>. What is the<br/><br/>sum of the area of the circle and the area of<br/><br/>the square?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "cannot be determined",
+        "html": "cannot be determined"
+      },
+      {
+        "id": "C",
+        "text": "3040 sq cm",
+        "html": "3040 sq cm"
+      },
+      {
+        "id": "D",
+        "text": "2644 sq cm",
+        "html": "2644 sq cm"
+      },
+      {
+        "id": "E",
+        "text": "2464 sq cm",
+        "html": "2464 sq cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "cannot be determined",
+      "3040 sq cm",
+      "2644 sq cm",
+      "2464 sq cm<br/><br/>"
+    ],
+    "explanation": "Given that,\n\n2πr + (4\nside) = 272 -----------(1)\n\n2r = 56 cm --------------(given)\n\nTherefore, r = 28 cm\n\nSubstituting the equation in (1)\n\nLet the side of the square be ‘y'\n\n=> 2\n28 + (4y) = 272\n\n=> 176 + 4y = 272\n\n=> 4y = 96\n\n=> Side of the square, y= 24\n\nSum of the area of square and circle\n\n=> Side \n side + π\n\n=> 24\n24 + \n28\n28\n\n=> 576 + 2464\n\n=> 3040",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The sum of the circumference of a circle and\n\nthe perimeter of a square is equal to \n.\n\nThe diameter of the circle is \n. What is the\n\nsum of the area of the circle and the area of\n\nthe square?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_25",
+    "question": "The sum of the length of a rectangle and side\n\nof a square is 84 cm. If the area of the square is\n\n1296 cm and the perimeter of the rectangle is\n\n160 cm, then find the area of the rectangle.",
+    "question_html": "The sum of the length of a rectangle and side<br/><br/>of a square is 84 cm. If the area of the square is<br/><br/>1296 cm  and the perimeter of the rectangle is<br/><br/>160 cm, then find the area of the rectangle.<br/>",
+    "questionHtml": "The sum of the length of a rectangle and side<br/><br/>of a square is 84 cm. If the area of the square is<br/><br/>1296 cm  and the perimeter of the rectangle is<br/><br/>160 cm, then find the area of the rectangle.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1920 cm",
+        "html": "1920 cm"
+      },
+      {
+        "id": "B",
+        "text": "1456 cm",
+        "html": "1456 cm"
+      },
+      {
+        "id": "C",
+        "text": "1648 cm",
+        "html": "1648 cm"
+      },
+      {
+        "id": "D",
+        "text": "1056 cm",
+        "html": "1056 cm"
+      },
+      {
+        "id": "E",
+        "text": "1536 cm",
+        "html": "1536 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1920 cm",
+      "1456 cm",
+      "1648 cm",
+      "1056 cm",
+      "1536 cm<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\nLength of each side of the square = \n = 36\n\ncm\n\nLength of the rectangle = 84 – 36 = 48 cm\n\nAccording to the question,\n\n2(l \n b) = 160\n\nOr, 48 \n b = 80\n\nOr, b = 32\n\nTherefore, the breadth of the rectangle = 32 cm\n\nArea of the rectangle = Length \n Breadth = 48\n\n 32 = 1536 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The sum of the length of a rectangle and side\n\nof a square is 84 cm. If the area of the square is\n\n1296 cm and the perimeter of the rectangle is\n\n160 cm, then find the area of the rectangle.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_26",
+    "question": "The sum of the circumference of a circle and\n\nthe perimeter of a rectangle is 132 cm. The area\n\nof the rectangle is 112 sq. cm and breadth of the\n\nrectangle is 8 cm. What is the area of the\n\ncircle?",
+    "question_html": "The sum of the circumference of a circle and<br/><br/>the perimeter of a rectangle is 132 cm. The area<br/><br/>of the rectangle is 112 sq. cm and breadth of the<br/><br/>rectangle is 8 cm. What is the area of the<br/><br/>circle?<br/>",
+    "questionHtml": "The sum of the circumference of a circle and<br/><br/>the perimeter of a rectangle is 132 cm. The area<br/><br/>of the rectangle is 112 sq. cm and breadth of the<br/><br/>rectangle is 8 cm. What is the area of the<br/><br/>circle?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "616 sq. cm.",
+        "html": "616 sq. cm."
+      },
+      {
+        "id": "B",
+        "text": "540 sq. cm.",
+        "html": "540 sq. cm."
+      },
+      {
+        "id": "C",
+        "text": "396 sq. cm.",
+        "html": "396 sq. cm."
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "616 sq. cm.",
+      "540 sq. cm.",
+      "396 sq. cm.",
+      "Cannot be determined",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Length of the rectangles = \n = 14 cm.\n\nPerimeter of the rectangle = 2(14 + 8) = 44 cm.\n\nCircumference of the circle = 132 – 44 = 88 cm.\n\nR = \n = 14 cm\n\nArea of the circle = \n 14 \n 14 = 616 sq. cm.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The sum of the circumference of a circle and\n\nthe perimeter of a rectangle is 132 cm. The area\n\nof the rectangle is 112 sq. cm and breadth of the\n\nrectangle is 8 cm. What is the area of the\n\ncircle?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_27",
+    "question": "The ratio of the diameter of the base and the\n\nheight of a cylinder is 2: 3. Find the radius of the\n\ncylinder if the approximate volume of the\n\ncylinder is 3234.01 cm³.",
+    "question_html": "The ratio of the diameter of the base and the<br/><br/>height of a cylinder is 2: 3. Find the radius of the<br/><br/>cylinder if the approximate volume of the<br/><br/>cylinder is 3234.01 cm³.<br/>",
+    "questionHtml": "The ratio of the diameter of the base and the<br/><br/>height of a cylinder is 2: 3. Find the radius of the<br/><br/>cylinder if the approximate volume of the<br/><br/>cylinder is 3234.01 cm³.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "cm",
+        "html": "cm"
+      },
+      {
+        "id": "B",
+        "text": "cm",
+        "html": "cm"
+      },
+      {
+        "id": "C",
+        "text": "21 cm",
+        "html": "21 cm"
+      },
+      {
+        "id": "D",
+        "text": "7 cm",
+        "html": "7 cm"
+      },
+      {
+        "id": "E",
+        "text": "3 cm",
+        "html": "3 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "cm",
+      "cm",
+      "21 cm",
+      "7 cm",
+      "3 cm<br/><br/>"
+    ],
+    "explanation": "Let diameter of base be 2 cm & height of\n\ncylinder be 3\n\n∴ Radius =\n= \n\nWe know,\n\nVolume \nof \ncylinder \n= \nr²h \n( \nr\n\nATQ,\n\nπr²h = 3234\n\nRadius = 7cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The ratio of the diameter of the base and the\n\nheight of a cylinder is 2: 3. Find the radius of the\n\ncylinder if the approximate volume of the\n\ncylinder is 3234.01 cm³.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_28",
+    "question": "The radius and height of a cylinder is 16 cm and\n\n21 cm respectively. If volume of a cone is 132 cm\n\nless than half of the volume of the cylinder and\n\nheight of the cone is 12.5% more than radius of\n\nthe cylinder, then find the radius of the cone.",
+    "question_html": "The radius and height of a cylinder is 16 cm and<br/><br/>21 cm respectively. If volume of a cone is 132 cm<br/><br/>less than half of the volume of the cylinder and<br/><br/>height of the cone is 12.5% more than radius of<br/><br/>the cylinder, then find the radius of the cone.<br/>",
+    "questionHtml": "The radius and height of a cylinder is 16 cm and<br/><br/>21 cm respectively. If volume of a cone is 132 cm<br/><br/>less than half of the volume of the cylinder and<br/><br/>height of the cone is 12.5% more than radius of<br/><br/>the cylinder, then find the radius of the cone.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "25 cm",
+        "html": "25 cm"
+      },
+      {
+        "id": "B",
+        "text": "21 cm",
+        "html": "21 cm"
+      },
+      {
+        "id": "C",
+        "text": "28 cm",
+        "html": "28 cm"
+      },
+      {
+        "id": "D",
+        "text": "24 cm",
+        "html": "24 cm"
+      },
+      {
+        "id": "E",
+        "text": "26 cm",
+        "html": "26 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "25 cm",
+      "21 cm",
+      "28 cm",
+      "24 cm",
+      "26 cm<br/><br/>"
+    ],
+    "explanation": "Volume \nof \nthe \ncylinder \n=\n\nVolume of the cone = \n – 132 = 8316 \n\nLet radius of the cone be ‘R’ cm.\n\nAccording to question,\n\n= 441\n\nR = 21 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The radius and height of a cylinder is 16 cm and\n\n21 cm respectively. If volume of a cone is 132 cm\n\nless than half of the volume of the cylinder and\n\nheight of the cone is 12.5% more than radius of\n\nthe cylinder, then find the radius of the cone.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_29",
+    "question": "The length of a 7m wide rectangular curtain is\n\n24m. Find the ratio of the perimeter and\n\ndiagonal of the curtain respectively.",
+    "question_html": "The length of a 7m wide rectangular curtain is<br/><br/>24m. Find the ratio of the perimeter and<br/><br/>diagonal of the curtain respectively.<br/>",
+    "questionHtml": "The length of a 7m wide rectangular curtain is<br/><br/>24m. Find the ratio of the perimeter and<br/><br/>diagonal of the curtain respectively.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "31:20",
+        "html": "31:20"
+      },
+      {
+        "id": "B",
+        "text": "62:27",
+        "html": "62:27"
+      },
+      {
+        "id": "C",
+        "text": "65:28",
+        "html": "65:28"
+      },
+      {
+        "id": "D",
+        "text": "62:25",
+        "html": "62:25"
+      },
+      {
+        "id": "E",
+        "text": "56:25",
+        "html": "56:25<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "31:20",
+      "62:27",
+      "65:28",
+      "62:25",
+      "56:25<br/><br/>"
+    ],
+    "explanation": "Length of the rectangular curtain = 24m\n\nThe breadth of the rectangular curtain = 7m\n\nPerimeter of the curtain = 2\n(24 + 7) = 62m\n\nDiagonal \nof \nthe \ncurtain \n=\n\n = \n = 25m\n\n×\n\n×\n\n× 22\n\n7 ×\n\n×\nr2\n\n×\n22\n\n7 ×\n×\n\ncm2\n\n1296\n−−\n−−\n√\n\n+\n\n+\n\n×\n\n×\n2\n\n112\n\n8\n\n88 ×7\n\n2×22\n\n22\n\n7 ×\n×\n\nx\n\nx\\ cm\n\n2x\n\n2\nx cm\n\nπ\n\n→radius, h → height )\n\n×\n×\n22\n\n7\nx2\n3x = 3234\n\nx = 7 cm\n\n× 16 × 16 × 21 = 16896 c\n22\n\n7\nm2\n\n16896\n\n2\ncm2\n\n×\n1\n3\n\n22\n\n7 ×\n× 18 = 8316\nR2\n\nR2\n\n×\n\n=\n+\n242\n72\n−\n−\n−−−−−\n√\n576 + 49\n−\n−\n−−−−−\n√\n625\n−−\n−\n√\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The length of a 7m wide rectangular curtain is\n\n24m. Find the ratio of the perimeter and\n\ndiagonal of the curtain respectively.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_30",
+    "question": "The ratio of the length to the breadth of a\n\nrectangular park is 3 : 2, if a man cycling along\n\nthe boundary of the park at the speed of 24\n\nKm/hr completes one round in 16 minutes, then\n\nwhat is the breadth of the park?",
+    "question_html": "The ratio of the length to the breadth of a<br/><br/>rectangular park is 3 : 2, if a man cycling along<br/><br/>the boundary of the park at the speed of 24<br/><br/>Km/hr completes one round in 16 minutes, then<br/><br/>what is the breadth of the park?<br/>",
+    "questionHtml": "The ratio of the length to the breadth of a<br/><br/>rectangular park is 3 : 2, if a man cycling along<br/><br/>the boundary of the park at the speed of 24<br/><br/>Km/hr completes one round in 16 minutes, then<br/><br/>what is the breadth of the park?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1200 m",
+        "html": "1200 m"
+      },
+      {
+        "id": "B",
+        "text": "1280 m",
+        "html": "1280 m"
+      },
+      {
+        "id": "C",
+        "text": "1360 m",
+        "html": "1360 m"
+      },
+      {
+        "id": "D",
+        "text": "1465 m",
+        "html": "1465 m"
+      },
+      {
+        "id": "E",
+        "text": "1565 m",
+        "html": "1565 m<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1200 m",
+      "1280 m",
+      "1360 m",
+      "1465 m",
+      "1565 m<br/><br/>"
+    ],
+    "explanation": "perimeter = distance covered in 16 minutes\n\n16 = 6400 m\n\nLet the length be 3x m and breadth be 2x m.\n\nthen\n\n2(3x+2x) = 6400 m\n\n5x = 3200 m\n\nx = 640 m\n\nLength = 3\n0 m\n\nBreadth = 2\n 1280 m",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The ratio of the length to the breadth of a\n\nrectangular park is 3 : 2, if a man cycling along\n\nthe boundary of the park at the speed of 24\n\nKm/hr completes one round in 16 minutes, then\n\nwhat is the breadth of the park?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_31",
+    "question": "What is the size of the park if a guy cycles\n\naround its perimeter at a speed of 12 km/hr and\n\ncompletes \none \ncircle \nin \n8 \nminutes? \nA\n\nLevel-2\n\n272 cm\n\n56cm\n\n2\n\n2\n2\n\n2\n2\n\n2\n\n21\n\n2\n\n7\n2",
+    "question_html": "What is the size of the park if a guy cycles<br/><br/>around its perimeter at a speed of 12 km/hr and<br/><br/>completes <br/>one <br/>circle <br/>in <br/>8 <br/>minutes? <br/>A<br/><br/><b>Level-2</b><br/><br/>272 cm<br/><br/>56cm<br/><br/>2<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/><br/>21<br/><br/>2<br/><br/>7<br/>2",
+    "questionHtml": "What is the size of the park if a guy cycles<br/><br/>around its perimeter at a speed of 12 km/hr and<br/><br/>completes <br/>one <br/>circle <br/>in <br/>8 <br/>minutes? <br/>A<br/><br/><b>Level-2</b><br/><br/>272 cm<br/><br/>56cm<br/><br/>2<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>2<br/><br/>21<br/><br/>2<br/><br/>7<br/>2",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Correct Option: B\n\nPerimeter = Distance covered in 8 minutes\n\n= \n = 1600 m\n\nLet the dimensions be length 3x and width 2x\n\nm. Consequently, 2\n(3x + 2x) = 1600\n\nor, 10x = 1600\n\n∴ x = 160\n\nLength is 160 \n 3 = 480 m.\n\nWidth = 16 \n 2 = 320 m\n\nThe park's size is 480 by 320, or 153600 square\n\nmetres.\n\nAs a result, choice B is accurate.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "What is the size of the park if a guy cycles\n\naround its perimeter at a speed of 12 km/hr and\n\ncompletes \none \ncircle \nin \n8 \nminutes? \nA\n\nLevel-2\n\n272 cm\n\n56cm\n\n2\n\n2\n2\n\n2\n2\n\n2\n\n21\n\n2\n\n7\n2",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_32",
+    "question": "2. (in sq m)",
+    "question_html": "2. (in sq m)<br/>",
+    "questionHtml": "2. (in sq m)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "253600",
+        "html": "253600"
+      },
+      {
+        "id": "B",
+        "text": "153600",
+        "html": "153600"
+      },
+      {
+        "id": "C",
+        "text": "353600",
+        "html": "353600"
+      },
+      {
+        "id": "D",
+        "text": "453600",
+        "html": "453600"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "253600",
+      "153600",
+      "353600",
+      "453600",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\nLength of each side of the square = \n = 36\n\ncm\n\nLength of the rectangle = 84 – 36 = 48 cm\n\nAccording to the question,\n\n2(l \n b) = 160\n\nOr, 48 \n b = 80\n\nOr, b = 32\n\nTherefore, the breadth of the rectangle = 32 cm\n\nArea of the rectangle = Length \n Breadth = 48\n\n 32 = 1536 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "2. (in sq m)",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_33",
+    "question": "Inside a circular park, there is rectangular\n\ngarden of perimeter 80 m. If cost of flooring the\n\npark (excluding the garden) at the rate of ₹11\n\nper m2 is ₹11121 and ratio of length to width of\n\ngarden is 5: 3, then find the radius of the park.",
+    "question_html": "Inside a circular park, there is rectangular<br/><br/>garden of perimeter 80 m. If cost of flooring the<br/><br/>park (excluding the garden) at the rate of ₹11<br/><br/>per m2 is ₹11121 and ratio of length to width of<br/><br/>garden is 5: 3, then find the radius of the park.<br/>",
+    "questionHtml": "Inside a circular park, there is rectangular<br/><br/>garden of perimeter 80 m. If cost of flooring the<br/><br/>park (excluding the garden) at the rate of ₹11<br/><br/>per m2 is ₹11121 and ratio of length to width of<br/><br/>garden is 5: 3, then find the radius of the park.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "14 m",
+        "html": "14 m"
+      },
+      {
+        "id": "B",
+        "text": "35 m",
+        "html": "35 m"
+      },
+      {
+        "id": "C",
+        "text": "21 m",
+        "html": "21 m"
+      },
+      {
+        "id": "D",
+        "text": "28 m",
+        "html": "28 m"
+      },
+      {
+        "id": "E",
+        "text": "31 m",
+        "html": "31 m<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "14 m",
+      "35 m",
+      "21 m",
+      "28 m",
+      "31 m<br/><br/>"
+    ],
+    "explanation": "Let length and width of the garden is ‘5x’ and\n\n‘3x’ respectively.\n\nPerimeter of the garden = 2 \n (5x + 3x) = 80\n\n8x = 40\n\nx = 5\n\nArea of garden = 5x \n 3x = 375 \n\nArea of circular park (excluding the garden) =\n\nArea of park = 375 + 1011 = 1386 \n\nLet radius of park = ‘r’ m\n\nπ\n = 1386\n\n = 441\n\nr = 21 m\n\nThe radius of the park = 21 m",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Inside a circular park, there is rectangular\n\ngarden of perimeter 80 m. If cost of flooring the\n\npark (excluding the garden) at the rate of ₹11\n\nper m2 is ₹11121 and ratio of length to width of\n\ngarden is 5: 3, then find the radius of the park.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_34",
+    "question": "The length of height and base of the right-\n\nangled triangle is 18 cm & 24cm respectively\n\nand the length of the hypotenous is equal to\n\nthe diagonal of the square. Find the area of the\n\nsquare.",
+    "question_html": "The length of height and base of the right-<br/><br/>angled triangle is 18 cm &amp; 24cm respectively<br/><br/>and the length of the hypotenous is equal to<br/><br/>the diagonal of the square. Find the area of the<br/><br/>square.<br/>",
+    "questionHtml": "The length of height and base of the right-<br/><br/>angled triangle is 18 cm &amp; 24cm respectively<br/><br/>and the length of the hypotenous is equal to<br/><br/>the diagonal of the square. Find the area of the<br/><br/>square.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "450",
+        "html": "450"
+      },
+      {
+        "id": "B",
+        "text": "230",
+        "html": "230"
+      },
+      {
+        "id": "C",
+        "text": "220",
+        "html": "220"
+      },
+      {
+        "id": "D",
+        "text": "200",
+        "html": "200"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "450",
+      "230",
+      "220",
+      "200",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "We know the Pythagoras theorem,\n\nHeight = 18cm\n\nBase = 24cm\n\nhypotenuse \n=\n\nGiven that the hypotenuse is equal to the\n\ndiagonal of the square.\n\nand diagonal of the square = \na, where a is\n\nthe side of the square.\n\nSo, \na=30\n\na= \n\narea \nof \nsquare \n=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The length of height and base of the right-\n\nangled triangle is 18 cm & 24cm respectively\n\nand the length of the hypotenous is equal to\n\nthe diagonal of the square. Find the area of the\n\nsquare.",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_35",
+    "question": "The height of a right circular cylinder is 16 cm\n\nmore than its radius. If the curved surface area\n\nof the cylinder is ‘672π’ cm , then find height of\n\nthe cylinder.",
+    "question_html": "The height of a right circular cylinder is 16 cm<br/><br/>more than its radius. If the curved surface area<br/><br/>of the cylinder is ‘672π’ cm , then find height of<br/><br/>the cylinder.<br/>",
+    "questionHtml": "The height of a right circular cylinder is 16 cm<br/><br/>more than its radius. If the curved surface area<br/><br/>of the cylinder is ‘672π’ cm , then find height of<br/><br/>the cylinder.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12 cm",
+        "html": "12 cm"
+      },
+      {
+        "id": "B",
+        "text": "30 cm",
+        "html": "30 cm"
+      },
+      {
+        "id": "C",
+        "text": "28 cm",
+        "html": "28 cm"
+      },
+      {
+        "id": "D",
+        "text": "20 cm",
+        "html": "20 cm"
+      },
+      {
+        "id": "E",
+        "text": "15 cm",
+        "html": "15 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12 cm",
+      "30 cm",
+      "28 cm",
+      "20 cm",
+      "15 cm<br/><br/>"
+    ],
+    "explanation": "Let the radius of the cylinder be ‘x’ cm\n\nSo, height of the cylinder = ‘x + 16’ cm\n\nCurved surface area of cylinder = 2πrh {Where\n\n‘r’ is radius and ‘h’ is height}\n\nSo, 672π = 2π \n x \n (x + 16)\n\nOr, 336 = x + 16x\n\nSo, x + 16x – 336 = 0\n\nOr, x + 28x – 12x – 336 = 0\n\nOr, x(x – 12) + 28(x – 12) = 0\n\nOr, (x – 12)(x + 28) = 0\n\nSo, x = 12 or x = -28\n\nSince the radius cannot be negative, we may\n\ndiscard x = -28.\n\nSo, height of the cylinder = 12 + 16 = 28 cm\n\nHence, option c.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The height of a right circular cylinder is 16 cm\n\nmore than its radius. If the curved surface area\n\nof the cylinder is ‘672π’ cm , then find height of\n\nthe cylinder.",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_36",
+    "question": "The area of a square is equal to the area of a\n\nrectangle. The length of the rectangle is 10 cm\n\ngreater than the side length of the square,\n\nwhile the breadth is 4 cm less than the side\n\nlength of the square. What is the side length of\n\nthe square? (approx.)",
+    "question_html": "The area of a square is equal to the area of a<br/><br/>rectangle. The length of the rectangle is 10 cm<br/><br/>greater than the side length of the square,<br/><br/>while the breadth is 4 cm less than the side<br/><br/>length of the square. What is the side length of<br/><br/>the square? (approx.)<br/>",
+    "questionHtml": "The area of a square is equal to the area of a<br/><br/>rectangle. The length of the rectangle is 10 cm<br/><br/>greater than the side length of the square,<br/><br/>while the breadth is 4 cm less than the side<br/><br/>length of the square. What is the side length of<br/><br/>the square? (approx.)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 cm",
+        "html": "3 cm"
+      },
+      {
+        "id": "B",
+        "text": "5 cm",
+        "html": "5 cm"
+      },
+      {
+        "id": "C",
+        "text": "7 cm",
+        "html": "7 cm"
+      },
+      {
+        "id": "D",
+        "text": "9 cm",
+        "html": "9 cm"
+      },
+      {
+        "id": "E",
+        "text": "12 cm",
+        "html": "12 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3 cm",
+      "5 cm",
+      "7 cm",
+      "9 cm",
+      "12 cm<br/><br/>"
+    ],
+    "explanation": "Let the side of the square is x cm\n\nSo, length of rectangle = (x + 10) cm\n\nAnd, breadth of rectangle = (x – 4)cm\n\nATQ,\n\n24000\n\n60 ×\n\n×640 = 192\n\n×640 = \n\n× 8\n12000\n\n60\n\n×\n\n×\n\n×\n\n×\n\n×\nm2\n\n= 1011 \n11121\n\n11\nm2\n\nm2\n\nr2\n\nr2\n\n =\n=\n+\n182\n242\n−\n−\n−−−−−−\n√\n324 + 576\n−\n−\n−−−−−−\n√\n900\n−−\n−\n√\n\n= 30cm\n\n2–\n√\n\n2–\n√\n\n30\n\n2\n√\n\nsid\n=\n=\n= 450 c\ne2\n(\n)\n30\n\n2\n√\n\n2\n900\n\n2\nm2\n\n×\n×\n\n2\n\n2\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The area of a square is equal to the area of a\n\nrectangle. The length of the rectangle is 10 cm\n\ngreater than the side length of the square,\n\nwhile the breadth is 4 cm less than the side\n\nlength of the square. What is the side length of\n\nthe square? (approx.)",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_37",
+    "question": "The height of a trapezium is 12 m and the ratio\n\nof the parallel sides are 5:4. If the area of the\n\ntrapezium is 270 square meter, then find the\n\nlength of the parallel sides.",
+    "question_html": "The height of a trapezium is 12 m and the ratio<br/><br/>of the parallel sides are 5:4. If the area of the<br/><br/>trapezium is 270 square meter, then find the<br/><br/>length of the parallel sides.<br/>",
+    "questionHtml": "The height of a trapezium is 12 m and the ratio<br/><br/>of the parallel sides are 5:4. If the area of the<br/><br/>trapezium is 270 square meter, then find the<br/><br/>length of the parallel sides.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "25, 20",
+        "html": "25, 20"
+      },
+      {
+        "id": "B",
+        "text": "15, 20",
+        "html": "15, 20"
+      },
+      {
+        "id": "C",
+        "text": "18, 20",
+        "html": "18, 20"
+      },
+      {
+        "id": "D",
+        "text": "20, 22",
+        "html": "20, 22"
+      },
+      {
+        "id": "E",
+        "text": "5, 20",
+        "html": "5, 20<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "25, 20",
+      "15, 20",
+      "18, 20",
+      "20, 22",
+      "5, 20<br/><br/>"
+    ],
+    "explanation": "Area = 270 square meters\n\nHeight = 12 m\n\nLet Side = 5x, 4x\n\nArea \nof \ntrapezium \n=\n\nATP\n\n270 = \n\n=> 270 = 6\n(9x)\n\n=> 270 = 54x\n\n=> x = \n\n=> x = 5\n\nSide will be = (5\n5), (5\n4) = 25m, 20m",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The height of a trapezium is 12 m and the ratio\n\nof the parallel sides are 5:4. If the area of the\n\ntrapezium is 270 square meter, then find the\n\nlength of the parallel sides.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_38",
+    "question": "The radius of circle A is 25% less than radius of\n\ncircle B and the sum of circumference of circle A\n\nand diameter of circle B is 188 cm. If the sum of\n\nradius of circle A&B is 12.5% less than the side of\n\na square ,then find the perimeter of the square?",
+    "question_html": "The radius of circle A is 25% less than radius of<br/><br/>circle B and the sum of circumference of circle A<br/><br/>and diameter of circle B is 188 cm. If the sum of<br/><br/>radius of circle A&amp;B is 12.5% less than the side of<br/><br/>a square ,then find the perimeter of the square?<br/>",
+    "questionHtml": "The radius of circle A is 25% less than radius of<br/><br/>circle B and the sum of circumference of circle A<br/><br/>and diameter of circle B is 188 cm. If the sum of<br/><br/>radius of circle A&amp;B is 12.5% less than the side of<br/><br/>a square ,then find the perimeter of the square?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "200 cm",
+        "html": "200 cm"
+      },
+      {
+        "id": "B",
+        "text": "216 cm",
+        "html": "216 cm"
+      },
+      {
+        "id": "C",
+        "text": "204 cm",
+        "html": "204 cm"
+      },
+      {
+        "id": "D",
+        "text": "238 cm",
+        "html": "238 cm"
+      },
+      {
+        "id": "E",
+        "text": "224 cm",
+        "html": "224 cm<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "200 cm",
+      "216 cm",
+      "204 cm",
+      "238 cm",
+      "224 cm<br/><br/>"
+    ],
+    "explanation": "let the radius of circle B = 4x\n\nSo , radius of circle A = 4x \n = 3x\n\nCircumference of circle = 2\n\nGiven, circumference of circle + diameter of\n\ncircle = 188 cm\n\n2\n3x + 2\n4x = 188cm\n\n + 8x = 188 cm\n\n132x + 56x = 1316 cm\n\n188 x = 1316 cm\n\nx = 7cm\n\nside of square = \n(3\n7 + 4\n7) = 56cm\n\nperimeter of square = 4\nside\n\n56\n4 = 224cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The radius of circle A is 25% less than radius of\n\ncircle B and the sum of circumference of circle A\n\nand diameter of circle B is 188 cm. If the sum of\n\nradius of circle A&B is 12.5% less than the side of\n\na square ,then find the perimeter of the square?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_39",
+    "question": "The radius of a circle is (R-2) cm and area of\n\nsame circle is 616 cm². If radius of a cylinder is\n\n(R+5) cm and height of the cylinder is 10 cm\n\nmore than radius of circle, then find the volume\n\nof the cylinder.",
+    "question_html": "The radius of a circle is (R-2) cm and area of<br/><br/>same circle is 616 cm². If radius of a cylinder is<br/><br/>(R+5) cm and height of the cylinder is 10 cm<br/><br/>more than radius of circle, then find the volume<br/><br/>of the cylinder.<br/>",
+    "questionHtml": "The radius of a circle is (R-2) cm and area of<br/><br/>same circle is 616 cm². If radius of a cylinder is<br/><br/>(R+5) cm and height of the cylinder is 10 cm<br/><br/>more than radius of circle, then find the volume<br/><br/>of the cylinder.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "36464 c",
+        "html": "36464 c"
+      },
+      {
+        "id": "B",
+        "text": "35264 c",
+        "html": "35264 c"
+      },
+      {
+        "id": "C",
+        "text": "33264 c",
+        "html": "33264 c"
+      },
+      {
+        "id": "D",
+        "text": "34264 c",
+        "html": "34264 c"
+      },
+      {
+        "id": "E",
+        "text": "54725",
+        "html": "54725 <br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "36464 c",
+      "35264 c",
+      "33264 c",
+      "34264 c",
+      "54725 <br/><br/>"
+    ],
+    "explanation": "According to question,\n\n = 616\n\n= 196\n\nR – 2 = 14\n\nR = 16\n\nSo, radius of circle = 16 – 2 = 14 cm\n\nRequired volume = \n\n= 33264 c",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The radius of a circle is (R-2) cm and area of\n\nsame circle is 616 cm². If radius of a cylinder is\n\n(R+5) cm and height of the cylinder is 10 cm\n\nmore than radius of circle, then find the volume\n\nof the cylinder.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_40",
+    "question": "Volume of a cuboid is 2772 m . The length of the\n\ncuboid is equal to the side of the square whose\n\nperimeter is 72 m and the height of the cuboid\n\nis 22.22% less than the length of the cuboid.\n\nFind the total surface area of a cuboid.",
+    "question_html": "Volume of a cuboid is 2772 m . The length of the<br/><br/>cuboid is equal to the side of the square whose<br/><br/>perimeter is 72 m and the height of the cuboid<br/><br/>is 22.22% less than the length of the cuboid.<br/><br/>Find the total surface area of a cuboid.<br/>",
+    "questionHtml": "Volume of a cuboid is 2772 m . The length of the<br/><br/>cuboid is equal to the side of the square whose<br/><br/>perimeter is 72 m and the height of the cuboid<br/><br/>is 22.22% less than the length of the cuboid.<br/><br/>Find the total surface area of a cuboid.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1672 m²",
+        "html": "1672 m²"
+      },
+      {
+        "id": "B",
+        "text": "1430 m²",
+        "html": "1430 m²"
+      },
+      {
+        "id": "C",
+        "text": "1125 m²",
+        "html": "1125 m²"
+      },
+      {
+        "id": "D",
+        "text": "1208 m²",
+        "html": "1208 m²"
+      },
+      {
+        "id": "E",
+        "text": "1500 m²",
+        "html": "1500 m²<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1672 m²",
+      "1430 m²",
+      "1125 m²",
+      "1208 m²",
+      "1500 m²<br/><br/>"
+    ],
+    "explanation": "The length of the cuboid is = \n = 18m\n\nHeight of cuboid is = \n = 14 m\n\nSo, breadth of the cuboid is = \n =11 m\n\nSo, total surface area of cuboid is = 2\n(14\n11 +\n\n11\n18 + 14\n18) = 1208 m²",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Volume of a cuboid is 2772 m . The length of the\n\ncuboid is equal to the side of the square whose\n\nperimeter is 72 m and the height of the cuboid\n\nis 22.22% less than the length of the cuboid.\n\nFind the total surface area of a cuboid.",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_41",
+    "question": "There is a path of uniform width of 3.5 m around\n\na circular park of area 346.5 m . If there are 4\n\ngates of width 3.5 m each on the outer\n\nperimeter of the boundary wall of the path,\n\n2\n\nm3\n\nm3\n\nm3\n\nm3\n\ncm2\n\n3\n\n2",
+    "question_html": "There is a path of uniform width of 3.5 m around<br/><br/>a circular park of area 346.5 m . If there are 4<br/><br/>gates of width 3.5 m each on the outer<br/><br/>perimeter of the boundary wall of the path,<br/><br/>2<br/><br/>m3<br/><br/>m3<br/><br/>m3<br/><br/>m3<br/><br/>cm2<br/><br/>3<br/><br/>2",
+    "questionHtml": "There is a path of uniform width of 3.5 m around<br/><br/>a circular park of area 346.5 m . If there are 4<br/><br/>gates of width 3.5 m each on the outer<br/><br/>perimeter of the boundary wall of the path,<br/><br/>2<br/><br/>m3<br/><br/>m3<br/><br/>m3<br/><br/>m3<br/><br/>cm2<br/><br/>3<br/><br/>2",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Inner perimeter of path = Perimeter of the park\n\nLet radius of the park = ‘r’ m\n\nArea of park = πr = 346.5\n\n r = 346.5\n\nr = 110.25\n\nr = 10.5\n\nr = 10.5 m\n\nOuter radius of the path = 10.5 + 3.5 = 14 m\n\nOuter perimeter of the path (including gates) =\n\nπr\n\n= \n 14\n\n= 616 m\n\nOuter perimeter of the path (excluding gates) =\n\n616 – 4 \n 3.5\n\n= 602 m",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "There is a path of uniform width of 3.5 m around\n\na circular park of area 346.5 m . If there are 4\n\ngates of width 3.5 m each on the outer\n\nperimeter of the boundary wall of the path,\n\n2\n\nm3\n\nm3\n\nm3\n\nm3\n\ncm2\n\n3\n\n2",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_42",
+    "question": "There is a path around a right circular field and\n\nthe radius of the field is 10 m more than the\n\nwidth of the path. If the area of the path is 550\n\n and the cost of planting grass in the circular\n\nfield is ₹140 per \n, then find the total cost of\n\nplanting grass in the field?",
+    "question_html": "There is a path around a right circular field and<br/><br/>the radius of the field is 10 m more than the<br/><br/>width of the path. If the area of the path is 550<br/><br/> and the cost of planting grass in the circular<br/><br/>field is ₹140 per <br/>, then find the total cost of<br/><br/>planting grass in the field?<br/>",
+    "questionHtml": "There is a path around a right circular field and<br/><br/>the radius of the field is 10 m more than the<br/><br/>width of the path. If the area of the path is 550<br/><br/> and the cost of planting grass in the circular<br/><br/>field is ₹140 per <br/>, then find the total cost of<br/><br/>planting grass in the field?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "₹99000",
+        "html": "₹99000"
+      },
+      {
+        "id": "B",
+        "text": "₹110000",
+        "html": "₹110000"
+      },
+      {
+        "id": "C",
+        "text": "₹77000",
+        "html": "₹77000"
+      },
+      {
+        "id": "D",
+        "text": "₹121000",
+        "html": "₹121000"
+      },
+      {
+        "id": "E",
+        "text": "₹140000",
+        "html": "₹140000<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "₹99000",
+      "₹110000",
+      "₹77000",
+      "₹121000",
+      "₹140000<br/><br/>"
+    ],
+    "explanation": "Let the width of the path = ‘x’ m\n\nAnd the radius of the field = (x + 10) m\n\nSo,\n\nx(3x + 35) - 5(3x + 35) =\n\nx = 5\n\nNow, the radius of the field = 5 + 10 = 15 m\n\nThe area of the field = \n\nx2\n\nx2\nx2\n\n≈\n\n× height × sum of parallel sides\n1\n2\n\n× 12 × (5x + 4x)\n1\n2\n\n×\n\n270\n\n54\n\n×\n×\n\n× 75\n\n100\n\nπr\n\n× 22\n\n7 ×\n×\n\n132x\n\n7\n\n100\n\n87.5 × ×\n×\n\n×\n\n×\n\n×\n22\n\n7\n(R −2)2\n\n(R −2)2\n\n×\n× (14 + 10)\n22\n\n7\n(16 + 5)2\n\nm3\n\n72\n\n4\n\n18 × 100−22.22\n\n100\n\n2772\n\n14×18\n\n×\n×\n\n×\n×\n\n2\n\n22\n\n7 × 2\n\n2\n\n2\n2\n\n2\n\n22\n\n7 ×\n2\n\n2\n\n×\n\n2\n\n × [\n − \n] \n22\n\n7\n(x + 10 + x)2\n(x + 10)2\n\n= 550\n(3x + 20) × x = 175\n\n + 20x − 175 = 0\n3x2\n\n + 35x − 15x − 175 = 0\n3x2\n\n × 15 × 15 = \n22\n\n7\n\n4950\n\n7",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "There is a path around a right circular field and\n\nthe radius of the field is 10 m more than the\n\nwidth of the path. If the area of the path is 550\n\n and the cost of planting grass in the circular\n\nfield is ₹140 per \n, then find the total cost of\n\nplanting grass in the field?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_43",
+    "question": "The area of a rectangular field is 25% less than\n\nthat of a square field. The cost of cultivating\n\nthe square field at the rate of Rs. 12.5/m is Rs.",
+    "question_html": "The area of a rectangular field is 25% less than<br/><br/>that of a square field. The cost of cultivating<br/><br/>the square field at the rate of Rs. 12.5/m&nbsp; is Rs.<br/><br/>",
+    "questionHtml": "The area of a rectangular field is 25% less than<br/><br/>that of a square field. The cost of cultivating<br/><br/>the square field at the rate of Rs. 12.5/m&nbsp; is Rs.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Area of the square field = \n= 400 m\n\nArea of the rectangular field = 0.75 \n 400 = 300\n\nm\n\nLet the length and breadth of the rectangular\n\nfield be 4x meters and 3x meters, respectively.\n\nTherefore,\n\n4x \n 3x = 300\n\nOr, x = \n = 25\n\nOr, x = 5\n\nTherefore, perimeter of the rectangular field = 2 \n\n (4x + 3x) = 70 metres\n\nHence, option e.\n\n × 140\n4950\n\n7\n\n5000\n\n12.5\n\n2\n\n×\n\n2\n\n×\n\n2\n300\n\n12\n\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "The area of a rectangular field is 25% less than\n\nthat of a square field. The cost of cultivating\n\nthe square field at the rate of Rs. 12.5/m is Rs.",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_44",
+    "question": "If the ratio of the length and breadth of\n\nthe rectangular field is 4:3, respectively, then\n\nfind the perimeter of the rectangular field.",
+    "question_html": "If the ratio of the length and breadth of<br/><br/>the rectangular field is 4:3, respectively, then<br/><br/>find the perimeter of the rectangular field.<br/>",
+    "questionHtml": "If the ratio of the length and breadth of<br/><br/>the rectangular field is 4:3, respectively, then<br/><br/>find the perimeter of the rectangular field.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "60 metres",
+        "html": "60 metres"
+      },
+      {
+        "id": "B",
+        "text": "120 metres",
+        "html": "120 metres"
+      },
+      {
+        "id": "C",
+        "text": "100 metres",
+        "html": "100 metres"
+      },
+      {
+        "id": "D",
+        "text": "80 metres",
+        "html": "80 metres"
+      },
+      {
+        "id": "E",
+        "text": "70 metres\n\n22\n\n7\n\n2\n2\n\n2\n2\n\nm2\n\nm2\n\nm2\n\n2",
+        "html": "70 metres<br/><br/>22<br/><br/>7<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>m2<br/><br/>m2<br/><br/>m2<br/><br/>2"
+      }
+    ],
+    "optionsHtml": [
+      "60 metres",
+      "120 metres",
+      "100 metres",
+      "80 metres",
+      "70 metres<br/><br/>22<br/><br/>7<br/><br/>2<br/>2<br/><br/>2<br/>2<br/><br/>m2<br/><br/>m2<br/><br/>m2<br/><br/>2"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "5000",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "If the ratio of the length and breadth of\n\nthe rectangular field is 4:3, respectively, then\n\nfind the perimeter of the rectangular field.",
+    "metadata": {
+      "questionNumber": "5000",
+      "level": "Level-2",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q5000.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_45",
+    "question": "Rahul has a solid cube which is made of\n\ncopper. He wants to melt it and redesign it in\n\nanother form by changing its parameters. Its\n\nlength, breadth, and height change as +10%,\n\n+10%, -20%. What is the % change in this cube's\n\nsurface area?",
+    "question_html": "Rahul has a solid cube which is made of<br/><br/>copper. He wants to melt it and redesign it in<br/><br/>another form by changing its parameters. Its<br/><br/>length, breadth, and height change as +10%,<br/><br/>+10%, -20%. What is the % change in this cube&#x27;s<br/><br/>surface area?<br/>",
+    "questionHtml": "Rahul has a solid cube which is made of<br/><br/>copper. He wants to melt it and redesign it in<br/><br/>another form by changing its parameters. Its<br/><br/>length, breadth, and height change as +10%,<br/><br/>+10%, -20%. What is the % change in this cube&#x27;s<br/><br/>surface area?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "+1%",
+        "html": "+1%"
+      },
+      {
+        "id": "B",
+        "text": "+2%",
+        "html": "+2%"
+      },
+      {
+        "id": "C",
+        "text": "-1%",
+        "html": "-1%"
+      },
+      {
+        "id": "D",
+        "text": "No Change",
+        "html": "No Change"
+      },
+      {
+        "id": "E",
+        "text": "-2%",
+        "html": "-2%<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "+1%",
+      "+2%",
+      "-1%",
+      "No Change",
+      "-2%<br/><br/>"
+    ],
+    "explanation": "Let the surface area of each side of the initial\n\ncube be 100.\n\nThe surface area of the resulting cuboid would\n\nbe given by 2(lb + bh + lh)\n\nNow, the change is calculated as\n\nLength = 10 +10% \n10 = 11\n\nBreadth = 10 + 10%\n10 = 11\n\nHeight = 10 - 20%\n10 = 8\n\nNow, the total surface area of the cuboid =\n\n2(lb+bh+hl)\n\n= 2(11\n11 + 11\n8 + 8\n11) = 2 \n(121 + 88 + 88)= 2\n\n297 = 594\n\nInitial surface area = 6 sides \n 100 = 600\n\n% change in surface area = (\n) \n 100\n\n= (\n) \n 100\n\n= - 1 %\n\nThe percentage change in surface area of this\n\ncube is - 1%.\n\nHence, the answer is - 1%.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Rahul has a solid cube which is made of\n\ncopper. He wants to melt it and redesign it in\n\nanother form by changing its parameters. Its\n\nlength, breadth, and height change as +10%,\n\n+10%, -20%. What is the % change in this cube's\n\nsurface area?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_46",
+    "question": "Ratio of the radius of the cone to height of the\n\ncone is 7:9 and the height of the cone is equal\n\nto the height of the cylinder. If the volume of the\n\ncone is 3696 cm and the radius of the cylinder\n\nis half of the radius of the cone, then find the\n\nvolume of the cylinder?",
+    "question_html": "Ratio of the radius of the cone to height of the<br/><br/>cone is 7:9 and the height of the cone is equal<br/><br/>to the height of the cylinder. If the volume of the<br/><br/>cone is 3696 cm&nbsp; and the radius of the cylinder<br/><br/>is half of the radius of the cone, then find the<br/><br/>volume of the cylinder?<br/>",
+    "questionHtml": "Ratio of the radius of the cone to height of the<br/><br/>cone is 7:9 and the height of the cone is equal<br/><br/>to the height of the cylinder. If the volume of the<br/><br/>cone is 3696 cm&nbsp; and the radius of the cylinder<br/><br/>is half of the radius of the cone, then find the<br/><br/>volume of the cylinder?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2824 cm",
+        "html": "2824 cm"
+      },
+      {
+        "id": "B",
+        "text": "2696 cm",
+        "html": "2696 cm"
+      },
+      {
+        "id": "C",
+        "text": "2456 cm",
+        "html": "2456 cm"
+      },
+      {
+        "id": "D",
+        "text": "2772 cm",
+        "html": "2772 cm"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2824 cm",
+      "2696 cm",
+      "2456 cm",
+      "2772 cm",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "x = 2\n\nRadius of the cone = 7 \n 2 = 14 cm\n\nRadius of the cylinder =\n = 7 cm\n\nHeight of the cone = 9 \n 2 = 18 cm\n\nVolume of the cylinder =\n 7 \n 7 \n 18 = 2772\n\ncm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Ratio of the radius of the cone to height of the\n\ncone is 7:9 and the height of the cone is equal\n\nto the height of the cylinder. If the volume of the\n\ncone is 3696 cm and the radius of the cylinder\n\nis half of the radius of the cone, then find the\n\nvolume of the cylinder?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_47",
+    "question": "The ratio between the angles of a polygon\n\nhaving four sides is 6:3:4:5. The smallest angle of\n\na triangle is one-fourth the largest angle of the\n\nquadrilateral. Largest angle of the triangle is 10°\n\nmore than second largest angle of the triangle.\n\nWhat is the second largest angle of the\n\ntriangle?",
+    "question_html": "The ratio between the angles of a polygon<br/><br/>having four sides is 6:3:4:5. The smallest angle of<br/><br/>a triangle is one-fourth the largest angle of the<br/><br/>quadrilateral. Largest angle of the triangle is 10°<br/><br/>more than second largest angle of the triangle.<br/><br/>What is the second largest angle of the<br/><br/>triangle?<br/>",
+    "questionHtml": "The ratio between the angles of a polygon<br/><br/>having four sides is 6:3:4:5. The smallest angle of<br/><br/>a triangle is one-fourth the largest angle of the<br/><br/>quadrilateral. Largest angle of the triangle is 10°<br/><br/>more than second largest angle of the triangle.<br/><br/>What is the second largest angle of the<br/><br/>triangle?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "80°",
+        "html": "80°"
+      },
+      {
+        "id": "B",
+        "text": "60°",
+        "html": "60°"
+      },
+      {
+        "id": "C",
+        "text": "70°",
+        "html": "70°"
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined"
+      },
+      {
+        "id": "E",
+        "text": "",
+        "html": ""
+      }
+    ],
+    "optionsHtml": [
+      "80°",
+      "60°",
+      "70°",
+      "Cannot be determined",
+      ""
+    ],
+    "explanation": "The largest angle of the quadrilateral =\n\n = 120\n\nThe smallest angle of the triangle = 120 \n =\n\n30\n\nIf the second largest angle of the triangle is x ,\n\nthen the largest angle of the triangle = (x +10)\n\n30 + x + x + 10 = 180\n\nx = 70",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio between the angles of a polygon\n\nhaving four sides is 6:3:4:5. The smallest angle of\n\na triangle is one-fourth the largest angle of the\n\nquadrilateral. Largest angle of the triangle is 10°\n\nmore than second largest angle of the triangle.\n\nWhat is the second largest angle of the\n\ntriangle?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_48",
+    "question": "The diameters of the external and internal\n\nsurfaces of a hollow spherical shell are 10cm\n\nand 6 cm, respectively. If it is recasted into a\n\nsolid cylinder of length \ncm, find the diameter\n\nof the cylinder.",
+    "question_html": "The diameters of the external and internal<br/><br/>surfaces of a hollow spherical shell are 10cm<br/><br/>and 6 cm, respectively. If it is recasted into a<br/><br/>solid cylinder of length <br/>cm, find the diameter<br/><br/>of the cylinder.<br/>",
+    "questionHtml": "The diameters of the external and internal<br/><br/>surfaces of a hollow spherical shell are 10cm<br/><br/>and 6 cm, respectively. If it is recasted into a<br/><br/>solid cylinder of length <br/>cm, find the diameter<br/><br/>of the cylinder.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "28",
+        "html": "28"
+      },
+      {
+        "id": "B",
+        "text": "14",
+        "html": "14"
+      },
+      {
+        "id": "C",
+        "text": "26",
+        "html": "26"
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "E",
+        "text": "30",
+        "html": "30<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "28",
+      "14",
+      "26",
+      "18",
+      "30<br/><br/>"
+    ],
+    "explanation": "The external diameter of a sphere = 10 cm\n\nThe internal diameter of the sphere = 6 cm\n\nVolume of the sphere = \n π (\n – \n)\n\n= (\n) (\n) (\n – \n)\n\n= (\n) (\n) (784)\n\n=\n\nHeight of the cylinder formed = \n cm\n\nLet the radius of the cylinder be ‘r’ cm\n\nVolume of the cylinder = π\n\n= \n = \n\n = 392\n\nr = \n cm\n\nSo Diameter of the cylinder = 2\n14 =28 cm",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The diameters of the external and internal\n\nsurfaces of a hollow spherical shell are 10cm\n\nand 6 cm, respectively. If it is recasted into a\n\nsolid cylinder of length \ncm, find the diameter\n\nof the cylinder.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_49",
+    "question": "The ratio of the perimeter of a squared field\n\nand another field which is in shape of an\n\nequilateral triangle is 2:3, respectively. If the\n\ncost of cultivating the whole squared field at\n\nthe rate of Rs. 11.8/m is Rs. 2655, then find the\n\ncost of fencing the triangular field at the rate of\n\nRs. 3.5/metre.",
+    "question_html": "The ratio of the perimeter of a squared field<br/><br/>and another field which is in shape of an<br/><br/>equilateral triangle is 2:3, respectively. If the<br/><br/>cost of cultivating the whole squared field at<br/><br/>the rate of Rs. 11.8/m&nbsp; is Rs. 2655, then find the<br/><br/>cost of fencing the triangular field at the rate of<br/><br/>Rs. 3.5/metre.<br/>",
+    "questionHtml": "The ratio of the perimeter of a squared field<br/><br/>and another field which is in shape of an<br/><br/>equilateral triangle is 2:3, respectively. If the<br/><br/>cost of cultivating the whole squared field at<br/><br/>the rate of Rs. 11.8/m&nbsp; is Rs. 2655, then find the<br/><br/>cost of fencing the triangular field at the rate of<br/><br/>Rs. 3.5/metre.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 405",
+        "html": "Rs. 405"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 195",
+        "html": "Rs. 195"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 275",
+        "html": "Rs. 275"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 465",
+        "html": "Rs. 465"
+      },
+      {
+        "id": "E",
+        "text": "Rs. 315",
+        "html": "Rs. 315<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 405",
+      "Rs. 195",
+      "Rs. 275",
+      "Rs. 465",
+      "Rs. 315<br/><br/>"
+    ],
+    "explanation": "Let each side of the squared field be a metres\n\nTherefore, a = 2655\n11.8 = 225\n\nOr, a = 225\n\nOr, a = 15 metres\n\nTherefore, the perimeter of the squared field =\n\n4a = 60 meters\n\nPerimeter of the equilateral triangular field = 60 \n\n = 90 metres\n\nTherefore, the cost of fencing the equilateral\n\ntriangular field = 90\n3.5 = Rs. 315\n\nHence, option e.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio of the perimeter of a squared field\n\nand another field which is in shape of an\n\nequilateral triangle is 2:3, respectively. If the\n\ncost of cultivating the whole squared field at\n\nthe rate of Rs. 11.8/m is Rs. 2655, then find the\n\ncost of fencing the triangular field at the rate of\n\nRs. 3.5/metre.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_50",
+    "question": "The ratio of the perimeter of a square field and\n\nanother field which is in the shape of an\n\nequilateral triangle is 8:9, respectively. If the cost\n\nof cultivating the square field at the rate of Rs.\n\n4.5/m is Rs. 10368, then find the cost of fencing\n\nthe triangular field at the rate of Rs. 2.5/metre.",
+    "question_html": "The ratio of the perimeter of a square field and<br/><br/>another field which is in the shape of an<br/><br/>equilateral triangle is 8:9, respectively. If the cost<br/><br/>of cultivating the square field at the rate of Rs.<br/><br/>4.5/m&nbsp; is Rs. 10368, then find the cost of fencing<br/><br/>the triangular field at the rate of Rs. 2.5/metre.<br/>",
+    "questionHtml": "The ratio of the perimeter of a square field and<br/><br/>another field which is in the shape of an<br/><br/>equilateral triangle is 8:9, respectively. If the cost<br/><br/>of cultivating the square field at the rate of Rs.<br/><br/>4.5/m&nbsp; is Rs. 10368, then find the cost of fencing<br/><br/>the triangular field at the rate of Rs. 2.5/metre.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 540",
+        "html": "Rs. 540"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 360",
+        "html": "Rs. 360"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 750",
+        "html": "Rs. 750"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 600",
+        "html": "Rs. 600"
+      },
+      {
+        "id": "E",
+        "text": "Rs. 450",
+        "html": "Rs. 450<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 540",
+      "Rs. 360",
+      "Rs. 750",
+      "Rs. 600",
+      "Rs. 450<br/><br/>"
+    ],
+    "explanation": "Let each side of the square field be ‘a’ metres\n\nTherefore, a = \n\nOr, a = 2304\n\nOr, a = 48 metres\n\n×\n\n×\n\n×\n\n×\n×\n×\n×\n×\n\n×\n\n594−600\n\n600\n×\n\n−6\n\n600 ×\n\n3696 = \n×\n× 7x × 7x × 9x\n1\n3\n\n22\n\n7\n\n×\n\n14\n\n2\n\n×\n\n22\n\n7 ×\n×\n×\n\n3\n\n6 ×360\n\n6+4+5+3\n\no\n\n× 1\n\n4\n\no\n\no\n\no\n\n4\n3\nR3\nr3\n\n4\n3\n\n22\n\n7\n103\n63\n\n4\n3\n\n22\n\n7\n\n9856\n\n3\ncm3\n\n8\n3\n\nh\nr2\n\n×\n×\n22\n\n7\nr2\n8\n3\n\n9856\n\n3\n\nr2\n\n14\n\n×\n\n2\n÷\n\n2\n\n× 3\n\n2\n\n×\n\n2\n10368\n\n4.5\n\n2\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The ratio of the perimeter of a square field and\n\nanother field which is in the shape of an\n\nequilateral triangle is 8:9, respectively. If the cost\n\nof cultivating the square field at the rate of Rs.\n\n4.5/m is Rs. 10368, then find the cost of fencing\n\nthe triangular field at the rate of Rs. 2.5/metre.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_51",
+    "question": "The perimeter of a rectangular park is 228 m\n\nand the length of the park 22 m more than the\n\nbreadth of the park. A path has been made\n\ninside around the park of width 3 m and it has\n\nbeen paved with marbles. If the length and the\n\nbreadth of each marble is 45 cm and 36 cm,\n\nrespectively then find the number of marbles\n\nused for paving the path.",
+    "question_html": "The perimeter of a rectangular park is 228 m<br/><br/>and the length of the park 22 m more than the<br/><br/>breadth of the park. A path has been made<br/><br/>inside around the park of width 3 m and it has<br/><br/>been paved with marbles. If the length and the<br/><br/>breadth of each marble is 45 cm and 36 cm,<br/><br/>respectively then find the number of marbles<br/><br/>used for paving the path.<br/>",
+    "questionHtml": "The perimeter of a rectangular park is 228 m<br/><br/>and the length of the park 22 m more than the<br/><br/>breadth of the park. A path has been made<br/><br/>inside around the park of width 3 m and it has<br/><br/>been paved with marbles. If the length and the<br/><br/>breadth of each marble is 45 cm and 36 cm,<br/><br/>respectively then find the number of marbles<br/><br/>used for paving the path.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4000",
+        "html": "4000"
+      },
+      {
+        "id": "B",
+        "text": "3000",
+        "html": "3000"
+      },
+      {
+        "id": "C",
+        "text": "2000",
+        "html": "2000"
+      },
+      {
+        "id": "D",
+        "text": "5000\n\nLevel-3\n\n3\n\n3\n3\n\n3\n3\n\n50°\n\n8\n3\n\n2\n\n2",
+        "html": "5000<br/><br/><b>Level-3</b><br/><br/>3<br/><br/>3<br/>3<br/><br/>3<br/>3<br/><br/>50°<br/><br/>8<br/>3<br/><br/>2<br/><br/>2"
+      }
+    ],
+    "optionsHtml": [
+      "4000",
+      "3000",
+      "2000",
+      "5000<br/><br/><b>Level-3</b><br/><br/>3<br/><br/>3<br/>3<br/><br/>3<br/>3<br/><br/>50°<br/><br/>8<br/>3<br/><br/>2<br/><br/>2"
+    ],
+    "explanation": "Let, the length of the park = ‘x’ m\n\nThen, the breadth of the park = (x – 22) m\n\nSo, 2\n (x + x – 22) = 228\n\n2x – 22 = 114\n\n2x = 136, x = 68\n\nTherefore, the length of the park = 68 m\n\nAnd, the breadth of the park = 68 – 22 = 46 m\n\nSo, area of the path = 68 \n 46 – 62 \n 40 = 3128\n\n– 2480 = 648 m\n\nAnd, area of each marble = 45 \n 36 = 1620 cm\n\n= 0.162 m\n\nNumber of marbles required = \n = 4000\n\nHence, option a.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The perimeter of a rectangular park is 228 m\n\nand the length of the park 22 m more than the\n\nbreadth of the park. A path has been made\n\ninside around the park of width 3 m and it has\n\nbeen paved with marbles. If the length and the\n\nbreadth of each marble is 45 cm and 36 cm,\n\nrespectively then find the number of marbles\n\nused for paving the path.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_52",
+    "question": "Two cubes A and B are melted down to form a\n\ncuboid. The ratio of the side of cube A to that\n\nof cube B is 5: 6. If the breadth and height of\n\nthe cuboid are 110% and 80% of the side of\n\ncube A and the length of the cuboid is 31 cm,\n\nthen find the surface area of the cuboid?",
+    "question_html": "Two cubes A and B are melted down to form a<br/><br/>cuboid. The ratio of the side of cube A to that<br/><br/>of cube B is 5: 6. If the breadth and height of<br/><br/>the cuboid are 110% and 80% of the side of<br/><br/>cube A and the length of the cuboid is 31 cm,<br/><br/>then find the surface area of the cuboid?<br/>",
+    "questionHtml": "Two cubes A and B are melted down to form a<br/><br/>cuboid. The ratio of the side of cube A to that<br/><br/>of cube B is 5: 6. If the breadth and height of<br/><br/>the cuboid are 110% and 80% of the side of<br/><br/>cube A and the length of the cuboid is 31 cm,<br/><br/>then find the surface area of the cuboid?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1478",
+        "html": "1478 "
+      },
+      {
+        "id": "B",
+        "text": "1522",
+        "html": "1522 "
+      },
+      {
+        "id": "C",
+        "text": "1354",
+        "html": "1354 "
+      },
+      {
+        "id": "D",
+        "text": "1292",
+        "html": "1292 "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1478 ",
+      "1522 ",
+      "1354 ",
+      "1292 ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the sides of cube A and cube B are ‘5x’ cm\n\nand ‘6x’ cm respectively.\n\nSo, breadth of the cuboid = 110% of 5x = 5.5x cm\n\nAnd height of the cuboid = 80% of 5x = 4x cm\n\nSince, the total volume of both the cubes\n\ntogether = volume of the cuboid\n\nSo,\n\nx = 2\n\nLength of the cuboid = 31 cm\n\nBreadth of the cuboid = 5.5\n2 = 11 cm\n\nHeight of the cuboid = 4\n2 = 8 cm\n\nSo, surface area of the cuboid = 2 \n (31 \n 11 +\n\n11 \n 8 + 31 \n 8) = 1354",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Two cubes A and B are melted down to form a\n\ncuboid. The ratio of the side of cube A to that\n\nof cube B is 5: 6. If the breadth and height of\n\nthe cuboid are 110% and 80% of the side of\n\ncube A and the length of the cuboid is 31 cm,\n\nthen find the surface area of the cuboid?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_53",
+    "question": "There is a square field of area 'y' m . A\n\ncylindrical ditch of radius 7 meters and depth 2\n\nmeters is dug, and the earth is taken out and\n\nspread over the remaining part of the square\n\nfield, the height of the square field which goes\n\nup by 0.77 meters. What is the value of 'y' ?",
+    "question_html": "There is a square field of area &#x27;y&#x27; m . A<br/><br/>cylindrical ditch of radius 7 meters and depth 2<br/><br/>meters is dug, and the earth is taken out and<br/><br/>spread over the remaining part of the square<br/><br/>field, the height of the square field which goes<br/><br/>up by 0.77 meters. What is the value of &#x27;y&#x27; ?<br/>",
+    "questionHtml": "There is a square field of area &#x27;y&#x27; m . A<br/><br/>cylindrical ditch of radius 7 meters and depth 2<br/><br/>meters is dug, and the earth is taken out and<br/><br/>spread over the remaining part of the square<br/><br/>field, the height of the square field which goes<br/><br/>up by 0.77 meters. What is the value of &#x27;y&#x27; ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "548 m²",
+        "html": "548 m²"
+      },
+      {
+        "id": "B",
+        "text": "524 m²",
+        "html": "524 m²"
+      },
+      {
+        "id": "C",
+        "text": "554 m²",
+        "html": "554 m²"
+      },
+      {
+        "id": "D",
+        "text": "504 m²",
+        "html": "504 m²"
+      },
+      {
+        "id": "E",
+        "text": "500",
+        "html": "500 <br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "548 m²",
+      "524 m²",
+      "554 m²",
+      "504 m²",
+      "500 <br/><br/>"
+    ],
+    "explanation": "Volume of the cylindrical ditch = r²h\n\n= \n7\n7 \n2 = 308 m²\n\nArea of remaining field = ( - r²) m²\n\n= ( - 154) m²\n\nAccording to Question,\n\n(y - 154) \n0.77 = 308\n\n( - 154) = 400\n\ny = 554 m²",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "There is a square field of area 'y' m . A\n\ncylindrical ditch of radius 7 meters and depth 2\n\nmeters is dug, and the earth is taken out and\n\nspread over the remaining part of the square\n\nfield, the height of the square field which goes\n\nup by 0.77 meters. What is the value of 'y' ?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "mensuration_2d_and_3d_chapter_wise_dpp_english_54",
+    "question": "There are two toys, one of cylindrical shape of\n\nbase radius 8 cm and volume 4608 cm .\n\nAnother toy of conical shape having height 25%\n\nless than the height of first toy and volume of\n\nthe conical toy is 2592 cm . Find the relation\n\nbetween radii of both the toys. [Take π = 3]",
+    "question_html": "There are two toys, one of cylindrical shape of<br/><br/>base radius 8 cm and volume 4608 cm .<br/><br/>Another toy of conical shape having height 25%<br/><br/>less than the height of first toy and volume of<br/><br/>the conical toy is 2592 cm . Find the relation<br/><br/>between radii of both the toys. [Take π = 3]<br/>",
+    "questionHtml": "There are two toys, one of cylindrical shape of<br/><br/>base radius 8 cm and volume 4608 cm .<br/><br/>Another toy of conical shape having height 25%<br/><br/>less than the height of first toy and volume of<br/><br/>the conical toy is 2592 cm . Find the relation<br/><br/>between radii of both the toys. [Take π = 3]<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radius of second toy is 52% more than radius\n\nof first toy.",
+        "html": "Radius of second toy is 52% more than radius<br/><br/>of first toy."
+      },
+      {
+        "id": "B",
+        "text": "Radius of second toy is 6 cm more than\n\nradius of first toy.",
+        "html": "Radius of second toy is 6 cm more than<br/><br/>radius of first toy."
+      },
+      {
+        "id": "C",
+        "text": "Radius of first toy is 4 cm less than radius of\n\nsecond toy.",
+        "html": "Radius of first toy is 4 cm less than radius of<br/><br/>second toy."
+      },
+      {
+        "id": "D",
+        "text": "Radius of second toy is 4 cm more than\n\ntwice the radius of first toy.",
+        "html": "Radius of second toy is 4 cm more than<br/><br/>twice the radius of first toy."
+      },
+      {
+        "id": "E",
+        "text": "none of these\n\ncm2\n\ncm2\n\ncm2\n\ncm2\n\n2\n\nm2\n\n3\n\n3",
+        "html": "none of these<br/><br/>cm2<br/><br/>cm2<br/><br/>cm2<br/><br/>cm2<br/><br/>2<br/><br/>m2<br/><br/>3<br/><br/>3"
+      }
+    ],
+    "optionsHtml": [
+      "Radius of second toy is 52% more than radius<br/><br/>of first toy.",
+      "Radius of second toy is 6 cm more than<br/><br/>radius of first toy.",
+      "Radius of first toy is 4 cm less than radius of<br/><br/>second toy.",
+      "Radius of second toy is 4 cm more than<br/><br/>twice the radius of first toy.",
+      "none of these<br/><br/>cm2<br/><br/>cm2<br/><br/>cm2<br/><br/>cm2<br/><br/>2<br/><br/>m2<br/><br/>3<br/><br/>3"
+    ],
+    "explanation": "Let height of first toy be ‘h’ cm\n\nSo, π \n 8\n 8 \n h = 4608\n\nh = 4608/192 = 24 cm\n\nHeight of second toy = 0.75 \n 24 = 18 cm\n\nLet radius of second toy be ‘r’ cm.\n\nSo, \n π \n r\n 18 = 2592\n\nr = 144\n\nr = 12 cm\n\nTherefore, radius of first toy is 4 cm less than\n\nradius of second one.\n\nHence, option c.\n\n× 9\n\n8\n\n×\n\n×\n\n×\n×\n\n2\n\n×\n2\n\n2\n\n648\n\n0.162\n\n + \n = 31 × 5.5x × 4x\n(5x)3\n(6x)3\n\n = \n341x3\n682x2\n\n×\n\n×\n\n×\n×\n\n×\n×\ncm2\n\nπ\n\n22\n\n7 × × ×\n\ny\nπ\n\ny\n\n×\n\ny\n\n× ×\n×\n\n×\n\n1\n3 ×\n× 2×\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "mensuration",
+      "2d",
+      "and",
+      "3d",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Mensuration 2D and 3D  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "There are two toys, one of cylindrical shape of\n\nbase radius 8 cm and volume 4608 cm .\n\nAnother toy of conical shape having height 25%\n\nless than the height of first toy and volume of\n\nthe conical toy is 2592 cm . Find the relation\n\nbetween radii of both the toys. [Take π = 3]",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "mensuration",
+        "2d",
+        "and",
+        "3d",
+        "chapter"
+      ]
+    },
+    "image_ref": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Mensuration 2D and 3D  Chapter wise DPP (English)\\Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/mensuration_2d_and_3d_chapter_wise_dpp_english/Mensuration 2D and 3D  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

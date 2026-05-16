@@ -1,0 +1,4422 @@
+[
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_1",
+    "question": "Directions: Find the missing term (?) in the\n\ngiven series.\n\n140 , 169 , ? , 257 , 316 , 385 .",
+    "question_html": "<b>Directions: Find the missing term (?) in the</b><br/><br/><b>given series.</b><br/><br/>140 , 169 , ? , 257 , 316 , 385 .<br/>",
+    "questionHtml": "<b>Directions: Find the missing term (?) in the</b><br/><br/><b>given series.</b><br/><br/>140 , 169 , ? , 257 , 316 , 385 .<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "207",
+        "html": "207"
+      },
+      {
+        "id": "B",
+        "text": "208",
+        "html": "208"
+      },
+      {
+        "id": "C",
+        "text": "209",
+        "html": "209"
+      },
+      {
+        "id": "D",
+        "text": "210",
+        "html": "210"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "207",
+      "208",
+      "209",
+      "210",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "140 , 169 , 208 , 257 , 316 , 385 \n\n 29 \n 39 \n 49 59 \n 69\n\n? = 208",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Find the missing term (?) in the\n\ngiven series.\n\n140 , 169 , ? , 257 , 316 , 385 .",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_2",
+    "question": "Find the missing term in the given series\n\n17, 21, 26, 32, 39, 47, ____, 66",
+    "question_html": "Find the missing term in the given series<br/><br/>17, 21, 26, 32, 39, 47, ____, 66<br/>",
+    "questionHtml": "Find the missing term in the given series<br/><br/>17, 21, 26, 32, 39, 47, ____, 66<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "B",
+        "text": "56",
+        "html": "56"
+      },
+      {
+        "id": "C",
+        "text": "57",
+        "html": "57"
+      },
+      {
+        "id": "D",
+        "text": "58",
+        "html": "58"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "55",
+      "56",
+      "57",
+      "58",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The given series is\n\n17, 21, 26, 32, 39, 47, ____, 66\n\nThis follows the pattern:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term in the given series\n\n17, 21, 26, 32, 39, 47, ____, 66",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_3",
+    "question": "What will come in place of question mark in the\n\nfollowing number series?",
+    "question_html": "What will come in place of question mark in the<br/><br/>following number series?<br/>",
+    "questionHtml": "What will come in place of question mark in the<br/><br/>following number series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "225",
+        "html": "225"
+      },
+      {
+        "id": "B",
+        "text": "154",
+        "html": "154"
+      },
+      {
+        "id": "C",
+        "text": "125",
+        "html": "125"
+      },
+      {
+        "id": "D",
+        "text": "199",
+        "html": "199"
+      },
+      {
+        "id": "E",
+        "text": "210",
+        "html": "210<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "225",
+      "154",
+      "125",
+      "199",
+      "210<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "What will come in place of question mark in the\n\nfollowing number series?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_4",
+    "question": "What will come in place of question mark in the\n\nfollowing number series?\n\n112, 225, 345, 479, 634, ?",
+    "question_html": "What will come in place of question mark in the<br/><br/>following number series?<br/><br/>112, 225, 345, 479, 634, ?<br/>",
+    "questionHtml": "What will come in place of question mark in the<br/><br/>following number series?<br/><br/>112, 225, 345, 479, 634, ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "854",
+        "html": "854"
+      },
+      {
+        "id": "B",
+        "text": "817",
+        "html": "817"
+      },
+      {
+        "id": "C",
+        "text": "652",
+        "html": "652"
+      },
+      {
+        "id": "D",
+        "text": "859",
+        "html": "859"
+      },
+      {
+        "id": "E",
+        "text": "742",
+        "html": "742<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "854",
+      "817",
+      "652",
+      "859",
+      "742<br/><br/>"
+    ],
+    "explanation": "Ans = 817",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "What will come in place of question mark in the\n\nfollowing number series?\n\n112, 225, 345, 479, 634, ?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_5",
+    "question": "Find the missing term.\n\n656 , 432 , 320 , 264 , 236 , ?",
+    "question_html": "Find the missing term.<br/><br/>656 , 432 , 320 , 264 , 236 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>656 , 432 , 320 , 264 , 236 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "230",
+        "html": "230"
+      },
+      {
+        "id": "B",
+        "text": "223",
+        "html": "223"
+      },
+      {
+        "id": "C",
+        "text": "232",
+        "html": "232"
+      },
+      {
+        "id": "D",
+        "text": "229",
+        "html": "229"
+      },
+      {
+        "id": "E",
+        "text": "222",
+        "html": "222<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "230",
+      "223",
+      "232",
+      "229",
+      "222<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n656 - 224 = 432\n\n432 - 112 = 320\n\n320 - 56 = 264\n\n264 - 28 = 236\n\n236 - 14 = 222",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n656 , 432 , 320 , 264 , 236 , ?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_6",
+    "question": "Find the missing term.\n\n10080 , 1440 , 240 , ? , 12 , 4",
+    "question_html": "Find the missing term.<br/><br/>10080 , 1440 , 240 , ? , 12 , 4<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>10080 , 1440 , 240 , ? , 12 , 4<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "52",
+        "html": "52"
+      },
+      {
+        "id": "C",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "D",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "E",
+        "text": "46",
+        "html": "46<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "52",
+      "48",
+      "40",
+      "46<br/><br/>"
+    ],
+    "explanation": "The pattern of the series is as follows :\n\n10080 \n7 = 1440\n\n1440 \n 6 = 240\n\n240 \n 5 = 48\n\n48 \n 4 = 12\n\n12 \n 3 = 4\n\nHence, the answer is 48.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n10080 , 1440 , 240 , ? , 12 , 4",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_7",
+    "question": "Find the missing term.\n\n10, 12, 15, 20, 27, 38, ?",
+    "question_html": "Find the missing term.<br/><br/>10, 12, 15, 20, 27, 38, ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>10, 12, 15, 20, 27, 38, ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "B",
+        "text": "51",
+        "html": "51"
+      },
+      {
+        "id": "C",
+        "text": "49",
+        "html": "49"
+      },
+      {
+        "id": "D",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "E",
+        "text": "53",
+        "html": "53<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "None of these",
+      "51",
+      "49",
+      "55",
+      "53<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n10 + 2 = 12\n\n12 + 3 = 15\n\n15 + 5 = 20\n\n20 + 7 = 27\n\n27 + 11 = 38\n\n38 + 13 = 51\n\nHence, the answer is 51.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n10, 12, 15, 20, 27, 38, ?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_8",
+    "question": "Find the missing term.\n\n12 , 19 , 35 , 59 , 90 , ?",
+    "question_html": "Find the missing term.<br/><br/>12 , 19 , 35 , 59 , 90 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>12 , 19 , 35 , 59 , 90 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "112",
+        "html": "112"
+      },
+      {
+        "id": "B",
+        "text": "125",
+        "html": "125"
+      },
+      {
+        "id": "C",
+        "text": "127",
+        "html": "127"
+      },
+      {
+        "id": "D",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "E",
+        "text": "99",
+        "html": "99<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "112",
+      "125",
+      "127",
+      "100",
+      "99<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n12 + 7 = 19\n\n19 + 16 = 35\n\n35 + 24 = 59\n\n59 + 31 = 90\n\n90 + 37 = 127\n\nHere, 7 + 9 = 16\n\n16 + 8 = 24\n\n24 + 7 = 31\n\n31 + 6 = 37\n\n∴ The answer is 127.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n12 , 19 , 35 , 59 , 90 , ?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_9",
+    "question": "Find the missing term.\n\n37 , ? , 103 , 169 , 257 , 367",
+    "question_html": "Find the missing term.<br/><br/>37 , ? , 103 , 169 , 257 , 367<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>37 , ? , 103 , 169 , 257 , 367<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "71",
+        "html": "71"
+      },
+      {
+        "id": "B",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "C",
+        "text": "67",
+        "html": "67"
+      },
+      {
+        "id": "D",
+        "text": "59",
+        "html": "59"
+      },
+      {
+        "id": "E",
+        "text": "61",
+        "html": "61<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "71",
+      "55",
+      "67",
+      "59",
+      "61<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n37 + 22 x 1 = 59\n\n59 + 22 x 2 = 103\n\n103 + 22 x 3 = 169\n\n169 + 22 x 4 = 257\n\n257 + 22 x 5 = 367\n\n? = 59\n\n∴ The answer is 59.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n37 , ? , 103 , 169 , 257 , 367",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_10",
+    "question": "Find the missing term.\n\n29 , 31 , 37 , 49 , 69 , ?",
+    "question_html": "Find the missing term.<br/><br/>29 , 31 , 37 , 49 , 69 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>29 , 31 , 37 , 49 , 69 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "88",
+        "html": "88"
+      },
+      {
+        "id": "B",
+        "text": "103",
+        "html": "103"
+      },
+      {
+        "id": "C",
+        "text": "94",
+        "html": "94"
+      },
+      {
+        "id": "D",
+        "text": "99",
+        "html": "99"
+      },
+      {
+        "id": "E",
+        "text": "108",
+        "html": "108<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "88",
+      "103",
+      "94",
+      "99",
+      "108<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n29 + 2 \n 1 = 31\n\n31 + 3 \n 2 = 37\n\n37 + 4 \n 3 = 49\n\nHere the pattern is,\n138 = 58 + 80\n178 = 138 + 40\n198 = 178 + 20\n208 = 198 + 10\nThe next term will be 208 + 5 = 213\nHence, Option B is Correct\n\n9 11 22 51 107 199\n\n 2 11 29 56 \n 92\n\n 9 \n 18 27 36 \n\n÷ \n\n÷\n\n÷\n\n÷\n\n÷\n\n×\n\n×\n\n×\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n29 , 31 , 37 , 49 , 69 , ?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_11",
+    "question": "Find the missing term.\n\n125, 80, 45, ?, 5",
+    "question_html": "Find the missing term.<br/><br/>125, 80, 45, ?, 5<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>125, 80, 45, ?, 5<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "D",
+        "text": "17",
+        "html": "17"
+      },
+      {
+        "id": "E",
+        "text": "19",
+        "html": "19<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "50",
+      "20",
+      "25",
+      "17",
+      "19<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows:\n\n125 80 45 20 5\n\n -45 -35 -25 -15\n\n +10 +10 +10\n\n ? = 20\n\n∴ The answer is 20.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n125, 80, 45, ?, 5",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_12",
+    "question": "Find the missing term.\n\n0 , 5 , 18 , 43 , 84 , 145 , ?",
+    "question_html": "Find the missing term.<br/><br/>0 , 5 , 18 , 43 , 84 , 145 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>0 , 5 , 18 , 43 , 84 , 145 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "270",
+        "html": "270"
+      },
+      {
+        "id": "B",
+        "text": "280\n\nMissing Number Series\n\nLevel-1\n\nWhat will come in place of ′\n\n? in the given question?\n′\n\n58, 138, 178, 198, 208, ?\n\n9, 11, 22, 51, 107, ?",
+        "html": "280<br/><br/><b>Missing Number Series</b><br/><br/><b>Level-1</b><br/><br/>What will come in place of ′<br/><br/>?  in the given question?<br/>′<br/><br/>58, 138, 178, 198, 208, ?<br/><br/>9,    11,    22,    51,    107,    ?"
+      }
+    ],
+    "optionsHtml": [
+      "270",
+      "280<br/><br/><b>Missing Number Series</b><br/><br/><b>Level-1</b><br/><br/>What will come in place of ′<br/><br/>?  in the given question?<br/>′<br/><br/>58, 138, 178, 198, 208, ?<br/><br/>9,    11,    22,    51,    107,    ?"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n0 5 18 43 84 145 230\n\n +5 +13 +25 +41 +61 +85\n\n +8 +12 +16 +20 +24\n\n +4 +4 +4 +4\n\n? = 230\n\n∴ The answer is 230.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n0 , 5 , 18 , 43 , 84 , 145 , ?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_13",
+    "question": "Find the missing term.\n\n62 , 87 , 187 , 412 , 812 , ?",
+    "question_html": "Find the missing term.<br/><br/>62 , 87 , 187 , 412 , 812 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>62 , 87 , 187 , 412 , 812 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1458",
+        "html": "1458"
+      },
+      {
+        "id": "B",
+        "text": "1457",
+        "html": "1457"
+      },
+      {
+        "id": "C",
+        "text": "1337",
+        "html": "1337"
+      },
+      {
+        "id": "D",
+        "text": "1437",
+        "html": "1437"
+      },
+      {
+        "id": "E",
+        "text": "1012",
+        "html": "1012<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1458",
+      "1457",
+      "1337",
+      "1437",
+      "1012<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n62 + (5) = 87\n\n87 + (10) = 187\n\n187 + (15) = 412\n\n412 + (20) = 812\n\n812 + (25) = 1437",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n62 , 87 , 187 , 412 , 812 , ?",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_14",
+    "question": "What will come in place of question marks in\n\nthe following number series?\n\n12, 12, 18, 36, 90, 270, ?",
+    "question_html": "What will come in place of question marks in<br/><br/>the following number series?<br/><br/>12, 12, 18, 36, 90, 270, ?<br/>",
+    "questionHtml": "What will come in place of question marks in<br/><br/>the following number series?<br/><br/>12, 12, 18, 36, 90, 270, ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "945",
+        "html": "945"
+      },
+      {
+        "id": "B",
+        "text": "814",
+        "html": "814"
+      },
+      {
+        "id": "C",
+        "text": "652",
+        "html": "652"
+      },
+      {
+        "id": "D",
+        "text": "859",
+        "html": "859"
+      },
+      {
+        "id": "E",
+        "text": "800",
+        "html": "800<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "945",
+      "814",
+      "652",
+      "859",
+      "800<br/><br/>"
+    ],
+    "explanation": "The given series is\n\n12×1 = 12,\n\n12 ×1.5 = 18,\n\n18 ×2 = 36,\n\n36 ×2.5 =90\n\n90 × 3 = 270\n\n? = 270 × 3.5 = 945",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "What will come in place of question marks in\n\nthe following number series?\n\n12, 12, 18, 36, 90, 270, ?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_15",
+    "question": "Directions: Find the missing term (?) in the\n\ngiven series.\n\n185 , 266 , 330 , 379 , 415 , ? .",
+    "question_html": "<b>Directions: Find the missing term (?) in the</b><br/><br/><b>given series.</b><br/><br/>185 , 266 , 330 , 379 , 415 , ? .<br/>",
+    "questionHtml": "<b>Directions: Find the missing term (?) in the</b><br/><br/><b>given series.</b><br/><br/>185 , 266 , 330 , 379 , 415 , ? .<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "440",
+        "html": "440"
+      },
+      {
+        "id": "B",
+        "text": "435",
+        "html": "435"
+      },
+      {
+        "id": "C",
+        "text": "450",
+        "html": "450"
+      },
+      {
+        "id": "D",
+        "text": "455",
+        "html": "455"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "440",
+      "435",
+      "450",
+      "455",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "185 , 266 , 330 , 379 , 415 , 440\n\n 81 64 49 36 25\n\n∴ The answer is 440.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Find the missing term (?) in the\n\ngiven series.\n\n185 , 266 , 330 , 379 , 415 , ? .",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_16",
+    "question": "Directions: Find the missing number in the\n\nfollowing number series.\n\n3, 83, 152, 208, 249 , ?",
+    "question_html": "<b>Directions: Find the missing number in the</b><br/><br/><b>following number series.</b><br/><br/>3, 83, 152, 208, 249 , ?<br/>",
+    "questionHtml": "<b>Directions: Find the missing number in the</b><br/><br/><b>following number series.</b><br/><br/>3, 83, 152, 208, 249 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "280",
+        "html": "280"
+      },
+      {
+        "id": "B",
+        "text": "320",
+        "html": "320"
+      },
+      {
+        "id": "C",
+        "text": "265",
+        "html": "265"
+      },
+      {
+        "id": "D",
+        "text": "351",
+        "html": "351"
+      },
+      {
+        "id": "E",
+        "text": "273",
+        "html": "273<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "280",
+      "320",
+      "265",
+      "351",
+      "273<br/><br/>"
+    ],
+    "explanation": "3 83 152 208 249 273\n\n 80 69 56 41 24\n\n -11 -13 -15 -17\n\n? = 273",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Find the missing number in the\n\nfollowing number series.\n\n3, 83, 152, 208, 249 , ?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_17",
+    "question": "Directions: What will come in place of the\n\nquestion mark (?) in the following questions?\n\n15, 28, 48, 82, 137, ?",
+    "question_html": "Directions: What will come in place of the<br/><br/>question mark (?) in the following questions?<br/><br/><b>15, 28, 48, 82, 137, ? </b><br/>",
+    "questionHtml": "Directions: What will come in place of the<br/><br/>question mark (?) in the following questions?<br/><br/><b>15, 28, 48, 82, 137, ? </b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "210",
+        "html": "<b>210</b>"
+      },
+      {
+        "id": "B",
+        "text": "220",
+        "html": "<b>220</b>"
+      },
+      {
+        "id": "C",
+        "text": "230",
+        "html": "<b>230</b>"
+      },
+      {
+        "id": "D",
+        "text": "200",
+        "html": "<b>200</b>"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "<b>210</b>",
+      "<b>220</b>",
+      "<b>230</b>",
+      "<b>200</b>",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The series is difference of difference.\n\n15 , 28 , 48 , 82 , 137 , ?\n\n 13 20 34 55 83\n\n 7 14 21 28\n\n? = 137 + 83 = 220",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: What will come in place of the\n\nquestion mark (?) in the following questions?\n\n15, 28, 48, 82, 137, ?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_18",
+    "question": "Find the wrong number in the following number\n\nseries –\n\n21, 95, 167, 235, 300, 351, 395",
+    "question_html": "Find the wrong number in the following number<br/><br/>series –<br/><br/>21, 95, 167, 235, 300, 351, 395<br/>",
+    "questionHtml": "Find the wrong number in the following number<br/><br/>series –<br/><br/>21, 95, 167, 235, 300, 351, 395<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "21",
+        "html": "21"
+      },
+      {
+        "id": "B",
+        "text": "235",
+        "html": "235"
+      },
+      {
+        "id": "C",
+        "text": "351",
+        "html": "351"
+      },
+      {
+        "id": "D",
+        "text": "300",
+        "html": "300"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "21",
+      "235",
+      "351",
+      "300",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "The pattern of the series –\n\n21 95 167 235 297 351 395\n\n+74 +72 +68 +62 +54 + 44\n\n –2 – 4 – 6 – 8 – 10\n\nThe wrong number in the series is 300.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the wrong number in the following number\n\nseries –\n\n21, 95, 167, 235, 300, 351, 395",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_19",
+    "question": "Directions: What will come in place of the\n\nquestion mark (?) in the following questions?\n\n9600, 1920, 480, ?, 80, 80",
+    "question_html": "Directions: What will come in place of the<br/><br/>question mark (?) in the following questions?<br/><br/>9600, 1920, 480, ?, 80, 80<br/>",
+    "questionHtml": "Directions: What will come in place of the<br/><br/>question mark (?) in the following questions?<br/><br/>9600, 1920, 480, ?, 80, 80<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "200",
+        "html": "200"
+      },
+      {
+        "id": "B",
+        "text": "320",
+        "html": "320"
+      },
+      {
+        "id": "C",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "D",
+        "text": "240",
+        "html": "240"
+      },
+      {
+        "id": "E",
+        "text": "160",
+        "html": "160"
+      }
+    ],
+    "optionsHtml": [
+      "200",
+      "320",
+      "80",
+      "240",
+      "160"
+    ],
+    "explanation": "9600, 1920, 480, ?, 80, 80\n\nthe series is, ÷5, ÷4, ÷3, ÷2, ÷1\n\n? = 480 ÷ 3\n\n? = 160\n\n×\n\n×\n\n2\n\n2\n\n2\n\n2\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: What will come in place of the\n\nquestion mark (?) in the following questions?\n\n9600, 1920, 480, ?, 80, 80",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_20",
+    "question": "Find the missing term.\n\n960 , 839 , 758 , 709 , ? , 675",
+    "question_html": "Find the missing term.<br/><br/>960 , 839 , 758 , 709 , ? , 675<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>960 , 839 , 758 , 709 , ? , 675<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "684",
+        "html": "684"
+      },
+      {
+        "id": "B",
+        "text": "678",
+        "html": "678"
+      },
+      {
+        "id": "C",
+        "text": "688",
+        "html": "688"
+      },
+      {
+        "id": "D",
+        "text": "700",
+        "html": "700"
+      },
+      {
+        "id": "E",
+        "text": "696",
+        "html": "696<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "684",
+      "678",
+      "688",
+      "700",
+      "696<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n960 - (11) = 839\n\n839 - (9) = 758\n\n758 - (7) = 709\n\n709 - (5) = 684\n\n684 - (3) = 675\n\n? = 684\n\n∴ The answer is 684.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n960 , 839 , 758 , 709 , ? , 675",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_21",
+    "question": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n10, 20, 22, ? , 46, 92, 94",
+    "question_html": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>10, 20, 22, ? , 46, 92, 94<br/>",
+    "questionHtml": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>10, 20, 22, ? , 46, 92, 94<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "44",
+        "html": "44"
+      },
+      {
+        "id": "B",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "C",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "D",
+        "text": "26",
+        "html": "26"
+      },
+      {
+        "id": "E",
+        "text": "48",
+        "html": "48<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "44",
+      "24",
+      "40",
+      "26",
+      "48<br/><br/>"
+    ],
+    "explanation": "Q4\nText Solution:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n10, 20, 22, ? , 46, 92, 94",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_22",
+    "question": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n18, 127, 38, ?, 66 , 731",
+    "question_html": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>18, 127, 38, ?, 66 , 731<br/>",
+    "questionHtml": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>18, 127, 38, ?, 66 , 731<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "375",
+        "html": "375"
+      },
+      {
+        "id": "B",
+        "text": "365",
+        "html": "365"
+      },
+      {
+        "id": "C",
+        "text": "345",
+        "html": "345"
+      },
+      {
+        "id": "D",
+        "text": "355",
+        "html": "355"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "375",
+      "365",
+      "345",
+      "355",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n18, 127, 38, ?, 66 , 731",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_23",
+    "question": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n181, 361, 720, ? , 2870, 5735",
+    "question_html": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>181, 361, 720, ? , 2870, 5735<br/>",
+    "questionHtml": "<b>In each of these questions a number is missing</b><br/><br/><b>in the series. Find out the missing number.</b><br/><br/>181, 361, 720, ? , 2870, 5735<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1347",
+        "html": "1347"
+      },
+      {
+        "id": "B",
+        "text": "1473",
+        "html": "1473"
+      },
+      {
+        "id": "C",
+        "text": "1437",
+        "html": "1437"
+      },
+      {
+        "id": "D",
+        "text": "1374",
+        "html": "1374"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1347",
+      "1473",
+      "1437",
+      "1374",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Q6\nText Solution:\n\nPattern of the series is as follows :\n\n7 x 2 + 2 = 16\n\n16 x 3 - 3 = 45\n\n45 x 4 + 4 = 184\n\n184 x 5 - 5 = 915\n\n915 x 6 + 6 = 5496\n\n? = 5496",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In each of these questions a number is missing\n\nin the series. Find out the missing number.\n\n181, 361, 720, ? , 2870, 5735",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_24",
+    "question": "Find the missing term.\n\n7 , 16 , 45 , 184 , 915 , ?",
+    "question_html": "Find the missing term.<br/><br/>7 , 16 , 45 , 184 , 915 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>7 , 16 , 45 , 184 , 915 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5496",
+        "html": "5496"
+      },
+      {
+        "id": "B",
+        "text": "5444",
+        "html": "5444"
+      },
+      {
+        "id": "C",
+        "text": "5454",
+        "html": "5454"
+      },
+      {
+        "id": "D",
+        "text": "5555",
+        "html": "5555"
+      },
+      {
+        "id": "E",
+        "text": "5478",
+        "html": "5478<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5496",
+      "5444",
+      "5454",
+      "5555",
+      "5478<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n7 , 16 , 45 , 184 , 915 , ?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_25",
+    "question": "Find the missing term.\n\n15 , 21 , 38 , 65 , 101 , ?",
+    "question_html": "Find the missing term.<br/><br/>15 , 21 , 38 , 65 , 101 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>15 , 21 , 38 , 65 , 101 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "145",
+        "html": "145"
+      },
+      {
+        "id": "B",
+        "text": "130",
+        "html": "130"
+      },
+      {
+        "id": "C",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "D",
+        "text": "141",
+        "html": "141"
+      },
+      {
+        "id": "E",
+        "text": "123",
+        "html": "123<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "145",
+      "130",
+      "150",
+      "141",
+      "123<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n15 + 6 = 21\n\n21 + 17 = 38\n\n38 + 27 = 65\n\n65 + 36 = 101\n\n101 + 44 = 145\n\nHere, 6 + 11 = 17\n\n17 + 10 = 27\n\n27 + 9 = 36\n\n36 + 8 = 44\n\nAnd 11 - 1 = 10\n\n10 - 1 = 9\n\n9 - 1 = 8\n\n? = 145",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n15 , 21 , 38 , 65 , 101 , ?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_26",
+    "question": "Find the missing term.\n\n0 , 2 , 8 , 14 , ? , 34 , 48",
+    "question_html": "Find the missing term.<br/><br/>0 , 2 , 8 , 14 , ? , 34 , 48<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>0 , 2 , 8 , 14 , ? , 34 , 48<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "B",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "C",
+        "text": "26",
+        "html": "26"
+      },
+      {
+        "id": "D",
+        "text": "23",
+        "html": "23"
+      },
+      {
+        "id": "E",
+        "text": "22",
+        "html": "22<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24",
+      "25",
+      "26",
+      "23",
+      "22<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n0 = 1 - 1\n\n2 = 2 - 2\n\n8 = 3 - 1\n\n14 = 4 - 2\n\n24 = 5 - 1\n\n34 = 6 - 2\n\n? = 24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n0 , 2 , 8 , 14 , ? , 34 , 48",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_27",
+    "question": "Find the missing term.\n\n12 , 14 , 32 , 102 , 416 , 2090 , ?",
+    "question_html": "Find the missing term.<br/><br/>12 , 14 , 32 , 102 , 416 , 2090 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>12 , 14 , 32 , 102 , 416 , 2090 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12500",
+        "html": "12500"
+      },
+      {
+        "id": "B",
+        "text": "11600",
+        "html": "11600"
+      },
+      {
+        "id": "C",
+        "text": "12552",
+        "html": "12552"
+      },
+      {
+        "id": "D",
+        "text": "13458",
+        "html": "13458"
+      },
+      {
+        "id": "E",
+        "text": "11554",
+        "html": "11554<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12500",
+      "11600",
+      "12552",
+      "13458",
+      "11554<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n12 x 1 + 2 = 14\n\n14 x 2 + 4 = 32\n\n32 x 3 + 6 = 102\n\n102 x 4 + 8 = 416\n\n416 x 5 + 10 = 2090\n\n2090 x 6 + 12 = 12552\n\n2\n\n2\n\n2\n\n2\n\n2\n\nHere the pattern is,\n5 = 4 + 1 =\n+ 1\n22\n\n10 = 9 + 1 =\n+ 1\n32\n\n17 = 16 + 1 =\n+ 1\n42\n\n26 = 25 + 1 =\n+ 1\n52\n\n37 = 36 + 1 =\n+ 1\n62\n\n72\n\nHence, Option B is Correct\n\n10 × 2 = 20\n20 + 2 = 22\n22 × 2 = 44\n44 + 2 = 46\n46 × 2 = 92\n92 + 2 = 94\n\n+ 2 = 18\n42\n\n+ 2 = 127\n53\n\n+ 2 = 38\n62\n\n+ 2 = 345\n73\n\n+ 2 = 66\n82\n\n+ 2 = 731\n93\n\n181 × 2 −1 = 361\n361 × 2 −2 = 720\n720 × 2 −3 = 1437\n1437 × 2 −4 = 2870\n2870 × 2 −5 = 5735\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n12 , 14 , 32 , 102 , 416 , 2090 , ?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_28",
+    "question": "Find the missing term.\n\n14 , 6 , 5 , 6.5 , 12 , ?",
+    "question_html": "Find the missing term.<br/><br/>14 , 6 , 5 , 6.5 , 12 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>14 , 6 , 5 , 6.5 , 12 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "B",
+        "text": "33",
+        "html": "33"
+      },
+      {
+        "id": "C",
+        "text": "23",
+        "html": "23"
+      },
+      {
+        "id": "D",
+        "text": "27",
+        "html": "27"
+      },
+      {
+        "id": "E",
+        "text": "29",
+        "html": "29<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "35",
+      "33",
+      "23",
+      "27",
+      "29<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n14 × 0.5 - 1 = 6 ,\n\n6 × 1 - 1 = 5 ,\n\n5 × 1.5 - 1 = 6.5 ,\n\n6.5 × 2 - 1 = 12 ,\n\n12 × 2.5 - 1 = 29\n\n? = 29",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n14 , 6 , 5 , 6.5 , 12 , ?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_29",
+    "question": "Find the missing term.\n\n17 , 16 , 30 , 87 , 344 , ?",
+    "question_html": "Find the missing term.<br/><br/>17 , 16 , 30 , 87 , 344 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>17 , 16 , 30 , 87 , 344 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1715",
+        "html": "1715"
+      },
+      {
+        "id": "B",
+        "text": "1685",
+        "html": "1685"
+      },
+      {
+        "id": "C",
+        "text": "1660",
+        "html": "1660"
+      },
+      {
+        "id": "D",
+        "text": "1760",
+        "html": "1760"
+      },
+      {
+        "id": "E",
+        "text": "1735",
+        "html": "1735<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1715",
+      "1685",
+      "1660",
+      "1760",
+      "1735<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n17 x 1 - 1 = 16\n\n16 x 2 - 2 = 30\n\n30 x 3 - 3 = 87\n\n87 x 4 - 4 = 344\n\n344 x 5 - 5 = 1715\n\n? = 1715",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n17 , 16 , 30 , 87 , 344 , ?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_30",
+    "question": "Find the missing term.\n\n24 , 28 , 19 , 35 , 10 , ?",
+    "question_html": "Find the missing term.<br/><br/>24 , 28 , 19 , 35 , 10 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>24 , 28 , 19 , 35 , 10 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "B",
+        "text": "46",
+        "html": "46"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "E",
+        "text": "26",
+        "html": "26<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "15",
+      "46",
+      "16",
+      "36",
+      "26<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n24 + (2) = 28\n\n28 - (3) = 19\n\n19 + (4) = 35\n\n35 - (5) = 10\n\n10 + (6) = 46\n\n? = 46",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n24 , 28 , 19 , 35 , 10 , ?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_31",
+    "question": "Find the missing term.\n\n26 , 12 , 11 , 15.5 , 30 , ?",
+    "question_html": "Find the missing term.<br/><br/>26 , 12 , 11 , 15.5 , 30 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>26 , 12 , 11 , 15.5 , 30 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "78",
+        "html": "78"
+      },
+      {
+        "id": "B",
+        "text": "82",
+        "html": "82"
+      },
+      {
+        "id": "C",
+        "text": "74",
+        "html": "74"
+      },
+      {
+        "id": "D",
+        "text": "68",
+        "html": "68"
+      },
+      {
+        "id": "E",
+        "text": "72",
+        "html": "72<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "78",
+      "82",
+      "74",
+      "68",
+      "72<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n? = 74",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n26 , 12 , 11 , 15.5 , 30 , ?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_32",
+    "question": "Find the missing term.\n\n3 , ? , 14 , 55 , 274 , 1643",
+    "question_html": "Find the missing term.<br/><br/>3 , ? , 14 , 55 , 274 , 1643<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>3 , ? , 14 , 55 , 274 , 1643<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "D",
+        "text": "5\n\nLevel-2\n\nWhat will come in place of ′\n\n? in the given question?\n′\n\n5, 10, 17, 26, 37, ?",
+        "html": "5<br/><br/><b>Level-2</b><br/><br/>What will come in place of ′<br/><br/>?  in the given question?<br/>′<br/><br/>5, 10, 17, 26, 37, ?"
+      }
+    ],
+    "optionsHtml": [
+      "7",
+      "8",
+      "6",
+      "5<br/><br/><b>Level-2</b><br/><br/>What will come in place of ′<br/><br/>?  in the given question?<br/>′<br/><br/>5, 10, 17, 26, 37, ?"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n3 x 2 - 1 = 5\n\n5 x 3 - 1 = 14\n\n14 x 4 - 1 = 55\n\n55 x 5 - 1 = 274\n\n274 x 6 - 1 = 1643\n\n? = 5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n3 , ? , 14 , 55 , 274 , 1643",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_33",
+    "question": "Find the missing term.\n\n39 , 52 , 78 , 117 , 169 , ?",
+    "question_html": "Find the missing term.<br/><br/>39 , 52 , 78 , 117 , 169 , ?<br/>",
+    "questionHtml": "Find the missing term.<br/><br/>39 , 52 , 78 , 117 , 169 , ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "255",
+        "html": "255"
+      },
+      {
+        "id": "B",
+        "text": "256",
+        "html": "256"
+      },
+      {
+        "id": "C",
+        "text": "234",
+        "html": "234"
+      },
+      {
+        "id": "D",
+        "text": "182",
+        "html": "182"
+      },
+      {
+        "id": "E",
+        "text": "246",
+        "html": "246<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "255",
+      "256",
+      "234",
+      "182",
+      "246<br/><br/>"
+    ],
+    "explanation": "Pattern of the series is as follows :\n\n39 = 13 x 3\n\n52 = 13 x 4 (= 1 + 3)\n\n78 = 13 x 6 (= 2 + 4)\n\n117 = 13 x 9 (= 3 + 6)\n\n169 = 13 x 13 (= 4 + 9)\n\n234 = 13 x 18 (= 5 + 13)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Find the missing term.\n\n39 , 52 , 78 , 117 , 169 , ?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_34",
+    "question": "A series 29, 31, 41, 71, 139, 269\n\nIf another series__ ,__ ,84, __ , m follows the\n\nsame pattern as the given number series, then\n\nfind the value of m.",
+    "question_html": "<b>A series</b> 29, 31, 41, 71, 139, 269<br/><br/><b>If another series__ ,__ ,84, __ , m follows the</b><br/><br/><b>same pattern as the given number series, then</b><br/><br/><b>find the value of m.</b><br/>",
+    "questionHtml": "<b>A series</b> 29, 31, 41, 71, 139, 269<br/><br/><b>If another series__ ,__ ,84, __ , m follows the</b><br/><br/><b>same pattern as the given number series, then</b><br/><br/><b>find the value of m.</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "182",
+        "html": "182"
+      },
+      {
+        "id": "B",
+        "text": "132",
+        "html": "132"
+      },
+      {
+        "id": "C",
+        "text": "172",
+        "html": "172"
+      },
+      {
+        "id": "D",
+        "text": "194",
+        "html": "194"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "182",
+      "132",
+      "172",
+      "194",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Similarly,\n\n (Ans)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A series 29, 31, 41, 71, 139, 269\n\nIf another series__ ,__ ,84, __ , m follows the\n\nsame pattern as the given number series, then\n\nfind the value of m.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_35",
+    "question": "A series is 8, 7, 10, 21, 68, 315.\n\nIf another series 12, __, __, __, __, m; follows the\n\nsame pattern as the given number series, then\n\nfind the value of m.",
+    "question_html": "<b>A series is 8, 7, 10, 21, 68, 315.</b><br/><br/>If another series 12, __, __, __, __, m; follows the<br/><br/>same pattern as the given number series, then<br/><br/>find the value of m.<br/>",
+    "questionHtml": "<b>A series is 8, 7, 10, 21, 68, 315.</b><br/><br/>If another series 12, __, __, __, __, m; follows the<br/><br/>same pattern as the given number series, then<br/><br/>find the value of m.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "878",
+        "html": "878"
+      },
+      {
+        "id": "B",
+        "text": "600",
+        "html": "600"
+      },
+      {
+        "id": "C",
+        "text": "546",
+        "html": "546"
+      },
+      {
+        "id": "D",
+        "text": "795",
+        "html": "795"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "878",
+      "600",
+      "546",
+      "795",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "8 × 1 – 1 = 7\n\n7 × 2 – 2 = 10\n\n10 × 3 – 3 = 21\n\n21 × 4 – 4 = 68\n\n68 × 5 – 5 = 315\n\nSimilarly:\n\n12 × 1 – 1 = 11\n\n11 × 2 – 2 = 18\n\n18 × 3 – 3 = 45\n\n45 × 4 – 4 = 164\n\n164 × 5 – 5 = 795\n\nSo, the value of m = 795\n\nHence, option d.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A series is 8, 7, 10, 21, 68, 315.\n\nIf another series 12, __, __, __, __, m; follows the\n\nsame pattern as the given number series, then\n\nfind the value of m.",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_36",
+    "question": "36, 19, 21, 45, Y, 1477\n\nIf A + 124 = 2Y – 48, then which of the following\n\nwill be correct?",
+    "question_html": "36, 19, 21, 45, Y, 1477<br/><br/>If A + 124 = 2Y – 48, then which of the following<br/><br/>will be correct?<br/>",
+    "questionHtml": "36, 19, 21, 45, Y, 1477<br/><br/>If A + 124 = 2Y – 48, then which of the following<br/><br/>will be correct?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "A is a perfect square",
+        "html": "A is a perfect square"
+      },
+      {
+        "id": "B",
+        "text": "A is an odd number",
+        "html": "A is an odd number"
+      },
+      {
+        "id": "C",
+        "text": "A is a prime number",
+        "html": "A is a prime number"
+      },
+      {
+        "id": "D",
+        "text": "Sum of unit digit and hundred placed digit\n\nof A is a prime number",
+        "html": "Sum of unit digit and hundred placed digit<br/><br/>of A is a prime number"
+      },
+      {
+        "id": "E",
+        "text": "Both (a) and (d)",
+        "html": "Both (a) and (d)<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "A is a perfect square",
+      "A is an odd number",
+      "A is a prime number",
+      "Sum of unit digit and hundred placed digit<br/><br/>of A is a prime number",
+      "Both (a) and (d)<br/><br/>"
+    ],
+    "explanation": "Pattern of series –\n\n36 ×0.5+1=19\n\n19 ×1+2=21\n\n21 ×2+3=45\n\nY = 45 ×4+4= 184\n\n184 ×8+5=1477\n\nSo, A + 124 = 2×184 – 48\n\nA = 320 – 124\n\nA = 196",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "36, 19, 21, 45, Y, 1477\n\nIf A + 124 = 2Y – 48, then which of the following\n\nwill be correct?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_37",
+    "question": "9050, 5675, x, 2147, y, 1075, 950\n\nCalculate values of 'x' and 'y', then answer the\n\nquestion that follows. double the value of x let it\n\nbe 'a'. Then find the sum of a and 6th Term of\n\nthe given series.",
+    "question_html": "9050, 5675, x, 2147, y, 1075, 950<br/><br/>Calculate values of &#x27;x&#x27; and &#x27;y&#x27;, then answer the<br/><br/>question that follows. double the value of x let it<br/><br/>be &#x27;a&#x27;. Then find the sum of a and 6th Term of<br/><br/>the given series.<br/>",
+    "questionHtml": "9050, 5675, x, 2147, y, 1075, 950<br/><br/>Calculate values of &#x27;x&#x27; and &#x27;y&#x27;, then answer the<br/><br/>question that follows. double the value of x let it<br/><br/>be &#x27;a&#x27;. Then find the sum of a and 6th Term of<br/><br/>the given series.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8033",
+        "html": "8033"
+      },
+      {
+        "id": "B",
+        "text": "1097",
+        "html": "1097"
+      },
+      {
+        "id": "C",
+        "text": "2111",
+        "html": "2111"
+      },
+      {
+        "id": "D",
+        "text": "3521",
+        "html": "3521"
+      },
+      {
+        "id": "E",
+        "text": "2025",
+        "html": "2025<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "8033",
+      "1097",
+      "2111",
+      "3521",
+      "2025<br/><br/>"
+    ],
+    "explanation": "2\n\n2\n\n2\n\n2\n\n2\n\n26 ×\n−1 = 12\n1\n2\n\n12 × 1 −1 = 11\n11 ×\n−1 = 15.5\n3\n2\n\n15.5 × 2 −1 = 30\n30 ×\n−1 = 74\n5\n2\n\n29 +\n+ 1 = 31\n13\n\n31 +\n+ 2 = 41\n23\n\n41 +\n+ 3 = 71\n33\n\n71 +\n+ 4 = 139\n43\n\n139 +\n+ 5 = 269\n53\n\n84 +\n+ 3 = 114\n33\n\n114 +\n+ 4 = 182\n43\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "9050, 5675, x, 2147, y, 1075, 950\n\nCalculate values of 'x' and 'y', then answer the\n\nquestion that follows. double the value of x let it\n\nbe 'a'. Then find the sum of a and 6th Term of\n\nthe given series.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_38",
+    "question": "What will come in place of question mark in the\n\nfollowing number series?\n\n29, 33, 60, 76, x, y\n\nFind (x – y)",
+    "question_html": "What will come in place of question mark in the<br/><br/>following number series?<br/><br/>29, 33, 60, 76, x, y<br/><br/>Find (x – y)<br/>",
+    "questionHtml": "What will come in place of question mark in the<br/><br/>following number series?<br/><br/>29, 33, 60, 76, x, y<br/><br/>Find (x – y)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1254",
+        "html": "1254"
+      },
+      {
+        "id": "B",
+        "text": "1356",
+        "html": "1356"
+      },
+      {
+        "id": "C",
+        "text": "1296",
+        "html": "1296"
+      },
+      {
+        "id": "D",
+        "text": "1547",
+        "html": "1547"
+      },
+      {
+        "id": "E",
+        "text": "1000\n\n2",
+        "html": "1000<br/><br/>2"
+      }
+    ],
+    "optionsHtml": [
+      "1254",
+      "1356",
+      "1296",
+      "1547",
+      "1000<br/><br/>2"
+    ],
+    "explanation": "Series is \n\n x = 76 + \n\n= 76 + 125 = 201\n\ny = 201 + 6 = 201 + 36\n\n= 237\n\n(x – y) = (201 – 237)\n\n= (-36)\n\n= 1296\n\n2\n\n2\n2\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "What will come in place of question mark in the\n\nfollowing number series?\n\n29, 33, 60, 76, x, y\n\nFind (x – y)",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_39",
+    "question": "What is the value of \n?",
+    "question_html": "<b>What is the value of </b><br/><b>?</b><br/>",
+    "questionHtml": "<b>What is the value of </b><br/><b>?</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.96",
+        "html": "2.96"
+      },
+      {
+        "id": "B",
+        "text": "3.48",
+        "html": "3.48"
+      },
+      {
+        "id": "C",
+        "text": "3.78",
+        "html": "3.78"
+      },
+      {
+        "id": "D",
+        "text": "4.08",
+        "html": "4.08"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2.96",
+      "3.48",
+      "3.78",
+      "4.08",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "What is the value of \n?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_40",
+    "question": "What is the value of ‘b – d’",
+    "question_html": "<b>What is the value of ‘b – d’</b><br/>",
+    "questionHtml": "<b>What is the value of ‘b – d’</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B) b",
+        "html": "(B) b"
+      },
+      {
+        "id": "C",
+        "text": "c",
+        "html": "c"
+      },
+      {
+        "id": "D",
+        "text": "2d",
+        "html": "2d"
+      },
+      {
+        "id": "E",
+        "text": "a-d\n\nDirections (3-4) Read the following passage\n\nand answer the given questions.\n\nDirections : Study the following information\n\ncarefully and answer the questions given\n\nbeside.\n\nBoth the series given below follow a similar\n\npattern. Solve both the series and answer the\n\nfollowing questions. \n\nI: a, 154, 1548, 12390, 74344, 297378 \n\nII: b, c, 490, 4908, d, 235624",
+        "html": "a-d<br/><br/><b>Directions (3-4) Read the following passage</b><br/><br/><b>and answer the given questions.</b><br/><br/><b>Directions : Study the following information</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>beside.</b><br/><br/>Both the series given below follow a similar<br/><br/>pattern. Solve both the series and answer the<br/><br/>following questions. <br/><br/><b>I: </b>a, 154, 1548, 12390, 74344, 297378 <br/><br/><b>II: </b>b, c, 490, 4908, d, 235624<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) b",
+      "c",
+      "2d",
+      "a-d<br/><br/><b>Directions (3-4) Read the following passage</b><br/><br/><b>and answer the given questions.</b><br/><br/><b>Directions : Study the following information</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>beside.</b><br/><br/>Both the series given below follow a similar<br/><br/>pattern. Solve both the series and answer the<br/><br/>following questions. <br/><br/><b>I: </b>a, 154, 1548, 12390, 74344, 297378 <br/><br/><b>II: </b>b, c, 490, 4908, d, 235624<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "What is the value of ‘b – d’",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_41",
+    "question": "What is the value of “\n”?",
+    "question_html": "<b>What is the value of “</b><br/><b>”?</b><br/>",
+    "questionHtml": "<b>What is the value of “</b><br/><b>”?</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3225.50",
+        "html": "3225.50"
+      },
+      {
+        "id": "B",
+        "text": "3272.50",
+        "html": "3272.50"
+      },
+      {
+        "id": "C",
+        "text": "3333.33",
+        "html": "3333.33"
+      },
+      {
+        "id": "D",
+        "text": "3600",
+        "html": "3600"
+      },
+      {
+        "id": "E",
+        "text": "3728.50",
+        "html": "3728.50<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3225.50",
+      "3272.50",
+      "3333.33",
+      "3600",
+      "3728.50<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "What is the value of “\n”?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_42",
+    "question": "The \nseries \ngiven \nbelow \nfollows \na\n\nparticular pattern. What is the value of ‘e’\n\nin the following series?",
+    "question_html": "<b>The </b><br/><b>series </b><br/><b>given </b><br/><b>below </b><br/><b>follows </b><br/><b>a</b><br/><br/><b>particular pattern. What is the value of ‘e’</b><br/><br/><b>in the following series? </b><br/>",
+    "questionHtml": "<b>The </b><br/><b>series </b><br/><b>given </b><br/><b>below </b><br/><b>follows </b><br/><b>a</b><br/><br/><b>particular pattern. What is the value of ‘e’</b><br/><br/><b>in the following series? </b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "81",
+        "html": "81"
+      },
+      {
+        "id": "B",
+        "text": "63",
+        "html": "63"
+      },
+      {
+        "id": "C",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "D",
+        "text": "82",
+        "html": "82"
+      },
+      {
+        "id": "E",
+        "text": "125",
+        "html": "125<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "81",
+      "63",
+      "64",
+      "82",
+      "125<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "The \nseries \ngiven \nbelow \nfollows \na\n\nparticular pattern. What is the value of ‘e’\n\nin the following series?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_43",
+    "question": "A series is given below, in which P and Q are\n\nmissing terms.\n\n14, P, 62, Q, 254\n\nIf the ratio of P to Q is 5: 21 and Q is 1 more than\n\nthe cube of 3rd least prime number, then find\n\nthe next term of the series?",
+    "question_html": "A series is given below, in which P and Q are<br/><br/>missing terms.<br/><br/>14, P, 62, Q, 254<br/><br/>If the ratio of P to Q is 5: 21 and Q is 1 more than<br/><br/>the cube of 3rd least prime number, then find<br/><br/>the next term of the series?<br/>",
+    "questionHtml": "A series is given below, in which P and Q are<br/><br/>missing terms.<br/><br/>14, P, 62, Q, 254<br/><br/>If the ratio of P to Q is 5: 21 and Q is 1 more than<br/><br/>the cube of 3rd least prime number, then find<br/><br/>the next term of the series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "508",
+        "html": "508"
+      },
+      {
+        "id": "B",
+        "text": "500",
+        "html": "500"
+      },
+      {
+        "id": "C",
+        "text": "510",
+        "html": "510"
+      },
+      {
+        "id": "D",
+        "text": "504",
+        "html": "504"
+      },
+      {
+        "id": "E",
+        "text": "520",
+        "html": "520<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "508",
+      "500",
+      "510",
+      "504",
+      "520<br/><br/>"
+    ],
+    "explanation": "3rd least prime number is 5\n\nSo, value of Q = \n + 1 = 126\n\nAnd value of P = 126 × \n = 30\n\nLogic in the series:\n\n14 × 2 + 2 = 30\n\n30 × 2 + 2 = 62\n\n62 × 2 + 2 = 126\n\n126 × 2 + 2 = 254\n\nAnd next term of the series = 254 × 2 + 2 = 510",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A series is given below, in which P and Q are\n\nmissing terms.\n\n14, P, 62, Q, 254\n\nIf the ratio of P to Q is 5: 21 and Q is 1 more than\n\nthe cube of 3rd least prime number, then find\n\nthe next term of the series?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_44",
+    "question": "A series is given below with one wrong term P.\n\n8, 20, 150, 750, 7500, 93750\n\nA new series is formed, whose 1st term is P\n\nfollowed by (1st term + 82), (2nd term - 72), (3rd\n\nterm + 62) and (4th term - 52). What will be the\n\n5th term of the series?",
+    "question_html": "A series is given below with one wrong term P.<br/><br/>8, 20, 150, 750, 7500, 93750<br/><br/>A new series is formed, whose 1st term is P<br/><br/>followed by (1st term + 82), (2nd term - 72), (3rd<br/><br/>term + 62) and (4th term - 52). What will be the<br/><br/>5th term of the series?<br/>",
+    "questionHtml": "A series is given below with one wrong term P.<br/><br/>8, 20, 150, 750, 7500, 93750<br/><br/>A new series is formed, whose 1st term is P<br/><br/>followed by (1st term + 82), (2nd term - 72), (3rd<br/><br/>term + 62) and (4th term - 52). What will be the<br/><br/>5th term of the series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "776",
+        "html": "776"
+      },
+      {
+        "id": "B",
+        "text": "34",
+        "html": "34"
+      },
+      {
+        "id": "C",
+        "text": "93776",
+        "html": "93776"
+      },
+      {
+        "id": "D",
+        "text": "176",
+        "html": "176"
+      },
+      {
+        "id": "E",
+        "text": "7526",
+        "html": "7526<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "776",
+      "34",
+      "93776",
+      "176",
+      "7526<br/><br/>"
+    ],
+    "explanation": "Logic in the given series:\n\n8 × 2.5 = 20\n\n20 × 5 = 100\n\n100 × 7.5 = 750\n\na\n3\n\nc\n\n2.50\nb3\n\n12\n\n3\n×\n40\n\n2.50\n×\n\n×\n\n×\n\n×\n\n×\n\n53\n\n5\n\n21",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A series is given below with one wrong term P.\n\n8, 20, 150, 750, 7500, 93750\n\nA new series is formed, whose 1st term is P\n\nfollowed by (1st term + 82), (2nd term - 72), (3rd\n\nterm + 62) and (4th term - 52). What will be the\n\n5th term of the series?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_45",
+    "question": "A series is given below, in which X and Y are\n\nmissing terms of the series.\n\n18, 37, 75, 151, X, Y",
+    "question_html": "A series is given below, in which X and Y are<br/><br/>missing terms of the series.<br/><br/>18, 37, 75, 151, X, Y<br/>",
+    "questionHtml": "A series is given below, in which X and Y are<br/><br/>missing terms of the series.<br/><br/>18, 37, 75, 151, X, Y<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both X and Y are multiple of 3.",
+        "html": "Both X and Y are multiple of 3."
+      },
+      {
+        "id": "B",
+        "text": "X =",
+        "html": "X = "
+      },
+      {
+        "id": "C",
+        "text": "Y is a prime number.",
+        "html": "Y is a prime number."
+      },
+      {
+        "id": "A",
+        "text": "Only B and C",
+        "html": "Only B and C"
+      },
+      {
+        "id": "B",
+        "text": "All A, B and C",
+        "html": "All A, B and C"
+      },
+      {
+        "id": "C",
+        "text": "Only B",
+        "html": "Only B"
+      },
+      {
+        "id": "D",
+        "text": "Only A and C",
+        "html": "Only A and C"
+      },
+      {
+        "id": "E",
+        "text": "Only C",
+        "html": "Only C<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Both X and Y are multiple of 3.",
+      "X = ",
+      "Y is a prime number.",
+      "Only B and C",
+      "All A, B and C",
+      "Only B",
+      "Only A and C",
+      "Only C<br/><br/>"
+    ],
+    "explanation": "Logic in the series:\n\n18 × 2 + 1 = 37\n\n37 × 2 + 1 = 75\n\n75 × 2 + 1 = 151\n\n151 × 2 + 1 = 303\n\n303 × 2 + 1 = 607\n\nSo, X = 303 and Y = 607\n\nFrom A:\n\nX = 303, Y = 607\n\nX is a multiple of 3 but Y is not a multiple of 3.\n\nSo, A is not true.\n\nFrom B:\n\nX = \n\n303 = \n\n303 = 303\n\nSo, B is true.\n\nFrom C:\n\nY = 607\n\nY is a prime number.\n\nSo, C is true.\n\nHence, only B and C are true.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A series is given below, in which X and Y are\n\nmissing terms of the series.\n\n18, 37, 75, 151, X, Y",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_46",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with missing term P.\n\n325, P, 136, 109, 101, 100\n\nLevel-3\n\na\nc\n\na\n4\n\nd\na\n\n, 4b,\n, 4\n, e\na\n3\n\nc\n\n2.50\nb3\n\nY−1\n\n2",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with missing term P.<br/><br/>325, P, 136, 109, 101, 100<br/><br/><b>Level-3</b><br/><br/>a<br/>c<br/><br/>a<br/>4<br/><br/>d<br/>a<br/><br/>, 4b,<br/>, 4<br/>, e<br/>a<br/>3<br/><br/>c<br/><br/>2.50<br/>b3<br/><br/>Y−1<br/><br/>2",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with missing term P.<br/><br/>325, P, 136, 109, 101, 100<br/><br/><b>Level-3</b><br/><br/>a<br/>c<br/><br/>a<br/>4<br/><br/>d<br/>a<br/><br/>, 4b,<br/>, 4<br/>, e<br/>a<br/>3<br/><br/>c<br/><br/>2.50<br/>b3<br/><br/>Y−1<br/><br/>2",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Logic in the given series:\n\n325 - \n = 200\n\n200 - \n = 136\n\n136 - \n = 109\n\n109 - \n = 101\n\n101 - \n = 100\n\nSo, the value of P = 200\n\nNow,\n\n1st term of the new series = 200\n\n2nd term of the new series = 200 - \n = 75\n\n3rd term of the new series = 75 - \n = 11\n\n4th term of the new series = 11 - \n = -16",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with missing term P.\n\n325, P, 136, 109, 101, 100\n\nLevel-3\n\na\nc\n\na\n4\n\nd\na\n\n, 4b,\n, 4\n, e\na\n3\n\nc\n\n2.50\nb3\n\nY−1\n\n2",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_47",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with missing term P.\n\n8, P, 20, 63, 256, 1285\n\nA new series is formed, whose 1st term is (P - 3)\n\nand follows the same pattern. If its \n term is\n\n208, then find the value of ‘n’?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with missing term P.<br/><br/>8, P, 20, 63, 256, 1285<br/><br/>A new series is formed, whose 1st term is (P - 3)<br/><br/>and follows the same pattern. If its <br/> term is<br/><br/>208, then find the value of ‘n’?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below with missing term P.<br/><br/>8, P, 20, 63, 256, 1285<br/><br/>A new series is formed, whose 1st term is (P - 3)<br/><br/>and follows the same pattern. If its <br/> term is<br/><br/>208, then find the value of ‘n’?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6th term",
+        "html": "6th term"
+      },
+      {
+        "id": "B",
+        "text": "5th term",
+        "html": "5th term"
+      },
+      {
+        "id": "C",
+        "text": "None of these",
+        "html": "None of these"
+      },
+      {
+        "id": "D",
+        "text": "3rd term",
+        "html": "3rd term"
+      },
+      {
+        "id": "E",
+        "text": "7th term",
+        "html": "7th term<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6th term",
+      "5th term",
+      "None of these",
+      "3rd term",
+      "7th term<br/><br/>"
+    ],
+    "explanation": "Logic in the given series:\n\n8 \n 1 + 1 = 9\n\n9 \n 2 + 2 = 20\n\n20 \n 3 + 3 = 63\n\n63 \n 4 + 4 = 256\n\n256 \n 5 + 5 = 1285\n\nSo, the missing term in the given series = P = 9\n\nNow,\n\n1st term of the new series = 9 \n 3 = 6\n\n2nd term of the new series = 6 \n 1 + 1 = 7\n\n3rd term of the new series = 7 \n 2 + 2 = 16\n\n4th term of the new series = 16 \n 3 + 3 = 51\n\n5th term of the new series = 51 \n 4 + 4 = 208\n\nSo, the value of ‘n’ = 5",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below with missing term P.\n\n8, P, 20, 63, 256, 1285\n\nA new series is formed, whose 1st term is (P - 3)\n\nand follows the same pattern. If its \n term is\n\n208, then find the value of ‘n’?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "missing_number_series_dpp_english_mathsquant_48",
+    "question": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below, with one missing term.\n\n8, 4, 4, 8, ?, 256\n\nAnother series is formed, whose 1st term is the\n\nmissing term of the given series, followed by (1st\n\nterm × 0.25), (2nd term × 0.5), (3rd term × 1), (4th\n\nterm × 2) and so on. What is the 6th term of the\n\nnew series?",
+    "question_html": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below, with one missing term.<br/><br/>8, 4, 4, 8, ?, 256<br/><br/>Another series is formed, whose 1st term is the<br/><br/>missing term of the given series, followed by (1st<br/><br/>term × 0.25), (2nd term × 0.5), (3rd term × 1), (4th<br/><br/>term × 2) and so on. What is the 6th term of the<br/><br/>new series?<br/>",
+    "questionHtml": "<b>Direction: Study the data carefully and answer</b><br/><br/><b>the following question.</b><br/><br/>A series is given below, with one missing term.<br/><br/>8, 4, 4, 8, ?, 256<br/><br/>Another series is formed, whose 1st term is the<br/><br/>missing term of the given series, followed by (1st<br/><br/>term × 0.25), (2nd term × 0.5), (3rd term × 1), (4th<br/><br/>term × 2) and so on. What is the 6th term of the<br/><br/>new series?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "D",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "E",
+        "text": "24\n\nnth",
+        "html": "24<br/><br/>nth"
+      }
+    ],
+    "optionsHtml": [
+      "64",
+      "8",
+      "32",
+      "16",
+      "24<br/><br/>nth"
+    ],
+    "explanation": "Logic in the given series:\n\n8 × 0.5 = 4\n\n4 × 1 = 4\n\n4 × 2 = 8\n\n8 × 4 = 32\n\n32 × 8 = 256\n\nSo, the missing term of the given series = 32\n\nNow,\n\n1st term of the new series = 32\n\n2nd term of the new series = 32 × 0.25 = 8\n\n3rd term of the new series = 8 × 0.5 = 4\n\n4th term of the new series = 4 × 1 = 4\n\n5th term of the new series = 4 × 2 = 8\n\n6th term of the new series = 8 × 4 = 32\n\nY−1\n\n2\n\n607 −1\n\n2\n\n53\n\n43\n\n33\n\n23\n\n13\n\n53\n\n43\n\n33\n\n×\n×\n\n×\n\n×\n\n×\n\n−\n\n×\n\n×\n\n×\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "missing",
+      "number",
+      "series",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "url": "/reasoning-pdfs/Missing Number Series  DPP (English) ~ (MathsQuant).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Direction: Study the data carefully and answer\n\nthe following question.\n\nA series is given below, with one missing term.\n\n8, 4, 4, 8, ?, 256\n\nAnother series is formed, whose 1st term is the\n\nmissing term of the given series, followed by (1st\n\nterm × 0.25), (2nd term × 0.5), (3rd term × 1), (4th\n\nterm × 2) and so on. What is the 6th term of the\n\nnew series?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "missing",
+        "number",
+        "series",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "imageRef": "question-images\\Missing Number Series  DPP (English) ~ (MathsQuant)\\Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+    "image": {
+      "key": "missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "url": "/question-images/missing_number_series_dpp_english_mathsquant/Missing Number Series  DPP (English) ~ (MathsQuant)_q010.png",
+      "alt": ""
+    }
+  }
+]

@@ -1,0 +1,4653 @@
+[
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_1",
+    "question": "How many different arrangements can be\n\nmade from the letters of the word ‘TUESDAY’\n\nsuch that all vowels don’t come together?",
+    "question_html": "How many different arrangements can be<br/><br/>made from the letters of the word ‘TUESDAY’<br/><br/>such that all vowels don’t come together?<br/>",
+    "questionHtml": "How many different arrangements can be<br/><br/>made from the letters of the word ‘TUESDAY’<br/><br/>such that all vowels don’t come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4220",
+        "html": "4220"
+      },
+      {
+        "id": "B",
+        "text": "4230",
+        "html": "4230"
+      },
+      {
+        "id": "C",
+        "text": "4320",
+        "html": "4320"
+      },
+      {
+        "id": "D",
+        "text": "4300",
+        "html": "4300"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4220",
+      "4230",
+      "4320",
+      "4300",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of arrangements if no restrictions:\n\n7! = 7 \n 6 \n 5 \n 4 \n 3 \n 2 \n 1 = 5040\n\nIn our case, there are 3 vowels in the word\n\n'TUESDAY' i.e. 'U', 'E', and 'A'. So grouping them\n\nas a single bundle.\n\nTotal number of arrangements if vowels are\n\nalways together :\n\n5! × 3! = 120 \n 6 = 720\n\nTotal number of arrangements if vowels don't\n\ncome together :\n\n5040 - 720 = 4320\n\nHence, \"4320\" is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "How many different arrangements can be\n\nmade from the letters of the word ‘TUESDAY’\n\nsuch that all vowels don’t come together?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_2",
+    "question": "Directions: In how many ways the letters of the\n\nword “APPLE” are arranged?",
+    "question_html": "<b>Directions: In how many ways the letters of the</b><br/><br/><b>word “APPLE” are arranged?</b><br/>",
+    "questionHtml": "<b>Directions: In how many ways the letters of the</b><br/><br/><b>word “APPLE” are arranged?</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "B",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "C",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "D",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "100",
+      "120",
+      "64",
+      "60",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Ans: 60\n\nRequired number of ways =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: In how many ways the letters of the\n\nword “APPLE” are arranged?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_3",
+    "question": "In how many ways does the word “IDENTITY” be\n\narranged in that all vowels and consonants\n\ncome together?",
+    "question_html": "In how many ways does the word “IDENTITY” be<br/><br/>arranged in that all vowels and consonants<br/><br/>come together?<br/>",
+    "questionHtml": "In how many ways does the word “IDENTITY” be<br/><br/>arranged in that all vowels and consonants<br/><br/>come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "600",
+        "html": "600"
+      },
+      {
+        "id": "B",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "C",
+        "text": "364",
+        "html": "364"
+      },
+      {
+        "id": "D",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "600",
+      "120",
+      "364",
+      "360",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Ans: 360\n\nNumber of vowels = I, E, I = 3\n\nNumber of consonants = D, N, T, T, Y = 5\n\nRequired number of ways\n\n=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "In how many ways does the word “IDENTITY” be\n\narranged in that all vowels and consonants\n\ncome together?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_4",
+    "question": "How many different arrangements can be\n\nmade by using all the letters in the word\n\n“HINDUSTAN”?",
+    "question_html": "How many different arrangements can be<br/><br/>made by using all the letters in the word<br/><br/>“HINDUSTAN”?<br/>",
+    "questionHtml": "How many different arrangements can be<br/><br/>made by using all the letters in the word<br/><br/>“HINDUSTAN”?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "121440",
+        "html": "121440"
+      },
+      {
+        "id": "B",
+        "text": "181220",
+        "html": "181220"
+      },
+      {
+        "id": "C",
+        "text": "122440",
+        "html": "122440"
+      },
+      {
+        "id": "D",
+        "text": "181440",
+        "html": "181440"
+      },
+      {
+        "id": "E",
+        "text": "141340",
+        "html": "141340<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "121440",
+      "181220",
+      "122440",
+      "181440",
+      "141340<br/><br/>"
+    ],
+    "explanation": "There are 9 letters and N is used two times.\n\nHence the number of words by taking all\n\ntogether at a time",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "How many different arrangements can be\n\nmade by using all the letters in the word\n\n“HINDUSTAN”?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_5",
+    "question": "How many number plates of four digits can be\n\nformed with six digits 1, 2, 3, 4, 5 and 6?",
+    "question_html": "How many number plates of four digits can be<br/><br/>formed with six digits 1, 2, 3, 4, 5 and 6?<br/>",
+    "questionHtml": "How many number plates of four digits can be<br/><br/>formed with six digits 1, 2, 3, 4, 5 and 6?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "E",
+        "text": "30",
+        "html": "30<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12",
+      "15",
+      "18",
+      "24",
+      "30<br/><br/>"
+    ],
+    "explanation": "Required \nnumber",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "How many number plates of four digits can be\n\nformed with six digits 1, 2, 3, 4, 5 and 6?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_6",
+    "question": "How many 10-letter words can be formed by\n\nusing the letters of the word DEPARTMENT?",
+    "question_html": "How many 10-letter words can be formed by<br/><br/>using the letters of the word DEPARTMENT?<br/>",
+    "questionHtml": "How many 10-letter words can be formed by<br/><br/>using the letters of the word DEPARTMENT?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "907200",
+        "html": "907200"
+      },
+      {
+        "id": "B",
+        "text": "725760",
+        "html": "725760"
+      },
+      {
+        "id": "C",
+        "text": "1814400",
+        "html": "1814400"
+      },
+      {
+        "id": "D",
+        "text": "453600",
+        "html": "453600"
+      },
+      {
+        "id": "E",
+        "text": "604800",
+        "html": "604800<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "907200",
+      "725760",
+      "1814400",
+      "453600",
+      "604800<br/><br/>"
+    ],
+    "explanation": "There are 10 letters, in which E repeated two\n\ntimes and T repeated two times.\n\nSo, total number of words = \n = 10 × 9 \n 8\n\n 7 \n 6 \n 5 \n 3 \n 2 = 907200",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "How many 10-letter words can be formed by\n\nusing the letters of the word DEPARTMENT?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_7",
+    "question": "A person has a total of 6 bullets in his gun and\n\nhe has to shoot 3 birds. In how many ways can\n\nhe do that?",
+    "question_html": "A person has a total of 6 bullets in his gun and<br/><br/>he has to shoot 3 birds. In how many ways can<br/><br/>he do that?<br/>",
+    "questionHtml": "A person has a total of 6 bullets in his gun and<br/><br/>he has to shoot 3 birds. In how many ways can<br/><br/>he do that?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "D",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "35",
+      "20",
+      "50",
+      "60",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "He can choose any 3 bullets to kill the birds out\n\nof the total available 6 bullets.\n\nTotal number of ways = \n\n= 20",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A person has a total of 6 bullets in his gun and\n\nhe has to shoot 3 birds. In how many ways can\n\nhe do that?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_8",
+    "question": "3 men and 3 women are to sit at a round table.\n\nIn how many different ways can they sit so that\n\nno 2 women sit together?",
+    "question_html": "3 men and 3 women are to sit at a round table.<br/><br/>In how many different ways can they sit so that<br/><br/>no 2 women sit together?<br/>",
+    "questionHtml": "3 men and 3 women are to sit at a round table.<br/><br/>In how many different ways can they sit so that<br/><br/>no 2 women sit together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "12",
+      "16",
+      "18",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "3 men can sit at a round table(3-1)! Ways i.e.2!\n\nNow, 3 women are to sit so that no 2 women sit\n\ntogether.\n\nThey have to sit three places each between\n\ntwo men. It can be done in 3P3 ways i.e3!=3\n2\n\n1=6 ways.\n\nThus, required number of ways=2\n6=12 ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "3 men and 3 women are to sit at a round table.\n\nIn how many different ways can they sit so that\n\nno 2 women sit together?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_9",
+    "question": "A man has 7 samosas, 6 juice, and 8 candies.\n\nHe has to choose 1 each of them. Then, find the\n\nnumber of ways he chooses.",
+    "question_html": "A man has 7 samosas, 6 juice, and 8 candies.<br/><br/>He has to choose 1 each of them. Then, find the<br/><br/>number of ways he chooses.<br/>",
+    "questionHtml": "A man has 7 samosas, 6 juice, and 8 candies.<br/><br/>He has to choose 1 each of them. Then, find the<br/><br/>number of ways he chooses.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "We have to use Fundamental theorem of\n\ncountings\n\nTotal number of ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A man has 7 samosas, 6 juice, and 8 candies.\n\nHe has to choose 1 each of them. Then, find the\n\nnumber of ways he chooses.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_10",
+    "question": "15 people shake hands at a party such that one\n\nperson does not shake hands with 5 persons.\n\nHow many shake hands will take place?",
+    "question_html": "15 people shake hands at a party such that one<br/><br/>person does not shake hands with 5 persons.<br/><br/>How many shake hands will take place?<br/>",
+    "questionHtml": "15 people shake hands at a party such that one<br/><br/>person does not shake hands with 5 persons.<br/><br/>How many shake hands will take place?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "105",
+        "html": "105"
+      },
+      {
+        "id": "B",
+        "text": "110",
+        "html": "110"
+      },
+      {
+        "id": "C",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "D",
+        "text": "90",
+        "html": "90"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\nPermuations & Combinations\n\nLevel-1\n\n332\n336\n\n335\n334",
+        "html": "None of these<br/><br/><b>Permuations &amp; Combinations</b><br/><br/><b>Level-1</b><br/><br/>332<br/>336<br/><br/>335<br/>334"
+      }
+    ],
+    "optionsHtml": [
+      "105",
+      "110",
+      "100",
+      "90",
+      "None of these<br/><br/><b>Permuations &amp; Combinations</b><br/><br/><b>Level-1</b><br/><br/>332<br/>336<br/><br/>335<br/>334"
+    ],
+    "explanation": "Total number of shake hands when everyone\n\nshake hands with everyone = \n = 105\n\nSince one person does not shake hands with 5\n\npeople which there will be 5 less shaking hands\n\nout of the total.\n\nHence, the required number of shake hands =\n\n105 - 5\n\n= 100",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "15 people shake hands at a party such that one\n\nperson does not shake hands with 5 persons.\n\nHow many shake hands will take place?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_11",
+    "question": "Find the probability of words that can be\n\nformed from the letters of the word ‘MONSTER’\n\nsuch that all the vowels come together.",
+    "question_html": "Find the probability of words that can be<br/><br/>formed from the letters of the word ‘MONSTER’<br/><br/>such that all the vowels come together.<br/>",
+    "questionHtml": "Find the probability of words that can be<br/><br/>formed from the letters of the word ‘MONSTER’<br/><br/>such that all the vowels come together.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of ways = 7!\n\nFavorable number of ways = 6! × 2!\n\nRequired probability = \n\n=\n\nHence “\n” is the right answer.\n\n×\n×\n×\n×\n×\n×\n\n×\n\n=\n5!\n2!\n\n5×4×3×2!\n\n2!\n\n=\n= 360\n5!×3!×2!\n\n2!×2!\n\n5×4×3×2×1×3\n\n2!\n\n=\n=\n= 181440\n9!\n\n21\n\n9×8×7×6×5×4×3×2×1\n\n2\n\n=\n =\n=\n=\n= 15\nnCr\nC4\n\n6\n6!\n\n(6−4)!4\n\n6×5\n2×1\n\n10!\n\n2! × 2!\n×\n\n×\n×\n×\n×\n×\n\nc3\n\n6\n\n×\n\n×\n\n×\n\n= 7 × 6 × 8 = 336\n\n15c2\n\n6! × 2!\n\n7!\n\n2\n7\n\n2\n7\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the probability of words that can be\n\nformed from the letters of the word ‘MONSTER’\n\nsuch that all the vowels come together.",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_12",
+    "question": "A boy has 7 pairs of socks & 3 pairs of shoes.\n\nThen, find the number of ways of selecting\n\nshocks & shoes together.",
+    "question_html": "A boy has 7 pairs of socks &amp; 3 pairs of shoes.<br/><br/>Then, find the number of ways of selecting<br/><br/>shocks &amp; shoes together.<br/>",
+    "questionHtml": "A boy has 7 pairs of socks &amp; 3 pairs of shoes.<br/><br/>Then, find the number of ways of selecting<br/><br/>shocks &amp; shoes together.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "21",
+        "html": "21"
+      },
+      {
+        "id": "B",
+        "text": "22",
+        "html": "22"
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "D",
+        "text": "11",
+        "html": "11"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "21",
+      "22",
+      "10",
+      "11",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Answer - a\n\nIn \nthis \nquestion, \nwe \nhave \nto \nuse \nthe\n\nfundamental theorem of counting\n\n7 \n 3 = 21 ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "a",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A boy has 7 pairs of socks & 3 pairs of shoes.\n\nThen, find the number of ways of selecting\n\nshocks & shoes together.",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_13",
+    "question": "How many odd numbers of 5 digits can be\n\nformed using all the digits from 0 to 9 if\n\nrepetition of digits is allowed?",
+    "question_html": "How many odd numbers of 5 digits can be<br/><br/>formed using all the digits from  0 to 9 if<br/><br/>repetition of digits is allowed?<br/>",
+    "questionHtml": "How many odd numbers of 5 digits can be<br/><br/>formed using all the digits from  0 to 9 if<br/><br/>repetition of digits is allowed?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "42000",
+        "html": "42000"
+      },
+      {
+        "id": "B",
+        "text": "45000",
+        "html": "45000"
+      },
+      {
+        "id": "C",
+        "text": "32000",
+        "html": "32000"
+      },
+      {
+        "id": "D",
+        "text": "72000",
+        "html": "72000"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "42000",
+      "45000",
+      "32000",
+      "72000",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "For a 5-digit number to be odd, the units digit\n\nmust be one of 1, 3, 5, 7, or 9. For the remaining\n\nfour digits, we can choose any digit from the set\n\n{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} with repetition allowed\n\nexcluding 0 at the thousand’s place.\n\nTherefore, the number of odd 5-digit numbers\n\nthat can be formed\n\nis:\n\n=",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many odd numbers of 5 digits can be\n\nformed using all the digits from 0 to 9 if\n\nrepetition of digits is allowed?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_14",
+    "question": "Find the number of 5 letters words, with or\n\nwithout meaning, which can be formed from\n\nthe letters of word QUANT, where the repetition\n\nof the letters is not allowed?",
+    "question_html": "Find the number of 5 letters words, with or<br/><br/>without meaning, which can be formed from<br/><br/>the letters of word QUANT, where the repetition<br/><br/>of the letters is not allowed?<br/>",
+    "questionHtml": "Find the number of 5 letters words, with or<br/><br/>without meaning, which can be formed from<br/><br/>the letters of word QUANT, where the repetition<br/><br/>of the letters is not allowed?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "180",
+        "html": "180"
+      },
+      {
+        "id": "B",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "C",
+        "text": "280",
+        "html": "280"
+      },
+      {
+        "id": "D",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "E",
+        "text": "200",
+        "html": "200<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "180",
+      "720",
+      "280",
+      "120",
+      "200<br/><br/>"
+    ],
+    "explanation": "Total number of 5 letters words that can be\n\nformed",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Find the number of 5 letters words, with or\n\nwithout meaning, which can be formed from\n\nthe letters of word QUANT, where the repetition\n\nof the letters is not allowed?",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_15",
+    "question": "How many different ways can the letters of the\n\nword WALLAH arraanged?",
+    "question_html": "How many different ways can the letters of the<br/><br/>word WALLAH arraanged?<br/>",
+    "questionHtml": "How many different ways can the letters of the<br/><br/>word WALLAH arraanged?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "180",
+        "html": "180"
+      },
+      {
+        "id": "B",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "C",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "D",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "180",
+      "150",
+      "720",
+      "360",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Number of ways = \n = 180",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many different ways can the letters of the\n\nword WALLAH arraanged?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_16",
+    "question": "In how many different ways can the letters of\n\nthe word \"MATHEMATICS\" be arranged?",
+    "question_html": "In how many different ways can the letters of<br/><br/>the word &quot;MATHEMATICS&quot; be arranged?<br/>",
+    "questionHtml": "In how many different ways can the letters of<br/><br/>the word &quot;MATHEMATICS&quot; be arranged?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "11!/2!",
+        "html": "11!/2!"
+      },
+      {
+        "id": "B",
+        "text": "11!/6",
+        "html": "11!/6"
+      },
+      {
+        "id": "C",
+        "text": "11!/8",
+        "html": "11!/8"
+      },
+      {
+        "id": "D",
+        "text": "11!/4",
+        "html": "11!/4"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "11!/2!",
+      "11!/6",
+      "11!/8",
+      "11!/4",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In how many different ways can the letters of\n\nthe word \"MATHEMATICS\" be arranged?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_17",
+    "question": "How many 7-letter words can be formed by\n\nusing the letters of the word FINANCE, so that\n\nvowels always come together?",
+    "question_html": "How many 7-letter words can be formed by<br/><br/>using the letters of the word FINANCE, so that<br/><br/>vowels always come together?<br/>",
+    "questionHtml": "How many 7-letter words can be formed by<br/><br/>using the letters of the word FINANCE, so that<br/><br/>vowels always come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "540",
+        "html": "540"
+      },
+      {
+        "id": "B",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "C",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "D",
+        "text": "640",
+        "html": "640"
+      },
+      {
+        "id": "E",
+        "text": "480",
+        "html": "480<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "540",
+      "360",
+      "720",
+      "640",
+      "480<br/><br/>"
+    ],
+    "explanation": "Since, there are three vowels I, A, and E.\n\nSo, I, A, and E will be counted as a single letter.\n\nNumber of ways to arrange 5 letters F, N, N, C,\n\nand IAE in 5 places = \n\nSince, the number of ways to arrange 3 letters I,\n\nA, and E among themselves in 3 places = 3!\n\nSo, number of words in which vowels always\n\ncome together = \n 3! = 5 \n 4 \n 3 \n 3 \n 2\n\n= 360",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many 7-letter words can be formed by\n\nusing the letters of the word FINANCE, so that\n\nvowels always come together?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_18",
+    "question": "How many 6-letter words, beginning with a\n\nvowel and ending with a vowel, can be formed\n\nby using the letters of the word MARKET?",
+    "question_html": "How many 6-letter words, beginning with a<br/><br/>vowel and ending with a vowel, can be formed<br/><br/>by using the letters of the word MARKET?<br/>",
+    "questionHtml": "How many 6-letter words, beginning with a<br/><br/>vowel and ending with a vowel, can be formed<br/><br/>by using the letters of the word MARKET?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "B",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "C",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "D",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "E",
+        "text": "60",
+        "html": "60<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "72",
+      "36",
+      "64",
+      "48",
+      "60<br/><br/>"
+    ],
+    "explanation": "Since, there are two vowels A and E in the given\n\nword.\n\nSo, the number of ways to arrange A and E in\n\ntwo places = 2!\n\nRemaining letters are M, R, K and T.\n\nSo, the number of ways to arrange 4 letters in 4\n\nplaces = 4!\n\nSo, total number of words beginning with a\n\nvowel and ending with a vowel = 2! \n 4! = 2 \n\n24 = 48",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many 6-letter words, beginning with a\n\nvowel and ending with a vowel, can be formed\n\nby using the letters of the word MARKET?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_19",
+    "question": "How many 4 digits even number can be formed\n\nwith the help of digits 0,1, 3, 4, 7, 9, 6. while\n\nrepetition not allowed.",
+    "question_html": "How many 4 digits even number can be formed<br/><br/>with the help of digits 0,1, 3, 4, 7, 9, 6. while<br/><br/>repetition not allowed.<br/>",
+    "questionHtml": "How many 4 digits even number can be formed<br/><br/>with the help of digits 0,1, 3, 4, 7, 9, 6. while<br/><br/>repetition not allowed.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "420",
+        "html": "420"
+      },
+      {
+        "id": "B",
+        "text": "760",
+        "html": "760"
+      },
+      {
+        "id": "C",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "D",
+        "text": "180",
+        "html": "180"
+      },
+      {
+        "id": "E",
+        "text": "480",
+        "html": "480<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "420",
+      "760",
+      "360",
+      "180",
+      "480<br/><br/>"
+    ],
+    "explanation": "To form a 4-digit even number, the units digit\n\nmust be even. Therefore, we can choose the\n\nunits digit in 3 ways (0, 4, or 6).\n\nAfter selecting the units digit, we can choose\n\nany of the\n\nremaining 6 digits for the thousands place. This\n\ncan be done in 6 ways.\n\nFor the hundreds and tens places, we can\n\nchoose from the\n\nremaining 5 digits (excluding the units digit and\n\nthe thousands digit). These\n\ntwo digits can be arranged in 5P2 ways, which\n\nis equal to 20.\n\nTherefore, the total number of 4-digit even\n\nnumbers that can be\n\nformed with the digits 0, 1, 3, 4, 7, 9, 6 without\n\nrepetition is:\n\nHence, there are 360 such 4-digit even\n\nnumbers that can be\n\nformed with the given digits without repetition.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many 4 digits even number can be formed\n\nwith the help of digits 0,1, 3, 4, 7, 9, 6. while\n\nrepetition not allowed.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_20",
+    "question": "How many 3-digit even numbers can be formed\n\nby using the digits 2, 4, 6 and 8, when repetition\n\nis not allowed?",
+    "question_html": "How many 3-digit even numbers can be formed<br/><br/>by using the digits 2, 4, 6 and 8, when repetition<br/><br/>is not allowed?<br/>",
+    "questionHtml": "How many 3-digit even numbers can be formed<br/><br/>by using the digits 2, 4, 6 and 8, when repetition<br/><br/>is not allowed?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "B",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "C",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "D",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "E",
+        "text": "48\n\n1\n7\n2\n7\n\n3\n7\n6\n7",
+        "html": "48<br/><br/>1<br/>7<br/>2<br/>7<br/><br/>3<br/>7<br/>6<br/>7"
+      }
+    ],
+    "optionsHtml": [
+      "64",
+      "16",
+      "24",
+      "32",
+      "48<br/><br/>1<br/>7<br/>2<br/>7<br/><br/>3<br/>7<br/>6<br/>7"
+    ],
+    "explanation": "Since, each of the given digits is an even\n\nnumber.\n\nSo, the number of ways to fill the hundred’s\n\nplace with 4 digits = 4\n\nNumber of ways to fill the ten’s place with\n\nremaining 3 digits = 3\n\n×\n\n5 × 9 × 10 × 10 × 10\n\n= 45, 000\n\n= 5! = 120 \n\n6!\n\n2!2!\n\n= \n=\n11!\n\n(2!×2!×2!)\n\n11!\n\n8\n\n5!\n2!\n\n5!\n2! ×\n×\n×\n×\n×\n\n×\n×\n\n3 × 6 × 20 = 360",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "How many 3-digit even numbers can be formed\n\nby using the digits 2, 4, 6 and 8, when repetition\n\nis not allowed?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_21",
+    "question": "How many 5-digit numbers can be formed by\n\nusing the digits 2, 3, 5, 7 and 8, so that even\n\nnumbers always come together and odd\n\nnumbers always come together?",
+    "question_html": "How many 5-digit numbers can be formed by<br/><br/>using the digits 2, 3, 5, 7 and 8, so that even<br/><br/>numbers always come together and odd<br/><br/>numbers always come together?<br/>",
+    "questionHtml": "How many 5-digit numbers can be formed by<br/><br/>using the digits 2, 3, 5, 7 and 8, so that even<br/><br/>numbers always come together and odd<br/><br/>numbers always come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "C",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "D",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "E",
+        "text": "30",
+        "html": "30<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24",
+      "18",
+      "48",
+      "36",
+      "30<br/><br/>"
+    ],
+    "explanation": "Since there are two even numbers and three\n\nodd numbers\n\nSo, the number of ways to put both the even\n\nnumbers together = 2!\n\nAnd a number of ways to put all the three odd\n\nnumbers together = 3!\n\nSince, both the two even numbers will be\n\ncounted as a single digit and all the three odd\n\nnumbers will be counted as a single digit.\n\nSo, the number of ways to put both the two\n\neven numbers and all the three odd numbers\n\ntogether = 2!\n\nThe required number of 5-digit numbers, in\n\nwhich even numbers always come together and\n\nodd numbers always come together = 2! \n 3! \n\n2!\n\n= 2 \n 6 \n 2 = 24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "How many 5-digit numbers can be formed by\n\nusing the digits 2, 3, 5, 7 and 8, so that even\n\nnumbers always come together and odd\n\nnumbers always come together?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_22",
+    "question": "A volleyball team of six players is to be selected\n\nfrom a group of 7 male players and 5 female\n\nplayers. In how many ways a team having at\n\nleast 4 female players is selected?",
+    "question_html": "A volleyball team of six players is to be selected<br/><br/>from a group of 7 male players and 5 female<br/><br/>players. In how many ways a team having at<br/><br/>least 4 female players is selected?<br/>",
+    "questionHtml": "A volleyball team of six players is to be selected<br/><br/>from a group of 7 male players and 5 female<br/><br/>players. In how many ways a team having at<br/><br/>least 4 female players is selected?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "102 ways",
+        "html": "102 ways"
+      },
+      {
+        "id": "B",
+        "text": "105 ways",
+        "html": "105 ways"
+      },
+      {
+        "id": "C",
+        "text": "108 ways",
+        "html": "108 ways"
+      },
+      {
+        "id": "D",
+        "text": "112 ways",
+        "html": "112 ways"
+      },
+      {
+        "id": "E",
+        "text": "120 ways",
+        "html": "120 ways<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "102 ways",
+      "105 ways",
+      "108 ways",
+      "112 ways",
+      "120 ways<br/><br/>"
+    ],
+    "explanation": "Case I: 4 female players and 2 male players are\n\nthere in the team.\n\nSo, the number of ways = C \n C = 5 \n 21 =\n\n105 ways\n\nCase II: 5 female players and 1 male player are\n\nthere in the team.\n\nSo, the number of ways = C \n C = 1 \n 7 = 7\n\nways\n\nSo, required total number of ways = 105 + 7 = 112\n\nways\n\nHence, option d.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "A volleyball team of six players is to be selected\n\nfrom a group of 7 male players and 5 female\n\nplayers. In how many ways a team having at\n\nleast 4 female players is selected?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_23",
+    "question": "How many 6-letter words can be formed by\n\nusing the letters of the word ACTION, so that I\n\ncome right after A and O comes right after I?",
+    "question_html": "How many 6-letter words can be formed by<br/><br/>using the letters of the word ACTION, so that I<br/><br/>come right after A and O comes right after I?<br/>",
+    "questionHtml": "How many 6-letter words can be formed by<br/><br/>using the letters of the word ACTION, so that I<br/><br/>come right after A and O comes right after I?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "B",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "C",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "D",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "E",
+        "text": "48",
+        "html": "48<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "120",
+      "24",
+      "720",
+      "360",
+      "48<br/><br/>"
+    ],
+    "explanation": "Since AIO will be counted as one letter.\n\nSo, the number of ways to arrange 4 letters AIO,\n\nC, T, and N in 4 places = 4! = 4 \n 3 \n 2 \n 1 = 24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "How many 6-letter words can be formed by\n\nusing the letters of the word ACTION, so that I\n\ncome right after A and O comes right after I?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_24",
+    "question": "A team of 11 players has to be chosen from the\n\ngroups \nconsisting \nof \n6 \nand \n8 \nplayers\n\nrespectively. The number of ways of selecting\n\nthem so that each selection contains at least 4\n\nplayers from the first group is",
+    "question_html": "A team of 11 players has to be chosen from the<br/><br/>groups <br/>consisting <br/>of <br/>6 <br/>and <br/>8 <br/>players<br/><br/>respectively. The number of ways of selecting<br/><br/>them so that each selection contains at least 4<br/><br/>players from the first group is<br/>",
+    "questionHtml": "A team of 11 players has to be chosen from the<br/><br/>groups <br/>consisting <br/>of <br/>6 <br/>and <br/>8 <br/>players<br/><br/>respectively. The number of ways of selecting<br/><br/>them so that each selection contains at least 4<br/><br/>players from the first group is<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "B",
+        "text": "280",
+        "html": "280"
+      },
+      {
+        "id": "C",
+        "text": "344",
+        "html": "344"
+      },
+      {
+        "id": "D",
+        "text": "248",
+        "html": "248"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "120",
+      "280",
+      "344",
+      "248",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Case 1: Selecting exactly 4 players from the first\n\ngroup and 7 players from the second group\n\nThe total number of ways for this case is C(6, 4)\n\nC(8, 7) = 15\n 8 = 120.\n\nCase 2: Selecting exactly 5 players from the first\n\ngroup and 6\n\nplayers from the second group:\n\nThe total number of ways for this case is C(6, 5)\n\n C(8, 6) = 6 \n 28 = 168.\n\nCase 3: Selecting exactly 6 players from the first\n\ngroup and 5\n\nplayers from the second group:\n\nThe total number of ways for this case is C(6, 6)\n\n C(8, 5) = 1 \n 56 = 56.\n\nTherefore, total number of ways for these cases\n\nis 120 + 168 +56 = 344.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "A team of 11 players has to be chosen from the\n\ngroups \nconsisting \nof \n6 \nand \n8 \nplayers\n\nrespectively. The number of ways of selecting\n\nthem so that each selection contains at least 4\n\nplayers from the first group is",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_25",
+    "question": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\nA group contains 12 girls and 15 boys out of\n\nwhich 5 girls and 7 boys are dancers and the\n\nrest are singers. A committee of 9 members is to\n\nbe formed such that the committee contains 4\n\ngirls and 5 boys singers. Find the number of\n\nways in which this can be done.",
+    "question_html": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>A group contains 12 girls and 15 boys out of<br/><br/>which 5 girls and 7 boys are dancers and the<br/><br/>rest are singers. A committee of 9 members is to<br/><br/>be formed such that the committee contains 4<br/><br/>girls and 5 boys singers. Find the number of<br/><br/>ways in which this can be done.<br/>",
+    "questionHtml": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>A group contains 12 girls and 15 boys out of<br/><br/>which 5 girls and 7 boys are dancers and the<br/><br/>rest are singers. A committee of 9 members is to<br/><br/>be formed such that the committee contains 4<br/><br/>girls and 5 boys singers. Find the number of<br/><br/>ways in which this can be done.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "26868",
+        "html": "26868"
+      },
+      {
+        "id": "B",
+        "text": "26998",
+        "html": "26998"
+      },
+      {
+        "id": "C",
+        "text": "25668",
+        "html": "25668"
+      },
+      {
+        "id": "D",
+        "text": "28665",
+        "html": "28665"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "26868",
+      "26998",
+      "25668",
+      "28665",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "From the given information,\n\nTotal number of boys = 12\n\nBoys dancers = 5\n\nBoys singers = 7\n\nTotal number of girls = 15\n\nGirls dancers = 7\n\nGirls singers = 8\n\nRequired number of ways\n\nTherefore, the number of ways is 28665 in which\n\na committee of 9 members is to be formed such\n\nthat the committee contains 4 girls and 5 boys\n\nsingers.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\nA group contains 12 girls and 15 boys out of\n\nwhich 5 girls and 7 boys are dancers and the\n\nrest are singers. A committee of 9 members is to\n\nbe formed such that the committee contains 4\n\ngirls and 5 boys singers. Find the number of\n\nways in which this can be done.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_26",
+    "question": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\nA group contains 12 boys and 15 girls out of\n\nwhich 5 boys and 7 girls are dancers and rest\n\nare singers. A committee of 5 members is to be\n\nformed. Find the number of ways in which this\n\ncan be done such that the committee contains\n\nat least 3 girls singers.",
+    "question_html": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>A group contains 12 boys and 15 girls out of<br/><br/>which 5 boys and 7 girls are dancers and rest<br/><br/>are singers. A committee of 5 members is to be<br/><br/>formed. Find the number of ways in which this<br/><br/>can be done such that the committee contains<br/><br/>at least 3 girls singers.<br/>",
+    "questionHtml": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following </b><br/><b>question</b><br/><br/><b>carefully and choose the right answer given</b><br/><br/><b>beside.</b><br/><br/>A group contains 12 boys and 15 girls out of<br/><br/>which 5 boys and 7 girls are dancers and rest<br/><br/>are singers. A committee of 5 members is to be<br/><br/>formed. Find the number of ways in which this<br/><br/>can be done such that the committee contains<br/><br/>at least 3 girls singers.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10765",
+        "html": "10765"
+      },
+      {
+        "id": "B",
+        "text": "10453",
+        "html": "10453"
+      },
+      {
+        "id": "C",
+        "text": "10256",
+        "html": "10256"
+      },
+      {
+        "id": "D",
+        "text": "10962",
+        "html": "10962"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10765",
+      "10453",
+      "10256",
+      "10962",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "From the given information,\n\nTotal number of Boys = 12\n\nBoys dancers = 5\n\nBoys singers = 7\n\nTotal number of girls = 15\n\n×\n×\n\n×\n×\n\n5\n4 × 7\n2\n×\n\n5\n5 × 7\n1\n×\n\n×\n×\n×\n\n×\n×\n\n×\n×\n\n×\n×\n\n= 1365 × 21 = 28665\n=15 C4 ×7 C5\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Directions: \nStudy \nthe \nfollowing \nquestion\n\ncarefully and choose the right answer given\n\nbeside.\n\nA group contains 12 boys and 15 girls out of\n\nwhich 5 boys and 7 girls are dancers and rest\n\nare singers. A committee of 5 members is to be\n\nformed. Find the number of ways in which this\n\ncan be done such that the committee contains\n\nat least 3 girls singers.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_27",
+    "question": "Ram has only the money which he can buy 3\n\nbooks and there are 8 books for his subject. In\n\nthese 8 books Math’s book he has already\n\navailable and. The number of ways, in which he\n\ncan choose the three books to be purchase is",
+    "question_html": "Ram has only the money which he can buy 3<br/><br/>books and there are 8 books for his subject. In<br/><br/>these 8 books Math’s book he has already<br/><br/>available and. The number of ways, in which he<br/><br/>can choose the three books to be purchase is<br/>",
+    "questionHtml": "Ram has only the money which he can buy 3<br/><br/>books and there are 8 books for his subject. In<br/><br/>these 8 books Math’s book he has already<br/><br/>available and. The number of ways, in which he<br/><br/>can choose the three books to be purchase is<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "B",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "C",
+        "text": "41",
+        "html": "41"
+      },
+      {
+        "id": "D",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "E",
+        "text": "50",
+        "html": "50<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "32",
+      "35",
+      "41",
+      "45",
+      "50<br/><br/>"
+    ],
+    "explanation": "ATQ:-\n\nRam can’t buy Math as already available\n\nNow arrange the three books to be chosen in 3!\n\n= 6 ways\n\nNow there is 7 books available and want to buy\n\n3 books so the number of ways \n= 35 ways\n\nTotal ways = 6 + 35 = 41",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Ram has only the money which he can buy 3\n\nbooks and there are 8 books for his subject. In\n\nthese 8 books Math’s book he has already\n\navailable and. The number of ways, in which he\n\ncan choose the three books to be purchase is",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_28",
+    "question": "How many 10-letter words can be formed by\n\nusing the letters of the word SMARTPHONE, so\n\nthat vowels never come together?",
+    "question_html": "How many 10-letter words can be formed by<br/><br/>using the letters of the word SMARTPHONE, so<br/><br/>that vowels never come together?<br/>",
+    "questionHtml": "How many 10-letter words can be formed by<br/><br/>using the letters of the word SMARTPHONE, so<br/><br/>that vowels never come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10! - (8! \n 3!)",
+        "html": "10! - (8! <br/> 3!)"
+      },
+      {
+        "id": "B",
+        "text": "11! - (6! \n 4!)",
+        "html": "11! - (6! <br/> 4!)"
+      },
+      {
+        "id": "C",
+        "text": "10! - (8! \n 4!)",
+        "html": "10! - (8! <br/> 4!)"
+      },
+      {
+        "id": "D",
+        "text": "10! - (7! \n 3!)",
+        "html": "10! - (7! <br/> 3!)"
+      },
+      {
+        "id": "E",
+        "text": "11! - (8! \n 3!)\n\nLevel-2\n\n×\n\n×\n\n×\n\n×\n\n×",
+        "html": "11! - (8! <br/> 3!)<br/><br/><b>Level-2</b><br/><br/>×<br/><br/>×<br/><br/>×<br/><br/>×<br/><br/>×"
+      }
+    ],
+    "optionsHtml": [
+      "10! - (8! <br/> 3!)",
+      "11! - (6! <br/> 4!)",
+      "10! - (8! <br/> 4!)",
+      "10! - (7! <br/> 3!)",
+      "11! - (8! <br/> 3!)<br/><br/><b>Level-2</b><br/><br/>×<br/><br/>×<br/><br/>×<br/><br/>×<br/><br/>×"
+    ],
+    "explanation": "Since, there are three vowels A, O and E in the\n\ngiven word.\n\nLet us count A, O and E together as a single\n\nletter.\n\nNumber of ways to arrange 8 letters S, M, R, T, P,\n\nH, N and AOE in 8 places = 8!\n\nNumber of ways to arrange 3 letters A, O and E\n\namong themselves = 3!\n\nTotal number of words, in which vowels always\n\ncome together = 8! \n 3!\n\nSince, total number of words, which can be\n\nformed by using the letters of the word\n\nSMARTPHONE = 10!\n\nSo, total number of words, in which vowels never\n\ncome together:\n\n10! - (8! \n 3!)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "How many 10-letter words can be formed by\n\nusing the letters of the word SMARTPHONE, so\n\nthat vowels never come together?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_29",
+    "question": "Teacher have five Maths books and four non-\n\nMaths books, he gave all books to one of the\n\nstudents. In how many ways student can be\n\narranged four Maths books and two non-Maths\n\nbooks on a shelf?",
+    "question_html": "Teacher have five Maths books and four non-<br/><br/>Maths books, he gave all books to one of the<br/><br/>students. In how many ways student can be<br/><br/>arranged four Maths books and two non-Maths<br/><br/>books on a shelf?<br/>",
+    "questionHtml": "Teacher have five Maths books and four non-<br/><br/>Maths books, he gave all books to one of the<br/><br/>students. In how many ways student can be<br/><br/>arranged four Maths books and two non-Maths<br/><br/>books on a shelf?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "20600",
+        "html": "20600"
+      },
+      {
+        "id": "B",
+        "text": "20800",
+        "html": "20800"
+      },
+      {
+        "id": "C",
+        "text": "21600",
+        "html": "21600"
+      },
+      {
+        "id": "D",
+        "text": "22000",
+        "html": "22000"
+      },
+      {
+        "id": "E",
+        "text": "23000",
+        "html": "23000<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "20600",
+      "20800",
+      "21600",
+      "22000",
+      "23000<br/><br/>"
+    ],
+    "explanation": "4 Maths books can be selected out of 5 in \n\nways\n\n2 non-Maths books can be selected out of 4 in\n\n ways. Number of ways of arranging Maths\n\nand non-Maths\n\nAfter selecting any 6 books (i.e. 4 Maths books\n\nand 2 non-Maths books) in one of the 30 ways,\n\nthey can be arranged on the shelf in 6! = 720\n\nways\n\nRequired arrangement = 720\n30 = 21600",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Teacher have five Maths books and four non-\n\nMaths books, he gave all books to one of the\n\nstudents. In how many ways student can be\n\narranged four Maths books and two non-Maths\n\nbooks on a shelf?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_30",
+    "question": "A test contains 8 easy level questions, 10\n\nmoderate level questions and 4 hard level\n\nquestions. In how many ways can a student\n\nattempt a total of 12 questions such that he\n\nattempts the same number of questions from\n\neach level?",
+    "question_html": "A test contains 8 easy level questions, 10<br/><br/>moderate level questions and 4 hard level<br/><br/>questions. In how many ways can a student<br/><br/>attempt a total of 12 questions such that he<br/><br/>attempts the same number of questions from<br/><br/>each level?<br/>",
+    "questionHtml": "A test contains 8 easy level questions, 10<br/><br/>moderate level questions and 4 hard level<br/><br/>questions. In how many ways can a student<br/><br/>attempt a total of 12 questions such that he<br/><br/>attempts the same number of questions from<br/><br/>each level?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8400",
+        "html": "8400"
+      },
+      {
+        "id": "B",
+        "text": "16800",
+        "html": "16800"
+      },
+      {
+        "id": "C",
+        "text": "2100",
+        "html": "2100"
+      },
+      {
+        "id": "D",
+        "text": "14700",
+        "html": "14700"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "8400",
+      "16800",
+      "2100",
+      "14700",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Since the student attempted a total of 12\n\nquestions (the same number of questions from\n\neach level). Which means he must attempt 4\n\nquestions from each section.\n\nHence, the required number of ways =\n\n= 70 \n 210\n 1\n\n= 14700",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A test contains 8 easy level questions, 10\n\nmoderate level questions and 4 hard level\n\nquestions. In how many ways can a student\n\nattempt a total of 12 questions such that he\n\nattempts the same number of questions from\n\neach level?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_31",
+    "question": "In an office 7 employees work in the content\n\ndepartment 4 of them are female and 3\n\nmales and in the IT department 7 employees\n\nwork in which 3 of them are female and 4 are\n\nmale. In how many ways can they invite 3\n\nfemales and 3 males for a dinner party so that\n\nthere are 3 of the content department and 3 of\n\nthe IT department?",
+    "question_html": "In an office 7 employees work in the content<br/><br/>department 4 of them are female and 3<br/><br/>males    and in the IT department 7 employees<br/><br/>work in which 3 of them are female and 4 are<br/><br/>male. In how many ways can they invite 3<br/><br/>females and 3 males for a dinner party so that<br/><br/>there are 3 of the content department and 3 of<br/><br/>the IT department?<br/>",
+    "questionHtml": "In an office 7 employees work in the content<br/><br/>department 4 of them are female and 3<br/><br/>males    and in the IT department 7 employees<br/><br/>work in which 3 of them are female and 4 are<br/><br/>male. In how many ways can they invite 3<br/><br/>females and 3 males for a dinner party so that<br/><br/>there are 3 of the content department and 3 of<br/><br/>the IT department?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "460",
+        "html": "460"
+      },
+      {
+        "id": "B",
+        "text": "480",
+        "html": "480"
+      },
+      {
+        "id": "C",
+        "text": "485",
+        "html": "485"
+      },
+      {
+        "id": "D",
+        "text": "495",
+        "html": "495"
+      },
+      {
+        "id": "E",
+        "text": "545",
+        "html": "545<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "460",
+      "480",
+      "485",
+      "495",
+      "545<br/><br/>"
+    ],
+    "explanation": "These four possibilities:\n\n(i) 3 females from the content department and\n\n3 males from IT department\n\nNo. of ways in this case\n\n= C \n C = 4 \n 4 = 16\n\n(ii) 3 males from the content department and 3\n\nfemales from IT department.\n\nNo. of ways in this case = C \n C = 1 \n 1 = 1\n\n(iii) 2 females and one males from the content\n\ndepartment and lady and 2 males from IT\n\ndepartment\n\nNo. of ways in this case\n\n= ( C \n C ) \n ( C \n C ) = 6 \n 3 \n 3 \n 6 =\n\n324\n\n(iv) One female and 2 males from the content\n\n8\n3 × 19\n2\n8\n4\n\n× 19\n1\n8\n5\n\n×\n×\n\nC3\n\n7\n\n×\n\n×\n\n5c4\n\n4c2\n\n= 5 × 6 = 30\n=5 C4 ×4 C2\n\n×\n\n×\n×\nc4\n\n8\nc4\n\n10\nc4\n\n4\n\n×\n×\n\n4\n3 × 4\n3\n×\n\n3\n3 × 3\n3\n×\n\n4\n4 × 3\n1 × 3\n1 × 4\n2\n×\n×\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In an office 7 employees work in the content\n\ndepartment 4 of them are female and 3\n\nmales and in the IT department 7 employees\n\nwork in which 3 of them are female and 4 are\n\nmale. In how many ways can they invite 3\n\nfemales and 3 males for a dinner party so that\n\nthere are 3 of the content department and 3 of\n\nthe IT department?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_32",
+    "question": "A company interviewed 6 candidates for HR\n\ndepartment and 4 candidates for marketing\n\ndepartment. In how many ways can 5\n\ncandidates be selected in the company, so that\n\nat most 2 of them are selected in marketing\n\ndepartment?",
+    "question_html": "A company interviewed 6 candidates for HR<br/><br/>department and 4 candidates for marketing<br/><br/>department. In how many ways can 5<br/><br/>candidates be selected in the company, so that<br/><br/>at most 2 of them are selected in marketing<br/><br/>department?<br/>",
+    "questionHtml": "A company interviewed 6 candidates for HR<br/><br/>department and 4 candidates for marketing<br/><br/>department. In how many ways can 5<br/><br/>candidates be selected in the company, so that<br/><br/>at most 2 of them are selected in marketing<br/><br/>department?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "240",
+        "html": "240"
+      },
+      {
+        "id": "B",
+        "text": "126",
+        "html": "126"
+      },
+      {
+        "id": "C",
+        "text": "480",
+        "html": "480"
+      },
+      {
+        "id": "D",
+        "text": "186",
+        "html": "186"
+      },
+      {
+        "id": "E",
+        "text": "236",
+        "html": "236<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "240",
+      "126",
+      "480",
+      "186",
+      "236<br/><br/>"
+    ],
+    "explanation": "Number of ways to select 3 candidates in HR\n\nand 2 candidates in marketing department:\n\nNumber of ways to select 4 candidates in HR\n\nand 1 candidate in marketing department:\n\nNumber of ways to select all the 5 candidates in\n\nHR department:\n\nRequired number of ways = 120 + 60 + 6 = 186",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A company interviewed 6 candidates for HR\n\ndepartment and 4 candidates for marketing\n\ndepartment. In how many ways can 5\n\ncandidates be selected in the company, so that\n\nat most 2 of them are selected in marketing\n\ndepartment?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_33",
+    "question": "How many 9-letter words can be formed with\n\nthe letters of the word CLASSROOM, so that all\n\nthe S come together at the start of the word\n\nand all the O come together at the end of the\n\nword?",
+    "question_html": "How many 9-letter words can be formed with<br/><br/>the letters of the word CLASSROOM, so that all<br/><br/>the S come together at the start of the word<br/><br/>and all the O come together at the end of the<br/><br/>word?<br/>",
+    "questionHtml": "How many 9-letter words can be formed with<br/><br/>the letters of the word CLASSROOM, so that all<br/><br/>the S come together at the start of the word<br/><br/>and all the O come together at the end of the<br/><br/>word?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "B",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "C",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "5040",
+        "html": "5040<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "720",
+      "24",
+      "120",
+      "5",
+      "5040<br/><br/>"
+    ],
+    "explanation": "Since, there are two S and two O in the given\n\nword.\n\nSo, positions of both the S and both O are\n\nfixed.\n\nSince, positions of both S and both O are fixed.\n\nSo, the number of ways to arrange the\n\nremaining 5 letters C, L, A, R and M in 5 places =\n\n5!\n\n= 5 \n 4 \n3\n 2 \n1\n\n= 120",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "How many 9-letter words can be formed with\n\nthe letters of the word CLASSROOM, so that all\n\nthe S come together at the start of the word\n\nand all the O come together at the end of the\n\nword?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_34",
+    "question": "In how many ways can the letters of the word\n\nPHYSICSWALLAH arranged with or without\n\nmeaning?",
+    "question_html": "In how many ways can the letters of the word<br/><br/>PHYSICSWALLAH arranged with or without<br/><br/>meaning?<br/>",
+    "questionHtml": "In how many ways can the letters of the word<br/><br/>PHYSICSWALLAH arranged with or without<br/><br/>meaning?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of letters in the word \n\nNumber of \n\nNumber of \n\nNumber of \n\nNumber of \n\nNumber of ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In how many ways can the letters of the word\n\nPHYSICSWALLAH arranged with or without\n\nmeaning?",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_35",
+    "question": "How many 9-letter words can be formed by\n\nusing the letters of the word COMMITTEE, so\n\nthat \nvowels \nalways \ncome \ntogether \nand\n\nconsonants always come together?",
+    "question_html": "How many 9-letter words can be formed by<br/><br/>using the letters of the word COMMITTEE, so<br/><br/>that <br/>vowels <br/>always <br/>come <br/>together <br/>and<br/><br/>consonants always come together?<br/>",
+    "questionHtml": "How many 9-letter words can be formed by<br/><br/>using the letters of the word COMMITTEE, so<br/><br/>that <br/>vowels <br/>always <br/>come <br/>together <br/>and<br/><br/>consonants always come together?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "540",
+        "html": "540"
+      },
+      {
+        "id": "B",
+        "text": "360",
+        "html": "360"
+      },
+      {
+        "id": "C",
+        "text": "720",
+        "html": "720"
+      },
+      {
+        "id": "D",
+        "text": "640",
+        "html": "640"
+      },
+      {
+        "id": "E",
+        "text": "480",
+        "html": "480<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "540",
+      "360",
+      "720",
+      "640",
+      "480<br/><br/>"
+    ],
+    "explanation": "Vowels O, I, E and E can be arranged together\n\namong themselves in 4! ways.\n\nConsonants C, M, M, T and T can be arranged\n\ntogether among themselves in 5! ways..\n\nSince, all the vowels together and all the\n\nconsonants together can be arranged in 2!\n\nWays.\n\nSo, total number of words, in which vowels\n\ncome together and consonants come together:\n\n = 4 \n 3 \n 5 \n 4 \n 3 = 720",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "How many 9-letter words can be formed by\n\nusing the letters of the word COMMITTEE, so\n\nthat \nvowels \nalways \ncome \ntogether \nand\n\nconsonants always come together?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_36",
+    "question": "How many garlands of 4 lily flowers and 8 rose\n\nflowers can be made such that lily flowers do\n\nnot come adjacent?",
+    "question_html": "How many garlands of 4 lily flowers and 8 rose<br/><br/>flowers can be made such that lily flowers do<br/><br/>not come adjacent?<br/>",
+    "questionHtml": "How many garlands of 4 lily flowers and 8 rose<br/><br/>flowers can be made such that lily flowers do<br/><br/>not come adjacent?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "First we will make a garland of 8 rose flowers\n\nand this can be done in (8 - 1)! = 7! Ways\n\nNow we are left with 8 spaces between rose\n\nflowers. We will choose 4 spaces out of\n\navailable 8 spaces and this can be done in \n\nways.\n\nFinally we can arrange those 4 lily flowers in 4!\n\nWays.\n\nHence, total ways =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "How many garlands of 4 lily flowers and 8 rose\n\nflowers can be made such that lily flowers do\n\nnot come adjacent?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_37",
+    "question": "In a bag contains 2 orange and 3 apples. If 2\n\nfruits are selected, in how many ways that can\n\nbe selected such that at least one apple?",
+    "question_html": "In a bag contains 2 orange and 3 apples. If 2<br/><br/>fruits are selected, in how many ways that can<br/><br/>be selected such that at least one apple?<br/>",
+    "questionHtml": "In a bag contains 2 orange and 3 apples. If 2<br/><br/>fruits are selected, in how many ways that can<br/><br/>be selected such that at least one apple?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "B",
+        "text": "9",
+        "html": "9"
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "D",
+        "text": "11\n\n13 !\n\n2 ! 2 ! 2 ! 2 !\n\n13 !\n\n2 ! 2 ! 2 !\n\n2 ! 2 ! 3 ! 2 !\n\n13 !\n\n2 ! 2 ! 2 ! 2 !\n\n12 !\n\n7! × 4!\n7! × C8\n\n4\n\n× 4!\nC8\n\n4\n\n7! × \n× 4!\nC8\n\n4",
+        "html": "11<br/><br/>13 !<br/><br/>2 ! 2 ! 2 ! 2 !<br/><br/>13 !<br/><br/>2 ! 2 ! 2 !<br/><br/>2 ! 2 ! 3 ! 2 !<br/><br/>13 !<br/><br/>2 ! 2 ! 2 ! 2 !<br/><br/>12 !<br/><br/>7! × 4!<br/>7! ×  C8<br/><br/>4<br/><br/>× 4!<br/>C8<br/><br/>4<br/><br/>7! ×  <br/>× 4!<br/>C8<br/><br/>4"
+      }
+    ],
+    "optionsHtml": [
+      "8",
+      "9",
+      "10",
+      "11<br/><br/>13 !<br/><br/>2 ! 2 ! 2 ! 2 !<br/><br/>13 !<br/><br/>2 ! 2 ! 2 !<br/><br/>2 ! 2 ! 3 ! 2 !<br/><br/>13 !<br/><br/>2 ! 2 ! 2 ! 2 !<br/><br/>12 !<br/><br/>7! × 4!<br/>7! ×  C8<br/><br/>4<br/><br/>× 4!<br/>C8<br/><br/>4<br/><br/>7! ×  <br/>× 4!<br/>C8<br/><br/>4"
+    ],
+    "explanation": "Total number of ways to select 2 fruits from the\n\nbag = C(5,2) = \n= 10\n\nNumber of ways to select 2 oranges from the\n\nbag = C(2,2) = 1\n\nNumber of ways to select 2 fruits with at least\n\none apple =\n\nTotal number of ways to select 2 fruits - Number\n\nof ways to select 2 oranges = 10 - 1 = 9",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In a bag contains 2 orange and 3 apples. If 2\n\nfruits are selected, in how many ways that can\n\nbe selected such that at least one apple?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_38",
+    "question": "Radha has 11 pairs of shoes and 7 pairs of socks.\n\nHow many ways can he wear these shoes and\n\nsocks (must taking similar pairs of each)",
+    "question_html": "Radha has 11 pairs of shoes and 7 pairs of socks.<br/><br/>How many ways can he wear these shoes and<br/><br/>socks (must taking similar pairs of each)<br/>",
+    "questionHtml": "Radha has 11 pairs of shoes and 7 pairs of socks.<br/><br/>How many ways can he wear these shoes and<br/><br/>socks (must taking similar pairs of each)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "B",
+        "text": "77",
+        "html": "77"
+      },
+      {
+        "id": "C",
+        "text": "22",
+        "html": "22"
+      },
+      {
+        "id": "D",
+        "text": "130",
+        "html": "130"
+      },
+      {
+        "id": "E",
+        "text": "150",
+        "html": "150<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "18",
+      "77",
+      "22",
+      "130",
+      "150<br/><br/>"
+    ],
+    "explanation": "Total number of ways",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Radha has 11 pairs of shoes and 7 pairs of socks.\n\nHow many ways can he wear these shoes and\n\nsocks (must taking similar pairs of each)",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_39",
+    "question": "Ritu is to answer 10 out of 13 questions in an\n\nexamination such that he must choose at least\n\n4 from the first five questions. The number of\n\nchoices available to him is",
+    "question_html": "Ritu is to answer 10 out of 13 questions in an<br/><br/>examination such that he must choose at least<br/><br/>4 from the first five questions. The number of<br/><br/>choices available to him is<br/>",
+    "questionHtml": "Ritu is to answer 10 out of 13 questions in an<br/><br/>examination such that he must choose at least<br/><br/>4 from the first five questions. The number of<br/><br/>choices available to him is<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "196",
+        "html": "196"
+      },
+      {
+        "id": "B",
+        "text": "296",
+        "html": "296"
+      },
+      {
+        "id": "C",
+        "text": "396",
+        "html": "396"
+      },
+      {
+        "id": "D",
+        "text": "293",
+        "html": "293"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "196",
+      "296",
+      "396",
+      "293",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "There are two cases\n\n1. When 4 is selected from the first 5 and rest 6\n\nfrom remaining 8\n\nTotal arrangement =\n\n= 5 \n\n= 5 \n 4 \n 7\n\n4\n1 × 3\n2 × 3\n2 × 4\n1\n×\n×\n×\n\n × \n = 20 × 6 = 120\nC6\n\n3\nC4\n\n2\n\n × \n = 15 × 4 = 60\nC6\n\n4\nC4\n\n1\n\n = 6\nC6\n\n5\n\n×\n× ×\n×\n\n= 13\n\nH = 2\nS = 2\nA = 2\nL = 2\n\n=\n13 !\n\n2 ! 2 ! 2 ! 2 !\n\n4! × 5! × 2!\n2! × 2! × 2!\n×\n×\n×\n×\n\nC8\n\n4\n\n7! × \n× 4!\nC8\n\n4\n\n5!\n\n3!2!\n\n= 11 × 7 = 77\n\n×\nc4\n\n5\nc6\n\n8\n\n× 8×7\n\n2×1\n\n×\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Ritu is to answer 10 out of 13 questions in an\n\nexamination such that he must choose at least\n\n4 from the first five questions. The number of\n\nchoices available to him is",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_40",
+    "question": "In a class with 3 boys and 2 girls, two students\n\nwere selected. In how many different ways can\n\nthey be selected such that at least one girl\n\nshould be there?",
+    "question_html": "In a class with 3 boys and 2 girls, two students<br/><br/>were selected. In how many different ways can<br/><br/>they be selected such that at least one girl<br/><br/>should be there?<br/>",
+    "questionHtml": "In a class with 3 boys and 2 girls, two students<br/><br/>were selected. In how many different ways can<br/><br/>they be selected such that at least one girl<br/><br/>should be there?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "B",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "C",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "D",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "optionsHtml": [
+      "5",
+      "7",
+      "8",
+      "6",
+      "None of these"
+    ],
+    "explanation": "Total number of ways to select 2 students =\n\nC(5,2) =\n= 10\n\nNumber of ways to select 2 boys = C(3,2) = 3\n\nNumber of ways to select 2 students with at\n\nleast 1 girl = Total\n\nnumber of ways to select 2 students - Number\n\nof ways to select 2 boys = 10 - 3 = 7\n\nTherefore, there are 7 different ways to select 2\n\nstudents from the class such that at least one\n\ngirl is selected.\n\n×\nc5\n\n5\nc5\n\n8\n\n8×7×6\n3×2×1\n\n×\n\n5!\n\n(2!3!)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "In a class with 3 boys and 2 girls, two students\n\nwere selected. In how many different ways can\n\nthey be selected such that at least one girl\n\nshould be there?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_41",
+    "question": "In a game of archery, A is given 4 chances, B is\n\ngiven 2 chances and C is given 3 chances to hit\n\nthe bull’s eye. In how many ways, can each of\n\nthem hit the bull’s eye 2 times?",
+    "question_html": "In a game of archery, A is given 4 chances, B is<br/><br/>given 2 chances and C is given 3 chances to hit<br/><br/>the bull’s eye. In how many ways, can each of<br/><br/>them hit the bull’s eye 2 times?<br/>",
+    "questionHtml": "In a game of archery, A is given 4 chances, B is<br/><br/>given 2 chances and C is given 3 chances to hit<br/><br/>the bull’s eye. In how many ways, can each of<br/><br/>them hit the bull’s eye 2 times?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "B",
+        "text": "48",
+        "html": "48"
+      },
+      {
+        "id": "C",
+        "text": "32",
+        "html": "32"
+      },
+      {
+        "id": "D",
+        "text": "36",
+        "html": "36"
+      },
+      {
+        "id": "E",
+        "text": "20",
+        "html": "20<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "18",
+      "48",
+      "32",
+      "36",
+      "20<br/><br/>"
+    ],
+    "explanation": "Required number of ways:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In a game of archery, A is given 4 chances, B is\n\ngiven 2 chances and C is given 3 chances to hit\n\nthe bull’s eye. In how many ways, can each of\n\nthem hit the bull’s eye 2 times?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_42",
+    "question": "There are 10 boys and 8 girls out of which a\n\nteam of 8 players to be selected. In how many\n\nways can a team be selected if at least 4 girls\n\nand 2 boys should be in the team?",
+    "question_html": "There are 10 boys and 8 girls out of which a<br/><br/>team of 8 players to be selected. In how many<br/><br/>ways can a team be selected if at least 4 girls<br/><br/>and 2 boys should be in the team?<br/>",
+    "questionHtml": "There are 10 boys and 8 girls out of which a<br/><br/>team of 8 players to be selected. In how many<br/><br/>ways can a team be selected if at least 4 girls<br/><br/>and 2 boys should be in the team?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "21840",
+        "html": "21840"
+      },
+      {
+        "id": "B",
+        "text": "22680",
+        "html": "22680"
+      },
+      {
+        "id": "C",
+        "text": "21420",
+        "html": "21420"
+      },
+      {
+        "id": "D",
+        "text": "22480",
+        "html": "22480"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "21840",
+      "22680",
+      "21420",
+      "22480",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Case 1: Selecting exactly 4 girls and 4 boys\n\nThe total number of ways for this case is C(8, 4)\n\n C(10, 4) = 70 \n 210 = 14,700.\n\nCase\n\n2: Selecting exactly 5 girls and 3 boys\n\nThe total number of ways for this case is C(8, 5) \n\n C(10, 3) = 56 \n 120 = 6,720.\n\nCase\n\n3: Selecting exactly 6 girls and 2 boys:\n\nThe total number of ways for this case is C(8, 6) \n\n C(10, 2) = 28 \n 45 = 1,260.\n\nTherefore,\n\nTotal number of ways = 14700 + 6720 + 1260 =\n\n22680",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "There are 10 boys and 8 girls out of which a\n\nteam of 8 players to be selected. In how many\n\nways can a team be selected if at least 4 girls\n\nand 2 boys should be in the team?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_43",
+    "question": "In a group of 4 boys and 3 girls, three children\n\nare to be selected. In how many different ways\n\ncan they be selected such that at least one\n\nboy should be there?",
+    "question_html": "In a group of 4 boys and 3 girls, three children<br/><br/>are to be selected. In how many different ways<br/><br/>can they be selected such that at least one<br/><br/>boy should be there?<br/>",
+    "questionHtml": "In a group of 4 boys and 3 girls, three children<br/><br/>are to be selected. In how many different ways<br/><br/>can they be selected such that at least one<br/><br/>boy should be there?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "B",
+        "text": "56",
+        "html": "56"
+      },
+      {
+        "id": "C",
+        "text": "34",
+        "html": "34"
+      },
+      {
+        "id": "D",
+        "text": "28",
+        "html": "28<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "60",
+      "56",
+      "34",
+      "28<br/><br/>"
+    ],
+    "explanation": "Total number of ways to select 3 children from\n\nthe group = C(7,3) = \n= 35\n\nNumber of ways to select 3 girls from the group\n\n= C(3,3) = 1\n\nNumber of ways to select 3 children with at\n\nleast one boy = Total number of ways to select\n\n3 children - Number of ways to select 3 girls = 35\n\n- 1 = 34\n\nTherefore, there are 34 different ways to select\n\nthree children from a group of 4 boys and 3 girls\n\nsuch that at least one boy is selected.\n\nHence, 34 is the right answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In a group of 4 boys and 3 girls, three children\n\nare to be selected. In how many different ways\n\ncan they be selected such that at least one\n\nboy should be there?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_44",
+    "question": "In a group of 7 boys and 9 girls, 5 members are\n\nto be selected. In how many different ways can\n\nthey be selected such that at least one boy\n\nshould be there?",
+    "question_html": "In a group of 7 boys and 9 girls, 5 members are<br/><br/>to be selected. In how many different ways can<br/><br/>they be selected such that at least one boy<br/><br/>should be there?<br/>",
+    "questionHtml": "In a group of 7 boys and 9 girls, 5 members are<br/><br/>to be selected. In how many different ways can<br/><br/>they be selected such that at least one boy<br/><br/>should be there?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2450",
+        "html": "2450"
+      },
+      {
+        "id": "B",
+        "text": "4242",
+        "html": "4242"
+      },
+      {
+        "id": "C",
+        "text": "1840",
+        "html": "1840"
+      },
+      {
+        "id": "D",
+        "text": "4280",
+        "html": "4280"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2450",
+      "4242",
+      "1840",
+      "4280",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Total number of ways to select 5 members from\n\nthe group = C(16,5) = \n = 4368\n\nNumber of ways to select 5 girls from the group\n\n= C(9,5) = \n= 126\n\nNumber of ways to select 5 members with at\n\nleast one boy = Total number of ways to select\n\n5 members - Number of ways to select 5 girls =\n\n4368 - 126 = 4242",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In a group of 7 boys and 9 girls, 5 members are\n\nto be selected. In how many different ways can\n\nthey be selected such that at least one boy\n\nshould be there?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_45",
+    "question": "In a hall, 4 persons can speak only Hindi, 6 can\n\nspeak only English and 5 can speak both Hindi\n\nand English. In how many ways 3 persons can\n\nbe shortlisted who can speak Hindi?",
+    "question_html": "In a hall, 4 persons can speak only Hindi, 6 can<br/><br/>speak only English and 5 can speak both Hindi<br/><br/>and English. In how many ways 3 persons can<br/><br/>be shortlisted who can speak Hindi?<br/>",
+    "questionHtml": "In a hall, 4 persons can speak only Hindi, 6 can<br/><br/>speak only English and 5 can speak both Hindi<br/><br/>and English. In how many ways 3 persons can<br/><br/>be shortlisted who can speak Hindi?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "90",
+        "html": "90"
+      },
+      {
+        "id": "B",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "C",
+        "text": "84",
+        "html": "84"
+      },
+      {
+        "id": "D",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "E",
+        "text": "108",
+        "html": "108<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "90",
+      "72",
+      "84",
+      "120",
+      "108<br/><br/>"
+    ],
+    "explanation": "Total persons who can speak Hindi = Total\n\nperson who can speak only Hindi + Total\n\npersons who can speak both Hindi and English\n\n= 4 + 5 = 9\n\nRequired number of ways = \n\n= 84",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In a hall, 4 persons can speak only Hindi, 6 can\n\nspeak only English and 5 can speak both Hindi\n\nand English. In how many ways 3 persons can\n\nbe shortlisted who can speak Hindi?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_46",
+    "question": "In a meeting, everyone has shaken hands with\n\neveryone, it was found that 120 handshakes\n\nwere exchanged. How many members were\n\npresenting in the meeting?",
+    "question_html": "In a meeting, everyone has shaken hands with<br/><br/>everyone, it was found that 120 handshakes<br/><br/>were exchanged. How many members were<br/><br/>presenting in the meeting?<br/>",
+    "questionHtml": "In a meeting, everyone has shaken hands with<br/><br/>everyone, it was found that 120 handshakes<br/><br/>were exchanged. How many members were<br/><br/>presenting in the meeting?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "14",
+        "html": "14"
+      },
+      {
+        "id": "B",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "17",
+        "html": "17"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Number of handshaken = C = \n = 120\n\n= n(n-1) = 240\n\n= n – n – 240 = 0\n\n= n – 16n + 15n – 240 = 0\n\n= n(n – 16) + 15(n – 16) = 0\n\n= (n – 16) (n + 15) =0\n\nn = 16, -15\n\nNumber of people in meeting = 16",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In a meeting, everyone has shaken hands with\n\neveryone, it was found that 120 handshakes\n\nwere exchanged. How many members were\n\npresenting in the meeting?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_47",
+    "question": "There are fifteen boxes numbered 1, 2, 3 … up to",
+    "question_html": "There are fifteen boxes numbered 1, 2, 3 … up to<br/><br/>",
+    "questionHtml": "There are fifteen boxes numbered 1, 2, 3 … up to<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Case (i): if only one box contains Mangoes, then\n\nit can be one of the 15 boxes, so it can be done\n\nin 15 ways.\n\nCase (ii): if only 2 boxes contain Mangoes,\n\nThen, boxes which can have Mangoes will be, (1,\n\n3) or (2, 4) or (3, 5) or… (13, 15)\n\n= 13 ways.\n\nCase (iii): if only 3 boxes contain Mangoes,\n\nThen, boxes which can have Mangoes will be, (1,\n\n3, 5) or (2, 4, 6) or (3, 5, 7) or … (11, 13, 15)\n\n= 11 ways\n\nCase (iv): if only 4 boxes contain Mangoes,\n\nThen, boxes which can have Mangoes will be, (1,\n\n3, 5, 7) or (2, 4, 6, 8), or … (9, 11, 13, 15)\n\n= 9 ways\n\nCase (v): if only 5 boxes contain Mangoes,\n\n ×\n×\nC4\n\n2\nC2\n\n2\nC3\n\n2\n\n= 6 × 1 × 3\n= 18\n\n×\n×\n\n×\n×\n\n×\n×\n\n7!\n\n(4!3!)\n\n16!\n\n11!5!\n\n9!\n\n4!5!\n\nC9\n\n3\n\n=\n9!\n\n3! (9 − 3)!\n\n= 9 × 8 × 7 × 6!\n\n3 × 2 × 1 × 6!\n\n= 9 × 8 × 7\n\n3 × 2\n\nn\n2\n\nn(n−1)\n\n2\n\n2\n\n2\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "There are fifteen boxes numbered 1, 2, 3 … up to",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_48",
+    "question": "Each box is to be filled with either apples or\n\nmangoes such that at least one box contains\n\nmangoes and the boxes containing mangoes\n\nare alternatively numbered. Find the number of\n\nways in which this can be done?",
+    "question_html": "Each box is to be filled with either apples or<br/><br/>mangoes such that at least one box contains<br/><br/>mangoes and the boxes containing mangoes<br/><br/>are alternatively numbered. Find the number of<br/><br/>ways in which this can be done?<br/>",
+    "questionHtml": "Each box is to be filled with either apples or<br/><br/>mangoes such that at least one box contains<br/><br/>mangoes and the boxes containing mangoes<br/><br/>are alternatively numbered. Find the number of<br/><br/>ways in which this can be done?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "B",
+        "text": "33",
+        "html": "33"
+      },
+      {
+        "id": "C",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "D",
+        "text": "78",
+        "html": "78"
+      },
+      {
+        "id": "E",
+        "text": "52",
+        "html": "52<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "12",
+      "33",
+      "64",
+      "78",
+      "52<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "15",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Each box is to be filled with either apples or\n\nmangoes such that at least one box contains\n\nmangoes and the boxes containing mangoes\n\nare alternatively numbered. Find the number of\n\nways in which this can be done?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_49",
+    "question": "The bank manager forms a secret 2 – digit\n\ncode from the numbers 0 -9. But he set code as\n\nthe first digit will not be 0 and the second\n\nnumber will not be even number. Then what are\n\nthe possible ways to set the code?",
+    "question_html": "The bank manager forms a secret 2 – digit<br/><br/>code from the numbers 0 -9. But he set code as<br/><br/>the first digit will not be 0 and the second<br/><br/>number will not be even number. Then what are<br/><br/>the possible ways to set the code?<br/>",
+    "questionHtml": "The bank manager forms a secret 2 – digit<br/><br/>code from the numbers 0 -9. But he set code as<br/><br/>the first digit will not be 0 and the second<br/><br/>number will not be even number. Then what are<br/><br/>the possible ways to set the code?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "54",
+        "html": "54"
+      },
+      {
+        "id": "B",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "C",
+        "text": "64",
+        "html": "64"
+      },
+      {
+        "id": "D",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "54",
+      "55",
+      "64",
+      "45",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Since the bank manager has set the condition\n\nthat the first digit cannot be 0, there are 9\n\npossible choices for the first digit (1, 2, 3, 4, 5, 6,\n\n7, 8, 9).\n\nSince the second digit cannot be an even\n\nnumber, there are 5 possible choices for the\n\nsecond digit (1, 3, 5, 7, 9).\n\nTherefore, there are 9 \n 5 = 45 possible ways to\n\nset the code according to the given conditions.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The bank manager forms a secret 2 – digit\n\ncode from the numbers 0 -9. But he set code as\n\nthe first digit will not be 0 and the second\n\nnumber will not be even number. Then what are\n\nthe possible ways to set the code?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_50",
+    "question": "Number of ways to form a committee of 4\n\nmembers from 6 males and X females, in such a\n\nway that the number of males is always more\n\nthan that of females and there is at least 1\n\nfemale, is 80. Find the value of X.",
+    "question_html": "Number of ways to form a committee of 4<br/><br/>members from 6 males and X females, in such a<br/><br/>way that the number of males is always more<br/><br/>than that of females and there is at least 1<br/><br/>female, is 80. Find the value of X.<br/>",
+    "questionHtml": "Number of ways to form a committee of 4<br/><br/>members from 6 males and X females, in such a<br/><br/>way that the number of males is always more<br/><br/>than that of females and there is at least 1<br/><br/>female, is 80. Find the value of X.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "E",
+        "text": "3",
+        "html": "3<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6",
+      "5",
+      "2",
+      "4",
+      "3<br/><br/>"
+    ],
+    "explanation": "Since, number of males is always more than\n\nthat of females and there is at least 1 female.\n\nSo, number of ways to select 3 males and 1\n\nfemale: \n\n20 \n X = 80\n\nX = 4",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Number of ways to form a committee of 4\n\nmembers from 6 males and X females, in such a\n\nway that the number of males is always more\n\nthan that of females and there is at least 1\n\nfemale, is 80. Find the value of X.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "permutation_combination_chapter_wise_dpp_english_51",
+    "question": "In how many ways can a person go from Kanpur\n\nto Bangalore via Delhi or direct if there are 5\n\npossible ways from Kanpur to Delhi and 8\n\npossible ways from Delhi to Bangalore and 10\n\ndirect ways from Kanpur to Bangalore?",
+    "question_html": "In how many ways can a person go from Kanpur<br/><br/>to Bangalore via Delhi or direct if there are 5<br/><br/>possible ways from Kanpur to Delhi and 8<br/><br/>possible ways from Delhi to Bangalore and 10<br/><br/>direct ways from Kanpur to Bangalore?<br/>",
+    "questionHtml": "In how many ways can a person go from Kanpur<br/><br/>to Bangalore via Delhi or direct if there are 5<br/><br/>possible ways from Kanpur to Delhi and 8<br/><br/>possible ways from Delhi to Bangalore and 10<br/><br/>direct ways from Kanpur to Bangalore?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "B",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "C",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "D",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "E",
+        "text": "75\n\nLevel-3",
+        "html": "75<br/><br/><b>Level-3</b>"
+      }
+    ],
+    "optionsHtml": [
+      "50",
+      "60",
+      "40",
+      "45",
+      "75<br/><br/><b>Level-3</b>"
+    ],
+    "explanation": "Total number of ways to reach Bangalore from\n\nKanpur = Total number of ways to reach Delhi\n\nfrom Kanpur × Total number of ways to reach\n\nBangalore from Delhi + Total number of ways to\n\nreach Bangalore directly from Kanpur\n\n= 5 \n 8 + 10\n\n= 40 + 10\n\n= 50\n\n×\n\n×\n= 80\nc3\n\n6\nc1\n\nx\n\n × \n = 80\n6!\n\n3! × 3!\n\nX!\n\n1! × (X − 1)!\n\n×\n\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "permutation",
+      "combination",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [
+      {
+        "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Permutation & Combination  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Permutation & Combination  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "In how many ways can a person go from Kanpur\n\nto Bangalore via Delhi or direct if there are 5\n\npossible ways from Kanpur to Delhi and 8\n\npossible ways from Delhi to Bangalore and 10\n\ndirect ways from Kanpur to Bangalore?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "permutation",
+        "combination",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    },
+    "image_ref": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Permutation & Combination  Chapter wise DPP (English)\\Permutation & Combination  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/permutation_combination_chapter_wise_dpp_english/Permutation & Combination  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

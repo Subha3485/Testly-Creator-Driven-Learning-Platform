@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { api } from "../lib/api";
 
 const PRACTICE_TOPICS = [
   { id: "532-inequality-coded-inequality-for-mains-chapter-wise-dpp-english", name: "Inequality (Coded) for Mains", questions: 112 },
@@ -41,6 +42,59 @@ const PRACTICE_TOPICS = [
   { id: "triangular-arrangements-chapter-wise-dpp-english", name: "Triangular Arrangements", questions: 31 }
 ];
 
+function SubjectSets({ selectedSubject, onStartTopic }) {
+  const [sets, setSets] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    let mounted = true;
+    async function load() {
+      setLoading(true);
+      try {
+        const res = await api.getBankingPracticeSets();
+        if (!mounted) return;
+        setSets(Array.isArray(res.sets) ? res.sets : res.sets || []);
+      } catch (err) {
+        setSets([]);
+      } finally {
+        if (mounted) setLoading(false);
+      }
+    }
+
+    load();
+    return () => { mounted = false; };
+  }, [selectedSubject]);
+
+  if (loading) {
+    return <div style={{ marginTop: 16 }}>Loading sets…</div>;
+  }
+
+  if (!sets || sets.length === 0) {
+    return (
+      <div className="banking-runner__empty" style={{ marginTop: 16 }}>
+        <div className="card" style={{ padding: 24 }}>
+          <h3>{selectedSubject} sets are not available yet</h3>
+          <p>You're viewing the {selectedSubject} subject. No practice sets have been added for this subject yet. You can continue to use Reasoning practice sets while we add English and Quant content.</p>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="grid cards" style={{ marginTop: 16, gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))' }}>
+      {sets.map((s) => (
+        <article key={s.id} className="card" style={{ cursor: 'pointer', transition: 'all 0.2s' }}>
+          <div className="label" style={{ fontSize: '0.9em' }}>{s.topic}</div>
+          <p style={{ marginTop: 8, fontSize: '0.85em', color: '#666' }}>{s.questionCount} questions</p>
+          <button className="primary" type="button" onClick={() => onStartTopic(s)} style={{ marginTop: 'auto' }}>
+            Start Practice
+          </button>
+        </article>
+      ))}
+    </div>
+  );
+}
+
 export default function HomePage() {
   const [selectedSubject, setSelectedSubject] = useState("Reasoning");
 
@@ -52,7 +106,8 @@ export default function HomePage() {
 
   const handleTopicClick = (topic) => {
     // Open the actual practice page for the selected topic
-    window.location.assign(`/banking/practice/run/test?topic=${encodeURIComponent(topic.name)}&mode=practice`);
+    const topicName = typeof topic === "string" ? topic : topic.name || topic.topic;
+    window.location.assign(`/banking/practice/run/test?topic=${encodeURIComponent(topicName)}&mode=practice`);
   };
 
   const handleSelectSubject = (key) => {
@@ -102,12 +157,7 @@ export default function HomePage() {
             ))}
           </div>
         ) : (
-          <div className="banking-runner__empty" style={{ marginTop: 16 }}>
-            <div className="card" style={{ padding: 24 }}>
-              <h3>{selectedSubject} sets are not available yet</h3>
-              <p>You're viewing the {selectedSubject} subject. No practice sets have been added for this subject yet. You can continue to use Reasoning practice sets while we add English and Quant content.</p>
-            </div>
-          </div>
+          <SubjectSets selectedSubject={selectedSubject} onStartTopic={handleTopicClick} />
         )}
       </section>
     </div>

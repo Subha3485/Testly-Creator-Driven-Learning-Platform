@@ -1,0 +1,4599 @@
+[
+  {
+    "id": "average_chapter_wise_dpp_english_1",
+    "question": "Average of present ages of A and B is 21 years\n\nwhere A is 8 years younger to B. Find the\n\npresent age of A.",
+    "question_html": "Average of present ages of A and B is 21 years<br/><br/>where A is 8 years younger to B. Find the<br/><br/>present age of A.<br/>",
+    "questionHtml": "Average of present ages of A and B is 21 years<br/><br/>where A is 8 years younger to B. Find the<br/><br/>present age of A.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "19 years",
+        "html": "19 years"
+      },
+      {
+        "id": "B",
+        "text": "17 years",
+        "html": "17 years"
+      },
+      {
+        "id": "C",
+        "text": "16 years",
+        "html": "16 years"
+      },
+      {
+        "id": "D",
+        "text": "15 years",
+        "html": "15 years"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "19 years",
+      "17 years",
+      "16 years",
+      "15 years",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Average of present ages of A and B = 21 years\n\nThe sum of present ages of A and B = 21 \n 2 =\n\n42 years\n\nPresent age of B - Present age of A = 8 years\n\nPresent age of A = \n\n= 17 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Average of present ages of A and B is 21 years\n\nwhere A is 8 years younger to B. Find the\n\npresent age of A.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_2",
+    "question": "A, B, C and D are four consecutive odd numbers\n\nand their average is 64. What is the product of\n\nA and D?",
+    "question_html": "A, B, C and D are four consecutive odd numbers<br/><br/>and their average is 64. What is the product of<br/><br/>A and D?<br/>",
+    "questionHtml": "A, B, C and D are four consecutive odd numbers<br/><br/>and their average is 64. What is the product of<br/><br/>A and D?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4082",
+        "html": "4082"
+      },
+      {
+        "id": "B",
+        "text": "4002",
+        "html": "4002"
+      },
+      {
+        "id": "C",
+        "text": "4087",
+        "html": "4087"
+      },
+      {
+        "id": "D",
+        "text": "3968",
+        "html": "3968"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4082",
+      "4002",
+      "4087",
+      "3968",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let (X = A) be an Odd integer\n\nThen average = \n\nOr x = 61 = A and x + 6 = 67 = D\n\nSo, Product of A and D = 61 \n 67 = 4087",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A, B, C and D are four consecutive odd numbers\n\nand their average is 64. What is the product of\n\nA and D?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_3",
+    "question": "If the average of runs scored by a cricket player\n\nin 8 innings was 35, how many runs must he\n\nscore in his next innings to increase his average\n\nruns by 4?",
+    "question_html": "If the average of runs scored by a cricket player<br/><br/>in 8 innings was 35, how many runs must he<br/><br/>score in his next innings to increase his average<br/><br/>runs by 4?<br/>",
+    "questionHtml": "If the average of runs scored by a cricket player<br/><br/>in 8 innings was 35, how many runs must he<br/><br/>score in his next innings to increase his average<br/><br/>runs by 4?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "58 runs",
+        "html": "58 runs"
+      },
+      {
+        "id": "B",
+        "text": "69 runs",
+        "html": "69 runs"
+      },
+      {
+        "id": "C",
+        "text": "75 runs",
+        "html": "75 runs"
+      },
+      {
+        "id": "D",
+        "text": "71 runs",
+        "html": "71 runs"
+      },
+      {
+        "id": "E",
+        "text": "80 runs",
+        "html": "80 runs<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "58 runs",
+      "69 runs",
+      "75 runs",
+      "71 runs",
+      "80 runs<br/><br/>"
+    ],
+    "explanation": "Average = \n = 35\n\nSo, total = Average \n no.of innings = 35 x 8 =\n\n280.\n\nNow increase in avg = 4 runs. So, new avg = 35 +\n\n4 = 39 runs\n\nTotal runs = new avg x new no. of innings = 39 \n\n9 = 351\n\nRuns made in the 9th inning = 351 – 280 = 71\n\nruns\n\n∴ The answer is 71 runs.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "If the average of runs scored by a cricket player\n\nin 8 innings was 35, how many runs must he\n\nscore in his next innings to increase his average\n\nruns by 4?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_4",
+    "question": "Average of three numbers A, B, and C is 28 and\n\naverage becomes 30 when value of D is also\n\nadded. If average of A and B is 34, find the\n\naverage of C and D.",
+    "question_html": "Average of three numbers A, B, and C is 28 and<br/><br/>average becomes 30 when value of D is also<br/><br/>added. If average of A and B is 34, find the<br/><br/>average of C and D.<br/>",
+    "questionHtml": "Average of three numbers A, B, and C is 28 and<br/><br/>average becomes 30 when value of D is also<br/><br/>added. If average of A and B is 34, find the<br/><br/>average of C and D.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "B",
+        "text": "28",
+        "html": "28"
+      },
+      {
+        "id": "C",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "D",
+        "text": "26",
+        "html": "26"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24",
+      "28",
+      "30",
+      "26",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Sum of A, B, and C = 28 \n 3 = 84\n\nSum of A, B, C, and D = 30 \n 4 = 120\n\nValue of D = 120 - 84 = 36\n\nSum of A and B = 34 \n 2 = 68\n\nValue of C = 84 - 68 = 16\n\nSum of C and D = 36 + 16 = 52\n\nRequired average = \n\n= 26",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Average of three numbers A, B, and C is 28 and\n\naverage becomes 30 when value of D is also\n\nadded. If average of A and B is 34, find the\n\naverage of C and D.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_5",
+    "question": "Average marks obtained by A, B and C in a\n\nPhysics is 67 and average marks obtained by B,\n\nC and D in same subject is 73. If the sum of\n\nmarks obtained by A and D is 158, then how\n\nmany marks obtained by A?",
+    "question_html": "Average marks obtained by A, B and C in a<br/><br/>Physics is 67 and average marks obtained by B,<br/><br/>C and D in same subject is 73. If the sum of<br/><br/>marks obtained by A and D is 158, then how<br/><br/>many marks obtained by A?<br/>",
+    "questionHtml": "Average marks obtained by A, B and C in a<br/><br/>Physics is 67 and average marks obtained by B,<br/><br/>C and D in same subject is 73. If the sum of<br/><br/>marks obtained by A and D is 158, then how<br/><br/>many marks obtained by A?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "76",
+        "html": "76"
+      },
+      {
+        "id": "B",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "70",
+        "html": "70"
+      },
+      {
+        "id": "E",
+        "text": "74",
+        "html": "74<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "76",
+      "72",
+      "60",
+      "70",
+      "74<br/><br/>"
+    ],
+    "explanation": "Here, A + B + C = 3 \n 67 = 201\n\nB + C + D = 3 \n 73 = 219\n\nD - A = 219 - 201 = 18 => D = A + 18\n\nA + D = 158 => D = 158 - A\n\nThen, 158 - A = A + 18\n\nA = 70",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Average marks obtained by A, B and C in a\n\nPhysics is 67 and average marks obtained by B,\n\nC and D in same subject is 73. If the sum of\n\nmarks obtained by A and D is 158, then how\n\nmany marks obtained by A?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_6",
+    "question": "A batsman makes a score of 92 runs in the 19th\n\ninning and thus increases his average by 2. Find\n\nhis average after 19th inning?",
+    "question_html": "A batsman makes a score of 92 runs in the 19th<br/><br/>inning and thus increases his average by 2. Find<br/><br/>his average after 19th inning?<br/>",
+    "questionHtml": "A batsman makes a score of 92 runs in the 19th<br/><br/>inning and thus increases his average by 2. Find<br/><br/>his average after 19th inning?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "54",
+        "html": "54"
+      },
+      {
+        "id": "B",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "C",
+        "text": "56",
+        "html": "56"
+      },
+      {
+        "id": "D",
+        "text": "57",
+        "html": "57"
+      },
+      {
+        "id": "E",
+        "text": "59",
+        "html": "59<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "59<br/><br/>"
+    ],
+    "explanation": "Let the average after 19th inning = x\n\nThen average after 18th inning = x –2\n\n18(x–2)+92 = 19x\n\n18x – 36 + 92 = 19x\n\nx = 92 – 36 = 56\n\n∴ The answer is 56.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A batsman makes a score of 92 runs in the 19th\n\ninning and thus increases his average by 2. Find\n\nhis average after 19th inning?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_7",
+    "question": "Meena buys 4 sarees at an average cost of\n\nRs.1200 from a shop, If she buys 2 more sarees\n\nat an average cost of Rs.1500 from the same\n\nshop, what will be the average of all the sarees\n\nshe buys in total?",
+    "question_html": "<b>Meena buys 4 sarees at an average cost of</b><br/><br/><b>Rs.1200 from a shop, If she buys 2 more sarees</b><br/><br/><b>at an average cost of Rs.1500 from the same</b><br/><br/><b>shop, what will be the average of all the sarees</b><br/><br/><b>she buys in total?</b><br/>",
+    "questionHtml": "<b>Meena buys 4 sarees at an average cost of</b><br/><br/><b>Rs.1200 from a shop, If she buys 2 more sarees</b><br/><br/><b>at an average cost of Rs.1500 from the same</b><br/><br/><b>shop, what will be the average of all the sarees</b><br/><br/><b>she buys in total?</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1300",
+        "html": "1300"
+      },
+      {
+        "id": "B",
+        "text": "2000",
+        "html": "2000"
+      },
+      {
+        "id": "C",
+        "text": "1400",
+        "html": "1400"
+      },
+      {
+        "id": "D",
+        "text": "1500",
+        "html": "1500"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1300",
+      "2000",
+      "1400",
+      "1500",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Cost of 4 sarees = Rs 1200\n\nCost of 2 sarees = Rs 1500\n\nBy rule allegation;\n\nAverage \nof \nall \nthe \nsarees, \nX",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Meena buys 4 sarees at an average cost of\n\nRs.1200 from a shop, If she buys 2 more sarees\n\nat an average cost of Rs.1500 from the same\n\nshop, what will be the average of all the sarees\n\nshe buys in total?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_8",
+    "question": "The average weight of a class of 22 students is\n\n40 kg. When the weight of the teacher is also\n\nincluded, the average weight increases by 750\n\ngm. What is the weight of the teacher?",
+    "question_html": "The average weight of a class of 22 students is<br/><br/>40 kg. When the weight of the teacher is also<br/><br/>included, the average weight increases by 750<br/><br/>gm. What is the weight of the teacher?<br/>",
+    "questionHtml": "The average weight of a class of 22 students is<br/><br/>40 kg. When the weight of the teacher is also<br/><br/>included, the average weight increases by 750<br/><br/>gm. What is the weight of the teacher?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "62.25 kg",
+        "html": "62.25 kg"
+      },
+      {
+        "id": "B",
+        "text": "57.25 kg",
+        "html": "57.25 kg"
+      },
+      {
+        "id": "C",
+        "text": "65.65 kg",
+        "html": "65.65 kg"
+      },
+      {
+        "id": "D",
+        "text": "75.75 kg",
+        "html": "75.75 kg"
+      },
+      {
+        "id": "E",
+        "text": "64.50 kg",
+        "html": "64.50 kg<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "62.25 kg",
+      "57.25 kg",
+      "65.65 kg",
+      "75.75 kg",
+      "64.50 kg<br/><br/>"
+    ],
+    "explanation": "The total weight of 22 students = \n = 880\n\nkg\n\nNew average weight = 40 + 0.75 = 40.75 kg\n\nTotal weight of 22 students and teacher\n\ntogether = 23 \n 40.75 = 937.25\n\nWeight of teacher = 937.25 – 880 = 57.25 kg",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The average weight of a class of 22 students is\n\n40 kg. When the weight of the teacher is also\n\nincluded, the average weight increases by 750\n\ngm. What is the weight of the teacher?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_9",
+    "question": "The average of 20 numbers is M. If one number\n\nwhich is 80% of M is removed and another\n\nnumber which is 50% more than M added then\n\nwhat is the new average?",
+    "question_html": "The average of 20 numbers is M. If one number<br/><br/>which is 80% of M is removed and another<br/><br/>number which is 50% more than M added then<br/><br/>what is the new average?<br/>",
+    "questionHtml": "The average of 20 numbers is M. If one number<br/><br/>which is 80% of M is removed and another<br/><br/>number which is 50% more than M added then<br/><br/>what is the new average?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.015 M",
+        "html": "1.015 M"
+      },
+      {
+        "id": "B",
+        "text": "1.115 M",
+        "html": "1.115 M"
+      },
+      {
+        "id": "C",
+        "text": "0.835 M",
+        "html": "0.835 M"
+      },
+      {
+        "id": "D",
+        "text": "1.035 M",
+        "html": "1.035 M"
+      },
+      {
+        "id": "E",
+        "text": "1.235 M",
+        "html": "1.235 M<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1.015 M",
+      "1.115 M",
+      "0.835 M",
+      "1.035 M",
+      "1.235 M<br/><br/>"
+    ],
+    "explanation": "Total sum = 20M\n\nNew total = 20M – 80% of M + 150% of M\n\n=20M + 70% of M\n\n=20M + 0.7M\n\n=20.7 M\n\nNew average =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The average of 20 numbers is M. If one number\n\nwhich is 80% of M is removed and another\n\nnumber which is 50% more than M added then\n\nwhat is the new average?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_10",
+    "question": "In a class the average of total students is 70.\n\nThe average of boys in the class is 80 and the\n\naverage of girls in the same class is 50. Find the\n\nratio of the boys and girls in the class.",
+    "question_html": "In a class the average of total students is 70.<br/><br/>The average of boys in the class is 80 and the<br/><br/>average of girls in the same class is 50. Find the<br/><br/>ratio of the boys and girls in the class.<br/>",
+    "questionHtml": "In a class the average of total students is 70.<br/><br/>The average of boys in the class is 80 and the<br/><br/>average of girls in the same class is 50. Find the<br/><br/>ratio of the boys and girls in the class.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1:3",
+        "html": "1:3"
+      },
+      {
+        "id": "B",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "C",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "D",
+        "text": "4:5",
+        "html": "4:5"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\nProblems on Average\n\nLevel-1",
+        "html": "None of these<br/><br/><b>Problems on Average</b><br/><br/><b>Level-1</b>"
+      }
+    ],
+    "optionsHtml": [
+      "1:3",
+      "2:3",
+      "2:1",
+      "4:5",
+      "None of these<br/><br/><b>Problems on Average</b><br/><br/><b>Level-1</b>"
+    ],
+    "explanation": "×\n\n42 − 8\n\n2\n\n= 64\nx+x+2+x+4+x+6\n\n4\n\n×\n\nTotal runs\n\nno. of innings\n\n×\n\n×\n\n×\n\n×\n\n×\n\n52\n\n2\n\n×\n\n×\n\n=\n\n (1200×4)+(1500×2)\n\n4+2\n\n=\n= 1300\n7800\n\n6\n\n40 × 22\n\n×\n\n= 1. 035M\n20.7M\n\n20\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "In a class the average of total students is 70.\n\nThe average of boys in the class is 80 and the\n\naverage of girls in the same class is 50. Find the\n\nratio of the boys and girls in the class.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_11",
+    "question": "The bowling average of a player in one match\n\nis 5 and again the bowling average of the same\n\nplayer in another match is 8. If the total bowling\n\naverage of both the matches is 6, then find the\n\nratio of the wickets he takes in both matches.",
+    "question_html": "The bowling average of a player in one match<br/><br/>is 5 and again the bowling average of the same<br/><br/>player in another match is 8. If the total bowling<br/><br/>average of both the matches is 6, then find the<br/><br/>ratio of the wickets he takes in both matches.<br/>",
+    "questionHtml": "The bowling average of a player in one match<br/><br/>is 5 and again the bowling average of the same<br/><br/>player in another match is 8. If the total bowling<br/><br/>average of both the matches is 6, then find the<br/><br/>ratio of the wickets he takes in both matches.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "B",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "C",
+        "text": "4:5",
+        "html": "4:5"
+      },
+      {
+        "id": "D",
+        "text": "5:4",
+        "html": "5:4"
+      },
+      {
+        "id": "E",
+        "text": "3:7",
+        "html": "3:7<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2:1",
+      "1:2",
+      "4:5",
+      "5:4",
+      "3:7<br/><br/>"
+    ],
+    "explanation": "By rule of allegation;\n\nRatio of wickets he takes in both the matches",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The bowling average of a player in one match\n\nis 5 and again the bowling average of the same\n\nplayer in another match is 8. If the total bowling\n\naverage of both the matches is 6, then find the\n\nratio of the wickets he takes in both matches.",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_12",
+    "question": "The average mark of a group of students is 48.\n\nOut of these, 3 students with marks 43, 68, and\n\n51 are removed and a new student with a score\n\nof 84 is added to the list. If the number of\n\nstudents in the group was 8, then find the\n\npercentage increase in the average marks with\n\nrespect to the initial average.",
+    "question_html": "The average mark of a group of students is 48.<br/><br/>Out of these, 3 students with marks 43, 68, and<br/><br/>51 are removed and a new student with a score<br/><br/>of 84 is added to the list. If the number of<br/><br/>students in the group was 8, then find the<br/><br/>percentage increase in the average marks with<br/><br/>respect to the initial average.<br/>",
+    "questionHtml": "The average mark of a group of students is 48.<br/><br/>Out of these, 3 students with marks 43, 68, and<br/><br/>51 are removed and a new student with a score<br/><br/>of 84 is added to the list. If the number of<br/><br/>students in the group was 8, then find the<br/><br/>percentage increase in the average marks with<br/><br/>respect to the initial average.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6.25%",
+        "html": "6.25%"
+      },
+      {
+        "id": "B",
+        "text": "5.75%",
+        "html": "5.75%"
+      },
+      {
+        "id": "C",
+        "text": "8.25%",
+        "html": "8.25%"
+      },
+      {
+        "id": "D",
+        "text": "6.75%",
+        "html": "6.75%"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6.25%",
+      "5.75%",
+      "8.25%",
+      "6.75%",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the sum of the marks of the unchanged 5\n\nstudents from the initial tally be equal to ‘x’,\n\nsuch that,\n\n = 48 (Given)\n\nThen,\n\nx = 384 – (43 + 68 + 51) = 384 – 162 = 222\n\nWith the addition of a new students marks,\n\nSum of marks of 6 students becomes = x + 84 =\n\n222 + 84 = 306\n\nNew average = \n = 51\n\n= \n = 6.25%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The average mark of a group of students is 48.\n\nOut of these, 3 students with marks 43, 68, and\n\n51 are removed and a new student with a score\n\nof 84 is added to the list. If the number of\n\nstudents in the group was 8, then find the\n\npercentage increase in the average marks with\n\nrespect to the initial average.",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_13",
+    "question": "If the average of a set of 35 numbers is initially\n\ncalculated as 170, but it is discovered that one\n\nof the numbers (65) was recorded incorrectly as\n\n95, what is the revised average (approx.) of the\n\nset?",
+    "question_html": "If the average of a set of 35 numbers is initially<br/><br/>calculated as 170, but it is discovered that one<br/><br/>of the numbers (65) was recorded incorrectly as<br/><br/>95, what is the revised average (approx.) of the<br/><br/>set?<br/>",
+    "questionHtml": "If the average of a set of 35 numbers is initially<br/><br/>calculated as 170, but it is discovered that one<br/><br/>of the numbers (65) was recorded incorrectly as<br/><br/>95, what is the revised average (approx.) of the<br/><br/>set?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "180",
+        "html": "180"
+      },
+      {
+        "id": "B",
+        "text": "175",
+        "html": "175"
+      },
+      {
+        "id": "C",
+        "text": "172",
+        "html": "172"
+      },
+      {
+        "id": "D",
+        "text": "170",
+        "html": "170"
+      },
+      {
+        "id": "E",
+        "text": "169",
+        "html": "169<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "180",
+      "175",
+      "172",
+      "170",
+      "169<br/><br/>"
+    ],
+    "explanation": "Given:\n\nThe average of 35 data is 170\n\n65 is wrongly written as 95\n\nCalculation:\n\nThe total sum of all 35 number = 170 × 35 = 5950\n\nNow, 65 is wrongly written as 95\n\nThe correct sum of data = 5950 – (95 – 65) =\n\n5920\n\nThen, Correct average of the data = \n ≈ 169\n\n∴ The correct average is approx. 169\n\nShortcut trick\n\nDifference between wrong and actual numbers\n\n= 95 – 65 = 30\n\nAs the actual number is less than the wrong\n\nnumber\n\nSo the average decreased by \n = \n\nThe correct average = 170 – \n = \n\n∴ The correct average is 169 approx.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "If the average of a set of 35 numbers is initially\n\ncalculated as 170, but it is discovered that one\n\nof the numbers (65) was recorded incorrectly as\n\n95, what is the revised average (approx.) of the\n\nset?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_14",
+    "question": "The average temperature for Monday, Tuesday,\n\nWednesday and Thursday was 25 degrees and\n\nfor Tuesday, Wednesday, Thursday and Friday\n\nwas 22 degrees. If the temperature on Monday\n\nwas 20 degrees. Find the temperature on\n\nFriday?",
+    "question_html": "The average temperature for Monday, Tuesday,<br/><br/>Wednesday and Thursday was 25 degrees and<br/><br/>for Tuesday, Wednesday, Thursday and Friday<br/><br/>was 22 degrees. If the temperature on Monday<br/><br/>was 20 degrees. Find the temperature on<br/><br/>Friday?<br/>",
+    "questionHtml": "The average temperature for Monday, Tuesday,<br/><br/>Wednesday and Thursday was 25 degrees and<br/><br/>for Tuesday, Wednesday, Thursday and Friday<br/><br/>was 22 degrees. If the temperature on Monday<br/><br/>was 20 degrees. Find the temperature on<br/><br/>Friday?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "html": "8"
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "html": "3"
+      },
+      {
+        "id": "D",
+        "text": "7",
+        "html": "7"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "5",
+      "8",
+      "3",
+      "7",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Sum of temperature on monday, tuesday,\n\nwednesday, \nthursday \n=\n\nSum of temperature on tuesday, wednesday,\n\nthursday, friday\n\nMonday’s temperature\n\nTherefore \n; \nFriday \ntemperature\n\nOption '8 degree' is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The average temperature for Monday, Tuesday,\n\nWednesday and Thursday was 25 degrees and\n\nfor Tuesday, Wednesday, Thursday and Friday\n\nwas 22 degrees. If the temperature on Monday\n\nwas 20 degrees. Find the temperature on\n\nFriday?",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_15",
+    "question": "Average temperature of cities A and B is x ℃,\n\nthat of cities B and C is (x - 2)℃ and that of\n\ncities C and D is (x - 4)℃. If the temperature of\n\ncity D is 4℃ more than that of city A, then find\n\nthe temperature of city D?",
+    "question_html": "Average temperature of cities A and B is x ℃,<br/><br/>that of cities B and C is (x - 2)℃ and that of<br/><br/>cities C and D is (x - 4)℃. If the temperature of<br/><br/>city D is 4℃ more than that of city A, then find<br/><br/>the temperature of city D?<br/>",
+    "questionHtml": "Average temperature of cities A and B is x ℃,<br/><br/>that of cities B and C is (x - 2)℃ and that of<br/><br/>cities C and D is (x - 4)℃. If the temperature of<br/><br/>city D is 4℃ more than that of city A, then find<br/><br/>the temperature of city D?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x - 2)℃",
+        "html": "(x - 2)℃"
+      },
+      {
+        "id": "B",
+        "text": "2x℃",
+        "html": "2x℃"
+      },
+      {
+        "id": "C",
+        "text": "(x + 1)℃",
+        "html": "(x + 1)℃"
+      },
+      {
+        "id": "D",
+        "text": "x℃",
+        "html": "x℃"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(x - 2)℃",
+      "2x℃",
+      "(x + 1)℃",
+      "x℃",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "A + B = 2x ----------(1)\n\nB + C = 2(x - 2) ----------(2)\n\nC + D = 2(x - 4) ----------(3)\n\nBy equation (2) - equation (3):\n\nB - D = 2x - 4 - 2x + 8\n\nB - D = 4 ----------(4)\n\nFrom equations (1) and (4):\n\nA + D = 2x - 4 ----------(5)\n\nSince, the temperature of city D is 4 ℃ more\n\nthan that of city A.\n\nSo,\n\nD - A = 4 ----------(6)\n\nBy equations (5) + (6):\n\n2D = 2x\n\nD = x℃",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Average temperature of cities A and B is x ℃,\n\nthat of cities B and C is (x - 2)℃ and that of\n\ncities C and D is (x - 4)℃. If the temperature of\n\ncity D is 4℃ more than that of city A, then find\n\nthe temperature of city D?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_16",
+    "question": "There are _____ boys in the class. The average\n\nweight of the first 30 boys in the class is ______\n\nkg. The total weight of all the students in the\n\nclass is 2850kg and the weight of other ____\n\nboys is 1110kg.\n\nIf 50 and 20 is the value of the first and third\n\nblank respectively then find the suitable value\n\nin the second blank?",
+    "question_html": "There are _____ boys in the class. The average<br/><br/>weight of the first 30 boys in the class is ______<br/><br/>kg. The total weight of all the students in the<br/><br/>class is 2850kg and the weight of other ____<br/><br/>boys is 1110kg.<br/><br/>If 50 and 20 is the value of the first and third<br/><br/>blank respectively then find the suitable value<br/><br/>in the second blank?<br/>",
+    "questionHtml": "There are _____ boys in the class. The average<br/><br/>weight of the first 30 boys in the class is ______<br/><br/>kg. The total weight of all the students in the<br/><br/>class is 2850kg and the weight of other ____<br/><br/>boys is 1110kg.<br/><br/>If 50 and 20 is the value of the first and third<br/><br/>blank respectively then find the suitable value<br/><br/>in the second blank?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "58",
+        "html": "58"
+      },
+      {
+        "id": "B",
+        "text": "52",
+        "html": "52"
+      },
+      {
+        "id": "C",
+        "text": "54",
+        "html": "54"
+      },
+      {
+        "id": "D",
+        "text": "56",
+        "html": "56"
+      },
+      {
+        "id": "E",
+        "text": "60",
+        "html": "60<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "58",
+      "52",
+      "54",
+      "56",
+      "60<br/><br/>"
+    ],
+    "explanation": "Total weight of all the students in the class =\n\n2850kg\n\nWeight of 20 boys in the class = 1110 kg\n\nAverage weight of first 30 boys = \n =\n\n58 kg.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "There are _____ boys in the class. The average\n\nweight of the first 30 boys in the class is ______\n\nkg. The total weight of all the students in the\n\nclass is 2850kg and the weight of other ____\n\nboys is 1110kg.\n\nIf 50 and 20 is the value of the first and third\n\nblank respectively then find the suitable value\n\nin the second blank?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_17",
+    "question": "Directions: The average age of 5 members is 21\n\nyears. If the age of the youngest member is 5\n\nyears, find the average age of the family at the\n\nbirth of the youngest member.",
+    "question_html": "<b>Directions: The average age of 5 members is 21</b><br/><br/><b>years. If the age of the youngest member is 5</b><br/><br/><b>years, find the average age of the family at the</b><br/><br/><b>birth of the youngest member.</b><br/>",
+    "questionHtml": "<b>Directions: The average age of 5 members is 21</b><br/><br/><b>years. If the age of the youngest member is 5</b><br/><br/><b>years, find the average age of the family at the</b><br/><br/><b>birth of the youngest member.</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "C",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "D",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "20",
+      "18",
+      "30",
+      "25",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Ans: 20\n\nAverage = Sum of the ages / No. of member\n\nSum of 5 members = \n\nNew sum of the family at the birth of youngest\n\nmember:\n\n= 20 : 10 = 2 : 1\n\n= 2 : 1\n\nx + 43 + 68 + 51\n\n8\n\n306\n\n6\n\n× 100\n51−48\n\n48\n\n5920\n\n35\n\n30\n45\n\n2\n3\n\n2\n3\n\n508\n\n3\n\n25 × 4 = 100 degrees\n\n= 22 × 4 = 88 degrees\n\n = 20 degree\n\n= 88 −(100 −20) = 8 degree\n\n[2850−1110]\n\n30\n\n21 × 5 = 105",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: The average age of 5 members is 21\n\nyears. If the age of the youngest member is 5\n\nyears, find the average age of the family at the\n\nbirth of the youngest member.",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_18",
+    "question": "In a class of 120 students, the average weight\n\nof the class is 40 kg. If the average weight of\n\nthe girls is 20 kg and that of the boys in the\n\nclass is 60 kg, then what is the number of girls in\n\nthe class.",
+    "question_html": "In a class of 120 students, the average weight<br/><br/>of the class is 40 kg. If the average weight of<br/><br/>the girls is 20 kg and that of the boys in the<br/><br/>class is 60 kg, then what is the number of girls in<br/><br/>the class.<br/>",
+    "questionHtml": "In a class of 120 students, the average weight<br/><br/>of the class is 40 kg. If the average weight of<br/><br/>the girls is 20 kg and that of the boys in the<br/><br/>class is 60 kg, then what is the number of girls in<br/><br/>the class.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "B",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "50",
+      "40",
+      "60",
+      "80",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "By rule of allegation;\n\nGirls :Boys ratio\n\nHence, number of girls\n\nHence the answer is 60.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In a class of 120 students, the average weight\n\nof the class is 40 kg. If the average weight of\n\nthe girls is 20 kg and that of the boys in the\n\nclass is 60 kg, then what is the number of girls in\n\nthe class.",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_19",
+    "question": "The average weight of a class of 25 girls is 50\n\nkg. It was later found that the weight of two\n\ngirls was read as 48 kg and 42 kg instead of 42\n\nkg and 43 kg. Find the actual average weight of\n\nthe class.",
+    "question_html": "The average weight of a class of 25 girls is 50<br/><br/>kg. It was later found that the weight of two<br/><br/>girls was read as 48 kg and 42 kg instead of 42<br/><br/>kg and 43 kg. Find the actual average weight of<br/><br/>the class.<br/>",
+    "questionHtml": "The average weight of a class of 25 girls is 50<br/><br/>kg. It was later found that the weight of two<br/><br/>girls was read as 48 kg and 42 kg instead of 42<br/><br/>kg and 43 kg. Find the actual average weight of<br/><br/>the class.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "47.50",
+        "html": "47.50"
+      },
+      {
+        "id": "B",
+        "text": "58.50",
+        "html": "58.50"
+      },
+      {
+        "id": "C",
+        "text": "52.70",
+        "html": "52.70"
+      },
+      {
+        "id": "D",
+        "text": "49.80",
+        "html": "49.80"
+      },
+      {
+        "id": "E",
+        "text": "50.40",
+        "html": "50.40<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "47.50",
+      "58.50",
+      "52.70",
+      "49.80",
+      "50.40<br/><br/>"
+    ],
+    "explanation": "Required average = 50 - \n\n = 50 - 0.2\n\n = 49.80",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The average weight of a class of 25 girls is 50\n\nkg. It was later found that the weight of two\n\ngirls was read as 48 kg and 42 kg instead of 42\n\nkg and 43 kg. Find the actual average weight of\n\nthe class.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_20",
+    "question": "In a class, a student's score was erroneously\n\nrecorded as 75 instead of 55, resulting in a half (\n\n ) point increase in the average score for the\n\n1\n2",
+    "question_html": "In a class, a student&#x27;s score was erroneously<br/><br/>recorded as 75 instead of 55, resulting in a half (<br/><br/> ) point increase in the average score for the<br/><br/>1<br/>2",
+    "questionHtml": "In a class, a student&#x27;s score was erroneously<br/><br/>recorded as 75 instead of 55, resulting in a half (<br/><br/> ) point increase in the average score for the<br/><br/>1<br/>2",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let there be x students in the class.\n\nTotal increase in marks = \n\n = (75 – 55)\n\n=> \n = 20\n\n=> x = 40\n\n= 20\n100\n\n5\n\n = 20 : 20 = 1 : 1\n\n = \n× 120 = 60\n1\n2\n\n{(48+42)−(43+42)}\n\n25\n\n(x ×\n) =\n1\n2\n\nx\n\n2\n\nx\n\n2\n\nx\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In a class, a student's score was erroneously\n\nrecorded as 75 instead of 55, resulting in a half (\n\n ) point increase in the average score for the\n\n1\n2",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_21",
+    "question": "The average of 28 numbers is 172. Later it is\n\nrealized that by mistake 3 numbers are taken as\n\n230, 190, 25 instead of 190, 160, and 140\n\nrespectively. Find the actual average.",
+    "question_html": "The average of 28 numbers is 172. Later it is<br/><br/>realized that by mistake 3 numbers are taken as<br/><br/>230, 190, 25 instead of 190, 160, and 140<br/><br/>respectively. Find the actual average.<br/>",
+    "questionHtml": "The average of 28 numbers is 172. Later it is<br/><br/>realized that by mistake 3 numbers are taken as<br/><br/>230, 190, 25 instead of 190, 160, and 140<br/><br/>respectively. Find the actual average.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "167.4",
+        "html": "167.4"
+      },
+      {
+        "id": "B",
+        "text": "175.3",
+        "html": "175.3"
+      },
+      {
+        "id": "C",
+        "text": "173.6",
+        "html": "173.6"
+      },
+      {
+        "id": "D",
+        "text": "176.6",
+        "html": "176.6"
+      },
+      {
+        "id": "E",
+        "text": "160.5",
+        "html": "160.5<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "167.4",
+      "175.3",
+      "173.6",
+      "176.6",
+      "160.5<br/><br/>"
+    ],
+    "explanation": "Difference between correct and incorrect\n\nnumbers = (190+ 160 + 140) – (230 + 190 + 25)\n\n⇒490 – 445 = 45\n\nFor incorrect averages, as per the formula,\n\nIncorrect sum of numbers = 172 \n 28 = 4816\n\nBecause the difference between correct and\n\nincorrect numbers is positive we need to add it\n\nto the incorrect sum of numbers to obtain the\n\ncorrect sum.\n\nCorrect sum = 4816 + difference\n\n⇒4816 + 45\n\n⇒4861\n\nAs per the formula, we get:\n\nRequired average = \n = 173.6\n\n∴ The correct or actual average of numbers is\n\n173.6.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The average of 28 numbers is 172. Later it is\n\nrealized that by mistake 3 numbers are taken as\n\n230, 190, 25 instead of 190, 160, and 140\n\nrespectively. Find the actual average.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_22",
+    "question": "20 students appear in a test. Average of marks\n\nobtained in the test by them is 78. If due to\n\ntyping mistake, the marks of one student was\n\nprinted 36 instead of 63 then what is the correct\n\naverage of the marks obtained by them?",
+    "question_html": "20 students appear in a test. Average of marks<br/><br/>obtained in the test by them is 78. If due to<br/><br/>typing mistake, the marks of one student was<br/><br/>printed 36 instead of 63 then what is the correct<br/><br/>average of the marks obtained by them?<br/>",
+    "questionHtml": "20 students appear in a test. Average of marks<br/><br/>obtained in the test by them is 78. If due to<br/><br/>typing mistake, the marks of one student was<br/><br/>printed 36 instead of 63 then what is the correct<br/><br/>average of the marks obtained by them?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "83",
+        "html": "83"
+      },
+      {
+        "id": "B",
+        "text": "79.35",
+        "html": "79.35"
+      },
+      {
+        "id": "C",
+        "text": "75.2",
+        "html": "75.2"
+      },
+      {
+        "id": "D",
+        "text": "80.22",
+        "html": "80.22"
+      },
+      {
+        "id": "E",
+        "text": "none of these",
+        "html": "none of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "83",
+      "79.35",
+      "75.2",
+      "80.22",
+      "none of these<br/><br/>"
+    ],
+    "explanation": "Total marks obtained by the 20 students\n\nCorrect \ntotal \nmarks \nwill \nbe\n\nCorrect average is",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "20 students appear in a test. Average of marks\n\nobtained in the test by them is 78. If due to\n\ntyping mistake, the marks of one student was\n\nprinted 36 instead of 63 then what is the correct\n\naverage of the marks obtained by them?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_23",
+    "question": "A cricketer has played 'a' matches and scored\n\naverage of 'b' runs. If the cricketer plays 'c' more\n\nmatches and scores average of 'd' runs in those\n\nmatches, what will be the cricketer's average\n\nruns per match?",
+    "question_html": "A cricketer has played &#x27;a&#x27; matches and scored<br/><br/>average of &#x27;b&#x27; runs. If the cricketer plays &#x27;c&#x27; more<br/><br/>matches and scores average of &#x27;d&#x27; runs in those<br/><br/>matches, what will be the cricketer&#x27;s average<br/><br/>runs per match?<br/>",
+    "questionHtml": "A cricketer has played &#x27;a&#x27; matches and scored<br/><br/>average of &#x27;b&#x27; runs. If the cricketer plays &#x27;c&#x27; more<br/><br/>matches and scores average of &#x27;d&#x27; runs in those<br/><br/>matches, what will be the cricketer&#x27;s average<br/><br/>runs per match?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "",
+        "html": ""
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      ""
+    ],
+    "explanation": "Total runs scored by cricketer in ‘a’ matches =\n\nab\n\nTotal runs scored by cricketer in ‘c’ matches = cd\n\nTotal matches played = (a + c)\n\nTotal runs scored in (a + c) matches = ab + cd\n\nRequired average =",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A cricketer has played 'a' matches and scored\n\naverage of 'b' runs. If the cricketer plays 'c' more\n\nmatches and scores average of 'd' runs in those\n\nmatches, what will be the cricketer's average\n\nruns per match?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_24",
+    "question": "Anuj purchased 5 books at an average price of\n\n₹2x, 3 books at an average price of ₹3x and 7\n\nbooks at an average price of ₹(2x - 15). If he\n\npaid a total average price of ₹26, then find the\n\ntotal price he paid for 7 books?",
+    "question_html": "Anuj purchased 5 books at an average price of<br/><br/>₹2x, 3 books at an average price of ₹3x and 7<br/><br/>books at an average price of ₹(2x - 15). If he<br/><br/>paid a total average price of ₹26, then find the<br/><br/>total price he paid for 7 books?<br/>",
+    "questionHtml": "Anuj purchased 5 books at an average price of<br/><br/>₹2x, 3 books at an average price of ₹3x and 7<br/><br/>books at an average price of ₹(2x - 15). If he<br/><br/>paid a total average price of ₹26, then find the<br/><br/>total price he paid for 7 books?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs.115",
+        "html": "Rs.115"
+      },
+      {
+        "id": "B",
+        "text": "Rs.55",
+        "html": "Rs.55"
+      },
+      {
+        "id": "C",
+        "text": "Rs.35",
+        "html": "Rs.35"
+      },
+      {
+        "id": "D",
+        "text": "Rs.125",
+        "html": "Rs.125"
+      },
+      {
+        "id": "E",
+        "text": "Rs.105",
+        "html": "Rs.105<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs.115",
+      "Rs.55",
+      "Rs.35",
+      "Rs.125",
+      "Rs.105<br/><br/>"
+    ],
+    "explanation": "Total number of books purchased by Anuj = 5 +\n\n3 + 7 = 15\n\nTotal price paid by Anuj = 15 \n 26 = ₹390\n\nSo,\n\n[5 \n 2x] + [3 \n 3x] + [7 \n (2x - 15)] = 390\n\n10x + 9x + 14x - 105 = 390\n\nx = 15\n\nTotal price paid for 7 books = 7 \n (2 \n15 - 15) =\n\n₹105\n\n∴ Hence the answer is ₹105",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Anuj purchased 5 books at an average price of\n\n₹2x, 3 books at an average price of ₹3x and 7\n\nbooks at an average price of ₹(2x - 15). If he\n\npaid a total average price of ₹26, then find the\n\ntotal price he paid for 7 books?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_25",
+    "question": "A person buys 5 books in total from a shop but\n\nin two go. In the first go he buys 3 books at an\n\naverage cost price of Rs. 300 and in the second\n\ngo he buys the remaining books at an average\n\ncost price of Rs.800. Find the average cost\n\nprice of all the books he buys from the shop.",
+    "question_html": "A person buys 5 books in total from a shop but<br/><br/>in two go. In the first go he buys 3 books at an<br/><br/>average cost price of Rs. 300 and in the second<br/><br/>go he buys the remaining books at an average<br/><br/>cost price of Rs.800. Find the average cost<br/><br/>price of all the books he buys from the shop.<br/>",
+    "questionHtml": "A person buys 5 books in total from a shop but<br/><br/>in two go. In the first go he buys 3 books at an<br/><br/>average cost price of Rs. 300 and in the second<br/><br/>go he buys the remaining books at an average<br/><br/>cost price of Rs.800. Find the average cost<br/><br/>price of all the books he buys from the shop.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "400",
+        "html": "400"
+      },
+      {
+        "id": "B",
+        "text": "300",
+        "html": "300"
+      },
+      {
+        "id": "C",
+        "text": "500",
+        "html": "500"
+      },
+      {
+        "id": "D",
+        "text": "700",
+        "html": "700"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "400",
+      "300",
+      "500",
+      "700",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "By rule of allegation;\n\nAverage \ncost \nof \nall \nthe \nbook, \nX\n\n∴ Hence the answer is 500.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A person buys 5 books in total from a shop but\n\nin two go. In the first go he buys 3 books at an\n\naverage cost price of Rs. 300 and in the second\n\ngo he buys the remaining books at an average\n\ncost price of Rs.800. Find the average cost\n\nprice of all the books he buys from the shop.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_26",
+    "question": "There is a group of three person A, B and C. The\n\nratio between ages of A and B is 7: 8 and that\n\nof between B and C is 4 : 5. If the average age\n\nof all three is 50 years, then what was the ratio\n\nbetween ages of A and C before 12 years?",
+    "question_html": "There is a group of three person A, B and C. The<br/><br/>ratio between ages of A and B is 7: 8 and that<br/><br/>of between B and C is 4 : 5. If the average age<br/><br/>of all three is 50 years, then what was the ratio<br/><br/>between ages of A and C before 12 years?<br/>",
+    "questionHtml": "There is a group of three person A, B and C. The<br/><br/>ratio between ages of A and B is 7: 8 and that<br/><br/>of between B and C is 4 : 5. If the average age<br/><br/>of all three is 50 years, then what was the ratio<br/><br/>between ages of A and C before 12 years?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4: 7",
+        "html": "4: 7"
+      },
+      {
+        "id": "B",
+        "text": "5: 8",
+        "html": "5: 8"
+      },
+      {
+        "id": "C",
+        "text": "10: 17",
+        "html": "10: 17"
+      },
+      {
+        "id": "D",
+        "text": "8: 15",
+        "html": "8: 15"
+      },
+      {
+        "id": "E",
+        "text": "6: 11",
+        "html": "6: 11<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4: 7",
+      "5: 8",
+      "10: 17",
+      "8: 15",
+      "6: 11<br/><br/>"
+    ],
+    "explanation": "A:B = 7:8\n\nB:C = 4: 5\n\nA:B: C = 7:8:10\n\nLet their ages be 7k, 8k and 10k\n\nAverage age = \n\nPresent age of A = 7k = 7 \n 6 = 42 years\n\nPresent age of C =10k = 10 \n 6 = 60 years.\n\n12 years ago age of A = 42\n12 = 30 years\n\n12 years ago age of C = 60\n12 = 48 years.\n\nRequired ratio = 30: 48 = 5: 8",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "There is a group of three person A, B and C. The\n\nratio between ages of A and B is 7: 8 and that\n\nof between B and C is 4 : 5. If the average age\n\nof all three is 50 years, then what was the ratio\n\nbetween ages of A and C before 12 years?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_27",
+    "question": "A father has invested the same amount in two\n\nschemes, in one scheme he gets a total 5% as\n\ninterest and in the other scheme he gets a\n\ntotal of 7% as interest. Find the average\n\ninterest rate he gets from his total investment.",
+    "question_html": "<b>A father has invested the same amount in two</b><br/><br/><b>schemes, in one scheme he gets a total 5% as</b><br/><br/><b>interest and in the other scheme he gets a</b><br/><br/><b>total of 7% as interest. Find the average</b><br/><br/><b>interest rate he gets from his total investment.</b><br/>",
+    "questionHtml": "<b>A father has invested the same amount in two</b><br/><br/><b>schemes, in one scheme he gets a total 5% as</b><br/><br/><b>interest and in the other scheme he gets a</b><br/><br/><b>total of 7% as interest. Find the average</b><br/><br/><b>interest rate he gets from his total investment.</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "html": "6"
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "html": "4"
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "html": "2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6",
+      "5",
+      "4",
+      "2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "In both schemes he invested the same amount.\n\nIn one scheme = 5%\n\nIn other scheme = 7%\n\nRequired average\n\n= \n\n= \n = 6%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A father has invested the same amount in two\n\nschemes, in one scheme he gets a total 5% as\n\ninterest and in the other scheme he gets a\n\ntotal of 7% as interest. Find the average\n\ninterest rate he gets from his total investment.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_28",
+    "question": "A College has raised 75% of the amount it\n\nneeds for a new building by receiving an\n\naverage donation of Rs.2400 from the parents\n\nof the students. The people already solicited\n\nrepresent the parents of 60% of the students. If\n\nthe college is to raise exactly the amount\n\nneeded for the new building, what should be\n\nthe average donation from the remaining\n\nstudents to be solicited? (in Rs.)",
+    "question_html": "A College has raised 75% of the amount it<br/><br/>needs for a new building by receiving an<br/><br/>average donation of Rs.2400 from the parents<br/><br/>of the students. The people already solicited<br/><br/>represent the parents of 60% of the students. If<br/><br/>the college is to raise exactly the amount<br/><br/>needed for the new building, what should be<br/><br/>the average donation from the remaining<br/><br/>students to be solicited? (in Rs.)<br/>",
+    "questionHtml": "A College has raised 75% of the amount it<br/><br/>needs for a new building by receiving an<br/><br/>average donation of Rs.2400 from the parents<br/><br/>of the students. The people already solicited<br/><br/>represent the parents of 60% of the students. If<br/><br/>the college is to raise exactly the amount<br/><br/>needed for the new building, what should be<br/><br/>the average donation from the remaining<br/><br/>students to be solicited? (in Rs.)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "400",
+        "html": "400"
+      },
+      {
+        "id": "B",
+        "text": "600",
+        "html": "600"
+      },
+      {
+        "id": "C",
+        "text": "1200",
+        "html": "1200"
+      },
+      {
+        "id": "D",
+        "text": "800",
+        "html": "800"
+      },
+      {
+        "id": "E",
+        "text": "1000",
+        "html": "1000<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "400",
+      "600",
+      "1200",
+      "800",
+      "1000<br/><br/>"
+    ],
+    "explanation": "Let, the No. of parents be “X” who has been\n\nasked for the donations.\n\n×\n\n4861\n\n28\n\n= 78 × 20 = 1560\n\n= 1560 −36 + 63 = 1587\n\n=\n= 79.35\n1587\n\n20\n\nab + cd\n\na + c\n\n×\n\n×\n×\n×\n\n×\n×\n\n=\n= 500\n\n(300×3)+(800×2)\n\n5\n\n=\n=\n(7k+8k+10k)\n\n3\n\n25k\n\n3\n\n= 50\n25k\n\n3\n\n k = 6\n\n×\n\n×\n\n−\n\n−\n\n(5×1)+(7×1)\n\n1+1\n\n12\n\n2\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A College has raised 75% of the amount it\n\nneeds for a new building by receiving an\n\naverage donation of Rs.2400 from the parents\n\nof the students. The people already solicited\n\nrepresent the parents of 60% of the students. If\n\nthe college is to raise exactly the amount\n\nneeded for the new building, what should be\n\nthe average donation from the remaining\n\nstudents to be solicited? (in Rs.)",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_29",
+    "question": "A bowler's bowling average in ODI is 12 and the\n\nbowling average of that player in Test is 15. The\n\nbowling average of him in all his career is 14. If\n\nthe total wickets he took is 30 wickets, then\n\nfind the wickets he took in ODI matches.\n\nLevel-2\n\nb + d\na + c\nab + cd\n\na + b\n\nab + cd\n\na + c\n\nac + bd\n\nc + d\n\nb − d\na + c",
+    "question_html": "<b>A bowler&#x27;s bowling average in ODI is 12 and the</b><br/><br/><b>bowling average of that player in Test is 15. The</b><br/><br/><b>bowling average of him in all his career is 14. If</b><br/><br/><b>the total wickets he took is 30 wickets, then</b><br/><br/><b>find the wickets he took in ODI matches.</b><br/><br/><b>Level-2</b><br/><br/>b + d<br/>a + c<br/>ab + cd<br/><br/>a + b<br/><br/>ab + cd<br/><br/>a + c<br/><br/>ac + bd<br/><br/>c + d<br/><br/>b − d<br/>a + c",
+    "questionHtml": "<b>A bowler&#x27;s bowling average in ODI is 12 and the</b><br/><br/><b>bowling average of that player in Test is 15. The</b><br/><br/><b>bowling average of him in all his career is 14. If</b><br/><br/><b>the total wickets he took is 30 wickets, then</b><br/><br/><b>find the wickets he took in ODI matches.</b><br/><br/><b>Level-2</b><br/><br/>b + d<br/>a + c<br/>ab + cd<br/><br/>a + b<br/><br/>ab + cd<br/><br/>a + c<br/><br/>ac + bd<br/><br/>c + d<br/><br/>b − d<br/>a + c",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "By rule of allegation;\n\nNumber of wickets taken in ODI",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A bowler's bowling average in ODI is 12 and the\n\nbowling average of that player in Test is 15. The\n\nbowling average of him in all his career is 14. If\n\nthe total wickets he took is 30 wickets, then\n\nfind the wickets he took in ODI matches.\n\nLevel-2\n\nb + d\na + c\nab + cd\n\na + b\n\nab + cd\n\na + c\n\nac + bd\n\nc + d\n\nb − d\na + c",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_30",
+    "question": "Four persons ‘Anand’, ‘Bipin’, ‘Charan’ and\n\n‘Deepak’ have different amounts with them.\n\n‘Deepak’ has twice the amount than that of\n\n‘Anand’. The amount ‘Bipin’ has is 12.5% more\n\nthan that of ‘Deepak’. The amount ‘Charan’ has\n\nis equal to the average amount all four persons\n\nhave. If the sum of the average amount all four\n\nhave and the amount ‘Anand’ has is Rs. 660,\n\nthen find the amount ‘Bipin’ has.",
+    "question_html": "Four persons ‘Anand’, ‘Bipin’, ‘Charan’ and<br/><br/>‘Deepak’ have different amounts with them.<br/><br/>‘Deepak’ has twice the amount than that of<br/><br/>‘Anand’. The amount ‘Bipin’ has is 12.5% more<br/><br/>than that of ‘Deepak’. The amount ‘Charan’ has<br/><br/>is equal to the average amount all four persons<br/><br/>have. If the sum of the average amount all four<br/><br/>have and the amount ‘Anand’ has is Rs. 660,<br/><br/>then find the amount ‘Bipin’ has.<br/>",
+    "questionHtml": "Four persons ‘Anand’, ‘Bipin’, ‘Charan’ and<br/><br/>‘Deepak’ have different amounts with them.<br/><br/>‘Deepak’ has twice the amount than that of<br/><br/>‘Anand’. The amount ‘Bipin’ has is 12.5% more<br/><br/>than that of ‘Deepak’. The amount ‘Charan’ has<br/><br/>is equal to the average amount all four persons<br/><br/>have. If the sum of the average amount all four<br/><br/>have and the amount ‘Anand’ has is Rs. 660,<br/><br/>then find the amount ‘Bipin’ has.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 480",
+        "html": "Rs. 480"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 540",
+        "html": "Rs. 540"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 360",
+        "html": "Rs. 360"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 420",
+        "html": "Rs. 420"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 480",
+      "Rs. 540",
+      "Rs. 360",
+      "Rs. 420",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let ‘Anand’ have Rs. a\n\nTherefore, the amount possessed by ‘Deepak’ =\n\nRs. 2a\n\nAmount possessed by ‘Bipin’ = 1.125 \n 2a = Rs.\n\n2.25a\n\nLet the average amount possessed by all four\n\nbe Rs. x\n\nTherefore, the amount possessed by ‘Bipin’ = Rs.\n\nx\n\nAccording to the question, 2.25a + 2a + a = 4x –\n\nx\n\nOr, 5.25a = 3x\n\nOr, \n = \n\nTherefore, a = 660 \n = Rs. 240\n\nAmount possessed by ‘Bipin’ = 2.25a\n\n= 2.25 \n 240\n\n= Rs. 540",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Four persons ‘Anand’, ‘Bipin’, ‘Charan’ and\n\n‘Deepak’ have different amounts with them.\n\n‘Deepak’ has twice the amount than that of\n\n‘Anand’. The amount ‘Bipin’ has is 12.5% more\n\nthan that of ‘Deepak’. The amount ‘Charan’ has\n\nis equal to the average amount all four persons\n\nhave. If the sum of the average amount all four\n\nhave and the amount ‘Anand’ has is Rs. 660,\n\nthen find the amount ‘Bipin’ has.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_31",
+    "question": "In Ashes Test cricket series, Wasim scored an\n\naverage of 120 runs per match in the first 3\n\nmatch and an average of 140 runs per match in\n\nthe last four match. What is Wasim’s average\n\nruns for the first match and the last two match if\n\nhis average runs per match for all the five\n\nmatch is 122 and total number of matches are\n\n5?",
+    "question_html": "In Ashes Test cricket series, Wasim scored an<br/><br/>average of 120 runs per match in the first 3<br/><br/>match and an average of 140 runs per match in<br/><br/>the last four match. What is Wasim’s average<br/><br/>runs for the first match and the last two match if<br/><br/>his average runs per match for all the five<br/><br/>match is 122 and total number of matches are<br/><br/>5?<br/>",
+    "questionHtml": "In Ashes Test cricket series, Wasim scored an<br/><br/>average of 120 runs per match in the first 3<br/><br/>match and an average of 140 runs per match in<br/><br/>the last four match. What is Wasim’s average<br/><br/>runs for the first match and the last two match if<br/><br/>his average runs per match for all the five<br/><br/>match is 122 and total number of matches are<br/><br/>5?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "120",
+        "html": "120"
+      },
+      {
+        "id": "B",
+        "text": "200",
+        "html": "200"
+      },
+      {
+        "id": "C",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "D",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "120",
+      "200",
+      "150",
+      "100",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Wasim’s average score in the first 3 matches =\n\n120\n\nLet the scores in the 5 matches be denoted by\n\nM1, M2, M3, M4, and M5\n\nM1 + M2 + M3 = 120 \n 3 = 360 .......(i)\n\nAverage of last 4 match = 140\n\n = 140\n\n M2 + M3 + M4 + M5 = 560 ......(ii)\n\nAverage of all the matches\n\n = 122\n\n∴ M1 + M2 + M3 + M4 + M5 = 122 \n 5 = 610.......(iii)\n\nFrom solving above equation, we get M1 + M4 +\n\nM5 =300\n\nRequired average runs = \n = 100",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "In Ashes Test cricket series, Wasim scored an\n\naverage of 120 runs per match in the first 3\n\nmatch and an average of 140 runs per match in\n\nthe last four match. What is Wasim’s average\n\nruns for the first match and the last two match if\n\nhis average runs per match for all the five\n\nmatch is 122 and total number of matches are\n\n5?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_32",
+    "question": "If the average temperature of a town was 90\n\ndegrees for the first four days of a month and\n\nthe average temperature for the first, second,\n\nthird, and fifth days was 92 degrees, and the\n\ntemperatures of the fourth and fifth days were\n\nin the ratio 13 : 17, what is the temperature on\n\nthe fifth day?",
+    "question_html": "If the average temperature of a town was 90<br/><br/>degrees for the first four days of a month and<br/><br/>the average temperature for the first, second,<br/><br/>third, and fifth days was 92 degrees, and the<br/><br/>temperatures of the fourth and fifth days were<br/><br/>in the ratio 13 : 17, what is the temperature on<br/><br/>the fifth day?<br/>",
+    "questionHtml": "If the average temperature of a town was 90<br/><br/>degrees for the first four days of a month and<br/><br/>the average temperature for the first, second,<br/><br/>third, and fifth days was 92 degrees, and the<br/><br/>temperatures of the fourth and fifth days were<br/><br/>in the ratio 13 : 17, what is the temperature on<br/><br/>the fifth day?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "102 degree",
+        "html": "102 degree"
+      },
+      {
+        "id": "B",
+        "text": "94 degree",
+        "html": "94 degree"
+      },
+      {
+        "id": "C",
+        "text": "92 degree",
+        "html": "92 degree"
+      },
+      {
+        "id": "D",
+        "text": "96 degree",
+        "html": "96 degree"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "102 degree",
+      "94 degree",
+      "92 degree",
+      "96 degree",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Sum of temperatures on 1st, 2nd, 3rd and 4th\n\ndays = (90 \n 4)\n\n= 360 degrees ... (1)\n\nSum of temperatures on 1st, 2nd, 3rd and 5th\n\ndays = (96 \n 4)\n\n= 384 degrees ....(2)\n\nSubtracting (1) From (2), we get :\n\nTemp, on 5th day – Temp on 4th day = 24\n\ndegrees.\n\nLet the temperatures on 4th and 5th days be\n\n13x and 17x degrees respectively.\n\nThen, 17x – 13x = 24 or 4x = 24.\n\nx = 6\n\nTemperature on the 5th day = 17x = 102\n\ndegrees.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "If the average temperature of a town was 90\n\ndegrees for the first four days of a month and\n\nthe average temperature for the first, second,\n\nthird, and fifth days was 92 degrees, and the\n\ntemperatures of the fourth and fifth days were\n\nin the ratio 13 : 17, what is the temperature on\n\nthe fifth day?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_33",
+    "question": "Average weight of the class is 25 kg and the\n\naverage weight of the class is increased by 1\n\nkg when the teacher is included. If the number\n\nof students in the class is 40 and the weight of\n\nthe teacher is x, then find the value of (50% of\n\nx + 25).",
+    "question_html": "<b>Average weight of the class is 25 kg and the</b><br/><br/><b>average weight of the class is increased by 1</b><br/><br/><b>kg when the teacher is included. If the number</b><br/><br/><b>of students in the class is 40 and the weight of</b><br/><br/><b>the teacher is x, then find the value of (50% of</b><br/><br/><b>x + 25).</b><br/>",
+    "questionHtml": "<b>Average weight of the class is 25 kg and the</b><br/><br/><b>average weight of the class is increased by 1</b><br/><br/><b>kg when the teacher is included. If the number</b><br/><br/><b>of students in the class is 40 and the weight of</b><br/><br/><b>the teacher is x, then find the value of (50% of</b><br/><br/><b>x + 25).</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "55 kg",
+        "html": "55 kg"
+      },
+      {
+        "id": "B",
+        "text": "58 kg",
+        "html": "58 kg"
+      },
+      {
+        "id": "C",
+        "text": "60 kg",
+        "html": "60 kg"
+      },
+      {
+        "id": "D",
+        "text": "65 kg",
+        "html": "65 kg"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "55 kg",
+      "58 kg",
+      "60 kg",
+      "65 kg",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "average weight of students= (total weight of\n\nstudents) / (number of students)\n\nAs per question;\n\nTotal weight of students;\n\ntotal weight of students\n\ntotal weight of students\n\nNow;\n\naverage weight of class with teacher;\n\n= \n\n÷\n\n=\n× 1 = 10\n30\n\n3\n\n×\n\nx\n\na\n\n7\n4\n\n×\n4\n\n11\n\n×\n\n×\n\nM2 + M3 + M4 + M5\n\n4\n\nM1 + M2 + M3 + M4 + M5\n\n5\n\n×\n\n300\n\n3\n\n×\n\n×\n\n= (average weight of students) \n× (number of students)\n\n = 25 × 40\n= 1000 kg\n\n(total weight of students + weight of teacher) \n\n (number of students +1)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Average weight of the class is 25 kg and the\n\naverage weight of the class is increased by 1\n\nkg when the teacher is included. If the number\n\nof students in the class is 40 and the weight of\n\nthe teacher is x, then find the value of (50% of\n\nx + 25).",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_34",
+    "question": "A bowler has taken a total of 20 wickets in his\n\ntwo matches together and the ratio of his\n\nwickets in 1 and 2\n match is 3:2 respectively.\n\nIn 1 his bowling average is 42 and in 2\n\nmatch his bowling average is 62, then find the\n\ntotal bowling average of him in all matches.",
+    "question_html": "<b>A bowler has taken a total of 20 wickets in his</b><br/><br/><b>two matches together and the ratio of his</b><br/><br/><b>wickets in 1&nbsp; and 2</b><br/><b> match is 3:2 respectively.</b><br/><br/><b>In 1&nbsp; his bowling average is 42 and in 2</b><br/><br/><b>match his bowling average is 62, then find the</b><br/><br/><b>total bowling average of him in all matches.</b><br/>",
+    "questionHtml": "<b>A bowler has taken a total of 20 wickets in his</b><br/><br/><b>two matches together and the ratio of his</b><br/><br/><b>wickets in 1&nbsp; and 2</b><br/><b> match is 3:2 respectively.</b><br/><br/><b>In 1&nbsp; his bowling average is 42 and in 2</b><br/><br/><b>match his bowling average is 62, then find the</b><br/><br/><b>total bowling average of him in all matches.</b><br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "B",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "C",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "D",
+        "text": "80",
+        "html": "80"
+      },
+      {
+        "id": "E",
+        "text": "90",
+        "html": "90<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "40",
+      "60",
+      "50",
+      "80",
+      "90<br/><br/>"
+    ],
+    "explanation": "Number \nof \nwickets \ntaken \nin \n1st \nmatch\n\nNumber of wickets taken in 2nd match\n\nBy rule of allegation;",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "A bowler has taken a total of 20 wickets in his\n\ntwo matches together and the ratio of his\n\nwickets in 1 and 2\n match is 3:2 respectively.\n\nIn 1 his bowling average is 42 and in 2\n\nmatch his bowling average is 62, then find the\n\ntotal bowling average of him in all matches.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_35",
+    "question": "Two groups of teachers, whose average ages\n\nare 36 years and 48 years, combine to form a\n\nthird group whose average age is 40 years.\n\nWhat is the ratio of the number of teachers in\n\nthe first group to that of in the second group?",
+    "question_html": "Two groups of teachers, whose average ages<br/><br/>are 36 years and 48 years, combine to form a<br/><br/>third group whose average age is 40 years.<br/><br/>What is the ratio of the number of teachers in<br/><br/>the first group to that of in the second group?<br/>",
+    "questionHtml": "Two groups of teachers, whose average ages<br/><br/>are 36 years and 48 years, combine to form a<br/><br/>third group whose average age is 40 years.<br/><br/>What is the ratio of the number of teachers in<br/><br/>the first group to that of in the second group?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1: 1",
+        "html": "1: 1"
+      },
+      {
+        "id": "B",
+        "text": "2:1",
+        "html": "2:1"
+      },
+      {
+        "id": "C",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "D",
+        "text": "3: 4",
+        "html": "3: 4"
+      },
+      {
+        "id": "E",
+        "text": "5: 8",
+        "html": "5: 8<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1: 1",
+      "2:1",
+      "2:3",
+      "3: 4",
+      "5: 8<br/><br/>"
+    ],
+    "explanation": "Let the number of teachers in two groups be",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Two groups of teachers, whose average ages\n\nare 36 years and 48 years, combine to form a\n\nthird group whose average age is 40 years.\n\nWhat is the ratio of the number of teachers in\n\nthe first group to that of in the second group?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_36",
+    "question": "Average marks obtained by a group of students\n\nis 68. Out of these, 3 students with marks 63, 72\n\nand 58 left the group and a new student who\n\nobtained 91 marks joined the group. If the\n\nnumber of students in the group was 12, then\n\nfind the percentage increase in the new\n\naverage marks with respect to the initial\n\naverage marks.",
+    "question_html": "Average marks obtained by a group of students<br/><br/>is 68. Out of these, 3 students with marks 63, 72<br/><br/>and 58 left the group and a new student who<br/><br/>obtained 91 marks joined the group. If the<br/><br/>number of students in the group was 12, then<br/><br/>find the percentage increase in the new<br/><br/>average marks with respect to the initial<br/><br/>average marks.<br/>",
+    "questionHtml": "Average marks obtained by a group of students<br/><br/>is 68. Out of these, 3 students with marks 63, 72<br/><br/>and 58 left the group and a new student who<br/><br/>obtained 91 marks joined the group. If the<br/><br/>number of students in the group was 12, then<br/><br/>find the percentage increase in the new<br/><br/>average marks with respect to the initial<br/><br/>average marks.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "8%",
+        "html": "8%"
+      },
+      {
+        "id": "B",
+        "text": "2%",
+        "html": "2%"
+      },
+      {
+        "id": "C",
+        "text": "5%",
+        "html": "5%"
+      },
+      {
+        "id": "D",
+        "text": "9%",
+        "html": "9%"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "8%",
+      "2%",
+      "5%",
+      "9%",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\nTotal marks obtained by 12 students =\n\nTotal \nmarks \nobtained \nby \n\nstudents =\n\nNew average marks =\n = 71.4\n\nRequire percent = \n 100\n\n= \n 100 = 5%\n\nOption ‘5%’ is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Average marks obtained by a group of students\n\nis 68. Out of these, 3 students with marks 63, 72\n\nand 58 left the group and a new student who\n\nobtained 91 marks joined the group. If the\n\nnumber of students in the group was 12, then\n\nfind the percentage increase in the new\n\naverage marks with respect to the initial\n\naverage marks.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_37",
+    "question": "Average temperature of the first three days of a\n\nweek starting from Mon is x℃ and that of the\n\nlast 4 days is (x - 1)℃. Average temperature of\n\nthe whole week is \n℃. If the average\n\ntemperature of the first 4 days is 34.5℃, then\n\nfind the temperature of Thu?",
+    "question_html": "Average temperature of the first three days of a<br/><br/>week starting from Mon is x℃ and that of the<br/><br/>last 4 days is (x - 1)℃. Average temperature of<br/><br/>the whole week is <br/>℃. If the average<br/><br/>temperature of the first 4 days is 34.5℃, then<br/><br/>find the temperature of Thu?<br/>",
+    "questionHtml": "Average temperature of the first three days of a<br/><br/>week starting from Mon is x℃ and that of the<br/><br/>last 4 days is (x - 1)℃. Average temperature of<br/><br/>the whole week is <br/>℃. If the average<br/><br/>temperature of the first 4 days is 34.5℃, then<br/><br/>find the temperature of Thu?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x + 6)℃",
+        "html": "(x + 6)℃"
+      },
+      {
+        "id": "B",
+        "text": "(x + 9)℃",
+        "html": "(x + 9)℃"
+      },
+      {
+        "id": "C",
+        "text": "(x + 2)℃",
+        "html": "(x + 2)℃"
+      },
+      {
+        "id": "D",
+        "text": "(x + 5)℃\n\nst\nnd\n\nst\nnd\n\n32 3\n\n7",
+        "html": "(x + 5)℃<br/><br/><b>st</b><br/><b>nd</b><br/><br/><b>st</b><br/><b>nd</b><br/><br/>32 3<br/><br/>7"
+      }
+    ],
+    "optionsHtml": [
+      "(x + 6)℃",
+      "(x + 9)℃",
+      "(x + 2)℃",
+      "(x + 5)℃<br/><br/><b>st</b><br/><b>nd</b><br/><br/><b>st</b><br/><b>nd</b><br/><br/>32 3<br/><br/>7"
+    ],
+    "explanation": "Sum of the temperatures of all the 7 days =\n\n = 227℃\n\nSo,\n\n3x + 4(x - 1) = 227\n\n3x + 4x - 4 = 227\n\nx = 33\n\nSum of the temperatures of first three days = 3 \n\n 33 = 99℃\n\nSum of the temperatures of first four days = 4 \n\n34.5 = 138℃\n\nSo, the temperature of Thu = 138 - 99 = 39℃ = (x\n\n+ 6)℃",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Average temperature of the first three days of a\n\nweek starting from Mon is x℃ and that of the\n\nlast 4 days is (x - 1)℃. Average temperature of\n\nthe whole week is \n℃. If the average\n\ntemperature of the first 4 days is 34.5℃, then\n\nfind the temperature of Thu?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_38",
+    "question": "A, B, C, D and E are five persons. The weight of\n\nA, B and C is 90%, 112% and 94% respectively of\n\nthe average weight of all five. The ratio of\n\nweight of D and E is 6 : 11. The difference\n\nbetween the weight of D and E is 75kg. What is\n\nthe average weight of all the five persons?",
+    "question_html": "A, B, C, D and E are five persons. The weight of<br/><br/>A, B and C is 90%, 112% and 94% respectively of<br/><br/>the average weight of all five. The ratio of<br/><br/>weight of D and E is 6 : 11. The difference<br/><br/>between the weight of D and E is 75kg. What is<br/><br/>the average weight of all the five persons?<br/>",
+    "questionHtml": "A, B, C, D and E are five persons. The weight of<br/><br/>A, B and C is 90%, 112% and 94% respectively of<br/><br/>the average weight of all five. The ratio of<br/><br/>weight of D and E is 6 : 11. The difference<br/><br/>between the weight of D and E is 75kg. What is<br/><br/>the average weight of all the five persons?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "84 kg",
+        "html": "84 kg"
+      },
+      {
+        "id": "B",
+        "text": "127 kg",
+        "html": "127 kg"
+      },
+      {
+        "id": "C",
+        "text": "90 kg",
+        "html": "90 kg"
+      },
+      {
+        "id": "D",
+        "text": "125 kg",
+        "html": "125 kg"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "84 kg",
+      "127 kg",
+      "90 kg",
+      "125 kg",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the average weight of all five = 100k\n\nSo, weight of A = 90k, B = 112k and C = 94k\n\nLet the weight of D = d and that of E = e\n\n = 100k\n\nd+e = 204k\n\nd : e = 6:11\n\nd = \n 204 = 72k\n\ne =132k\n\nDifference = 132k - 72k = 60k\n\n60k = 75\n\nSo, k = \n = 1.25\n\nAverage weight of all the five persons = 100 \n\n1.25 = 125kg",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "A, B, C, D and E are five persons. The weight of\n\nA, B and C is 90%, 112% and 94% respectively of\n\nthe average weight of all five. The ratio of\n\nweight of D and E is 6 : 11. The difference\n\nbetween the weight of D and E is 75kg. What is\n\nthe average weight of all the five persons?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_39",
+    "question": "The average weight of 15 monkeys sitting on a\n\ntree is 35 kg. The average weight of the first 6\n\nmonkeys is 28 kg and the average of the last 6\n\nmonkeys is 40 kg. Weight of 7 monkey is 2.32\n\nkg more than 8 monkey and 1.15 kg less than\n\nthe weight of 9 monkey. Find the average\n\nweight of 7 and 9 monkey.",
+    "question_html": "The average weight of 15 monkeys sitting on a<br/><br/>tree is 35 kg. The average weight of the first 6<br/><br/>monkeys is 28 kg and the average of the last 6<br/><br/>monkeys is 40 kg. Weight of 7&nbsp; monkey is 2.32<br/><br/>kg more than 8&nbsp; monkey and 1.15 kg less than<br/><br/>the weight of 9&nbsp; monkey. Find the average<br/><br/>weight of 7&nbsp; and 9&nbsp; monkey.<br/>",
+    "questionHtml": "The average weight of 15 monkeys sitting on a<br/><br/>tree is 35 kg. The average weight of the first 6<br/><br/>monkeys is 28 kg and the average of the last 6<br/><br/>monkeys is 40 kg. Weight of 7&nbsp; monkey is 2.32<br/><br/>kg more than 8&nbsp; monkey and 1.15 kg less than<br/><br/>the weight of 9&nbsp; monkey. Find the average<br/><br/>weight of 7&nbsp; and 9&nbsp; monkey.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "38.995 kg",
+        "html": "38.995 kg"
+      },
+      {
+        "id": "B",
+        "text": "39.965 kg",
+        "html": "39.965 kg"
+      },
+      {
+        "id": "C",
+        "text": "36.965 kg",
+        "html": "36.965 kg"
+      },
+      {
+        "id": "D",
+        "text": "39.665 kg",
+        "html": "39.665 kg"
+      },
+      {
+        "id": "E",
+        "text": "40.625 kg",
+        "html": "40.625  kg<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "38.995 kg",
+      "39.965 kg",
+      "36.965 kg",
+      "39.665 kg",
+      "40.625  kg<br/><br/>"
+    ],
+    "explanation": "Sum of weight of 15 monkeys = 15 \n 35 = 525\n\nSum of weight of first 6 monkeys = 6 \n 28 = 168\n\nSum of weight of last monkeys = 6 \n 40 = 240\n\nWeight of remaining monkeys = (525 – 168 –\n\n240) = 117 kg\n\nAccording to the question,\n\nLet the weight of 8 monkey is x kg\n\nThen weight of 7 monkey is (x + 2.32) and\n\nweight of 9 monkey is (x + 3.47)\n\nSo,\n\nx + x + 2.32 + x + 3.47 = 117\n\n3x + 5.79 = 117\n\n3x = 111.21\n\n25 + 1 = 1000 + x\n\n40+1\n\n26 =\n\n (1000 + x) \n\n41\n\n1066 = 1000 + x\n x = 66 kg\n\n50% of x is 33 kg = 50% of x + 25 \n 33 kg + 25 kg = 58 kg\n\n= \n× 20 = 12 \n3\n5\n\n = 20 −12 = 8 \n\nX = 42×12 +62×8\n\n20\n\nX = 1000\n\n20\n\nX = 50\n\n∴ 36x + 48y = 40(x + y) \n⇒ (48 −40)y = (40 −36)x \n⇒ 8y = 4x \n⇒ x ∶y = 8 : 4\n= 2 : 1\n\n 68 × 12 = 816\n\n(12 – 3 + 1) \n\n 816 – (63 + 72 + 58) + 91\n\n= 816 – 193 + 91 = 714\n\n714\n\n10\n\n71.4−68\n\n68\n×\n\n3.4\n\n68 ×\n\n7 × 227\n\n7\n\n×\n\n×\n\n90k+112k+94k+d+e\n\n5\n\n6\n\n17 ×\n\n75\n60\n\n×\n\n×\n\n×\n\n×\n\nth\n\nth\n\nth",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The average weight of 15 monkeys sitting on a\n\ntree is 35 kg. The average weight of the first 6\n\nmonkeys is 28 kg and the average of the last 6\n\nmonkeys is 40 kg. Weight of 7 monkey is 2.32\n\nkg more than 8 monkey and 1.15 kg less than\n\nthe weight of 9 monkey. Find the average\n\nweight of 7 and 9 monkey.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_40",
+    "question": "A trader bought some oranges from different\n\nplaces and at different prices. Average price of\n\nall oranges is 50 rs/piece. During his journey\n\nfrom market to village 100 oranges were rotten.\n\nDue to this he decided to fix the price of\n\noranges to 60 rupees/piece instead of 90\n\nrupees/piece. Due to this the average price of\n\noranges becomes 45 rs/piece. How many\n\ndozen oranges he buys from the market.",
+    "question_html": "A trader bought some oranges from different<br/><br/>places and at different prices. Average price of<br/><br/>all oranges is 50 rs/piece. During his journey<br/><br/>from market to village 100 oranges were rotten.<br/><br/>Due to this he decided to fix the price of<br/><br/>oranges to 60 rupees/piece instead of 90<br/><br/>rupees/piece. Due to this the average price of<br/><br/>oranges becomes 45 rs/piece. How many<br/><br/>dozen oranges he buys from the market.<br/>",
+    "questionHtml": "A trader bought some oranges from different<br/><br/>places and at different prices. Average price of<br/><br/>all oranges is 50 rs/piece. During his journey<br/><br/>from market to village 100 oranges were rotten.<br/><br/>Due to this he decided to fix the price of<br/><br/>oranges to 60 rupees/piece instead of 90<br/><br/>rupees/piece. Due to this the average price of<br/><br/>oranges becomes 45 rs/piece. How many<br/><br/>dozen oranges he buys from the market.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "600",
+        "html": "600"
+      },
+      {
+        "id": "B",
+        "text": "300",
+        "html": "300"
+      },
+      {
+        "id": "C",
+        "text": "150",
+        "html": "150"
+      },
+      {
+        "id": "D",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "E",
+        "text": "100\n\nth\n\nth\n\nth\n\nth\nth",
+        "html": "100<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/>th"
+      }
+    ],
+    "optionsHtml": [
+      "600",
+      "300",
+      "150",
+      "50",
+      "100<br/><br/>th<br/><br/>th<br/><br/>th<br/><br/>th<br/>th"
+    ],
+    "explanation": "Let he buy x oranges.\n\nTotal price of oranges = 50x rupees\n\n100 orange were rotten\n\nActual price of 100 oranges = 100 \n 90 = 9000\n\nNew price of 100 oranges = 100 \n 60 = 6000\n\nTotal reduction = 9000 – 6000 = 3000 rupees\n\nNow, according to the question,\n\n50x – 3000 = 45x\n\n5x = 3000\n\nx = 600 oranges\n\nSo, he buys \n = 50 dozen oranges from the\n\nmarket.\n\n(37.07 + 2.32)+ (37.07 + 3.47)\n\n2\n\n×\n\n×\n\n600\n\n12",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "A trader bought some oranges from different\n\nplaces and at different prices. Average price of\n\nall oranges is 50 rs/piece. During his journey\n\nfrom market to village 100 oranges were rotten.\n\nDue to this he decided to fix the price of\n\noranges to 60 rupees/piece instead of 90\n\nrupees/piece. Due to this the average price of\n\noranges becomes 45 rs/piece. How many\n\ndozen oranges he buys from the market.",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_41",
+    "question": "Average weight of a class of 32 students\n\ndecreased by \n when a student of 40 kg\n\nweight joined the class and another student of\n\nweight 56 kg left the class. If the initial average\n\nweight of the class was ‘10x’ kg and there were\n\n10x students in another class, then what would\n\nbe the average weight of another class, whose\n\ntotal weight is 2160 kg?",
+    "question_html": "Average weight of a class of 32 students<br/><br/>decreased by <br/> when a student of 40 kg<br/><br/>weight joined the class and another student of<br/><br/>weight 56 kg left the class. If the initial average<br/><br/>weight of the class was ‘10x’ kg and there were<br/><br/>10x students in another class, then what would<br/><br/>be the average weight of another class, whose<br/><br/>total weight is 2160 kg?<br/>",
+    "questionHtml": "Average weight of a class of 32 students<br/><br/>decreased by <br/> when a student of 40 kg<br/><br/>weight joined the class and another student of<br/><br/>weight 56 kg left the class. If the initial average<br/><br/>weight of the class was ‘10x’ kg and there were<br/><br/>10x students in another class, then what would<br/><br/>be the average weight of another class, whose<br/><br/>total weight is 2160 kg?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "36 kg",
+        "html": "36 kg"
+      },
+      {
+        "id": "B",
+        "text": "60 kg",
+        "html": "60 kg"
+      },
+      {
+        "id": "C",
+        "text": "45 kg",
+        "html": "45 kg"
+      },
+      {
+        "id": "D",
+        "text": "48 kg",
+        "html": "48 kg"
+      },
+      {
+        "id": "E",
+        "text": "50 kg",
+        "html": "50 kg<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "36 kg",
+      "60 kg",
+      "45 kg",
+      "48 kg",
+      "50 kg<br/><br/>"
+    ],
+    "explanation": "Initial total weight of the class = 32 \n 10x = 320x\n\nkg\n\nNew total weight of the class = 32 \n of\n\n10x = 32 \n kg\n\nFrom the question:\n\n2880x - 144 = 2848x\n\nx = 4.5\n\nNow, the total number of students in another\n\nclass = 10 \n 4.5 = 45\n\nTotal weight of another class = 2160 kg\n\nSo, average weight of another class = \n = 48\n\nkg",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Average weight of a class of 32 students\n\ndecreased by \n when a student of 40 kg\n\nweight joined the class and another student of\n\nweight 56 kg left the class. If the initial average\n\nweight of the class was ‘10x’ kg and there were\n\n10x students in another class, then what would\n\nbe the average weight of another class, whose\n\ntotal weight is 2160 kg?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_42",
+    "question": "Average weight of four friends A', 'B', 'C' and 'D'\n\nis x kg. When 'D' is replaced by 'E' then the\n\naverage increases by 14.25 kg. When 'C' is\n\nreplaced by 'E', average increases by 6.75kg. If\n\nthe average weight of 'C', 'D' and 'E' is 74 kg\n\nthen the weight of 'E' is how much percent more\n\nthan that of 'C'?",
+    "question_html": "Average weight of four friends A&#x27;, &#x27;B&#x27;, &#x27;C&#x27; and &#x27;D&#x27;<br/><br/>is x kg. When &#x27;D&#x27; is replaced by &#x27;E&#x27; then the<br/><br/>average increases by 14.25 kg. When &#x27;C&#x27; is<br/><br/>replaced by &#x27;E&#x27;, average increases by 6.75kg. If<br/><br/>the average weight of &#x27;C&#x27;, &#x27;D&#x27; and &#x27;E&#x27; is 74 kg<br/><br/>then the weight of &#x27;E&#x27; is how much percent more<br/><br/>than that of &#x27;C&#x27;?<br/>",
+    "questionHtml": "Average weight of four friends A&#x27;, &#x27;B&#x27;, &#x27;C&#x27; and &#x27;D&#x27;<br/><br/>is x kg. When &#x27;D&#x27; is replaced by &#x27;E&#x27; then the<br/><br/>average increases by 14.25 kg. When &#x27;C&#x27; is<br/><br/>replaced by &#x27;E&#x27;, average increases by 6.75kg. If<br/><br/>the average weight of &#x27;C&#x27;, &#x27;D&#x27; and &#x27;E&#x27; is 74 kg<br/><br/>then the weight of &#x27;E&#x27; is how much percent more<br/><br/>than that of &#x27;C&#x27;?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50%",
+        "html": "50%"
+      },
+      {
+        "id": "B",
+        "text": "42%",
+        "html": "42%"
+      },
+      {
+        "id": "C",
+        "text": "36%",
+        "html": "36%"
+      },
+      {
+        "id": "D",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined"
+      },
+      {
+        "id": "E",
+        "text": "76%",
+        "html": "76%<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "50%",
+      "42%",
+      "36%",
+      "Cannot be determined",
+      "76%<br/><br/>"
+    ],
+    "explanation": "Total weight of A + B + C + D = 4x kg ...(i)\n\nWhen 'D' is replaced by 'E' then the average\n\nincreases by 14.25 kg.\n\nTherefore, A + B + C + E = 4 \n(x + 14.25) = (4x +\n\n57) kg ...(ii)\n\nUsing (i) and (ii)\n\n⇒4x - D + E = 4x + 57\n\n⇒E - D = 57...(iii)\n\nWhen 'C' is replaced by 'E', average increases\n\nby 6.75kg.\n\nTherefore, A + B + E + D = 4 \n (x + 6.75) = 4x + 27\n\n...(iv)\n\nUsing (i) and (iv)\n\n⇒4x - C + E = 4x + 27\n\n⇒E - C = 27 ...(v)\n\nThe average weight of 'C', 'D' and 'E' is 74 kg.\n\nTotal weight of C + D + E = 74 \n 3 = 222 kg ...(vi)\n\nUsing (iii), (v) and (vi)\n\n⇒E - 27 + E - 57 + E = 222\n\n⇒3E = 306\n\n⇒E = 102 \n\n⇒C = 102 - 27 = 75\n\nRequired% = (27/75) \n 100 = 36%",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Average weight of four friends A', 'B', 'C' and 'D'\n\nis x kg. When 'D' is replaced by 'E' then the\n\naverage increases by 14.25 kg. When 'C' is\n\nreplaced by 'E', average increases by 6.75kg. If\n\nthe average weight of 'C', 'D' and 'E' is 74 kg\n\nthen the weight of 'E' is how much percent more\n\nthan that of 'C'?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_43",
+    "question": "The average salary of all Sharma family\n\nmembers is Rs. 98 per day. The difference\n\nbetween the family's highest and lowest\n\nearnings is Rs.140. If the highest and lowest\n\npaid members are excluded, the group's\n\naverage salary falls by Rs. 2. Which of the\n\nfollowing will be the initial number of members if\n\nthe minimum salary is more than Rs 45 and a\n\nmultiple of 7, and the number of members was\n\ninitially equal to a prime number with both\n\ndigits prime?\n\nI.23 II`.37 III. 53 IV. 73",
+    "question_html": "The average salary of all Sharma family<br/><br/>members is Rs. 98 per day. The difference<br/><br/>between the family&#x27;s highest and lowest<br/><br/>earnings is Rs.140. If the highest and lowest<br/><br/>paid members are excluded, the group&#x27;s<br/><br/>average salary falls by Rs. 2. Which of the<br/><br/>following will be the initial number of members if<br/><br/>the minimum salary is more than Rs 45 and a<br/><br/>multiple of 7, and the number of members was<br/><br/>initially equal to a prime number with both<br/><br/>digits prime?<br/><br/>I.23 II`.37 III. 53 IV. 73<br/>",
+    "questionHtml": "The average salary of all Sharma family<br/><br/>members is Rs. 98 per day. The difference<br/><br/>between the family&#x27;s highest and lowest<br/><br/>earnings is Rs.140. If the highest and lowest<br/><br/>paid members are excluded, the group&#x27;s<br/><br/>average salary falls by Rs. 2. Which of the<br/><br/>following will be the initial number of members if<br/><br/>the minimum salary is more than Rs 45 and a<br/><br/>multiple of 7, and the number of members was<br/><br/>initially equal to a prime number with both<br/><br/>digits prime?<br/><br/>I.23 II`.37 III. 53 IV. 73<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Both I and III",
+        "html": "Both I and III"
+      },
+      {
+        "id": "D",
+        "text": "Both II and III",
+        "html": "Both II and III"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II",
+        "html": "Both I and II<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only I",
+      "Only II",
+      "Both I and III",
+      "Both II and III",
+      "Both I and II<br/><br/>"
+    ],
+    "explanation": "Let there be n member (initially) in the Sharma\n\nfamily,\n\nthen the total earning of the family = Rs 98n\n\nLet the lowest earning in the family be Rs x\n\nthen the highest earning = Rs (x+140)\n\nn \n 98 = (n-2) \n 96+ (2x + 140)\n\n⇒n= x – 26 (1)\n\nFor possible value of x = 49,56,63,70,77,84,91,98\n\nWe have n=23,30,37,44,51,58,65,72\n\nRequired value of n are 23 and 37",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "The average salary of all Sharma family\n\nmembers is Rs. 98 per day. The difference\n\nbetween the family's highest and lowest\n\nearnings is Rs.140. If the highest and lowest\n\npaid members are excluded, the group's\n\naverage salary falls by Rs. 2. Which of the\n\nfollowing will be the initial number of members if\n\nthe minimum salary is more than Rs 45 and a\n\nmultiple of 7, and the number of members was\n\ninitially equal to a prime number with both\n\ndigits prime?\n\nI.23 II`.37 III. 53 IV. 73",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_44",
+    "question": "A player scored runs at an average of 72 in ‘x’\n\nmatches in ODIs and at an average of 48 in (x -",
+    "question_html": "A player scored runs at an average of 72 in ‘x’<br/><br/>matches in ODIs and at an average of 48 in (x -<br/><br/>",
+    "questionHtml": "A player scored runs at an average of 72 in ‘x’<br/><br/>matches in ODIs and at an average of 48 in (x -<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "From the question:\n\nx \n 72 - (x - 50) \n 48 = 5400\n\n72x - 48x + 2400 = 5400\n\nx = 125\n\nTotal ODIs played by him = 125\n\nTotal runs scored by him in ODIs = 125 × 72 =\n\n9000\n\nTotal T-20s played by him = 125 - 50 = 75\n\nTotal runs scored by him in T-20s = 75\n 48 =\n\n3600\n\nRequired average = \n = 63",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "A player scored runs at an average of 72 in ‘x’\n\nmatches in ODIs and at an average of 48 in (x -",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_45",
+    "question": "matches in T-20s. If total runs scored by him\n\nin ODIs are 5400 more than that scored in T-\n\n20s, then find the average runs scored by him in\n\nall the ODIs and T-20s?",
+    "question_html": "matches in T-20s. If total runs scored by him<br/><br/>in ODIs are 5400 more than that scored in T-<br/><br/>20s, then find the average runs scored by him in<br/><br/>all the ODIs and T-20s?<br/>",
+    "questionHtml": "matches in T-20s. If total runs scored by him<br/><br/>in ODIs are 5400 more than that scored in T-<br/><br/>20s, then find the average runs scored by him in<br/><br/>all the ODIs and T-20s?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "66",
+        "html": "66"
+      },
+      {
+        "id": "B",
+        "text": "72",
+        "html": "72"
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "html": "60"
+      },
+      {
+        "id": "D",
+        "text": "75",
+        "html": "75"
+      },
+      {
+        "id": "E",
+        "text": "63",
+        "html": "63<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "66",
+      "72",
+      "60",
+      "75",
+      "63<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "50",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q050.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q050.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "matches in T-20s. If total runs scored by him\n\nin ODIs are 5400 more than that scored in T-\n\n20s, then find the average runs scored by him in\n\nall the ODIs and T-20s?",
+    "metadata": {
+      "questionNumber": "50",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q050.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q050.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q050.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q050.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_46",
+    "question": "There are five students in a class – P, Q, R, S,\n\nand T. Marks obtained by P is (3M + 2N), by Q is\n\n(N + 2M), by R is (2N + M). Marks obtained by S is\n\n100 (more than the rest 4 students) which is\n\ntwice as that of T. Marks obtained by T is (N +\n\n2Y). M > N, both are distinct multiple of 10. Find\n\nthe average score of five students together if\n\nthe difference between marks of Q and R is at\n\nleast 10?\n\nI. 2(3M – 2N) - 4\n\nII. 3Y + 4\n\nIII. 3(4N – Y) + 4",
+    "question_html": "There are five students in a class – P, Q, R, S,<br/><br/>and T. Marks obtained by P is (3M + 2N), by Q is<br/><br/>(N + 2M), by R is (2N + M). Marks obtained by S is<br/><br/>100 (more than the rest 4 students) which is<br/><br/>twice as that of T. Marks obtained by T is (N +<br/><br/>2Y). M &gt; N, both are distinct multiple of 10. Find<br/><br/>the average score of five students together if<br/><br/>the difference between marks of Q and R is at<br/><br/>least 10?<br/><br/>I.  2(3M – 2N) - 4<br/><br/>II.  3Y + 4<br/><br/>III.  3(4N – Y) + 4<br/>",
+    "questionHtml": "There are five students in a class – P, Q, R, S,<br/><br/>and T. Marks obtained by P is (3M + 2N), by Q is<br/><br/>(N + 2M), by R is (2N + M). Marks obtained by S is<br/><br/>100 (more than the rest 4 students) which is<br/><br/>twice as that of T. Marks obtained by T is (N +<br/><br/>2Y). M &gt; N, both are distinct multiple of 10. Find<br/><br/>the average score of five students together if<br/><br/>the difference between marks of Q and R is at<br/><br/>least 10?<br/><br/>I.  2(3M – 2N) - 4<br/><br/>II.  3Y + 4<br/><br/>III.  3(4N – Y) + 4<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "II only",
+        "html": "II only"
+      },
+      {
+        "id": "B",
+        "text": "I and III only",
+        "html": "I and III only"
+      },
+      {
+        "id": "C",
+        "text": "I and II only",
+        "html": "I and II only"
+      },
+      {
+        "id": "D",
+        "text": "I, II and III",
+        "html": "I, II and III"
+      },
+      {
+        "id": "E",
+        "text": "I only",
+        "html": "I only<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "II only",
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "I only<br/><br/>"
+    ],
+    "explanation": "Difference between marks of Q and R ≥ 10\n\nN + 2M – 2N – M ≥ 10\n\nM – N ≥ 10\n\nM and N are both distinct multiple of 10. So,\n\nminimum possible value of M and N is 20 and 10.\n\nIf value of M and N is 30 and 10.\n\nMarks of P = 3\n30 + 2 \n10 = 110 > 100. This is not\n\npossible because marks of S is maximum (100).\n\nMarks of T = \n 100 = 50\n\n10 + 2Y = 50\n\nValue of Y = 20\n\nRequired \naverage \n=\n\nI. 2(3M – 2N) - 4\n\nRequired value = 2 \n(3 \n 20 – 2 × 10) – 16 = 64\n\n×\n\n× 98 %\n8\n9\n\n×\nx\n89\n\n9\n\n320x + 40 − 56 = 32 × 89x\n\n9\n\n×\n\n2160\n\n45\n\n×\n\n×\n\n×\n\n×\n\n×\n×\n\n×\n×\n\n×\n\n9000 + 3600\n\n125 + 75\n\n×\n×\n\n1\n2 ×\n\n=\n3M + 2N + N + 2M + 2N + M + 100 + 50\n\n5\n\n320\n\n5\n\n= 64\n\n2\n\n×\n×\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "There are five students in a class – P, Q, R, S,\n\nand T. Marks obtained by P is (3M + 2N), by Q is\n\n(N + 2M), by R is (2N + M). Marks obtained by S is\n\n100 (more than the rest 4 students) which is\n\ntwice as that of T. Marks obtained by T is (N +\n\n2Y). M > N, both are distinct multiple of 10. Find\n\nthe average score of five students together if\n\nthe difference between marks of Q and R is at\n\nleast 10?\n\nI. 2(3M – 2N) - 4\n\nII. 3Y + 4\n\nIII. 3(4N – Y) + 4",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_47",
+    "question": "The average income of a family is Rs. 98 per\n\nday. The difference between the highest and\n\nlowest amount earned in the family is Rs.140. If\n\nhighest and lowest earning members are\n\nexcluded the average earning of the group\n\ndecreased by Rs. 2. If the minimum earning is\n\nmore than Rs 45 and is multiple of 7 and the\n\nnumber of members initially was equal to a\n\nprime number, with its both digits prime then\n\nwhich of the following will be the initial number\n\nof members?\n\nI.53\n\nII.37\n\nIII.23\n\nLevel-3\n\n1 %\n1\n9\n\n2\n\n2",
+    "question_html": "The average income of a family is Rs. 98 per<br/><br/>day. The difference between the highest and<br/><br/>lowest amount earned in the family is Rs.140. If<br/><br/>highest and lowest earning members are<br/><br/>excluded the average earning of the group<br/><br/>decreased by Rs. 2. If the minimum earning is<br/><br/>more than Rs 45 and is multiple of 7 and the<br/><br/>number of members initially was equal to a<br/><br/>prime number, with its both digits prime then<br/><br/><b>which of the following will be the initial number</b><br/><br/><b>of members?</b><br/><br/>I.53<br/><br/>II.37<br/><br/>III.23<br/><br/><b>Level-3</b><br/><br/>1 %<br/>1<br/>9<br/><br/>2<br/><br/>2",
+    "questionHtml": "The average income of a family is Rs. 98 per<br/><br/>day. The difference between the highest and<br/><br/>lowest amount earned in the family is Rs.140. If<br/><br/>highest and lowest earning members are<br/><br/>excluded the average earning of the group<br/><br/>decreased by Rs. 2. If the minimum earning is<br/><br/>more than Rs 45 and is multiple of 7 and the<br/><br/>number of members initially was equal to a<br/><br/>prime number, with its both digits prime then<br/><br/><b>which of the following will be the initial number</b><br/><br/><b>of members?</b><br/><br/>I.53<br/><br/>II.37<br/><br/>III.23<br/><br/><b>Level-3</b><br/><br/>1 %<br/>1<br/>9<br/><br/>2<br/><br/>2",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let there be n member (initially) in the family,\n\nthen the total earning of the family= Rs 98n\n\nLet lowest earning in the family be Rs x then the\n\nhighest earning= Rs (x+140)\n\nn \n 98 = (n – 2) \n 96 + (2x + 140)\n\n⇒ n = x – 26\n\nor, x = n+26\n\nFor possible value of x = 49, 56,63,70,77,84,91,98\n\nWe have n= 23, 30,37,44,51,58,65,72\n\nRequired value of n=23 and 37",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "The average income of a family is Rs. 98 per\n\nday. The difference between the highest and\n\nlowest amount earned in the family is Rs.140. If\n\nhighest and lowest earning members are\n\nexcluded the average earning of the group\n\ndecreased by Rs. 2. If the minimum earning is\n\nmore than Rs 45 and is multiple of 7 and the\n\nnumber of members initially was equal to a\n\nprime number, with its both digits prime then\n\nwhich of the following will be the initial number\n\nof members?\n\nI.53\n\nII.37\n\nIII.23\n\nLevel-3\n\n1 %\n1\n9\n\n2\n\n2",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_48",
+    "question": "The average cost price of articles 'A' and 'B'\n\ntogether is Rs. 100 more than the average cost\n\nprice of articles 'A', 'B' and 'C' together. If article\n\n'A' was marked 25% above its cost price and\n\nsold after a discount of Rs. 50 while article 'C'\n\nwas marked 20% above its cost price and sold\n\nafter a discount of Rs. 360, then the ratio of\n\ntheir selling prices will be 11:12, respectively.\n\nFind the selling price of article 'B' if it is sold at a\n\nprofit of 15%, given that cost price of article 'B' is\n\nRs. 1,600 more than that of 'A'.",
+    "question_html": "The average cost price of articles &#x27;A&#x27; and &#x27;B&#x27;<br/><br/>together is Rs. 100 more than the average cost<br/><br/>price of articles &#x27;A&#x27;, &#x27;B&#x27; and &#x27;C&#x27; together. If article<br/><br/>&#x27;A&#x27; was marked 25% above its cost price and<br/><br/>sold after a discount of Rs. 50 while article &#x27;C&#x27;<br/><br/>was marked 20% above its cost price and sold<br/><br/>after a discount of Rs. 360, then the ratio of<br/><br/>their selling prices will be 11:12, respectively.<br/><br/>Find the selling price of article &#x27;B&#x27; if it is sold at a<br/><br/>profit of 15%, given that cost price of article &#x27;B&#x27; is<br/><br/>Rs. 1,600 more than that of &#x27;A&#x27;.<br/>",
+    "questionHtml": "The average cost price of articles &#x27;A&#x27; and &#x27;B&#x27;<br/><br/>together is Rs. 100 more than the average cost<br/><br/>price of articles &#x27;A&#x27;, &#x27;B&#x27; and &#x27;C&#x27; together. If article<br/><br/>&#x27;A&#x27; was marked 25% above its cost price and<br/><br/>sold after a discount of Rs. 50 while article &#x27;C&#x27;<br/><br/>was marked 20% above its cost price and sold<br/><br/>after a discount of Rs. 360, then the ratio of<br/><br/>their selling prices will be 11:12, respectively.<br/><br/>Find the selling price of article &#x27;B&#x27; if it is sold at a<br/><br/>profit of 15%, given that cost price of article &#x27;B&#x27; is<br/><br/>Rs. 1,600 more than that of &#x27;A&#x27;.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 4,510",
+        "html": "Rs. 4,510"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 3,600",
+        "html": "Rs. 3,600"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 3,910",
+        "html": "Rs. 3,910"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 4,600",
+        "html": "Rs. 4,600"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 4,510",
+      "Rs. 3,600",
+      "Rs. 3,910",
+      "Rs. 4,600",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the average cost price of articles 'A', 'B' and\n\n'C' together = Rs. '100x'\n\nThen, sum of cost price of all 3 articles = 100x \n\n3 = Rs. '300x'\n\nAverage cost price of articles 'A' and 'B' = Rs.\n\n(100x + 100)\n\nSum of cost price of articles 'A' and 'B' = (100x +\n\n100) \n 2 = Rs. (200x + 200)\n\nSo, cost price of article 'C' = 300x - 200x - 200\n\n= Rs. (100x - 200)\n\nLet the cost price of article 'A' = Rs. 'Y'\n\nThen, cost price of article 'B' = Rs. (Y + 1600)\n\nWe have, Y + Y + 1600 = 200x + 200\n\nOr, 2Y + 1600 = 200x + 200\n\nOr, Y = (200x - 1400) ÷ 2 = Rs. (100x - 700)\n\nSo, cost price of articles 'A' and 'B' are Rs. (100x\n\n- 700) and Rs. (100x + 900), respectively\n\nSelling price of article 'A' = (100x - 700) \n 1.25 -\n\n50 = 125x - 875 - 50 = Rs. (125x - 925)\n\nSelling price of article 'C' = (100x - 200) \n 1.2 -\n\n360 = 120x - 240 - 360 = Rs. (120x - 600)\n\nAccording to the question,\n\n(125x - 925):(120x - 600) = 11:12\n\nOr, 1500x - 11100 = 1320x - 6600\n\nOr, 180x = 4500\n\nSo, x = 25\n\nAnd, cost price of article 'B' = 100x + 900 = Rs.\n\n3,400\n\nSo, required selling price of article 'B' = 3400 \n\n1.15 = Rs. 3,910\n\nHence, option c.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "The average cost price of articles 'A' and 'B'\n\ntogether is Rs. 100 more than the average cost\n\nprice of articles 'A', 'B' and 'C' together. If article\n\n'A' was marked 25% above its cost price and\n\nsold after a discount of Rs. 50 while article 'C'\n\nwas marked 20% above its cost price and sold\n\nafter a discount of Rs. 360, then the ratio of\n\ntheir selling prices will be 11:12, respectively.\n\nFind the selling price of article 'B' if it is sold at a\n\nprofit of 15%, given that cost price of article 'B' is\n\nRs. 1,600 more than that of 'A'.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_49",
+    "question": "In a class, there are ‘x’ students and the\n\naverage weight of the students is ‘y’ kg. If one\n\nnew student whose weight is 50 kg is added,\n\nthen average weight of class is increased by 1\n\nkg. If one more student whose weight is 50 kg is\n\nadded, then the average weight of the class\n\nincreases by 1.5 kg over the original average.\n\nWhich of the following can be found according\n\nto the given information?\n\n(i) If Anant join the class, the average weight of\n\nthe class increased by 0.5 kg, find the weight of\n\nAnant.\n\n(ii) The number of students in the class.\n\n(iii) Find the value of (y – 3x)",
+    "question_html": "In a class, there are ‘x’ students and the<br/><br/>average weight of the students is ‘y’ kg. If one<br/><br/>new student whose weight is 50 kg is added,<br/><br/>then average weight of class is increased by 1<br/><br/>kg. If one more student whose weight is 50 kg is<br/><br/>added, then the average weight of the class<br/><br/>increases by 1.5 kg over the original average.<br/><br/>Which of the following can be found according<br/><br/>to the given information?<br/><br/>(i) If Anant join the class, the average weight of<br/><br/>the class increased by 0.5 kg, find the weight of<br/><br/>Anant.<br/><br/>(ii) The number of students in the class.<br/><br/>(iii) Find the value of (y – 3x)<br/>",
+    "questionHtml": "In a class, there are ‘x’ students and the<br/><br/>average weight of the students is ‘y’ kg. If one<br/><br/>new student whose weight is 50 kg is added,<br/><br/>then average weight of class is increased by 1<br/><br/>kg. If one more student whose weight is 50 kg is<br/><br/>added, then the average weight of the class<br/><br/>increases by 1.5 kg over the original average.<br/><br/>Which of the following can be found according<br/><br/>to the given information?<br/><br/>(i) If Anant join the class, the average weight of<br/><br/>the class increased by 0.5 kg, find the weight of<br/><br/>Anant.<br/><br/>(ii) The number of students in the class.<br/><br/>(iii) Find the value of (y – 3x)<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only (i)",
+        "html": "Only (i)"
+      },
+      {
+        "id": "B",
+        "text": "All (i), (ii) and (iii)",
+        "html": "All (i), (ii) and (iii)"
+      },
+      {
+        "id": "C",
+        "text": "Only (ii) and (iii)",
+        "html": "Only (ii) and (iii)"
+      },
+      {
+        "id": "D",
+        "text": "Only (iii)",
+        "html": "Only (iii)"
+      },
+      {
+        "id": "E",
+        "text": "Only (ii)",
+        "html": "Only (ii) <br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only (i)",
+      "All (i), (ii) and (iii)",
+      "Only (ii) and (iii)",
+      "Only (iii)",
+      "Only (ii) <br/><br/>"
+    ],
+    "explanation": "Total weight of the class = x \n y = xy kg\n\nAccording to the question,\n\nxy + 50 = (x + 1)(y +1)\n\nxy + 50 = xy + x + y + 1\n\nx + y = 49\n\nx = 49 – y ….1\n\nAgain, one student join the class,\n\nxy + 50 + 50 = (x + 2)(y + 1.5)\n\nxy + 100 = xy + 2y + 1.5x + 3\n\n97 = 2y + 1.5x\n\nPutting the value of x:\n\n1.5(49 – y) + 2y = 97\n\n73.5 – 1.5y + 2y = 97\n\n0.5y = 23.5\n\ny = 47\n\nPutting the value of y in Equation 1\n\nx = 49 – 47 = 2\n\n(i) If Anant joins the class, the average weight of\n\nthe class increases by 0.5 kg, find the weight of\n\nAnant.\n\nLet the weight of Anant = a kg\n\nAccording to the question,\n\n(47 × 2 + x)\n3 = 47.5\n\n94 + x = 142.5\n\nx = 48.5 kg\n\nIt can be found.\n\n(ii) The number of students in the class.\n\nThe number of students in the class = 2\n\n(iii) Find the value of (y – 3x)\n\n(y – 3x) = (47 – 3 × 2)\n\n= 47 – 6 = 41\n\nIt can be found.\n\nHence, option b.\n\n×\n\n2\n\n×\n×\n\n×\n×\n\n×\n\n×\n\n×\n\n×\n\n×\n\n×\n\n÷",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "In a class, there are ‘x’ students and the\n\naverage weight of the students is ‘y’ kg. If one\n\nnew student whose weight is 50 kg is added,\n\nthen average weight of class is increased by 1\n\nkg. If one more student whose weight is 50 kg is\n\nadded, then the average weight of the class\n\nincreases by 1.5 kg over the original average.\n\nWhich of the following can be found according\n\nto the given information?\n\n(i) If Anant join the class, the average weight of\n\nthe class increased by 0.5 kg, find the weight of\n\nAnant.\n\n(ii) The number of students in the class.\n\n(iii) Find the value of (y – 3x)",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_50",
+    "question": "Average weight of all the students in a class is\n\n_____. If 5 students having an average weight\n\nof 64 kg while 3 students having an average\n\nweight of 98 kg are added then overall average\n\nweight of the whole class increases by ____ and\n\ntotal number students in the class initially is less\n\nthan 36.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the statement true:\n\nI. 40, 12.25\n\nII. 56, 4.15\n\nIII. 52, 4.125",
+    "question_html": "Average weight of all the students in a class is<br/><br/>_____. If 5 students having an average weight<br/><br/>of 64 kg while 3 students having an average<br/><br/>weight of 98 kg are added then overall average<br/><br/>weight of the whole class increases by ____ and<br/><br/>total number students in the class initially is less<br/><br/>than 36.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the statement true:<br/><br/>I. 40, 12.25<br/><br/>II. 56, 4.15<br/><br/>III. 52, 4.125<br/>",
+    "questionHtml": "Average weight of all the students in a class is<br/><br/>_____. If 5 students having an average weight<br/><br/>of 64 kg while 3 students having an average<br/><br/>weight of 98 kg are added then overall average<br/><br/>weight of the whole class increases by ____ and<br/><br/>total number students in the class initially is less<br/><br/>than 36.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the statement true:<br/><br/>I. 40, 12.25<br/><br/>II. 56, 4.15<br/><br/>III. 52, 4.125<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only II",
+        "html": "Only II"
+      },
+      {
+        "id": "C",
+        "text": "Only III",
+        "html": "Only III"
+      },
+      {
+        "id": "D",
+        "text": "Only I and II",
+        "html": "Only I and II"
+      },
+      {
+        "id": "E",
+        "text": "Only II and III",
+        "html": "Only II and III<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only I",
+      "Only II",
+      "Only III",
+      "Only I and II",
+      "Only II and III<br/><br/>"
+    ],
+    "explanation": "For I:\n\nLet, the number of students in the class is ‘x’.\n\nSo, \n = 52.25\n\nOr, 40x + 320 + 294 = 52.25x + 418\n\nOr, 12.25x = 196\n\nOr, x = 16\n\nSince, x < 36\n\nSo, ‘I’ can be the answer.\n\nFor II:\n\nLet, the number of students in the class is ‘x’.\n\nSo, \n = 60.15\n\nOr, 56x + 320 + 294 = 60.15x + 481.2\n\nOr, 4.15x = 132.8\n\nOr, x = 32\n\nSince, x < 36\n\nSo, ‘II’ can be the answer.\n\nFor III:\n\nLet, the number of students in the class is ‘x’.\n\nSo, \n = 56.125\n\nOr, 52x + 320 + 294 = 56.125x + 449\n\nOr, 4.125x = 165\n\nOr, x = 40\n\nSince, x > 36\n\nSo, ‘III’ cannot be the answer.\n\nHence, option D.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "Average weight of all the students in a class is\n\n_____. If 5 students having an average weight\n\nof 64 kg while 3 students having an average\n\nweight of 98 kg are added then overall average\n\nweight of the whole class increases by ____ and\n\ntotal number students in the class initially is less\n\nthan 36.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the statement true:\n\nI. 40, 12.25\n\nII. 56, 4.15\n\nIII. 52, 4.125",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "average_chapter_wise_dpp_english_51",
+    "question": "The average of the income of ‘A’ in 2019 and\n\n2020 is Rs. 40000. He saves 25% of his income in\n\n2019 such that his savings in both years are the\n\nsame. If his expenditure in 2020 was equal to\n\nhis average income of 2019 and 2020, then find\n\nthe expenditure of ‘A’ in 2019.",
+    "question_html": "The average of the income of ‘A’ in 2019 and<br/><br/>2020 is Rs. 40000. He saves 25% of his income in<br/><br/>2019 such that his savings in both years are the<br/><br/>same. If his expenditure in 2020 was equal to<br/><br/>his average income of 2019 and 2020, then find<br/><br/>the expenditure of ‘A’ in 2019.<br/>",
+    "questionHtml": "The average of the income of ‘A’ in 2019 and<br/><br/>2020 is Rs. 40000. He saves 25% of his income in<br/><br/>2019 such that his savings in both years are the<br/><br/>same. If his expenditure in 2020 was equal to<br/><br/>his average income of 2019 and 2020, then find<br/><br/>the expenditure of ‘A’ in 2019.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 24000",
+        "html": "Rs. 24000"
+      },
+      {
+        "id": "B",
+        "text": "Rs. 32000",
+        "html": "Rs. 32000"
+      },
+      {
+        "id": "C",
+        "text": "Rs. 28000",
+        "html": "Rs. 28000"
+      },
+      {
+        "id": "D",
+        "text": "Rs. 30000",
+        "html": "Rs. 30000"
+      },
+      {
+        "id": "E",
+        "text": "Rs. 35000",
+        "html": "Rs. 35000"
+      }
+    ],
+    "optionsHtml": [
+      "Rs. 24000",
+      "Rs. 32000",
+      "Rs. 28000",
+      "Rs. 30000",
+      "Rs. 35000"
+    ],
+    "explanation": "Sum of incomes of ‘A” in 2019 and 2020 = 2 ×\n\n40000 = Rs. 80000\n\nLet the income of ‘A’ in 2019 be Rs. x\n\nTherefore, his income in 2020 = Rs. (80000 – x)\n\nSavings of ‘A’ in given two years = Rs. 0.25x\n\neach\n\nAccording to the question,\n\n0.25x = 80000 – x – 40000\n\nOr, 0.25x = 40000 – x\n\nOr, 1.25x = 40000\n\nOr, x = 32000\n\nTherefore, expenditure of ‘A’ in 2019 = 0.75x = Rs.\n\n24000\n\n40 × x + 5 × 64 + 3 × 98\n\nx+8\n\n56× x + 5 × 64 + 3 × 98\n\nx+8\n\n52 × x + 5 × 64 + 3 × 98\n\nx+8",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      8
+    ],
+    "sourcePages": [
+      8
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "average",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Average  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Average  Chapter wise DPP (English).pdf",
+      "pages": [
+        8
+      ]
+    },
+    "textPlain": "The average of the income of ‘A’ in 2019 and\n\n2020 is Rs. 40000. He saves 25% of his income in\n\n2019 such that his savings in both years are the\n\nsame. If his expenditure in 2020 was equal to\n\nhis average income of 2019 and 2020, then find\n\nthe expenditure of ‘A’ in 2019.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "average",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Average  Chapter wise DPP (English)\\Average  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/average_chapter_wise_dpp_english/Average  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

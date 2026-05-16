@@ -22,6 +22,11 @@ app.use(
 	express.static(path.resolve(BACKEND_DATA_DIR, "images"))
 );
 
+app.use(
+	"/reasoning-pdfs",
+	express.static(path.resolve(BACKEND_DATA_DIR, "pdfs"))
+);
+
 app.get("/health", (_req, res) => {
 	res.json({ status: "ok", service: "test-series-backend" });
 });

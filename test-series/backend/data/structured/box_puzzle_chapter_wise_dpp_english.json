@@ -1,9 +1,9 @@
 [
   {
-    "question_number": "1",
-    "level": "Level-1",
-    "question": "Directions:Study the following informations\ncarefully and answer the questions given\nbelow.\n \nEight shelves are stacked one above another\nsuch that each shelf has a different shaped solid\non it. The torus is kept immediately above the\ncube. As many shelves are above the cube as\nmany are below the torus. Two shelves are in\nbetween the cube and the sphere. The diamond\nis kept immediately below the sphere. Two\nshelves are in between the diamond and the\npyramid. The prism is kept immediately above\nthe cylinder. The cone is kept above the prism.\n \nHow many shelves are above the cone?",
-    "questionHtml": "Directions:Study the following informations<br/>carefully and answer the questions given<br/>below.<br/> <br/>Eight shelves are stacked one above another<br/>such that each shelf has a different shaped solid<br/>on it. The torus is kept immediately above the<br/>cube. As many shelves are above the cube as<br/>many are below the torus. Two shelves are in<br/>between the cube and the sphere. The diamond<br/>is kept immediately below the sphere. Two<br/>shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above<br/>the cylinder. The cone is kept above the prism.<br/> <br/>How many shelves are above the cone?",
+    "id": "box_puzzle_chapter_wise_dpp_english_1",
+    "question": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nHow many shelves are above the cone?",
+    "question_html": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>How many shelves are above the cone?<br/>",
+    "questionHtml": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>How many shelves are above the cone?<br/>",
     "options": [
       {
         "id": "A",
@@ -28,28 +28,62 @@
       {
         "id": "E",
         "text": "One",
-        "html": "One"
+        "html": "One<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "The torus is kept immediately above the cube. As\nmany shelves are above the cube as many are\nbelow the torus. Two shelves are in between the\ncube and the sphere. So, we get two possible\ncases:\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \n \nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere\n \n \nThe diamond is kept immediately below the\nsphere. So, case 1 is ruled out here.\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \nDiamond\nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere\n \n \nTwo shelves are in between the diamond and the\npyramid. The prism is kept immediately above\nthe cylinder. The cone is kept above the prism.\nHence, the final arrangement is: -\nShapes\nCone\nSphere\nDiamond\nTorus\nCube\nPyramid\nPrism\nCylinder",
-    "explanationHtml": "The torus is kept immediately above the cube. As<br/>many shelves are above the cube as many are<br/>below the torus. Two shelves are in between the<br/>cube and the sphere. So, we get two possible<br/>cases:<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>The diamond is kept immediately below the<br/>sphere. So, case 1 is ruled out here.<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/>Diamond<br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Two shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above<br/>the cylinder. The cone is kept above the prism.<br/>Hence, the final arrangement is: -<br/>Shapes<br/>Cone<br/>Sphere<br/>Diamond<br/>Torus<br/>Cube<br/>Pyramid<br/>Prism<br/>Cylinder",
+    "optionsHtml": [
+      "Two",
+      "Three",
+      "Zero",
+      "More than three",
+      "One<br/><br/>"
+    ],
+    "explanation": "The torus is kept immediately above the cube. As\n\nmany shelves are above the cube as many are\n\nbelow the torus. Two shelves are in between the\n\ncube and the sphere. So, we get two possible\n\ncases:\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nTorus\nTorus\n\nCube\nCube\n\nSphere\n\nThe diamond is kept immediately below the\n\nsphere. So, case 1 is ruled out here.\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nDiamond\n\nTorus\nTorus\n\nCube\nCube\n\nSphere\n\nTwo shelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nHence, the final arrangement is: -\n\nShapes\n\nCone\n\nSphere\n\nDiamond\n\nTorus\n\nCube\n\nPyramid\n\nPrism\n\nCylinder",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nHow many shelves are above the cone?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "2",
-    "level": "Level-1",
-    "question": "Directions:Study the following informations\ncarefully and answer the questions given\nbelow.\n \nEight shelves are stacked one above another\nsuch that each shelf has a different shaped solid\non it. The torus is kept immediately above the\ncube. As many shelves are above the cube as\nmany are below the torus. Two shelves are in\nbetween the cube and the sphere. The diamond\nis kept immediately below the sphere. Two\nshelves are in between the diamond and the\npyramid. The prism is kept immediately above\nthe cylinder. The cone is kept above the prism.\n \nIf all the solids are arranged in the dictionary\norder of their names from top to bottom, then\nwhich of the following solids will retain their\noriginal position in the stack?\nI. prism\nII. cone\nIII. pyramid",
-    "questionHtml": "Directions:Study the following informations<br/>carefully and answer the questions given<br/>below.<br/> <br/>Eight shelves are stacked one above another<br/>such that each shelf has a different shaped solid<br/>on it. The torus is kept immediately above the<br/>cube. As many shelves are above the cube as<br/>many are below the torus. Two shelves are in<br/>between the cube and the sphere. The diamond<br/>is kept immediately below the sphere. Two<br/>shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above<br/>the cylinder. The cone is kept above the prism.<br/> <br/>If all the solids are arranged in the dictionary<br/>order of their names from top to bottom, then<br/>which of the following solids will retain their<br/>original position in the stack?<br/>I. prism<br/>II. cone<br/>III. pyramid",
+    "id": "box_puzzle_chapter_wise_dpp_english_2",
+    "question": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nIf all the solids are arranged in the dictionary\n\norder of their names from top to bottom, then\n\nwhich of the following solids will retain their\n\noriginal position in the stack?\n\nI. prism\n\nII. cone\n\nIII. pyramid",
+    "question_html": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>If all the solids are arranged in the dictionary<br/><br/>order of their names from top to bottom, then<br/><br/>which of the following solids will retain their<br/><br/>original position in the stack?<br/><br/>I. prism<br/><br/>II. cone<br/><br/>III. pyramid<br/>",
+    "questionHtml": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>If all the solids are arranged in the dictionary<br/><br/>order of their names from top to bottom, then<br/><br/>which of the following solids will retain their<br/><br/>original position in the stack?<br/><br/>I. prism<br/><br/>II. cone<br/><br/>III. pyramid<br/>",
     "options": [
       {
         "id": "A",
@@ -74,28 +108,62 @@
       {
         "id": "E",
         "text": "Only II and III",
-        "html": "Only II and III"
+        "html": "Only II and III<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "The torus is kept immediately above the cube. As\nmany shelves are above the cube as many are\nbelow the torus. Two shelves are in between the\ncube and the sphere. So, we get two possible\ncases:\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \n \nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere\n \n \nThe diamond is kept immediately below the\nsphere. So, case 1 is ruled out here.\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \nDiamond\nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere\n \n \nTwo shelves are in between the diamond and the\npyramid. The prism is kept immediately above",
-    "explanationHtml": "The torus is kept immediately above the cube. As<br/>many shelves are above the cube as many are<br/>below the torus. Two shelves are in between the<br/>cube and the sphere. So, we get two possible<br/>cases:<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>The diamond is kept immediately below the<br/>sphere. So, case 1 is ruled out here.<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/>Diamond<br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Two shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above",
+    "optionsHtml": [
+      "Only III",
+      "Only I and II",
+      "Only II",
+      "Only I",
+      "Only II and III<br/><br/>"
+    ],
+    "explanation": "The torus is kept immediately above the cube. As\n\nmany shelves are above the cube as many are\n\nbelow the torus. Two shelves are in between the\n\ncube and the sphere. So, we get two possible\n\ncases:\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nTorus\nTorus\n\nCube\nCube\n\nSphere\n\nThe diamond is kept immediately below the\n\nsphere. So, case 1 is ruled out here.\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nDiamond\n\nTorus\nTorus\n\nCube\nCube\n\nSphere\n\nTwo shelves are in between the diamond and the\n\npyramid. The prism is kept immediately above",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nIf all the solids are arranged in the dictionary\n\norder of their names from top to bottom, then\n\nwhich of the following solids will retain their\n\noriginal position in the stack?\n\nI. prism\n\nII. cone\n\nIII. pyramid",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "3",
-    "level": "Level-1",
-    "question": "Directions:Study the following informations\ncarefully and answer the questions given\nbelow.\n \nEight shelves are stacked one above another\nsuch that each shelf has a different shaped solid\non it. The torus is kept immediately above the\ncube. As many shelves are above the cube as\nmany are below the torus. Two shelves are in\nbetween the cube and the sphere. The diamond\nis kept immediately below the sphere. Two\nshelves are in between the diamond and the\npyramid. The prism is kept immediately above\nthe cylinder. The cone is kept above the prism.\n \nWhich of the following is kept below the sixth\nshelf from the top?",
-    "questionHtml": "Directions:Study the following informations<br/>carefully and answer the questions given<br/>below.<br/> <br/>Eight shelves are stacked one above another<br/>such that each shelf has a different shaped solid<br/>on it. The torus is kept immediately above the<br/>cube. As many shelves are above the cube as<br/>many are below the torus. Two shelves are in<br/>between the cube and the sphere. The diamond<br/>is kept immediately below the sphere. Two<br/>shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above<br/>the cylinder. The cone is kept above the prism.<br/> <br/>Which of the following is kept below the sixth<br/>shelf from the top?",
+    "id": "box_puzzle_chapter_wise_dpp_english_3",
+    "question": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nWhich of the following is kept below the sixth\n\nshelf from the top?",
+    "question_html": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>Which of the following is kept below the sixth<br/><br/>shelf from the top?<br/>",
+    "questionHtml": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>Which of the following is kept below the sixth<br/><br/>shelf from the top?<br/>",
     "options": [
       {
         "id": "A",
@@ -120,48 +188,110 @@
       {
         "id": "E",
         "text": "sphere",
-        "html": "sphere"
+        "html": "sphere<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "The torus is kept immediately above the cube. As\nmany shelves are above the cube as many are\nbelow the torus. Two shelves are in between the\ncube and the sphere. So, we get two possible\ncases:\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \n \nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere\n \n \nThe diamond is kept immediately below the\nsphere. So, case 1 is ruled out here.\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \nDiamond",
-    "explanationHtml": "The torus is kept immediately above the cube. As<br/>many shelves are above the cube as many are<br/>below the torus. Two shelves are in between the<br/>cube and the sphere. So, we get two possible<br/>cases:<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>The diamond is kept immediately below the<br/>sphere. So, case 1 is ruled out here.<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/>Diamond",
+    "optionsHtml": [
+      "cone",
+      "prism",
+      "cube",
+      "diamond",
+      "sphere<br/><br/>"
+    ],
+    "explanation": "The torus is kept immediately above the cube. As\n\nmany shelves are above the cube as many are\n\nbelow the torus. Two shelves are in between the\n\ncube and the sphere. So, we get two possible\n\ncases:\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nTorus\nTorus\n\nCube\nCube\n\nSphere\n\nThe diamond is kept immediately below the\n\nsphere. So, case 1 is ruled out here.\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nDiamond",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nWhich of the following is kept below the sixth\n\nshelf from the top?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "4",
-    "level": "Level-1",
-    "question": "Directions:Study the following informations\ncarefully and answer the questions given\nbelow.\n \n \nBox Puzzle\nLevel-1",
-    "questionHtml": "Directions:Study the following informations<br/>carefully and answer the questions given<br/>below.<br/> <br/> <br/>Box Puzzle<br/>Level-1",
+    "id": "box_puzzle_chapter_wise_dpp_english_4",
+    "question": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nBox Puzzle\n\nLevel-1",
+    "question_html": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/><b>Box Puzzle</b><br/><br/><b>Level-1</b>",
+    "questionHtml": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/><b>Box Puzzle</b><br/><br/><b>Level-1</b>",
     "options": [],
-    "correctAnswer": 1,
-    "explanation": "The torus is kept immediately above the cube. As\nmany shelves are above the cube as many are\nbelow the torus. Two shelves are in between the\ncube and the sphere. So, we get two possible\ncases:\nShapes\nShapes\nCase 1\nCase 2\n \n \n \nSphere\n \n \nTorus\nTorus\nCube\nCube\n \n \n \n \nSphere",
-    "explanationHtml": "The torus is kept immediately above the cube. As<br/>many shelves are above the cube as many are<br/>below the torus. Two shelves are in between the<br/>cube and the sphere. So, we get two possible<br/>cases:<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2<br/> <br/> <br/> <br/>Sphere<br/> <br/> <br/>Torus<br/>Torus<br/>Cube<br/>Cube<br/> <br/> <br/> <br/> <br/>Sphere",
+    "optionsHtml": [],
+    "explanation": "The torus is kept immediately above the cube. As\n\nmany shelves are above the cube as many are\n\nbelow the torus. Two shelves are in between the\n\ncube and the sphere. So, we get two possible\n\ncases:\n\nShapes\nShapes\n\nCase 1\nCase 2\n\nSphere\n\nTorus\nTorus\n\nCube\nCube\n\nSphere",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nBox Puzzle\n\nLevel-1",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "5",
-    "level": "Level-1",
-    "question": "Directions:Study the following informations\ncarefully and answer the questions given\nbelow.\n \nEight shelves are stacked one above another\nsuch that each shelf has a different shaped solid\non it. The torus is kept immediately above the\ncube. As many shelves are above the cube as\nmany are below the torus. Two shelves are in\nbetween the cube and the sphere. The diamond\nis kept immediately below the sphere. Two\nshelves are in between the diamond and the\npyramid. The prism is kept immediately above\nthe cylinder. The cone is kept above the prism.\n \nWhich solid is kept immediately below the\ncylinder?",
-    "questionHtml": "Directions:Study the following informations<br/>carefully and answer the questions given<br/>below.<br/> <br/>Eight shelves are stacked one above another<br/>such that each shelf has a different shaped solid<br/>on it. The torus is kept immediately above the<br/>cube. As many shelves are above the cube as<br/>many are below the torus. Two shelves are in<br/>between the cube and the sphere. The diamond<br/>is kept immediately below the sphere. Two<br/>shelves are in between the diamond and the<br/>pyramid. The prism is kept immediately above<br/>the cylinder. The cone is kept above the prism.<br/> <br/>Which solid is kept immediately below the<br/>cylinder?",
+    "id": "box_puzzle_chapter_wise_dpp_english_5",
+    "question": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nWhich solid is kept immediately below the\n\ncylinder?",
+    "question_html": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>Which solid is kept immediately below the<br/><br/>cylinder?<br/>",
+    "questionHtml": "<b>Directions:Study the following informations</b><br/><br/><b>carefully and answer the questions given</b><br/><br/><b>below.</b><br/><br/>Eight shelves are stacked one above another<br/><br/>such that each shelf has a different shaped solid<br/><br/>on it. The torus is kept immediately above the<br/><br/>cube. As many shelves are above the cube as<br/><br/>many are below the torus. Two shelves are in<br/><br/>between the cube and the sphere. The diamond<br/><br/>is kept immediately below the sphere. Two<br/><br/>shelves are in between the diamond and the<br/><br/>pyramid. The prism is kept immediately above<br/><br/>the cylinder. The cone is kept above the prism.<br/><br/>Which solid is kept immediately below the<br/><br/>cylinder?<br/>",
     "options": [
       {
         "id": "A",
@@ -181,33 +311,67 @@
       {
         "id": "D",
         "text": "None",
-        "html": "None"
+        "html": "None "
       },
       {
         "id": "E",
         "text": "Sphere",
-        "html": "Sphere"
+        "html": "Sphere<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "The torus is kept immediately above the cube. As\nmany shelves are above the cube as many are\nbelow the torus. Two shelves are in between the\ncube and the sphere. So, we get two possible\ncases:\nShapes\nShapes\nCase 1\nCase 2",
-    "explanationHtml": "The torus is kept immediately above the cube. As<br/>many shelves are above the cube as many are<br/>below the torus. Two shelves are in between the<br/>cube and the sphere. So, we get two possible<br/>cases:<br/>Shapes<br/>Shapes<br/>Case 1<br/>Case 2",
+    "optionsHtml": [
+      "Diamond",
+      "Pyramid",
+      "Torus",
+      "None ",
+      "Sphere<br/><br/>"
+    ],
+    "explanation": "The torus is kept immediately above the cube. As\n\nmany shelves are above the cube as many are\n\nbelow the torus. Two shelves are in between the\n\ncube and the sphere. So, we get two possible\n\ncases:\n\nShapes\nShapes\n\nCase 1\nCase 2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions:Study the following informations\n\ncarefully and answer the questions given\n\nbelow.\n\nEight shelves are stacked one above another\n\nsuch that each shelf has a different shaped solid\n\non it. The torus is kept immediately above the\n\ncube. As many shelves are above the cube as\n\nmany are below the torus. Two shelves are in\n\nbetween the cube and the sphere. The diamond\n\nis kept immediately below the sphere. Two\n\nshelves are in between the diamond and the\n\npyramid. The prism is kept immediately above\n\nthe cylinder. The cone is kept above the prism.\n\nWhich solid is kept immediately below the\n\ncylinder?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "6",
-    "level": "Level-1",
-    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \n \nEight boxes i.e. B, U, I, E, Q, O, R, and W are\nplaced one above the other but not necessarily\nin the same order. Three boxes are placed\nbetween B and W. B is placed either at the\ntopmost or bottommost position. Box I is placed\njust above box U. Box W is placed just above box\nR. There are two boxes placed between O and R.\nNot more than two boxes are placed between B\nand O. More than three boxes are placed\nbetween I and E.\n \nFour of the following five are alike in a certain\nway and hence form a group. Find out the one\nthat does not belong to that group.",
-    "questionHtml": "Read the information given below carefully and<br/>answer the questions accordingly.<br/> <br/> <br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/>placed one above the other but not necessarily<br/>in the same order. Three boxes are placed<br/>between B and W. B is placed either at the<br/>topmost or bottommost position. Box I is placed<br/>just above box U. Box W is placed just above box<br/>R. There are two boxes placed between O and R.<br/>Not more than two boxes are placed between B<br/>and O. More than three boxes are placed<br/>between I and E.<br/> <br/>Four of the following five are alike in a certain<br/>way and hence form a group. Find out the one<br/>that does not belong to that group.",
+    "id": "box_puzzle_chapter_wise_dpp_english_6",
+    "question": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nFour of the following five are alike in a certain\n\nway and hence form a group. Find out the one\n\nthat does not belong to that group.",
+    "question_html": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>Four of the following five are alike in a certain<br/><br/>way and hence form a group. Find out the one<br/><br/>that does not belong to that group.<br/>",
+    "questionHtml": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>Four of the following five are alike in a certain<br/><br/>way and hence form a group. Find out the one<br/><br/>that does not belong to that group.<br/>",
     "options": [
       {
         "id": "A",
@@ -232,28 +396,62 @@
       {
         "id": "E",
         "text": "U and W",
-        "html": "U and W"
+        "html": "U and W<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "Three boxes are placed between B and W. B is\nplaced either at the topmost or bottommost\nposition. So, we get two possible cases: -\nCase 1\nCase 2\nB\nW\n \n \n \n \n \n \nW\nB\nBox W is placed just above box R. There are two\nboxes placed between O and R. Not more than\ntwo boxes are placed between B and O. Thus,\ncase 2 is cancelled here.\nCase 1\nCase 2\nB\nO\n \n \nO\nW\n \nR\nW\n \nR\n \n \nB\n \n \nBox I is placed just above box U. More than three\nboxes are placed between I and E. We know, Q is\none of the boxes, hence the final arrangement is:\n-\nBoxes\nB\nE\nO\nQ\nW\nR\nI\nU",
-    "explanationHtml": "Three boxes are placed between B and W. B is<br/>placed either at the topmost or bottommost<br/>position. So, we get two possible cases: -<br/>Case 1<br/>Case 2<br/>B<br/>W<br/> <br/> <br/> <br/> <br/> <br/> <br/>W<br/>B<br/>Box W is placed just above box R. There are two<br/>boxes placed between O and R. Not more than<br/>two boxes are placed between B and O. Thus,<br/>case 2 is cancelled here.<br/>Case 1<br/>Case 2<br/>B<br/>O<br/> <br/> <br/>O<br/>W<br/> <br/>R<br/>W<br/> <br/>R<br/> <br/> <br/>B<br/> <br/> <br/>Box I is placed just above box U. More than three<br/>boxes are placed between I and E. We know, Q is<br/>one of the boxes, hence the final arrangement is:<br/>-<br/>Boxes<br/>B<br/>E<br/>O<br/>Q<br/>W<br/>R<br/>I<br/>U",
+    "optionsHtml": [
+      "B and Q",
+      "E and W",
+      "O and R",
+      "U and I",
+      "U and W<br/><br/>"
+    ],
+    "explanation": "Three boxes are placed between B and W. B is\n\nplaced either at the topmost or bottommost\n\nposition. So, we get two possible cases: -\n\nCase 1\nCase 2\n\nB\nW\n\nW\nB\n\nBox W is placed just above box R. There are two\n\nboxes placed between O and R. Not more than\n\ntwo boxes are placed between B and O. Thus,\n\ncase 2 is cancelled here.\n\nCase 1\nCase 2\n\nB\nO\n\nO\nW\n\nR\n\nW\n\nR\n\nB\n\nBox I is placed just above box U. More than three\n\nboxes are placed between I and E. We know, Q is\n\none of the boxes, hence the final arrangement is:\n\n-\n\nBoxes\n\nB\n\nE\n\nO\n\nQ\n\nW\n\nR\n\nI\n\nU",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nFour of the following five are alike in a certain\n\nway and hence form a group. Find out the one\n\nthat does not belong to that group.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "7",
-    "level": "Level-1",
-    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \n \nEight boxes i.e. B, U, I, E, Q, O, R, and W are\nplaced one above the other but not necessarily\nin the same order. Three boxes are placed\nbetween B and W. B is placed either at the\ntopmost or bottommost position. Box I is placed\njust above box U. Box W is placed just above box\nR. There are two boxes placed between O and R.\nNot more than two boxes are placed between B\nand O. More than three boxes are placed\nbetween I and E.\n \nHow many boxes are placed between I and R?",
-    "questionHtml": "Read the information given below carefully and<br/>answer the questions accordingly.<br/> <br/> <br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/>placed one above the other but not necessarily<br/>in the same order. Three boxes are placed<br/>between B and W. B is placed either at the<br/>topmost or bottommost position. Box I is placed<br/>just above box U. Box W is placed just above box<br/>R. There are two boxes placed between O and R.<br/>Not more than two boxes are placed between B<br/>and O. More than three boxes are placed<br/>between I and E.<br/> <br/>How many boxes are placed between I and R?",
+    "id": "box_puzzle_chapter_wise_dpp_english_7",
+    "question": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nHow many boxes are placed between I and R?",
+    "question_html": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>How many boxes are placed between I and R?<br/>",
+    "questionHtml": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>How many boxes are placed between I and R?<br/>",
     "options": [
       {
         "id": "A",
@@ -278,48 +476,110 @@
       {
         "id": "E",
         "text": "None",
-        "html": "None"
+        "html": "None<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "Three boxes are placed between B and W. B is\nplaced either at the topmost or bottommost\nposition. So, we get two possible cases: -\nCase 1\nCase 2\nB\nW",
-    "explanationHtml": "Three boxes are placed between B and W. B is<br/>placed either at the topmost or bottommost<br/>position. So, we get two possible cases: -<br/>Case 1<br/>Case 2<br/>B<br/>W",
+    "optionsHtml": [
+      "Five",
+      "Four",
+      "Three",
+      "Two",
+      "None<br/><br/>"
+    ],
+    "explanation": "Three boxes are placed between B and W. B is\n\nplaced either at the topmost or bottommost\n\nposition. So, we get two possible cases: -\n\nCase 1\nCase 2\n\nB\nW",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nHow many boxes are placed between I and R?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "8",
-    "level": "Level-1",
-    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \n \nEight boxes i.e. B, U, I, E, Q, O, R, and W are\nplaced one above the other but not necessarily\nin the same order. Three boxes are placed\nbetween B and W. B is placed either at the",
-    "questionHtml": "Read the information given below carefully and<br/>answer the questions accordingly.<br/> <br/> <br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/>placed one above the other but not necessarily<br/>in the same order. Three boxes are placed<br/>between B and W. B is placed either at the",
+    "id": "box_puzzle_chapter_wise_dpp_english_8",
+    "question": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the",
+    "question_html": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the",
+    "questionHtml": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "Three boxes are placed between B and W. B is\nplaced either at the topmost or bottommost\nposition. So, we get two possible cases: -\nCase 1\nCase 2\nB\nW\n \n \n \n \n \n \nW\nB\nBox W is placed just above box R. There are two\nboxes placed between O and R. Not more than\ntwo boxes are placed between B and O. Thus,\ncase 2 is cancelled here.\nCase 1\nCase 2\nB\nO\n \n \nO\nW\n \nR\nW\n \nR\n \n \nB\n \n \nBox I is placed just above box U. More than three\nboxes are placed between I and E. We know, Q is\none of the boxes, hence the final arrangement is:\n-\nBoxes\nB\nE\nO\nQ\nW\nR\nI\nU",
-    "explanationHtml": "Three boxes are placed between B and W. B is<br/>placed either at the topmost or bottommost<br/>position. So, we get two possible cases: -<br/>Case 1<br/>Case 2<br/>B<br/>W<br/> <br/> <br/> <br/> <br/> <br/> <br/>W<br/>B<br/>Box W is placed just above box R. There are two<br/>boxes placed between O and R. Not more than<br/>two boxes are placed between B and O. Thus,<br/>case 2 is cancelled here.<br/>Case 1<br/>Case 2<br/>B<br/>O<br/> <br/> <br/>O<br/>W<br/> <br/>R<br/>W<br/> <br/>R<br/> <br/> <br/>B<br/> <br/> <br/>Box I is placed just above box U. More than three<br/>boxes are placed between I and E. We know, Q is<br/>one of the boxes, hence the final arrangement is:<br/>-<br/>Boxes<br/>B<br/>E<br/>O<br/>Q<br/>W<br/>R<br/>I<br/>U",
+    "optionsHtml": [],
+    "explanation": "Three boxes are placed between B and W. B is\n\nplaced either at the topmost or bottommost\n\nposition. So, we get two possible cases: -\n\nCase 1\nCase 2\n\nB\nW\n\nW\nB\n\nBox W is placed just above box R. There are two\n\nboxes placed between O and R. Not more than\n\ntwo boxes are placed between B and O. Thus,\n\ncase 2 is cancelled here.\n\nCase 1\nCase 2\n\nB\nO\n\nO\nW\n\nR\n\nW\n\nR\n\nB\n\nBox I is placed just above box U. More than three\n\nboxes are placed between I and E. We know, Q is\n\none of the boxes, hence the final arrangement is:\n\n-\n\nBoxes\n\nB\n\nE\n\nO\n\nQ\n\nW\n\nR\n\nI\n\nU",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "9",
-    "level": "Level-1",
-    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \n \nEight boxes i.e. B, U, I, E, Q, O, R, and W are\nplaced one above the other but not necessarily\nin the same order. Three boxes are placed\nbetween B and W. B is placed either at the\ntopmost or bottommost position. Box I is placed\njust above box U. Box W is placed just above box\nR. There are two boxes placed between O and R.\nNot more than two boxes are placed between B\nand O. More than three boxes are placed\nbetween I and E.\n \nThe number of boxes placed between E and R is\nsame as the number of boxes placed between\n___ and O?",
-    "questionHtml": "Read the information given below carefully and<br/>answer the questions accordingly.<br/> <br/> <br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/>placed one above the other but not necessarily<br/>in the same order. Three boxes are placed<br/>between B and W. B is placed either at the<br/>topmost or bottommost position. Box I is placed<br/>just above box U. Box W is placed just above box<br/>R. There are two boxes placed between O and R.<br/>Not more than two boxes are placed between B<br/>and O. More than three boxes are placed<br/>between I and E.<br/> <br/>The number of boxes placed between E and R is<br/>same as the number of boxes placed between<br/>___ and O?",
+    "id": "box_puzzle_chapter_wise_dpp_english_9",
+    "question": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nThe number of boxes placed between E and R is\n\nsame as the number of boxes placed between\n\n___ and O?",
+    "question_html": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>The number of boxes placed between E and R is<br/><br/>same as the number of boxes placed between<br/><br/>___ and O?<br/>",
+    "questionHtml": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>The number of boxes placed between E and R is<br/><br/>same as the number of boxes placed between<br/><br/>___ and O?<br/>",
     "options": [
       {
         "id": "A",
@@ -344,28 +604,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "Three boxes are placed between B and W. B is\nplaced either at the topmost or bottommost\nposition. So, we get two possible cases: -\nCase 1\nCase 2\nB\nW\n \n \n \n \n \n \nW\nB\nBox W is placed just above box R. There are two\nboxes placed between O and R. Not more than",
-    "explanationHtml": "Three boxes are placed between B and W. B is<br/>placed either at the topmost or bottommost<br/>position. So, we get two possible cases: -<br/>Case 1<br/>Case 2<br/>B<br/>W<br/> <br/> <br/> <br/> <br/> <br/> <br/>W<br/>B<br/>Box W is placed just above box R. There are two<br/>boxes placed between O and R. Not more than",
+    "optionsHtml": [
+      "Z",
+      "I",
+      "B",
+      "W",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Three boxes are placed between B and W. B is\n\nplaced either at the topmost or bottommost\n\nposition. So, we get two possible cases: -\n\nCase 1\nCase 2\n\nB\nW\n\nW\nB\n\nBox W is placed just above box R. There are two\n\nboxes placed between O and R. Not more than",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nThe number of boxes placed between E and R is\n\nsame as the number of boxes placed between\n\n___ and O?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "10",
-    "level": "Level-1",
-    "question": "Read the information given below carefully and\nanswer the questions accordingly.\n \n \nEight boxes i.e. B, U, I, E, Q, O, R, and W are\nplaced one above the other but not necessarily\nin the same order. Three boxes are placed\nbetween B and W. B is placed either at the\ntopmost or bottommost position. Box I is placed\njust above box U. Box W is placed just above box\nR. There are two boxes placed between O and R.\nNot more than two boxes are placed between B\nand O. More than three boxes are placed\nbetween I and E.\n \nWhich of the following box is placed third from\nthe top?",
-    "questionHtml": "Read the information given below carefully and<br/>answer the questions accordingly.<br/> <br/> <br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/>placed one above the other but not necessarily<br/>in the same order. Three boxes are placed<br/>between B and W. B is placed either at the<br/>topmost or bottommost position. Box I is placed<br/>just above box U. Box W is placed just above box<br/>R. There are two boxes placed between O and R.<br/>Not more than two boxes are placed between B<br/>and O. More than three boxes are placed<br/>between I and E.<br/> <br/>Which of the following box is placed third from<br/>the top?",
+    "id": "box_puzzle_chapter_wise_dpp_english_10",
+    "question": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nWhich of the following box is placed third from\n\nthe top?",
+    "question_html": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>Which of the following box is placed third from<br/><br/>the top?<br/>",
+    "questionHtml": "<b>Read the information given below carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight boxes i.e. B, U, I, E, Q, O, R, and W are<br/><br/>placed one above the other but not necessarily<br/><br/>in the same order. Three boxes are placed<br/><br/>between B and W. B is placed either at the<br/><br/>topmost or bottommost position. Box I is placed<br/><br/>just above box U. Box W is placed just above box<br/><br/>R. There are two boxes placed between O and R.<br/><br/>Not more than two boxes are placed between B<br/><br/>and O. More than three boxes are placed<br/><br/>between I and E.<br/><br/>Which of the following box is placed third from<br/><br/>the top?<br/>",
     "options": [
       {
         "id": "A",
@@ -390,28 +684,62 @@
       {
         "id": "E",
         "text": "Q",
-        "html": "Q"
+        "html": "Q<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Three boxes are placed between B and W. B is\nplaced either at the topmost or bottommost\nposition. So, we get two possible cases: -\nCase 1\nCase 2\nB\nW\n \n \n \n \n \n \nW\nB\nBox W is placed just above box R. There are two\nboxes placed between O and R. Not more than\ntwo boxes are placed between B and O. Thus,\ncase 2 is cancelled here.\nCase 1\nCase 2\nB\nO\n \n \nO\nW\n \nR\nW\n \nR\n \n \nB\n \n \nBox I is placed just above box U. More than three\nboxes are placed between I and E. We know, Q is\none of the boxes, hence the final arrangement is:\n-\nBoxes\nB\nE\nO\nQ\nW\nR\nI\nU",
-    "explanationHtml": "Three boxes are placed between B and W. B is<br/>placed either at the topmost or bottommost<br/>position. So, we get two possible cases: -<br/>Case 1<br/>Case 2<br/>B<br/>W<br/> <br/> <br/> <br/> <br/> <br/> <br/>W<br/>B<br/>Box W is placed just above box R. There are two<br/>boxes placed between O and R. Not more than<br/>two boxes are placed between B and O. Thus,<br/>case 2 is cancelled here.<br/>Case 1<br/>Case 2<br/>B<br/>O<br/> <br/> <br/>O<br/>W<br/> <br/>R<br/>W<br/> <br/>R<br/> <br/> <br/>B<br/> <br/> <br/>Box I is placed just above box U. More than three<br/>boxes are placed between I and E. We know, Q is<br/>one of the boxes, hence the final arrangement is:<br/>-<br/>Boxes<br/>B<br/>E<br/>O<br/>Q<br/>W<br/>R<br/>I<br/>U",
+    "optionsHtml": [
+      "B",
+      "R",
+      "O",
+      "E",
+      "Q<br/><br/>"
+    ],
+    "explanation": "Three boxes are placed between B and W. B is\n\nplaced either at the topmost or bottommost\n\nposition. So, we get two possible cases: -\n\nCase 1\nCase 2\n\nB\nW\n\nW\nB\n\nBox W is placed just above box R. There are two\n\nboxes placed between O and R. Not more than\n\ntwo boxes are placed between B and O. Thus,\n\ncase 2 is cancelled here.\n\nCase 1\nCase 2\n\nB\nO\n\nO\nW\n\nR\n\nW\n\nR\n\nB\n\nBox I is placed just above box U. More than three\n\nboxes are placed between I and E. We know, Q is\n\none of the boxes, hence the final arrangement is:\n\n-\n\nBoxes\n\nB\n\nE\n\nO\n\nQ\n\nW\n\nR\n\nI\n\nU",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Read the information given below carefully and\n\nanswer the questions accordingly.\n\nEight boxes i.e. B, U, I, E, Q, O, R, and W are\n\nplaced one above the other but not necessarily\n\nin the same order. Three boxes are placed\n\nbetween B and W. B is placed either at the\n\ntopmost or bottommost position. Box I is placed\n\njust above box U. Box W is placed just above box\n\nR. There are two boxes placed between O and R.\n\nNot more than two boxes are placed between B\n\nand O. More than three boxes are placed\n\nbetween I and E.\n\nWhich of the following box is placed third from\n\nthe top?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "11",
-    "level": "Level-1",
-    "question": "Directions: Study the following information\ncarefully and answer the question given below.\nIn a general store seven boxes of different names\nare kept. They are: A, B, C, D, E, F, and G. Each box\nhas a number written on it from 1 to 7 but not\nessentially in the same order. The boxes are\narranged in ascending order with the lowest\nnumber on the bottom.Box B is immediately\nabove the box E. E is place on an odd number.\nTwo boxes are kept between B and D. Not more\nthan one box is put down between D and A, in\nwhich D is placed above A. Two boxes are kept\nbetween E and C. The box G is placed\nimmediately below box E but not immediately\nabove the box F.\nWhich of the following condition is true?",
-    "questionHtml": "Directions: Study the following information<br/>carefully and answer the question given below.<br/>In a general store seven boxes of different names<br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/>has a number written on it from 1 to 7 but not<br/>essentially in the same order. The boxes are<br/>arranged in ascending order with the lowest<br/>number on the bottom.Box B is immediately<br/>above the box E. E is place on an odd number.<br/>Two boxes are kept between B and D. Not more<br/>than one box is put down between D and A, in<br/>which D is placed above A. Two boxes are kept<br/>between E and C. The box G is placed<br/>immediately below box E but not immediately<br/>above the box F.<br/>Which of the following condition is true?",
+    "id": "box_puzzle_chapter_wise_dpp_english_11",
+    "question": "Directions: Study the following information\n\ncarefully and answer the question given below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the same order. The boxes are\n\narranged in ascending order with the lowest\n\nnumber on the bottom.Box B is immediately\n\nabove the box E. E is place on an odd number.\n\nTwo boxes are kept between B and D. Not more\n\nthan one box is put down between D and A, in\n\nwhich D is placed above A. Two boxes are kept\n\nbetween E and C. The box G is placed\n\nimmediately below box E but not immediately\n\nabove the box F.\n\nWhich of the following condition is true?",
+    "question_html": "<b>Directions: Study the following information</b><br/><br/><b>carefully and answer the question given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the same order. The boxes are<br/><br/>arranged in ascending order with the lowest<br/><br/>number on the bottom.Box B is immediately<br/><br/>above the box E. E is place on an odd number.<br/><br/>Two boxes are kept between B and D. Not more<br/><br/>than one box is put down between D and A, in<br/><br/>which D is placed above A. Two boxes are kept<br/><br/>between E and C. The box G is placed<br/><br/>immediately below box E but not immediately<br/><br/>above the box F.<br/><br/>Which of the following condition is true?<br/>",
+    "questionHtml": "<b>Directions: Study the following information</b><br/><br/><b>carefully and answer the question given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the same order. The boxes are<br/><br/>arranged in ascending order with the lowest<br/><br/>number on the bottom.Box B is immediately<br/><br/>above the box E. E is place on an odd number.<br/><br/>Two boxes are kept between B and D. Not more<br/><br/>than one box is put down between D and A, in<br/><br/>which D is placed above A. Two boxes are kept<br/><br/>between E and C. The box G is placed<br/><br/>immediately below box E but not immediately<br/><br/>above the box F.<br/><br/>Which of the following condition is true?<br/>",
     "options": [
       {
         "id": "A",
@@ -436,53 +764,115 @@
       {
         "id": "E",
         "text": "B - 6th",
-        "html": "B - 6th"
+        "html": "B - 6th<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "1)Box B is immediately above the box E\n2)E is place on an odd number\n3)The box G is placed immediately below box E\nbut not immediately above the box F.\n4)Two boxes are kept between B and D.\nHere Three cases arises CASE I , CASE II and\nCASE III\n \nBox\nCASE\nI(eliminated\n)\nCASE II\nCASE III\n7\n \nD/\n \n6\n \n \nB\n5\n \n \nE\n4\n \nB\nG\n3\n \nE\nD\n2\nB\nG",
-    "explanationHtml": "1)Box B is immediately above the box E<br/>2)E is place on an odd number<br/>3)The box G is placed immediately below box E<br/>but not immediately above the box F.<br/>4)Two boxes are kept between B and D.<br/>Here Three cases arises CASE I , CASE II and<br/>CASE III<br/> <br/>Box<br/>CASE<br/>I(eliminated<br/>)<br/>CASE II<br/>CASE III<br/>7<br/> <br/>D/<br/> <br/>6<br/> <br/> <br/>B<br/>5<br/> <br/> <br/>E<br/>4<br/> <br/>B<br/>G<br/>3<br/> <br/>E<br/>D<br/>2<br/>B<br/>G",
+    "optionsHtml": [
+      "C - 7th",
+      "F - 1st",
+      "G - 6th",
+      "A - 3rd",
+      "B - 6th<br/><br/>"
+    ],
+    "explanation": "1)Box B is immediately above the box E\n\n2)E is place on an odd number\n\n3)The box G is placed immediately below box E\n\nbut not immediately above the box F.\n\n4)Two boxes are kept between B and D.\n\nHere Three cases arises CASE I , CASE II and\n\nCASE III\n\nBox\n\nCASE\n\nI(eliminated\n\n)\n\nCASE II\nCASE III\n\n7\nD/\n\n6\nB\n\n5\nE\n\n4\nB\nG\n\n3\nE\nD\n\n2\nB\nG",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Directions: Study the following information\n\ncarefully and answer the question given below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the same order. The boxes are\n\narranged in ascending order with the lowest\n\nnumber on the bottom.Box B is immediately\n\nabove the box E. E is place on an odd number.\n\nTwo boxes are kept between B and D. Not more\n\nthan one box is put down between D and A, in\n\nwhich D is placed above A. Two boxes are kept\n\nbetween E and C. The box G is placed\n\nimmediately below box E but not immediately\n\nabove the box F.\n\nWhich of the following condition is true?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "12",
-    "level": "Level-1",
-    "question": "Directions: \nStudy \nthe \nfollowing\ninformation carefully and answer the question\ngiven below.\nIn a general store seven boxes of different names\nare kept. They are: A, B, C, D, E, F, and G. Each box\nhas a number written on it from 1 to 7 but not\nessentially in the same order. The boxes are\narranged in ascending order with the lowest\nnumber on the Bottom.Box B is immediately",
-    "questionHtml": "Directions: <br/>Study <br/>the <br/>following<br/>information carefully and answer the question<br/>given below.<br/>In a general store seven boxes of different names<br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/>has a number written on it from 1 to 7 but not<br/>essentially in the same order. The boxes are<br/>arranged in ascending order with the lowest<br/>number on the Bottom.Box B is immediately",
+    "id": "box_puzzle_chapter_wise_dpp_english_12",
+    "question": "Directions: \nStudy \nthe \nfollowing\n\ninformation carefully and answer the question\n\ngiven below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the same order. The boxes are\n\narranged in ascending order with the lowest\n\nnumber on the Bottom.Box B is immediately",
+    "question_html": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following</b><br/><br/><b>information  carefully and answer the question</b><br/><br/><b>given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the same order. The boxes are<br/><br/>arranged in ascending order with the lowest<br/><br/>number on the Bottom.Box B is immediately",
+    "questionHtml": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following</b><br/><br/><b>information  carefully and answer the question</b><br/><br/><b>given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the same order. The boxes are<br/><br/>arranged in ascending order with the lowest<br/><br/>number on the Bottom.Box B is immediately",
     "options": [],
-    "correctAnswer": 1,
-    "explanation": "1)Box B is immediately above the box E\n2)E is place on an odd number\n3)The box G is placed immediately below box E\nbut not immediately above the box F.\n4)Two boxes are kept between B and D.\nHere Three cases arises CASE I , CASE II and\nCASE III\n \nBox\nCASE\nI(eliminated\n)\nCASE II\nCASE III\n7\n \nD/\n \n6\n \n \nB\n5\n \n \nE\n4\n \nB\nG\n3\n \nE\nD\n2\nB\nG\n \n1\nE\nD/\n \nCASE I is eliminated\n5)Two boxes are kept between E and C\n6)Not more than one box is put down between D\nand A, in which D is placed above A.\n \nBox\nCASE III\nCASE\nII(Eliminate\nd)\n7\n F\nD\n6\nB\nC\n5\nE\nA\n4\nG\nB\n3\nD\nE\n2\n C\nG\n1\n A\nF\n \nCase II is eliminated because it is not allowing\ncondition number 3 in which The box G is placed\nimmediately below box E but not immediately\nabove the box F.\nSo case III is final arrangement \nBox Number \n7\nF\n6\nB\n5\nE\n4\nG\n3\nD\n2\nC\n1\nA\nSo, Box C is kept between box D and Box A.\nHence, the correct option is (B).",
-    "explanationHtml": "1)Box B is immediately above the box E<br/>2)E is place on an odd number<br/>3)The box G is placed immediately below box E<br/>but not immediately above the box F.<br/>4)Two boxes are kept between B and D.<br/>Here Three cases arises CASE I , CASE II and<br/>CASE III<br/> <br/>Box<br/>CASE<br/>I(eliminated<br/>)<br/>CASE II<br/>CASE III<br/>7<br/> <br/>D/<br/> <br/>6<br/> <br/> <br/>B<br/>5<br/> <br/> <br/>E<br/>4<br/> <br/>B<br/>G<br/>3<br/> <br/>E<br/>D<br/>2<br/>B<br/>G<br/> <br/>1<br/>E<br/>D/<br/> <br/>CASE I is eliminated<br/>5)Two boxes are kept between E and C<br/>6)Not more than one box is put down between D<br/>and A, in which D is placed above A.<br/> <br/>Box<br/>CASE III<br/>CASE<br/>II(Eliminate<br/>d)<br/>7<br/> F<br/>D<br/>6<br/>B<br/>C<br/>5<br/>E<br/>A<br/>4<br/>G<br/>B<br/>3<br/>D<br/>E<br/>2<br/> C<br/>G<br/>1<br/> A<br/>F<br/> <br/>Case II is eliminated because it is not allowing<br/>condition number 3 in which The box G is placed<br/>immediately below box E but not immediately<br/>above the box F.<br/>So case III is final arrangement <br/>Box Number <br/>7<br/>F<br/>6<br/>B<br/>5<br/>E<br/>4<br/>G<br/>3<br/>D<br/>2<br/>C<br/>1<br/>A<br/>So, Box C is kept between box D and Box A.<br/>Hence, the correct option is (B).",
+    "optionsHtml": [],
+    "explanation": "1)Box B is immediately above the box E\n\n2)E is place on an odd number\n\n3)The box G is placed immediately below box E\n\nbut not immediately above the box F.\n\n4)Two boxes are kept between B and D.\n\nHere Three cases arises CASE I , CASE II and\n\nCASE III\n\nBox\n\nCASE\n\nI(eliminated\n\n)\n\nCASE II\nCASE III\n\n7\nD/\n\n6\nB\n\n5\nE\n\n4\nB\nG\n\n3\nE\nD\n\n2\nB\nG\n\n1\nE\nD/\n\nCASE I is eliminated\n\n5)Two boxes are kept between E and C\n\n6)Not more than one box is put down between D\n\nand A, in which D is placed above A.\n\nBox\nCASE III\n\nCASE\n\nII(Eliminate\n\nd)\n\n7\n F\nD\n\n6\nB\nC\n\n5\nE\nA\n\n4\nG\nB\n\n3\nD\nE\n\n2\n C\nG\n\n1\n A\nF\n\nCase II is eliminated because it is not allowing\n\ncondition number 3 in which The box G is placed\n\nimmediately below box E but not immediately\n\nabove the box F.\n\nSo case III is final arrangement \n\nBox Number \n\n7\nF\n\n6\nB\n\n5\nE\n\n4\nG\n\n3\nD\n\n2\nC\n\n1\nA\n\nSo, Box C is kept between box D and Box A.\n\nHence, the correct option is (B).",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Directions: \nStudy \nthe \nfollowing\n\ninformation carefully and answer the question\n\ngiven below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the same order. The boxes are\n\narranged in ascending order with the lowest\n\nnumber on the Bottom.Box B is immediately",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "13",
-    "level": "Level-1",
-    "question": "Directions: \nStudy \nthe \nfollowing\ninformation carefully and answer the question\ngiven below.\nIn a general store seven boxes of different names\nare kept. They are: A, B, C, D, E, F, and G. Each box\nhas a number written on it from 1 to 7 but not\nessentially in the parallel order. The boxes are\narranged in a pile in ascending order with the\nlowest \nnumber \non \nthe \nbottom.Box \nB \nis\nimmediately above the box E. E is place on an\nodd number. Two boxes are kept between B and",
-    "questionHtml": "Directions: <br/>Study <br/>the <br/>following<br/>information carefully and answer the question<br/>given below.<br/>In a general store seven boxes of different names<br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/>has a number written on it from 1 to 7 but not<br/>essentially in the parallel order. The boxes are<br/>arranged in a pile in ascending order with the<br/>lowest <br/>number <br/>on <br/>the <br/>bottom.Box <br/>B <br/>is<br/>immediately above the box E. E is place on an<br/>odd number. Two boxes are kept between B and",
+    "id": "box_puzzle_chapter_wise_dpp_english_13",
+    "question": "Directions: \nStudy \nthe \nfollowing\n\ninformation carefully and answer the question\n\ngiven below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the parallel order. The boxes are\n\narranged in a pile in ascending order with the\n\nlowest \nnumber \non \nthe \nbottom.Box \nB \nis\n\nimmediately above the box E. E is place on an\n\nodd number. Two boxes are kept between B and",
+    "question_html": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following</b><br/><br/><b>information  carefully and answer the question</b><br/><br/><b>given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the parallel order. The boxes are<br/><br/>arranged in a pile in ascending order with the<br/><br/>lowest <br/>number <br/>on <br/>the <br/>bottom.Box <br/>B <br/>is<br/><br/>immediately above the box E. E is place on an<br/><br/>odd number. Two boxes are kept between B and<br/>",
+    "questionHtml": "<b>Directions: </b><br/><b>Study </b><br/><b>the </b><br/><b>following</b><br/><br/><b>information  carefully and answer the question</b><br/><br/><b>given below.</b><br/><br/>In a general store seven boxes of different names<br/><br/>are kept. They are: A, B, C, D, E, F, and G. Each box<br/><br/>has a number written on it from 1 to 7 but not<br/><br/>essentially in the parallel order. The boxes are<br/><br/>arranged in a pile in ascending order with the<br/><br/>lowest <br/>number <br/>on <br/>the <br/>bottom.Box <br/>B <br/>is<br/><br/>immediately above the box E. E is place on an<br/><br/>odd number. Two boxes are kept between B and<br/>",
     "options": [
       {
         "id": "D",
-        "text": "Not more than one box is put down between D\nand A, in which D is placed above A. Two boxes\nare kept between E and C. The box G is placed\nimmediately below box E but not immediately\nabove the box F\nBox G is which number box?",
-        "html": "Not more than one box is put down between D\nand A, in which D is placed above A. Two boxes\nare kept between E and C. The box G is placed\nimmediately below box E but not immediately\nabove the box F\nBox G is which number box?"
+        "text": "Not more than one box is put down between D\n\nand A, in which D is placed above A. Two boxes\n\nare kept between E and C. The box G is placed\n\nimmediately below box E but not immediately\n\nabove the box F\n\nBox G is which number box?",
+        "html": "Not more than one box is put down between D<br/><br/>and A, in which D is placed above A. Two boxes<br/><br/>are kept between E and C. The box G is placed<br/><br/>immediately below box E but not immediately<br/><br/>above the box F<br/><br/>Box G is which number box?"
       },
       {
         "id": "A",
@@ -507,21 +897,56 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "1)Box B is immediately above the box E\n2)E is place on an odd number\n3)The box G is placed immediately below box E\nbut not immediately above the box F.\n4)Two boxes are kept between B and D.\nHere Three cases arises CASE I , CASE II and\nCASE III\n \nBox\nCASE\nI(eliminated\n)\nCASE II\nCASE III\n7\n \nD/\n \n6\n \n \nB\n5\n \n \nE\n4\n \nB\nG\n3\n \nE\nD\n2\nB\nG\n \n1\nE\nD/\n \nCASE I is eliminated\n5)Two boxes are kept between E and C\n6)Not more than one box is put down between D\nand A, in which D is placed above A.\n \nBox\nCASE III\nCASE\nII(Eliminate\nd)\n7\n F\nD\n6\nB\nC\n5\nE\nA\n4\nG\nB\n3\nD\nE\n2\n C\nG\n1\n A\nF\n \nCase II is eliminated because it is not allowing\ncondition number 3 in which The box G is placed\nimmediately below box E but not immediately\nabove the box F.\nSo case III is final arrangement \nBox Number \n7\nF\n6\nB\n5\nE\n4\nG\n3\nD\n2\nC\n1\nA\nSo, box G is 4th number box.\nHence, the correct option is (C).",
-    "explanationHtml": "1)Box B is immediately above the box E<br/>2)E is place on an odd number<br/>3)The box G is placed immediately below box E<br/>but not immediately above the box F.<br/>4)Two boxes are kept between B and D.<br/>Here Three cases arises CASE I , CASE II and<br/>CASE III<br/> <br/>Box<br/>CASE<br/>I(eliminated<br/>)<br/>CASE II<br/>CASE III<br/>7<br/> <br/>D/<br/> <br/>6<br/> <br/> <br/>B<br/>5<br/> <br/> <br/>E<br/>4<br/> <br/>B<br/>G<br/>3<br/> <br/>E<br/>D<br/>2<br/>B<br/>G<br/> <br/>1<br/>E<br/>D/<br/> <br/>CASE I is eliminated<br/>5)Two boxes are kept between E and C<br/>6)Not more than one box is put down between D<br/>and A, in which D is placed above A.<br/> <br/>Box<br/>CASE III<br/>CASE<br/>II(Eliminate<br/>d)<br/>7<br/> F<br/>D<br/>6<br/>B<br/>C<br/>5<br/>E<br/>A<br/>4<br/>G<br/>B<br/>3<br/>D<br/>E<br/>2<br/> C<br/>G<br/>1<br/> A<br/>F<br/> <br/>Case II is eliminated because it is not allowing<br/>condition number 3 in which The box G is placed<br/>immediately below box E but not immediately<br/>above the box F.<br/>So case III is final arrangement <br/>Box Number <br/>7<br/>F<br/>6<br/>B<br/>5<br/>E<br/>4<br/>G<br/>3<br/>D<br/>2<br/>C<br/>1<br/>A<br/>So, box G is 4th number box.<br/>Hence, the correct option is (C).",
+    "optionsHtml": [
+      "Not more than one box is put down between D<br/><br/>and A, in which D is placed above A. Two boxes<br/><br/>are kept between E and C. The box G is placed<br/><br/>immediately below box E but not immediately<br/><br/>above the box F<br/><br/>Box G is which number box?",
+      "3rd",
+      "6th",
+      "4th",
+      "5th",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1)Box B is immediately above the box E\n\n2)E is place on an odd number\n\n3)The box G is placed immediately below box E\n\nbut not immediately above the box F.\n\n4)Two boxes are kept between B and D.\n\nHere Three cases arises CASE I , CASE II and\n\nCASE III\n\nBox\n\nCASE\n\nI(eliminated\n\n)\n\nCASE II\nCASE III\n\n7\nD/\n\n6\nB\n\n5\nE\n\n4\nB\nG\n\n3\nE\nD\n\n2\nB\nG\n\n1\nE\nD/\n\nCASE I is eliminated\n\n5)Two boxes are kept between E and C\n\n6)Not more than one box is put down between D\n\nand A, in which D is placed above A.\n\nBox\nCASE III\n\nCASE\n\nII(Eliminate\n\nd)\n\n7\n F\nD\n\n6\nB\nC\n\n5\nE\nA\n\n4\nG\nB\n\n3\nD\nE\n\n2\n C\nG\n\n1\n A\nF\n\nCase II is eliminated because it is not allowing\n\ncondition number 3 in which The box G is placed\n\nimmediately below box E but not immediately\n\nabove the box F.\n\nSo case III is final arrangement \n\nBox Number \n\n7\nF\n\n6\nB\n\n5\nE\n\n4\nG\n\n3\nD\n\n2\nC\n\n1\nA\n\nSo, box G is 4th number box.\n\nHence, the correct option is (C).",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "box",
-      "puzzle"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "box",
+      "puzzle",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "box_puzzle_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/box_puzzle_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Directions: \nStudy \nthe \nfollowing\n\ninformation carefully and answer the question\n\ngiven below.\n\nIn a general store seven boxes of different names\n\nare kept. They are: A, B, C, D, E, F, and G. Each box\n\nhas a number written on it from 1 to 7 but not\n\nessentially in the parallel order. The boxes are\n\narranged in a pile in ascending order with the\n\nlowest \nnumber \non \nthe \nbottom.Box \nB \nis\n\nimmediately above the box E. E is place on an\n\nodd number. Two boxes are kept between B and",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "box",
+        "puzzle",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   }
 ]

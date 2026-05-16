@@ -1,9 +1,9 @@
 [
   {
-    "question_number": "1",
-    "level": "",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that all\nof them are facing towards the center, but not\nnecessarily in the same order. Four items are\nplaced at the corners while four items are placed\nat the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate left\nof Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber of items between Pepper and Coriander\nwhen counted from the left of Cinnamon and\nPepper. One item is placed between Coriander\nand Turmeric, which is not placed adjacent to\nOregano. Fennel was placed to the immediate\nleft of Jeera.\nHow many items are placed between Jeera and\nOregano when counted from the left of Jeera?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight different spices viz. Coriander, Fennel,<br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/>Turmeric are placed in a square box such that all<br/>of them are facing towards the center, but not<br/>necessarily in the same order. Four items are<br/>placed at the corners while four items are placed<br/>at the middle of the sides.<br/>Cinnamon is placed at one of the corners of the<br/>box. Two items are placed between Cinnamon<br/>and Pepper, which is placed to the immediate left<br/>of Oregano. The number of items between<br/>Oregano and Cinnamon is the same as the<br/>number of items between Pepper and Coriander<br/>when counted from the left of Cinnamon and<br/>Pepper. One item is placed between Coriander<br/>and Turmeric, which is not placed adjacent to<br/>Oregano. Fennel was placed to the immediate<br/>left of Jeera.<br/>How many items are placed between Jeera and<br/>Oregano when counted from the left of Jeera?",
+    "id": "square_arrangements_chapter_wise_dpp_english_1",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nHow many items are placed between Jeera and\n\nOregano when counted from the left of Jeera?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>How many items are placed between Jeera and</b><br/><br/><b>Oregano when counted from the left of Jeera?</b><br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>How many items are placed between Jeera and</b><br/><br/><b>Oregano when counted from the left of Jeera?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -28,28 +28,62 @@
       {
         "id": "E",
         "text": "More than four",
-        "html": "More than four"
+        "html": "More than four<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One item\nis placed between Coriander and Turmeric, which\nis not placed adjacent to Oregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat one item is placed between Jeera and\nOregano when counted from the left of Jeera.\nHence, the correct answer is option C.",
-    "explanationHtml": "1) Cinnamon is placed at one of the corners of<br/>the box. Two items are placed between<br/>Cinnamon and Pepper, which is placed to the<br/>immediate left of Oregano.<br/>2) The number of items between Oregano and<br/>Cinnamon is the same as the number of items<br/>between Pepper and Coriander when counted<br/>from the left of Cinnamon and Pepper. One item<br/>is placed between Coriander and Turmeric, which<br/>is not placed adjacent to Oregano.<br/>3) Fennel was placed to the immediate left of<br/>Jeera. Hence, case 1 gets eliminated.<br/>Final arrangement will be:-<br/>According to the common solution we can say<br/>that one item is placed between Jeera and<br/>Oregano when counted from the left of Jeera.<br/>Hence, the correct answer is option C.",
+    "optionsHtml": [
+      "Two",
+      "Four",
+      "One",
+      "Three",
+      "More than four<br/><br/>"
+    ],
+    "explanation": "1) Cinnamon is placed at one of the corners of\n\nthe box. Two items are placed between\n\nCinnamon and Pepper, which is placed to the\n\nimmediate left of Oregano.\n\n2) The number of items between Oregano and\n\nCinnamon is the same as the number of items\n\nbetween Pepper and Coriander when counted\n\nfrom the left of Cinnamon and Pepper. One item\n\nis placed between Coriander and Turmeric, which\n\nis not placed adjacent to Oregano.\n\n3) Fennel was placed to the immediate left of\n\nJeera. Hence, case 1 gets eliminated.\n\nFinal arrangement will be:-\n\nAccording to the common solution we can say\n\nthat one item is placed between Jeera and\n\nOregano when counted from the left of Jeera.\n\nHence, the correct answer is option C.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nHow many items are placed between Jeera and\n\nOregano when counted from the left of Jeera?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "2",
-    "level": "",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that all\nof them are facing towards the center, but not\nnecessarily in the same order. Four items are\nplaced at the corners while four items are placed\nat the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate left\nof Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber of items between Pepper and Coriander\nwhen counted from the left of Cinnamon and\nPepper. One item is placed between Coriander\nand Turmeric, which is not placed adjacent to\nOregano. Fennel was placed to the immediate\nleft of Jeera.\nIf Coriander is related to Basil and Pepper is\nrelated to Jeera in a certain way, then Turmeric\nis related to which of the following items?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight different spices viz. Coriander, Fennel,<br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/>Turmeric are placed in a square box such that all<br/>of them are facing towards the center, but not<br/>necessarily in the same order. Four items are<br/>placed at the corners while four items are placed<br/>at the middle of the sides.<br/>Cinnamon is placed at one of the corners of the<br/>box. Two items are placed between Cinnamon<br/>and Pepper, which is placed to the immediate left<br/>of Oregano. The number of items between<br/>Oregano and Cinnamon is the same as the<br/>number of items between Pepper and Coriander<br/>when counted from the left of Cinnamon and<br/>Pepper. One item is placed between Coriander<br/>and Turmeric, which is not placed adjacent to<br/>Oregano. Fennel was placed to the immediate<br/>left of Jeera.<br/>If Coriander is related to Basil and Pepper is<br/>related to Jeera in a certain way, then Turmeric<br/>is related to which of the following items?",
+    "id": "square_arrangements_chapter_wise_dpp_english_2",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nIf Coriander is related to Basil and Pepper is\n\nrelated to Jeera in a certain way, then Turmeric\n\nis related to which of the following items?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>If Coriander is related to Basil and Pepper is</b><br/><br/><b>related to Jeera in a certain way, then Turmeric</b><br/><br/><b>is related to which of the following items?</b><br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>If Coriander is related to Basil and Pepper is</b><br/><br/><b>related to Jeera in a certain way, then Turmeric</b><br/><br/><b>is related to which of the following items?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -74,48 +108,110 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One item\nis placed between Coriander and Turmeric, which\nis not placed adjacent to Oregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-",
-    "explanationHtml": "1) Cinnamon is placed at one of the corners of<br/>the box. Two items are placed between<br/>Cinnamon and Pepper, which is placed to the<br/>immediate left of Oregano.<br/>2) The number of items between Oregano and<br/>Cinnamon is the same as the number of items<br/>between Pepper and Coriander when counted<br/>from the left of Cinnamon and Pepper. One item<br/>is placed between Coriander and Turmeric, which<br/>is not placed adjacent to Oregano.<br/>3) Fennel was placed to the immediate left of<br/>Jeera. Hence, case 1 gets eliminated.<br/>Final arrangement will be:-",
+    "optionsHtml": [
+      "Cinnamon",
+      "Oregano",
+      "Fennel",
+      "Basil",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1) Cinnamon is placed at one of the corners of\n\nthe box. Two items are placed between\n\nCinnamon and Pepper, which is placed to the\n\nimmediate left of Oregano.\n\n2) The number of items between Oregano and\n\nCinnamon is the same as the number of items\n\nbetween Pepper and Coriander when counted\n\nfrom the left of Cinnamon and Pepper. One item\n\nis placed between Coriander and Turmeric, which\n\nis not placed adjacent to Oregano.\n\n3) Fennel was placed to the immediate left of\n\nJeera. Hence, case 1 gets eliminated.\n\nFinal arrangement will be:-",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nIf Coriander is related to Basil and Pepper is\n\nrelated to Jeera in a certain way, then Turmeric\n\nis related to which of the following items?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "3",
-    "level": "",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that all\nof them are facing towards the center, but not\nnecessarily in the same order. Four items are\nplaced at the corners while four items are placed\nat the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate left\nof Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber of items between Pepper and Coriander\nwhen counted from the left of Cinnamon and\nPepper. One item is placed between Coriander\nand Turmeric, which is not placed adjacent to\nOregano. Fennel was placed to the immediate\nleft of Jeera.\n \nSquare Arrangements",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight different spices viz. Coriander, Fennel,<br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/>Turmeric are placed in a square box such that all<br/>of them are facing towards the center, but not<br/>necessarily in the same order. Four items are<br/>placed at the corners while four items are placed<br/>at the middle of the sides.<br/>Cinnamon is placed at one of the corners of the<br/>box. Two items are placed between Cinnamon<br/>and Pepper, which is placed to the immediate left<br/>of Oregano. The number of items between<br/>Oregano and Cinnamon is the same as the<br/>number of items between Pepper and Coriander<br/>when counted from the left of Cinnamon and<br/>Pepper. One item is placed between Coriander<br/>and Turmeric, which is not placed adjacent to<br/>Oregano. Fennel was placed to the immediate<br/>left of Jeera.<br/> <br/>Square Arrangements",
+    "id": "square_arrangements_chapter_wise_dpp_english_3",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nSquare Arrangements\n\nLevel-1",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Square Arrangements</b><br/><br/><b>Level-1</b>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Square Arrangements</b><br/><br/><b>Level-1</b>",
     "options": [],
-    "correctAnswer": 4,
-    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One item\nis placed between Coriander and Turmeric, which\nis not placed adjacent to Oregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat Oregano is second right with respect to\nBasil.\nHence, the correct answer is option E.",
-    "explanationHtml": "1) Cinnamon is placed at one of the corners of<br/>the box. Two items are placed between<br/>Cinnamon and Pepper, which is placed to the<br/>immediate left of Oregano.<br/>2) The number of items between Oregano and<br/>Cinnamon is the same as the number of items<br/>between Pepper and Coriander when counted<br/>from the left of Cinnamon and Pepper. One item<br/>is placed between Coriander and Turmeric, which<br/>is not placed adjacent to Oregano.<br/>3) Fennel was placed to the immediate left of<br/>Jeera. Hence, case 1 gets eliminated.<br/>Final arrangement will be:-<br/>According to the common solution we can say<br/>that Oregano is second right with respect to<br/>Basil.<br/>Hence, the correct answer is option E.",
+    "optionsHtml": [],
+    "explanation": "1) Cinnamon is placed at one of the corners of\n\nthe box. Two items are placed between\n\nCinnamon and Pepper, which is placed to the\n\nimmediate left of Oregano.\n\n2) The number of items between Oregano and\n\nCinnamon is the same as the number of items\n\nbetween Pepper and Coriander when counted\n\nfrom the left of Cinnamon and Pepper. One item\n\nis placed between Coriander and Turmeric, which\n\nis not placed adjacent to Oregano.\n\n3) Fennel was placed to the immediate left of\n\nJeera. Hence, case 1 gets eliminated.\n\nFinal arrangement will be:-\n\nAccording to the common solution we can say\n\nthat Oregano is second right with respect to\n\nBasil.\n\nHence, the correct answer is option E.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nSquare Arrangements\n\nLevel-1",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "4",
-    "level": "",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that all\nof them are facing towards the center, but not\nnecessarily in the same order. Four items are\nplaced at the corners while four items are placed\nat the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate left\nof Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber of items between Pepper and Coriander\nwhen counted from the left of Cinnamon and\nPepper. One item is placed between Coriander\nand Turmeric, which is not placed adjacent to\nOregano. Fennel was placed to the immediate\nleft of Jeera.\nWhich of the following items is placed second\nto the right of Cinnamon?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight different spices viz. Coriander, Fennel,<br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/>Turmeric are placed in a square box such that all<br/>of them are facing towards the center, but not<br/>necessarily in the same order. Four items are<br/>placed at the corners while four items are placed<br/>at the middle of the sides.<br/>Cinnamon is placed at one of the corners of the<br/>box. Two items are placed between Cinnamon<br/>and Pepper, which is placed to the immediate left<br/>of Oregano. The number of items between<br/>Oregano and Cinnamon is the same as the<br/>number of items between Pepper and Coriander<br/>when counted from the left of Cinnamon and<br/>Pepper. One item is placed between Coriander<br/>and Turmeric, which is not placed adjacent to<br/>Oregano. Fennel was placed to the immediate<br/>left of Jeera.<br/>Which of the following items is placed second<br/>to the right of Cinnamon?",
+    "id": "square_arrangements_chapter_wise_dpp_english_4",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nWhich of the following items is placed second\n\nto the right of Cinnamon?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Which of the following items is placed second</b><br/><br/><b>to the right of Cinnamon?</b><br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Which of the following items is placed second</b><br/><br/><b>to the right of Cinnamon?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -140,28 +236,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One item\nis placed between Coriander and Turmeric, which\nis not placed adjacent to Oregano.",
-    "explanationHtml": "1) Cinnamon is placed at one of the corners of<br/>the box. Two items are placed between<br/>Cinnamon and Pepper, which is placed to the<br/>immediate left of Oregano.<br/>2) The number of items between Oregano and<br/>Cinnamon is the same as the number of items<br/>between Pepper and Coriander when counted<br/>from the left of Cinnamon and Pepper. One item<br/>is placed between Coriander and Turmeric, which<br/>is not placed adjacent to Oregano.",
+    "optionsHtml": [
+      "Coriander",
+      "Basil",
+      "Pepper",
+      "Oregano",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1) Cinnamon is placed at one of the corners of\n\nthe box. Two items are placed between\n\nCinnamon and Pepper, which is placed to the\n\nimmediate left of Oregano.\n\n2) The number of items between Oregano and\n\nCinnamon is the same as the number of items\n\nbetween Pepper and Coriander when counted\n\nfrom the left of Cinnamon and Pepper. One item\n\nis placed between Coriander and Turmeric, which\n\nis not placed adjacent to Oregano.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nWhich of the following items is placed second\n\nto the right of Cinnamon?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "5",
-    "level": "",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nEight different spices viz. Coriander, Fennel,\nJeera, Basil, Pepper, Cinnamon, Oregano, and\nTurmeric are placed in a square box such that all\nof them are facing towards the center, but not\nnecessarily in the same order. Four items are\nplaced at the corners while four items are placed\nat the middle of the sides.\nCinnamon is placed at one of the corners of the\nbox. Two items are placed between Cinnamon\nand Pepper, which is placed to the immediate left\nof Oregano. The number of items between\nOregano and Cinnamon is the same as the\nnumber of items between Pepper and Coriander\nwhen counted from the left of Cinnamon and\nPepper. One item is placed between Coriander\nand Turmeric, which is not placed adjacent to\nOregano. Fennel was placed to the immediate\nleft of Jeera.\nWhich of the following statement is/are true\nwith respect to the final arrangement?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>Eight different spices viz. Coriander, Fennel,<br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/>Turmeric are placed in a square box such that all<br/>of them are facing towards the center, but not<br/>necessarily in the same order. Four items are<br/>placed at the corners while four items are placed<br/>at the middle of the sides.<br/>Cinnamon is placed at one of the corners of the<br/>box. Two items are placed between Cinnamon<br/>and Pepper, which is placed to the immediate left<br/>of Oregano. The number of items between<br/>Oregano and Cinnamon is the same as the<br/>number of items between Pepper and Coriander<br/>when counted from the left of Cinnamon and<br/>Pepper. One item is placed between Coriander<br/>and Turmeric, which is not placed adjacent to<br/>Oregano. Fennel was placed to the immediate<br/>left of Jeera.<br/>Which of the following statement is/are true<br/>with respect to the final arrangement?",
+    "id": "square_arrangements_chapter_wise_dpp_english_5",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nWhich of the following statement is/are true\n\nwith respect to the final arrangement?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Which of the following statement is/are true</b><br/><br/><b>with respect to the final arrangement?</b><br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>Eight different spices viz. Coriander, Fennel,<br/><br/>Jeera, Basil, Pepper, Cinnamon, Oregano, and<br/><br/>Turmeric are placed in a square box such that all<br/><br/>of them are facing towards the center, but not<br/><br/>necessarily in the same order. Four items are<br/><br/>placed at the corners while four items are placed<br/><br/>at the middle of the sides.<br/><br/>Cinnamon is placed at one of the corners of the<br/><br/>box. Two items are placed between Cinnamon<br/><br/>and Pepper, which is placed to the immediate left<br/><br/>of Oregano. The number of items between<br/><br/>Oregano and Cinnamon is the same as the<br/><br/>number of items between Pepper and Coriander<br/><br/>when counted from the left of Cinnamon and<br/><br/>Pepper. One item is placed between Coriander<br/><br/>and Turmeric, which is not placed adjacent to<br/><br/>Oregano. Fennel was placed to the immediate<br/><br/>left of Jeera.<br/><br/><b>Which of the following statement is/are true</b><br/><br/><b>with respect to the final arrangement?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -170,64 +300,126 @@
       },
       {
         "id": "B",
-        "text": "Both Coriander and Basil are placed at the\ncorners of the box",
-        "html": "Both Coriander and Basil are placed at the\ncorners of the box"
+        "text": "Both Coriander and Basil are placed at the\n\ncorners of the box",
+        "html": "Both Coriander and Basil are placed at the<br/><br/>corners of the box"
       },
       {
         "id": "C",
-        "text": "More than two items are placed from the left\nof Turmeric to Jeera",
-        "html": "More than two items are placed from the left\nof Turmeric to Jeera"
+        "text": "More than two items are placed from the left\n\nof Turmeric to Jeera",
+        "html": "More than two items are placed from the left<br/><br/>of Turmeric to Jeera"
       },
       {
         "id": "D",
-        "text": "Neither fennel nor Oregano is adjacent to\nBasil",
-        "html": "Neither fennel nor Oregano is adjacent to\nBasil"
+        "text": "Neither fennel nor Oregano is adjacent to\n\nBasil",
+        "html": "Neither fennel nor Oregano is adjacent to<br/><br/>Basil"
       },
       {
         "id": "E",
         "text": "None of these are true",
-        "html": "None of these are true"
+        "html": "None of these are true<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "1) Cinnamon is placed at one of the corners of\nthe box. Two items are placed between\nCinnamon and Pepper, which is placed to the\nimmediate left of Oregano.\n2) The number of items between Oregano and\nCinnamon is the same as the number of items\nbetween Pepper and Coriander when counted\nfrom the left of Cinnamon and Pepper. One item\nis placed between Coriander and Turmeric, which\nis not placed adjacent to Oregano.\n3) Fennel was placed to the immediate left of\nJeera. Hence, case 1 gets eliminated.\nFinal arrangement will be:-\nAccording to the common solution we can say\nthat Neither fennel nor Oregano is adjacent to\nBasil.\nHence, the correct answer is option D.",
-    "explanationHtml": "1) Cinnamon is placed at one of the corners of<br/>the box. Two items are placed between<br/>Cinnamon and Pepper, which is placed to the<br/>immediate left of Oregano.<br/>2) The number of items between Oregano and<br/>Cinnamon is the same as the number of items<br/>between Pepper and Coriander when counted<br/>from the left of Cinnamon and Pepper. One item<br/>is placed between Coriander and Turmeric, which<br/>is not placed adjacent to Oregano.<br/>3) Fennel was placed to the immediate left of<br/>Jeera. Hence, case 1 gets eliminated.<br/>Final arrangement will be:-<br/>According to the common solution we can say<br/>that Neither fennel nor Oregano is adjacent to<br/>Basil.<br/>Hence, the correct answer is option D.",
+    "optionsHtml": [
+      "Cinnamon is placed third to the left of Fennel",
+      "Both Coriander and Basil are placed at the<br/><br/>corners of the box",
+      "More than two items are placed from the left<br/><br/>of Turmeric to Jeera",
+      "Neither fennel nor Oregano is adjacent to<br/><br/>Basil",
+      "None of these are true<br/><br/>"
+    ],
+    "explanation": "1) Cinnamon is placed at one of the corners of\n\nthe box. Two items are placed between\n\nCinnamon and Pepper, which is placed to the\n\nimmediate left of Oregano.\n\n2) The number of items between Oregano and\n\nCinnamon is the same as the number of items\n\nbetween Pepper and Coriander when counted\n\nfrom the left of Cinnamon and Pepper. One item\n\nis placed between Coriander and Turmeric, which\n\nis not placed adjacent to Oregano.\n\n3) Fennel was placed to the immediate left of\n\nJeera. Hence, case 1 gets eliminated.\n\nFinal arrangement will be:-\n\nAccording to the common solution we can say\n\nthat Neither fennel nor Oregano is adjacent to\n\nBasil.\n\nHence, the correct answer is option D.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nEight different spices viz. Coriander, Fennel,\n\nJeera, Basil, Pepper, Cinnamon, Oregano, and\n\nTurmeric are placed in a square box such that all\n\nof them are facing towards the center, but not\n\nnecessarily in the same order. Four items are\n\nplaced at the corners while four items are placed\n\nat the middle of the sides.\n\nCinnamon is placed at one of the corners of the\n\nbox. Two items are placed between Cinnamon\n\nand Pepper, which is placed to the immediate left\n\nof Oregano. The number of items between\n\nOregano and Cinnamon is the same as the\n\nnumber of items between Pepper and Coriander\n\nwhen counted from the left of Cinnamon and\n\nPepper. One item is placed between Coriander\n\nand Turmeric, which is not placed adjacent to\n\nOregano. Fennel was placed to the immediate\n\nleft of Jeera.\n\nWhich of the following statement is/are true\n\nwith respect to the final arrangement?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "6",
-    "level": "",
-    "question": "Answer the questions based on the information\ngiven below.\n \nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the center\nof the table. Four persons are sitting center the\nsides of the table while four are sitting at the\ncorner of the table. The one who are sitting in the\ncenter the sides of the table like different\nactresses i.e. Alia, Deepika, Kareena and Kiara\nand the one who are sitting at the corner of the\nsquare table like different actor i.e. Akshay,\nSalman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of N,\nwho does not like Kartik. O sits opposite to the\none who likes Alia. J sits to the immediate right\nof L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O is\nan immediate neighbor of the one who likes\nSalman. P sits second to the right of K.",
-    "questionHtml": "Answer the questions based on the information<br/>given below.<br/> <br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/>around a square table facing towards the center<br/>of the table. Four persons are sitting center the<br/>sides of the table while four are sitting at the<br/>corner of the table. The one who are sitting in the<br/>center the sides of the table like different<br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/>and the one who are sitting at the corner of the<br/>square table like different actor i.e. Akshay,<br/>Salman, Ranveer and Kartik.<br/>I sits third to the left of the one who likes Kartik.<br/>M likes Kiara and sits to the immediate right of N,<br/>who does not like Kartik. O sits opposite to the<br/>one who likes Alia. J sits to the immediate right<br/>of L. The one who likes Ranveer sits to the<br/>immediate left of the one who likes Deepika. O is<br/>an immediate neighbor of the one who likes<br/>Salman. P sits second to the right of K.",
+    "id": "square_arrangements_chapter_wise_dpp_english_6",
+    "question": "Answer the questions based on the information\n\ngiven below.\n\nEight persons I, J, K, L, M, N, O and P are sitting\n\naround a square table facing towards the center\n\nof the table. Four persons are sitting center the\n\nsides of the table while four are sitting at the\n\ncorner of the table. The one who are sitting in the\n\ncenter the sides of the table like different\n\nactresses i.e. Alia, Deepika, Kareena and Kiara\n\nand the one who are sitting at the corner of the\n\nsquare table like different actor i.e. Akshay,\n\nSalman, Ranveer and Kartik.\n\nI sits third to the left of the one who likes Kartik.\n\nM likes Kiara and sits to the immediate right of N,\n\nwho does not like Kartik. O sits opposite to the\n\none who likes Alia. J sits to the immediate right\n\nof L. The one who likes Ranveer sits to the\n\nimmediate left of the one who likes Deepika. O is\n\nan immediate neighbor of the one who likes\n\nSalman. P sits second to the right of K.",
+    "question_html": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/><br/>around a square table facing towards the center<br/><br/>of the table. Four persons are sitting center the<br/><br/>sides of the table while four are sitting at the<br/><br/>corner of the table. The one who are sitting in the<br/><br/>center the sides of the table like different<br/><br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/><br/>and the one who are sitting at the corner of the<br/><br/>square table like different actor i.e. Akshay,<br/><br/>Salman, Ranveer and Kartik.<br/><br/>I sits third to the left of the one who likes Kartik.<br/><br/>M likes Kiara and sits to the immediate right of N,<br/><br/>who does not like Kartik. O sits opposite to the<br/><br/>one who likes Alia. J sits to the immediate right<br/><br/>of L. The one who likes Ranveer sits to the<br/><br/>immediate left of the one who likes Deepika. O is<br/><br/>an immediate neighbor of the one who likes<br/><br/>Salman. P sits second to the right of K.",
+    "questionHtml": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/><br/>around a square table facing towards the center<br/><br/>of the table. Four persons are sitting center the<br/><br/>sides of the table while four are sitting at the<br/><br/>corner of the table. The one who are sitting in the<br/><br/>center the sides of the table like different<br/><br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/><br/>and the one who are sitting at the corner of the<br/><br/>square table like different actor i.e. Akshay,<br/><br/>Salman, Ranveer and Kartik.<br/><br/>I sits third to the left of the one who likes Kartik.<br/><br/>M likes Kiara and sits to the immediate right of N,<br/><br/>who does not like Kartik. O sits opposite to the<br/><br/>one who likes Alia. J sits to the immediate right<br/><br/>of L. The one who likes Ranveer sits to the<br/><br/>immediate left of the one who likes Deepika. O is<br/><br/>an immediate neighbor of the one who likes<br/><br/>Salman. P sits second to the right of K.",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right of\nN, who does not like Kartik.\nCase I: When N sits second to the left of the one\nwho likes Kartik",
-    "explanationHtml": "1. I sits third to the left of the one who likes<br/>Kartik.<br/>2. M likes Kiara and sits to the immediate right of<br/>N, who does not like Kartik.<br/>Case I: When N sits second to the left of the one<br/>who likes Kartik",
+    "optionsHtml": [],
+    "explanation": "1. I sits third to the left of the one who likes\n\nKartik.\n\n2. M likes Kiara and sits to the immediate right of\n\nN, who does not like Kartik.\n\nCase I: When N sits second to the left of the one\n\nwho likes Kartik",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      2
     ],
     "sourcePages": [
       2
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Answer the questions based on the information\n\ngiven below.\n\nEight persons I, J, K, L, M, N, O and P are sitting\n\naround a square table facing towards the center\n\nof the table. Four persons are sitting center the\n\nsides of the table while four are sitting at the\n\ncorner of the table. The one who are sitting in the\n\ncenter the sides of the table like different\n\nactresses i.e. Alia, Deepika, Kareena and Kiara\n\nand the one who are sitting at the corner of the\n\nsquare table like different actor i.e. Akshay,\n\nSalman, Ranveer and Kartik.\n\nI sits third to the left of the one who likes Kartik.\n\nM likes Kiara and sits to the immediate right of N,\n\nwho does not like Kartik. O sits opposite to the\n\none who likes Alia. J sits to the immediate right\n\nof L. The one who likes Ranveer sits to the\n\nimmediate left of the one who likes Deepika. O is\n\nan immediate neighbor of the one who likes\n\nSalman. P sits second to the right of K.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "7",
-    "level": "",
-    "question": "Answer the questions based on the information\ngiven below.\n \nEight persons I, J, K, L, M, N, O and P are sitting\naround a square table facing towards the center\nof the table. Four persons are sitting center the\nsides of the table while four are sitting at the\ncorner of the table. The one who are sitting in the\ncenter the sides of the table like different\nactresses i.e. Alia, Deepika, Kareena and Kiara\nand the one who are sitting at the corner of the\nsquare table like different actor i.e. Akshay,\nSalman, Ranveer and Kartik.\nI sits third to the left of the one who likes Kartik.\nM likes Kiara and sits to the immediate right of N,\nwho does not like Kartik. O sits opposite to the\none who likes Alia. J sits to the immediate right\nof L. The one who likes Ranveer sits to the\nimmediate left of the one who likes Deepika. O is\nan immediate neighbor of the one who likes\nSalman. P sits second to the right of K.\n \nWho sits second to the right of M?",
-    "questionHtml": "Answer the questions based on the information<br/>given below.<br/> <br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/>around a square table facing towards the center<br/>of the table. Four persons are sitting center the<br/>sides of the table while four are sitting at the<br/>corner of the table. The one who are sitting in the<br/>center the sides of the table like different<br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/>and the one who are sitting at the corner of the<br/>square table like different actor i.e. Akshay,<br/>Salman, Ranveer and Kartik.<br/>I sits third to the left of the one who likes Kartik.<br/>M likes Kiara and sits to the immediate right of N,<br/>who does not like Kartik. O sits opposite to the<br/>one who likes Alia. J sits to the immediate right<br/>of L. The one who likes Ranveer sits to the<br/>immediate left of the one who likes Deepika. O is<br/>an immediate neighbor of the one who likes<br/>Salman. P sits second to the right of K.<br/> <br/>Who sits second to the right of M?",
+    "id": "square_arrangements_chapter_wise_dpp_english_7",
+    "question": "Answer the questions based on the information\n\ngiven below.\n\nEight persons I, J, K, L, M, N, O and P are sitting\n\naround a square table facing towards the center\n\nof the table. Four persons are sitting center the\n\nsides of the table while four are sitting at the\n\ncorner of the table. The one who are sitting in the\n\ncenter the sides of the table like different\n\nactresses i.e. Alia, Deepika, Kareena and Kiara\n\nand the one who are sitting at the corner of the\n\nsquare table like different actor i.e. Akshay,\n\nSalman, Ranveer and Kartik.\n\nI sits third to the left of the one who likes Kartik.\n\nM likes Kiara and sits to the immediate right of N,\n\nwho does not like Kartik. O sits opposite to the\n\none who likes Alia. J sits to the immediate right\n\nof L. The one who likes Ranveer sits to the\n\nimmediate left of the one who likes Deepika. O is\n\nan immediate neighbor of the one who likes\n\nSalman. P sits second to the right of K.\n\nWho sits second to the right of M?",
+    "question_html": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/><br/>around a square table facing towards the center<br/><br/>of the table. Four persons are sitting center the<br/><br/>sides of the table while four are sitting at the<br/><br/>corner of the table. The one who are sitting in the<br/><br/>center the sides of the table like different<br/><br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/><br/>and the one who are sitting at the corner of the<br/><br/>square table like different actor i.e. Akshay,<br/><br/>Salman, Ranveer and Kartik.<br/><br/>I sits third to the left of the one who likes Kartik.<br/><br/>M likes Kiara and sits to the immediate right of N,<br/><br/>who does not like Kartik. O sits opposite to the<br/><br/>one who likes Alia. J sits to the immediate right<br/><br/>of L. The one who likes Ranveer sits to the<br/><br/>immediate left of the one who likes Deepika. O is<br/><br/>an immediate neighbor of the one who likes<br/><br/>Salman. P sits second to the right of K.<br/><br/>Who sits second to the right of M?<br/>",
+    "questionHtml": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Eight persons I, J, K, L, M, N, O and P are sitting<br/><br/>around a square table facing towards the center<br/><br/>of the table. Four persons are sitting center the<br/><br/>sides of the table while four are sitting at the<br/><br/>corner of the table. The one who are sitting in the<br/><br/>center the sides of the table like different<br/><br/>actresses i.e. Alia, Deepika, Kareena and Kiara<br/><br/>and the one who are sitting at the corner of the<br/><br/>square table like different actor i.e. Akshay,<br/><br/>Salman, Ranveer and Kartik.<br/><br/>I sits third to the left of the one who likes Kartik.<br/><br/>M likes Kiara and sits to the immediate right of N,<br/><br/>who does not like Kartik. O sits opposite to the<br/><br/>one who likes Alia. J sits to the immediate right<br/><br/>of L. The one who likes Ranveer sits to the<br/><br/>immediate left of the one who likes Deepika. O is<br/><br/>an immediate neighbor of the one who likes<br/><br/>Salman. P sits second to the right of K.<br/><br/>Who sits second to the right of M?<br/>",
     "options": [
       {
         "id": "A",
@@ -252,28 +444,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "1. I sits third to the left of the one who likes\nKartik.\n2. M likes Kiara and sits to the immediate right of\nN, who does not like Kartik.\nCase I: When N sits second to the left of the one\nwho likes Kartik",
-    "explanationHtml": "1. I sits third to the left of the one who likes<br/>Kartik.<br/>2. M likes Kiara and sits to the immediate right of<br/>N, who does not like Kartik.<br/>Case I: When N sits second to the left of the one<br/>who likes Kartik",
+    "optionsHtml": [
+      "N",
+      "The one who likes Kareena",
+      "K",
+      "The one who likes Alia",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1. I sits third to the left of the one who likes\n\nKartik.\n\n2. M likes Kiara and sits to the immediate right of\n\nN, who does not like Kartik.\n\nCase I: When N sits second to the left of the one\n\nwho likes Kartik",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Answer the questions based on the information\n\ngiven below.\n\nEight persons I, J, K, L, M, N, O and P are sitting\n\naround a square table facing towards the center\n\nof the table. Four persons are sitting center the\n\nsides of the table while four are sitting at the\n\ncorner of the table. The one who are sitting in the\n\ncenter the sides of the table like different\n\nactresses i.e. Alia, Deepika, Kareena and Kiara\n\nand the one who are sitting at the corner of the\n\nsquare table like different actor i.e. Akshay,\n\nSalman, Ranveer and Kartik.\n\nI sits third to the left of the one who likes Kartik.\n\nM likes Kiara and sits to the immediate right of N,\n\nwho does not like Kartik. O sits opposite to the\n\none who likes Alia. J sits to the immediate right\n\nof L. The one who likes Ranveer sits to the\n\nimmediate left of the one who likes Deepika. O is\n\nan immediate neighbor of the one who likes\n\nSalman. P sits second to the right of K.\n\nWho sits second to the right of M?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "8",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. R sits immediate left of W. P sits\nimmediate left of S. U sits opposite to the one\nwho is immediate right of S. V sits second to the\nleft of U. T sits second to the left of R. When\ncounted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W.\n \nHow many persons sit between Q and W when\ncounted from the left of Q?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. R sits immediate left of W. P sits<br/>immediate left of S. U sits opposite to the one<br/>who is immediate right of S. V sits second to the<br/>left of U. T sits second to the left of R. When<br/>counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W.<br/> <br/>How many persons sit between Q and W when<br/>counted from the left of Q?",
+    "id": "square_arrangements_chapter_wise_dpp_english_8",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nHow many persons sit between Q and W when\n\ncounted from the left of Q?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>How many persons sit between Q and W when<br/><br/>counted from the left of Q?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>How many persons sit between Q and W when<br/><br/>counted from the left of Q?<br/>",
     "options": [
       {
         "id": "A",
@@ -298,28 +524,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
+    "optionsHtml": [
+      "3",
+      "1",
+      "2",
+      "4",
+      "None of these<br/><br/>"
+    ],
     "explanation": "Final answer:",
-    "explanationHtml": "Final answer:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nHow many persons sit between Q and W when\n\ncounted from the left of Q?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "9",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. R sits immediate left of W. P sits\nimmediate left of S. U sits opposite to the one\nwho is immediate right of S. V sits second to the\nleft of U. T sits second to the left of R. When\ncounted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W.\n \nWhat is the position of R with respect to U?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. R sits immediate left of W. P sits<br/>immediate left of S. U sits opposite to the one<br/>who is immediate right of S. V sits second to the<br/>left of U. T sits second to the left of R. When<br/>counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W.<br/> <br/>What is the position of R with respect to U?",
+    "id": "square_arrangements_chapter_wise_dpp_english_9",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWhat is the position of R with respect to U?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>What is the position of R with respect to U?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>What is the position of R with respect to U?<br/>",
     "options": [
       {
         "id": "A",
@@ -344,48 +604,110 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nU sits opposite to the one who is immediate right\nof S. V sits second to the left of U. From these\nconditions, we get,\nWhen counted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,",
-    "explanationHtml": "Final answer:<br/>U sits opposite to the one who is immediate right<br/>of S. V sits second to the left of U. From these<br/>conditions, we get,<br/>When counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W. R sits<br/>immediate left of W. P sits immediate left of S.<br/>T sits second to the left of R. From this condition<br/>Case 2 gets rejected, and we get,",
+    "optionsHtml": [
+      "Second to the right",
+      "Third to the left",
+      "Immediate right",
+      "Immediate left",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits opposite to the one who is immediate right\n\nof S. V sits second to the left of U. From these\n\nconditions, we get,\n\nWhen counted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W. R sits\n\nimmediate left of W. P sits immediate left of S.\n\nT sits second to the left of R. From this condition\n\nCase 2 gets rejected, and we get,",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWhat is the position of R with respect to U?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "10",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. R sits immediate left of W. P sits\nimmediate left of S. U sits opposite to the one",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. R sits immediate left of W. P sits<br/>immediate left of S. U sits opposite to the one",
+    "id": "square_arrangements_chapter_wise_dpp_english_10",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nU sits opposite to the one who is immediate right\nof S. V sits second to the left of U. From these\nconditions, we get,\nWhen counted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,\nHence, QU persons are sitting exactly opposite\nto each other.",
-    "explanationHtml": "Final answer:<br/>U sits opposite to the one who is immediate right<br/>of S. V sits second to the left of U. From these<br/>conditions, we get,<br/>When counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W. R sits<br/>immediate left of W. P sits immediate left of S.<br/>T sits second to the left of R. From this condition<br/>Case 2 gets rejected, and we get,<br/>Hence, QU persons are sitting exactly opposite<br/>to each other.",
+    "optionsHtml": [],
+    "explanation": "Final answer:\n\nU sits opposite to the one who is immediate right\n\nof S. V sits second to the left of U. From these\n\nconditions, we get,\n\nWhen counted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W. R sits\n\nimmediate left of W. P sits immediate left of S.\n\nT sits second to the left of R. From this condition\n\nCase 2 gets rejected, and we get,\n\nHence, QU persons are sitting exactly opposite\n\nto each other.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "11",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. R sits immediate left of W. P sits\nimmediate left of S. U sits opposite to the one\nwho is immediate right of S. V sits second to the\nleft of U. T sits second to the left of R. When\ncounted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W.\n \nWho among the following pair of persons are\nimmediate neighbours?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. R sits immediate left of W. P sits<br/>immediate left of S. U sits opposite to the one<br/>who is immediate right of S. V sits second to the<br/>left of U. T sits second to the left of R. When<br/>counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W.<br/> <br/>Who among the following pair of persons are<br/>immediate neighbours?",
+    "id": "square_arrangements_chapter_wise_dpp_english_11",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWho among the following pair of persons are\n\nimmediate neighbours?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>Who among the following pair of persons are<br/><br/>immediate neighbours?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>Who among the following pair of persons are<br/><br/>immediate neighbours?<br/>",
     "options": [
       {
         "id": "A",
@@ -410,28 +732,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nU sits opposite to the one who is immediate right\nof S. V sits second to the left of U. From these\nconditions, we get,",
-    "explanationHtml": "Final answer:<br/>U sits opposite to the one who is immediate right<br/>of S. V sits second to the left of U. From these<br/>conditions, we get,",
+    "optionsHtml": [
+      "PQ",
+      "TR",
+      "SP",
+      "QW",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits opposite to the one who is immediate right\n\nof S. V sits second to the left of U. From these\n\nconditions, we get,",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWho among the following pair of persons are\n\nimmediate neighbours?",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "12",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. R sits immediate left of W. P sits\nimmediate left of S. U sits opposite to the one\nwho is immediate right of S. V sits second to the\nleft of U. T sits second to the left of R. When\ncounted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W.\n \nWho among the following person sits second to\nthe left of P?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. R sits immediate left of W. P sits<br/>immediate left of S. U sits opposite to the one<br/>who is immediate right of S. V sits second to the<br/>left of U. T sits second to the left of R. When<br/>counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W.<br/> <br/>Who among the following person sits second to<br/>the left of P?",
+    "id": "square_arrangements_chapter_wise_dpp_english_12",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWho among the following person sits second to\n\nthe left of P?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>Who among the following person sits second to<br/><br/>the left of P?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. R sits immediate left of W. P sits<br/><br/>immediate left of S. U sits opposite to the one<br/><br/>who is immediate right of S. V sits second to the<br/><br/>left of U. T sits second to the left of R. When<br/><br/>counted from the right of V, the number of<br/><br/>persons sitting between U and V is the same as<br/><br/>the number of persons sitting S and W.<br/><br/>Who among the following person sits second to<br/><br/>the left of P?<br/>",
     "options": [
       {
         "id": "A",
@@ -456,28 +812,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "Final answer:\nU sits opposite to the one who is immediate right\nof S. V sits second to the left of U. From these\nconditions, we get,\nWhen counted from the right of V, the number of\npersons sitting between U and V is the same as\nthe number of persons sitting S and W. R sits\nimmediate left of W. P sits immediate left of S.\nT sits second to the left of R. From this condition\nCase 2 gets rejected, and we get,",
-    "explanationHtml": "Final answer:<br/>U sits opposite to the one who is immediate right<br/>of S. V sits second to the left of U. From these<br/>conditions, we get,<br/>When counted from the right of V, the number of<br/>persons sitting between U and V is the same as<br/>the number of persons sitting S and W. R sits<br/>immediate left of W. P sits immediate left of S.<br/>T sits second to the left of R. From this condition<br/>Case 2 gets rejected, and we get,",
+    "optionsHtml": [
+      "V",
+      "R",
+      "U",
+      "Q",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits opposite to the one who is immediate right\n\nof S. V sits second to the left of U. From these\n\nconditions, we get,\n\nWhen counted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W. R sits\n\nimmediate left of W. P sits immediate left of S.\n\nT sits second to the left of R. From this condition\n\nCase 2 gets rejected, and we get,",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. R sits immediate left of W. P sits\n\nimmediate left of S. U sits opposite to the one\n\nwho is immediate right of S. V sits second to the\n\nleft of U. T sits second to the left of R. When\n\ncounted from the right of V, the number of\n\npersons sitting between U and V is the same as\n\nthe number of persons sitting S and W.\n\nWho among the following person sits second to\n\nthe left of P?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "13",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. The number of persons sits\nbetween R and Q is the same as the number of\npersons T and U. U sits second to the right of W.\nV sits second to the right of T. Q sits second to\nthe right of R, who sits opposite W. Only two\npersons sit between V and S. W is not an\nimmediate neighbour of S.\n \nHow many persons sit between S and P when\ncounted from the left of S?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. The number of persons sits<br/>between R and Q is the same as the number of<br/>persons T and U. U sits second to the right of W.<br/>V sits second to the right of T. Q sits second to<br/>the right of R, who sits opposite W. Only two<br/>persons sit between V and S. W is not an<br/>immediate neighbour of S.<br/> <br/>How many persons sit between S and P when<br/>counted from the left of S?",
+    "id": "square_arrangements_chapter_wise_dpp_english_13",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nHow many persons sit between S and P when\n\ncounted from the left of S?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>How many persons sit between S and P when</b><br/><br/><b>counted from the left of S?</b><br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>How many persons sit between S and P when</b><br/><br/><b>counted from the left of S?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -502,48 +892,110 @@
       {
         "id": "E",
         "text": "5",
-        "html": "5"
+        "html": "5<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,\nHence, One persons sit between S and P when\ncounted from the left of S.",
-    "explanationHtml": "Final answer:<br/>U sits second to the right of W. Q sits second to<br/>the right of R, who sits opposite W. From these<br/>conditions, we get,<br/>The number of persons sits between R and Q is<br/>the same as the number of persons T and U. V<br/>sits second to the right of T.<br/>Only two persons sit between V and S.<br/>W is not an immediate neighbour of S. From this<br/>condition Case 2 gets rejected, and we get,<br/>Hence, One persons sit between S and P when<br/>counted from the left of S.",
+    "optionsHtml": [
+      "3",
+      "1",
+      "2",
+      "4",
+      "5<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits second to the right of W. Q sits second to\n\nthe right of R, who sits opposite W. From these\n\nconditions, we get,\n\nThe number of persons sits between R and Q is\n\nthe same as the number of persons T and U. V\n\nsits second to the right of T.\n\nOnly two persons sit between V and S.\n\nW is not an immediate neighbour of S. From this\n\ncondition Case 2 gets rejected, and we get,\n\nHence, One persons sit between S and P when\n\ncounted from the left of S.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nHow many persons sit between S and P when\n\ncounted from the left of S?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "14",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. The number of persons sits\nbetween R and Q is the same as the number of\npersons T and U. U sits second to the right of W.\nV sits second to the right of T. Q sits second to\nthe right of R, who sits opposite W. Only two",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. The number of persons sits<br/>between R and Q is the same as the number of<br/>persons T and U. U sits second to the right of W.<br/>V sits second to the right of T. Q sits second to<br/>the right of R, who sits opposite W. Only two",
+    "id": "square_arrangements_chapter_wise_dpp_english_14",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two",
     "options": [],
-    "correctAnswer": 1,
-    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.",
-    "explanationHtml": "Final answer:<br/>U sits second to the right of W. Q sits second to<br/>the right of R, who sits opposite W. From these<br/>conditions, we get,<br/>The number of persons sits between R and Q is<br/>the same as the number of persons T and U. V<br/>sits second to the right of T.",
+    "optionsHtml": [],
+    "explanation": "Final answer:\n\nU sits second to the right of W. Q sits second to\n\nthe right of R, who sits opposite W. From these\n\nconditions, we get,\n\nThe number of persons sits between R and Q is\n\nthe same as the number of persons T and U. V\n\nsits second to the right of T.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "15",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. The number of persons sits\nbetween R and Q is the same as the number of\npersons T and U. U sits second to the right of W.\nV sits second to the right of T. Q sits second to\nthe right of R, who sits opposite W. Only two\npersons sit between V and S. W is not an\nimmediate neighbour of S.\n \nWho among the following persons is sitting\nexactly opposite?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. The number of persons sits<br/>between R and Q is the same as the number of<br/>persons T and U. U sits second to the right of W.<br/>V sits second to the right of T. Q sits second to<br/>the right of R, who sits opposite W. Only two<br/>persons sit between V and S. W is not an<br/>immediate neighbour of S.<br/> <br/>Who among the following persons is sitting<br/>exactly opposite?",
+    "id": "square_arrangements_chapter_wise_dpp_english_15",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following persons is sitting\n\nexactly opposite?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>Who among the following persons is sitting</b><br/><br/><b>exactly opposite?</b><br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>Who among the following persons is sitting</b><br/><br/><b>exactly opposite?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -568,28 +1020,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,\nHence, QU persons is sitting exactly opposite.",
-    "explanationHtml": "Final answer:<br/>U sits second to the right of W. Q sits second to<br/>the right of R, who sits opposite W. From these<br/>conditions, we get,<br/>The number of persons sits between R and Q is<br/>the same as the number of persons T and U. V<br/>sits second to the right of T.<br/>Only two persons sit between V and S.<br/>W is not an immediate neighbour of S. From this<br/>condition Case 2 gets rejected, and we get,<br/>Hence, QU persons is sitting exactly opposite.",
+    "optionsHtml": [
+      "RQ",
+      "TW",
+      "QU",
+      "VW",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits second to the right of W. Q sits second to\n\nthe right of R, who sits opposite W. From these\n\nconditions, we get,\n\nThe number of persons sits between R and Q is\n\nthe same as the number of persons T and U. V\n\nsits second to the right of T.\n\nOnly two persons sit between V and S.\n\nW is not an immediate neighbour of S. From this\n\ncondition Case 2 gets rejected, and we get,\n\nHence, QU persons is sitting exactly opposite.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      5
     ],
     "sourcePages": [
       5
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following persons is sitting\n\nexactly opposite?",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "16",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. The number of persons sits\nbetween R and Q is the same as the number of\npersons T and U. U sits second to the right of W.\nV sits second to the right of T. Q sits second to\nthe right of R, who sits opposite W. Only two\npersons sit between V and S. W is not an\nimmediate neighbour of S.\n \nWho among the following pair of persons are\nimmediate neighbours?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. The number of persons sits<br/>between R and Q is the same as the number of<br/>persons T and U. U sits second to the right of W.<br/>V sits second to the right of T. Q sits second to<br/>the right of R, who sits opposite W. Only two<br/>persons sit between V and S. W is not an<br/>immediate neighbour of S.<br/> <br/>Who among the following pair of persons are<br/>immediate neighbours?",
+    "id": "square_arrangements_chapter_wise_dpp_english_16",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following pair of persons are\n\nimmediate neighbours?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>Who among the following pair of persons are</b><br/><br/><b>immediate neighbours?</b><br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R, who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/><b>Who among the following pair of persons are</b><br/><br/><b>immediate neighbours?</b><br/>",
     "options": [
       {
         "id": "A",
@@ -614,28 +1100,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
+    "optionsHtml": [
+      "PQ",
+      "TR",
+      "SP",
+      "QU",
+      "None of these<br/><br/>"
+    ],
     "explanation": "Final answer:",
-    "explanationHtml": "Final answer:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      5
     ],
     "sourcePages": [
       5
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R, who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following pair of persons are\n\nimmediate neighbours?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "17",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons - P, Q, R, S, T, U, V and W are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Two persons are sitting on each\nside of the table. The number of persons sits\nbetween R and Q is the same as the number of\npersons T and U. U sits second to the right of W.\nV sits second to the right of T. Q sits second to\nthe right of R who sits opposite W. Only two\npersons sit between V and S. W is not an\nimmediate neighbour of S.\n \nWho among the following person sits second to\nthe left of P?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Two persons are sitting on each<br/>side of the table. The number of persons sits<br/>between R and Q is the same as the number of<br/>persons T and U. U sits second to the right of W.<br/>V sits second to the right of T. Q sits second to<br/>the right of R who sits opposite W. Only two<br/>persons sit between V and S. W is not an<br/>immediate neighbour of S.<br/> <br/>Who among the following person sits second to<br/>the left of P?",
+    "id": "square_arrangements_chapter_wise_dpp_english_17",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following person sits second to\n\nthe left of P?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/>Who among the following person sits second to<br/><br/>the left of P?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons - P, Q, R, S, T, U, V and W are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Two persons are sitting on each<br/><br/>side of the table. The number of persons sits<br/><br/>between R and Q is the same as the number of<br/><br/>persons T and U. U sits second to the right of W.<br/><br/>V sits second to the right of T. Q sits second to<br/><br/>the right of R who sits opposite W. Only two<br/><br/>persons sit between V and S. W is not an<br/><br/>immediate neighbour of S.<br/><br/>Who among the following person sits second to<br/><br/>the left of P?<br/>",
     "options": [
       {
         "id": "A",
@@ -660,48 +1180,110 @@
       {
         "id": "E",
         "text": "T",
-        "html": "T"
+        "html": "T<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "Final answer:\nU sits second to the right of W. Q sits second to\nthe right of R, who sits opposite W. From these\nconditions, we get,\nThe number of persons sits between R and Q is\nthe same as the number of persons T and U. V\nsits second to the right of T.\nOnly two persons sit between V and S.\nW is not an immediate neighbour of S. From this\ncondition Case 2 gets rejected, and we get,",
-    "explanationHtml": "Final answer:<br/>U sits second to the right of W. Q sits second to<br/>the right of R, who sits opposite W. From these<br/>conditions, we get,<br/>The number of persons sits between R and Q is<br/>the same as the number of persons T and U. V<br/>sits second to the right of T.<br/>Only two persons sit between V and S.<br/>W is not an immediate neighbour of S. From this<br/>condition Case 2 gets rejected, and we get,",
+    "optionsHtml": [
+      "V",
+      "R",
+      "U",
+      "Q",
+      "T<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nU sits second to the right of W. Q sits second to\n\nthe right of R, who sits opposite W. From these\n\nconditions, we get,\n\nThe number of persons sits between R and Q is\n\nthe same as the number of persons T and U. V\n\nsits second to the right of T.\n\nOnly two persons sit between V and S.\n\nW is not an immediate neighbour of S. From this\n\ncondition Case 2 gets rejected, and we get,",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      5
     ],
     "sourcePages": [
       5
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons - P, Q, R, S, T, U, V and W are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Two persons are sitting on each\n\nside of the table. The number of persons sits\n\nbetween R and Q is the same as the number of\n\npersons T and U. U sits second to the right of W.\n\nV sits second to the right of T. Q sits second to\n\nthe right of R who sits opposite W. Only two\n\npersons sit between V and S. W is not an\n\nimmediate neighbour of S.\n\nWho among the following person sits second to\n\nthe left of P?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "18",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons -L, M, N, O, P, Q, R and S are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides. P\nsits immediately right of L. R sits two places away\nfrom Q. Only two persons sit between P and M\nwho do not sit adjacent to Q. Only one person\nsits between Q and P who sits in the middle of\nthe side. Three persons sit between S and Q. L",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides. P<br/>sits immediately right of L. R sits two places away<br/>from Q. Only two persons sit between P and M<br/>who do not sit adjacent to Q. Only one person<br/>sits between Q and P who sits in the middle of<br/>the side. Three persons sit between S and Q. L",
+    "id": "square_arrangements_chapter_wise_dpp_english_18",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L",
     "options": [],
-    "correctAnswer": 3,
-    "explanation": "Final answer:\nOnly one person sits between Q and P who sits in\nthe middle of the side. Three persons sit between\nS and Q. From these conditions, we get,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the right\nof N. O do not sit opposite N. From this condition\nCase 2 gets rejected, and we get,\nHence, S sits second to the left of N.",
-    "explanationHtml": "Final answer:<br/>Only one person sits between Q and P who sits in<br/>the middle of the side. Three persons sit between<br/>S and Q. From these conditions, we get,<br/>P sits immediately right of L. R sits two places<br/>away from Q. Only two persons sit between P<br/>and M, who do not sit adjacent to Q.<br/>L sits opposite the one who is second to the right<br/>of N. O do not sit opposite N. From this condition<br/>Case 2 gets rejected, and we get,<br/>Hence, S sits second to the left of N.",
+    "optionsHtml": [],
+    "explanation": "Final answer:\n\nOnly one person sits between Q and P who sits in\n\nthe middle of the side. Three persons sit between\n\nS and Q. From these conditions, we get,\n\nP sits immediately right of L. R sits two places\n\naway from Q. Only two persons sit between P\n\nand M, who do not sit adjacent to Q.\n\nL sits opposite the one who is second to the right\n\nof N. O do not sit opposite N. From this condition\n\nCase 2 gets rejected, and we get,\n\nHence, S sits second to the left of N.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      5
     ],
     "sourcePages": [
       5
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "19",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons -L, M, N, O, P, Q, R and S are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides. P\nsits immediately right of L. R sits two places away\nfrom Q. Only two persons sit between P and M\nwho do not sit adjacent to Q. Only one person\nsits between Q and P who sits in the middle of\nthe side. Three persons sit between S and Q. L\nsits opposite the one who is second to the right\nof N. O do not sit opposite N.\n \nHow many persons sit between L and O, when\ncounted from the left of O?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides. P<br/>sits immediately right of L. R sits two places away<br/>from Q. Only two persons sit between P and M<br/>who do not sit adjacent to Q. Only one person<br/>sits between Q and P who sits in the middle of<br/>the side. Three persons sit between S and Q. L<br/>sits opposite the one who is second to the right<br/>of N. O do not sit opposite N.<br/> <br/>How many persons sit between L and O, when<br/>counted from the left of O?",
+    "id": "square_arrangements_chapter_wise_dpp_english_19",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nHow many persons sit between L and O, when\n\ncounted from the left of O?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>How many persons sit between L and O, when<br/><br/>counted from the left of O?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>How many persons sit between L and O, when<br/><br/>counted from the left of O?<br/>",
     "options": [
       {
         "id": "A",
@@ -726,28 +1308,62 @@
       {
         "id": "E",
         "text": "None",
-        "html": "None"
+        "html": "None<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nOnly one person sits between Q and P, who sits\nin the middle of the side. Three persons sit\nbetween S and Q. From these conditions, we get,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the right\nof N.\nO do not sit opposite N. From this condition Case\n2 gets rejected, and we get,\nHence, three persons sit between L and O,\nwhen counted from the left of O.",
-    "explanationHtml": "Final answer:<br/>Only one person sits between Q and P, who sits<br/>in the middle of the side. Three persons sit<br/>between S and Q. From these conditions, we get,<br/>P sits immediately right of L. R sits two places<br/>away from Q. Only two persons sit between P<br/>and M, who do not sit adjacent to Q.<br/>L sits opposite the one who is second to the right<br/>of N.<br/>O do not sit opposite N. From this condition Case<br/>2 gets rejected, and we get,<br/>Hence, three persons sit between L and O,<br/>when counted from the left of O.",
+    "optionsHtml": [
+      "One",
+      "Two",
+      "Three",
+      "Four",
+      "None<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nOnly one person sits between Q and P, who sits\n\nin the middle of the side. Three persons sit\n\nbetween S and Q. From these conditions, we get,\n\nP sits immediately right of L. R sits two places\n\naway from Q. Only two persons sit between P\n\nand M, who do not sit adjacent to Q.\n\nL sits opposite the one who is second to the right\n\nof N.\n\nO do not sit opposite N. From this condition Case\n\n2 gets rejected, and we get,\n\nHence, three persons sit between L and O,\n\nwhen counted from the left of O.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      6
     ],
     "sourcePages": [
       6
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nHow many persons sit between L and O, when\n\ncounted from the left of O?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "20",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons -L, M, N, O, P, Q, R and S are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides. P\nsits immediately right of L. R sits two places away\nfrom Q. Only two persons sit between P and M\nwho do not sit adjacent to Q. Only one person\nsits between Q and P who sits in the middle of\nthe side. Three persons sit between S and Q. L\nsits opposite the one who is second to the right\nof N. O do not sit opposite N.\n \nWhich of the following statement(s) is/are true\nwith respect to the final arrangement?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides. P<br/>sits immediately right of L. R sits two places away<br/>from Q. Only two persons sit between P and M<br/>who do not sit adjacent to Q. Only one person<br/>sits between Q and P who sits in the middle of<br/>the side. Three persons sit between S and Q. L<br/>sits opposite the one who is second to the right<br/>of N. O do not sit opposite N.<br/> <br/>Which of the following statement(s) is/are true<br/>with respect to the final arrangement?",
+    "id": "square_arrangements_chapter_wise_dpp_english_20",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nWhich of the following statement(s) is/are true\n\nwith respect to the final arrangement?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>Which of the following statement(s) is/are true<br/><br/>with respect to the final arrangement?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>Which of the following statement(s) is/are true<br/><br/>with respect to the final arrangement?<br/>",
     "options": [
       {
         "id": "A",
@@ -772,28 +1388,62 @@
       {
         "id": "E",
         "text": "All are true",
-        "html": "All are true"
+        "html": "All are true<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
+    "optionsHtml": [
+      "One person sits between P and N",
+      "O sits second to the right of Q",
+      "P sits to the immediate left of O",
+      "Both S and L are immediate neighbours",
+      "All are true<br/><br/>"
+    ],
     "explanation": "Final answer:",
-    "explanationHtml": "Final answer:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      6
     ],
     "sourcePages": [
       6
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nWhich of the following statement(s) is/are true\n\nwith respect to the final arrangement?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "21",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons -L, M, N, O, P, Q, R and S are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides. P\nsits immediately right of L. R sits two places away\nfrom Q. Only two persons sit between P and M\nwho do not sit adjacent to Q. Only one person\nsits between Q and P who sits in the middle of\nthe side. Three persons sit between S and Q. L\nsits opposite the one who is second to the right\nof N. O do not sit opposite N.\n \nWho among the following person sits opposite to\nM?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides. P<br/>sits immediately right of L. R sits two places away<br/>from Q. Only two persons sit between P and M<br/>who do not sit adjacent to Q. Only one person<br/>sits between Q and P who sits in the middle of<br/>the side. Three persons sit between S and Q. L<br/>sits opposite the one who is second to the right<br/>of N. O do not sit opposite N.<br/> <br/>Who among the following person sits opposite to<br/>M?",
+    "id": "square_arrangements_chapter_wise_dpp_english_21",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nWho among the following person sits opposite to\n\nM?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>Who among the following person sits opposite to<br/><br/>M?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person<br/><br/>sits between Q and P who sits in the middle of<br/><br/>the side. Three persons sit between S and Q. L<br/><br/>sits opposite the one who is second to the right<br/><br/>of N. O do not sit opposite N.<br/><br/>Who among the following person sits opposite to<br/><br/>M?<br/>",
     "options": [
       {
         "id": "A",
@@ -818,41 +1468,103 @@
       {
         "id": "E",
         "text": "S",
-        "html": "S"
+        "html": "S<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Final answer:\nOnly one person sits between Q and P, who sits\nin the middle of the side. Three persons sit\nbetween S and Q. From these conditions, we get,\nP sits immediately right of L. R sits two places\naway from Q. Only two persons sit between P\nand M, who do not sit adjacent to Q.\nL sits opposite the one who is second to the right\nof N.\nO do not sit opposite N. From this condition Case\n2 gets rejected, and we get,\nHence, N sits opposite to M.",
-    "explanationHtml": "Final answer:<br/>Only one person sits between Q and P, who sits<br/>in the middle of the side. Three persons sit<br/>between S and Q. From these conditions, we get,<br/>P sits immediately right of L. R sits two places<br/>away from Q. Only two persons sit between P<br/>and M, who do not sit adjacent to Q.<br/>L sits opposite the one who is second to the right<br/>of N.<br/>O do not sit opposite N. From this condition Case<br/>2 gets rejected, and we get,<br/>Hence, N sits opposite to M.",
+    "optionsHtml": [
+      "R",
+      "P",
+      "N",
+      "Q",
+      "S<br/><br/>"
+    ],
+    "explanation": "Final answer:\n\nOnly one person sits between Q and P, who sits\n\nin the middle of the side. Three persons sit\n\nbetween S and Q. From these conditions, we get,\n\nP sits immediately right of L. R sits two places\n\naway from Q. Only two persons sit between P\n\nand M, who do not sit adjacent to Q.\n\nL sits opposite the one who is second to the right\n\nof N.\n\nO do not sit opposite N. From this condition Case\n\n2 gets rejected, and we get,\n\nHence, N sits opposite to M.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      6
     ],
     "sourcePages": [
       6
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "21",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person\n\nsits between Q and P who sits in the middle of\n\nthe side. Three persons sit between S and Q. L\n\nsits opposite the one who is second to the right\n\nof N. O do not sit opposite N.\n\nWho among the following person sits opposite to\n\nM?",
+    "metadata": {
+      "questionNumber": "21",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   },
   {
-    "question_number": "22",
-    "level": "",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nEight persons -L, M, N, O, P, Q, R and S are sitting\non the square table such that all of them are\nfacing towards the centre, but not necessarily in\nthe same order. Four of them sit in the corners\nand four of them sit in the middle of the sides. P\nsits immediately right of L. R sits two places away\nfrom Q. Only two persons sit between P and M\nwho do not sit adjacent to Q. Only one person",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/>on the square table such that all of them are<br/>facing towards the centre, but not necessarily in<br/>the same order. Four of them sit in the corners<br/>and four of them sit in the middle of the sides. P<br/>sits immediately right of L. R sits two places away<br/>from Q. Only two persons sit between P and M<br/>who do not sit adjacent to Q. Only one person",
+    "id": "square_arrangements_chapter_wise_dpp_english_22",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Eight persons -L, M, N, O, P, Q, R and S are sitting<br/><br/>on the square table such that all of them are<br/><br/>facing towards the centre, but not necessarily in<br/><br/>the same order. Four of them sit in the corners<br/><br/>and four of them sit in the middle of the sides. P<br/><br/>sits immediately right of L. R sits two places away<br/><br/>from Q. Only two persons sit between P and M<br/><br/>who do not sit adjacent to Q. Only one person",
     "options": [],
-    "correctAnswer": 3,
+    "optionsHtml": [],
     "explanation": "Final answer:",
-    "explanationHtml": "Final answer:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "square",
-      "arrangements"
+    "source_pages": [
+      6
     ],
     "sourcePages": [
       6
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "22",
+    "tags": [
+      "square",
+      "arrangements",
+      "chapter",
+      "wise",
+      "dpp"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "square_arrangements_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/square_arrangements_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nEight persons -L, M, N, O, P, Q, R and S are sitting\n\non the square table such that all of them are\n\nfacing towards the centre, but not necessarily in\n\nthe same order. Four of them sit in the corners\n\nand four of them sit in the middle of the sides. P\n\nsits immediately right of L. R sits two places away\n\nfrom Q. Only two persons sit between P and M\n\nwho do not sit adjacent to Q. Only one person",
+    "metadata": {
+      "questionNumber": "22",
+      "level": "Level-1",
+      "tags": [
+        "square",
+        "arrangements",
+        "chapter",
+        "wise",
+        "dpp"
+      ]
+    }
   }
 ]

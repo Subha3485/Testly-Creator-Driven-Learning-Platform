@@ -1,0 +1,4904 @@
+[
+  {
+    "id": "ages_chapter_wise_dpp_english_1",
+    "question": "A is 7 years younger than B. If their ages are in\n\nthe ratio of 7 : 9, what is A's age?",
+    "question_html": "A is 7 years younger than B. If their ages are in<br/><br/>the ratio of 7 : 9, what is A&#x27;s age?<br/>",
+    "questionHtml": "A is 7 years younger than B. If their ages are in<br/><br/>the ratio of 7 : 9, what is A&#x27;s age?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "28.5 years",
+        "html": "28.5 years"
+      },
+      {
+        "id": "B",
+        "text": "27 years",
+        "html": "27 years"
+      },
+      {
+        "id": "C",
+        "text": "25.6 years",
+        "html": "25.6 years"
+      },
+      {
+        "id": "D",
+        "text": "24.5 years",
+        "html": "24.5 years"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "28.5 years",
+      "27 years",
+      "25.6 years",
+      "24.5 years",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let B’s age be x years.\n\nThen, A’s age = (x – 7) years.\n\n = \n\n9x – 63 = 7x\n\n2x = 63\n\nx = 31.5\n\nHence, A’s age = (x – 7) = 24.5 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A is 7 years younger than B. If their ages are in\n\nthe ratio of 7 : 9, what is A's age?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_2",
+    "question": "A's age and B's age are currently in the ratio of 7\n\n: 5. After three years, their ages will be in the\n\nratio of 13 : 11. What is the current age of B ?",
+    "question_html": "A&#x27;s age and B&#x27;s age are currently in the ratio of 7<br/><br/>: 5. After three years, their ages will be in the<br/><br/>ratio of 13 : 11. What is the current age of B ?<br/>",
+    "questionHtml": "A&#x27;s age and B&#x27;s age are currently in the ratio of 7<br/><br/>: 5. After three years, their ages will be in the<br/><br/>ratio of 13 : 11. What is the current age of B ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 years",
+        "html": "7 years"
+      },
+      {
+        "id": "B",
+        "text": "2.5 years",
+        "html": "2.5 years"
+      },
+      {
+        "id": "C",
+        "text": "4.5 years",
+        "html": "4.5 years"
+      },
+      {
+        "id": "D",
+        "text": "5 years",
+        "html": "5 years"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7 years",
+      "2.5 years",
+      "4.5 years",
+      "5 years",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the present ages of A and B be 7x and 5x\n\nyears respectively.\n\nThen, \n = \n\n 11 (7x+3) = 13(5x+3)\n\n 77x + 33 = 65x + 39\n\n 77x – 65x = 39 – 33\n\n12x = 6\n\nx = \n\nB’s present age = 5x = 5\n\n= 2.5 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A's age and B's age are currently in the ratio of 7\n\n: 5. After three years, their ages will be in the\n\nratio of 13 : 11. What is the current age of B ?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_3",
+    "question": "The ratio of the present ages of M and P is 11 : 8.\n\nAfter 12 years, the ratio of M and P will be 5 : 4.\n\nWhat will be the ratio of their ages after 22\n\nyears?",
+    "question_html": "The ratio of the present ages of M and P is 11 : 8.<br/><br/>After 12 years, the ratio of M and P will be 5 : 4.<br/><br/>What will be the ratio of their ages after 22<br/><br/>years?<br/>",
+    "questionHtml": "The ratio of the present ages of M and P is 11 : 8.<br/><br/>After 12 years, the ratio of M and P will be 5 : 4.<br/><br/>What will be the ratio of their ages after 22<br/><br/>years?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 : 47",
+        "html": "54 : 47"
+      },
+      {
+        "id": "B",
+        "text": "44 : 57",
+        "html": "44 : 57"
+      },
+      {
+        "id": "C",
+        "text": "55 : 46",
+        "html": "55 : 46"
+      },
+      {
+        "id": "D",
+        "text": "46 : 55",
+        "html": "46 : 55"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "54 : 47",
+      "44 : 57",
+      "55 : 46",
+      "46 : 55",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the ages of M and P be 11x and 8x\n\nrespectively.\n\nAccording to the question, after 12 years:\n\nRatio of M and P will be 5 : 4;\n\n = \n\n 44x + 48 = 40x + 60\n\n 44x - 40x = 60 - 48\n\n 4x = 12\n\nx = 3\n\nHere, x = 3\n\n∴ The present age of M = (11 \n 3) = 33 years\n\n∴ The present age of P = (8 \n 3) = 24 years\n\nSo,\n\nThe ratio of M and P ages after 20 years is :\n\n (33 + 22) : (24 + 22)\n\n55 : 46\n\nHence, “55 : 46” is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of the present ages of M and P is 11 : 8.\n\nAfter 12 years, the ratio of M and P will be 5 : 4.\n\nWhat will be the ratio of their ages after 22\n\nyears?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_4",
+    "question": "Six years ago, the ratio of the ages of Kunal\n\nand Sagar was 6 : 5. Four years hence, the ratio\n\nof their ages will be 11 : 10. What is Sagar's age\n\nat present?",
+    "question_html": "Six years ago, the ratio of the ages of Kunal<br/><br/>and Sagar was 6 : 5. Four years hence, the ratio<br/><br/>of their ages will be 11 : 10. What is Sagar&#x27;s age<br/><br/>at present?<br/>",
+    "questionHtml": "Six years ago, the ratio of the ages of Kunal<br/><br/>and Sagar was 6 : 5. Four years hence, the ratio<br/><br/>of their ages will be 11 : 10. What is Sagar&#x27;s age<br/><br/>at present?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "C",
+        "text": "16",
+        "html": "16"
+      },
+      {
+        "id": "D",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "25",
+      "16",
+      "20",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let the ages of Kunal and Sagar 6 years ago be\n\n6x and 5x years respectively. \n\n 10(6x + 10) = 11(5x + 10)\n\n 5x = 10\n\n x = 2.\n\n Sagar's present age = (5x + 6) = 16 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Six years ago, the ratio of the ages of Kunal\n\nand Sagar was 6 : 5. Four years hence, the ratio\n\nof their ages will be 11 : 10. What is Sagar's age\n\nat present?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_5",
+    "question": "The ratio of Present Age of ram and shyam is 7:2\n\n.After 10 years the ratio becomes 9:4 ,Then what\n\nis the present age of Ram ?",
+    "question_html": "The ratio of Present Age of ram and shyam is 7:2<br/><br/>.After 10 years the ratio becomes 9:4 ,Then what<br/><br/>is the present age of Ram ?<br/>",
+    "questionHtml": "The ratio of Present Age of ram and shyam is 7:2<br/><br/>.After 10 years the ratio becomes 9:4 ,Then what<br/><br/>is the present age of Ram ?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "C",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "D",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "E",
+        "text": "45",
+        "html": "45<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "35",
+      "40",
+      "25",
+      "45<br/><br/>"
+    ],
+    "explanation": "Let the age of ram and shyam be 7x, 2x .\n\nAfter 10 yrs ,the age will be 7x+10 , 2x+10\n\nGiven ratio of ages after 10 years = 9:4\n\nSolving equ..\n\n28x + 40 = 18x + 90\n\n28x - 18x = 90 - 40\n\n10x = 50 \n\nSo the present age of ram = 7\n5 = 35 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "The ratio of Present Age of ram and shyam is 7:2\n\n.After 10 years the ratio becomes 9:4 ,Then what\n\nis the present age of Ram ?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_6",
+    "question": "4 years ago the sum of the ages of Rohit and\n\nMohit was 32 years and after 4 years the\n\ndifference between their ages is 4 years. What\n\nis the present age of Rohit?",
+    "question_html": "4 years ago the sum of the ages of Rohit and<br/><br/>Mohit was 32 years and after 4 years the<br/><br/>difference between their ages is 4 years. What<br/><br/>is the present age of Rohit?<br/>",
+    "questionHtml": "4 years ago the sum of the ages of Rohit and<br/><br/>Mohit was 32 years and after 4 years the<br/><br/>difference between their ages is 4 years. What<br/><br/>is the present age of Rohit?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18 years",
+        "html": "18 years "
+      },
+      {
+        "id": "B",
+        "text": "20 years",
+        "html": "20 years"
+      },
+      {
+        "id": "C",
+        "text": "22 years",
+        "html": "22 years"
+      },
+      {
+        "id": "D",
+        "text": "24 years",
+        "html": "24 years"
+      },
+      {
+        "id": "E",
+        "text": "25 years",
+        "html": "25 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "18 years ",
+      "20 years",
+      "22 years",
+      "24 years",
+      "25 years<br/><br/>"
+    ],
+    "explanation": "Let the present age of Rohit and Mohit be x\n\nand y.\n\nAccording to the questions,\n\nx-4 + y-4 =32\n\nx + y = 40………..I\n\nThe difference between their ages is always the\n\nsame.\n\nSo,\n\nx – y = 4……….II\n\nAdding equation I and II.\n\n2x = 44\n\nx = 22 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "4 years ago the sum of the ages of Rohit and\n\nMohit was 32 years and after 4 years the\n\ndifference between their ages is 4 years. What\n\nis the present age of Rohit?",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_7",
+    "question": "A is two years older than B who is twice as old\n\nas C. If the total of the ages of A, B and C be 27,\n\nthen how old is B?",
+    "question_html": "A is two years older than B who is twice as old<br/><br/>as C. If the total of the ages of A, B and C be 27,<br/><br/>then how old is B?<br/>",
+    "questionHtml": "A is two years older than B who is twice as old<br/><br/>as C. If the total of the ages of A, B and C be 27,<br/><br/>then how old is B?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10",
+        "html": "10"
+      },
+      {
+        "id": "B",
+        "text": "12",
+        "html": "12"
+      },
+      {
+        "id": "C",
+        "text": "15",
+        "html": "15"
+      },
+      {
+        "id": "D",
+        "text": "17",
+        "html": "17"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10",
+      "12",
+      "15",
+      "17",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let C's age be x years. Then, B's age = 2x years.\n\nA's age = (2x + 2) years.\n\n (2x + 2) + 2x + x = 27\n\n 5x = 25\n\n x = 5.\n\nHence, B's age = 2x = 10 years.\n\nx −7\n\nx\n\n7\n9\n\n7x+3\n5x+3\n\n13\n11\n\n1\n2\n\n× 1\n\n2\n\n (11x + 12) \n\n (8x + 12)\n\n5\n4\n\n×\n\n×\n\n=\n6x+6+4\n5x+6+4\n\n11\n10\n\n=\n7x+10\n2x+10\n\n9\n4\n\nx = 5\n\n×\n\nLevel-1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "7",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A is two years older than B who is twice as old\n\nas C. If the total of the ages of A, B and C be 27,\n\nthen how old is B?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_8",
+    "question": "A father told his son that when the son was\n\nborn, the father's age was the same as the\n\nson's current age. If the father is currently 54\n\nyears old, how old was the son 9 years ago?",
+    "question_html": "A father told his son that when the son was<br/><br/>born, the father&#x27;s age was the same as the<br/><br/>son&#x27;s current age. If the father is currently 54<br/><br/>years old, how old was the son 9 years ago?<br/>",
+    "questionHtml": "A father told his son that when the son was<br/><br/>born, the father&#x27;s age was the same as the<br/><br/>son&#x27;s current age. If the father is currently 54<br/><br/>years old, how old was the son 9 years ago?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "19 years",
+        "html": "19 years"
+      },
+      {
+        "id": "B",
+        "text": "20 years",
+        "html": "20 years"
+      },
+      {
+        "id": "C",
+        "text": "18 years",
+        "html": "18 years"
+      },
+      {
+        "id": "D",
+        "text": "17 years",
+        "html": "17 years"
+      },
+      {
+        "id": "E",
+        "text": "25 years",
+        "html": "25 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "19 years",
+      "20 years",
+      "18 years",
+      "17 years",
+      "25 years<br/><br/>"
+    ],
+    "explanation": "Let the son’s present age be x years.\n\nThen, (54 – x) = x\n\n2x = 54\n\nx = 27\n\nSon’s age 9 years back (27 – 9) = 18 years\n\n∴ The answer is 18 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A father told his son that when the son was\n\nborn, the father's age was the same as the\n\nson's current age. If the father is currently 54\n\nyears old, how old was the son 9 years ago?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_9",
+    "question": "A got married 6 years ago and his current age\n\nis \n times his age at the time of his marriage. At\n\nthe time of A's marriage, his sister was 9 years\n\nyounger than him. What is A's sister's current\n\nage?",
+    "question_html": "A got married 6 years ago and his current age<br/><br/>is <br/> times his age at the time of his marriage. At<br/><br/>the time of A&#x27;s marriage, his sister was 9 years<br/><br/>younger than him. What is A&#x27;s sister&#x27;s current<br/><br/>age?<br/>",
+    "questionHtml": "A got married 6 years ago and his current age<br/><br/>is <br/> times his age at the time of his marriage. At<br/><br/>the time of A&#x27;s marriage, his sister was 9 years<br/><br/>younger than him. What is A&#x27;s sister&#x27;s current<br/><br/>age?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24 years",
+        "html": "24 years"
+      },
+      {
+        "id": "B",
+        "text": "23 years",
+        "html": "23 years"
+      },
+      {
+        "id": "C",
+        "text": "27 years",
+        "html": "27 years"
+      },
+      {
+        "id": "D",
+        "text": "22 years",
+        "html": "22 years"
+      },
+      {
+        "id": "E",
+        "text": "25 years",
+        "html": "25 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24 years",
+      "23 years",
+      "27 years",
+      "22 years",
+      "25 years<br/><br/>"
+    ],
+    "explanation": "Let A's age at the time of his marriage = x years\n\nThen from given data\n\n=> x + 6 = \n x\n\n5x + 30 = 6x\n\nx = 30\n\nSince A got married 6 years ago, his present\n\nage = 30\n\nAfter 6 year, A's current age = 30 + 6 = 36 years\n\nHis sister is 9 years younger => 36 – 9 = 27 years.\n\n∴ The answer is 27 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A got married 6 years ago and his current age\n\nis \n times his age at the time of his marriage. At\n\nthe time of A's marriage, his sister was 9 years\n\nyounger than him. What is A's sister's current\n\nage?",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_10",
+    "question": "8 years ago, the ratio of Tina and Shilpa was 1:3.\n\nAfter 4 years, the ratio between them will be 2:3.\n\nThen, find the ratio of their present ages is.",
+    "question_html": "8 years ago, the ratio of Tina and Shilpa was 1:3.<br/><br/>After 4 years, the ratio between them will be 2:3.<br/><br/>Then, find the ratio of their present ages is.<br/>",
+    "questionHtml": "8 years ago, the ratio of Tina and Shilpa was 1:3.<br/><br/>After 4 years, the ratio between them will be 2:3.<br/><br/>Then, find the ratio of their present ages is.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 : 5",
+        "html": "2 : 5"
+      },
+      {
+        "id": "B",
+        "text": "3 : 7",
+        "html": "3 : 7"
+      },
+      {
+        "id": "C",
+        "text": "3 : 5",
+        "html": "3 : 5"
+      },
+      {
+        "id": "D",
+        "text": "1 : 2",
+        "html": "1 : 2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2 : 5",
+      "3 : 7",
+      "3 : 5",
+      "1 : 2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Consider that 8 years ago, Tina and Shilpa\n\nwere x and 3x years old, respectively.\n\nSo, present age of Tina \n\nand present age of Shilpa \n\nAccording to the given conditions,\n\nHence, the required ratio is \n 3 :\n\n5\n\n∴ The answer is 3:5.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "8 years ago, the ratio of Tina and Shilpa was 1:3.\n\nAfter 4 years, the ratio between them will be 2:3.\n\nThen, find the ratio of their present ages is.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_11",
+    "question": "A's father was 32 years of age when she was\n\nborn while her mother was 28 years old when\n\nProblems on Age\n\nLevel-1\n\n6\n5",
+    "question_html": "A&#x27;s father was 32 years of age when she was<br/><br/>born while her mother was 28 years old when<br/><br/><b>Problems on Age</b><br/><br/><b>Level-1</b><br/><br/>6<br/>5",
+    "questionHtml": "A&#x27;s father was 32 years of age when she was<br/><br/>born while her mother was 28 years old when<br/><br/><b>Problems on Age</b><br/><br/><b>Level-1</b><br/><br/>6<br/>5",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Mother's age when A's brother was born = 28\n\nyears.\n\nFather's age when A's brother was born = (32 +\n\n3) years = 35 years.\n\nRequired difference = (35 – 28) years = 7 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "A's father was 32 years of age when she was\n\nborn while her mother was 28 years old when\n\nProblems on Age\n\nLevel-1\n\n6\n5",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_12",
+    "question": "Present ages of Sameer and Anand are in the\n\nratio of 5 : 4 respectively. Three years hence, the\n\nratio of their ages will become 11 : 9 respectively.\n\nWhat is Anand's present age in years?",
+    "question_html": "Present ages of Sameer and Anand are in the<br/><br/>ratio of 5 : 4 respectively. Three years hence, the<br/><br/>ratio of their ages will become 11 : 9 respectively.<br/><br/>What is Anand&#x27;s present age in years?<br/>",
+    "questionHtml": "Present ages of Sameer and Anand are in the<br/><br/>ratio of 5 : 4 respectively. Three years hence, the<br/><br/>ratio of their ages will become 11 : 9 respectively.<br/><br/>What is Anand&#x27;s present age in years?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "B",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "C",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "D",
+        "text": "24",
+        "html": "24"
+      },
+      {
+        "id": "E",
+        "text": "28",
+        "html": "28<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "30",
+      "35",
+      "25",
+      "24",
+      "28<br/><br/>"
+    ],
+    "explanation": "Let the present ages of Sameer and Anand be\n\n5x years and 4x years respectively.\n\n 9(5x + 3) = 11(4x + 3)\n\n 45x + 27 = 44x + 33\n\n 45x - 44x = 33 - 27\n\n x = 6.\n\n Anand's present age = 4x = 24 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Present ages of Sameer and Anand are in the\n\nratio of 5 : 4 respectively. Three years hence, the\n\nratio of their ages will become 11 : 9 respectively.\n\nWhat is Anand's present age in years?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_13",
+    "question": "3 years ago, the ratio of age of A and B was 3:1.\n\nIf the present age of B is \n of the present\n\nage of A then what is the difference between\n\ntheir present ages (in years)?",
+    "question_html": "3 years ago, the ratio of age of A and B was 3:1.<br/><br/>If the present age of B is <br/> of the present<br/><br/>age of A then what is the difference between<br/><br/>their present ages (in years)? <br/>",
+    "questionHtml": "3 years ago, the ratio of age of A and B was 3:1.<br/><br/>If the present age of B is <br/> of the present<br/><br/>age of A then what is the difference between<br/><br/>their present ages (in years)? <br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "html": "30"
+      },
+      {
+        "id": "C",
+        "text": "35",
+        "html": "35"
+      },
+      {
+        "id": "D",
+        "text": "40",
+        "html": "40"
+      },
+      {
+        "id": "E",
+        "text": "45",
+        "html": "45<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "25",
+      "30",
+      "35",
+      "40",
+      "45<br/><br/>"
+    ],
+    "explanation": "The present age of B = \n of the present\n\nage of A.\n\nThe present age of B = \nof the present age of\n\nA.\n\nThe ratio of the present age of A and B = 8: 3\n\nLet the present ages of A and B be 8k and 3k\n\nrespectively,\n\nRequired \ndifference \n\n years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "3 years ago, the ratio of age of A and B was 3:1.\n\nIf the present age of B is \n of the present\n\nage of A then what is the difference between\n\ntheir present ages (in years)?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_14",
+    "question": "The ratio of ages of Ramu and Dhamu 6 years\n\nago was 4: 5 and after 6 years the ratio of their\n\nages will become 8:9. Find the ratio of their\n\npresent ages.",
+    "question_html": "The ratio of ages of Ramu and Dhamu 6 years<br/><br/>ago was 4: 5 and after 6 years the ratio of their<br/><br/>ages will become 8:9. Find the ratio of their<br/><br/>present ages.<br/>",
+    "questionHtml": "The ratio of ages of Ramu and Dhamu 6 years<br/><br/>ago was 4: 5 and after 6 years the ratio of their<br/><br/>ages will become 8:9. Find the ratio of their<br/><br/>present ages.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3: 4",
+        "html": "3: 4"
+      },
+      {
+        "id": "B",
+        "text": "5: 6",
+        "html": "5: 6"
+      },
+      {
+        "id": "C",
+        "text": "6: 7",
+        "html": "6: 7"
+      },
+      {
+        "id": "D",
+        "text": "4: 9",
+        "html": "4: 9"
+      },
+      {
+        "id": "E",
+        "text": "2: 1",
+        "html": "2: 1<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3: 4",
+      "5: 6",
+      "6: 7",
+      "4: 9",
+      "2: 1<br/><br/>"
+    ],
+    "explanation": "Let 6 years ago the age of Ramu and Dhamu\n\nbe 4k and 5k respectively.\n\nresent age of Ramu = 4k + 6 =18\n\nPresent age of Dhamu = 5k + 6 =21\n\nRequired ratio = 18 : 21 = 6: 7",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of ages of Ramu and Dhamu 6 years\n\nago was 4: 5 and after 6 years the ratio of their\n\nages will become 8:9. Find the ratio of their\n\npresent ages.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_15",
+    "question": "The average of present age of Anjali ,Babita\n\nand Chandani is 31 years. If age of Anjali is two\n\nyears less than that of Babita and age of\n\nBabita is eight years less than Chandani, then\n\nFind the present age of Anjali.",
+    "question_html": "The average of present age of Anjali ,Babita<br/><br/>and Chandani is 31 years. If age of Anjali is two<br/><br/>years less than that of Babita and age of<br/><br/>Babita is eight years less than Chandani, then<br/><br/>Find the present age of Anjali.<br/>",
+    "questionHtml": "The average of present age of Anjali ,Babita<br/><br/>and Chandani is 31 years. If age of Anjali is two<br/><br/>years less than that of Babita and age of<br/><br/>Babita is eight years less than Chandani, then<br/><br/>Find the present age of Anjali.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "21 years",
+        "html": "21 years"
+      },
+      {
+        "id": "B",
+        "text": "20 years",
+        "html": "20 years"
+      },
+      {
+        "id": "C",
+        "text": "25 years",
+        "html": "25 years"
+      },
+      {
+        "id": "D",
+        "text": "27 years",
+        "html": "27 years"
+      },
+      {
+        "id": "E",
+        "text": "29 years",
+        "html": "29 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "21 years",
+      "20 years",
+      "25 years",
+      "27 years",
+      "29 years<br/><br/>"
+    ],
+    "explanation": "Let the present ages of Anjali, Babita, and\n\nChandani be a, b, and c years respectively.\n\n𝑎 + 𝑏 + 𝑐 = 31\n3 = 93 years ….(i)\n\n𝑏 − 2 = 𝑎 ……(ii)\n\n𝑏 + 8 = 𝑐 ….. (iii)\n\nATQ.\n\n𝑏 − 2 + 𝑏 + 8 + 𝑏 = 93\n\n3𝑏 = 87\n\n𝑏 = 29\n\nThe present age of Anjali = 27 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The average of present age of Anjali ,Babita\n\nand Chandani is 31 years. If age of Anjali is two\n\nyears less than that of Babita and age of\n\nBabita is eight years less than Chandani, then\n\nFind the present age of Anjali.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_16",
+    "question": "The ratio of age of Piyush and Pari is 1 : 4. The\n\naverage age of the family of 5 including Piyush\n\nand Pari is 20 years. The sum of the ages of rest\n\nof the family excluding them is 60 years. Find\n\nthe age of Pari.",
+    "question_html": "The ratio of age of Piyush and Pari is 1 : 4. The<br/><br/>average age of the family of 5 including Piyush<br/><br/>and Pari is 20 years. The sum of the ages of rest<br/><br/>of the family excluding them is 60 years. Find<br/><br/>the age of Pari.<br/>",
+    "questionHtml": "The ratio of age of Piyush and Pari is 1 : 4. The<br/><br/>average age of the family of 5 including Piyush<br/><br/>and Pari is 20 years. The sum of the ages of rest<br/><br/>of the family excluding them is 60 years. Find<br/><br/>the age of Pari.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "28 years",
+        "html": "28 years"
+      },
+      {
+        "id": "B",
+        "text": "30 years",
+        "html": "30 years "
+      },
+      {
+        "id": "C",
+        "text": "31 years",
+        "html": "31 years"
+      },
+      {
+        "id": "D",
+        "text": "32 years",
+        "html": "32 years"
+      },
+      {
+        "id": "E",
+        "text": "40 years",
+        "html": "40 years <br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "28 years",
+      "30 years ",
+      "31 years",
+      "32 years",
+      "40 years <br/><br/>"
+    ],
+    "explanation": "Let the ages of Piyush and Pari be x and 4x\n\nrespectively.\n\nAccording to the question –\n\n6\n5\n\n= (x + 8)\n\n= (3x + 8)\n\n=\nx+8+4\n\n3x+8+4\n\n2\n3\n\n=> 3x + 36 = 6x + 24\n=> 3x = 12\n=> x = 4\n\n=\n=\n=\n4+8\n\n3×4+8\n\n12\n20\n\n=\n5x+3\n4x+3\n\n11\n\n9\n\n37 %\n1\n2\n\n3\n8\n\n=\n8k−3\n3k−3\n\n3\n1\n\n8k −3 = 9k −9\nk = 6\n\n= 8k − 3k = 5k = 5 × 6 = 30\n\n=\n4k+12\n5k+12\n\n8\n9\n\n36k + 108 = 40k + 96 \n4k = 12 \nk = 3\n\n×",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "16",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "The ratio of age of Piyush and Pari is 1 : 4. The\n\naverage age of the family of 5 including Piyush\n\nand Pari is 20 years. The sum of the ages of rest\n\nof the family excluding them is 60 years. Find\n\nthe age of Pari.",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_17",
+    "question": "10 years ago from now, ratio of ages of ‘R’ and\n\n‘L’ was 3:5, respectively. If ‘L’ is 10 years elder to\n\n‘R’, then what will be the age of ‘L’, 5 years\n\nhence from now?",
+    "question_html": "10 years ago from now, ratio of ages of ‘R’ and<br/><br/>‘L’ was 3:5, respectively. If ‘L’ is 10 years elder to<br/><br/>‘R’, then what will be the age of ‘L’, 5 years<br/><br/>hence from now?<br/>",
+    "questionHtml": "10 years ago from now, ratio of ages of ‘R’ and<br/><br/>‘L’ was 3:5, respectively. If ‘L’ is 10 years elder to<br/><br/>‘R’, then what will be the age of ‘L’, 5 years<br/><br/>hence from now?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "25 years",
+        "html": "25 years"
+      },
+      {
+        "id": "B",
+        "text": "50 years",
+        "html": "50 years"
+      },
+      {
+        "id": "C",
+        "text": "30 years",
+        "html": "30 years"
+      },
+      {
+        "id": "D",
+        "text": "35 years",
+        "html": "35 years"
+      },
+      {
+        "id": "E",
+        "text": "40 years",
+        "html": "40 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "25 years",
+      "50 years",
+      "30 years",
+      "35 years",
+      "40 years<br/><br/>"
+    ],
+    "explanation": "10 years ago from now, let the ages of ‘R’ and ‘L’\n\nbe ‘3x’ years and ‘5x’ years, respectively.\n\nSo, 5x – 3x = 10\n\nOr, 2x = 10\n\nOr, x = 5\n\nPresent age of ‘L’ = 5x + 10 = 5 \n 5 + 10 = 35\n\nyears\n\nAge of ‘L’, five years hence from now = 35 + 5 =\n\n40 years\n\nHence, option e.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "17",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "10 years ago from now, ratio of ages of ‘R’ and\n\n‘L’ was 3:5, respectively. If ‘L’ is 10 years elder to\n\n‘R’, then what will be the age of ‘L’, 5 years\n\nhence from now?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_18",
+    "question": "Alina is three times more than her daughter\n\nFina. After 12 years, she would be two and a\n\nhalf times of Fina’s age. After further 12 years,\n\nhow many times would she be of Fina’s age:",
+    "question_html": "Alina is three times more than her daughter<br/><br/>Fina. After 12 years, she would be two and a<br/><br/>half times of Fina’s age. After further 12 years,<br/><br/>how many times would she be of Fina’s age:<br/>",
+    "questionHtml": "Alina is three times more than her daughter<br/><br/>Fina. After 12 years, she would be two and a<br/><br/>half times of Fina’s age. After further 12 years,<br/><br/>how many times would she be of Fina’s age:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:3",
+        "html": "2:3"
+      },
+      {
+        "id": "B",
+        "text": "3:7",
+        "html": "3:7"
+      },
+      {
+        "id": "C",
+        "text": "5:2",
+        "html": "5:2"
+      },
+      {
+        "id": "D",
+        "text": "1:2",
+        "html": "1:2"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "2:3",
+      "3:7",
+      "5:2",
+      "1:2",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let Fina’s present age = x\n\nThen, Alina’s present age = (x+3x)= 4x\n\nTherefore, after 12 years,Alina’s and Fina’s age\n\nwill be (4x+12) and (x+12) respectively.\n\nAccording to the question,\n\n(4x + 12) = 2\n\n(4x + 12) = \n(x + 12)\n\n8x + 24 = 5x + 60\n\nx= 12\n\nTherefore, Alina’s age = 4x=48 years\n\nFina’s age = 12 years\n\nAfter 12 years the required ratio = \n\n = \n = 5:2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "18",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Alina is three times more than her daughter\n\nFina. After 12 years, she would be two and a\n\nhalf times of Fina’s age. After further 12 years,\n\nhow many times would she be of Fina’s age:",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_19",
+    "question": "A man's age is four times the combined ages of\n\nhis two daughters. In 15 years, his age will be\n\nthree \ntimes \nthe \ncombined \nages \nof \nhis\n\ndaughters. What is the total of current ages of\n\nthe 2 daughters is?",
+    "question_html": "A man&#x27;s age is four times the combined ages of<br/><br/>his two daughters. In 15 years, his age will be<br/><br/>three <br/>times <br/>the <br/>combined <br/>ages <br/>of <br/>his<br/><br/>daughters. What is the total of current ages of<br/><br/>the 2 daughters is?<br/>",
+    "questionHtml": "A man&#x27;s age is four times the combined ages of<br/><br/>his two daughters. In 15 years, his age will be<br/><br/>three <br/>times <br/>the <br/>combined <br/>ages <br/>of <br/>his<br/><br/>daughters. What is the total of current ages of<br/><br/>the 2 daughters is?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "72 years",
+        "html": "72 years"
+      },
+      {
+        "id": "B",
+        "text": "86 years",
+        "html": "86 years"
+      },
+      {
+        "id": "C",
+        "text": "65 years",
+        "html": "65 years"
+      },
+      {
+        "id": "D",
+        "text": "75 years",
+        "html": "75 years"
+      },
+      {
+        "id": "E",
+        "text": "60 years",
+        "html": "60 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "72 years",
+      "86 years",
+      "65 years",
+      "75 years",
+      "60 years<br/><br/>"
+    ],
+    "explanation": "Let the total of the current ages of the 2\n\ndaughters is A years.\n\nThen, the father’s current age = 4A years.\n\n(4A + 15) = 3 (A +30)\n\n4A + 15 = 3A + 90\n\nA = 75\n\nTherefore, the Total of current ages of the 2\n\ndaughters is = 75 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "19",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A man's age is four times the combined ages of\n\nhis two daughters. In 15 years, his age will be\n\nthree \ntimes \nthe \ncombined \nages \nof \nhis\n\ndaughters. What is the total of current ages of\n\nthe 2 daughters is?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_20",
+    "question": "A man said to his son, \"I am currently five times\n\nthe age you were when I was the same age as\n\nyou are now.\" If the sum of their ages is 54\n\nyears, what are their current ages?",
+    "question_html": "A man said to his son, &quot;I am currently five times<br/><br/>the age you were when I was the same age as<br/><br/>you are now.&quot; If the sum of their ages is 54<br/><br/>years, what are their current ages?<br/>",
+    "questionHtml": "A man said to his son, &quot;I am currently five times<br/><br/>the age you were when I was the same age as<br/><br/>you are now.&quot; If the sum of their ages is 54<br/><br/>years, what are their current ages?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "9 & 45 years",
+        "html": "9 &amp; 45 years"
+      },
+      {
+        "id": "B",
+        "text": "12 & 42 years",
+        "html": "12 &amp; 42 years"
+      },
+      {
+        "id": "C",
+        "text": "20 & 34 years",
+        "html": "20 &amp; 34 years"
+      },
+      {
+        "id": "D",
+        "text": "25 & 29 years",
+        "html": "25 &amp; 29 years"
+      },
+      {
+        "id": "E",
+        "text": "12 & 15 years\n\n37 %\n1\n2",
+        "html": "12 &amp; 15 years<br/><br/>37 %<br/>1<br/>2"
+      }
+    ],
+    "optionsHtml": [
+      "9 &amp; 45 years",
+      "12 &amp; 42 years",
+      "20 &amp; 34 years",
+      "25 &amp; 29 years",
+      "12 &amp; 15 years<br/><br/>37 %<br/>1<br/>2"
+    ],
+    "explanation": "Let the present age of father and son is x and y\n\nThen as per question x + y = 54………..(i)\n\nGiven x = 5y ……………(ii)\n\nSubstituting equation (ii) in eq (i) we get,\n\n5y + y = 54\n\n6y = 54\n\ny = 9\n\nPutting the value of y in eq. (ii) we get\n\nx = 45\n\nThe age of the father is 45 years.\n\n= 20 \nx + 4x + 60\n\n5\n\n x = 8\n\n= 4x = 4 × 8 = 32\n\n×\n\n(x + 12)\n1\n2\n\n5\n2\n\n=\n4x+12\n\nx+12\n\n48+12\n12+12\n\n60\n24",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "20",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "A man said to his son, \"I am currently five times\n\nthe age you were when I was the same age as\n\nyou are now.\" If the sum of their ages is 54\n\nyears, what are their current ages?",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_21",
+    "question": "A father said to his son, \"I was as old as you are\n\nat the present at the time of your birth\". If the\n\nfather's age is 42 years now, the son's age five\n\nyears back was",
+    "question_html": "A father said to his son, &quot;I was as old as you are<br/><br/>at the present at the time of your birth&quot;. If the<br/><br/>father&#x27;s age is 42 years now, the son&#x27;s age five<br/><br/>years back was<br/>",
+    "questionHtml": "A father said to his son, &quot;I was as old as you are<br/><br/>at the present at the time of your birth&quot;. If the<br/><br/>father&#x27;s age is 42 years now, the son&#x27;s age five<br/><br/>years back was<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "24 years",
+        "html": "24 years"
+      },
+      {
+        "id": "B",
+        "text": "16 years",
+        "html": "16 years"
+      },
+      {
+        "id": "C",
+        "text": "21 years",
+        "html": "21 years"
+      },
+      {
+        "id": "D",
+        "text": "20 years",
+        "html": "20 years"
+      },
+      {
+        "id": "E",
+        "text": "34 years",
+        "html": "34 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "24 years",
+      "16 years",
+      "21 years",
+      "20 years",
+      "34 years<br/><br/>"
+    ],
+    "explanation": "Let the son's present age be x years. Then, (42 -\n\nx) = x\n\n⇒2x = 42\n\n⇒x = 21\n\n∴ Son's age 5 years back (21 - 5) = 16 years\n\n.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "1",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "A father said to his son, \"I was as old as you are\n\nat the present at the time of your birth\". If the\n\nfather's age is 42 years now, the son's age five\n\nyears back was",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_22",
+    "question": "When Sunil will be as old as his father is at\n\npresent, Sunil will be five times as old as his son\n\nis at present. Also, by then Sunil’s son will be six\n\nyears older than the age of Sunil at present.\n\nThe sum of the ages of Sunil’s father and Sunil is\n\n85 years at present. What is the sum of the\n\nages of Sunil’s son and Sunil at present?",
+    "question_html": "When Sunil will be as old as his father is at<br/><br/>present, Sunil will be five times as old as his son<br/><br/>is at present. Also, by then Sunil’s son will be six<br/><br/>years older than the age of Sunil at present.<br/><br/>The sum of the ages of Sunil’s father and Sunil is<br/><br/>85 years at present. What is the sum of the<br/><br/>ages of Sunil’s son and Sunil at present?<br/>",
+    "questionHtml": "When Sunil will be as old as his father is at<br/><br/>present, Sunil will be five times as old as his son<br/><br/>is at present. Also, by then Sunil’s son will be six<br/><br/>years older than the age of Sunil at present.<br/><br/>The sum of the ages of Sunil’s father and Sunil is<br/><br/>85 years at present. What is the sum of the<br/><br/>ages of Sunil’s son and Sunil at present?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "37 years",
+        "html": "37 years"
+      },
+      {
+        "id": "B",
+        "text": "38.5 years",
+        "html": "38.5 years"
+      },
+      {
+        "id": "C",
+        "text": "39 years",
+        "html": "39 years"
+      },
+      {
+        "id": "D",
+        "text": "41 years",
+        "html": "41 years"
+      },
+      {
+        "id": "E",
+        "text": "42 years",
+        "html": "42 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "37 years",
+      "38.5 years",
+      "39 years",
+      "41 years",
+      "42 years<br/><br/>"
+    ],
+    "explanation": "Let the age of Sunil, Sunil’s son, and Sunil’s\n\nfather be x, y, and z years respectively.\n\nz = 5y,\n\nx + 6 = z – x + y\n\nand x + z = 85.\n\nSolving the above equations in x, y, and z, we\n\nget that x = 30, y = 11 and z = 55.\n\nHence the sum of the ages of Sunil’s son and\n\nSunil is 41 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "2",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "When Sunil will be as old as his father is at\n\npresent, Sunil will be five times as old as his son\n\nis at present. Also, by then Sunil’s son will be six\n\nyears older than the age of Sunil at present.\n\nThe sum of the ages of Sunil’s father and Sunil is\n\n85 years at present. What is the sum of the\n\nages of Sunil’s son and Sunil at present?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_23",
+    "question": "Ratio of present ages of P to Q is 5: 3, ratio of\n\nages of Q to R after 6 years will be 4: 5, ratio of\n\nR to S before 4 years was 5: 8 and sum of ages\n\nof P and S is 66 years. Find the average age of\n\nall the four persons.",
+    "question_html": "Ratio of present ages of P to Q is 5: 3, ratio of<br/><br/>ages of Q to R after 6 years will be 4: 5, ratio of<br/><br/>R to S before 4 years was 5: 8 and sum of ages<br/><br/>of P and S is 66 years. Find the average age of<br/><br/>all the four persons.<br/>",
+    "questionHtml": "Ratio of present ages of P to Q is 5: 3, ratio of<br/><br/>ages of Q to R after 6 years will be 4: 5, ratio of<br/><br/>R to S before 4 years was 5: 8 and sum of ages<br/><br/>of P and S is 66 years. Find the average age of<br/><br/>all the four persons.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "32 years",
+        "html": "32 years"
+      },
+      {
+        "id": "B",
+        "text": "27 years",
+        "html": "27 years"
+      },
+      {
+        "id": "C",
+        "text": "30 years",
+        "html": "30 years"
+      },
+      {
+        "id": "D",
+        "text": "24 years",
+        "html": "24 years"
+      },
+      {
+        "id": "E",
+        "text": "23 years",
+        "html": "23 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "32 years",
+      "27 years",
+      "30 years",
+      "24 years",
+      "23 years<br/><br/>"
+    ],
+    "explanation": "Let present age of P, Q, R, and S is ‘p’, ‘q’, ‘r’,\n\nand ‘s’ years respectively.\n\nAccording to the question:\n\np: q = 5: 3\n\n3p = 5q ………. (1)\n\n(q + 6): (r + 6) = 4: 5\n\n5q + 30 = 4r + 24\n\n4r - 5q = 6 ……… (2)\n\n(r - 4): (s - 4) = 5: 8\n\n8r - 32 = 5s - 20\n\n8r = 12+ 5s ………. (3)\n\np + s = 66 ……… (4)\n\nFrom (1) and (2):\n\n4r - 3p = 6\n\n8r - 6p = 12 ………. (5)\n\nFrom (3) and (5):\n\n12+5s - 6p = 12\n\n5s = 6p\n\ns = 1.2p ……… (6)\n\nFrom (4) and (6):\n\np + 1.2p = 66\n\nP = 30\n\ns = 36\n\nq = 18\n\nr = 24\n\nHence, required average = \n= 27\n\nyears",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Ratio of present ages of P to Q is 5: 3, ratio of\n\nages of Q to R after 6 years will be 4: 5, ratio of\n\nR to S before 4 years was 5: 8 and sum of ages\n\nof P and S is 66 years. Find the average age of\n\nall the four persons.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_24",
+    "question": "10 years hence, the age of Deepak will be 10\n\nyears more than the age of Ali. The ratio of the\n\npresent age of Deepak to that of Ali is 7:6. What\n\nwill be the ratio of age of Deepak and Ali after\n\n12 years?",
+    "question_html": "10 years hence, the age of Deepak will be 10<br/><br/>years more than the age of Ali. The ratio of the<br/><br/>present age of Deepak to that of Ali is 7:6. What<br/><br/>will be the ratio of age of Deepak and Ali after<br/><br/>12 years?<br/>",
+    "questionHtml": "10 years hence, the age of Deepak will be 10<br/><br/>years more than the age of Ali. The ratio of the<br/><br/>present age of Deepak to that of Ali is 7:6. What<br/><br/>will be the ratio of age of Deepak and Ali after<br/><br/>12 years?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "1:7",
+        "html": "1:7"
+      },
+      {
+        "id": "B",
+        "text": "16:15",
+        "html": "16:15"
+      },
+      {
+        "id": "C",
+        "text": "15:16",
+        "html": "15:16"
+      },
+      {
+        "id": "D",
+        "text": "36:41",
+        "html": "36:41"
+      },
+      {
+        "id": "E",
+        "text": "41:36",
+        "html": "41:36<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "1:7",
+      "16:15",
+      "15:16",
+      "36:41",
+      "41:36<br/><br/>"
+    ],
+    "explanation": "Let the present age of Deepak be 7x & of Ali be\n\n6x.\n\nGiven, (7x+10) = (6x+10) + 10 => x = 10\n\nSo age of Deepak = 7x = 7\n(10) = 70\n\nDeepak's age after 12 years = 70+12 = 82\n\nAnd, age of Ali = 6x = 6\n(10) = 60\n\nAli’s age after 12 years = 60+12 = 72\n\nHence, required ratio = 82:72 = 41:36",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "4",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "10 years hence, the age of Deepak will be 10\n\nyears more than the age of Ali. The ratio of the\n\npresent age of Deepak to that of Ali is 7:6. What\n\nwill be the ratio of age of Deepak and Ali after\n\n12 years?",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_25",
+    "question": "5 years ago, the ratio of age of Anil and Babu is",
+    "question_html": "5 years ago, the ratio of age of Anil and Babu is<br/><br/>",
+    "questionHtml": "5 years ago, the ratio of age of Anil and Babu is<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Given, the ratio of age of Anil and Babu is\n\n.\n\nLet 5 years ago the age of Anil be 3x and Babu\n\nbe 2x.\n\nThe present age of Anil \n\nThe present age of Babu \n\nAccording to the question,\n\nThe present age of Celin \n present age of Anil\n\nPresent age of Dhanu \n years\n\nPresent age of Celin \n present age of\n\nDhanu\n\n years\n\nThe present age of Anil \n years\n\nThe \npresent \nage \nof \nBabu\n\n years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "5",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "5 years ago, the ratio of age of Anil and Babu is",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_26",
+    "question": "2. Celin is 7 years younger than Anil. The\n\npresent age of Celin is 2 times Dhanu’s present\n\nage. Find the present age of Babu, if the age of\n\nDhanu, after 6 years is 35 years.",
+    "question_html": "2. Celin is 7 years younger than Anil. The<br/><br/>present age of Celin is 2 times Dhanu’s present<br/><br/>age. Find the present age of Babu, if the age of<br/><br/>Dhanu, after 6 years is 35 years.<br/>",
+    "questionHtml": "2. Celin is 7 years younger than Anil. The<br/><br/>present age of Celin is 2 times Dhanu’s present<br/><br/>age. Find the present age of Babu, if the age of<br/><br/>Dhanu, after 6 years is 35 years.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "B",
+        "text": "55",
+        "html": "55"
+      },
+      {
+        "id": "C",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "D",
+        "text": "42",
+        "html": "42"
+      },
+      {
+        "id": "E",
+        "text": "48",
+        "html": "48<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "50",
+      "55",
+      "45",
+      "42",
+      "48<br/><br/>"
+    ],
+    "explanation": "Let present age of P, Q, R, and S is ‘p’, ‘q’, ‘r’,\n\nand ‘s’ years respectively.\n\nAccording to the question:\n\np: q = 5: 3\n\n3p = 5q ………. (1)\n\n(q + 6): (r + 6) = 4: 5\n\n5q + 30 = 4r + 24\n\n4r - 5q = 6 ……… (2)\n\n(r - 4): (s - 4) = 5: 8\n\n8r - 32 = 5s - 20\n\n8r = 12+ 5s ………. (3)\n\np + s = 66 ……… (4)\n\nFrom (1) and (2):\n\n4r - 3p = 6\n\n8r - 6p = 12 ………. (5)\n\nFrom (3) and (5):\n\n12+5s - 6p = 12\n\n5s = 6p\n\ns = 1.2p ……… (6)\n\nFrom (4) and (6):\n\np + 1.2p = 66\n\nP = 30\n\ns = 36\n\nq = 18\n\nr = 24\n\nHence, required average = \n= 27\n\nyears",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "3",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "2. Celin is 7 years younger than Anil. The\n\npresent age of Celin is 2 times Dhanu’s present\n\nage. Find the present age of Babu, if the age of\n\nDhanu, after 6 years is 35 years.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_27",
+    "question": "Present ages of three persons Ravi, Giri, and\n\nArvind are in increasing arithmetic progression\n\nwith a common difference of 7. If ratio of Giri’s\n\nage after 3 years to the Arvind’s age before 9\n\nyears is 5: 4, then find the average of present\n\nage of all the three persons.",
+    "question_html": "Present ages of three persons Ravi, Giri, and<br/><br/>Arvind are in increasing arithmetic progression<br/><br/>with a common difference of 7. If ratio of Giri’s<br/><br/>age after 3 years to the Arvind’s age before 9<br/><br/>years is 5: 4, then find the average of present<br/><br/>age of all the three persons.<br/>",
+    "questionHtml": "Present ages of three persons Ravi, Giri, and<br/><br/>Arvind are in increasing arithmetic progression<br/><br/>with a common difference of 7. If ratio of Giri’s<br/><br/>age after 3 years to the Arvind’s age before 9<br/><br/>years is 5: 4, then find the average of present<br/><br/>age of all the three persons.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "21 years",
+        "html": "21 years"
+      },
+      {
+        "id": "B",
+        "text": "22 years",
+        "html": "22 years"
+      },
+      {
+        "id": "C",
+        "text": "23 years",
+        "html": "23 years"
+      },
+      {
+        "id": "D",
+        "text": "24 years",
+        "html": "24 years"
+      },
+      {
+        "id": "E",
+        "text": "25 years",
+        "html": "25 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "21 years",
+      "22 years",
+      "23 years",
+      "24 years",
+      "25 years<br/><br/>"
+    ],
+    "explanation": "Since, present ages of three persons Ravi, Giri,\n\nand \nArvind \nare \nin \nincreasing \narithmetic\n\nprogression with a common difference of 7.\n\n30+18+24+36\n\n4\n\n×\n\n×\n\n3 : 2\n\n= 3x + 5\n\n= 2x + 5\n\n=\n\n−7\n\n= 35 −6 ⇒29\n\n= 2×\n\n= 2 × 29 ⇒58\n\n= 58 + 7 ⇒65\n\n3x + 5 = 65\n3x = 65 −5\nx = 60\n\n3\n\nx = 20\n\n= 2 × 20 + 5 ⇒40 + 5\n= 45\n\nLevel-2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "6",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Present ages of three persons Ravi, Giri, and\n\nArvind are in increasing arithmetic progression\n\nwith a common difference of 7. If ratio of Giri’s\n\nage after 3 years to the Arvind’s age before 9\n\nyears is 5: 4, then find the average of present\n\nage of all the three persons.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_28",
+    "question": "After 5 years, sum of age of Jitu and Tushar is 8\n\nyears less than the sum of age of Mahesh and\n\nShital at that time and Tushar is 8 years\n\nyounger than Mahesh. If the ratio of present\n\nage of Jitu and Mahesh is 4: 5 and present age\n\nof Shital is 40 years, then what is the present\n\nage of Tushar?",
+    "question_html": "After 5 years, sum of age of Jitu and Tushar is 8<br/><br/>years less than the sum of age of Mahesh and<br/><br/>Shital at that time and Tushar is 8 years<br/><br/>younger than Mahesh. If the ratio of present<br/><br/>age of Jitu and Mahesh is 4: 5 and present age<br/><br/>of Shital is 40 years, then what is the present<br/><br/>age of Tushar?<br/>",
+    "questionHtml": "After 5 years, sum of age of Jitu and Tushar is 8<br/><br/>years less than the sum of age of Mahesh and<br/><br/>Shital at that time and Tushar is 8 years<br/><br/>younger than Mahesh. If the ratio of present<br/><br/>age of Jitu and Mahesh is 4: 5 and present age<br/><br/>of Shital is 40 years, then what is the present<br/><br/>age of Tushar?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "46 years",
+        "html": "46 years"
+      },
+      {
+        "id": "B",
+        "text": "54 years",
+        "html": "54 years"
+      },
+      {
+        "id": "C",
+        "text": "44 years",
+        "html": "44 years"
+      },
+      {
+        "id": "D",
+        "text": "40 years",
+        "html": "40 years"
+      },
+      {
+        "id": "E",
+        "text": "42 years",
+        "html": "42 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "46 years",
+      "54 years",
+      "44 years",
+      "40 years",
+      "42 years<br/><br/>"
+    ],
+    "explanation": "Let Jitu = 4x years and Mahesh = 5x years\n\nSo, Tushar = (5x - 8) years\n\nSo, according to the question,\n\n(4x + 5) + (5x - 8 + 5) = 5x + 5 + 40 + 5 - 8\n\n=> 9x + 2 = 5x + 42\n\n=> 4x = 40\n\n=> x = 10\n\nSo, present age of Tushar = 5 \n 10 - 8 = 42\n\nyears",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "7",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "After 5 years, sum of age of Jitu and Tushar is 8\n\nyears less than the sum of age of Mahesh and\n\nShital at that time and Tushar is 8 years\n\nyounger than Mahesh. If the ratio of present\n\nage of Jitu and Mahesh is 4: 5 and present age\n\nof Shital is 40 years, then what is the present\n\nage of Tushar?",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_29",
+    "question": "10 years ago, the Age of Shagun's grandfather\n\nis 5 times Shagun's age and 5 years from now,\n\nthe age of Shagun's Grandfather will be 3 times\n\nthe age of Shagun. Find the ratio and Shagun\n\nand her grandfather's age before 5 years.",
+    "question_html": "10 years ago, the Age of Shagun&#x27;s grandfather<br/><br/>is 5 times Shagun&#x27;s age and 5 years from now,<br/><br/>the age of Shagun&#x27;s Grandfather will be 3 times<br/><br/>the age of Shagun. Find the ratio and Shagun<br/><br/>and her grandfather&#x27;s age before 5 years.<br/>",
+    "questionHtml": "10 years ago, the Age of Shagun&#x27;s grandfather<br/><br/>is 5 times Shagun&#x27;s age and 5 years from now,<br/><br/>the age of Shagun&#x27;s Grandfather will be 3 times<br/><br/>the age of Shagun. Find the ratio and Shagun<br/><br/>and her grandfather&#x27;s age before 5 years.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(B)",
+        "html": "(B) "
+      },
+      {
+        "id": "C",
+        "text": "(D)",
+        "html": "(D) "
+      },
+      {
+        "id": "E",
+        "text": "",
+        "html": ""
+      }
+    ],
+    "optionsHtml": [
+      "(B) ",
+      "(D) ",
+      ""
+    ],
+    "explanation": "Age of Shagun's grandfather 10 years ago = 5\n\ntimes the Shagun's age\n\nAge of Shagun's grandfather after 5 years = 3\n\ntimes the Shagun's age\n\nCalculation:\n\nLet Shagun's and her grandfather's present\n\nages be x and y years respectively\n\nNow, as per the question,\n\n(x - 10) \n 5 = (y-10)\n\n= 5x - 50 = y - 10)\n\n= 5x - 40 = y ----(i)\n\n(x+5) \n 3 = (y + 5)\n\n= 3x + 15 = y +5\n\n⇒ 3x + 10 = y ----(ii)\n\nNow, Equating equation (i) and (ii)\n\n⇒ 5x - 40 = 3x + 10\n\n⇒ 2x = 50\n\n⇒x = 25 years\n\nNow, Shagun's grandfather's age = 3x + 10\n\n= 3 \n 25+ 10\n\n⇒ 85 years\n\nRequired ratio = (25 - 5): (85 - 5)\n\n⇒ 20: 80\n\n1:4\n\nThe required ratio is 1:4",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "8",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "10 years ago, the Age of Shagun's grandfather\n\nis 5 times Shagun's age and 5 years from now,\n\nthe age of Shagun's Grandfather will be 3 times\n\nthe age of Shagun. Find the ratio and Shagun\n\nand her grandfather's age before 5 years.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_30",
+    "question": "The age of Abhishek 10 years ago was 100%\n\nmore than the age of Bunty 10 years ago. The\n\nage of Abhishek 10 years after will be 20 more\n\nthan the age of Bunty 10 years after. Find the\n\nage of Abhishek 4 years after.",
+    "question_html": "The age of Abhishek 10 years ago was 100%<br/><br/>more than the age of Bunty 10 years ago. The<br/><br/>age of Abhishek 10 years after will be 20 more<br/><br/>than the age of Bunty 10 years after. Find the<br/><br/>age of Abhishek 4 years after.<br/>",
+    "questionHtml": "The age of Abhishek 10 years ago was 100%<br/><br/>more than the age of Bunty 10 years ago. The<br/><br/>age of Abhishek 10 years after will be 20 more<br/><br/>than the age of Bunty 10 years after. Find the<br/><br/>age of Abhishek 4 years after.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "44 years",
+        "html": "44 years"
+      },
+      {
+        "id": "B",
+        "text": "48 years",
+        "html": "48 years"
+      },
+      {
+        "id": "C",
+        "text": "54 years",
+        "html": "54 years"
+      },
+      {
+        "id": "D",
+        "text": "60 years",
+        "html": "60 years"
+      },
+      {
+        "id": "E",
+        "text": "36 years\n\nLevel-2\n\n1 : 3\n2 : 5\n\n1 : 4\n3 : 5\n\n1 : 5",
+        "html": "36 years<br/><br/><b>Level-2</b><br/><br/>1 : 3<br/>2 : 5<br/><br/>1 : 4<br/>3 : 5<br/><br/>1 : 5"
+      }
+    ],
+    "optionsHtml": [
+      "44 years",
+      "48 years",
+      "54 years",
+      "60 years",
+      "36 years<br/><br/><b>Level-2</b><br/><br/>1 : 3<br/>2 : 5<br/><br/>1 : 4<br/>3 : 5<br/><br/>1 : 5"
+    ],
+    "explanation": "Let the present ages of Abhishek and Bunty be\n\nx and y years respectively.\n\nATQ,\n\n(x – 10) = 2(y – 10)\n\nx – 2y = -10…… (i)\n\nand\n\nx + 10 = y + 10 + 20\n\nx – y = 20…. (ii)\n\nOn solving equations (i) and (ii), we get\n\nx = 50 years\n\nSo, age of Abhishek 4 year after = 50 + 4 = 54\n\nyears",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-2",
+    "question_number": "9",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "The age of Abhishek 10 years ago was 100%\n\nmore than the age of Bunty 10 years ago. The\n\nage of Abhishek 10 years after will be 20 more\n\nthan the age of Bunty 10 years after. Find the\n\nage of Abhishek 4 years after.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_31",
+    "question": "5 years ago from now, the ratio of the ages of P\n\nand Q was _____. Again 10 years hence, the\n\nratio of their ages will be 6:7. Then, P is ________\n\nyears younger to Q.\n\nI. 3:4, 5\n\nII. 2:3, 5\n\nIII. 1:2, 10",
+    "question_html": "5 years ago from now, the ratio of the ages of P<br/><br/>and Q was _____. Again 10 years hence, the<br/><br/>ratio of their ages will be 6:7. Then, P is ________<br/><br/>years younger to Q.<br/><br/>I. 3:4, 5<br/><br/>II. 2:3, 5<br/><br/>III. 1:2, 10<br/>",
+    "questionHtml": "5 years ago from now, the ratio of the ages of P<br/><br/>and Q was _____. Again 10 years hence, the<br/><br/>ratio of their ages will be 6:7. Then, P is ________<br/><br/>years younger to Q.<br/><br/>I. 3:4, 5<br/><br/>II. 2:3, 5<br/><br/>III. 1:2, 10<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "html": "Only I"
+      },
+      {
+        "id": "B",
+        "text": "Only I and II",
+        "html": "Only I and II"
+      },
+      {
+        "id": "C",
+        "text": "Only I and III",
+        "html": "Only I and III"
+      },
+      {
+        "id": "D",
+        "text": "Only II and III",
+        "html": "Only II and III"
+      },
+      {
+        "id": "E",
+        "text": "Only II",
+        "html": "Only II<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only I",
+      "Only I and II",
+      "Only I and III",
+      "Only II and III",
+      "Only II<br/><br/>"
+    ],
+    "explanation": "Let, Present ages of P and Q be ‘x’ years and ‘y’\n\nyears, respectively.\n\nFrom I:\n\nAccording to the statement, x = y - 5\n\nAlso,\n\n = \n\nOr, \n = \n [x = y - 5]\n\nOr, 4x – 20 = 3x\n\nOr, x = 20\n\ny = 20 + 5 = 25\n\nRatio between their ages after 10 years = (20 +\n\n10):(25 + 10) = 30:35 = 6:7\n\nHence, the statement I hold.\n\nFrom II:\n\nAccording to the statement, x = y - 5\n\nAlso,\n\n = \n\nOr, \n = \n [x = y - 5]\n\nOr, 3x – 15 = 2x\n\nOr, x = 15\n\ny = 15 + 5 = 20\n\nRatio between their ages after 10 years = (15 +\n\n10):(20 + 10) = 25:30 = 5:6\n\nHence, statement II does not hold.\n\nFrom III:\n\n15+22+29\n\n3\n\n×\n\n×\n\n×\n\n×\n\nx − 5\ny − 5\n\n3\n4\n\nx−5\n\nx\n\n3\n4\n\nx − 5\ny − 5\n\n2\n3\n\nx−5\n\nx\n\nx−5\n\nx",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "10",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "5 years ago from now, the ratio of the ages of P\n\nand Q was _____. Again 10 years hence, the\n\nratio of their ages will be 6:7. Then, P is ________\n\nyears younger to Q.\n\nI. 3:4, 5\n\nII. 2:3, 5\n\nIII. 1:2, 10",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_32",
+    "question": "Average of present ages of A and B is ‘x’ years\n\nwhile A is ‘x - 10’ years older to B. If C is ‘2x - 23’\n\nyears older to B and age of C after 7 years will\n\nbe 28 years, then find the ratio of present ages\n\nof A to C.",
+    "question_html": "Average of present ages of A and B is ‘x’ years<br/><br/>while A is ‘x - 10’ years older to B. If C is ‘2x - 23’<br/><br/>years older to B and age of C after 7 years will<br/><br/>be 28 years, then find the ratio of present ages<br/><br/>of A to C.<br/>",
+    "questionHtml": "Average of present ages of A and B is ‘x’ years<br/><br/>while A is ‘x - 10’ years older to B. If C is ‘2x - 23’<br/><br/>years older to B and age of C after 7 years will<br/><br/>be 28 years, then find the ratio of present ages<br/><br/>of A to C.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "4: 3",
+        "html": "4: 3"
+      },
+      {
+        "id": "B",
+        "text": "5: 4",
+        "html": "5: 4"
+      },
+      {
+        "id": "C",
+        "text": "3: 2",
+        "html": "3: 2"
+      },
+      {
+        "id": "D",
+        "text": "5: 3",
+        "html": "5: 3"
+      },
+      {
+        "id": "E",
+        "text": "1:2",
+        "html": "1:2<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "4: 3",
+      "5: 4",
+      "3: 2",
+      "5: 3",
+      "1:2<br/><br/>"
+    ],
+    "explanation": "Age of C after 7 years = 28 years\n\nPresent age of C = 28 - 7\n\n2x - 23 = 21\n\nx = 22\n\nAverage of present ages of A and B = x = 22\n\nyears\n\nThe sum of present ages of A and B = 22 \n 2 =\n\n44 years\n\nDifference between present ages of A and B = x\n\n- 10 = 12 years\n\nThe present age of A = \n\nRequired ratio = 28: 21\n\n= 4: 3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "11",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Average of present ages of A and B is ‘x’ years\n\nwhile A is ‘x - 10’ years older to B. If C is ‘2x - 23’\n\nyears older to B and age of C after 7 years will\n\nbe 28 years, then find the ratio of present ages\n\nof A to C.",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q011.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q011.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q011.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_33",
+    "question": "5 years ago, the age of Tuman was 2.25 times\n\nthe age of his nephew. 2 years hence, the age\n\nof Tuman becomes 2.6 times the age of his\n\nniece. If the nephew is 7 years elder to niece,\n\nfind the present age of Tuman.",
+    "question_html": "5 years ago, the age of Tuman was 2.25 times<br/><br/>the age of his nephew. 2 years hence, the age<br/><br/>of Tuman becomes 2.6 times the age of his<br/><br/>niece. If the nephew is 7 years elder to niece,<br/><br/>find the present age of Tuman.<br/>",
+    "questionHtml": "5 years ago, the age of Tuman was 2.25 times<br/><br/>the age of his nephew. 2 years hence, the age<br/><br/>of Tuman becomes 2.6 times the age of his<br/><br/>niece. If the nephew is 7 years elder to niece,<br/><br/>find the present age of Tuman.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "50",
+        "html": "50"
+      },
+      {
+        "id": "B",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "html": "18"
+      },
+      {
+        "id": "D",
+        "text": "100",
+        "html": "100"
+      },
+      {
+        "id": "E",
+        "text": "75",
+        "html": "75<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "50",
+      "25",
+      "18",
+      "100",
+      "75<br/><br/>"
+    ],
+    "explanation": "Let, present age of Tuman be “t”, nephew be\n\n“a” , & niece be “b”\n\nAccording to given conditions,\n\n(t-5) = 2.25(a-5) … (i)\n\n(t + 2) = 2.6(b+2) …(ii) ;\n\na = b + 7 …(iii)\n\nSolving, (i), (ii) & (ii) we get\n\nt = 50, a = 25, b = 18",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "12",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "5 years ago, the age of Tuman was 2.25 times\n\nthe age of his nephew. 2 years hence, the age\n\nof Tuman becomes 2.6 times the age of his\n\nniece. If the nephew is 7 years elder to niece,\n\nfind the present age of Tuman.",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q012.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q012.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q012.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_34",
+    "question": "16 years ago, grand-daughter of Jaya was\n\n12.5% of the age of Jaya and eight years hence,\n\nher grand-daughter's age will be 25% of her\n\nage, then what will be the ratio of Jaya's age to\n\nher grand-daughter's age after 6 years?",
+    "question_html": "16 years ago, grand-daughter of Jaya was<br/><br/>12.5% of the age of Jaya and eight years hence,<br/><br/>her grand-daughter&#x27;s age will be 25% of her<br/><br/>age, then what will be the ratio of Jaya&#x27;s age to<br/><br/>her grand-daughter&#x27;s age after 6 years?<br/>",
+    "questionHtml": "16 years ago, grand-daughter of Jaya was<br/><br/>12.5% of the age of Jaya and eight years hence,<br/><br/>her grand-daughter&#x27;s age will be 25% of her<br/><br/>age, then what will be the ratio of Jaya&#x27;s age to<br/><br/>her grand-daughter&#x27;s age after 6 years?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "83: 20",
+        "html": "83: 20"
+      },
+      {
+        "id": "B",
+        "text": "84: 19",
+        "html": "84: 19"
+      },
+      {
+        "id": "C",
+        "text": "83: 21",
+        "html": "83: 21"
+      },
+      {
+        "id": "D",
+        "text": "88: 21",
+        "html": "88: 21"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "83: 20",
+      "84: 19",
+      "83: 21",
+      "88: 21",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let 16 years ago,\n\nGranddaughter age = x years\n\nand Jaya's age = 8x\n\nAnd eight years hence,\n\nher granddaughter's age will be 25% of the\n\nJaya's age\n\nx + 16 + 8 =\n\n (8x + 16 + 8)\n\n=> 4x + 96 = 8x + 24\n\n=> 4x = 72\n\n=> x = 18\n\nSo, required ratio = (8\n18 + 16 + 6): (18 + 16 + 6) =\n\n83: 20",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "13",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "16 years ago, grand-daughter of Jaya was\n\n12.5% of the age of Jaya and eight years hence,\n\nher grand-daughter's age will be 25% of her\n\nage, then what will be the ratio of Jaya's age to\n\nher grand-daughter's age after 6 years?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q013.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q013.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q013.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_35",
+    "question": "8 years ago, age of P is 75% more than that of\n\nQ, while age of Q after 6 years is twice the age\n\nof P before 21 years. Present average age of P,\n\nQ, and R together is 30 years. Find the age of S\n\nafter 6 years, if present age of S is 50% more\n\nthan that of R.",
+    "question_html": "8 years ago, age of P is 75% more than that of<br/><br/>Q, while age of Q after 6 years is twice the age<br/><br/>of P before 21 years. Present average age of P,<br/><br/>Q, and R together is 30 years. Find the age of S<br/><br/>after 6 years, if present age of S is 50% more<br/><br/>than that of R.<br/>",
+    "questionHtml": "8 years ago, age of P is 75% more than that of<br/><br/>Q, while age of Q after 6 years is twice the age<br/><br/>of P before 21 years. Present average age of P,<br/><br/>Q, and R together is 30 years. Find the age of S<br/><br/>after 6 years, if present age of S is 50% more<br/><br/>than that of R.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "52 years",
+        "html": "52 years"
+      },
+      {
+        "id": "B",
+        "text": "51 years",
+        "html": "51 years"
+      },
+      {
+        "id": "C",
+        "text": "38 years",
+        "html": "38 years"
+      },
+      {
+        "id": "D",
+        "text": "48 years",
+        "html": "48 years"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "52 years",
+      "51 years",
+      "38 years",
+      "48 years",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "According to the question,\n\nThe ratio of age of P and Q before 8 years = 7:4\n\n= 7a, 4a\n\nNow,\n\n(4a + 8 + 6) = 2 \n (7a + 8 - 21)\n\n(4a + 8 + 6) = 2 \n (7a – 13)\n\n4a + 14 = 14a – 26\n\n10a = 40\n\nValue of a = 4\n\nSo, present age of P = 7 \n 4 + 8 = 36 years\n\nPresent age of Q = 4 \n 4 + 8 = 24 years\n\nSo, present age of R = 30 \n 3 – 36 – 24 = 30\n\nyears\n\nPresent age of S = 30 \n 1.5 = 45 years\n\nAge of S after 6 years = 45 + 6 = 51 years",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "14",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "8 years ago, age of P is 75% more than that of\n\nQ, while age of Q after 6 years is twice the age\n\nof P before 21 years. Present average age of P,\n\nQ, and R together is 30 years. Find the age of S\n\nafter 6 years, if present age of S is 50% more\n\nthan that of R.",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q014.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q014.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q014.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_36",
+    "question": "The age of Sonali is 25% more than the age of\n\nMitra. If the ratio of the present age of Mitra to\n\nSam is 4: 9 and after 12 years, the average of\n\nSam and Sonali will be 40 years, then find the\n\nsum of the Ages of Sonali's four years hence\n\nand Sam six years ago.",
+    "question_html": "The age of Sonali is 25% more than the age of<br/><br/>Mitra. If the ratio of the present age of Mitra to<br/><br/>Sam is 4: 9 and after 12 years, the average of<br/><br/>Sam and Sonali will be 40 years, then find the<br/><br/>sum of the Ages of Sonali&#x27;s four years hence<br/><br/>and Sam six years ago. <br/>",
+    "questionHtml": "The age of Sonali is 25% more than the age of<br/><br/>Mitra. If the ratio of the present age of Mitra to<br/><br/>Sam is 4: 9 and after 12 years, the average of<br/><br/>Sam and Sonali will be 40 years, then find the<br/><br/>sum of the Ages of Sonali&#x27;s four years hence<br/><br/>and Sam six years ago. <br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "54 years",
+        "html": "54 years "
+      },
+      {
+        "id": "B",
+        "text": "48 years",
+        "html": "48 years "
+      },
+      {
+        "id": "C",
+        "text": "52 years",
+        "html": "52 years "
+      },
+      {
+        "id": "D",
+        "text": "46 years",
+        "html": "46 years "
+      },
+      {
+        "id": "E",
+        "text": "50 years",
+        "html": "50 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "54 years ",
+      "48 years ",
+      "52 years ",
+      "46 years ",
+      "50 years<br/><br/>"
+    ],
+    "explanation": "The age of Sonali is 25% more than the age of\n\nMitra. If the ratio of the present age of Mitra to\n\nSam is 4: 9 and after 12 years, the average of\n\nSam and Sonali will be 40 years, then find the\n\nsum of the Ages of Sonali's four years hence\n\nand Sam six years ago. \n\nLet the present age of Mitra and Sam be 4k\n\nand 9k years\n\nPresent age of Sonali = 125% of 4k =5k\n\nPresent age of Sonali = 5k = 20\n\nThe present age of Sam= 9k = 36\n\nRequired sum = 20 + 4 + 36 - 6 = 24 + 30 = 54\n\nyears\n\nx − 5\ny − 5\n\n1\n2\n\n×\n\n= 28 years\n44+12\n\n2\n\n1\n4 ×\n\n×\n\n×\n×\n\n×\n\n×\n\n×\n\n×\n\n= 40\n9k+12+5k+12\n\n2\n\n14k = 80 −24\n14k = 56\nk = 4\nk = 40\n\n7",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "15",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "The age of Sonali is 25% more than the age of\n\nMitra. If the ratio of the present age of Mitra to\n\nSam is 4: 9 and after 12 years, the average of\n\nSam and Sonali will be 40 years, then find the\n\nsum of the Ages of Sonali's four years hence\n\nand Sam six years ago.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q015.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q015.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q015.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_37",
+    "question": "Ajay is 2 years younger to Bhautik whose age is\n\n12 years. When 10 years are subtracted from the\n\npresent age of Shahrukh and then the result is\n\ndivided by 6, the present age of his grandson\n\nAjay is obtained. Then what is the ratio of ages\n\nof Ajay, Bhautik and Shahrukh?",
+    "question_html": "Ajay is 2 years younger to Bhautik whose age is<br/><br/>12 years. When 10 years are subtracted from the<br/><br/>present age of Shahrukh and then the result is<br/><br/>divided by 6, the present age of his grandson<br/><br/>Ajay is obtained. Then what is the ratio of ages<br/><br/>of Ajay, Bhautik and Shahrukh?<br/>",
+    "questionHtml": "Ajay is 2 years younger to Bhautik whose age is<br/><br/>12 years. When 10 years are subtracted from the<br/><br/>present age of Shahrukh and then the result is<br/><br/>divided by 6, the present age of his grandson<br/><br/>Ajay is obtained. Then what is the ratio of ages<br/><br/>of Ajay, Bhautik and Shahrukh?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "7:2:23",
+        "html": "7:2:23"
+      },
+      {
+        "id": "B",
+        "text": "6:5:35",
+        "html": "6:5:35"
+      },
+      {
+        "id": "C",
+        "text": "5:6:23",
+        "html": "5:6:23"
+      },
+      {
+        "id": "D",
+        "text": "5:6:35",
+        "html": "5:6:35"
+      },
+      {
+        "id": "E",
+        "text": "7:2:35",
+        "html": "7:2:35<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "7:2:23",
+      "6:5:35",
+      "5:6:23",
+      "5:6:35",
+      "7:2:35<br/><br/>"
+    ],
+    "explanation": "From the given information,\n\nBhautiks age = 12 years\n\nAjay’s age = 12 – 2 = 10 years\n\nLet Shahrukh’s age be ‘a’ years\n\nThen, according to the question-\n\nWhen 10 years are subtracted from the present\n\nage of Shahrukh and then the result is divided\n\nby 6,\n\n∴\n\n∴\n\n∴\n\nNow, the ratio of the ages of Ajay, Bhautik, and\n\nShahrukh\n\n= 10 : 12 : 70\n\n= 5 : 6 : 35",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "16",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Ajay is 2 years younger to Bhautik whose age is\n\n12 years. When 10 years are subtracted from the\n\npresent age of Shahrukh and then the result is\n\ndivided by 6, the present age of his grandson\n\nAjay is obtained. Then what is the ratio of ages\n\nof Ajay, Bhautik and Shahrukh?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q016.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q016.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q016.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_38",
+    "question": "A family has 5 members, Father, mother and\n\ntheir three children. The average age of family\n\nimmediately after the birth of first, second and\n\nthird child was 16, 15.75 and 14.2 years\n\nrespectively. What is the age of elder child, if\n\nthe present age of entire family is 15.2 years?",
+    "question_html": "A family has 5 members, Father, mother and<br/><br/>their three children. The average age of family<br/><br/>immediately after the birth of first, second and<br/><br/>third child was 16, 15.75 and 14.2 years<br/><br/>respectively. What is the age of elder child, if<br/><br/>the present age of entire family is 15.2 years? <br/>",
+    "questionHtml": "A family has 5 members, Father, mother and<br/><br/>their three children. The average age of family<br/><br/>immediately after the birth of first, second and<br/><br/>third child was 16, 15.75 and 14.2 years<br/><br/>respectively. What is the age of elder child, if<br/><br/>the present age of entire family is 15.2 years? <br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 years",
+        "html": "6 years"
+      },
+      {
+        "id": "B",
+        "text": "7 years",
+        "html": "7 years"
+      },
+      {
+        "id": "C",
+        "text": "8 years",
+        "html": "8 years"
+      },
+      {
+        "id": "D",
+        "text": "5 years",
+        "html": "5 years"
+      },
+      {
+        "id": "E",
+        "text": "4 years",
+        "html": "4 years<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "6 years",
+      "7 years",
+      "8 years",
+      "5 years",
+      "4 years<br/><br/>"
+    ],
+    "explanation": "Let the present age of the father, mother, and\n\nthree children be F, M, C , C and C .\n\nWhen the first child was born, the age of the\n\nfirst child was 0.\n\nAverage = 16 sum of their age = 16 \n 3 =48\n\nAfter \n years, the second child is born, the age\n\nof the first child will be \n years, and the age of\n\nthe second child be 0.\n\nAverage = 15.75, sum of their age = 15.75 \n 4 =\n\n63\n\nDifference between the sum of their age after\n\nn1 years = 63 – 48 = 15\n\n3n = 15 \n\nn = 5 \n\nAfter n years, third child was born, the age of\n\nfirst child get increased by n years, age of the\n\nsecond child will be n years, age of third child\n\nis 0.\n\nAverage = 14.2, sum of their age = 14.2 \n 5 = 71\n\nDifference between the sum of their age after\n\nn years = 71 – 63 = 8\n\n4n = 8 \n\nn = 2 \n\nAfter n years, the average is 15.2 years, the sum\n\nof their age = 15.2 \n 5 = 76\n\nDifference between the sum of their age after\n\nn years = 76 – 71 = 5\n\n5n = 5\n\nn = 1\n\nFirst child was born 1 + 2 + 5 = 8 years ago.\n\nSo the age of the first child is 8 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "17",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A family has 5 members, Father, mother and\n\ntheir three children. The average age of family\n\nimmediately after the birth of first, second and\n\nthird child was 16, 15.75 and 14.2 years\n\nrespectively. What is the age of elder child, if\n\nthe present age of entire family is 15.2 years?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q017.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q017.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q017.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_39",
+    "question": "A family of 5 members had an average age of\n\n25 years 8 years ago. Since then, two children\n\nhave been born with an age difference of 4\n\nyears. Currently, the average age of the family\n\nremains the same. What is the age of the\n\nyoungest child?",
+    "question_html": "A family of 5 members had an average age of<br/><br/>25 years 8 years ago. Since then, two children<br/><br/>have been born with an age difference of 4<br/><br/>years. Currently, the average age of the family<br/><br/>remains the same. What is the age of the<br/><br/>youngest child?<br/>",
+    "questionHtml": "A family of 5 members had an average age of<br/><br/>25 years 8 years ago. Since then, two children<br/><br/>have been born with an age difference of 4<br/><br/>years. Currently, the average age of the family<br/><br/>remains the same. What is the age of the<br/><br/>youngest child?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 years",
+        "html": "6 years"
+      },
+      {
+        "id": "B",
+        "text": "3 years",
+        "html": "3 years"
+      },
+      {
+        "id": "C",
+        "text": "2 years",
+        "html": "2 years"
+      },
+      {
+        "id": "D",
+        "text": "5 years",
+        "html": "5 years"
+      },
+      {
+        "id": "E",
+        "text": "8 years",
+        "html": "8  years"
+      }
+    ],
+    "optionsHtml": [
+      "6 years",
+      "3 years",
+      "2 years",
+      "5 years",
+      "8  years"
+    ],
+    "explanation": "Total age of 5 members, 8 years ago = (25 \n 5)\n\nyears = 125 years.\n\nTotal age of 5 members now = [125 + (8 \n 5)]\n\nyears = 165 years.\n\nTotal age of 7 members now = (25 \n 7) years =\n\n175 years.\n\nThe sum of the ages of 2 children = (175 – 165)\n\nyears = 10 years.\n\nLet the age of the younger child be x years.\n\nThen, the age of the elder child = (x + 4) years.\n\nSo, x + (x + 4) =10\n\n x = 3\n\nAge of younger child = 3 years.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-2",
+    "question_number": "18",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "A family of 5 members had an average age of\n\n25 years 8 years ago. Since then, two children\n\nhave been born with an age difference of 4\n\nyears. Currently, the average age of the family\n\nremains the same. What is the age of the\n\nyoungest child?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q018.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q018.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q018.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_40",
+    "question": "Sum of ages of two persons A and B is \n years\n\nwhile the difference between their ages is ‘72 -\n\n12x’ years (A is younger than B). Ratio of age of\n\nA before 2 years to his age after 10 years is 4: 7,\n\nfind the average of age of A after 3 years and\n\nage of B before 7 years.",
+    "question_html": "Sum of ages of two persons A and B is <br/> years<br/><br/>while the difference between their ages is ‘72 -<br/><br/>12x’ years (A is younger than B). Ratio of age of<br/><br/>A before 2 years to his age after 10 years is 4: 7,<br/><br/>find the average of age of A after 3 years and<br/><br/>age of B before 7 years.<br/>",
+    "questionHtml": "Sum of ages of two persons A and B is <br/> years<br/><br/>while the difference between their ages is ‘72 -<br/><br/>12x’ years (A is younger than B). Ratio of age of<br/><br/>A before 2 years to his age after 10 years is 4: 7,<br/><br/>find the average of age of A after 3 years and<br/><br/>age of B before 7 years.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x + 10) years",
+        "html": "(x + 10) years"
+      },
+      {
+        "id": "B",
+        "text": "(x + 8) years",
+        "html": "(x + 8) years"
+      },
+      {
+        "id": "C",
+        "text": "(x + 12) years",
+        "html": "(x + 12) years"
+      },
+      {
+        "id": "D",
+        "text": "(x + 6) years",
+        "html": "(x + 6) years"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "(x + 10) years",
+      "(x + 8) years",
+      "(x + 12) years",
+      "(x + 6) years",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let present ages of A and B are ‘a’ and ‘b’ years\n\nrespectively.\n\nAccording to the question:\n\n(a - 2): (a + 10) = 4: 7\n\n7a - 14 = 4a + 40\n\n3a = 54\n\na = 18\n\nPresent age of A = a = 18 years\n\nSum of ages of A and B = a + b = \n\nDifference between ages of A and B = a - b = 72\n\n- 12x\n\nAge of A = \n\nSum of ages of A and B = \n = 36 years\n\nPresent age of B = 36 - 18 - 18 years\n\nAge of A after 3 years = 18 + 3 = 21 years\n\nAge of B before 7 years = 18 - 7 = 11 years\n\nRequired average = \n\n= 16 years\n\n= (x + 10) years\n\n= 10\na−10\n\n6\n\na −10 = 60\na = 60 + 10 = 70\n\n1\n2,\n3\n\n×\n\nn1\n\nn1\n\n×\n\n1\n\n1\n\n2\n\n2\n\n2\n\n×\n\n2\n\n2\n\n2\n\n3\n\n×\n\n3\n\n3\n\n3\n\n×\n\n×\n\n×\n\nx2\n\n= 18\n+72−12x\nx2\n\n2\n\n+ 72 −12x = 36\nx2\n\n−12x + 36 = 0\nx2\n\nx = 6\n\nx2\n\n21+11\n\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "19",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Sum of ages of two persons A and B is \n years\n\nwhile the difference between their ages is ‘72 -\n\n12x’ years (A is younger than B). Ratio of age of\n\nA before 2 years to his age after 10 years is 4: 7,\n\nfind the average of age of A after 3 years and\n\nage of B before 7 years.",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q019.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q019.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q019.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_41",
+    "question": "5 years ago from now, Kumar’s age was 3 times\n\nthe age of Alakh. 4 years from now, he will be\n\ntwice as old as Alakh. 10 years hence from now,\n\nratio of ages of Kumar to Alakh will be same as\n\nthe ratio of present ages of Tushar to Aanchal.\n\nIf Tushar’s present age is 28 years then find the\n\npresent age of Aanchal.",
+    "question_html": "5 years ago from now, Kumar’s age was 3 times<br/><br/>the age of Alakh. 4 years from now, he will be<br/><br/>twice as old as Alakh. 10 years hence from now,<br/><br/>ratio of ages of Kumar to Alakh will be same as<br/><br/>the ratio of present ages of Tushar to Aanchal.<br/><br/>If Tushar’s present age is 28 years then find the<br/><br/>present age of Aanchal.<br/>",
+    "questionHtml": "5 years ago from now, Kumar’s age was 3 times<br/><br/>the age of Alakh. 4 years from now, he will be<br/><br/>twice as old as Alakh. 10 years hence from now,<br/><br/>ratio of ages of Kumar to Alakh will be same as<br/><br/>the ratio of present ages of Tushar to Aanchal.<br/><br/>If Tushar’s present age is 28 years then find the<br/><br/>present age of Aanchal.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "18 years",
+        "html": "18 years"
+      },
+      {
+        "id": "B",
+        "text": "15 years",
+        "html": "15 years"
+      },
+      {
+        "id": "C",
+        "text": "14 years",
+        "html": "14 years"
+      },
+      {
+        "id": "D",
+        "text": "16 years",
+        "html": "16 years"
+      },
+      {
+        "id": "E",
+        "text": "None of these\n\nx2",
+        "html": "None of these<br/><br/>x2"
+      }
+    ],
+    "optionsHtml": [
+      "18 years",
+      "15 years",
+      "14 years",
+      "16 years",
+      "None of these<br/><br/>x2"
+    ],
+    "explanation": "Let, the present ages of Kumar and Alakh be ‘x’\n\nyears and ‘y’ years respectively.\n\n5 years ago from now,\n\nAge of Kumar = (x – 5) years\n\nAge of Alakh = (y – 5) years\n\n(x – 5) = 3 \n (y – 5)\n\nOr, x – 5 = 3y – 15\n\nOr, 3y – x = 10 ----(i)\n\nAgain,\n\n4 years hence from now,\n\nAge of Kumar = (x + 4) years\n\nAge of Alakh = (y + 4) years\n\n(x + 4) = 2 \n (y + 4)\n\nOr, x + 4 = 2y + 8\n\nOr, x – 2y = 4 ----(ii)\n\nSolving equations (i) and (ii), we get\n\nx = 32 and y = 14\n\nThe ratio of Kumar’s age to Alakh’s age, is 10\n\nyears hence from now\n\n= (32 + 10):(14 + 10) = 42:24 = 7:4\n\nPresent age of Aanchal = 28 \n (\n) = 16 years\n\nHence, option d.\n\n×\n\n×\n\n×\n4\n7",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-2",
+    "question_number": "20",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "5 years ago from now, Kumar’s age was 3 times\n\nthe age of Alakh. 4 years from now, he will be\n\ntwice as old as Alakh. 10 years hence from now,\n\nratio of ages of Kumar to Alakh will be same as\n\nthe ratio of present ages of Tushar to Aanchal.\n\nIf Tushar’s present age is 28 years then find the\n\npresent age of Aanchal.",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-2",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q020.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q020.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q020.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_42",
+    "question": "When Shanu was asked his age then he being\n\ngood in arithmetic reasoning said that 5 years\n\nbefore he was one-twentieth of his fathers\n\npresent age. 12 years afterwards he said he will\n\nget married and his wife’s age will be three\n\ntimes his present age. After 2 years of marriage,\n\nhe shall get a baby and the average age of the\n\nfamily will become 18.5 years. What will be\n\nShanu's fathers age when he gets married?",
+    "question_html": "When Shanu was asked his age then he being<br/><br/>good in arithmetic reasoning said that 5 years<br/><br/>before he was one-twentieth of his fathers<br/><br/>present age. 12 years afterwards he said he will<br/><br/>get married and his wife’s age will be three<br/><br/>times his present age. After 2 years of marriage,<br/><br/>he shall get a baby and the average age of the<br/><br/>family will become 18.5 years. What will be<br/><br/>Shanu&#x27;s fathers age when he gets married?<br/>",
+    "questionHtml": "When Shanu was asked his age then he being<br/><br/>good in arithmetic reasoning said that 5 years<br/><br/>before he was one-twentieth of his fathers<br/><br/>present age. 12 years afterwards he said he will<br/><br/>get married and his wife’s age will be three<br/><br/>times his present age. After 2 years of marriage,<br/><br/>he shall get a baby and the average age of the<br/><br/>family will become 18.5 years. What will be<br/><br/>Shanu&#x27;s fathers age when he gets married?<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "42",
+        "html": "42"
+      },
+      {
+        "id": "B",
+        "text": "45",
+        "html": "45"
+      },
+      {
+        "id": "C",
+        "text": "29",
+        "html": "29"
+      },
+      {
+        "id": "D",
+        "text": "34",
+        "html": "34"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "42",
+      "45",
+      "29",
+      "34",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Let 5 years ago the age of shanu be \n\nAt present Shanu’s fathers age = \n\n12 \nyears \nhence, \nshanu’s \nage \n=\n\nAnd his wife’s age = \n\nAfter 2 years of marriage, Shanu’s age =\n\nNow, \nShanu’s \nfathers \nage=\n\n years\n\nShanu’s wife’s age = \n\nShanu’s baby’s age = 0 years\n\nThe average of all will be:\n\nShanu;s fathers age when he gets the baby will\n\nbe = 20\n1 + 14 = 34\n\nHence, the correct option is 4th option.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "When Shanu was asked his age then he being\n\ngood in arithmetic reasoning said that 5 years\n\nbefore he was one-twentieth of his fathers\n\npresent age. 12 years afterwards he said he will\n\nget married and his wife’s age will be three\n\ntimes his present age. After 2 years of marriage,\n\nhe shall get a baby and the average age of the\n\nfamily will become 18.5 years. What will be\n\nShanu's fathers age when he gets married?",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_43",
+    "question": "Directions: \nthe \nfollowing \nquestions \nare\n\naccompanied by three statements. You have to\n\ndetermine \nwhich \nstatement(s) \nis/are\n\nsufficient/necessary to answer the question\n\nand mark your answer accordingly.\n\nFind the present age of A.",
+    "question_html": "Directions: <br/>the <br/>following <br/>questions <br/>are<br/><br/>accompanied by three statements. You have to<br/><br/>determine <br/>which <br/>statement(s) <br/>is/are<br/><br/>sufficient/necessary to answer the question<br/><br/>and mark your answer accordingly.<br/><br/>Find the present age of A.<br/><br/>",
+    "questionHtml": "Directions: <br/>the <br/>following <br/>questions <br/>are<br/><br/>accompanied by three statements. You have to<br/><br/>determine <br/>which <br/>statement(s) <br/>is/are<br/><br/>sufficient/necessary to answer the question<br/><br/>and mark your answer accordingly.<br/><br/>Find the present age of A.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "From 1 and 2 ,\n\n48x + 192 = 42x + 252\n\nX = 10\n\nPresent age of A = 2 x 10 + 5 = 25 yr\n\nFrom 2 and 3,\n\n21x - 16x = 10\n\n5x = 10\n\nX = 2\n\nPresent age of A = 16 \n 2 - 7 = 32 - 7 = 25 yr\n\nFrom 3 and 1, 3x - 2x = 10\n\nX = 10\n\nPresent age of A = 2 \n 10 + 5 = 25 yr\n\nAny two of the three statements are necessary\n\nto answer the question.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Directions: \nthe \nfollowing \nquestions \nare\n\naccompanied by three statements. You have to\n\ndetermine \nwhich \nstatement(s) \nis/are\n\nsufficient/necessary to answer the question\n\nand mark your answer accordingly.\n\nFind the present age of A.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_44",
+    "question": "5 yr ago, the ratio of age of B and A was 3:2.",
+    "question_html": "5 yr ago, the ratio of age of B and A was 3:2.<br/><br/>",
+    "questionHtml": "5 yr ago, the ratio of age of B and A was 3:2.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let 5 years ago the age of shanu be \n\nAt present Shanu’s fathers age = \n\n12 \nyears \nhence, \nshanu’s \nage \n=\n\nAnd his wife’s age = \n\nAfter 2 years of marriage, Shanu’s age =\n\nNow, \nShanu’s \nfathers \nage=\n\n years\n\nShanu’s wife’s age = \n\nShanu’s baby’s age = 0 years\n\nThe average of all will be:\n\nShanu;s fathers age when he gets the baby will\n\nbe = 20\n1 + 14 = 34\n\nHence, the correct option is 4th option.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "1",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "5 yr ago, the ratio of age of B and A was 3:2.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q001.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q001.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_45",
+    "question": "After 7 yr, the ratio of age of B and A will be\n\n21:16.",
+    "question_html": "After 7 yr, the ratio of age of B and A will be<br/><br/>21:16.<br/><br/>",
+    "questionHtml": "After 7 yr, the ratio of age of B and A will be<br/><br/>21:16.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "From 1 and 2 ,\n\n48x + 192 = 42x + 252\n\nX = 10\n\nPresent age of A = 2 x 10 + 5 = 25 yr\n\nFrom 2 and 3,\n\n21x - 16x = 10\n\n5x = 10\n\nX = 2\n\nPresent age of A = 16 \n 2 - 7 = 32 - 7 = 25 yr\n\nFrom 3 and 1, 3x - 2x = 10\n\nX = 10\n\nPresent age of A = 2 \n 10 + 5 = 25 yr\n\nAny two of the three statements are necessary\n\nto answer the question.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "2",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "After 7 yr, the ratio of age of B and A will be\n\n21:16.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q002.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q002.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_46",
+    "question": "The difference between the age of B and A is\n\n10 yr.",
+    "question_html": "The difference between the age of B and A is<br/><br/>10 yr.<br/>",
+    "questionHtml": "The difference between the age of B and A is<br/><br/>10 yr.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Either 1 and 2 or 1 and 3 are sufficient",
+        "html": "Either 1 and 2 or 1 and 3 are sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Any two of the the three statement are\n\nsufficient",
+        "html": "Any two of the the three statement are<br/><br/>sufficient"
+      },
+      {
+        "id": "C",
+        "text": "All three statement are sufficient",
+        "html": "All three statement are sufficient"
+      },
+      {
+        "id": "D",
+        "text": "1 and 3 are sufficient",
+        "html": "1 and 3 are sufficient"
+      },
+      {
+        "id": "E",
+        "text": "1 and 2 are sufficient",
+        "html": "1 and 2 are sufficient<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Either 1 and 2 or 1 and 3 are sufficient",
+      "Any two of the the three statement are<br/><br/>sufficient",
+      "All three statement are sufficient",
+      "1 and 3 are sufficient",
+      "1 and 2 are sufficient<br/><br/>"
+    ],
+    "explanation": "Statement 1;\n\nGolu’s age = 6 + Karan’s age\n\nThe average age of Golu and Karan = 15\n\nKaran + Golu age = 30\n\n2(Karan) + 6 = 30\n\nKaran’s age = 12 years\n\nGolu’s age = 18 years\n\nStatement 2;\n\nTaking both statements together;\n\nRatio of sonu : golu's age = 20:18 = 10:9\n\nHence,\n\nBoth the statements together are necessary.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "The difference between the age of B and A is\n\n10 yr.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_47",
+    "question": "Following question consists of a question and\n\ntwo statements numbered I and II given below\n\nit. You have to decide whether the data\n\nprovided in the statements are sufficient to\n\nanswer the question. Read both the statements\n\nand give answer:\n\nWhat is the ratio of Sonu's age and Golu's age?\n\nStatement I: Golu is 6 years older than Karan.\n\nAverage age of Sonu and Karan is 15 years.\n\nStatement II: The ratio of Sonu's age after three\n\nyears and Karan's age before seven years is\n\n23:5.",
+    "question_html": "Following question consists of a question and<br/><br/>two statements numbered I and II given below<br/><br/>it. You have to decide whether the data<br/><br/>provided in the statements are sufficient to<br/><br/>answer the question. Read both the statements<br/><br/>and give answer:<br/><br/>What is the ratio of Sonu&#x27;s age and Golu&#x27;s age?<br/><br/>Statement I: Golu is 6 years older than Karan.<br/><br/>Average age of Sonu and Karan is 15 years.<br/><br/>Statement II: The ratio of Sonu&#x27;s age after three<br/><br/>years and Karan&#x27;s age before seven years is<br/><br/>23:5.<br/>",
+    "questionHtml": "Following question consists of a question and<br/><br/>two statements numbered I and II given below<br/><br/>it. You have to decide whether the data<br/><br/>provided in the statements are sufficient to<br/><br/>answer the question. Read both the statements<br/><br/>and give answer:<br/><br/>What is the ratio of Sonu&#x27;s age and Golu&#x27;s age?<br/><br/>Statement I: Golu is 6 years older than Karan.<br/><br/>Average age of Sonu and Karan is 15 years.<br/><br/>Statement II: The ratio of Sonu&#x27;s age after three<br/><br/>years and Karan&#x27;s age before seven years is<br/><br/>23:5.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Both I and II together are sufficient",
+        "html": "Both I and II together are sufficient"
+      },
+      {
+        "id": "B",
+        "text": "Only I alone is sufficient",
+        "html": "Only I alone is sufficient"
+      },
+      {
+        "id": "C",
+        "text": "Only II alone is sufficient",
+        "html": "Only II alone is sufficient"
+      },
+      {
+        "id": "D",
+        "text": "Both I and II alone are sufficient",
+        "html": "Both I and II alone are sufficient"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Both I and II together are sufficient",
+      "Only I alone is sufficient",
+      "Only II alone is sufficient",
+      "Both I and II alone are sufficient",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Statement 1;\n\nGolu’s age = 6 + Karan’s age\n\nThe average age of Golu and Karan = 15\n\nKaran + Golu age = 30\n\n2(Karan) + 6 = 30\n\nKaran’s age = 12 years\n\nGolu’s age = 18 years\n\nStatement 2;\n\nTaking both statements together;\n\nRatio of sonu : golu's age = 20:18 = 10:9\n\nHence,\n\nBoth the statements together are necessary.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "3",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Following question consists of a question and\n\ntwo statements numbered I and II given below\n\nit. You have to decide whether the data\n\nprovided in the statements are sufficient to\n\nanswer the question. Read both the statements\n\nand give answer:\n\nWhat is the ratio of Sonu's age and Golu's age?\n\nStatement I: Golu is 6 years older than Karan.\n\nAverage age of Sonu and Karan is 15 years.\n\nStatement II: The ratio of Sonu's age after three\n\nyears and Karan's age before seven years is\n\n23:5.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q003.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q003.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_48",
+    "question": "Present ages of A and B are in the ratio ______\n\nrespectively. Present age of B is _____ percent\n\nmore than the present age of C. Present\n\naverage age of A, B and C is 36 years if the\n\npresent age of A is _____ years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "question_html": "Present ages of A and B are in the ratio ______<br/><br/>respectively. Present age of B is _____ percent<br/><br/>more than the present age of C. Present<br/><br/>average age of A, B and C is 36 years if the<br/><br/>present age of A is _____ years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "questionHtml": "Present ages of A and B are in the ratio ______<br/><br/>respectively. Present age of B is _____ percent<br/><br/>more than the present age of C. Present<br/><br/>average age of A, B and C is 36 years if the<br/><br/>present age of A is _____ years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "3:7, 40%, 21",
+        "html": "3:7, 40%, 21"
+      },
+      {
+        "id": "B",
+        "text": "5:12, 20%, 20",
+        "html": "5:12, 20%, 20"
+      },
+      {
+        "id": "C",
+        "text": "3:5, 25%, 27",
+        "html": "3:5, 25%, 27"
+      },
+      {
+        "id": "A",
+        "text": "Only B",
+        "html": "Only B"
+      },
+      {
+        "id": "B",
+        "text": "Only B and C",
+        "html": "Only B and C"
+      },
+      {
+        "id": "C",
+        "text": "Only A and C",
+        "html": "Only A and C"
+      },
+      {
+        "id": "D",
+        "text": "Only A and B",
+        "html": "Only A and B"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "3:7, 40%, 21",
+      "5:12, 20%, 20",
+      "3:5, 25%, 27",
+      "Only B",
+      "Only B and C",
+      "Only A and C",
+      "Only A and B",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Option A:\n\nPresent age of A = 21 years\n\nSo the present age of B = 21 \n = 49 years\n\nPresent age of C = \n = 35 years\n\nSo, the present average age of A, B and C = (21\n\n+ 49 + 35)\n3 = 35 years\n\nSo, option A can’t be the answer.\n\nOption B:\n\nPresent age of A = 20 years\n\nSo the present age of B = 20 \n = 48 years\n\nPresent age of C = \n = 40 years\n\nSo, the present average age of A, B, and C =\n\n(20 + 48 + 40)\n3 = 36 years\n\nSo, option B can be the answer.\n\nOption C:\n\nPresent age of A = 27 years\n\nSo the present age of B = 27 \n = 45 years\n\nPresent age of C = \n = 36 years\n\nSo, the present average age of A, B and C = (27\n\n+ 45 + 36)\n3 = 36 years\n\nSo, option C can be the answer.\n\nHence, option b.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "4",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Present ages of A and B are in the ratio ______\n\nrespectively. Present age of B is _____ percent\n\nmore than the present age of C. Present\n\naverage age of A, B and C is 36 years if the\n\npresent age of A is _____ years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q004.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q004.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_49",
+    "question": "Present average age of A, B and C is 58 years.\n\nPresent average age of A and B is 67 years. If\n\nthe present age of B is ____% more than the\n\npresent age of C, then the present age of A is\n\n____ years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "question_html": "Present average age of A, B and C is 58 years.<br/><br/>Present average age of A and B is 67 years. If<br/><br/>the present age of B is ____% more than the<br/><br/>present age of C, then the present age of A is<br/><br/>____ years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "questionHtml": "Present average age of A, B and C is 58 years.<br/><br/>Present average age of A and B is 67 years. If<br/><br/>the present age of B is ____% more than the<br/><br/>present age of C, then the present age of A is<br/><br/>____ years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "75, 64",
+        "html": "75, 64"
+      },
+      {
+        "id": "B",
+        "text": "65, 68",
+        "html": "65, 68"
+      },
+      {
+        "id": "C",
+        "text": "60, 70",
+        "html": "60, 70"
+      },
+      {
+        "id": "A",
+        "text": "All A, B and C",
+        "html": "All A, B and C"
+      },
+      {
+        "id": "B",
+        "text": "Only A",
+        "html": "Only A"
+      },
+      {
+        "id": "C",
+        "text": "Only B and C",
+        "html": "Only B and C"
+      },
+      {
+        "id": "D",
+        "text": "Only B",
+        "html": "Only B"
+      },
+      {
+        "id": "E",
+        "text": "Only A and C",
+        "html": "Only A and C<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "75, 64",
+      "65, 68",
+      "60, 70",
+      "All A, B and C",
+      "Only A",
+      "Only B and C",
+      "Only B",
+      "Only A and C<br/><br/>"
+    ],
+    "explanation": "Sum of the present ages of A, B and C = 3 \n 58\n\n= 174 years\n\nSum of the present ages of A and B = 2 \n 67 =\n\n134 years\n\nm\n\n20m\n\nm + 5 + 12 = m + 17\n\n(m + 5) × 3 = 3m + 15\n\n17 + m + 2 = 19 + m\n\n20m + 12 + 2 = 20m + 14\n\n3m + 15 + 2 = 3m + 17\n\n19 + m + 20m + 14 + 17 + 3m + 0 = 18.5\n× 3 = 74\n⇒24m = 24\n⇒m = 1\n\n×\n\n=\n3x+5+7\n2x+5+7\n\n21\n16\n\n×\n\n×\n\n(Son\ns age + 3) : (Kara\ns age −7)\nu′\nn′\n\n= 23 : 5\n\n=> [Son\ns age + 3] : (12 −7) = 23 : 5\nu′\n\n=> Son\ns age = 20 age\nu′\n\n× 7\n\n3\n\n49\n\n1.4\n\n÷\n\n× 12\n\n5\n\n48\n\n1.2\n\n÷\n\n× 5\n\n3\n\n45\n\n1.25\n\n÷\n\n×\n\n×\n\nLevel-3",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "5",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Present average age of A, B and C is 58 years.\n\nPresent average age of A and B is 67 years. If\n\nthe present age of B is ____% more than the\n\npresent age of C, then the present age of A is\n\n____ years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q005.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q005.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_50",
+    "question": "Level-3",
+    "question_html": "<b>Level-3</b>",
+    "questionHtml": "<b>Level-3</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Let, present ages of Ram and Kamal be ‘5x’\n\nyears and ‘7x’ years, respectively.\n\nDifference in ages = 7x – 5x = 2x years\n\nOption I:\n\n2x = 4\n\nx = 2\n\nRatio of ages after 10 years = (10 + 10):(14 + 10) =\n\n20:24 = 5:6\n\nOption I can be the answer.\n\nOption II:\n\n2x = 8\n\nx = 4\n\nRatio of ages after 10 years = (20 + 10):(28 + 10) =\n\n30:38 = 15:19\n\nOption II can be the answer.\n\nOption III:\n\n2x = 2\n\nx = 1\n\nRatio of ages after 10 years = (5 + 10):(7 + 10) =\n\n15:17\n\nOption III can be the answer.\n\nOption IV:\n\n2x = 10\n\nx = 5\n\nRatio of ages after 10 years = (25 + 10):(35 + 10) =\n\n35:45 = 7:9\n\nOption IV can’t be the answer.\n\nHence, the correct option is C.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-3",
+    "question_number": "6",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Level-3",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q006.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q006.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_51",
+    "question": "The average age of a group of 60 students is 15\n\nyears. If 3 students whose ages are 17 years, 24\n\nyears and _____ years is replaced by 3 new\n\nstudents whose ages are ____ years, 22 years\n\nand 31 years, then the new average age of the\n\ngroup increases by 0.5 years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "question_html": "The average age of a group of 60 students is 15<br/><br/>years. If 3 students whose ages are 17 years, 24<br/><br/>years and _____ years is replaced by 3 new<br/><br/>students whose ages are ____ years, 22 years<br/><br/>and 31 years, then the new average age of the<br/><br/>group increases by 0.5 years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "questionHtml": "The average age of a group of 60 students is 15<br/><br/>years. If 3 students whose ages are 17 years, 24<br/><br/>years and _____ years is replaced by 3 new<br/><br/>students whose ages are ____ years, 22 years<br/><br/>and 31 years, then the new average age of the<br/><br/>group increases by 0.5 years.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "27, 45",
+        "html": "27, 45"
+      },
+      {
+        "id": "B",
+        "text": "44, 64",
+        "html": "44, 64"
+      },
+      {
+        "id": "C",
+        "text": "19, 37",
+        "html": "19, 37"
+      },
+      {
+        "id": "A",
+        "text": "Only A",
+        "html": "Only A"
+      },
+      {
+        "id": "B",
+        "text": "Only C",
+        "html": "Only C"
+      },
+      {
+        "id": "C",
+        "text": "Only A and C",
+        "html": "Only A and C"
+      },
+      {
+        "id": "D",
+        "text": "Only B and C",
+        "html": "Only B and C"
+      },
+      {
+        "id": "E",
+        "text": "All A, B and C",
+        "html": "All A, B and C<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "27, 45",
+      "44, 64",
+      "19, 37",
+      "Only A",
+      "Only C",
+      "Only A and C",
+      "Only B and C",
+      "All A, B and C<br/><br/>"
+    ],
+    "explanation": "Since, the new average increases by 0.5 years.\n\nSo, sum of the ages of the added students –\n\nsum of the ages of the students who left = 60 ×\n\n0.5 = 30 years\n\nOption A:\n\n(45 + 22 + 31) – (17 + 24 + 27) = 30 years\n\nSo, option A can be the answer.\n\nOption B:\n\n(64 + 22 + 31) – (17 + 24 + 44) = 32 years\n\nSo, option B cannot be the answer.\n\nOption C:\n\n(37 + 22 + 31) – (17 + 24 + 19) = 30 years\n\nSo, option C can be the answer.\n\nHence, option c.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "7",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "The average age of a group of 60 students is 15\n\nyears. If 3 students whose ages are 17 years, 24\n\nyears and _____ years is replaced by 3 new\n\nstudents whose ages are ____ years, 22 years\n\nand 31 years, then the new average age of the\n\ngroup increases by 0.5 years.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q007.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q007.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_52",
+    "question": "There are 4 persons A, B, C and D. The sum of\n\nthe present ages of B and C is 80 years.\n\n______years ago, the ratio of the ages of A and\n\nC was 1:2. The present age of D is 25 years more\n\nthan that of A. The ratio of present ages of A\n\nand C is 5:9, respectively. _______years hence\n\nthe ratio of the ages of B and D will be 3:4. The\n\npresent age of D is 5 years more than that of C.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "question_html": "There are 4 persons A, B, C and D. The sum of<br/><br/>the present ages of B and C is 80 years.<br/><br/>______years ago, the ratio of the ages of A and<br/><br/>C was 1:2. The present age of D is 25 years more<br/><br/>than that of A. The ratio of present ages of A<br/><br/>and C is 5:9, respectively. _______years hence<br/><br/>the ratio of the ages of B and D will be 3:4. The<br/><br/>present age of D is 5 years more than that of C.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "questionHtml": "There are 4 persons A, B, C and D. The sum of<br/><br/>the present ages of B and C is 80 years.<br/><br/>______years ago, the ratio of the ages of A and<br/><br/>C was 1:2. The present age of D is 25 years more<br/><br/>than that of A. The ratio of present ages of A<br/><br/>and C is 5:9, respectively. _______years hence<br/><br/>the ratio of the ages of B and D will be 3:4. The<br/><br/>present age of D is 5 years more than that of C.<br/><br/>The values given in which of the following<br/><br/>options will fill the blanks in the same order in<br/><br/>which is it given to make the above statement<br/><br/>true:<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 years, 15 years",
+        "html": "10 years, 15 years"
+      },
+      {
+        "id": "B",
+        "text": "5 years, 10 years",
+        "html": "5 years, 10 years"
+      },
+      {
+        "id": "C",
+        "text": "10 years, 20 years",
+        "html": "10 years, 20 years"
+      },
+      {
+        "id": "D",
+        "text": "5 years, 20 years",
+        "html": "5 years, 20 years"
+      },
+      {
+        "id": "A",
+        "text": "Only A and C",
+        "html": "Only A and C"
+      },
+      {
+        "id": "B",
+        "text": "Only B",
+        "html": "Only B"
+      },
+      {
+        "id": "C",
+        "text": "Only B and D",
+        "html": "Only B and D"
+      },
+      {
+        "id": "D",
+        "text": "Only C",
+        "html": "Only C"
+      },
+      {
+        "id": "E",
+        "text": "Only A",
+        "html": "Only A<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "10 years, 15 years",
+      "5 years, 10 years",
+      "10 years, 20 years",
+      "5 years, 20 years",
+      "Only A and C",
+      "Only B",
+      "Only B and D",
+      "Only C",
+      "Only A<br/><br/>"
+    ],
+    "explanation": "Let the present age of B be x years\n\nTherefore, present age of C = (80 – x) years\n\nPresent age of A = \n(80 – x) years\n\nPresent age of D = \n (80 – x) + 25 years\n\nAccording to the question,\n\n (80 –x) + 25 - (80 – x) = 5\n\nOr, (80 – x){(\n) – 1} = -20\n\nOr, 80 – x = 45\n\nOr, x = 35 years\n\nTherefore, present age of A = \n (80 – x) = 25\n\nyears\n\nPresent age of B = 35 years\n\nPresent age of C = 45 years\n\nPresent age of D = 25 + 25 = 50 years\n\nFor option A:\n\n(25 – 10):(45 – 10) = 15:35 = 3:7 ≠ 1:2\n\nSo, option A cannot be the answer.\n\nFor option B:\n\n(25 – 5):(45 – 5) = 20:40 = 1:2\n\nAnd, (35 + 10):(50 + 10) = 45:60 = 3:4\n\nSo, option B can be the answer.\n\nFor option C:\n\n(25 – 10):(45 – 10) = 15:35 = 3:7 ≠ 1:2\n\nSo, option C cannot be the answer.\n\nFor option D:\n\n(25 – 5):(45 – 5) = 20:40 = 1:2\n\nAnd, (35 + 20):(50 + 20) = 55:70 = 11:14 ≠ 3:4\n\n×\n\n×\n\n×\n\n5\n9\n\n5\n9\n\n5\n9\n\n5\n9\n\n5\n9",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "8",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "There are 4 persons A, B, C and D. The sum of\n\nthe present ages of B and C is 80 years.\n\n______years ago, the ratio of the ages of A and\n\nC was 1:2. The present age of D is 25 years more\n\nthan that of A. The ratio of present ages of A\n\nand C is 5:9, respectively. _______years hence\n\nthe ratio of the ages of B and D will be 3:4. The\n\npresent age of D is 5 years more than that of C.\n\nThe values given in which of the following\n\noptions will fill the blanks in the same order in\n\nwhich is it given to make the above statement\n\ntrue:",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q008.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q008.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_53",
+    "question": "Present age of P is Z years and the age of Q is\n\n(Y + 20)% more/less than that of R. Age of P\n\nafter two years is sum of 40% of present age of\n\nR and one-third the present age of Q. Age of S\n\nis M years and Q is 6 years older than that of S.\n\nFind the value of Y, if S is 4 years younger than\n\nP.",
+    "question_html": "Present age of P is Z years and the age of Q is<br/><br/>(Y + 20)% more/less than that of R. Age of P<br/><br/>after two years is sum of 40% of present age of<br/><br/>R and one-third the present age of Q. Age of S<br/><br/>is M years and Q is 6 years older than that of S.<br/><br/>Find the value of Y, if S is 4 years younger than<br/><br/>P.<br/>",
+    "questionHtml": "Present age of P is Z years and the age of Q is<br/><br/>(Y + 20)% more/less than that of R. Age of P<br/><br/>after two years is sum of 40% of present age of<br/><br/>R and one-third the present age of Q. Age of S<br/><br/>is M years and Q is 6 years older than that of S.<br/><br/>Find the value of Y, if S is 4 years younger than<br/><br/>P.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "40",
+        "html": "40 "
+      },
+      {
+        "id": "B",
+        "text": "20",
+        "html": "20"
+      },
+      {
+        "id": "C",
+        "text": "25",
+        "html": "25"
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "html": "5"
+      },
+      {
+        "id": "E",
+        "text": "Cannot be determined",
+        "html": "Cannot be determined<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "40 ",
+      "20",
+      "25",
+      "5",
+      "Cannot be determined<br/><br/>"
+    ],
+    "explanation": "According to question,\n\nAlso\n\nAnd, \n\nFrom (2) and (3), we get\n\nSo, \n\nPut value of Q in equation (1)\n\nNow,",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "9",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "Present age of P is Z years and the age of Q is\n\n(Y + 20)% more/less than that of R. Age of P\n\nafter two years is sum of 40% of present age of\n\nR and one-third the present age of Q. Age of S\n\nis M years and Q is 6 years older than that of S.\n\nFind the value of Y, if S is 4 years younger than\n\nP.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q009.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q009.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "ages_chapter_wise_dpp_english_54",
+    "question": "There are four members in a family A, B, C and",
+    "question_html": "There are four members in a family A, B, C and<br/>",
+    "questionHtml": "There are four members in a family A, B, C and<br/>",
+    "options": [
+      {
+        "id": "D",
+        "text": "Average present age of A and D is (Y + 8)\n\nyears, while ratio of present age of C and B is\n\n2:1 \n\nrespectively. D is (Y + 4) years younger than C,\n\nwhile C is 4 years elder than P. Present average\n\nage of all members in family is (2Y + 1) years. \n\nI. Age of B after Y years is same as same of A.\n\nII. Ratio of present age of C and D is 2 : 1\n\nrespectively. \n\nIII. Age of B and D is same",
+        "html": "Average present age of A and D is (Y + 8)<br/><br/>years, while ratio of present age of C and B is<br/><br/>2:1 <br/><br/>respectively. D is (Y + 4) years younger than C,<br/><br/>while C is 4 years elder than P. Present average<br/><br/>age of all members in family is (2Y + 1) years. <br/><br/>I. Age of B after Y years is same as same of A.<br/><br/>II. Ratio of present age of C and D is 2 : 1<br/><br/>respectively. <br/><br/>III. Age of B and D is same"
+      },
+      {
+        "id": "A",
+        "text": "II only",
+        "html": "II only"
+      },
+      {
+        "id": "B",
+        "text": "I and III only",
+        "html": "I and III only"
+      },
+      {
+        "id": "C",
+        "text": "I and II only",
+        "html": "I and II only"
+      },
+      {
+        "id": "D",
+        "text": "I, II, and III",
+        "html": "I, II, and III"
+      },
+      {
+        "id": "E",
+        "text": "None of these",
+        "html": "None of these"
+      }
+    ],
+    "optionsHtml": [
+      "Average present age of A and D is (Y + 8)<br/><br/>years, while ratio of present age of C and B is<br/><br/>2:1 <br/><br/>respectively. D is (Y + 4) years younger than C,<br/><br/>while C is 4 years elder than P. Present average<br/><br/>age of all members in family is (2Y + 1) years. <br/><br/>I. Age of B after Y years is same as same of A.<br/><br/>II. Ratio of present age of C and D is 2 : 1<br/><br/>respectively. <br/><br/>III. Age of B and D is same",
+      "II only",
+      "I and III only",
+      "I and II only",
+      "I, II, and III",
+      "None of these"
+    ],
+    "explanation": "= Y + 8\n\nA + D = 2Y + 16……………… (1)\n\nAlso, C – A = 4\n\nC = A + 4……………… (2)\n\nAlso, C = Y + 4 + D…………. (3)\n\nFrom (2) and (3)\n\nA + 4 = Y + 4 + D\n\nA = Y + D\n\nPut this value in equation (1), we get \n\nY + D + D = 2Y + 16\n\n2D = Y + 16\n\nD = \n + 8\n\nSo, A = Y + \n + 8 = \n+ 8\n\nSo, C = 3\n+ 8 + 4 = \n+ 12\n\nSo, B = 3\n + 6\n\nAlso, \n\nA + B + C + D = 4 \n (2Y + 1)\n\n+ 8 +\n + 12 + \n + 6 + \n + 8 = 8Y + 4\n\n= 30\n\nValue of Y = 8\n\nI. The Age of B after Y years is the same as\n\nsame of A.\n\nPresent age of A = 3 \n+ 8 = 20 years \n\nPresent age of B = 3 \n+ 6 = 12 years \n\nSo, age of B after Y years = 12 + Y = 12 + 8 = 20 \n\nyears \n\nThis statement is true. \n\nII. The Ratio of the present age of C and D is 2:1\n\nrespectively. \n\nPresent age of C = 12 \n 2 = 24 years \n\nPresent age of D = \n + 8 = 12 years \n\nRequired ratio = 24:12 = 2:1\n\nThis statement is true. \n\nIII. Age of B and D is the same. \n\nAge of B = D = 12 years \n\nThis statement is true. \n\n= P + 2 =\n× R +\n2\n5\n\n1\n3\n\n× Q. .........................(1)\n\n= Q = M + 6. ..........................(2)\n\nM = P −4 .......................... (3)\n\n= Q = P −4 + 6\n\nQ = P + 2\n\n= Q =\n× R +\n× Q\n2\n5\n\n1\n3\n\n=\n× Q =\n× R\n2\n3\n\n2\n5\n\n=\n=\nQ\nR\n\n3\n5\n\n= (Y + 20)% =\n× 100 = 40%\n\n(5−3)\n\n5\n\n Value of Y = 40 −20 = 20\n\n(A+D)\n\n2\n\nY\n\n2\n\nY\n\n2\n\n3Y\n\n2\n\nY\n\n2\n\n3Y\n\n2\n\nY\n\n4\n\n×\n\n3Y\n\n2\n\n3Y\n\n2\n\n3Y\n\n4\n\nY\n\n2\n\n15Y\n\n4\n\n× 8\n\n2\n\n× 8\n\n4\n\n×\n\n8\n2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": null,
+    "tables": [],
+    "source_pages": [
+      7
+    ],
+    "sourcePages": [
+      7
+    ],
+    "level": "Level-3",
+    "question_number": "10",
+    "tags": [
+      "ages",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [
+      {
+        "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "Ages  Chapter wise DPP (English).pdf",
+      "url": "/reasoning-pdfs/Ages  Chapter wise DPP (English).pdf",
+      "pages": [
+        7
+      ]
+    },
+    "textPlain": "There are four members in a family A, B, C and",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-3",
+      "tags": [
+        "ages",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    },
+    "image_ref": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "imageRef": "question-images\\Ages  Chapter wise DPP (English)\\Ages  Chapter wise DPP (English)_q010.png",
+    "image": {
+      "key": "ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "url": "/question-images/ages_chapter_wise_dpp_english/Ages  Chapter wise DPP (English)_q010.png",
+      "alt": ""
+    }
+  }
+]

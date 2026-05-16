@@ -1,4 +1,5 @@
 
+import { BrowserRouter, Routes, Route, NavLink, Navigate, useLocation } from "react-router-dom";
 import TestPage from "./pages/TestPage";
 import HomeDesign from "./pages/HomeDesign";
 import HomePage from "./pages/HomePage";
@@ -7,60 +8,60 @@ import AdminDashboard from "./admin/AdminDashboard";
 import BankingPage from "./pages/BankingPage";
 import BankingPracticePage from "./pages/BankingPracticePage";
 import BankingPracticeRunner from "./pages/BankingPracticeRunner";
+import FeedPage from "./pages/FeedPage";
+import TeacherProfilePage from "./pages/TeacherProfilePage";
+import CourseCatalogPage from "./pages/CourseCatalogPage";
+import TestSeriesPage from "./pages/TestSeriesPage";
+import CommunityPage from "./pages/CommunityPage";
+import StudentDashboard from "./pages/StudentDashboard";
 
-export default function App(){
-  const path = window.location.pathname;
-  const search = window.location.search;
-  const isAdmin = path.startsWith("/admin");
-  const isSolution = path.startsWith("/solution");
-  const isBankingPracticeRunner = path.startsWith("/banking/practice/run/test");
-  const isBankingPracticeLanding = path === "/banking/practice/run";
-  const isBankingPractice = path.startsWith("/banking/practice") && !isBankingPracticeRunner && !isBankingPracticeLanding;
-  const isBanking = path.startsWith("/banking") && !isBankingPractice && !isBankingPracticeRunner;
-  const isTest = search.includes("testId");
+function AppShell() {
+  const location = useLocation();
+  const hideHeader = location.pathname.startsWith("/banking/practice/run/test");
 
   return (
-    <div className={`page ${isBankingPracticeRunner ? 'page--fullscreen' : ''}`}>
-      {!isBankingPracticeRunner && (
+    <div className={`page ${hideHeader ? 'page--fullscreen' : ''}`}>
+      {!hideHeader && (
         <header className="header">
           <div>
-            <div className="label">AI + Community Exam Prep MVP</div>
-            <div className="brand">PrepNexus Test Platform</div>
+            <div className="label">Creator-Driven Learning Ecosystem</div>
+            <div className="brand">PrepNexus</div>
           </div>
           <nav className="nav">
-            <button
-              className={!isAdmin && !isSolution && !isBanking ? "active" : ""}
-              onClick={() => window.location.assign("/")}
-              type="button"
-            >
-              Student
-            </button>
-            <button
-              className={isBanking ? "active" : ""}
-              onClick={() => window.location.assign("/banking")}
-              type="button"
-            >
-              Banking
-            </button>
-            <button
-              className={isAdmin ? "active" : ""}
-              onClick={() => window.location.assign("/admin")}
-              type="button"
-            >
-              Admin
-            </button>
+            <NavLink to="/" end>Feed</NavLink>
+            <NavLink to="/courses">Courses</NavLink>
+            <NavLink to="/tests">Tests</NavLink>
+            <NavLink to="/community">Community</NavLink>
+            <NavLink to="/dashboard">Dashboard</NavLink>
+            <NavLink to="/banking">Banking</NavLink>
+            <NavLink to="/admin">Admin</NavLink>
           </nav>
         </header>
       )}
 
-      {isAdmin ? <AdminDashboard /> : null}
-      {isSolution ? <SolutionPage /> : null}
-      {isBankingPracticeRunner ? <BankingPracticeRunner /> : null}
-      {isBankingPractice ? <BankingPracticePage /> : null}
-      {isBanking ? <BankingPage /> : null}
-      {!isAdmin && !isSolution && !isBanking && !isBankingPracticeRunner && path === "/" && !isTest ? <HomeDesign /> : null}
-      {isBankingPracticeLanding ? <HomePage /> : null}
-      {!isAdmin && !isSolution && !isBanking && !isBankingPracticeRunner && isTest ? <TestPage /> : null}
+      <Routes>
+        <Route path="/" element={<FeedPage />} />
+        <Route path="/teachers/:id" element={<TeacherProfilePage />} />
+        <Route path="/courses" element={<CourseCatalogPage />} />
+        <Route path="/tests" element={<TestSeriesPage />} />
+        <Route path="/community" element={<CommunityPage />} />
+        <Route path="/dashboard" element={<StudentDashboard />} />
+        <Route path="/banking/practice/run/test" element={<BankingPracticeRunner />} />
+        <Route path="/banking/practice/*" element={<BankingPracticePage />} />
+        <Route path="/banking/*" element={<BankingPage />} />
+        <Route path="/admin/*" element={<AdminDashboard />} />
+        <Route path="/solution/*" element={<SolutionPage />} />
+        <Route path="/home-design" element={<HomeDesign />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
     </div>
+  );
+}
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <AppShell />
+    </BrowserRouter>
   );
 }

@@ -33,6 +33,12 @@ Implemented in this repository:
 ## Repository Structure
 
 - package.json (legacy root package metadata)
+- pipeline/
+  - pipeline.py
+  - export_to_backend.py
+  - llm_prompt_template.txt
+  - requirements.txt
+  - README.md
 - test-series/
   - backend/
     - middleware/
@@ -119,6 +125,10 @@ Seed admin credentials:
 
 ## Scripts
 
+### Pipeline scripts (pipeline/)
+- python pipeline.py: extract questions, HTML, images, and raw page data from PDFs
+- python export_to_backend.py: export pipeline output into backend/data and keep source PDFs for future reference
+
 ### Backend scripts (test-series/backend/package.json)
 - npm start: run backend server
 - npm run dev: run backend with nodemon
@@ -173,6 +183,7 @@ Backward-compatible admin endpoints also exist:
 ### Question
 - Supports source types: PYQ, AI, USER
 - Supports difficulty, tags, explanation, verification flags
+- Supports extracted-PDF review workflow through the structured pipeline folder
 
 ### Test
 - Supports types: FULL, TOPIC, DAILY, ADAPTIVE

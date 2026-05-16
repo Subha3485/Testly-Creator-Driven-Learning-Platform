@@ -52,7 +52,7 @@ function parseMarkdownBold(value) {
 }
 
 export default function RichText({ value, segments, html, className = "" }) {
-  const htmlValue = typeof html === "string" ? html.trim() : "";
+  const htmlValue = typeof html === "string" ? html : "";
   if (htmlValue) {
     return <span className={className} dangerouslySetInnerHTML={{ __html: htmlValue }} />;
   }

@@ -1,14 +1,94 @@
 [
   {
+    "id": "syllogism_chapter_wise_dpp_english_1",
+    "question": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Hill are Valley.\n\nA few Valley are Dam.\n\nAll Dam are River.\n\nConclusions:\n\nI. Some River are Hill .\n\nII. No River is Hill",
+    "question_html": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Hill are Valley.<br/><br/>A few Valley are Dam.<br/><br/>All Dam are River.<br/><br/><b>Conclusions:</b><br/><br/>I. Some River are Hill .<br/><br/>II. No River is Hill<br/>",
+    "questionHtml": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Hill are Valley.<br/><br/>A few Valley are Dam.<br/><br/>All Dam are River.<br/><br/><b>Conclusions:</b><br/><br/>I. Some River are Hill .<br/><br/>II. No River is Hill<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follow",
+        "html": "Only conclusion I follow"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows",
+        "html": "Both conclusion I and conclusion II follows<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follow",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It does not follow. There are no\n\ndirect relation given between River and Hill so,\n\nSome River are Hill does not follow.\n\nConclusion 2: It does not follow. There are no\n\ndirect relation given between River and Hill so,\n\nNo River is Hill does not follow.\n\nBut here either or case occurs.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
     "question_number": "1",
-    "level": "",
-    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\nStatements:\nAll Hill are Valley.\nA few Valley are Dam.\nAll Dam are River.\nConclusions:\nI. Some River are Hill .\nII. No River is Hill",
-    "questionHtml": "In each question below are given three<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the three<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read the statements and then decide which of<br/>the given conclusions logically follows from the<br/>given <br/>statements, <br/>disregarding <br/>commonly<br/>known facts.<br/>Statements:<br/>All Hill are Valley.<br/>A few Valley are Dam.<br/>All Dam are River.<br/>Conclusions:<br/>I. Some River are Hill .<br/>II. No River is Hill",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Hill are Valley.\n\nA few Valley are Dam.\n\nAll Dam are River.\n\nConclusions:\n\nI. Some River are Hill .\n\nII. No River is Hill",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_2",
+    "question": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Iron are Copper\n\nSome Copper are Mercury\n\nAll Aluminium are Mercury\n\nConclusions:\n\nI. No Iron is Mercury\n\nII. Some Copper are Aluminium",
+    "question_html": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Iron are Copper<br/><br/>Some Copper are Mercury<br/><br/>All Aluminium are Mercury<br/><br/><b>Conclusions:</b><br/><br/>I. No Iron is Mercury<br/><br/>II. Some Copper are Aluminium<br/>",
+    "questionHtml": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Iron are Copper<br/><br/>Some Copper are Mercury<br/><br/>All Aluminium are Mercury<br/><br/><b>Conclusions:</b><br/><br/>I. No Iron is Mercury<br/><br/>II. Some Copper are Aluminium<br/>",
     "options": [
       {
         "id": "A",
-        "text": "Only conclusion I follow",
-        "html": "Only conclusion I follow"
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
       },
       {
         "id": "B",
@@ -28,27 +108,62 @@
       {
         "id": "E",
         "text": "Both conclusion I and conclusion II follows",
-        "html": "Both conclusion I and conclusion II follows"
+        "html": "Both conclusion I and conclusion II follows<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Conclusion 1: It does not follow. There are no\ndirect relation given between River and Hill so,\nSome River are Hill does not follow.\nConclusion 2: It does not follow. There are no\ndirect relation given between River and Hill so,\nNo River is Hill does not follow.\nBut here either or case occurs.",
-    "explanationHtml": "Conclusion 1: It does not follow. There are no<br/>direct relation given between River and Hill so,<br/>Some River are Hill does not follow.<br/>Conclusion 2: It does not follow. There are no<br/>direct relation given between River and Hill so,<br/>No River is Hill does not follow.<br/>But here either or case occurs.",
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Iron and Mercury so No Iron is\n\nMercury does not follow.\n\nConclusion 2: It does not follow. There is no\n\ndirect relation between Copper and Aluminium\n\nso Some Copper are Aluminium does not follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
       1
-    ]
-  },
-  {
+    ],
+    "level": "Level-1",
     "question_number": "2",
-    "level": "",
-    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\n \nStatements:\nAll Iron are Copper\nSome Copper are Mercury\nAll Aluminium are Mercury\nConclusions:\nI. No Iron is Mercury\nII. Some Copper are Aluminium",
-    "questionHtml": "In each question below are given three<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the three<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read the statements and then decide which of<br/>the given conclusions logically follows from the<br/>given <br/>statements, <br/>disregarding <br/>commonly<br/>known facts.<br/> <br/>Statements:<br/>All Iron are Copper<br/>Some Copper are Mercury<br/>All Aluminium are Mercury<br/>Conclusions:<br/>I. No Iron is Mercury<br/>II. Some Copper are Aluminium",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Iron are Copper\n\nSome Copper are Mercury\n\nAll Aluminium are Mercury\n\nConclusions:\n\nI. No Iron is Mercury\n\nII. Some Copper are Aluminium",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_3",
+    "question": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Odour are Smell.\n\nNo Odour is Foul.\n\nSome Foul are Fragrance.\n\nConclusions:\n\nI. No Odour is Fragrance.\n\nII. No Smell is Fragrance.",
+    "question_html": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Odour are Smell.<br/><br/>No Odour is Foul.<br/><br/>Some Foul are Fragrance.<br/><br/><b>Conclusions:</b><br/><br/>I. No Odour is Fragrance.<br/><br/>II. No Smell is Fragrance.<br/>",
+    "questionHtml": "<b>In each question below are given three</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the three</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read the statements and then decide which of</b><br/><br/><b>the given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Odour are Smell.<br/><br/>No Odour is Foul.<br/><br/>Some Foul are Fragrance.<br/><br/><b>Conclusions:</b><br/><br/>I. No Odour is Fragrance.<br/><br/>II. No Smell is Fragrance.<br/>",
     "options": [
       {
         "id": "A",
@@ -72,381 +187,639 @@
       },
       {
         "id": "E",
-        "text": "Both conclusion I and conclusion II follows",
-        "html": "Both conclusion I and conclusion II follows"
+        "text": "Both conclusion I and conclusion II follows\n\nSyllogism\n\nLevel-1",
+        "html": "Both conclusion I and conclusion II follows<br/><br/><b>Syllogism</b><br/><br/><b>Level-1</b>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Iron and Mercury so No Iron is\nMercury does not follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Copper and Aluminium\nso Some Copper are Aluminium does not follow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Iron and Mercury so No Iron is<br/>Mercury does not follow.<br/>Conclusion 2: It does not follow. There is no<br/>direct relation between Copper and Aluminium<br/>so Some Copper are Aluminium does not follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/><b>Syllogism</b><br/><br/><b>Level-1</b>"
     ],
-    "sourcePages": [
-      1
-    ]
-  },
-  {
-    "question_number": "3",
-    "level": "",
-    "question": "In each question below are given three\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the three\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead the statements and then decide which of\nthe given conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\nStatements:\nAll Odour are Smell.\nNo Odour is Foul.\nSome Foul are Fragrance.\nConclusions:\nI. No Odour is Fragrance.\nII. No Smell is Fragrance.",
-    "questionHtml": "In each question below are given three<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the three<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read the statements and then decide which of<br/>the given conclusions logically follows from the<br/>given <br/>statements, <br/>disregarding <br/>commonly<br/>known facts.<br/>Statements:<br/>All Odour are Smell.<br/>No Odour is Foul.<br/>Some Foul are Fragrance.<br/>Conclusions:<br/>I. No Odour is Fragrance.<br/>II. No Smell is Fragrance.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both conclusion I and conclusion II follows\n \nSyllogism",
-        "html": "Both conclusion I and conclusion II follows\n \nSyllogism"
-      }
-    ],
-    "correctAnswer": 3,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Odour and Fragrance so No\nOdour is Fragrance does not follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Smell and Fragrance so\nNo Smell is Fragrance does not follow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Odour and Fragrance so No<br/>Odour is Fragrance does not follow.<br/>Conclusion 2: It does not follow. There is no<br/>direct relation between Smell and Fragrance so<br/>No Smell is Fragrance does not follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      1
-    ]
-  },
-  {
-    "question_number": "4",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\n \nStatements:\nAll Pear are Apple.\nNo Apple is Litchi.\nConclusions:\nI. No Litchi is Pear .\nII. Some Litchi are not Apple.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/> <br/>Statements:<br/>All Pear are Apple.<br/>No Apple is Litchi.<br/>Conclusions:<br/>I. No Litchi is Pear .<br/>II. Some Litchi are not Apple.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both conclusion I and conclusion II follow",
-        "html": "Both conclusion I and conclusion II follow"
-      }
-    ],
-    "correctAnswer": 4,
-    "explanation": "Conclusion 1: It is follow. All Pear is covered by\nApple and No Apple is Litchi is given so No Litchi\nis Pear is definite follow.\nConclusion 2: It is follow. No Apple is Litchi is\ngiven so Some Litchi are not Apple is definite\nfollow.",
-    "explanationHtml": "Conclusion 1: It is follow. All Pear is covered by<br/>Apple and No Apple is Litchi is given so No Litchi<br/>is Pear is definite follow.<br/>Conclusion 2: It is follow. No Apple is Litchi is<br/>given so Some Litchi are not Apple is definite<br/>follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      2
-    ]
-  },
-  {
-    "question_number": "5",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Platform are Park.\nAll Park are Hangar.\nSome Hangar are not Bus stand.\nConclusions:\nI. Some Platform are not Bus stand.\nII. All Platform are Hangar.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>All Platform are Park.<br/>All Park are Hangar.<br/>Some Hangar are not Bus stand.<br/>Conclusions:<br/>I. Some Platform are not Bus stand.<br/>II. All Platform are Hangar.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both I and II follows",
-        "html": "Both I and II follows"
-      }
-    ],
-    "correctAnswer": 1,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Platform and Bus Stand so,\nSome platform are not Bus Stand does not\nfollow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Platform and Bus Stand so,<br/>Some platform are not Bus Stand does not<br/>follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      2
-    ]
-  },
-  {
-    "question_number": "6",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Quilt are Cot\nAll Cot are Pillow\nNo Cot is Sheet\nConclusions:\nI. Some Pillow are Quilt\nII. No Pillow is Sheet",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>All Quilt are Cot<br/>All Cot are Pillow<br/>No Cot is Sheet<br/>Conclusions:<br/>I. Some Pillow are Quilt<br/>II. No Pillow is Sheet",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both conclusion I and conclusion II follows",
-        "html": "Both conclusion I and conclusion II follows"
-      }
-    ],
-    "correctAnswer": 0,
-    "explanation": "Conclusion 1: It is follow. All Quilt are covered by\nPillow, so Some Pillow are Quilt is follows.\nConclusion 2: It does not follow. There are no\ndirect relation given between pillow and Sheet\nso, No Pillow is sheet does not follow.",
-    "explanationHtml": "Conclusion 1: It is follow. All Quilt are covered by<br/>Pillow, so Some Pillow are Quilt is follows.<br/>Conclusion 2: It does not follow. There are no<br/>direct relation given between pillow and Sheet<br/>so, No Pillow is sheet does not follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      2
-    ]
-  },
-  {
-    "question_number": "7",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nAll Small are Tall.\nSome Huge are Thin.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>All Small are Tall.<br/>Some Huge are Thin.",
-    "options": [],
-    "correctAnswer": 1,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Thin and Small so Some Thin\nare Small does not follow.\nConclusion 2: It is follow. All Small are Tall is given\nand No Tall is Huge also given so No Huge is Tall\ndefinite follow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Thin and Small so Some Thin<br/>are Small does not follow.<br/>Conclusion 2: It is follow. All Small are Tall is given<br/>and No Tall is Huge also given so No Huge is Tall<br/>definite follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      2
-    ]
-  },
-  {
-    "question_number": "8",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Cap is Hat.\nAll Hat are Helmet.\nSome Helmet are Turban.\nConclusions:\nI. No Helmet is Cap.\nII. All Turban are Helmet.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>No Cap is Hat.<br/>All Hat are Helmet.<br/>Some Helmet are Turban.<br/>Conclusions:<br/>I. No Helmet is Cap.<br/>II. All Turban are Helmet.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both conclusion I and conclusion II follows",
-        "html": "Both conclusion I and conclusion II follows"
-      }
-    ],
-    "correctAnswer": 3,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Helmet and Cap so No Helmet\nis Cap does not follow.\nConclusion 2: It does not follow. There are some\npart of Turban is touches Helmet so, All Turban\nare Helmet does not follow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Helmet and Cap so No Helmet<br/>is Cap does not follow.<br/>Conclusion 2: It does not follow. There are some<br/>part of Turban is touches Helmet so, All Turban<br/>are Helmet does not follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      3
-    ]
-  },
-  {
-    "question_number": "9",
-    "level": "",
-    "question": "In each question below are given some\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the given\nstatements to be true even if they seem to be\nat variance with commonly known facts. Read\nthe statements and then decide which of the\ngiven conclusions logically follows from the\ngiven \nstatements, \ndisregarding \ncommonly\nknown facts.\n \nStatements:\nNo Curd is Butter.\nSome Curd are Oil.\nNo Oil is Cream.\nConclusions:\nI. No Cream is Butter.\nII. Some Oil are not Butter.",
-    "questionHtml": "In each question below are given some<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the given<br/>statements to be true even if they seem to be<br/>at variance with commonly known facts. Read<br/>the statements and then decide which of the<br/>given conclusions logically follows from the<br/>given <br/>statements, <br/>disregarding <br/>commonly<br/>known facts.<br/> <br/>Statements:<br/>No Curd is Butter.<br/>Some Curd are Oil.<br/>No Oil is Cream.<br/>Conclusions:<br/>I. No Cream is Butter.<br/>II. Some Oil are not Butter.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both conclusion I and conclusion II follow",
-        "html": "Both conclusion I and conclusion II follow"
-      }
-    ],
-    "correctAnswer": 1,
-    "explanation": "Conclusion 1: It does not follow. There is no direct\nrelation between Cream and Butter so No Cream\nis Butter does not follow.\nConclusion 2: It is follow. Some part of Oil\ntouches Curd and No Curd is Butter is given so,\nSome Oil are not Butter is follow.",
-    "explanationHtml": "Conclusion 1: It does not follow. There is no direct<br/>relation between Cream and Butter so No Cream<br/>is Butter does not follow.<br/>Conclusion 2: It is follow. Some part of Oil<br/>touches Curd and No Curd is Butter is given so,<br/>Some Oil are not Butter is follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
-    ],
-    "sourcePages": [
-      3
-    ]
-  },
-  {
-    "question_number": "10",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Parrot is Sparrow.\nSome Sparrow are Swan.\nAll Parrot are Bird.\nConclusions:\nI. No Bird is Sparrow.\nII. Some Bird are Parrot.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>No Parrot is Sparrow.<br/>Some Sparrow are Swan.<br/>All Parrot are Bird.<br/>Conclusions:<br/>I. No Bird is Sparrow.<br/>II. Some Bird are Parrot.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Only conclusion I follows",
-        "html": "Only conclusion I follows"
-      },
-      {
-        "id": "B",
-        "text": "Only conclusion II follows",
-        "html": "Only conclusion II follows"
-      },
-      {
-        "id": "C",
-        "text": "Either conclusion I or conclusion II follows",
-        "html": "Either conclusion I or conclusion II follows"
-      },
-      {
-        "id": "D",
-        "text": "Neither conclusion I nor conclusion II follows",
-        "html": "Neither conclusion I nor conclusion II follows"
-      },
-      {
-        "id": "E",
-        "text": "Both I and II follows",
-        "html": "Both I and II follows"
-      }
-    ],
-    "correctAnswer": 1,
-    "explanation": "",
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Odour and Fragrance so No\n\nOdour is Fragrance does not follow.\n\nConclusion 2: It does not follow. There is no\n\ndirect relation between Smell and Fragrance so\n\nNo Smell is Fragrance does not follow.",
+    "explanation_html": "",
     "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "source_pages": [
+      1
     ],
     "sourcePages": [
-      3
-    ]
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "In each question below are given three\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the three\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead the statements and then decide which of\n\nthe given conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nAll Odour are Smell.\n\nNo Odour is Foul.\n\nSome Foul are Fragrance.\n\nConclusions:\n\nI. No Odour is Fragrance.\n\nII. No Smell is Fragrance.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
   },
   {
-    "question_number": "11",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions",
+    "id": "syllogism_chapter_wise_dpp_english_4",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Pear are Apple.\n\nNo Apple is Litchi.\n\nConclusions:\n\nI. No Litchi is Pear .\n\nII. Some Litchi are not Apple.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Pear are Apple.<br/><br/>No Apple is Litchi.<br/><br/><b>Conclusions:</b><br/><br/>I. No Litchi is Pear .<br/><br/>II. Some Litchi are not Apple.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Pear are Apple.<br/><br/>No Apple is Litchi.<br/><br/><b>Conclusions:</b><br/><br/>I. No Litchi is Pear .<br/><br/>II. Some Litchi are not Apple.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follow",
+        "html": "Both conclusion I and conclusion II follow<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follow<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It is follow. All Pear is covered by\n\nApple and No Apple is Litchi is given so No Litchi\n\nis Pear is definite follow.\n\nConclusion 2: It is follow. No Apple is Litchi is\n\ngiven so Some Litchi are not Apple is definite\n\nfollow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "4",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Pear are Apple.\n\nNo Apple is Litchi.\n\nConclusions:\n\nI. No Litchi is Pear .\n\nII. Some Litchi are not Apple.",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_5",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Platform are Park.\n\nAll Park are Hangar.\n\nSome Hangar are not Bus stand.\n\nConclusions:\n\nI. Some Platform are not Bus stand.\n\nII. All Platform are Hangar.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Platform are Park.<br/><br/>All Park are Hangar.<br/><br/>Some Hangar are not Bus stand.<br/><br/><b>Conclusions:</b><br/><br/>I. Some Platform are not Bus stand.<br/><br/>II. All Platform are Hangar.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Platform are Park.<br/><br/>All Park are Hangar.<br/><br/>Some Hangar are not Bus stand.<br/><br/><b>Conclusions:</b><br/><br/>I. Some Platform are not Bus stand.<br/><br/>II. All Platform are Hangar.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II follows",
+        "html": "Both I and II follows<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both I and II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Platform and Bus Stand so,\n\nSome platform are not Bus Stand does not\n\nfollow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "5",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Platform are Park.\n\nAll Park are Hangar.\n\nSome Hangar are not Bus stand.\n\nConclusions:\n\nI. Some Platform are not Bus stand.\n\nII. All Platform are Hangar.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_6",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Quilt are Cot\n\nAll Cot are Pillow\n\nNo Cot is Sheet\n\nConclusions:\n\nI. Some Pillow are Quilt\n\nII. No Pillow is Sheet",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Quilt are Cot<br/><br/>All Cot are Pillow<br/><br/>No Cot is Sheet<br/><br/><b>Conclusions:</b><br/><br/>I. Some Pillow are Quilt<br/><br/>II. No Pillow is Sheet<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Quilt are Cot<br/><br/>All Cot are Pillow<br/><br/>No Cot is Sheet<br/><br/><b>Conclusions:</b><br/><br/>I. Some Pillow are Quilt<br/><br/>II. No Pillow is Sheet<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows",
+        "html": "Both conclusion I and conclusion II follows<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It is follow. All Quilt are covered by\n\nPillow, so Some Pillow are Quilt is follows.\n\nConclusion 2: It does not follow. There are no\n\ndirect relation given between pillow and Sheet\n\nso, No Pillow is sheet does not follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
+    "tables": [],
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "6",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Quilt are Cot\n\nAll Cot are Pillow\n\nNo Cot is Sheet\n\nConclusions:\n\nI. Some Pillow are Quilt\n\nII. No Pillow is Sheet",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_7",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Small are Tall.\n\nSome Huge are Thin.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Small are Tall.<br/><br/>Some Huge are Thin.",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>All Small are Tall.<br/><br/>Some Huge are Thin.",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "Conclusion 1: It does not follow. There are no\ndirect relation given between Marigold and\nJasmine so, All Marigold are Jasmine does not\nfollow.\nConclusion 2: It does not follow. There are no\ndirect relation given between Marigold and\nJasmine so, Some Marigold are not Jasmine does\nnot follow.\nBut here either or case occurs.",
-    "explanationHtml": "Conclusion 1: It does not follow. There are no<br/>direct relation given between Marigold and<br/>Jasmine so, All Marigold are Jasmine does not<br/>follow.<br/>Conclusion 2: It does not follow. There are no<br/>direct relation given between Marigold and<br/>Jasmine so, Some Marigold are not Jasmine does<br/>not follow.<br/>But here either or case occurs.",
+    "optionsHtml": [],
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Thin and Small so Some Thin\n\nare Small does not follow.\n\nConclusion 2: It is follow. All Small are Tall is given\n\nand No Tall is Huge also given so No Huge is Tall\n\ndefinite follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "7",
     "tags": [
-      "syllogism"
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nAll Small are Tall.\n\nSome Huge are Thin.",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_8",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Cap is Hat.\n\nAll Hat are Helmet.\n\nSome Helmet are Turban.\n\nConclusions:\n\nI. No Helmet is Cap.\n\nII. All Turban are Helmet.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Cap is Hat.<br/><br/>All Hat are Helmet.<br/><br/>Some Helmet are Turban.<br/><br/><b>Conclusions:</b><br/><br/>I. No Helmet is Cap.<br/><br/>II. All Turban are Helmet.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Cap is Hat.<br/><br/>All Hat are Helmet.<br/><br/>Some Helmet are Turban.<br/><br/><b>Conclusions:</b><br/><br/>I. No Helmet is Cap.<br/><br/>II. All Turban are Helmet.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follows",
+        "html": "Both conclusion I and conclusion II follows<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Helmet and Cap so No Helmet\n\nis Cap does not follow.\n\nConclusion 2: It does not follow. There are some\n\npart of Turban is touches Helmet so, All Turban\n\nare Helmet does not follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      3
     ],
     "sourcePages": [
       3
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "8",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Cap is Hat.\n\nAll Hat are Helmet.\n\nSome Helmet are Turban.\n\nConclusions:\n\nI. No Helmet is Cap.\n\nII. All Turban are Helmet.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
   },
   {
-    "question_number": "12",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nNo Sweet is Cake.\nNo Cake is Pastry.\nOnly Pastry are Bread.\nConclusions:\nI. No Sweet is Bread.\nII. No Pastry is Sweet.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>No Sweet is Cake.<br/>No Cake is Pastry.<br/>Only Pastry are Bread.<br/>Conclusions:<br/>I. No Sweet is Bread.<br/>II. No Pastry is Sweet.",
+    "id": "syllogism_chapter_wise_dpp_english_9",
+    "question": "In each question below are given some\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the given\n\nstatements to be true even if they seem to be\n\nat variance with commonly known facts. Read\n\nthe statements and then decide which of the\n\ngiven conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nNo Curd is Butter.\n\nSome Curd are Oil.\n\nNo Oil is Cream.\n\nConclusions:\n\nI. No Cream is Butter.\n\nII. Some Oil are not Butter.",
+    "question_html": "<b>In each question below are given some</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the given</b><br/><br/><b>statements to be true even if they seem to be</b><br/><br/><b>at variance with commonly known facts. Read</b><br/><br/><b>the statements and then decide which of the</b><br/><br/><b>given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Curd is Butter.<br/><br/>Some Curd are Oil.<br/><br/>No Oil is Cream.<br/><br/><b>Conclusions:</b><br/><br/>I. No Cream is Butter.<br/><br/>II. Some Oil are not Butter.<br/>",
+    "questionHtml": "<b>In each question below are given some</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the given</b><br/><br/><b>statements to be true even if they seem to be</b><br/><br/><b>at variance with commonly known facts. Read</b><br/><br/><b>the statements and then decide which of the</b><br/><br/><b>given conclusions logically follows from the</b><br/><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding </b><br/><b>commonly</b><br/><br/><b>known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Curd is Butter.<br/><br/>Some Curd are Oil.<br/><br/>No Oil is Cream.<br/><br/><b>Conclusions:</b><br/><br/>I. No Cream is Butter.<br/><br/>II. Some Oil are not Butter.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both conclusion I and conclusion II follow",
+        "html": "Both conclusion I and conclusion II follow<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follow<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It does not follow. There is no direct\n\nrelation between Cream and Butter so No Cream\n\nis Butter does not follow.\n\nConclusion 2: It is follow. Some part of Oil\n\ntouches Curd and No Curd is Butter is given so,\n\nSome Oil are not Butter is follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "9",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In each question below are given some\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the given\n\nstatements to be true even if they seem to be\n\nat variance with commonly known facts. Read\n\nthe statements and then decide which of the\n\ngiven conclusions logically follows from the\n\ngiven \nstatements, \ndisregarding \ncommonly\n\nknown facts.\n\nStatements:\n\nNo Curd is Butter.\n\nSome Curd are Oil.\n\nNo Oil is Cream.\n\nConclusions:\n\nI. No Cream is Butter.\n\nII. Some Oil are not Butter.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_10",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Parrot is Sparrow.\n\nSome Sparrow are Swan.\n\nAll Parrot are Bird.\n\nConclusions:\n\nI. No Bird is Sparrow.\n\nII. Some Bird are Parrot.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Parrot is Sparrow.<br/><br/>Some Sparrow are Swan.<br/><br/>All Parrot are Bird.<br/><br/><b>Conclusions:</b><br/><br/>I. No Bird is Sparrow.<br/><br/>II. Some Bird are Parrot.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Parrot is Sparrow.<br/><br/>Some Sparrow are Swan.<br/><br/>All Parrot are Bird.<br/><br/><b>Conclusions:</b><br/><br/>I. No Bird is Sparrow.<br/><br/>II. Some Bird are Parrot.<br/>",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "html": "Only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "html": "Only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "Either conclusion I or conclusion II follows",
+        "html": "Either conclusion I or conclusion II follows"
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "html": "Neither conclusion I nor conclusion II follows"
+      },
+      {
+        "id": "E",
+        "text": "Both I and II follows",
+        "html": "Both I and II follows<br/><br/>"
+      }
+    ],
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both I and II follows<br/><br/>"
+    ],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "10",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Parrot is Sparrow.\n\nSome Sparrow are Swan.\n\nAll Parrot are Bird.\n\nConclusions:\n\nI. No Bird is Sparrow.\n\nII. Some Bird are Parrot.",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_11",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Conclusion 1: It does not follow. There are no\n\ndirect relation given between Marigold and\n\nJasmine so, All Marigold are Jasmine does not\n\nfollow.\n\nConclusion 2: It does not follow. There are no\n\ndirect relation given between Marigold and\n\nJasmine so, Some Marigold are not Jasmine does\n\nnot follow.\n\nBut here either or case occurs.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "11",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_12",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Sweet is Cake.\n\nNo Cake is Pastry.\n\nOnly Pastry are Bread.\n\nConclusions:\n\nI. No Sweet is Bread.\n\nII. No Pastry is Sweet.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Sweet is Cake.<br/><br/>No Cake is Pastry.<br/><br/>Only Pastry are Bread.<br/><br/><b>Conclusions:</b><br/><br/>I. No Sweet is Bread.<br/><br/>II. No Pastry is Sweet.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>No Sweet is Cake.<br/><br/>No Cake is Pastry.<br/><br/>Only Pastry are Bread.<br/><br/><b>Conclusions:</b><br/><br/>I. No Sweet is Bread.<br/><br/>II. No Pastry is Sweet.<br/>",
     "options": [
       {
         "id": "A",
@@ -471,27 +844,62 @@
       {
         "id": "E",
         "text": "Both conclusion I and conclusion II follows",
-        "html": "Both conclusion I and conclusion II follows"
+        "html": "Both conclusion I and conclusion II follows<br/><br/>"
       }
     ],
-    "correctAnswer": 0,
-    "explanation": "Conclusion 1: It is follow. No Sweet is Bread is a\ndefinite follow.\nConclusion 2: It does not follow. There is no\ndirect relation between Sweet and Pastry so, No\nPastry is Sweet does not follow.",
-    "explanationHtml": "Conclusion 1: It is follow. No Sweet is Bread is a<br/>definite follow.<br/>Conclusion 2: It does not follow. There is no<br/>direct relation between Sweet and Pastry so, No<br/>Pastry is Sweet does not follow.",
+    "optionsHtml": [
+      "Only conclusion I follow",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follows<br/><br/>"
+    ],
+    "explanation": "Conclusion 1: It is follow. No Sweet is Bread is a\n\ndefinite follow.\n\nConclusion 2: It does not follow. There is no\n\ndirect relation between Sweet and Pastry so, No\n\nPastry is Sweet does not follow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "12",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nNo Sweet is Cake.\n\nNo Cake is Pastry.\n\nOnly Pastry are Bread.\n\nConclusions:\n\nI. No Sweet is Bread.\n\nII. No Pastry is Sweet.",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
   },
   {
-    "question_number": "13",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nSome Architect are Engineer\nAll Engineer are Mechanic\nAll Mechanic are Blacksmith\nConclusions:\nI. All Engineer are Blacksmith\nII. Some Blacksmith are Architect",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>Some Architect are Engineer<br/>All Engineer are Mechanic<br/>All Mechanic are Blacksmith<br/>Conclusions:<br/>I. All Engineer are Blacksmith<br/>II. Some Blacksmith are Architect",
+    "id": "syllogism_chapter_wise_dpp_english_13",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Architect are Engineer\n\nAll Engineer are Mechanic\n\nAll Mechanic are Blacksmith\n\nConclusions:\n\nI. All Engineer are Blacksmith\n\nII. Some Blacksmith are Architect",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Architect are Engineer<br/><br/>All Engineer are Mechanic<br/><br/>All Mechanic are Blacksmith<br/><br/><b>Conclusions:</b><br/><br/>I. All Engineer are Blacksmith<br/><br/>II. Some Blacksmith are Architect<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Architect are Engineer<br/><br/>All Engineer are Mechanic<br/><br/>All Mechanic are Blacksmith<br/><br/><b>Conclusions:</b><br/><br/>I. All Engineer are Blacksmith<br/><br/>II. Some Blacksmith are Architect<br/>",
     "options": [
       {
         "id": "A",
@@ -516,46 +924,110 @@
       {
         "id": "E",
         "text": "Both I and II follows",
-        "html": "Both I and II follows"
+        "html": "Both I and II follows<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "Conclusion 1: It is follow. All Engineer are cover\nby Blacksmith so, All Engineer are Blacksmith is\nfollow.\nConclusion 2: It is follow. Some part of\nBlacksmith is touches Architect so, Some\nBlacksmith are Architect is follow.",
-    "explanationHtml": "Conclusion 1: It is follow. All Engineer are cover<br/>by Blacksmith so, All Engineer are Blacksmith is<br/>follow.<br/>Conclusion 2: It is follow. Some part of<br/>Blacksmith is touches Architect so, Some<br/>Blacksmith are Architect is follow.",
-    "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both I and II follows<br/><br/>"
     ],
-    "sourcePages": [
-      4
-    ]
-  },
-  {
-    "question_number": "14",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\nStatements:\nSome Bear are Tiger\nAll Bear are Leopard\nSome Tiger are Cheetah\nConclusions:",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/>Statements:<br/>Some Bear are Tiger<br/>All Bear are Leopard<br/>Some Tiger are Cheetah<br/>Conclusions:",
-    "options": [],
-    "correctAnswer": 3,
-    "explanation": "",
+    "explanation": "Conclusion 1: It is follow. All Engineer are cover\n\nby Blacksmith so, All Engineer are Blacksmith is\n\nfollow.\n\nConclusion 2: It is follow. Some part of\n\nBlacksmith is touches Architect so, Some\n\nBlacksmith are Architect is follow.",
+    "explanation_html": "",
     "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "source_pages": [
+      4
     ],
     "sourcePages": [
       4
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "13",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Architect are Engineer\n\nAll Engineer are Mechanic\n\nAll Mechanic are Blacksmith\n\nConclusions:\n\nI. All Engineer are Blacksmith\n\nII. Some Blacksmith are Architect",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
   },
   {
-    "question_number": "15",
-    "level": "",
-    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\nstatements \nfollowed \nby \ntwo \nconclusions\nnumbered I and II. You have to take the two\ngiven statements to be true even if they seem\nto be at variance with commonly known facts.\nRead both the statements and then decide\nwhich of the given conclusions logically follows\nfrom \nthe \ngiven \nstatements, \ndisregarding\ncommonly known facts.\n \nStatements:\nSome Knife are Hammer.\nNo Hammer is Blade.\nConclusions:\nI. Some Knife are not Blade.\nII. Some Blade are not Hammer.",
-    "questionHtml": "In <br/>each <br/>question <br/>below <br/>are <br/>given <br/>two<br/>statements <br/>followed <br/>by <br/>two <br/>conclusions<br/>numbered I and II. You have to take the two<br/>given statements to be true even if they seem<br/>to be at variance with commonly known facts.<br/>Read both the statements and then decide<br/>which of the given conclusions logically follows<br/>from <br/>the <br/>given <br/>statements, <br/>disregarding<br/>commonly known facts.<br/> <br/>Statements:<br/>Some Knife are Hammer.<br/>No Hammer is Blade.<br/>Conclusions:<br/>I. Some Knife are not Blade.<br/>II. Some Blade are not Hammer.",
+    "id": "syllogism_chapter_wise_dpp_english_14",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Bear are Tiger\n\nAll Bear are Leopard\n\nSome Tiger are Cheetah\n\nConclusions:",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Bear are Tiger<br/><br/>All Bear are Leopard<br/><br/>Some Tiger are Cheetah<br/><br/><b>Conclusions:</b>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Bear are Tiger<br/><br/>All Bear are Leopard<br/><br/>Some Tiger are Cheetah<br/><br/><b>Conclusions:</b>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-1",
+    "question_number": "14",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Bear are Tiger\n\nAll Bear are Leopard\n\nSome Tiger are Cheetah\n\nConclusions:",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
+  },
+  {
+    "id": "syllogism_chapter_wise_dpp_english_15",
+    "question": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Knife are Hammer.\n\nNo Hammer is Blade.\n\nConclusions:\n\nI. Some Knife are not Blade.\n\nII. Some Blade are not Hammer.",
+    "question_html": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Knife are Hammer.<br/><br/>No Hammer is Blade.<br/><br/><b>Conclusions:</b><br/><br/>I. Some Knife are not Blade.<br/><br/>II. Some Blade are not Hammer.<br/>",
+    "questionHtml": "<b>In </b><br/><b>each </b><br/><b>question </b><br/><b>below </b><br/><b>are </b><br/><b>given </b><br/><b>two</b><br/><br/><b>statements </b><br/><b>followed </b><br/><b>by </b><br/><b>two </b><br/><b>conclusions</b><br/><br/><b>numbered I and II. You have to take the two</b><br/><br/><b>given statements to be true even if they seem</b><br/><br/><b>to be at variance with commonly known facts.</b><br/><br/><b>Read both the statements and then decide</b><br/><br/><b>which of the given conclusions logically follows</b><br/><br/><b>from </b><br/><b>the </b><br/><b>given </b><br/><b>statements, </b><br/><b>disregarding</b><br/><br/><b>commonly known facts.</b><br/><br/><b>Statements:</b><br/><br/>Some Knife are Hammer.<br/><br/>No Hammer is Blade.<br/><br/><b>Conclusions:</b><br/><br/>I. Some Knife are not Blade.<br/><br/>II. Some Blade are not Hammer.<br/>",
     "options": [
       {
         "id": "A",
@@ -583,17 +1055,52 @@
         "html": "Both conclusion I and conclusion II follow"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "Conclusion 1: It is follow. Some part of Knife is\ntouches Hammer and No Hammer is Blade given\nso Some Knife are not Blade is definite follow.\nConclusion 2: It is follow. No Hammer is Blade is\ngiven so Some Blade are not Hammer is definite\nfollow.",
-    "explanationHtml": "Conclusion 1: It is follow. Some part of Knife is<br/>touches Hammer and No Hammer is Blade given<br/>so Some Knife are not Blade is definite follow.<br/>Conclusion 2: It is follow. No Hammer is Blade is<br/>given so Some Blade are not Hammer is definite<br/>follow.",
+    "optionsHtml": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either conclusion I or conclusion II follows",
+      "Neither conclusion I nor conclusion II follows",
+      "Both conclusion I and conclusion II follow"
+    ],
+    "explanation": "Conclusion 1: It is follow. Some part of Knife is\n\ntouches Hammer and No Hammer is Blade given\n\nso Some Knife are not Blade is definite follow.\n\nConclusion 2: It is follow. No Hammer is Blade is\n\ngiven so Some Blade are not Hammer is definite\n\nfollow.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "syllogism"
+    "source_pages": [
+      5
     ],
     "sourcePages": [
       5
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "15",
+    "tags": [
+      "syllogism",
+      "chapter",
+      "wise",
+      "dpp",
+      "english"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "syllogism_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/syllogism_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "In \neach \nquestion \nbelow \nare \ngiven \ntwo\n\nstatements \nfollowed \nby \ntwo \nconclusions\n\nnumbered I and II. You have to take the two\n\ngiven statements to be true even if they seem\n\nto be at variance with commonly known facts.\n\nRead both the statements and then decide\n\nwhich of the given conclusions logically follows\n\nfrom \nthe \ngiven \nstatements, \ndisregarding\n\ncommonly known facts.\n\nStatements:\n\nSome Knife are Hammer.\n\nNo Hammer is Blade.\n\nConclusions:\n\nI. Some Knife are not Blade.\n\nII. Some Blade are not Hammer.",
+    "metadata": {
+      "questionNumber": "15",
+      "level": "Level-1",
+      "tags": [
+        "syllogism",
+        "chapter",
+        "wise",
+        "dpp",
+        "english"
+      ]
+    }
   }
 ]

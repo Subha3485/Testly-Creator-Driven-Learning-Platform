@@ -50,6 +50,7 @@ export default function TestPage() {
   const [startEpoch, setStartEpoch] = useState(0);
   const [analytics, setAnalytics] = useState(null);
   const [weakTopics, setWeakTopics] = useState([]);
+  const [flagState, setFlagState] = useState({ loading: false, message: "" });
   const autoReattemptStartedRef = useRef(false);
   const shouldAutoStartReattempt = initialSearch.get("reattempt") === "1";
 
@@ -178,6 +179,24 @@ export default function TestPage() {
       delete nextAnswers[questionIndex];
       return nextAnswers;
     });
+  }
+
+  async function flagMissingInfo(questionIndex) {
+    const question = testData?.questions?.[questionIndex];
+    if (!question?._id || flagState.loading) {
+      return;
+    }
+
+    setFlagState({ loading: true, message: "" });
+    try {
+      const response = await api.flagQuestion(question._id, { reason: "missing_info" });
+      setFlagState({
+        loading: false,
+        message: response?.message || response?.status || "Flag processed"
+      });
+    } catch (err) {
+      setFlagState({ loading: false, message: err.message || "Failed to flag question" });
+    }
   }
 
   function goPreviousQuestion() {
@@ -447,7 +466,7 @@ export default function TestPage() {
                           onChange={() => updateAnswer(currentQuestionIndex, optionIndex)}
                         />
                         <span className="test-runner__optionIndex">{String.fromCharCode(65 + optionIndex)}</span>
-                        <span>
+                        <span className="test-runner__optionText">
                           <RichText
                             value={option}
                             html={currentQuestion.optionsHtml?.[optionIndex] || currentQuestion.options_html?.[optionIndex]}
@@ -460,6 +479,9 @@ export default function TestPage() {
                 </div>
 
                 <div className="test-runner__actionRow">
+                  <button className="secondary" type="button" onClick={() => flagMissingInfo(currentQuestionIndex)}>
+                    {flagState.loading ? "Flagging..." : "Flag Missing Info"}
+                  </button>
                   <button className="secondary" type="button" onClick={() => markForReviewAndNext(currentQuestionIndex)}>
                     Mark for Review & Next
                   </button>
@@ -470,6 +492,7 @@ export default function TestPage() {
                     Save & Next
                   </button>
                 </div>
+                {flagState.message ? <div className="test-runner__flagNotice">{flagState.message}</div> : null}
               </article>
             ) : null}
           </main>

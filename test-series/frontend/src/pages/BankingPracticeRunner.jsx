@@ -34,6 +34,8 @@ export default function BankingPracticeRunner() {
   const [questionTimerPaused, setQuestionTimerPaused] = useState(false);
   const [answers, setAnswers] = useState({});
   const [questionMeta, setQuestionMeta] = useState({});
+  const [flagging, setFlagging] = useState(false);
+  const [flagResult, setFlagResult] = useState("");
   const [paletteFilter, setPaletteFilter] = useState("all");
   const [sessionResult, setSessionResult] = useState(null);
   const finishingRef = useRef(false);
@@ -600,6 +602,26 @@ export default function BankingPracticeRunner() {
                 </article>
 
                 <div className="banking-runner__actions">
+                  <button
+                    className="banking-runner__warn"
+                    type="button"
+                    onClick={async () => {
+                      if (!currentQuestion?._id || flagging) return;
+                      setFlagging(true);
+                      setFlagResult("");
+                      try {
+                        const resp = await api.flagQuestion(currentQuestion._id);
+                        setFlagResult(resp?.message || resp?.status || "Flag processed");
+                      } catch (err) {
+                        setFlagResult(err.message || "Failed to flag question");
+                      } finally {
+                        setFlagging(false);
+                      }
+                    }}
+                  >
+                    {flagging ? "Flagging…" : "Flag Missing Info"}
+                  </button>
+                  {flagResult ? <div className="banking-runner__flagResult">{String(flagResult)}</div> : null}
                   <button className="banking-runner__ghost" type="button" onClick={() => goToQuestion(currentIndex - 1)}>Previous</button>
                   <button className="banking-runner__ghost" type="button" onClick={clearResponse}>Clear Response</button>
                   <button className="banking-runner__ghost" type="button" onClick={clearReviewTag}>Unmark Review</button>

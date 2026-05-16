@@ -111,7 +111,8 @@
 .banking-runner__setBtn,
 .banking-runner__ghost,
 .banking-runner__primary,
-.banking-runner__accent {
+.banking-runner__accent,
+.banking-runner__warn {
   border: none;
   border-radius: 12px;
   padding: 12px 18px;
@@ -146,6 +147,22 @@
 .banking-runner__accent {
   background: #fff4d7;
   color: #7b5b00;
+}
+
+.banking-runner__warn {
+  background: #fff0f0;
+  color: #a12d2d;
+  border: 1px solid #efc2c2;
+}
+
+.banking-runner__flagResult {
+  align-self: center;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid #dbe4ee;
+  background: #f8fbfe;
+  color: #43556f;
+  font-weight: 600;
 }
 
 .banking-runner__instructionCard {
@@ -304,6 +321,14 @@
 .banking-runner__stem,
 .banking-runner__optionText {
   white-space: pre-wrap;
+}
+
+.banking-runner__stem img,
+.banking-runner__optionText img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 12px 0;
 }
 
 .banking-runner__stem {
@@ -661,6 +686,16 @@
   border-radius: 14px;
   border: 1px solid #dbe4ee;
   background: #fff;
+}
+
+.test-runner__flagNotice {
+  margin-top: 12px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid #dbe4ee;
+  background: #f8fbfe;
+  color: #43556f;
+  font-weight: 600;
 }
 
 @media (max-width: 1100px) {

@@ -61,7 +61,14 @@ export const api = {
   },
   getBankingPracticeSets: () => request("/test/banking/practice-sets"),
   getBankingPracticeSetQuestions: (setId) => request(`/test/banking/practice-sets/${setId}/questions`),
+  getBankingCourses: () => request("/test/banking/courses"),
+  getBankingDashboard: () => request("/test/banking/dashboard"),
   getTestById: (testId) => request(`/test/${testId}`),
+  flagQuestion: (questionId, payload = {}) =>
+    request(`/test/questions/${questionId}/flag`, {
+      method: "POST",
+      body: JSON.stringify(payload)
+    }),
   submitTest: (payload) =>
     request("/test/submit", {
       method: "POST",
@@ -74,6 +81,7 @@ export const api = {
   },
   getWeakTopics: (userId) => request(`/test/weak-topics/${userId}`),
   getAdminOverview: () => request("/admin/dashboard/overview"),
+  getAdminReviewQueue: () => request("/test/admin/review/queue"),
   getAdminTests: () => request("/admin/tests"),
   createTest: (payload) =>
     request("/admin/tests", {

@@ -9,7 +9,9 @@
     "preview": "npm --prefix test-series/frontend run preview",
     "setup": "npm install && npm --prefix test-series/backend install && npm --prefix test-series/frontend install",
     "start": "node server.js",
-    "build:frontend": "npm --prefix test-series/frontend run build"
+    "build:frontend": "npm --prefix test-series/frontend run build",
+    "extract:questions": "python pipeline/pipeline.py",
+    "export:questions": "python pipeline/export_to_backend.py"
   },
   "dependencies": {
     "react": "^18.2.0",

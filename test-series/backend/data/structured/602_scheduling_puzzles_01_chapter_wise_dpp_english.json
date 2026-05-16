@@ -1,9 +1,9 @@
 [
   {
-    "question_number": "1",
-    "level": "Level-1",
-    "question": "Directions:Answer the questions based on the\ninformation given below.\nSeven persons A, B, C, D, E, F and G have\nmeetings on different days of a week from\nMonday to Sunday but not necessarily in same\norder. Each of them belongs to different\ncountries among Egypt, Italy, India, France,\nMexico, Germany and Spain.\nD belongs to Spain. F, who belongs to Italy, does\nnot have meeting on Monday. Two persons have\nmeeting before the one, who belongs to Egypt. E\nhas meeting on Saturday. Person, who belongs to\nMexico, has meeting on Sunday. B has meeting\ntwo days before A who belongs to neither Egypt\nnor Mexico. Person, who belongs to Germany,\nhas meeting just before C, who does not belong\nto Mexico.\nF has meeting on ______.",
-    "questionHtml": "Directions:Answer the questions based on the<br/>information given below.<br/>Seven persons A, B, C, D, E, F and G have<br/>meetings on different days of a week from<br/>Monday to Sunday but not necessarily in same<br/>order. Each of them belongs to different<br/>countries among Egypt, Italy, India, France,<br/>Mexico, Germany and Spain.<br/>D belongs to Spain. F, who belongs to Italy, does<br/>not have meeting on Monday. Two persons have<br/>meeting before the one, who belongs to Egypt. E<br/>has meeting on Saturday. Person, who belongs to<br/>Mexico, has meeting on Sunday. B has meeting<br/>two days before A who belongs to neither Egypt<br/>nor Mexico. Person, who belongs to Germany,<br/>has meeting just before C, who does not belong<br/>to Mexico.<br/>F has meeting on ______.",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_1",
+    "question": "Directions:Answer the questions based on the\n\ninformation given below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nF has meeting on ______.",
+    "question_html": "<b>Directions:Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>F has meeting on ______.<br/>",
+    "questionHtml": "<b>Directions:Answer the questions based on the</b><br/><br/><b>information given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>F has meeting on ______.<br/>",
     "options": [
       {
         "id": "A",
@@ -28,30 +28,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Starting Point:\nClues:\n1.) Two persons have meeting before the one,\nwho belongs to Egypt.\n2.) E has meeting on Saturday.\n3.) Person, who belongs to Mexico, has meeting\non Sunday.\n4.) B has meeting two days before A, who\nbelongs to neither Egypt nor Mexico.\nInference:\nFrom (4), B can have meeting on either Tuesday\nor Wednesday.\nClues:\n5.) F, who belongs to Italy, does not have meeting\non Monday.\nInference:\nFrom (5), in case 2, F can have meeting on either\nThursday or Tuesday.\nClues:\n6.) Person, who belongs to Germany, has meeting\njust before C, who does not belong to Mexico.\n7.) D belongs to Spain.\nInference:\nFrom (6), case 2(b) must be rejected and from (7),\ncase 2(a) must be rejected. Also, G must belong\nto Mexico.\nF has meeting on Friday.\nHence, option (c) is the correct answer.",
-    "explanationHtml": "Starting Point:<br/>Clues:<br/>1.) Two persons have meeting before the one,<br/>who belongs to Egypt.<br/>2.) E has meeting on Saturday.<br/>3.) Person, who belongs to Mexico, has meeting<br/>on Sunday.<br/>4.) B has meeting two days before A, who<br/>belongs to neither Egypt nor Mexico.<br/>Inference:<br/>From (4), B can have meeting on either Tuesday<br/>or Wednesday.<br/>Clues:<br/>5.) F, who belongs to Italy, does not have meeting<br/>on Monday.<br/>Inference:<br/>From (5), in case 2, F can have meeting on either<br/>Thursday or Tuesday.<br/>Clues:<br/>6.) Person, who belongs to Germany, has meeting<br/>just before C, who does not belong to Mexico.<br/>7.) D belongs to Spain.<br/>Inference:<br/>From (6), case 2(b) must be rejected and from (7),<br/>case 2(a) must be rejected. Also, G must belong<br/>to Mexico.<br/>F has meeting on Friday.<br/>Hence, option (c) is the correct answer.",
+    "optionsHtml": [
+      "Tuesday",
+      "Saturday",
+      "Friday",
+      "Thursday",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Starting Point:\n\nClues:\n\n1.) Two persons have meeting before the one,\n\nwho belongs to Egypt.\n\n2.) E has meeting on Saturday.\n\n3.) Person, who belongs to Mexico, has meeting\n\non Sunday.\n\n4.) B has meeting two days before A, who\n\nbelongs to neither Egypt nor Mexico.\n\nInference:\n\nFrom (4), B can have meeting on either Tuesday\n\nor Wednesday.\n\nClues:\n\n5.) F, who belongs to Italy, does not have meeting\n\non Monday.\n\nInference:\n\nFrom (5), in case 2, F can have meeting on either\n\nThursday or Tuesday.\n\nClues:\n\n6.) Person, who belongs to Germany, has meeting\n\njust before C, who does not belong to Mexico.\n\n7.) D belongs to Spain.\n\nInference:\n\nFrom (6), case 2(b) must be rejected and from (7),\n\ncase 2(a) must be rejected. Also, G must belong\n\nto Mexico.\n\nF has meeting on Friday.\n\nHence, option (c) is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "1",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      1
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Directions:Answer the questions based on the\n\ninformation given below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nF has meeting on ______.",
+    "metadata": {
+      "questionNumber": "1",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "2",
-    "level": "Level-1",
-    "question": "Answer the questions based on the information\ngiven below.\nSeven persons A, B, C, D, E, F and G have\nmeetings on different days of a week from\nMonday to Sunday but not necessarily in same\norder. Each of them belongs to different\ncountries among Egypt, Italy, India, France,\nMexico, Germany and Spain.\nD belongs to Spain. F, who belongs to Italy, does\nnot have meeting on Monday. Two persons have\nmeeting before the one, who belongs to Egypt. E\nhas meeting on Saturday. Person, who belongs to\nMexico, has meeting on Sunday. B has meeting\ntwo days before A, who belongs to neither Egypt\nnor Mexico. Person, who belongs to Germany,\nhas meeting just before C, who does not belong\nto Mexico.\nHow many persons have meeting before A?",
-    "questionHtml": "Answer the questions based on the information<br/>given below.<br/>Seven persons A, B, C, D, E, F and G have<br/>meetings on different days of a week from<br/>Monday to Sunday but not necessarily in same<br/>order. Each of them belongs to different<br/>countries among Egypt, Italy, India, France,<br/>Mexico, Germany and Spain.<br/>D belongs to Spain. F, who belongs to Italy, does<br/>not have meeting on Monday. Two persons have<br/>meeting before the one, who belongs to Egypt. E<br/>has meeting on Saturday. Person, who belongs to<br/>Mexico, has meeting on Sunday. B has meeting<br/>two days before A, who belongs to neither Egypt<br/>nor Mexico. Person, who belongs to Germany,<br/>has meeting just before C, who does not belong<br/>to Mexico.<br/>How many persons have meeting before A?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_2",
+    "question": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nHow many persons have meeting before A?",
+    "question_html": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>How many persons have meeting before A?<br/>",
+    "questionHtml": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>How many persons have meeting before A?<br/>",
     "options": [
       {
         "id": "A",
@@ -76,30 +108,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
+    "optionsHtml": [
+      "Four",
+      "Three",
+      "Two",
+      "Five",
+      "None of these<br/><br/>"
+    ],
     "explanation": "",
+    "explanation_html": "",
     "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "2",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      1
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nHow many persons have meeting before A?",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "3",
-    "level": "Level-1",
-    "question": "Answer the questions based on the information\ngiven below.\nSeven persons A, B, C, D, E, F and G have\nmeetings on different days of a week from\nMonday to Sunday but not necessarily in same\norder. Each of them belongs to different\ncountries among Egypt, Italy, India, France,\nMexico, Germany and Spain.\nD belongs to Spain. F, who belongs to Italy, does\nnot have meeting on Monday. Two persons have\nmeeting before the one, who belongs to Egypt. E\nhas meeting on Saturday. Person, who belongs to\nMexico, has meeting on Sunday. B has meeting\ntwo days before A, who belongs to neither Egypt\nnor Mexico. Person, who belongs to Germany,\nhas meeting just before C, who does not belong\nto Mexico.\nWhich of the following pair is correct?",
-    "questionHtml": "Answer the questions based on the information<br/>given below.<br/>Seven persons A, B, C, D, E, F and G have<br/>meetings on different days of a week from<br/>Monday to Sunday but not necessarily in same<br/>order. Each of them belongs to different<br/>countries among Egypt, Italy, India, France,<br/>Mexico, Germany and Spain.<br/>D belongs to Spain. F, who belongs to Italy, does<br/>not have meeting on Monday. Two persons have<br/>meeting before the one, who belongs to Egypt. E<br/>has meeting on Saturday. Person, who belongs to<br/>Mexico, has meeting on Sunday. B has meeting<br/>two days before A, who belongs to neither Egypt<br/>nor Mexico. Person, who belongs to Germany,<br/>has meeting just before C, who does not belong<br/>to Mexico.<br/>Which of the following pair is correct?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_3",
+    "question": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nWhich of the following pair is correct?",
+    "question_html": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>Which of the following pair is correct?<br/>",
+    "questionHtml": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>Which of the following pair is correct?<br/>",
     "options": [
       {
         "id": "A",
@@ -124,52 +188,110 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
+    "optionsHtml": [
+      "D, Tuesday",
+      "B, Germany",
+      "Monday, F",
+      "Egypt, Saturday",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "3",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      1
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nWhich of the following pair is correct?",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "4",
-    "level": "Level-1",
-    "question": "Scheduling Puzzles -01 \nLevel-1",
-    "questionHtml": "Scheduling Puzzles -01 <br/>Level-1",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_4",
+    "question": "Scheduling Puzzles -01 \n\nLevel-1",
+    "question_html": "<b>Scheduling Puzzles -01</b><b> </b><br/><br/><b>Level-1</b>",
+    "questionHtml": "<b>Scheduling Puzzles -01</b><b> </b><br/><br/><b>Level-1</b>",
     "options": [],
-    "correctAnswer": 4,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
+    "optionsHtml": [],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      1
+    ],
+    "sourcePages": [
+      1
+    ],
+    "level": "Level-1",
+    "question_number": "4",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      1
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        1
+      ]
+    },
+    "textPlain": "Scheduling Puzzles -01 \n\nLevel-1",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "5",
-    "level": "Level-1",
-    "question": "Answer the questions based on the information\ngiven below.\n \nSeven persons A, B, C, D, E, F and G have\nmeetings on different days of a week from\nMonday to Sunday but not necessarily in same\norder. Each of them belongs to different\ncountries among Egypt, Italy, India, France,\nMexico, Germany and Spain.\nD belongs to Spain. F, who belongs to Italy, does\nnot have meeting on Monday. Two persons have\nmeeting before the one, who belongs to Egypt. E\nhas meeting on Saturday. Person, who belongs to\nMexico, has meeting on Sunday. B has meeting\ntwo days before A, who belongs to neither Egypt\nnor Mexico. Person, who belongs to Germany,\nhas meeting just before C, who does not belong\nto Mexico.\n \nWho among the following has meeting on\nSunday?",
-    "questionHtml": "Answer the questions based on the information<br/>given below.<br/> <br/>Seven persons A, B, C, D, E, F and G have<br/>meetings on different days of a week from<br/>Monday to Sunday but not necessarily in same<br/>order. Each of them belongs to different<br/>countries among Egypt, Italy, India, France,<br/>Mexico, Germany and Spain.<br/>D belongs to Spain. F, who belongs to Italy, does<br/>not have meeting on Monday. Two persons have<br/>meeting before the one, who belongs to Egypt. E<br/>has meeting on Saturday. Person, who belongs to<br/>Mexico, has meeting on Sunday. B has meeting<br/>two days before A, who belongs to neither Egypt<br/>nor Mexico. Person, who belongs to Germany,<br/>has meeting just before C, who does not belong<br/>to Mexico.<br/> <br/>Who among the following has meeting on<br/>Sunday?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_5",
+    "question": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nWho among the following has meeting on\n\nSunday?",
+    "question_html": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>Who among the following has meeting on<br/><br/>Sunday?<br/>",
+    "questionHtml": "<b>Answer the questions based on the information</b><br/><br/><b>given below.</b><br/><br/>Seven persons A, B, C, D, E, F and G have<br/><br/>meetings on different days of a week from<br/><br/>Monday to Sunday but not necessarily in same<br/><br/>order. Each of them belongs to different<br/><br/>countries among Egypt, Italy, India, France,<br/><br/>Mexico, Germany and Spain.<br/><br/>D belongs to Spain. F, who belongs to Italy, does<br/><br/>not have meeting on Monday. Two persons have<br/><br/>meeting before the one, who belongs to Egypt. E<br/><br/>has meeting on Saturday. Person, who belongs to<br/><br/>Mexico, has meeting on Sunday. B has meeting<br/><br/>two days before A, who belongs to neither Egypt<br/><br/>nor Mexico. Person, who belongs to Germany,<br/><br/>has meeting just before C, who does not belong<br/><br/>to Mexico.<br/><br/>Who among the following has meeting on<br/><br/>Sunday?<br/>",
     "options": [
       {
         "id": "A",
@@ -194,35 +316,67 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
+    "optionsHtml": [
+      "A",
+      "B",
+      "G",
+      "F",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "5",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      2
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Answer the questions based on the information\n\ngiven below.\n\nSeven persons A, B, C, D, E, F and G have\n\nmeetings on different days of a week from\n\nMonday to Sunday but not necessarily in same\n\norder. Each of them belongs to different\n\ncountries among Egypt, Italy, India, France,\n\nMexico, Germany and Spain.\n\nD belongs to Spain. F, who belongs to Italy, does\n\nnot have meeting on Monday. Two persons have\n\nmeeting before the one, who belongs to Egypt. E\n\nhas meeting on Saturday. Person, who belongs to\n\nMexico, has meeting on Sunday. B has meeting\n\ntwo days before A, who belongs to neither Egypt\n\nnor Mexico. Person, who belongs to Germany,\n\nhas meeting just before C, who does not belong\n\nto Mexico.\n\nWho among the following has meeting on\n\nSunday?",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "6",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions given below.\n \nSeven persons i.e L,M,N,O,P,Q and R conduct\nworkshop in seven different companies A, B, C, D,\nE, F and G on different days of the same week\nstarting from Monday and ending on Sunday. All\ninformation is not necessarily in the same order.\nR conducts a workshop after Friday in company",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions given below.<br/> <br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/>workshop in seven different companies A, B, C, D,<br/>E, F and G on different days of the same week<br/>starting from Monday and ending on Sunday. All<br/>information is not necessarily in the same order.<br/>R conducts a workshop after Friday in company",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_6",
+    "question": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts a workshop after Friday in company",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts a workshop after Friday in company<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts a workshop after Friday in company<br/>",
     "options": [
       {
         "id": "D",
-        "text": "Two persons conduct workshop between R\nand O. L conducts workshop before O but not on\nMonday. \nTwo \npersons \nconduct \nworkshop\nbetween L and the person who conducts\nworkshop in company F. P conducts workshop in\ncompany F but not on Saturday. P conducts\nworkshop either just after or just before R. Q\nconducts workshop in company C but before\nThursday. N conducts workshop before M. O\nconducts workshop in company A. L does not\nconduct workshop in company G and B.M does\nnot conduct workshop in company G.\n \nWho among the following person conduct\nworkshop on Friday?",
-        "html": "Two persons conduct workshop between R\nand O. L conducts workshop before O but not on\nMonday. \nTwo \npersons \nconduct \nworkshop\nbetween L and the person who conducts\nworkshop in company F. P conducts workshop in\ncompany F but not on Saturday. P conducts\nworkshop either just after or just before R. Q\nconducts workshop in company C but before\nThursday. N conducts workshop before M. O\nconducts workshop in company A. L does not\nconduct workshop in company G and B.M does\nnot conduct workshop in company G.\n \nWho among the following person conduct\nworkshop on Friday?"
+        "text": "Two persons conduct workshop between R\n\nand O. L conducts workshop before O but not on\n\nMonday. \nTwo \npersons \nconduct \nworkshop\n\nbetween L and the person who conducts\n\nworkshop in company F. P conducts workshop in\n\ncompany F but not on Saturday. P conducts\n\nworkshop either just after or just before R. Q\n\nconducts workshop in company C but before\n\nThursday. N conducts workshop before M. O\n\nconducts workshop in company A. L does not\n\nconduct workshop in company G and B.M does\n\nnot conduct workshop in company G.\n\nWho among the following person conduct\n\nworkshop on Friday?",
+        "html": "Two persons conduct workshop between R<br/><br/>and O. L conducts workshop before O but not on<br/><br/>Monday. <br/>Two <br/>persons <br/>conduct <br/>workshop<br/><br/>between L and the person who conducts<br/><br/>workshop in company F. P conducts workshop in<br/><br/>company F but not on Saturday. P conducts<br/><br/>workshop either just after or just before R. Q<br/><br/>conducts workshop in company C but before<br/><br/>Thursday. N conducts workshop before M. O<br/><br/>conducts workshop in company A. L does not<br/><br/>conduct workshop in company G and B.M does<br/><br/>not conduct workshop in company G.<br/><br/>Who among the following person conduct<br/><br/>workshop on Friday?"
       },
       {
         "id": "A",
@@ -247,52 +401,111 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 0,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases",
+    "optionsHtml": [
+      "Two persons conduct workshop between R<br/><br/>and O. L conducts workshop before O but not on<br/><br/>Monday. <br/>Two <br/>persons <br/>conduct <br/>workshop<br/><br/>between L and the person who conducts<br/><br/>workshop in company F. P conducts workshop in<br/><br/>company F but not on Saturday. P conducts<br/><br/>workshop either just after or just before R. Q<br/><br/>conducts workshop in company C but before<br/><br/>Thursday. N conducts workshop before M. O<br/><br/>conducts workshop in company A. L does not<br/><br/>conduct workshop in company G and B.M does<br/><br/>not conduct workshop in company G.<br/><br/>Who among the following person conduct<br/><br/>workshop on Friday?",
+      "P",
+      "R",
+      "M",
+      "O",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "6",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      2
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts a workshop after Friday in company",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "7",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions given below.\n \nSeven persons i.e L,M,N,O,P,Q and R conduct\nworkshop in seven different companies A, B, C, D,\nE, F and G on different days of the same week\nstarting from Monday and ending on Sunday. All\ninformation is not necessarily in the same order.\nR conducts workshop after Friday in company D.\nTwo persons conduct workshop between R and",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions given below.<br/> <br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/>workshop in seven different companies A, B, C, D,<br/>E, F and G on different days of the same week<br/>starting from Monday and ending on Sunday. All<br/>information is not necessarily in the same order.<br/>R conducts workshop after Friday in company D.<br/>Two persons conduct workshop between R and",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_7",
+    "question": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts workshop after Friday in company D.\n\nTwo persons conduct workshop between R and",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts workshop after Friday in company D.<br/><br/>Two persons conduct workshop between R and",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts workshop after Friday in company D.<br/><br/>Two persons conduct workshop between R and",
     "options": [],
-    "correctAnswer": 4,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases\ni.e case1 and case2. Two persons conduct\nworkshop between R and O. L conducts\nworkshop before O but not on Monday. Two\npersons conduct workshop between L and the\nperson who conducts workshop in company F. P\nconducts workshop in company F but not on\nSaturday.\nP conducts workshop either just after or just\nbefore R. Thus case 2 get eliminated. Q conducts\nworkshop in company C but before Thursday. N\nconducts workshop before M. O conducts\nworkshop in company A. L does not conduct\nworkshop in company G and B.M does not\nconduct workshop in company G. Thus our final\narrangement is:",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases<br/>i.e case1 and case2. Two persons conduct<br/>workshop between R and O. L conducts<br/>workshop before O but not on Monday. Two<br/>persons conduct workshop between L and the<br/>person who conducts workshop in company F. P<br/>conducts workshop in company F but not on<br/>Saturday.<br/>P conducts workshop either just after or just<br/>before R. Thus case 2 get eliminated. Q conducts<br/>workshop in company C but before Thursday. N<br/>conducts workshop before M. O conducts<br/>workshop in company A. L does not conduct<br/>workshop in company G and B.M does not<br/>conduct workshop in company G. Thus our final<br/>arrangement is:",
+    "optionsHtml": [],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases\n\ni.e case1 and case2. Two persons conduct\n\nworkshop between R and O. L conducts\n\nworkshop before O but not on Monday. Two\n\npersons conduct workshop between L and the\n\nperson who conducts workshop in company F. P\n\nconducts workshop in company F but not on\n\nSaturday.\n\nP conducts workshop either just after or just\n\nbefore R. Thus case 2 get eliminated. Q conducts\n\nworkshop in company C but before Thursday. N\n\nconducts workshop before M. O conducts\n\nworkshop in company A. L does not conduct\n\nworkshop in company G and B.M does not\n\nconduct workshop in company G. Thus our final\n\narrangement is:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      2
+    ],
+    "sourcePages": [
+      2
+    ],
+    "level": "Level-1",
+    "question_number": "7",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      2
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        2
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts workshop after Friday in company D.\n\nTwo persons conduct workshop between R and",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "8",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions given below.\n \nSeven persons i.e L,M,N,O,P,Q and R conduct\nworkshop in seven different companies A, B, C, D,\nE, F and G on different days of the same week\nstarting from Monday and ending on Sunday. All\ninformation is not necessarily in the same order.\nR conducts workshop after Friday in company D.\nTwo persons conduct workshop between R and\nO. L conducts workshop before O but not on\nMonday. \nTwo \npersons \nconduct \nworkshop\nbetween L and the person who conducts\nworkshop in company F. P conducts workshop in\ncompany F but not on Saturday. P conducts\nworkshop either just after or just before R. Q\nconducts workshop in company C but before\nThursday. N conducts workshop before M. O\nconducts workshop in company A. L does not\nconduct workshop in company G and B.M does\nnot conduct workshop in company G.\n \nIn which company does M work?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions given below.<br/> <br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/>workshop in seven different companies A, B, C, D,<br/>E, F and G on different days of the same week<br/>starting from Monday and ending on Sunday. All<br/>information is not necessarily in the same order.<br/>R conducts workshop after Friday in company D.<br/>Two persons conduct workshop between R and<br/>O. L conducts workshop before O but not on<br/>Monday. <br/>Two <br/>persons <br/>conduct <br/>workshop<br/>between L and the person who conducts<br/>workshop in company F. P conducts workshop in<br/>company F but not on Saturday. P conducts<br/>workshop either just after or just before R. Q<br/>conducts workshop in company C but before<br/>Thursday. N conducts workshop before M. O<br/>conducts workshop in company A. L does not<br/>conduct workshop in company G and B.M does<br/>not conduct workshop in company G.<br/> <br/>In which company does M work?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_8",
+    "question": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts workshop after Friday in company D.\n\nTwo persons conduct workshop between R and\n\nO. L conducts workshop before O but not on\n\nMonday. \nTwo \npersons \nconduct \nworkshop\n\nbetween L and the person who conducts\n\nworkshop in company F. P conducts workshop in\n\ncompany F but not on Saturday. P conducts\n\nworkshop either just after or just before R. Q\n\nconducts workshop in company C but before\n\nThursday. N conducts workshop before M. O\n\nconducts workshop in company A. L does not\n\nconduct workshop in company G and B.M does\n\nnot conduct workshop in company G.\n\nIn which company does M work?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts workshop after Friday in company D.<br/><br/>Two persons conduct workshop between R and<br/><br/>O. L conducts workshop before O but not on<br/><br/>Monday. <br/>Two <br/>persons <br/>conduct <br/>workshop<br/><br/>between L and the person who conducts<br/><br/>workshop in company F. P conducts workshop in<br/><br/>company F but not on Saturday. P conducts<br/><br/>workshop either just after or just before R. Q<br/><br/>conducts workshop in company C but before<br/><br/>Thursday. N conducts workshop before M. O<br/><br/>conducts workshop in company A. L does not<br/><br/>conduct workshop in company G and B.M does<br/><br/>not conduct workshop in company G.<br/><br/>In which company does M work?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions given below.</b><br/><br/>Seven persons i.e L,M,N,O,P,Q and R conduct<br/><br/>workshop in seven different companies A, B, C, D,<br/><br/>E, F and G on different days of the same week<br/><br/>starting from Monday and ending on Sunday. All<br/><br/>information is not necessarily in the same order.<br/><br/>R conducts workshop after Friday in company D.<br/><br/>Two persons conduct workshop between R and<br/><br/>O. L conducts workshop before O but not on<br/><br/>Monday. <br/>Two <br/>persons <br/>conduct <br/>workshop<br/><br/>between L and the person who conducts<br/><br/>workshop in company F. P conducts workshop in<br/><br/>company F but not on Saturday. P conducts<br/><br/>workshop either just after or just before R. Q<br/><br/>conducts workshop in company C but before<br/><br/>Thursday. N conducts workshop before M. O<br/><br/>conducts workshop in company A. L does not<br/><br/>conduct workshop in company G and B.M does<br/><br/>not conduct workshop in company G.<br/><br/>In which company does M work?<br/>",
     "options": [
       {
         "id": "A",
@@ -317,30 +530,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases\ni.e case1 and case2. Two persons conduct\nworkshop between R and O. L conducts\nworkshop before O but not on Monday. Two\npersons conduct workshop between L and the\nperson who conducts workshop in company F. P\nconducts workshop in company F but not on\nSaturday.",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases<br/>i.e case1 and case2. Two persons conduct<br/>workshop between R and O. L conducts<br/>workshop before O but not on Monday. Two<br/>persons conduct workshop between L and the<br/>person who conducts workshop in company F. P<br/>conducts workshop in company F but not on<br/>Saturday.",
+    "optionsHtml": [
+      "E",
+      "A",
+      "F",
+      "B",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases\n\ni.e case1 and case2. Two persons conduct\n\nworkshop between R and O. L conducts\n\nworkshop before O but not on Monday. Two\n\npersons conduct workshop between L and the\n\nperson who conducts workshop in company F. P\n\nconducts workshop in company F but not on\n\nSaturday.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "8",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      3
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions given below.\n\nSeven persons i.e L,M,N,O,P,Q and R conduct\n\nworkshop in seven different companies A, B, C, D,\n\nE, F and G on different days of the same week\n\nstarting from Monday and ending on Sunday. All\n\ninformation is not necessarily in the same order.\n\nR conducts workshop after Friday in company D.\n\nTwo persons conduct workshop between R and\n\nO. L conducts workshop before O but not on\n\nMonday. \nTwo \npersons \nconduct \nworkshop\n\nbetween L and the person who conducts\n\nworkshop in company F. P conducts workshop in\n\ncompany F but not on Saturday. P conducts\n\nworkshop either just after or just before R. Q\n\nconducts workshop in company C but before\n\nThursday. N conducts workshop before M. O\n\nconducts workshop in company A. L does not\n\nconduct workshop in company G and B.M does\n\nnot conduct workshop in company G.\n\nIn which company does M work?",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "9",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFive people John, Karan, Lalit, Mayank, and Nitin\ngo on holiday on five different days of the same\nweek starting from Monday. Karan goes on\nholiday after Nitin. John goes on holiday\nimmediately before Mayank. At least one person\ngoes between Nitin and Karan. Two people go on\nholiday between John and Lalit. Mayank goes on\nholiday after Tuesday.\n \nFind the correct combination.",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/>go on holiday on five different days of the same<br/>week starting from Monday. Karan goes on<br/>holiday after Nitin. John goes on holiday<br/>immediately before Mayank. At least one person<br/>goes between Nitin and Karan. Two people go on<br/>holiday between John and Lalit. Mayank goes on<br/>holiday after Tuesday.<br/> <br/>Find the correct combination.",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_9",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nFind the correct combination.",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Find the correct combination.<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Find the correct combination.<br/>",
     "options": [
       {
         "id": "A",
@@ -365,30 +610,62 @@
       {
         "id": "E",
         "text": "None is correct",
-        "html": "None is correct"
+        "html": "None is correct<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.\n3) Two people go on holiday between John and\nLalit.\n(Here, case 2 will be eliminated and we will\ncontinue with the remaining cases)\n4) Karan goes on holiday after Nitin.\n5) At least one person goes between Nitin and\nKaran.\n(Here, case 3 will be eliminated)\nTherefore, option C is the correct answer",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.<br/>3) Two people go on holiday between John and<br/>Lalit.<br/>(Here, case 2 will be eliminated and we will<br/>continue with the remaining cases)<br/>4) Karan goes on holiday after Nitin.<br/>5) At least one person goes between Nitin and<br/>Karan.<br/>(Here, case 3 will be eliminated)<br/>Therefore, option C is the correct answer",
+    "optionsHtml": [
+      "Lalit - Thursday",
+      "John - Monday",
+      "Karan - Thursday",
+      "Mayank - Tuesday",
+      "None is correct<br/><br/>"
+    ],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.\n\n3) Two people go on holiday between John and\n\nLalit.\n\n(Here, case 2 will be eliminated and we will\n\ncontinue with the remaining cases)\n\n4) Karan goes on holiday after Nitin.\n\n5) At least one person goes between Nitin and\n\nKaran.\n\n(Here, case 3 will be eliminated)\n\nTherefore, option C is the correct answer",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "9",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      3
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nFind the correct combination.",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "10",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFive people John, Karan, Lalit, Mayank, and Nitin\ngo on holiday on five different days of the same\nweek starting from Monday. Karan goes on\nholiday after Nitin. John goes on holiday\nimmediately before Mayank. At least one person\ngoes between Nitin and Karan. Two people go on\nholiday between John and Lalit. Mayank goes on\nholiday after Tuesday.\n \nHow many people go on holiday after Mayank?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/>go on holiday on five different days of the same<br/>week starting from Monday. Karan goes on<br/>holiday after Nitin. John goes on holiday<br/>immediately before Mayank. At least one person<br/>goes between Nitin and Karan. Two people go on<br/>holiday between John and Lalit. Mayank goes on<br/>holiday after Tuesday.<br/> <br/>How many people go on holiday after Mayank?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_10",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nHow many people go on holiday after Mayank?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>How many people go on holiday after Mayank?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>How many people go on holiday after Mayank?<br/>",
     "options": [
       {
         "id": "A",
@@ -413,52 +690,110 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.",
+    "optionsHtml": [
+      "Four",
+      "One",
+      "Three",
+      "Two",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "10",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      3
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nHow many people go on holiday after Mayank?",
+    "metadata": {
+      "questionNumber": "10",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "11",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFive people John, Karan, Lalit, Mayank, and Nitin\ngo on holiday on five different days of the same\nweek starting from Monday. Karan goes on\nholiday after Nitin. John goes on holiday",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/>go on holiday on five different days of the same<br/>week starting from Monday. Karan goes on<br/>holiday after Nitin. John goes on holiday",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_11",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday",
     "options": [],
-    "correctAnswer": 1,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.\n3) Two people go on holiday between John and\nLalit.\n(Here, case 2 will be eliminated and we will\ncontinue with the remaining cases)\n4) Karan goes on holiday after Nitin.\n5) At least one person goes between Nitin and\nKaran.\n(Here, case 3 will be eliminated)",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.<br/>3) Two people go on holiday between John and<br/>Lalit.<br/>(Here, case 2 will be eliminated and we will<br/>continue with the remaining cases)<br/>4) Karan goes on holiday after Nitin.<br/>5) At least one person goes between Nitin and<br/>Karan.<br/>(Here, case 3 will be eliminated)",
+    "optionsHtml": [],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.\n\n3) Two people go on holiday between John and\n\nLalit.\n\n(Here, case 2 will be eliminated and we will\n\ncontinue with the remaining cases)\n\n4) Karan goes on holiday after Nitin.\n\n5) At least one person goes between Nitin and\n\nKaran.\n\n(Here, case 3 will be eliminated)",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      3
+    ],
+    "sourcePages": [
+      3
+    ],
+    "level": "Level-1",
+    "question_number": "11",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      3
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        3
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday",
+    "metadata": {
+      "questionNumber": "11",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "12",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFive people John, Karan, Lalit, Mayank, and Nitin\ngo on holiday on five different days of the same\nweek starting from Monday. Karan goes on\nholiday after Nitin. John goes on holiday\nimmediately before Mayank. At least one person\ngoes between Nitin and Karan. Two people go on\nholiday between John and Lalit. Mayank goes on\nholiday after Tuesday.\n \nWho goes on holiday on Thursday?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/>go on holiday on five different days of the same<br/>week starting from Monday. Karan goes on<br/>holiday after Nitin. John goes on holiday<br/>immediately before Mayank. At least one person<br/>goes between Nitin and Karan. Two people go on<br/>holiday between John and Lalit. Mayank goes on<br/>holiday after Tuesday.<br/> <br/>Who goes on holiday on Thursday?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_12",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nWho goes on holiday on Thursday?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Who goes on holiday on Thursday?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Who goes on holiday on Thursday?<br/>",
     "options": [
       {
         "id": "A",
@@ -483,30 +818,62 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.\n3) Two people go on holiday between John and\nLalit.\n(Here, case 2 will be eliminated and we will\ncontinue with the remaining cases)\n4) Karan goes on holiday after Nitin.\n5) At least one person goes between Nitin and\nKaran.\n(Here, case 3 will be eliminated)\nTherefore, option C is the correct answer.",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.<br/>3) Two people go on holiday between John and<br/>Lalit.<br/>(Here, case 2 will be eliminated and we will<br/>continue with the remaining cases)<br/>4) Karan goes on holiday after Nitin.<br/>5) At least one person goes between Nitin and<br/>Karan.<br/>(Here, case 3 will be eliminated)<br/>Therefore, option C is the correct answer.",
+    "optionsHtml": [
+      "John",
+      "Mayank",
+      "Karan",
+      "Lalit",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.\n\n3) Two people go on holiday between John and\n\nLalit.\n\n(Here, case 2 will be eliminated and we will\n\ncontinue with the remaining cases)\n\n4) Karan goes on holiday after Nitin.\n\n5) At least one person goes between Nitin and\n\nKaran.\n\n(Here, case 3 will be eliminated)\n\nTherefore, option C is the correct answer.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-1",
+    "question_number": "12",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      4
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nWho goes on holiday on Thursday?",
+    "metadata": {
+      "questionNumber": "12",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "13",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nFive people John, Karan, Lalit, Mayank, and Nitin\ngo on holiday on five different days of the same\nweek starting from Monday. Karan goes on\nholiday after Nitin. John goes on holiday\nimmediately before Mayank. At least one person\ngoes between Nitin and Karan. Two people go on\nholiday between John and Lalit. Mayank goes on\nholiday after Tuesday.\n \nWho goes on holiday on the first day?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/>go on holiday on five different days of the same<br/>week starting from Monday. Karan goes on<br/>holiday after Nitin. John goes on holiday<br/>immediately before Mayank. At least one person<br/>goes between Nitin and Karan. Two people go on<br/>holiday between John and Lalit. Mayank goes on<br/>holiday after Tuesday.<br/> <br/>Who goes on holiday on the first day?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_13",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nWho goes on holiday on the first day?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Who goes on holiday on the first day?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Five people John, Karan, Lalit, Mayank, and Nitin<br/><br/>go on holiday on five different days of the same<br/><br/>week starting from Monday. Karan goes on<br/><br/>holiday after Nitin. John goes on holiday<br/><br/>immediately before Mayank. At least one person<br/><br/>goes between Nitin and Karan. Two people go on<br/><br/>holiday between John and Lalit. Mayank goes on<br/><br/>holiday after Tuesday.<br/><br/>Who goes on holiday on the first day?<br/>",
     "options": [
       {
         "id": "A",
@@ -531,35 +898,67 @@
       {
         "id": "E",
         "text": "None of these",
-        "html": "None of these"
+        "html": "None of these<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.\n3) Two people go on holiday between John and\nLalit.\n(Here, case 2 will be eliminated and we will\ncontinue with the remaining cases)\n4) Karan goes on holiday after Nitin.",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.<br/>3) Two people go on holiday between John and<br/>Lalit.<br/>(Here, case 2 will be eliminated and we will<br/>continue with the remaining cases)<br/>4) Karan goes on holiday after Nitin.",
+    "optionsHtml": [
+      "Mayank",
+      "Lalit",
+      "Nitin",
+      "John",
+      "None of these<br/><br/>"
+    ],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.\n\n3) Two people go on holiday between John and\n\nLalit.\n\n(Here, case 2 will be eliminated and we will\n\ncontinue with the remaining cases)\n\n4) Karan goes on holiday after Nitin.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-1",
+    "question_number": "13",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      4
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nFive people John, Karan, Lalit, Mayank, and Nitin\n\ngo on holiday on five different days of the same\n\nweek starting from Monday. Karan goes on\n\nholiday after Nitin. John goes on holiday\n\nimmediately before Mayank. At least one person\n\ngoes between Nitin and Karan. Two people go on\n\nholiday between John and Lalit. Mayank goes on\n\nholiday after Tuesday.\n\nWho goes on holiday on the first day?",
+    "metadata": {
+      "questionNumber": "13",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "14",
-    "level": "Level-1",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nM, C, S, A, E, K and H are seven classmates and\nthey have Birthdays on seven different days of\nweek (Starting from Sunday and ending on\nSaturday) but not in the same order. M has a\nBirthday on the day which starts from the same\nletter as the day on which K has a Birthday starts\nfrom the letter. K’s birthday does not start with S.\nOnly one person has a Birthday between K and",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>M, C, S, A, E, K and H are seven classmates and<br/>they have Birthdays on seven different days of<br/>week (Starting from Sunday and ending on<br/>Saturday) but not in the same order. M has a<br/>Birthday on the day which starts from the same<br/>letter as the day on which K has a Birthday starts<br/>from the letter. K’s birthday does not start with S.<br/>Only one person has a Birthday between K and",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_14",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday starts\n\nfrom the letter. K’s birthday does not start with S.\n\nOnly one person has a Birthday between K and",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday starts<br/><br/>from the letter. K’s birthday does not start with S.<br/><br/>Only one person has a Birthday between K and<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday starts<br/><br/>from the letter. K’s birthday does not start with S.<br/><br/>Only one person has a Birthday between K and<br/>",
     "options": [
       {
         "id": "A",
-        "text": "H has a Birthday immediately before S who\nhas her Birthday neither on Wednesday nor on\nFriday. Less than two classmates have birthdays\nbetween the birthday of H and the Birthday of E.\nC has neither a Birthday immediately after the\nBirthday of K nor has a Birthday on Friday.\nHow many days are there in between the\nbirthday of H and the birthday of C?",
-        "html": "H has a Birthday immediately before S who\nhas her Birthday neither on Wednesday nor on\nFriday. Less than two classmates have birthdays\nbetween the birthday of H and the Birthday of E.\nC has neither a Birthday immediately after the\nBirthday of K nor has a Birthday on Friday.\nHow many days are there in between the\nbirthday of H and the birthday of C?"
+        "text": "H has a Birthday immediately before S who\n\nhas her Birthday neither on Wednesday nor on\n\nFriday. Less than two classmates have birthdays\n\nbetween the birthday of H and the Birthday of E.\n\nC has neither a Birthday immediately after the\n\nBirthday of K nor has a Birthday on Friday.\n\nHow many days are there in between the\n\nbirthday of H and the birthday of C?",
+        "html": "H has a Birthday immediately before S who<br/><br/>has her Birthday neither on Wednesday nor on<br/><br/>Friday. Less than two classmates have birthdays<br/><br/>between the birthday of H and the Birthday of E.<br/><br/>C has neither a Birthday immediately after the<br/><br/>Birthday of K nor has a Birthday on Friday.<br/><br/>How many days are there in between the<br/><br/>birthday of H and the birthday of C?"
       },
       {
         "id": "A",
@@ -584,30 +983,63 @@
       {
         "id": "E",
         "text": "More than three",
-        "html": "More than three"
+        "html": "More than three<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "STEP I: M has a Birthday on the day which starts\nfrom the same letter as the day on which K has a\nBirthday starts from the letter. K’s birthday does\nnot starts with S.\nAs per this statement, there are two possible\ncases and the arrangement will look like this:\nSTEP II: Only one classmate has a birthday\nbetween K and A.\nAs per this statement, the arrangement will look\nlike this:",
-    "explanationHtml": "STEP I: M has a Birthday on the day which starts<br/>from the same letter as the day on which K has a<br/>Birthday starts from the letter. K’s birthday does<br/>not starts with S.<br/>As per this statement, there are two possible<br/>cases and the arrangement will look like this:<br/>STEP II: Only one classmate has a birthday<br/>between K and A.<br/>As per this statement, the arrangement will look<br/>like this:",
+    "optionsHtml": [
+      "H has a Birthday immediately before S who<br/><br/>has her Birthday neither on Wednesday nor on<br/><br/>Friday. Less than two classmates have birthdays<br/><br/>between the birthday of H and the Birthday of E.<br/><br/>C has neither a Birthday immediately after the<br/><br/>Birthday of K nor has a Birthday on Friday.<br/><br/>How many days are there in between the<br/><br/>birthday of H and the birthday of C?",
+      "One",
+      "None",
+      "Two",
+      "Three",
+      "More than three<br/><br/>"
+    ],
+    "explanation": "STEP I: M has a Birthday on the day which starts\n\nfrom the same letter as the day on which K has a\n\nBirthday starts from the letter. K’s birthday does\n\nnot starts with S.\n\nAs per this statement, there are two possible\n\ncases and the arrangement will look like this:\n\nSTEP II: Only one classmate has a birthday\n\nbetween K and A.\n\nAs per this statement, the arrangement will look\n\nlike this:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      4
+    ],
+    "sourcePages": [
+      4
+    ],
+    "level": "Level-1",
+    "question_number": "14",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      4
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        4
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday starts\n\nfrom the letter. K’s birthday does not start with S.\n\nOnly one person has a Birthday between K and",
+    "metadata": {
+      "questionNumber": "14",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "16",
-    "level": "Level-1",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nM, C, S, A, E, K and H are seven classmates and\nthey have Birthdays on seven different days of\nweek (Starting from Sunday and ending on\nSaturday) but not in the same order. M has a\nBirthday on the day which starts from the same\nletter as the day on which K has a Birthday. K’s\nbirthday does not start with S. Only one person\nhas a Birthday between K and A. H has a Birthday\nimmediately before S who has her Birthday\nneither on Wednesday nor on Friday. Less than\ntwo classmates have birthdays between the\nbirthday of H and the Birthday of E. C has neither\na Birthday immediately after the Birthday of K\nnor has a Birthday on Friday.\nOn which day H has celebrated birthday?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>M, C, S, A, E, K and H are seven classmates and<br/>they have Birthdays on seven different days of<br/>week (Starting from Sunday and ending on<br/>Saturday) but not in the same order. M has a<br/>Birthday on the day which starts from the same<br/>letter as the day on which K has a Birthday. K’s<br/>birthday does not start with S. Only one person<br/>has a Birthday between K and A. H has a Birthday<br/>immediately before S who has her Birthday<br/>neither on Wednesday nor on Friday. Less than<br/>two classmates have birthdays between the<br/>birthday of H and the Birthday of E. C has neither<br/>a Birthday immediately after the Birthday of K<br/>nor has a Birthday on Friday.<br/>On which day H has celebrated birthday?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_15",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nOn which day H has celebrated birthday?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>On which day H has celebrated birthday?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>On which day H has celebrated birthday?<br/>",
     "options": [
       {
         "id": "A",
@@ -632,30 +1064,62 @@
       {
         "id": "E",
         "text": "Tuesday",
-        "html": "Tuesday"
+        "html": "Tuesday<br/><br/>"
       }
     ],
-    "correctAnswer": 2,
-    "explanation": "STEP I: M has a Birthday on the day which starts\nfrom the same letter as the day on which K has a\nBirthday starts from the letter. K’s birthday does\nnot starts with S.\nAs per this statement, there are two possible\ncases and the arrangement will look like this:\nSTEP II: Only one classmate has a birthday\nbetween K and A.\nAs per this statement, the arrangement will look\nlike this:\nSTEP III: H has a Birthday immediately before S\nwho has her Birthday neither on Wednesday nor\non Friday.\nAs per this statement, the arrangement will look\nlike this:",
-    "explanationHtml": "STEP I: M has a Birthday on the day which starts<br/>from the same letter as the day on which K has a<br/>Birthday starts from the letter. K’s birthday does<br/>not starts with S.<br/>As per this statement, there are two possible<br/>cases and the arrangement will look like this:<br/>STEP II: Only one classmate has a birthday<br/>between K and A.<br/>As per this statement, the arrangement will look<br/>like this:<br/>STEP III: H has a Birthday immediately before S<br/>who has her Birthday neither on Wednesday nor<br/>on Friday.<br/>As per this statement, the arrangement will look<br/>like this:",
+    "optionsHtml": [
+      "Sunday",
+      "Saturday",
+      "Second Last day of week",
+      "Second day of week",
+      "Tuesday<br/><br/>"
+    ],
+    "explanation": "STEP I: M has a Birthday on the day which starts\n\nfrom the same letter as the day on which K has a\n\nBirthday starts from the letter. K’s birthday does\n\nnot starts with S.\n\nAs per this statement, there are two possible\n\ncases and the arrangement will look like this:\n\nSTEP II: Only one classmate has a birthday\n\nbetween K and A.\n\nAs per this statement, the arrangement will look\n\nlike this:\n\nSTEP III: H has a Birthday immediately before S\n\nwho has her Birthday neither on Wednesday nor\n\non Friday.\n\nAs per this statement, the arrangement will look\n\nlike this:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-1",
+    "question_number": "16",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      5
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nOn which day H has celebrated birthday?",
+    "metadata": {
+      "questionNumber": "16",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "17",
-    "level": "Level-1",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nM, C, S, A, E, K and H are seven classmates and\nthey have Birthdays on seven different days of\nweek (Starting from Sunday and ending on\nSaturday) but not in the same order. M has a\nBirthday on the day which starts from the same\nletter as the day on which K has a Birthday. K’s\nbirthday does not start with S. Only one person\nhas a Birthday between K and A. H has a Birthday\nimmediately before S who has her Birthday\nneither on Wednesday nor on Friday. Less than\ntwo classmates have birthdays between the\nbirthday of H and the Birthday of E. C has neither\na Birthday immediately after the Birthday of K\nnor has a Birthday on Friday.\nWhich of the following combinations are not\ntrue?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>M, C, S, A, E, K and H are seven classmates and<br/>they have Birthdays on seven different days of<br/>week (Starting from Sunday and ending on<br/>Saturday) but not in the same order. M has a<br/>Birthday on the day which starts from the same<br/>letter as the day on which K has a Birthday. K’s<br/>birthday does not start with S. Only one person<br/>has a Birthday between K and A. H has a Birthday<br/>immediately before S who has her Birthday<br/>neither on Wednesday nor on Friday. Less than<br/>two classmates have birthdays between the<br/>birthday of H and the Birthday of E. C has neither<br/>a Birthday immediately after the Birthday of K<br/>nor has a Birthday on Friday.<br/>Which of the following combinations are not<br/>true?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_16",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nWhich of the following combinations are not\n\ntrue?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>Which of the following combinations are not<br/><br/>true?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>Which of the following combinations are not<br/><br/>true?<br/>",
     "options": [
       {
         "id": "A",
@@ -680,30 +1144,62 @@
       {
         "id": "E",
         "text": "Saturday-M",
-        "html": "Saturday-M"
+        "html": "Saturday-M<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "STEP I: M has a Birthday on the day which starts\nfrom the same letter as the day on which K has a\nBirthday starts from the letter. K’s birthday does\nnot starts with S.\nAs per this statement, there are two possible\ncases and the arrangement will look like this:\nSTEP II: Only one classmate has a birthday\nbetween K and A.\nAs per this statement, the arrangement will look\nlike this:\nSTEP III: H has a Birthday immediately before S\nwho has her Birthday neither on Wednesday nor\non Friday.\nAs per this statement, the arrangement will look\nlike this:",
-    "explanationHtml": "STEP I: M has a Birthday on the day which starts<br/>from the same letter as the day on which K has a<br/>Birthday starts from the letter. K’s birthday does<br/>not starts with S.<br/>As per this statement, there are two possible<br/>cases and the arrangement will look like this:<br/>STEP II: Only one classmate has a birthday<br/>between K and A.<br/>As per this statement, the arrangement will look<br/>like this:<br/>STEP III: H has a Birthday immediately before S<br/>who has her Birthday neither on Wednesday nor<br/>on Friday.<br/>As per this statement, the arrangement will look<br/>like this:",
+    "optionsHtml": [
+      "Wednesday- E",
+      "Sunday-A",
+      "Friday-H",
+      "Tuesday-K",
+      "Saturday-M<br/><br/>"
+    ],
+    "explanation": "STEP I: M has a Birthday on the day which starts\n\nfrom the same letter as the day on which K has a\n\nBirthday starts from the letter. K’s birthday does\n\nnot starts with S.\n\nAs per this statement, there are two possible\n\ncases and the arrangement will look like this:\n\nSTEP II: Only one classmate has a birthday\n\nbetween K and A.\n\nAs per this statement, the arrangement will look\n\nlike this:\n\nSTEP III: H has a Birthday immediately before S\n\nwho has her Birthday neither on Wednesday nor\n\non Friday.\n\nAs per this statement, the arrangement will look\n\nlike this:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-1",
+    "question_number": "17",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      5
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nWhich of the following combinations are not\n\ntrue?",
+    "metadata": {
+      "questionNumber": "17",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "18",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people go to work on 7 days of the week,\nstarting with Monday. Dev goes to work on one\nof the days before Arav. Two people go to work\nbetween Gianna and Boris. Cathy goes to work\nbefore Gianna but after Eleanor. Only two people\ngo to work after Arav. Boris goes to work after\nGianna. Two people go to work between Dev and\nFiona. Fiona goes to work after Arav. Four people\ngo to work between Cathy and Boris.\n \nFind the odd one out?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Seven people go to work on 7 days of the week,<br/>starting with Monday. Dev goes to work on one<br/>of the days before Arav. Two people go to work<br/>between Gianna and Boris. Cathy goes to work<br/>before Gianna but after Eleanor. Only two people<br/>go to work after Arav. Boris goes to work after<br/>Gianna. Two people go to work between Dev and<br/>Fiona. Fiona goes to work after Arav. Four people<br/>go to work between Cathy and Boris.<br/> <br/>Find the odd one out?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_17",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nFind the odd one out?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Find the odd one out?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Find the odd one out?<br/>",
     "options": [
       {
         "id": "A",
@@ -728,30 +1224,62 @@
       {
         "id": "E",
         "text": "Fiona-Gianna",
-        "html": "Fiona-Gianna"
+        "html": "Fiona-Gianna<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "1. Only two people go to work after Arav.\nCASE 1\n2. Two people go to work between Gianna and\nBoris.\n3. Boris goes to work after Gianna.\n4. Cathy goes to work before Gianna but after\nEleanor.\nCASE 1\nCASE 2\n5. Two people go to work between Dev and\nFiona.\n6. Fiona goes to work after Arav.\n7. Dev goes to work on one of the days before\nArav.\nCASE 1\nCASE 2",
-    "explanationHtml": "1. Only two people go to work after Arav.<br/>CASE 1<br/>2. Two people go to work between Gianna and<br/>Boris.<br/>3. Boris goes to work after Gianna.<br/>4. Cathy goes to work before Gianna but after<br/>Eleanor.<br/>CASE 1<br/>CASE 2<br/>5. Two people go to work between Dev and<br/>Fiona.<br/>6. Fiona goes to work after Arav.<br/>7. Dev goes to work on one of the days before<br/>Arav.<br/>CASE 1<br/>CASE 2",
+    "optionsHtml": [
+      "Eleanor-Dev",
+      "Arav-fiona",
+      "Cathy-Gianna",
+      "Boris-Arav",
+      "Fiona-Gianna<br/><br/>"
+    ],
+    "explanation": "1. Only two people go to work after Arav.\n\nCASE 1\n\n2. Two people go to work between Gianna and\n\nBoris.\n\n3. Boris goes to work after Gianna.\n\n4. Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1\n\nCASE 2\n\n5. Two people go to work between Dev and\n\nFiona.\n\n6. Fiona goes to work after Arav.\n\n7. Dev goes to work on one of the days before\n\nArav.\n\nCASE 1\n\nCASE 2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-1",
+    "question_number": "18",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      5
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nFind the odd one out?",
+    "metadata": {
+      "questionNumber": "18",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "19",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people go to work on 7 days of the week,\nstarting with Monday. Dev goes to work on one\nof the days before Arav. Two people go to work\nbetween Gianna and Boris. Cathy goes to work\nbefore Gianna but after Eleanor. Only two people\ngo to work after Arav. Boris goes to work after\nGianna. Two people go to work between Dev and\nFiona. Fiona goes to work after Arav. Four people\ngo to work between Cathy and Boris.\n \nHow many persons go to work between Fiona\nand Eleanor?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Seven people go to work on 7 days of the week,<br/>starting with Monday. Dev goes to work on one<br/>of the days before Arav. Two people go to work<br/>between Gianna and Boris. Cathy goes to work<br/>before Gianna but after Eleanor. Only two people<br/>go to work after Arav. Boris goes to work after<br/>Gianna. Two people go to work between Dev and<br/>Fiona. Fiona goes to work after Arav. Four people<br/>go to work between Cathy and Boris.<br/> <br/>How many persons go to work between Fiona<br/>and Eleanor?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_18",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nHow many persons go to work between Fiona\n\nand Eleanor?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>How many persons go to work between Fiona<br/><br/>and Eleanor?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>How many persons go to work between Fiona<br/><br/>and Eleanor?<br/>",
     "options": [
       {
         "id": "A",
@@ -776,52 +1304,110 @@
       {
         "id": "E",
         "text": "1",
-        "html": "1"
+        "html": "1<br/><br/>"
       }
     ],
-    "correctAnswer": 1,
-    "explanation": "1. Only two people go to work after Arav.\nCASE 1\n2. Two people go to work between Gianna and\nBoris.\n3. Boris goes to work after Gianna.\n4. Cathy goes to work before Gianna but after\nEleanor.\nCASE 1\nCASE 2",
-    "explanationHtml": "1. Only two people go to work after Arav.<br/>CASE 1<br/>2. Two people go to work between Gianna and<br/>Boris.<br/>3. Boris goes to work after Gianna.<br/>4. Cathy goes to work before Gianna but after<br/>Eleanor.<br/>CASE 1<br/>CASE 2",
+    "optionsHtml": [
+      "5",
+      "4",
+      "3",
+      "2",
+      "1<br/><br/>"
+    ],
+    "explanation": "1. Only two people go to work after Arav.\n\nCASE 1\n\n2. Two people go to work between Gianna and\n\nBoris.\n\n3. Boris goes to work after Gianna.\n\n4. Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1\n\nCASE 2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-1",
+    "question_number": "19",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      5
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nHow many persons go to work between Fiona\n\nand Eleanor?",
+    "metadata": {
+      "questionNumber": "19",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "20",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people go to work on 7 days of the week,\nstarting with Monday. Dev goes to work on one",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Seven people go to work on 7 days of the week,<br/>starting with Monday. Dev goes to work on one",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_19",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "1. Only two people go to work after Arav.\nCASE 1\n2. Two people go to work between Gianna and\nBoris.\n3. Boris goes to work after Gianna.\n4. Cathy goes to work before Gianna but after\nEleanor.\nCASE 1",
-    "explanationHtml": "1. Only two people go to work after Arav.<br/>CASE 1<br/>2. Two people go to work between Gianna and<br/>Boris.<br/>3. Boris goes to work after Gianna.<br/>4. Cathy goes to work before Gianna but after<br/>Eleanor.<br/>CASE 1",
+    "optionsHtml": [],
+    "explanation": "1. Only two people go to work after Arav.\n\nCASE 1\n\n2. Two people go to work between Gianna and\n\nBoris.\n\n3. Boris goes to work after Gianna.\n\n4. Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      5
+    ],
+    "sourcePages": [
+      5
+    ],
+    "level": "Level-1",
+    "question_number": "20",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      5
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        5
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one",
+    "metadata": {
+      "questionNumber": "20",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "21",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people go to work on 7 days of the week,\nstarting with Monday. Dev goes to work on one\nof the days before Arav. Two people go to work\nbetween Gianna and Boris. Cathy goes to work\nbefore Gianna but after Eleanor. Only two people\ngo to work after Arav. Boris goes to work after\nGianna. Two people go to work between Dev and\nFiona. Fiona goes to work after Arav. Four people\ngo to work between Cathy and Boris.\n \nWho goes to work on sunday?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Seven people go to work on 7 days of the week,<br/>starting with Monday. Dev goes to work on one<br/>of the days before Arav. Two people go to work<br/>between Gianna and Boris. Cathy goes to work<br/>before Gianna but after Eleanor. Only two people<br/>go to work after Arav. Boris goes to work after<br/>Gianna. Two people go to work between Dev and<br/>Fiona. Fiona goes to work after Arav. Four people<br/>go to work between Cathy and Boris.<br/> <br/>Who goes to work on sunday?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_20",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nWho goes to work on sunday?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Who goes to work on sunday?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Who goes to work on sunday?<br/>",
     "options": [
       {
         "id": "A",
@@ -846,30 +1432,62 @@
       {
         "id": "E",
         "text": "Boris",
-        "html": "Boris"
+        "html": "Boris<br/><br/>"
       }
     ],
-    "correctAnswer": 4,
-    "explanation": "1. Only two people go to work after Arav.\nCASE 1",
-    "explanationHtml": "1. Only two people go to work after Arav.<br/>CASE 1",
+    "optionsHtml": [
+      "Dev",
+      "Fiona",
+      "Eleanor",
+      "Gianna",
+      "Boris<br/><br/>"
+    ],
+    "explanation": "1. Only two people go to work after Arav.\n\nCASE 1",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-1",
+    "question_number": "21",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      6
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nWho goes to work on sunday?",
+    "metadata": {
+      "questionNumber": "21",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "22",
-    "level": "Level-1",
-    "question": "Study the following information carefully and\nanswer the questions accordingly.\n \nSeven people go to work on 7 days of the week,\nstarting with Monday. Dev goes to work on one\nof the days before Arav. Two people go to work\nbetween Gianna and Boris. Cathy goes to work\nbefore Gianna but after Eleanor. Only two people\ngo to work after Arav. Boris goes to work after\nGianna. Two people go to work between Dev and\nFiona. Fiona goes to work after Arav. Four people\ngo to work between Cathy and Boris.\n \nWho goes to work on tuesday?",
-    "questionHtml": "Study the following information carefully and<br/>answer the questions accordingly.<br/> <br/>Seven people go to work on 7 days of the week,<br/>starting with Monday. Dev goes to work on one<br/>of the days before Arav. Two people go to work<br/>between Gianna and Boris. Cathy goes to work<br/>before Gianna but after Eleanor. Only two people<br/>go to work after Arav. Boris goes to work after<br/>Gianna. Two people go to work between Dev and<br/>Fiona. Fiona goes to work after Arav. Four people<br/>go to work between Cathy and Boris.<br/> <br/>Who goes to work on tuesday?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_21",
+    "question": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nWho goes to work on tuesday?",
+    "question_html": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Who goes to work on tuesday?<br/>",
+    "questionHtml": "<b>Study the following information carefully and</b><br/><br/><b>answer the questions accordingly.</b><br/><br/>Seven people go to work on 7 days of the week,<br/><br/>starting with Monday. Dev goes to work on one<br/><br/>of the days before Arav. Two people go to work<br/><br/>between Gianna and Boris. Cathy goes to work<br/><br/>before Gianna but after Eleanor. Only two people<br/><br/>go to work after Arav. Boris goes to work after<br/><br/>Gianna. Two people go to work between Dev and<br/><br/>Fiona. Fiona goes to work after Arav. Four people<br/><br/>go to work between Cathy and Boris.<br/><br/>Who goes to work on tuesday?<br/>",
     "options": [
       {
         "id": "A",
@@ -894,30 +1512,62 @@
       {
         "id": "E",
         "text": "Fiona",
-        "html": "Fiona"
+        "html": "Fiona<br/><br/>"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "1. Only two people go to work after Arav.\nCASE 1\n2. Two people go to work between Gianna and\nBoris.\n3. Boris goes to work after Gianna.\n4. Cathy goes to work before Gianna but after\nEleanor.\nCASE 1\nCASE 2\n5. Two people go to work between Dev and\nFiona.\n6. Fiona goes to work after Arav.\n7. Dev goes to work on one of the days before\nArav.\nCASE 1\nCASE 2",
-    "explanationHtml": "1. Only two people go to work after Arav.<br/>CASE 1<br/>2. Two people go to work between Gianna and<br/>Boris.<br/>3. Boris goes to work after Gianna.<br/>4. Cathy goes to work before Gianna but after<br/>Eleanor.<br/>CASE 1<br/>CASE 2<br/>5. Two people go to work between Dev and<br/>Fiona.<br/>6. Fiona goes to work after Arav.<br/>7. Dev goes to work on one of the days before<br/>Arav.<br/>CASE 1<br/>CASE 2",
+    "optionsHtml": [
+      "Boris",
+      "Eleanor",
+      "Dev",
+      "Cathy",
+      "Fiona<br/><br/>"
+    ],
+    "explanation": "1. Only two people go to work after Arav.\n\nCASE 1\n\n2. Two people go to work between Gianna and\n\nBoris.\n\n3. Boris goes to work after Gianna.\n\n4. Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1\n\nCASE 2\n\n5. Two people go to work between Dev and\n\nFiona.\n\n6. Fiona goes to work after Arav.\n\n7. Dev goes to work on one of the days before\n\nArav.\n\nCASE 1\n\nCASE 2",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
+    "source_pages": [
+      6
+    ],
+    "sourcePages": [
+      6
+    ],
+    "level": "Level-1",
+    "question_number": "22",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      6
-    ]
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Study the following information carefully and\n\nanswer the questions accordingly.\n\nSeven people go to work on 7 days of the week,\n\nstarting with Monday. Dev goes to work on one\n\nof the days before Arav. Two people go to work\n\nbetween Gianna and Boris. Cathy goes to work\n\nbefore Gianna but after Eleanor. Only two people\n\ngo to work after Arav. Boris goes to work after\n\nGianna. Two people go to work between Dev and\n\nFiona. Fiona goes to work after Arav. Four people\n\ngo to work between Cathy and Boris.\n\nWho goes to work on tuesday?",
+    "metadata": {
+      "questionNumber": "22",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "23",
-    "level": "Level-1",
-    "question": "Directions: Study the following data carefully\nand answer the questions accordingly.\nM, C, S, A, E, K and H are seven classmates and\nthey have Birthdays on seven different days of\nweek (Starting from Sunday and ending on\nSaturday) but not in the same order. M has a\nBirthday on the day which starts from the same\nletter as the day on which K has a Birthday. K’s\nbirthday does not start with S. Only one person\nhas a Birthday between K and A. H has a Birthday\nimmediately before S who has her Birthday\nneither on Wednesday nor on Friday. Less than\ntwo classmates have birthdays between the\nbirthday of H and the Birthday of E. C has neither\na Birthday immediately after the Birthday of K\nnor has a Birthday on Friday.\nWhich of the following statements is/are not\ntrue?",
-    "questionHtml": "Directions: Study the following data carefully<br/>and answer the questions accordingly.<br/>M, C, S, A, E, K and H are seven classmates and<br/>they have Birthdays on seven different days of<br/>week (Starting from Sunday and ending on<br/>Saturday) but not in the same order. M has a<br/>Birthday on the day which starts from the same<br/>letter as the day on which K has a Birthday. K’s<br/>birthday does not start with S. Only one person<br/>has a Birthday between K and A. H has a Birthday<br/>immediately before S who has her Birthday<br/>neither on Wednesday nor on Friday. Less than<br/>two classmates have birthdays between the<br/>birthday of H and the Birthday of E. C has neither<br/>a Birthday immediately after the Birthday of K<br/>nor has a Birthday on Friday.<br/>Which of the following statements is/are not<br/>true?",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_22",
+    "question": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nWhich of the following statements is/are not\n\ntrue?",
+    "question_html": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>Which of the following statements is/are not<br/><br/>true?<br/>",
+    "questionHtml": "<b>Directions: Study the following data carefully</b><br/><br/><b>and answer the questions accordingly.</b><br/><br/>M, C, S, A, E, K and H are seven classmates and<br/><br/>they have Birthdays on seven different days of<br/><br/>week (Starting from Sunday and ending on<br/><br/>Saturday) but not in the same order. M has a<br/><br/>Birthday on the day which starts from the same<br/><br/>letter as the day on which K has a Birthday. K’s<br/><br/>birthday does not start with S. Only one person<br/><br/>has a Birthday between K and A. H has a Birthday<br/><br/>immediately before S who has her Birthday<br/><br/>neither on Wednesday nor on Friday. Less than<br/><br/>two classmates have birthdays between the<br/><br/>birthday of H and the Birthday of E. C has neither<br/><br/>a Birthday immediately after the Birthday of K<br/><br/>nor has a Birthday on Friday.<br/><br/>Which of the following statements is/are not<br/><br/>true?<br/>",
     "options": [
       {
         "id": "A",
@@ -926,8 +1576,8 @@
       },
       {
         "id": "B",
-        "text": "K has her birthday just after the day on which\nE has birthday.",
-        "html": "K has her birthday just after the day on which\nE has birthday."
+        "text": "K has her birthday just after the day on which\n\nE has birthday.",
+        "html": "K has her birthday just after the day on which<br/><br/>E has birthday."
       },
       {
         "id": "C",
@@ -945,236 +1595,540 @@
         "html": "Both A and C"
       }
     ],
-    "correctAnswer": 3,
-    "explanation": "STEP I: M has a Birthday on the day which starts\nfrom the same letter as the day on which K has a\nBirthday starts from the letter. K’s birthday does\nnot starts with S.\nAs per this statement, there are two possible\ncases and the arrangement will look like this:\nSTEP II: Only one classmate has a birthday\nbetween K and A.\nAs per this statement, the arrangement will look\nlike this:",
-    "explanationHtml": "STEP I: M has a Birthday on the day which starts<br/>from the same letter as the day on which K has a<br/>Birthday starts from the letter. K’s birthday does<br/>not starts with S.<br/>As per this statement, there are two possible<br/>cases and the arrangement will look like this:<br/>STEP II: Only one classmate has a birthday<br/>between K and A.<br/>As per this statement, the arrangement will look<br/>like this:",
+    "optionsHtml": [
+      "S has birthday on the last day of the week",
+      "K has her birthday just after the day on which<br/><br/>E has birthday.",
+      "A has birthday on Monday",
+      "Both B and C",
+      "Both A and C"
+    ],
+    "explanation": "STEP I: M has a Birthday on the day which starts\n\nfrom the same letter as the day on which K has a\n\nBirthday starts from the letter. K’s birthday does\n\nnot starts with S.\n\nAs per this statement, there are two possible\n\ncases and the arrangement will look like this:\n\nSTEP II: Only one classmate has a birthday\n\nbetween K and A.\n\nAs per this statement, the arrangement will look\n\nlike this:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
     "tables": [],
-    "imageRef": "",
-    "image": null,
-    "tags": [
-      "602",
-      "scheduling",
-      "puzzles",
-      "01"
+    "source_pages": [
+      6
     ],
     "sourcePages": [
       6
-    ]
+    ],
+    "level": "Level-1",
+    "question_number": "23",
+    "tags": [
+      "602",
+      "scheduling",
+      "puzzles",
+      "01",
+      "chapter"
+    ],
+    "imageRefs": [],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        6
+      ]
+    },
+    "textPlain": "Directions: Study the following data carefully\n\nand answer the questions accordingly.\n\nM, C, S, A, E, K and H are seven classmates and\n\nthey have Birthdays on seven different days of\n\nweek (Starting from Sunday and ending on\n\nSaturday) but not in the same order. M has a\n\nBirthday on the day which starts from the same\n\nletter as the day on which K has a Birthday. K’s\n\nbirthday does not start with S. Only one person\n\nhas a Birthday between K and A. H has a Birthday\n\nimmediately before S who has her Birthday\n\nneither on Wednesday nor on Friday. Less than\n\ntwo classmates have birthdays between the\n\nbirthday of H and the Birthday of E. C has neither\n\na Birthday immediately after the Birthday of K\n\nnor has a Birthday on Friday.\n\nWhich of the following statements is/are not\n\ntrue?",
+    "metadata": {
+      "questionNumber": "23",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    }
   },
   {
-    "question_number": "2",
-    "level": "Level-1",
-    "question": "Two people go to work between Gianna and\nBoris.",
-    "questionHtml": "Two people go to work between Gianna and<br/>Boris.",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_23",
+    "question": "Two people go to work between Gianna and\n\nBoris.",
+    "question_html": "Two people go to work between Gianna and<br/><br/>Boris.<br/><br/>",
+    "questionHtml": "Two people go to work between Gianna and<br/><br/>Boris.<br/><br/>",
     "options": [],
-    "correctAnswer": 1,
+    "optionsHtml": [],
     "explanation": "",
+    "explanation_html": "",
     "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Two people go to work between Gianna and\nBoris."
-    },
+    "source_pages": [
+      29
+    ],
+    "sourcePages": [
+      29
+    ],
+    "level": "Level-1",
+    "question_number": "2",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      29
-    ]
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Two people go to work between Gianna and\n\nBoris.",
+    "metadata": {
+      "questionNumber": "2",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
   },
   {
-    "question_number": "3",
-    "level": "Level-1",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_24",
     "question": "Boris goes to work after Gianna.",
-    "questionHtml": "Boris goes to work after Gianna.",
+    "question_html": "Boris goes to work after Gianna.<br/><br/>",
+    "questionHtml": "Boris goes to work after Gianna.<br/><br/>",
     "options": [],
-    "correctAnswer": 1,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
+    "optionsHtml": [],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "B",
     "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Boris goes to work after Gianna."
-    },
+    "source_pages": [
+      29
+    ],
+    "sourcePages": [
+      29
+    ],
+    "level": "Level-1",
+    "question_number": "3",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Boris goes to work after Gianna.",
+    "metadata": {
+      "questionNumber": "3",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_25",
+    "question": "Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1\n\nCASE 2",
+    "question_html": "Cathy goes to work before Gianna but after<br/><br/>Eleanor.<br/><br/>CASE 1<br/><br/><br/><br/><br/>CASE 2<br/><br/><br/><br/><br/>",
+    "questionHtml": "Cathy goes to work before Gianna but after<br/><br/>Eleanor.<br/><br/>CASE 1<br/><br/><br/><br/><br/>CASE 2<br/><br/><br/><br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      29
     ],
     "sourcePages": [
       29
-    ]
-  },
-  {
+    ],
+    "level": "Level-1",
     "question_number": "4",
-    "level": "Level-1",
-    "question": "Cathy goes to work before Gianna but after\nEleanor.\nCASE 1\nCASE 2",
-    "questionHtml": "Cathy goes to work before Gianna but after<br/>Eleanor.<br/>CASE 1<br/>CASE 2",
-    "options": [],
-    "correctAnswer": 4,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
-    "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Cathy goes to work before Gianna but after\nEleanor.\nCASE 1\nCASE 2"
-    },
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Cathy goes to work before Gianna but after\n\nEleanor.\n\nCASE 1\n\nCASE 2",
+    "metadata": {
+      "questionNumber": "4",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_26",
+    "question": "Two people go to work between Dev and\n\nFiona.",
+    "question_html": "Two people go to work between Dev and<br/><br/>Fiona.<br/><br/>",
+    "questionHtml": "Two people go to work between Dev and<br/><br/>Fiona.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "Starting Point:\n\nClues:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
+    "tables": [],
+    "source_pages": [
+      29
     ],
     "sourcePages": [
       29
-    ]
-  },
-  {
+    ],
+    "level": "Level-1",
     "question_number": "5",
-    "level": "Level-1",
-    "question": "Two people go to work between Dev and\nFiona.",
-    "questionHtml": "Two people go to work between Dev and<br/>Fiona.",
-    "options": [],
-    "correctAnswer": 2,
-    "explanation": "Starting Point:\nClues:",
-    "explanationHtml": "Starting Point:<br/>Clues:",
-    "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Two people go to work between Dev and\nFiona."
-    },
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      29
-    ]
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Two people go to work between Dev and\n\nFiona.",
+    "metadata": {
+      "questionNumber": "5",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
   },
   {
-    "question_number": "6",
-    "level": "Level-1",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_27",
     "question": "Fiona goes to work after Arav.",
-    "questionHtml": "Fiona goes to work after Arav.",
+    "question_html": "Fiona goes to work after Arav.<br/><br/>",
+    "questionHtml": "Fiona goes to work after Arav.<br/><br/>",
     "options": [],
-    "correctAnswer": 0,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases",
+    "optionsHtml": [],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "A",
     "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Fiona goes to work after Arav."
-    },
+    "source_pages": [
+      29
+    ],
+    "sourcePages": [
+      29
+    ],
+    "level": "Level-1",
+    "question_number": "6",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Fiona goes to work after Arav.",
+    "metadata": {
+      "questionNumber": "6",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_28",
+    "question": "Dev goes to work on one of the days before\n\nArav.\n\nCASE 1\n\nCASE 2",
+    "question_html": "Dev goes to work on one of the days before<br/><br/>Arav.<br/><br/>CASE 1<br/><br/><br/><br/><br/>CASE 2<br/><br/><br/><br/><br/>",
+    "questionHtml": "Dev goes to work on one of the days before<br/><br/>Arav.<br/><br/>CASE 1<br/><br/><br/><br/><br/>CASE 2<br/><br/><br/><br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases\n\ni.e case1 and case2. Two persons conduct\n\nworkshop between R and O. L conducts\n\nworkshop before O but not on Monday. Two\n\npersons conduct workshop between L and the\n\nperson who conducts workshop in company F. P\n\nconducts workshop in company F but not on\n\nSaturday.\n\nP conducts workshop either just after or just\n\nbefore R. Thus case 2 get eliminated. Q conducts\n\nworkshop in company C but before Thursday. N\n\nconducts workshop before M. O conducts\n\nworkshop in company A. L does not conduct\n\nworkshop in company G and B.M does not\n\nconduct workshop in company G. Thus our final\n\narrangement is:",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "E",
+    "tables": [],
+    "source_pages": [
+      29
     ],
     "sourcePages": [
       29
-    ]
-  },
-  {
+    ],
+    "level": "Level-1",
     "question_number": "7",
-    "level": "Level-1",
-    "question": "Dev goes to work on one of the days before\nArav.\nCASE 1\nCASE 2",
-    "questionHtml": "Dev goes to work on one of the days before<br/>Arav.<br/>CASE 1<br/>CASE 2",
-    "options": [],
-    "correctAnswer": 4,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases\ni.e case1 and case2. Two persons conduct\nworkshop between R and O. L conducts\nworkshop before O but not on Monday. Two\npersons conduct workshop between L and the\nperson who conducts workshop in company F. P\nconducts workshop in company F but not on\nSaturday.\nP conducts workshop either just after or just\nbefore R. Thus case 2 get eliminated. Q conducts\nworkshop in company C but before Thursday. N\nconducts workshop before M. O conducts\nworkshop in company A. L does not conduct\nworkshop in company G and B.M does not\nconduct workshop in company G. Thus our final\narrangement is:",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases<br/>i.e case1 and case2. Two persons conduct<br/>workshop between R and O. L conducts<br/>workshop before O but not on Monday. Two<br/>persons conduct workshop between L and the<br/>person who conducts workshop in company F. P<br/>conducts workshop in company F but not on<br/>Saturday.<br/>P conducts workshop either just after or just<br/>before R. Thus case 2 get eliminated. Q conducts<br/>workshop in company C but before Thursday. N<br/>conducts workshop before M. O conducts<br/>workshop in company A. L does not conduct<br/>workshop in company G and B.M does not<br/>conduct workshop in company G. Thus our final<br/>arrangement is:",
-    "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Dev goes to work on one of the days before\nArav.\nCASE 1\nCASE 2"
-    },
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
+    ],
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Dev goes to work on one of the days before\n\nArav.\n\nCASE 1\n\nCASE 2",
+    "metadata": {
+      "questionNumber": "7",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
+  },
+  {
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_29",
+    "question": "Cathy goes to work before Gianna but after\n\nEleanor.",
+    "question_html": "Cathy goes to work before Gianna but after<br/><br/>Eleanor.<br/><br/>",
+    "questionHtml": "Cathy goes to work before Gianna but after<br/><br/>Eleanor.<br/><br/>",
+    "options": [],
+    "optionsHtml": [],
+    "explanation": "It is given that R conducts workshop after Friday\n\nin company D. Thus from here we have two cases\n\ni.e case1 and case2. Two persons conduct\n\nworkshop between R and O. L conducts\n\nworkshop before O but not on Monday. Two\n\npersons conduct workshop between L and the\n\nperson who conducts workshop in company F. P\n\nconducts workshop in company F but not on\n\nSaturday.",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "D",
+    "tables": [],
+    "source_pages": [
+      29
     ],
     "sourcePages": [
       29
-    ]
-  },
-  {
+    ],
+    "level": "Level-1",
     "question_number": "8",
-    "level": "Level-1",
-    "question": "Cathy goes to work before Gianna but after\nEleanor.",
-    "questionHtml": "Cathy goes to work before Gianna but after<br/>Eleanor.",
-    "options": [],
-    "correctAnswer": 3,
-    "explanation": "It is given that R conducts workshop after Friday\nin company D. Thus from here we have two cases\ni.e case1 and case2. Two persons conduct\nworkshop between R and O. L conducts\nworkshop before O but not on Monday. Two\npersons conduct workshop between L and the\nperson who conducts workshop in company F. P\nconducts workshop in company F but not on\nSaturday.",
-    "explanationHtml": "It is given that R conducts workshop after Friday<br/>in company D. Thus from here we have two cases<br/>i.e case1 and case2. Two persons conduct<br/>workshop between R and O. L conducts<br/>workshop before O but not on Monday. Two<br/>persons conduct workshop between L and the<br/>person who conducts workshop in company F. P<br/>conducts workshop in company F but not on<br/>Saturday.",
-    "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Cathy goes to work before Gianna but after\nEleanor."
-    },
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      29
-    ]
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Cathy goes to work before Gianna but after\n\nEleanor.",
+    "metadata": {
+      "questionNumber": "8",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
   },
   {
-    "question_number": "9",
-    "level": "Level-1",
-    "question": "Four people go to work between Cathy and\nBoris. Therefore, case 1 is no longer valid.\nCASE 2",
-    "questionHtml": "Four people go to work between Cathy and<br/>Boris. Therefore, case 1 is no longer valid.<br/>CASE 2",
+    "id": "602_scheduling_puzzles_01_chapter_wise_dpp_english_30",
+    "question": "Four people go to work between Cathy and\n\nBoris. Therefore, case 1 is no longer valid.\n\nCASE 2",
+    "question_html": "Four people go to work between Cathy and<br/><br/>Boris. Therefore, case 1 is no longer valid.<br/><br/>CASE 2",
+    "questionHtml": "Four people go to work between Cathy and<br/><br/>Boris. Therefore, case 1 is no longer valid.<br/><br/>CASE 2",
     "options": [],
-    "correctAnswer": 2,
-    "explanation": "1) Mayank goes on holiday after Tuesday.\n2) John goes on holiday immediately before\nMayank.\n3) Two people go on holiday between John and\nLalit.\n(Here, case 2 will be eliminated and we will\ncontinue with the remaining cases)\n4) Karan goes on holiday after Nitin.\n5) At least one person goes between Nitin and\nKaran.\n(Here, case 3 will be eliminated)\nTherefore, option C is the correct answer",
-    "explanationHtml": "1) Mayank goes on holiday after Tuesday.<br/>2) John goes on holiday immediately before<br/>Mayank.<br/>3) Two people go on holiday between John and<br/>Lalit.<br/>(Here, case 2 will be eliminated and we will<br/>continue with the remaining cases)<br/>4) Karan goes on holiday after Nitin.<br/>5) At least one person goes between Nitin and<br/>Karan.<br/>(Here, case 3 will be eliminated)<br/>Therefore, option C is the correct answer",
+    "optionsHtml": [],
+    "explanation": "1) Mayank goes on holiday after Tuesday.\n\n2) John goes on holiday immediately before\n\nMayank.\n\n3) Two people go on holiday between John and\n\nLalit.\n\n(Here, case 2 will be eliminated and we will\n\ncontinue with the remaining cases)\n\n4) Karan goes on holiday after Nitin.\n\n5) At least one person goes between Nitin and\n\nKaran.\n\n(Here, case 3 will be eliminated)\n\nTherefore, option C is the correct answer",
+    "explanation_html": "",
+    "explanationHtml": "",
+    "correct_answer": "C",
     "tables": [],
-    "imageRef": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-    "image": {
-      "url": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "key": "output/images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602_scheduling_puzzles_01_chapter_wise_dpp_english_p029_img01.png",
-      "sourceType": "local",
-      "alt": "Four people go to work between Cathy and\nBoris. Therefore, case 1 is no longer valid.\nCASE 2"
-    },
+    "source_pages": [
+      29
+    ],
+    "sourcePages": [
+      29
+    ],
+    "level": "Level-1",
+    "question_number": "9",
     "tags": [
       "602",
       "scheduling",
       "puzzles",
-      "01"
+      "01",
+      "chapter"
     ],
-    "sourcePages": [
-      29
-    ]
+    "imageRefs": [
+      {
+        "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+        "alt": ""
+      }
+    ],
+    "sourcePdf": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "url": "/reasoning-pdfs/602_scheduling_puzzles_01_chapter_wise_dpp_english.pdf",
+      "pages": [
+        29
+      ]
+    },
+    "textPlain": "Four people go to work between Cathy and\n\nBoris. Therefore, case 1 is no longer valid.\n\nCASE 2",
+    "metadata": {
+      "questionNumber": "9",
+      "level": "Level-1",
+      "tags": [
+        "602",
+        "scheduling",
+        "puzzles",
+        "01",
+        "chapter"
+      ]
+    },
+    "image_ref": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "imageRef": "images\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)\\602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+    "image": {
+      "key": "602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "url": "/question-images/602_scheduling_puzzles_01_chapter_wise_dpp_english/602 - Scheduling Puzzles - 01 Chapter Wise DPP (English)_p029_img01.png",
+      "alt": ""
+    }
   }
 ]
