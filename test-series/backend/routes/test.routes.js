@@ -485,7 +485,7 @@ router.get(
       count: practiceSets.length,
       sets: practiceSets
     });
-  })
+  }));
 
   router.get(
     "/gate/practice-sets",
@@ -522,7 +522,6 @@ router.get(
       });
     })
   );
-);
 
 router.get(
   "/banking/practice-sets/:setId/questions",
