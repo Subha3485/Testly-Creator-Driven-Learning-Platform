@@ -60,6 +60,7 @@ export const api = {
     return request(`/test/catalog/tests${query ? `?${query}` : ""}`);
   },
   getBankingPracticeSets: () => request("/test/banking/practice-sets"),
+  getGatePracticeSets: () => request("/test/gate/practice-sets"),
   getBankingPracticeSetQuestions: (setId) => request(`/test/banking/practice-sets/${setId}/questions`),
   getBankingCourses: () => request("/test/banking/courses"),
   getBankingDashboard: () => request("/test/banking/dashboard"),

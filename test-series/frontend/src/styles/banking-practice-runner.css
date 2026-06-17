@@ -111,8 +111,7 @@
 .banking-runner__setBtn,
 .banking-runner__ghost,
 .banking-runner__primary,
-.banking-runner__accent,
-.banking-runner__warn {
+.banking-runner__accent {
   border: none;
   border-radius: 12px;
   padding: 12px 18px;
@@ -147,22 +146,6 @@
 .banking-runner__accent {
   background: #fff4d7;
   color: #7b5b00;
-}
-
-.banking-runner__warn {
-  background: #fff0f0;
-  color: #a12d2d;
-  border: 1px solid #efc2c2;
-}
-
-.banking-runner__flagResult {
-  align-self: center;
-  padding: 10px 14px;
-  border-radius: 12px;
-  border: 1px solid #dbe4ee;
-  background: #f8fbfe;
-  color: #43556f;
-  font-weight: 600;
 }
 
 .banking-runner__instructionCard {
@@ -321,14 +304,6 @@
 .banking-runner__stem,
 .banking-runner__optionText {
   white-space: pre-wrap;
-}
-
-.banking-runner__stem img,
-.banking-runner__optionText img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 12px 0;
 }
 
 .banking-runner__stem {
@@ -688,16 +663,6 @@
   background: #fff;
 }
 
-.test-runner__flagNotice {
-  margin-top: 12px;
-  padding: 10px 14px;
-  border-radius: 12px;
-  border: 1px solid #dbe4ee;
-  background: #f8fbfe;
-  color: #43556f;
-  font-weight: 600;
-}
-
 @media (max-width: 1100px) {
   .banking-runner__workspace {
     grid-template-columns: 1fr;
@@ -736,42 +701,4 @@
   .banking-runner__analysisTableRow {
     grid-template-columns: 1fr;
   }
-}
-
-/* Subject selector (image-style buttons) used on Home / Practice pages */
-.subject-selector {
-  display: flex;
-  gap: 12px;
-  margin-top: 16px;
-}
-
-.subject-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 8px;
-  width: 140px;
-  padding: 8px;
-  border-radius: 12px;
-  border: 1px solid #dbe4ee;
-  background: #fff;
-  cursor: pointer;
-}
-
-.subject-btn img {
-  width: 100%;
-  height: 72px;
-  object-fit: cover;
-  border-radius: 8px;
-  border: 1px solid #eef4fb;
-}
-
-.subject-btn .subject-label {
-  font-weight: 700;
-  color: #17263a;
-}
-
-.subject-btn.active {
-  border-color: #1a2841;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }

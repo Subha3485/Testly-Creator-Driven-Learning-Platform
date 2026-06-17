@@ -157,6 +157,72 @@ function pickRichSegments(source, keys) {
   return [];
 }
 
+function getPracticeJsonFiles() {
+  const structuredFiles = getJsonFilesRecursive(STRUCTURED_DIR);
+  const rootSetFiles = [];
+
+  if (!fs.existsSync(DATA_ROOT_DIR)) {
+    return structuredFiles;
+  }
+
+  const entries = fs.readdirSync(DATA_ROOT_DIR, { withFileTypes: true });
+  for (const entry of entries) {
+    if (!entry.isDirectory()) {
+      continue;
+    }
+
+    const questionsFile = path.join(DATA_ROOT_DIR, entry.name, "questions.json");
+    if (fs.existsSync(questionsFile)) {
+      rootSetFiles.push(questionsFile);
+    }
+  }
+
+  return [...structuredFiles, ...rootSetFiles];
+}
+
+function normalizeAnswerText(value) {
+  if (value === undefined || value === null) {
+    return "";
+  }
+
+  let answer = String(value || "").trim();
+  answer = answer.replace(/[()]/g, "").trim();
+  answer = answer.replace(/\s+/g, " ");
+  return answer;
+}
+
+function parseNatRange(value) {
+  const normalized = normalizeAnswerText(value).toLowerCase();
+  const match = normalized.match(/^(?<min>-?\d+(?:\.\d+)?)\s*to\s*(?<max>-?\d+(?:\.\d+)?)/);
+  if (!match) {
+    return null;
+  }
+  return {
+    min: Number(match.groups.min),
+    max: Number(match.groups.max)
+  };
+}
+
+function resolveDataAssetUrl(value, baseDir) {
+  const assetValue = normalizeImportedText(value || "");
+  if (!assetValue) {
+    return "";
+  }
+
+  const normalized = assetValue.replace(/\\/g, "/");
+  if (/^(https?:)?\/\//i.test(normalized)) {
+    return normalized;
+  }
+
+  const absolutePath = path.resolve(baseDir, normalized);
+  if (!absolutePath.startsWith(DATA_ROOT_DIR)) {
+    return normalized;
+  }
+
+  const relativePath = path.relative(DATA_ROOT_DIR, absolutePath).replace(/\\/g, "/");
+  return `/question-assets/${relativePath}`;
+}
+
 function resolveImageUrl(value) {
   const imageValue = normalizeImportedText(value || "");
   if (!imageValue) {
@@ -173,6 +239,94 @@ function resolveImageUrl(value) {
   }
 
   return normalized;
+}
+
+function parseMcqAnswer(answer, options) {
+  const normalized = normalizeAnswerText(answer).toLowerCase();
+  if (!normalized) {
+    return null;
+  }
+
+  const optionId = normalized.replace(/^[^a-z0-9]*([a-d])[a-z0-9]*$/i, "$1");
+  const index = ["a", "b", "c", "d"].indexOf(optionId);
+  if (index !== -1 && index < options.length) {
+    return index;
+  }
+
+  const exactIndex = options.findIndex((option) => normalizeImportedText(option || "").toLowerCase() === normalized);
+  return exactIndex !== -1 ? exactIndex : null;
+}
+
+function mapGateQuestion(question, index, setSlug, fileDir) {
+  const options = Array.isArray(question.options)
+    ? question.options.map((option) => normalizeImportedText(option?.text || option?.label || option || "")).filter(Boolean)
+    : [];
+
+  const optionsHtml = Array.isArray(question.options)
+    ? question.options.map((option) => normalizeImportedText(option?.html || option?.text || option?.label || option || ""))
+    : [];
+
+  const questionHtml = normalizeImportedText(question.question_html || question.questionHtml || "");
+  const explanationHtml = normalizeImportedText(question.explanation_html || question.explanationHtml || "");
+  const answerText = normalizeAnswerText(question.answer || question.answer_text || "");
+  const questionType = normalizeImportedText(question.question_type || question.type || "MCQ").toUpperCase();
+  const correctAnswer = questionType === "MCQ" ? parseMcqAnswer(answerText, options) : null;
+
+  const assetBaseDir = fileDir || path.dirname(path.join(DATA_ROOT_DIR, setSlug, "questions.json"));
+
+  const assets = Array.isArray(question.assets)
+    ? question.assets.map((asset) => resolveDataAssetUrl(asset, assetBaseDir)).filter(Boolean)
+    : [];
+
+  const solutionAssets = Array.isArray(question.solution_assets)
+    ? question.solution_assets.map((asset) => resolveDataAssetUrl(asset, assetBaseDir)).filter(Boolean)
+    : [];
+
+  const sourceLinks = Array.isArray(question?.source?.page_links)
+    ? question.source.page_links.map((link) => {
+        const href = normalizeImportedText(link?.href || link?.link || "");
+        return href ? { page: Number(link.page || link?.page || 0), href } : null;
+      }).filter(Boolean)
+    : [];
+
+  return {
+    _id: `${setSlug}-${question.question_number || index + 1}`,
+    question: normalizeImportedText(question.question || question.question_text || ""),
+    questionHtml,
+    questionRich: [],
+    options,
+    optionsHtml,
+    optionsRich: [],
+    correctAnswer,
+    correctAnswerText: questionType === "NAT" ? answerText : undefined,
+    answer: normalizeImportedText(question.answer || ""),
+    marks: Number(question?.gate?.marks || question?.marks || 1),
+    negativeMarks: Number(question?.negative_marks || question?.negativeMarks || 0),
+    source: normalizeImportedText(question.source?.pdf || ""),
+    sourcePages: Array.isArray(question?.source?.pages) ? question.source.pages.map(Number).filter((value) => Number.isFinite(value)) : [],
+    sourceLinks,
+    videoSolutionUrl: normalizeImportedText(question.video_solution_url || question.videoSolutionUrl || ""),
+    explanation: {
+      text: normalizeImportedText(question.explanation || question.answer_explanation || question.solution || "")
+    },
+    explanationHtml,
+    explanationRich: [],
+    imageRef: "",
+    image: null,
+    tables: Array.isArray(question.tables) ? question.tables : [],
+    assets,
+    solutionAssets,
+    questionType,
+    subject: normalizeImportedText(question.subject || ""),
+    chapter: normalizeImportedText(question.chapter || ""),
+    section: normalizeImportedText(question.section || ""),
+    gateYear: Number(question?.gate?.year || question?.year || 0),
+    gateMarks: Number(question?.gate?.marks || question?.marks || 1),
+    examTarget: "GATE",
+    difficulty: "MEDIUM",
+    questionNumber: Number(question.question_number || index + 1),
+    layout: question.layout || {}
+  };
 }
 
 function buildImagePayload(question, fallbackLabel) {
@@ -217,13 +371,15 @@ function serializeQuestionForClient(question) {
     optionsHtml: Array.isArray(question?.optionsHtml) ? question.optionsHtml : [],
     optionsRich: Array.isArray(question?.optionsRich) ? question.optionsRich : [],
     correctAnswer: question?.correctAnswer,
+    correctAnswerText: question?.correctAnswerText || question?.answer || question?.answer_text || question?.answerText || undefined,
+    answer: question?.answer || "",
     marks: question?.marks,
     negativeMarks: question?.negativeMarks,
     topicTags: Array.isArray(question?.topicTags) ? question.topicTags : [],
     difficulty: question?.difficulty,
     explanation: {
       text: explanationText,
-      videoUrl: question?.explanation?.videoUrl || ""
+      videoUrl: question?.explanation?.videoUrl || question?.videoSolutionUrl || ""
     },
     explanationHtml,
     explanationRich: Array.isArray(question?.explanationRich) ? question.explanationRich : [],
@@ -231,6 +387,16 @@ function serializeQuestionForClient(question) {
     image,
     tables: Array.isArray(question?.tables) ? question.tables : [],
     sourcePages: Array.isArray(question?.sourcePages) ? question.sourcePages : [],
+    sourceLinks: Array.isArray(question?.sourceLinks) ? question.sourceLinks : [],
+    assets: Array.isArray(question?.assets) ? question.assets : [],
+    solutionAssets: Array.isArray(question?.solutionAssets) ? question.solutionAssets : [],
+    videoSolutionUrl: question?.videoSolutionUrl || "",
+    questionType: question?.questionType || question?.question_type || "MCQ",
+    subject: normalizeImportedText(question?.subject || ""),
+    chapter: normalizeImportedText(question?.chapter || ""),
+    section: normalizeImportedText(question?.section || ""),
+    gateYear: Number(question?.gateYear || question?.gate?.year || question?.year || 0),
+    gateMarks: Number(question?.gateMarks || question?.gate?.marks || question?.marks || 0),
     level: normalizeImportedText(question?.level || ""),
     questionNumber: Number(question?.questionNumber || 0)
   };
@@ -289,21 +455,28 @@ function mapStructuredQuestion(question, index, fileSlug, topic) {
 router.get(
   "/banking/practice-sets",
   asyncHandler(async (_req, res) => {
-    const files = getJsonFilesRecursive(STRUCTURED_DIR);
+    const files = getPracticeJsonFiles();
 
     const practiceSets = files.map((filePath) => {
-      const fileName = path.basename(filePath, ".json");
-      const topic = normalizeTopicName(fileName);
-      const slug = toSlug(fileName);
+      const baseName = path.basename(filePath, ".json");
+      const isDataFolderSet = baseName.toLowerCase() === "questions";
+      const topic = isDataFolderSet
+        ? normalizeTopicName(path.basename(path.dirname(filePath)))
+        : normalizeTopicName(baseName);
+      const slug = isDataFolderSet
+        ? toSlug(path.basename(path.dirname(filePath)))
+        : toSlug(baseName);
       const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
       const questions = parseQuestionArray(raw);
+      const examTarget = (questions || []).some((q) => q && (q.gate || String(q.examTarget || "").toLowerCase() === "gate")) ? "GATE" : "BANKING";
 
       return {
         id: slug,
-        fileName,
+        fileName: path.basename(filePath),
         topic,
         title: `${topic} Practice Set`,
-        questionCount: questions.length
+        questionCount: questions.length,
+        examTarget
       };
     });
 
@@ -313,29 +486,81 @@ router.get(
       sets: practiceSets
     });
   })
+
+  router.get(
+    "/gate/practice-sets",
+    asyncHandler(async (_req, res) => {
+      const files = getPracticeJsonFiles();
+
+      const practiceSets = files.map((filePath) => {
+        const baseName = path.basename(filePath, ".json");
+        const isDataFolderSet = baseName.toLowerCase() === "questions";
+        const topic = isDataFolderSet
+          ? normalizeTopicName(path.basename(path.dirname(filePath)))
+          : normalizeTopicName(baseName);
+        const slug = isDataFolderSet
+          ? toSlug(path.basename(path.dirname(filePath)))
+          : toSlug(baseName);
+        const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
+        const questions = parseQuestionArray(raw);
+        const examTarget = (questions || []).some((q) => q && (q.gate || String(q.examTarget || "").toLowerCase() === "gate")) ? "GATE" : "BANKING";
+
+        return {
+          id: slug,
+          fileName: path.basename(filePath),
+          topic,
+          title: `${topic} Practice Set`,
+          questionCount: questions.length,
+          examTarget
+        };
+      }).filter((s) => s.examTarget === "GATE");
+
+      res.json({
+        source: "structured-files",
+        count: practiceSets.length,
+        sets: practiceSets
+      });
+    })
+  );
 );
 
 router.get(
   "/banking/practice-sets/:setId/questions",
   asyncHandler(async (req, res) => {
-    const files = getJsonFilesRecursive(STRUCTURED_DIR);
-    const match = files.find((filePath) => toSlug(path.basename(filePath, ".json")) === req.params.setId);
+    const files = getPracticeJsonFiles();
+    const match = files.find((filePath) => {
+      const baseName = path.basename(filePath, ".json");
+      const slug = baseName.toLowerCase() === "questions"
+        ? toSlug(path.basename(path.dirname(filePath)))
+        : toSlug(baseName);
+      return slug === req.params.setId;
+    });
 
     if (!match) {
       return res.status(404).json({ message: "Practice set not found" });
     }
 
-    const fileName = path.basename(match, ".json");
-    const topic = normalizeTopicName(fileName);
+    const baseName = path.basename(match, ".json");
+    const isDataFolderSet = baseName.toLowerCase() === "questions";
+    const topic = isDataFolderSet
+      ? normalizeTopicName(path.basename(path.dirname(match)))
+      : normalizeTopicName(baseName);
+    const fileSlug = isDataFolderSet
+      ? toSlug(path.basename(path.dirname(match)))
+      : toSlug(baseName);
     const raw = JSON.parse(fs.readFileSync(match, "utf8"));
     const entries = parseQuestionArray(raw);
-    const questions = entries.map((question, index) => mapStructuredQuestion(question, index, req.params.setId, topic));
+    const questions = entries.map((question, index) => {
+      return isDataFolderSet
+        ? mapGateQuestion(question, index, fileSlug, path.dirname(match))
+        : mapStructuredQuestion(question, index, fileSlug, topic);
+    });
 
     res.json({
       _id: req.params.setId,
       title: `${topic} Practice Set`,
-      description: `Practice questions loaded from ${fileName}.json`,
-      examTarget: "BANKING",
+      description: `Practice questions loaded from ${path.basename(match)}.`,
+      examTarget: isDataFolderSet ? "GATE" : "BANKING",
       testType: "TOPIC",
       duration: Math.max(10, questions.length),
       topics: [topic],
@@ -347,11 +572,15 @@ router.get(
 router.get(
   "/banking/courses",
   asyncHandler(async (_req, res) => {
-    const files = getJsonFilesRecursive(STRUCTURED_DIR);
+    const files = getPracticeJsonFiles();
     const courses = files.map((filePath) => {
       const fileName = path.basename(filePath, ".json");
-      const topic = normalizeTopicName(fileName);
-      const slug = toSlug(fileName);
+      const topic = fileName.toLowerCase() === "questions"
+        ? normalizeTopicName(path.basename(path.dirname(filePath)))
+        : normalizeTopicName(fileName);
+      const slug = fileName.toLowerCase() === "questions"
+        ? toSlug(path.basename(path.dirname(filePath)))
+        : toSlug(fileName);
       const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
       const questions = parseQuestionArray(raw);
 
@@ -377,10 +606,12 @@ router.get(
 router.get(
   "/banking/dashboard",
   asyncHandler(async (_req, res) => {
-    const files = getJsonFilesRecursive(STRUCTURED_DIR);
+    const files = getPracticeJsonFiles();
     const practiceSets = files.map((filePath) => {
       const fileName = path.basename(filePath, ".json");
-      const topic = normalizeTopicName(fileName);
+      const topic = fileName.toLowerCase() === "questions"
+        ? normalizeTopicName(path.basename(path.dirname(filePath)))
+        : normalizeTopicName(fileName);
       const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
       return {
         topic,

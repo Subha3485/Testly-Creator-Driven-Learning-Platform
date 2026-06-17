@@ -23,6 +23,16 @@ app.use(
 );
 
 app.use(
+	"/question-assets",
+	express.static(BACKEND_DATA_DIR)
+);
+
+app.use(
+	"/documents",
+	express.static(path.resolve(BACKEND_DATA_DIR, "pdfs"))
+);
+
+app.use(
 	"/reasoning-pdfs",
 	express.static(path.resolve(BACKEND_DATA_DIR, "pdfs"))
 );

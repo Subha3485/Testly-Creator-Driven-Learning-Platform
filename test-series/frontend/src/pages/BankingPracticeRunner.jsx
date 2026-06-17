@@ -126,9 +126,13 @@ export default function BankingPracticeRunner() {
   const questions = activeTest?.questions || [];
   const currentQuestion = questions[currentIndex] || null;
   const currentSelectedAnswer = answers[currentIndex];
-  const currentCorrectAnswer = currentQuestion?.correctAnswer ?? null;
-  const currentAnswerIsSelected = currentSelectedAnswer !== undefined && currentSelectedAnswer !== null;
-  const currentAnswerIsCorrect = currentAnswerIsSelected && currentCorrectAnswer !== null && Number(currentSelectedAnswer) === Number(currentCorrectAnswer);
+  const currentQuestionType = currentQuestion?.questionType || currentQuestion?.question_type || "MCQ";
+  const currentCorrectAnswer = currentQuestionType === "NAT"
+    ? currentQuestion?.correctAnswerText || currentQuestion?.answer || null
+    : currentQuestion?.correctAnswer ?? null;
+  const currentAnswerIsSelected = currentSelectedAnswer !== undefined && currentSelectedAnswer !== null && String(currentSelectedAnswer).trim() !== "";
+  const currentAnswerIsCorrect = currentAnswerIsSelected && isQuestionAnswerCorrect(currentQuestion, currentSelectedAnswer, currentCorrectAnswer);
+  const showReviewContent = !isPracticeMode;
   const currentExplanation = extractExplanation(currentQuestion);
   const currentQuestionHtml = getQuestionHtml(currentQuestion);
   const currentExplanationHtml = getQuestionExplanationHtml(currentQuestion);
@@ -328,14 +332,19 @@ export default function BankingPracticeRunner() {
     const questionRows = questions.map((question, index) => {
       const status = deriveQuestionState(index, answers, questionMeta);
       const selectedAnswer = answers[index];
-      const correctAnswer = question.correctAnswer ?? null;
-      const isCorrect = selectedAnswer !== undefined && selectedAnswer !== null && Number(selectedAnswer) === Number(correctAnswer);
+      const questionType = question?.questionType || question?.question_type || "MCQ";
+      const correctAnswer = questionType === "NAT"
+        ? question.correctAnswerText || question.answer || null
+        : question.correctAnswer ?? null;
+      const isCorrect = selectedAnswer !== undefined && selectedAnswer !== null && isQuestionAnswerCorrect(question, selectedAnswer, correctAnswer);
 
       return {
         index,
         questionId: question._id,
         question,
-        selectedAnswer: selectedAnswer !== undefined ? Number(selectedAnswer) : undefined,
+        selectedAnswer: questionType === "NAT"
+          ? selectedAnswer !== undefined && selectedAnswer !== null ? String(selectedAnswer).trim() : undefined
+          : selectedAnswer !== undefined ? Number(selectedAnswer) : undefined,
         correctAnswer,
         status,
         timeSpentSeconds: Number(questionTimeSnapshot[index] || 0),
@@ -445,8 +454,8 @@ export default function BankingPracticeRunner() {
               <div className="banking-runner__analysisTableRow" key={row.questionId || row.index}>
                 <span>{row.index + 1}</span>
                 <span>{formatStateLabel(row.status)}</span>
-                <span>{row.selectedAnswer !== undefined ? optionLabel(row.selectedAnswer) : "-"}</span>
-                <span>{row.correctAnswer !== null && row.correctAnswer !== undefined ? optionLabel(row.correctAnswer) : "-"}</span>
+                <span>{row.selectedAnswer !== undefined ? (typeof row.selectedAnswer === "string" ? row.selectedAnswer : optionLabel(row.selectedAnswer)) : "-"}</span>
+                <span>{row.correctAnswer !== null && row.correctAnswer !== undefined ? (typeof row.correctAnswer === "string" ? row.correctAnswer : optionLabel(row.correctAnswer)) : "-"}</span>
                 <span>{formatDuration(row.timeSpentSeconds)}</span>
               </div>
             ))}
@@ -531,8 +540,12 @@ export default function BankingPracticeRunner() {
                 <div className="banking-runner__questionHeader">
                   <div className="banking-runner__questionBadge">{currentIndex + 1}</div>
                   <div className="banking-runner__questionMeta">
-                    <span className="banking-runner__chip">Level: {currentQuestion?.level || "Medium"}</span>
-                    <span className="banking-runner__chip">Type: Single Correct</span>
+                    <span className="banking-runner__chip">Subject: {currentQuestion?.subject || "General"}</span>
+                    <span className="banking-runner__chip">Chapter: {currentQuestion?.chapter || "—"}</span>
+                    <span className="banking-runner__chip">Section: {currentQuestion?.section || "—"}</span>
+                    <span className="banking-runner__chip">Type: {currentQuestion?.questionType || currentQuestion?.question_type || "MCQ"}</span>
+                    <span className="banking-runner__chip">Year: {currentQuestion?.gateYear || currentQuestion?.gate?.year || "—"}</span>
+                    <span className="banking-runner__chip">Marks: {currentQuestion?.marks ?? currentQuestion?.gate?.marks ?? 1}</span>
                     <span className={`banking-runner__chip banking-runner__chip--state ${deriveQuestionState(currentIndex, answers, questionMeta)}`}>
                       {formatStateLabel(deriveQuestionState(currentIndex, answers, questionMeta))}
                     </span>
@@ -540,7 +553,11 @@ export default function BankingPracticeRunner() {
                 </div>
 
                 <article className="banking-runner__question card">
-                  <div className="banking-runner__direction">Directions: Choose the most appropriate answer from the options given below.</div>
+                  <div className="banking-runner__direction">
+                    {currentQuestion?.questionType === "NAT" || currentQuestion?.question_type === "NAT"
+                      ? "Directions: Enter the exact numeric/text answer in the field below."
+                      : "Directions: Choose the most appropriate answer from the options given below."}
+                  </div>
                   <div className="banking-runner__stem">
                     <RichText
                       value={currentQuestion?.question}
@@ -556,38 +573,101 @@ export default function BankingPracticeRunner() {
                         />
                       </div>
                     ) : null}
+                    {Array.isArray(currentQuestion?.tables) && currentQuestion.tables.length > 0 ? (
+                      <div className="banking-runner__questionTables">
+                        {currentQuestion.tables.map((table, tableIndex) => (
+                          <table key={`table-${tableIndex}`} className="banking-runner__table">
+                            {Array.isArray(table.headers) && table.headers.length > 0 ? (
+                              <thead>
+                                <tr>
+                                  {table.headers.map((header, headerIndex) => (
+                                    <th key={`header-${headerIndex}`}>{header}</th>
+                                  ))}
+                                </tr>
+                              </thead>
+                            ) : null}
+                            <tbody>
+                              {Array.isArray(table.rows) ? table.rows.map((row, rowIndex) => (
+                                <tr key={`row-${rowIndex}`}>
+                                  {Array.isArray(row) ? row.map((cell, cellIndex) => (
+                                    <td key={`cell-${cellIndex}`}>{cell}</td>
+                                  )) : <td>{row}</td>}
+                                </tr>
+                              )) : null}
+                            </tbody>
+                          </table>
+                        ))}
+                      </div>
+                    ) : null}
+                    {Array.isArray(currentQuestion?.assets) && currentQuestion.assets.length > 0 ? (
+                      <div className="banking-runner__questionAssets">
+                        {currentQuestion.assets.map((assetUrl, assetIndex) => (
+                          <div className="banking-runner__questionAsset" key={`asset-${assetIndex}`}>
+                            <img src={assetUrl} alt={`Question asset ${assetIndex + 1}`} loading="lazy" />
+                          </div>
+                        ))}
+                      </div>
+                    ) : null}
                   </div>
 
-                  <div className="banking-runner__options">
-                    {currentQuestion?.options?.map((option, optionIndex) => {
-                      const selected = answers[currentIndex] === optionIndex;
-                      const isCorrect = currentAnswerIsSelected && Number(currentCorrectAnswer) === optionIndex;
-                      const isWrongSelection = selected && currentAnswerIsSelected && !currentAnswerIsCorrect;
-                      const optionSegments = currentQuestion?.optionsRich?.[optionIndex];
-                      return (
-                        <button
-                          key={`${currentQuestion._id}-${optionIndex}`}
-                          type="button"
-                          className={`banking-runner__option ${selected ? "selected" : ""} ${isCorrect ? "correct" : ""} ${isWrongSelection ? "wrong" : ""}`}
-                          onClick={() => selectAnswer(optionIndex)}
-                        >
-                          <span className="banking-runner__optionIndex">{optionLabel(optionIndex)}</span>
-                          <span className="banking-runner__optionText">
-                            <RichText
-                              value={option}
-                              html={currentQuestion?.optionsHtml?.[optionIndex] || currentQuestion?.options_html?.[optionIndex]}
-                              segments={optionSegments}
-                            />
-                          </span>
-                        </button>
-                      );
-                    })}
-                  </div>
+                  {currentQuestion?.questionType === "NAT" || currentQuestion?.question_type === "NAT" ? (
+                    <div className="banking-runner__natInput">
+                      <label htmlFor="nat-answer">Enter your answer</label>
+                      <input
+                        id="nat-answer"
+                        type="text"
+                        value={String(currentSelectedAnswer || "")}
+                        onChange={(event) => {
+                          const value = event.target.value;
+                          setAnswers((prev) => ({ ...prev, [currentIndex]: value }));
+                          setQuestionMeta((prev) => ({
+                            ...markVisited(prev, currentIndex),
+                            [currentIndex]: {
+                              ...prev[currentIndex],
+                              visited: true,
+                              markedForReview: prev[currentIndex]?.markedForReview || false
+                            }
+                          }));
+                        }}
+                        placeholder="Type your numeric/text answer here"
+                      />
+                    </div>
+                  ) : (
+                    <div className="banking-runner__options">
+                      {currentQuestion?.options?.map((option, optionIndex) => {
+                        const selected = answers[currentIndex] === optionIndex;
+                        const isCorrect = currentAnswerIsSelected && Number(currentCorrectAnswer) === optionIndex;
+                        const isWrongSelection = selected && currentAnswerIsSelected && !currentAnswerIsCorrect;
+                        const optionSegments = currentQuestion?.optionsRich?.[optionIndex];
+                        return (
+                          <button
+                            key={`${currentQuestion._id}-${optionIndex}`}
+                            type="button"
+                            className={`banking-runner__option ${selected ? "selected" : ""} ${isCorrect ? "correct" : ""} ${isWrongSelection ? "wrong" : ""}`}
+                            onClick={() => selectAnswer(optionIndex)}
+                          >
+                            <span className="banking-runner__optionIndex">{optionLabel(optionIndex)}</span>
+                            <span className="banking-runner__optionText">
+                              <RichText
+                                value={option}
+                                html={currentQuestion?.optionsHtml?.[optionIndex] || currentQuestion?.options_html?.[optionIndex]}
+                                segments={optionSegments}
+                              />
+                            </span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  )}
 
-                  {currentAnswerIsSelected ? (
+                  {showReviewContent && currentAnswerIsSelected ? (
                     <div className={`banking-runner__explanation ${currentAnswerIsCorrect ? "correct" : "wrong"}`}>
                       <div className="banking-runner__explanationHead">
-                        <strong>{currentAnswerIsCorrect ? "Correct answer" : `Wrong answer. Correct option: ${optionLabel(Number(currentCorrectAnswer))}`}</strong>
+                        <strong>
+                          {currentAnswerIsCorrect ? "Correct answer" : "Review answer"}
+                          {" "}
+                          {currentQuestionType === "NAT" ? `: ${currentCorrectAnswer}` : currentAnswerIsCorrect ? "" : `: ${optionLabel(Number(currentCorrectAnswer))}`}
+                        </strong>
                         <span>{currentAnswerIsCorrect ? "Your choice matches the key." : "Review the solution below."}</span>
                       </div>
                       <div className="banking-runner__explanationBody">
@@ -597,6 +677,39 @@ export default function BankingPracticeRunner() {
                           segments={currentQuestion?.explanationRich}
                         />
                       </div>
+                      {Array.isArray(currentQuestion?.solutionAssets) && currentQuestion.solutionAssets.length > 0 ? (
+                        <div className="banking-runner__solutionAssets">
+                          <div className="banking-runner__label">Solution Images</div>
+                          <div className="banking-runner__assetGrid">
+                            {currentQuestion.solutionAssets.map((assetUrl, assetIndex) => (
+                              <div className="banking-runner__solutionAsset" key={`solution-${assetIndex}`}>
+                                <img src={assetUrl} alt={`Solution asset ${assetIndex + 1}`} loading="lazy" />
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      ) : null}
+                      {currentQuestion?.videoSolutionUrl ? (
+                        <div className="banking-runner__videoSolution">
+                          <a href={currentQuestion.videoSolutionUrl} target="_blank" rel="noreferrer" className="banking-runner__button banking-runner__button--secondary">
+                            Watch Video Solution
+                          </a>
+                        </div>
+                      ) : null}
+                      {Array.isArray(currentQuestion?.sourceLinks) && currentQuestion.sourceLinks.length > 0 ? (
+                        <div className="banking-runner__sourceLinks">
+                          {currentQuestion.sourceLinks.map((link, linkIndex) => {
+                            const href = link.href.startsWith("http") || link.href.startsWith("/")
+                              ? link.href
+                              : `/documents/${encodeURI(link.href)}`;
+                            return (
+                              <a key={`pdf-link-${linkIndex}`} href={href} target="_blank" rel="noreferrer" className="banking-runner__pdfLink">
+                                Open PDF Page {link.page || linkIndex + 1}
+                              </a>
+                            );
+                          })}
+                        </div>
+                      ) : null}
                     </div>
                   ) : null}
                 </article>
@@ -760,11 +873,12 @@ function deriveQuestionState(index, answers, meta) {
   const details = meta[index];
   const visited = Boolean(details?.visited);
   const markedForReview = Boolean(details?.markedForReview);
+  const hasAnswer = selectedAnswer !== undefined && selectedAnswer !== null && String(selectedAnswer).trim() !== "";
 
   if (markedForReview) {
     return "marked";
   }
-  if (selectedAnswer !== undefined && selectedAnswer !== null) {
+  if (hasAnswer) {
     return "answered";
   }
   if (visited) {
@@ -818,6 +932,44 @@ function formatStateLabel(state) {
     default:
       return "Not Visited";
   }
+}
+
+function normalizeNatAnswer(value) {
+  if (value === undefined || value === null) {
+    return "";
+  }
+  return String(value)
+    .replace(/[()]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+function parseNatRange(value) {
+  const normalized = normalizeNatAnswer(value);
+  const match = normalized.match(/^(?<min>-?\d+(?:\.\d+)?)\s*to\s*(?<max>-?\d+(?:\.\d+)?)/);
+  if (!match) {
+    return null;
+  }
+  return {
+    min: Number(match.groups.min),
+    max: Number(match.groups.max)
+  };
+}
+
+function isQuestionAnswerCorrect(question, selectedAnswer, correctAnswer) {
+  const questionType = question?.questionType || question?.question_type || "MCQ";
+  if (questionType === "NAT") {
+    const selectedNorm = normalizeNatAnswer(selectedAnswer);
+    const correctNorm = normalizeNatAnswer(correctAnswer);
+    const range = parseNatRange(correctAnswer);
+    if (range) {
+      const selectedNum = Number(selectedNorm);
+      return !Number.isNaN(selectedNum) && selectedNum >= range.min && selectedNum <= range.max;
+    }
+    return selectedNorm === correctNorm;
+  }
+  return Number(selectedAnswer) === Number(correctAnswer);
 }
 
 function extractExplanation(question = {}) {

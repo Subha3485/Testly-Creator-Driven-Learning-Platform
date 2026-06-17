@@ -8,6 +8,8 @@ import AdminDashboard from "./admin/AdminDashboard";
 import BankingPage from "./pages/BankingPage";
 import BankingPracticePage from "./pages/BankingPracticePage";
 import BankingPracticeRunner from "./pages/BankingPracticeRunner";
+import GatePage from "./pages/GatePage";
+import GatePracticePage from "./pages/GatePracticePage";
 import FeedPage from "./pages/FeedPage";
 import TeacherProfilePage from "./pages/TeacherProfilePage";
 import CourseCatalogPage from "./pages/CourseCatalogPage";
@@ -17,7 +19,7 @@ import StudentDashboard from "./pages/StudentDashboard";
 
 function AppShell() {
   const location = useLocation();
-  const hideHeader = location.pathname.startsWith("/banking/practice/run/test");
+  const hideHeader = location.pathname.startsWith("/banking/practice/run/test") || location.pathname.startsWith("/gate/practice/run/test");
 
   return (
     <div className={`page ${hideHeader ? 'page--fullscreen' : ''}`}>
@@ -34,6 +36,7 @@ function AppShell() {
             <NavLink to="/community">Community</NavLink>
             <NavLink to="/dashboard">Dashboard</NavLink>
             <NavLink to="/banking">Banking</NavLink>
+            <NavLink to="/gate">GATE</NavLink>
             <NavLink to="/admin">Admin</NavLink>
           </nav>
         </header>
@@ -49,6 +52,9 @@ function AppShell() {
         <Route path="/banking/practice/run/test" element={<BankingPracticeRunner />} />
         <Route path="/banking/practice/*" element={<BankingPracticePage />} />
         <Route path="/banking/*" element={<BankingPage />} />
+        <Route path="/gate/practice/run/test" element={<BankingPracticeRunner />} />
+        <Route path="/gate/practice/*" element={<GatePracticePage />} />
+        <Route path="/gate/*" element={<GatePage />} />
         <Route path="/admin/*" element={<AdminDashboard />} />
         <Route path="/solution/*" element={<SolutionPage />} />
         <Route path="/home-design" element={<HomeDesign />} />
