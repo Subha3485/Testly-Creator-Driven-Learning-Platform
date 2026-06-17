@@ -1,10 +1,13 @@
 import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { api } from "../lib/api";
 
 export default function TestSeriesPage() {
   const [sets, setSets] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     async function load() {
@@ -44,7 +47,7 @@ export default function TestSeriesPage() {
               <p>{set.questionCount} questions</p>
               <div className="series-card__footer">
                 <span>{set.title}</span>
-                <button type="button" className="primary" onClick={() => window.location.assign(`/banking/practice/run/test?topic=${encodeURIComponent(set.topic)}&mode=practice`)}>
+                <button type="button" className="primary" onClick={() => navigate(`/tests?setId=${encodeURIComponent(set.id || set.topic)}`)}>
                   Start
                 </button>
               </div>

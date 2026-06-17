@@ -3,23 +3,37 @@ import { BrowserRouter, Routes, Route, NavLink, Navigate, useLocation } from "re
 import TestPage from "./pages/TestPage";
 import HomeDesign from "./pages/HomeDesign";
 import HomePage from "./pages/HomePage";
+import HomePageImproved from "./pages/HomePageImproved";
 import SolutionPage from "./pages/SolutionPage";
 import AdminDashboard from "./admin/AdminDashboard";
 import BankingPage from "./pages/BankingPage";
-import BankingPracticePage from "./pages/BankingPracticePage";
-import BankingPracticeRunner from "./pages/BankingPracticeRunner";
 import GatePage from "./pages/GatePage";
-import GatePracticePage from "./pages/GatePracticePage";
 import FeedPage from "./pages/FeedPage";
 import TeacherProfilePage from "./pages/TeacherProfilePage";
 import CourseCatalogPage from "./pages/CourseCatalogPage";
-import TestSeriesPage from "./pages/TestSeriesPage";
 import CommunityPage from "./pages/CommunityPage";
 import StudentDashboard from "./pages/StudentDashboard";
 
+function LegacyPracticeRedirect() {
+  const location = useLocation();
+  const params = new URLSearchParams(location.search);
+  const topic = params.get("topic") || "";
+  const setId = params.get("setId") || params.get("testId") || "";
+  const mode = params.get("mode") || "practice";
+  const defaultExam = location.pathname.startsWith("/gate/practice") ? "GATE" : "BANKING";
+
+  const nextQuery = new URLSearchParams();
+  if (topic) nextQuery.set("topic", topic);
+  if (setId) nextQuery.set("setId", setId);
+  if (mode) nextQuery.set("mode", mode);
+  nextQuery.set("examTarget", defaultExam);
+
+  return <Navigate to={`/tests?${nextQuery.toString()}`} replace />;
+}
+
 function AppShell() {
   const location = useLocation();
-  const hideHeader = location.pathname.startsWith("/banking/practice/run/test") || location.pathname.startsWith("/gate/practice/run/test");
+  const hideHeader = location.pathname === "/";
 
   return (
     <div className={`page ${hideHeader ? 'page--fullscreen' : ''}`}>
@@ -43,17 +57,18 @@ function AppShell() {
       )}
 
       <Routes>
-        <Route path="/" element={<FeedPage />} />
+        <Route path="/" element={<HomePageImproved />} />
+        <Route path="/feed" element={<FeedPage />} />
         <Route path="/teachers/:id" element={<TeacherProfilePage />} />
         <Route path="/courses" element={<CourseCatalogPage />} />
-        <Route path="/tests" element={<TestSeriesPage />} />
+        <Route path="/tests" element={<TestPage />} />
         <Route path="/community" element={<CommunityPage />} />
         <Route path="/dashboard" element={<StudentDashboard />} />
-        <Route path="/banking/practice/run/test" element={<BankingPracticeRunner />} />
-        <Route path="/banking/practice/*" element={<BankingPracticePage />} />
+        <Route path="/banking/practice/run/test" element={<LegacyPracticeRedirect />} />
+        <Route path="/banking/practice/*" element={<LegacyPracticeRedirect />} />
         <Route path="/banking/*" element={<BankingPage />} />
-        <Route path="/gate/practice/run/test" element={<BankingPracticeRunner />} />
-        <Route path="/gate/practice/*" element={<GatePracticePage />} />
+        <Route path="/gate/practice/run/test" element={<LegacyPracticeRedirect />} />
+        <Route path="/gate/practice/*" element={<LegacyPracticeRedirect />} />
         <Route path="/gate/*" element={<GatePage />} />
         <Route path="/admin/*" element={<AdminDashboard />} />
         <Route path="/solution/*" element={<SolutionPage />} />

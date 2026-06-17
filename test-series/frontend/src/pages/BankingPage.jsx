@@ -15,8 +15,8 @@ const MOCK_MODES = [
   {
     key: "practice",
     title: "Practice Mode",
-    description: "Topic-wise Banking Reasoning practice with a per-question stopwatch and local analysis.",
-    href: "/banking/practice"
+    description: "Open the new Banking practice hub with the updated test runner.",
+    href: "/tests?examTarget=BANKING"
   },
   {
     key: "sectional",

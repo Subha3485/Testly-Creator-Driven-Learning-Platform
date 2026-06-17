@@ -15,7 +15,7 @@ export default function GatePracticePage() {
 
     // Redirect to the runner page so the full runner mounts and can load sets/questions.
     nextQuery.set("mode", "practice");
-    window.location.replace(`/gate/practice/run/test?${nextQuery.toString()}`);
+    window.location.replace(`/tests?${nextQuery.toString()}`);
   }, []);
 
   return <p>Opening GATE practice sets...</p>;

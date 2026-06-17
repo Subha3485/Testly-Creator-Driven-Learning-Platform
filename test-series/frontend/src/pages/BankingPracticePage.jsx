@@ -16,7 +16,7 @@ export default function BankingPracticePage() {
     // Redirect to the runner page (test path) so the full runner mounts
     // and can load sets/questions. Include mode=practice by default.
     nextQuery.set("mode", "practice");
-    window.location.replace(`/banking/practice/run/test?${nextQuery.toString()}`);
+    window.location.replace(`/tests?${nextQuery.toString()}`);
   }, []);
 
   return <p>Opening practice sets...</p>;

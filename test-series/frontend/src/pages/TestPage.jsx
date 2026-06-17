@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useLocation } from "react-router-dom";
 import RichText from "../components/RichText";
 import { api } from "../lib/api";
 
@@ -36,11 +37,19 @@ export default function TestPage() {
   const [userId, setUserId] = useState("demo-user");
   const [examTarget, setExamTarget] = useState(initialSearch.get("examTarget") || "SSC");
   const [tests, setTests] = useState([]);
+  const location = useLocation();
+  const searchParams = useMemo(() => new URLSearchParams(location.search), [location.search]);
+  const queryTopic = searchParams.get("topic") || searchParams.get("practiceTopic") || "";
+  const querySetId = searchParams.get("setId") || searchParams.get("practiceSetId") || "";
+
+  const [practiceSets, setPracticeSets] = useState([]);
+  const [selectedPracticeSetId, setSelectedPracticeSetId] = useState(querySetId);
   const [selectedTestId, setSelectedTestId] = useState(initialSearch.get("testId") || "");
   const [testData, setTestData] = useState(null);
   const [answers, setAnswers] = useState({});
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [reviewedQuestions, setReviewedQuestions] = useState([]);
+  const [autoPracticeLoaded, setAutoPracticeLoaded] = useState(false);
   const [visitedQuestions, setVisitedQuestions] = useState([]);
   const [activeSection, setActiveSection] = useState("All");
   const [testPhase, setTestPhase] = useState("idle");
@@ -51,6 +60,8 @@ export default function TestPage() {
   const [analytics, setAnalytics] = useState(null);
   const [weakTopics, setWeakTopics] = useState([]);
   const [flagState, setFlagState] = useState({ loading: false, message: "" });
+  const [practiceSetsLoading, setPracticeSetsLoading] = useState(true);
+  const [practiceSetsError, setPracticeSetsError] = useState("");
   const autoReattemptStartedRef = useRef(false);
   const shouldAutoStartReattempt = initialSearch.get("reattempt") === "1";
 
@@ -58,6 +69,11 @@ export default function TestPage() {
     loadCatalog();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [examTarget]);
+
+  useEffect(() => {
+    loadPracticeSets();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   useEffect(() => {
     if (!userId) {
@@ -143,6 +159,22 @@ export default function TestPage() {
     }
   }
 
+  async function loadPracticeSets() {
+    try {
+      setPracticeSetsLoading(true);
+      setPracticeSetsError("");
+      const response = examTarget === "GATE"
+        ? await api.getGatePracticeSets()
+        : await api.getBankingPracticeSets();
+      setPracticeSets(response?.sets || []);
+    } catch (err) {
+      setPracticeSets([]);
+      setPracticeSetsError(err.message || "Failed to load practice sets");
+    } finally {
+      setPracticeSetsLoading(false);
+    }
+  }
+
   async function startTest(testId = selectedTestId) {
     if (!testId) {
       setError("Choose a test first");
@@ -168,6 +200,49 @@ export default function TestPage() {
       setLoading(false);
     }
   }
+
+  async function startPracticeSet(setId) {
+    if (!setId) {
+      setError("Practice set not found");
+      return;
+    }
+
+    try {
+      setError("");
+      setLoading(true);
+      const data = await api.getBankingPracticeSetQuestions(setId);
+      setTestData(data);
+      setSelectedPracticeSetId(setId);
+      setAnswers({});
+      setCurrentQuestionIndex(0);
+      setReviewedQuestions([]);
+      setVisitedQuestions([]);
+      setActiveSection("All");
+      setTestPhase("instructions");
+      setSecondsLeft((data.duration || 0) * 60);
+      setStartEpoch(0);
+    } catch (err) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  useEffect(() => {
+    if (autoPracticeLoaded || testData || practiceSetsLoading || practiceSets.length === 0) {
+      return;
+    }
+
+    const normalizedTopic = queryTopic.trim().toLowerCase();
+    const selected = practiceSets.find((set) => set.id === querySetId)
+      || practiceSets.find((set) => set.id.toLowerCase() === normalizedTopic)
+      || practiceSets.find((set) => set.topic.toLowerCase() === normalizedTopic);
+
+    if (selected) {
+      setAutoPracticeLoaded(true);
+      startPracticeSet(selected.id);
+    }
+  }, [autoPracticeLoaded, testData, practiceSetsLoading, practiceSets, querySetId, queryTopic]);
 
   function updateAnswer(questionIndex, optionIndex) {
     setAnswers((prev) => ({ ...prev, [questionIndex]: optionIndex }));
@@ -662,6 +737,38 @@ export default function TestPage() {
       </section>
 
       <section className="section-block">
+        <div className="section-block__head">
+          <h2>Available sets</h2>
+          <p>{practiceSetsLoading ? "Loading tests..." : `${practiceSets.length} practice sets`}</p>
+        </div>
+
+        {practiceSetsError ? (
+          <div className="card" style={{ padding: 18, background: "#ffecec", color: "#8a1f1f" }}>
+            {practiceSetsError}
+          </div>
+        ) : null}
+
+        <div className="series-grid">
+          {practiceSets.map((set) => (
+            <article key={set.id || set.topic} className="series-card card">
+              <strong>{set.topic}</strong>
+              <p>{set.questionCount} questions</p>
+              <div className="series-card__footer">
+                <span>{set.title}</span>
+                <button
+                  type="button"
+                  className="primary"
+                  onClick={() => startPracticeSet(set.id || set.topic)}
+                >
+                  Start
+                </button>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="section-block">
         <div className="row spread section-block__head">
           <div>
             <div className="label">Popular test series</div>
@@ -670,7 +777,7 @@ export default function TestPage() {
           <button
             className="secondary"
             type="button"
-            onClick={() => window.location.assign(examTarget === "BANKING" ? "/banking/practice" : "/")}
+            onClick={() => window.location.assign(`/tests?examTarget=${encodeURIComponent(examTarget)}`)}
           >
             Explore more
           </button>

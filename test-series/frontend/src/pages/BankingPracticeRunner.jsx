@@ -38,6 +38,7 @@ export default function BankingPracticeRunner() {
   const [flagResult, setFlagResult] = useState("");
   const [paletteFilter, setPaletteFilter] = useState("all");
   const [sessionResult, setSessionResult] = useState(null);
+  const [failedImages, setFailedImages] = useState(new Set());
   const finishingRef = useRef(false);
 
   useEffect(() => {
@@ -181,6 +182,7 @@ export default function BankingPracticeRunner() {
       setLoading(true);
       setError("");
       setSessionResult(null);
+      setFailedImages(new Set());
       finishingRef.current = false;
 
       const fullTest = requestedTestId
@@ -223,6 +225,7 @@ export default function BankingPracticeRunner() {
 
   function beginAttempt() {
     setSessionResult(null);
+    setFailedImages(new Set());
     setAttemptStarted(true);
     setQuestionTimeByIndex({});
     setCurrentQuestionTimeSeconds(0);
@@ -380,6 +383,7 @@ export default function BankingPracticeRunner() {
 
   function restartAttempt() {
     setSessionResult(null);
+    setFailedImages(new Set());
     setAttemptStarted(false);
     setCurrentIndex(0);
     setAnswers({});
@@ -412,7 +416,7 @@ export default function BankingPracticeRunner() {
             <div>
               <div className="label">Practice Analysis</div>
               <h1>{sessionResult.testTitle}</h1>
-              <p>{isPracticeMode ? "Practice stopwatch summary with per-question timing." : "Full-length summary with global timer and per-question timing."}</p>
+              <p>{isPracticeMode ? "Practice stoatch summary with per-question timing." : "Full-length summary with global timer and per-question timing."}</p>
             </div>
             <div className="banking-runner__analysisPills">
               <span className="banking-runner__chip">Mode: {isPracticeMode ? "Practice" : "Full Length"}</span>
@@ -564,12 +568,13 @@ export default function BankingPracticeRunner() {
                       html={currentQuestionHtml}
                       segments={currentQuestion?.questionRich}
                     />
-                    {currentQuestionImageUrl ? (
+                    {currentQuestionImageUrl && !failedImages.has(currentQuestionImageUrl) ? (
                       <div className="banking-runner__questionImage">
                         <img 
                           src={currentQuestionImageUrl} 
                           alt={currentQuestion?.image?.alt || "Question visual aid"} 
                           loading="lazy"
+                          onError={() => setFailedImages(prev => new Set([...prev, currentQuestionImageUrl]))}
                         />
                       </div>
                     ) : null}

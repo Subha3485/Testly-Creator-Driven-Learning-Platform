@@ -13,8 +13,8 @@ const MOCK_MODES = [
   {
     key: "practice",
     title: "Practice Mode",
-    description: "Topic-wise GATE PYQ practice with a per-question stopwatch and local analysis.",
-    href: "/gate/practice"
+    description: "Open the new GATE practice hub with the updated test runner.",
+    href: "/tests?examTarget=GATE"
   },
   {
     key: "sectional",
@@ -57,7 +57,7 @@ export default function GatePage() {
 
   const handleStart = (set) => {
     const id = typeof set === "string" ? set : set.id;
-    window.location.assign(`/gate/practice/run/test?setId=${encodeURIComponent(id)}&mode=practice`);
+    window.location.assign(`/tests?setId=${encodeURIComponent(id)}&examTarget=GATE`);
   };
 
   return (

@@ -107,7 +107,7 @@ export default function HomePage() {
   const handleTopicClick = (topic) => {
     // Open the actual practice page for the selected topic
     const topicName = typeof topic === "string" ? topic : topic.name || topic.topic;
-    window.location.assign(`/banking/practice/run/test?topic=${encodeURIComponent(topicName)}&mode=practice`);
+    window.location.assign(`/tests?topic=${encodeURIComponent(topicName)}`);
   };
 
   const handleSelectSubject = (key) => {

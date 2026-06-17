@@ -62,9 +62,8 @@ function serveFrontendBuild() {
 }
 
 async function startServer() {
-	if (process.env.NODE_ENV === "production") {
-		serveFrontendBuild();
-	}
+	// Always serve frontend build if it exists
+	serveFrontendBuild();
 
 	app.listen(PORT, () => {
 		// eslint-disable-next-line no-console

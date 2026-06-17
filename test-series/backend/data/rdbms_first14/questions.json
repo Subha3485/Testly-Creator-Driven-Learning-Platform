@@ -38,16 +38,16 @@
     "answer_explanation": "Arity (Degree): Number of Attributes/fields\n\nCardinality: Number of Tuples/Records",
     "solution": "Arity (Degree): Number of Attributes/fields\n\nCardinality: Number of Tuples/Records",
     "solution_html": "Arity (Degree): Number of Attributes/fields<br><br>Cardinality: Number of Tuples/Records",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/dff093e1-0057-483b-83bd-72a35843866d",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/dff093e1-0057-483b-83bd-72a35843866d",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         11
       ],
       "page_links": [
         {
           "page": 11,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=11"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=11"
         }
       ]
     },
@@ -305,16 +305,16 @@
     "answer_explanation": "In order for Student Name, Student Age to be the key, it must be unique, therefore the value of X ≠ 19 satisfies the criteria of Student Name, Student Age being the key.\n\nHence, 19 is the answer.",
     "solution": "In order for Student Name, Student Age to be the key, it must be unique, therefore the value of X ≠ 19 satisfies the criteria of Student Name, Student Age being the key.\n\nHence, 19 is the answer.",
     "solution_html": "In order for Student Name, Student Age to be the key, it must be unique, therefore the value of X ≠ 19 satisfies the criteria of Student Name, Student Age being the key.<br><br>Hence, 19 is the answer.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/18788dbb-862a-4290-9d0a-41d1e2bebaf3",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/18788dbb-862a-4290-9d0a-41d1e2bebaf3",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         11
       ],
       "page_links": [
         {
           "page": 11,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=11"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=11"
         }
       ]
     },
@@ -1049,16 +1049,16 @@
     "answer_explanation": "Prime attribute is a attribute that is present in some candidate key of a relation.\n\nExample: Consider for relation R(ABCDE) if the candidate keys are AC, and BC, then the set of prime attributes are {A, B, C}.",
     "solution": "Prime attribute is a attribute that is present in some candidate key of a relation.\n\nExample: Consider for relation R(ABCDE) if the candidate keys are AC, and BC, then the set of prime attributes are {A, B, C}.",
     "solution_html": "Prime attribute is a attribute that is present in some candidate key of a relation.<br><br>Example: Consider for relation R(ABCDE) if the candidate keys are AC, and BC, then the set of prime attributes are {A, B, C}.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/123c1b22-35b4-4810-a645-f9a788215f24",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/123c1b22-35b4-4810-a645-f9a788215f24",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         11
       ],
       "page_links": [
         {
           "page": 11,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=11"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=11"
         }
       ]
     },
@@ -1269,16 +1269,16 @@
     "answer_explanation": "(a) BankAccount_Num is a candidate key: Incorrect.\n\nBecause a student can have multiple account and joint account.\n\nExample\n\nAssume 2 person Ramesh and Suresh have joint account they both have some account number in a primary account number. So, Bank account number can not uniquely determine and Bank account cannot be candidate key.\n\n(b) Registration number can be primary key: True. Because registration number is a unique for each registered student. So, it can be uniquely determining each tuple of relation.\n\n(c) UID is a candidate if all student is from same country: correct. Because UID is unique at National level.\n\nExample\n\nIndian Aadhar card is unique for each person in India.\n\n(d) If S is a super key, then S ∪ UID is also super key: correct. Because any super set of super keys is also super key.",
     "solution": "(a) BankAccount_Num is a candidate key: Incorrect.\n\nBecause a student can have multiple account and joint account.\n\nExample\n\nAssume 2 person Ramesh and Suresh have joint account they both have some account number in a primary account number. So, Bank account number can not uniquely determine and Bank account cannot be candidate key.\n\n(b) Registration number can be primary key: True. Because registration number is a unique for each registered student. So, it can be uniquely determining each tuple of relation.\n\n(c) UID is a candidate if all student is from same country: correct. Because UID is unique at National level.\n\nExample\n\nIndian Aadhar card is unique for each person in India.\n\n(d) If S is a super key, then S ∪ UID is also super key: correct. Because any super set of super keys is also super key.",
     "solution_html": "(a) BankAccount_Num is a candidate key: Incorrect.<br><br>Because a student can have multiple account and joint account.<br><br>Example<br><br>Assume 2 person Ramesh and Suresh have joint account they both have some account number in a primary account number. So, Bank account number can not uniquely determine and Bank account cannot be candidate key.<br><br>(b) Registration number can be primary key: True. Because registration number is a unique for each registered student. So, it can be uniquely determining each tuple of relation.<br><br>(c) UID is a candidate if all student is from same country: correct. Because UID is unique at National level.<br><br>Example<br><br>Indian Aadhar card is unique for each person in India.<br><br>(d) If S is a super key, then S ∪ UID is also super key: correct. Because any super set of super keys is also super key.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/2dcc942f-ef6e-4e07-81cb-e5f29a8fb5eb",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/2dcc942f-ef6e-4e07-81cb-e5f29a8fb5eb",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         11
       ],
       "page_links": [
         {
           "page": 11,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=11"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=11"
         }
       ]
     },
@@ -1848,9 +1848,9 @@
     "answer_explanation": "A relation scheme can have zero or more foreign key.\n\nA foreign key in a relation scheme R can be used to refer to tuples of R.",
     "solution": "A relation scheme can have zero or more foreign key.\n\nA foreign key in a relation scheme R can be used to refer to tuples of R.",
     "solution_html": "A relation scheme can have zero or more foreign key.<br><br>A foreign key in a relation scheme R can be used to refer to tuples of R.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/7fecfd14-e8a1-4369-8637-ea9ab57498f8",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/7fecfd14-e8a1-4369-8637-ea9ab57498f8",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         11,
         12
@@ -1858,11 +1858,11 @@
       "page_links": [
         {
           "page": 11,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=11"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=11"
         },
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         }
       ]
     },
@@ -2191,16 +2191,16 @@
     "answer_explanation": "On delete cascade: Whenever primary key is deleted from referenced (parent) table then that related value (Tuple/Row) (that primary key value) from referencing (CHILD table) has to be deleted.\n\nOn delete set NULL: Whenever primary key is deleted from reference (parent) table then that related value (Tuple/Row) in referencing [CHILD table (which contain foreign key)] is set to NULL.\n\nBy default foreign key references to the primary key of referenced relation.",
     "solution": "On delete cascade: Whenever primary key is deleted from referenced (parent) table then that related value (Tuple/Row) (that primary key value) from referencing (CHILD table) has to be deleted.\n\nOn delete set NULL: Whenever primary key is deleted from reference (parent) table then that related value (Tuple/Row) in referencing [CHILD table (which contain foreign key)] is set to NULL.\n\nBy default foreign key references to the primary key of referenced relation.",
     "solution_html": "On delete cascade: Whenever primary key is deleted from referenced (parent) table then that related value (Tuple/Row) (that primary key value) from referencing (CHILD table) has to be deleted.<br><br>On delete set NULL: Whenever primary key is deleted from reference (parent) table then that related value (Tuple/Row) in referencing [CHILD table (which contain foreign key)] is set to NULL.<br><br>By default foreign key references to the primary key of referenced relation.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/cadd680e-931c-49b4-ba37-2c51d5be969b",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/cadd680e-931c-49b4-ba37-2c51d5be969b",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         12
       ],
       "page_links": [
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         }
       ]
     },
@@ -2728,16 +2728,16 @@
     "answer_explanation": "Statement S1 is false as a foreign key declaration cannot be replaced by check assertion in SQL, because foreign key may have duplicate and Null values and having ON DELETE cascade operation then if any primary key deleted from referential relation then the referential integrity constraint may not be maintained.\n\nStatement S2: R(a b c). Here ab is primary key. S(a d e). Primary key: d, foreign key a references R, foreign key reference to the primary key of referenced relation R. But in referenced relation ab is primary key, only a is not a primary key so here foreign key 'a' not references key (ab) of referenced relation R. therefore S2 is false.",
     "solution": "Statement S1 is false as a foreign key declaration cannot be replaced by check assertion in SQL, because foreign key may have duplicate and Null values and having ON DELETE cascade operation then if any primary key deleted from referential relation then the referential integrity constraint may not be maintained.\n\nStatement S2: R(a b c). Here ab is primary key. S(a d e). Primary key: d, foreign key a references R, foreign key reference to the primary key of referenced relation R. But in referenced relation ab is primary key, only a is not a primary key so here foreign key 'a' not references key (ab) of referenced relation R. therefore S2 is false.",
     "solution_html": "Statement S1 is false as a foreign key declaration cannot be replaced by check assertion in SQL, because foreign key may have duplicate and Null values and having ON DELETE cascade operation then if any primary key deleted from referential relation then the referential integrity constraint may not be maintained.<br><br>Statement S2: R(a b c). Here ab is primary key. S(a d e). Primary key: d, foreign key a references R, foreign key reference to the primary key of referenced relation R. But in referenced relation ab is primary key, only a is not a primary key so here foreign key 'a' not references key (ab) of referenced relation R. therefore S2 is false.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/d6d13502-c536-4a45-845a-cc874e6ca283",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/d6d13502-c536-4a45-845a-cc874e6ca283",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         12
       ],
       "page_links": [
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         }
       ]
     },
@@ -3185,16 +3185,16 @@
     "answer_explanation": "The relationship between strong entity set and weak entity set is represented by double/bold diamond.",
     "solution": "The relationship between strong entity set and weak entity set is represented by double/bold diamond.",
     "solution_html": "The relationship between strong entity set and weak entity set is represented by double/bold diamond.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/57b21112-742a-41a2-9996-414626ed1e85",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/57b21112-742a-41a2-9996-414626ed1e85",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         12
       ],
       "page_links": [
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         }
       ]
     },
@@ -3485,16 +3485,16 @@
     "answer_explanation": "Cardinality of E1 > Cardinality of E2\n\n(a) Correct. Every entity of E1 is associated with exactly one entity in E2. (∵ its total participation and many to one from E1 to E2).\n\n(b) Incorrect. Because mention some entity in E1 but here total participation and mention more than one entity in E2 but here many to one (of E2 side).\n\n(c) Incorrect. Because there is a many to one from E1 to E2, not from E2 to E1.\n\n(d) Incorrect. Because there is a many to one from E1 to E2.",
     "solution": "Cardinality of E1 > Cardinality of E2\n\n(a) Correct. Every entity of E1 is associated with exactly one entity in E2. (∵ its total participation and many to one from E1 to E2).\n\n(b) Incorrect. Because mention some entity in E1 but here total participation and mention more than one entity in E2 but here many to one (of E2 side).\n\n(c) Incorrect. Because there is a many to one from E1 to E2, not from E2 to E1.\n\n(d) Incorrect. Because there is a many to one from E1 to E2.",
     "solution_html": "Cardinality of E1 &gt; Cardinality of E2<br><br>(a) Correct. Every entity of E1 is associated with exactly one entity in E2. (∵ its total participation and many to one from E1 to E2).<br><br>(b) Incorrect. Because mention some entity in E1 but here total participation and mention more than one entity in E2 but here many to one (of E2 side).<br><br>(c) Incorrect. Because there is a many to one from E1 to E2, not from E2 to E1.<br><br>(d) Incorrect. Because there is a many to one from E1 to E2.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/01039d49-e492-4297-a586-9be8e91f3f8f",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/01039d49-e492-4297-a586-9be8e91f3f8f",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         12
       ],
       "page_links": [
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         }
       ]
     },
@@ -4250,9 +4250,9 @@
     "answer_explanation": "Relationship R is many to one and participation of A in R is total.",
     "solution": "Relationship R is many to one and participation of A in R is total.",
     "solution_html": "Relationship R is many to one and participation of A in R is total.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/d1f6408e-3a72-4246-9255-419dcbff94f6",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/d1f6408e-3a72-4246-9255-419dcbff94f6",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         12,
         13
@@ -4260,11 +4260,11 @@
       "page_links": [
         {
           "page": 12,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=12"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=12"
         },
         {
           "page": 13,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=13"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=13"
         }
       ]
     },
@@ -4956,16 +4956,16 @@
     "answer_explanation": "R12 is many to many relationships between E1 and E2. So, separate table is created.\n\nE1 (a11 a12)    E2 (a21 a22)\nR12 (a11 a21)\n\na11 → a12\na21 → a22\n\nE3 R13(a31 a32 a11) a31 → a32a11\n\n3NF (Third normal form): Let R be the relational schema and X → Y is non trivial FD is in 3NF if X is a super key or Y is prime attribute.\n\nE1 (a11 a12) a11 → a12\nE2 (a21 a22) a21 → a22\nR12 (a11a21)\nE3R13 (a31 a32 a11)a31 → a32a11\n\nX is a super key. So, R is in 3NF.\n\nMinimum 4 table required.",
     "solution": "R12 is many to many relationships between E1 and E2. So, separate table is created.\n\nE1 (a11 a12)    E2 (a21 a22)\nR12 (a11 a21)\n\na11 → a12\na21 → a22\n\nE3 R13(a31 a32 a11) a31 → a32a11\n\n3NF (Third normal form): Let R be the relational schema and X → Y is non trivial FD is in 3NF if X is a super key or Y is prime attribute.\n\nE1 (a11 a12) a11 → a12\nE2 (a21 a22) a21 → a22\nR12 (a11a21)\nE3R13 (a31 a32 a11)a31 → a32a11\n\nX is a super key. So, R is in 3NF.\n\nMinimum 4 table required.",
     "solution_html": "R12 is many to many relationships between E1 and E2. So, separate table is created.<br><br>E1 (a11 a12)    E2 (a21 a22)<br>R12 (a11 a21)<br><br>a11 → a12<br>a21 → a22<br><br>E3 R13(a31 a32 a11) a31 → a32a11<br><br>3NF (Third normal form): Let R be the relational schema and X → Y is non trivial FD is in 3NF if X is a super key or Y is prime attribute.<br><br>E1 (a11 a12) a11 → a12<br>E2 (a21 a22) a21 → a22<br>R12 (a11a21)<br>E3R13 (a31 a32 a11)a31 → a32a11<br><br>X is a super key. So, R is in 3NF.<br><br>Minimum 4 table required.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/237a21ed-ca18-4228-94b3-c5ea6c4457d0",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/237a21ed-ca18-4228-94b3-c5ea6c4457d0",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         13
       ],
       "page_links": [
         {
           "page": 13,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=13"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=13"
         }
       ]
     },
@@ -5884,16 +5884,16 @@
     "answer_explanation": "(a) Statement given is correct with respect to ER diagram.\n\n(b) Statement given is correct with respect to ER diagram.\n\n(c) In ER diagram multivalued attribute and composite attribute both are allowed, but in RDBMS Multivalued attribute and composite attribute are not allowed.\n\nEach Tuple in RDBMS can have only one value or NULL for each field (Attribute exactly).\n\nSo, option (c) is incorrect.",
     "solution": "(a) Statement given is correct with respect to ER diagram.\n\n(b) Statement given is correct with respect to ER diagram.\n\n(c) In ER diagram multivalued attribute and composite attribute both are allowed, but in RDBMS Multivalued attribute and composite attribute are not allowed.\n\nEach Tuple in RDBMS can have only one value or NULL for each field (Attribute exactly).\n\nSo, option (c) is incorrect.",
     "solution_html": "(a) Statement given is correct with respect to ER diagram.<br><br>(b) Statement given is correct with respect to ER diagram.<br><br>(c) In ER diagram multivalued attribute and composite attribute both are allowed, but in RDBMS Multivalued attribute and composite attribute are not allowed.<br><br>Each Tuple in RDBMS can have only one value or NULL for each field (Attribute exactly).<br><br>So, option (c) is incorrect.",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/4380a364-88cb-4820-bdb0-5396a604343c",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/4380a364-88cb-4820-bdb0-5396a604343c",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         13
       ],
       "page_links": [
         {
           "page": 13,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=13"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=13"
         }
       ]
     },
@@ -6172,16 +6172,16 @@
     "answer_explanation": "MR1P ⇒ many to one and total participation at many side\n\nMR1(M1M2 M3P1), here P1 is a foreign key\nP(P1 P2)\nNR2(N1N2 P1), here P1 is a foreign key",
     "solution": "MR1P ⇒ many to one and total participation at many side\n\nMR1(M1M2 M3P1), here P1 is a foreign key\nP(P1 P2)\nNR2(N1N2 P1), here P1 is a foreign key",
     "solution_html": "MR1P ⇒ many to one and total participation at many side<br><br>MR1(M1M2 M3P1), here P1 is a foreign key<br>P(P1 P2)<br>NR2(N1N2 P1), here P1 is a foreign key",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/de1068e3-97af-42c7-9034-c51e9c3e3096",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/de1068e3-97af-42c7-9034-c51e9c3e3096",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         13
       ],
       "page_links": [
         {
           "page": 13,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=13"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=13"
         }
       ]
     },
@@ -6416,16 +6416,16 @@
     "answer_explanation": "MR1(M1 M2 M3 P1), here P1 is a foreign key\nP(P1 P2), P1 is primary key\nNR2(N1N2P1), here P1 is a foreign key",
     "solution": "MR1(M1 M2 M3 P1), here P1 is a foreign key\nP(P1 P2), P1 is primary key\nNR2(N1N2P1), here P1 is a foreign key",
     "solution_html": "MR1(M1 M2 M3 P1), here P1 is a foreign key<br>P(P1 P2), P1 is primary key<br>NR2(N1N2P1), here P1 is a foreign key",
-    "video_solution_url": "https://www.api-pw-internal-utilities.in/qr/1368b5ca-2dfb-463e-af75-0a0f6945fed5",
+    "video_solution_url": "https://www.api--internal-utilities.in/qr/1368b5ca-2dfb-463e-af75-0a0f6945fed5",
     "source": {
-      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\PW CS   IT PYQ Topic Wise.pdf",
+      "pdf": "C:\\Users\\subha\\OneDrive\\Documents\\Study metirial\\ CS   IT PYQ Topic Wise.pdf",
       "pages": [
         13
       ],
       "page_links": [
         {
           "page": 13,
-          "href": "PW CS   IT PYQ Topic Wise.pdf#page=13"
+          "href": " CS   IT PYQ Topic Wise.pdf#page=13"
         }
       ]
     },
